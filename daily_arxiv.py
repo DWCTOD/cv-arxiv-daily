@@ -179,11 +179,11 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["SLAM"]                = "SLAM"
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
-    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
-    keywords["Image Matching"]      = "\"Image Matching\""
+    keywords["I2I"]                = "Image to image"
+    #keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
+    #keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
+    #keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
+    #keywords["Image Matching"]      = "\"Image Matching\""
 
     for topic,keyword in keywords.items():
  
