@@ -179,8 +179,8 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["iccv"]                = "SLAM"
-    keywords["iccv"]                 = "SFM"+"OR"+"\"Structure from Motion\""
+    keywords["SLAM"]                = "SLAM"
+    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
     keywords["Image Matching"]      = "\"Image Matching\""
