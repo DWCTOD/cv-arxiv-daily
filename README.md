@@ -1,9 +1,19 @@
-## Updated on 2021.10.27
+## Updated on 2021.10.28
 
 ## I2I
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-27**|**Superfluidity of a laser-stirred Bose-Einstein condensate**|Hannes Kiehn et.al.|[2110.14634v1](http://arxiv.org/abs/2110.14634v1)|null|
+|**2021-10-27**|**Similarity and Matching of Neural Network Representations**|Adrián Csiszárik et.al.|[2110.14633v1](http://arxiv.org/abs/2110.14633v1)|null|
+|**2021-10-27**|**Heterogeneous Effects of Software Patches in a Multiplayer Online Battle Arena Game**|Yuzi He et.al.|[2110.14632v1](http://arxiv.org/abs/2110.14632v1)|null|
+|**2021-10-27**|**Reed-Muller Codes Achieve Capacity on BMS Channels**|Galen Reeves et.al.|[2110.14631v1](http://arxiv.org/abs/2110.14631v1)|null|
+|**2021-10-27**|**The nonlinear anisotropic model of the Universe with tadpole**|Ruslan K. Muharlyamov et.al.|[2110.14630v1](http://arxiv.org/abs/2110.14630v1)|null|
+|**2021-10-27**|**The Importance of Open Data Policy to Tackle Pandemic in Latin America**|Josimar Chire et.al.|[2110.14629v1](http://arxiv.org/abs/2110.14629v1)|null|
+|**2021-10-27**|**(Almost) Free Incentivized Exploration from Decentralized Learning Agents**|Chengshuai Shi et.al.|[2110.14628v1](http://arxiv.org/abs/2110.14628v1)|null|
+|**2021-10-27**|**Controlling morphology in hybrid isotropic/patchy particle assemblies**|Srinivas Mushnoori et.al.|[2110.14627v1](http://arxiv.org/abs/2110.14627v1)|null|
+|**2021-10-27**|**Scalable Bayesian Network Structure Learning with Splines**|Charupriya Sharma et.al.|[2110.14626v1](http://arxiv.org/abs/2110.14626v1)|null|
+|**2021-10-27**|**Entropy-based adaptive Hamiltonian Monte Carlo**|Marcel Hirt et.al.|[2110.14625v1](http://arxiv.org/abs/2110.14625v1)|null|
 |**2021-10-26**|**Cascade of isospin phase transitions in Bernal bilayer graphene at zero magnetic field**|Sergio C. de la Barrera et.al.|[2110.13907v1](http://arxiv.org/abs/2110.13907v1)|null|
 |**2021-10-26**|**$k$-Factorizations of the full cycle and generalized Mahonian statistics on $k$-forest**|John Irving et.al.|[2110.13906v1](http://arxiv.org/abs/2110.13906v1)|null|
 |**2021-10-26**|**Gradient Descent on Two-layer Nets: Margin Maximization and Simplicity Bias**|Kaifeng Lyu et.al.|[2110.13905v1](http://arxiv.org/abs/2110.13905v1)|null|
