@@ -1,9 +1,19 @@
-## Updated on 2021.10.28
+## Updated on 2021.10.29
 
 ## I2I
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-28**|**Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives**|Murtaza Dalal et.al.|[2110.15360v1](http://arxiv.org/abs/2110.15360v1)|null|
+|**2021-10-28**|**Information geometry and holographic correlators**|Hardik Bohra et.al.|[2110.15359v1](http://arxiv.org/abs/2110.15359v1)|null|
+|**2021-10-28**|**Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language**|Mingyu Ding et.al.|[2110.15358v1](http://arxiv.org/abs/2110.15358v1)|null|
+|**2021-10-28**|**Simulated catalogs and maps of radio galaxies at millimeter wavelengths in Websky**|Zack Li et.al.|[2110.15357v1](http://arxiv.org/abs/2110.15357v1)|null|
+|**2021-10-28**|**Towards color-kinematics duality in generic spacetimes**|Allic Sivaramakrishnan et.al.|[2110.15356v1](http://arxiv.org/abs/2110.15356v1)|null|
+|**2021-10-28**|**Explaining Latent Representations with a Corpus of Examples**|Jonathan Crabbé et.al.|[2110.15355v1](http://arxiv.org/abs/2110.15355v1)|**[link](https://github.com/jonathancrabbe/simplex)**|
+|**2021-10-28**|**Insulator-metal quantum phase transition in heavy topological insulators**|Shouvik Sur et.al.|[2110.15353v1](http://arxiv.org/abs/2110.15353v1)|null|
+|**2021-10-28**|**MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning**|Ji Lin et.al.|[2110.15352v1](http://arxiv.org/abs/2110.15352v1)|null|
+|**2021-10-28**|**Action-angle variables of a binary black-hole with arbitrary eccentricity, spins, and masses at 1.5 post-Newtonian order**|Sashwat Tanay et.al.|[2110.15351v1](http://arxiv.org/abs/2110.15351v1)|null|
+|**2021-10-28**|**XDEEP-MSI: Explainable Bias-Rejecting Microsatellite Instability Deep Learning System In Colorectal Cancer**|Aurelia Bustos et.al.|[2110.15350v1](http://arxiv.org/abs/2110.15350v1)|null|
 |**2021-10-27**|**Superfluidity of a laser-stirred Bose-Einstein condensate**|Hannes Kiehn et.al.|[2110.14634v1](http://arxiv.org/abs/2110.14634v1)|null|
 |**2021-10-27**|**Similarity and Matching of Neural Network Representations**|Adrián Csiszárik et.al.|[2110.14633v1](http://arxiv.org/abs/2110.14633v1)|null|
 |**2021-10-27**|**Heterogeneous Effects of Software Patches in a Multiplayer Online Battle Arena Game**|Yuzi He et.al.|[2110.14632v1](http://arxiv.org/abs/2110.14632v1)|null|
