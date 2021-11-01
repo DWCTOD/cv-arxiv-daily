@@ -1,9 +1,19 @@
-## Updated on 2021.10.31
+## Updated on 2021.11.01
 
 ## I2I
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-29**|**Support Recovery with Stochastic Gates: Theory and Application for Linear Models**|Soham Jana et.al.|[2110.15960v1](http://arxiv.org/abs/2110.15960v1)|null|
+|**2021-10-29**|**Large-$N_c$ constraints for elastic dark matter-light nucleus scattering in pionless effective field theory**|Thomas R. Richardson et.al.|[2110.15959v1](http://arxiv.org/abs/2110.15959v1)|null|
+|**2021-10-29**|**NISQ-HHL: Portfolio Optimization for Near-Term Quantum Hardware**|Romina Yalovetzky et.al.|[2110.15958v1](http://arxiv.org/abs/2110.15958v1)|null|
+|**2021-10-29**|**Visual Keyword Spotting with Attention**|K R Prajwal et.al.|[2110.15957v1](http://arxiv.org/abs/2110.15957v1)|null|
+|**2021-10-29**|**A deep convolutional neural network for classification of Aedes albopictus mosquitoes**|Gereziher Adhane et.al.|[2110.15956v1](http://arxiv.org/abs/2110.15956v1)|null|
+|**2021-10-29**|**Wrapped $M5$-branes and complex saddle points**|Pietro Benetti Genolini et.al.|[2110.15955v1](http://arxiv.org/abs/2110.15955v1)|null|
+|**2021-10-29**|**Limiting fluctuation and trajectorial stability of multilayer neural networks with mean field training**|Huy Tuan Pham et.al.|[2110.15954v1](http://arxiv.org/abs/2110.15954v1)|**[link](https://github.com/npminh12/nn-clt)**|
+|**2021-10-29**|**Model-independent Redshift Estimation of BL Lac Objects through VHE Observations**|Malik Zahoor et.al.|[2110.15953v1](http://arxiv.org/abs/2110.15953v1)|null|
+|**2021-10-29**|**On the Performance of Multihop THz Wireless System Over Mixed Channel Fading with Shadowing and Antenna Misalignment**|Pranay Bhardwaj et.al.|[2110.15952v1](http://arxiv.org/abs/2110.15952v1)|null|
+|**2021-10-29**|**Covariant formulation of Generalised Uncertainty Principle**|Raghvendra Singh et.al.|[2110.15951v1](http://arxiv.org/abs/2110.15951v1)|null|
 |**2021-10-28**|**Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives**|Murtaza Dalal et.al.|[2110.15360v1](http://arxiv.org/abs/2110.15360v1)|null|
 |**2021-10-28**|**Information geometry and holographic correlators**|Hardik Bohra et.al.|[2110.15359v1](http://arxiv.org/abs/2110.15359v1)|null|
 |**2021-10-28**|**Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language**|Mingyu Ding et.al.|[2110.15358v1](http://arxiv.org/abs/2110.15358v1)|null|
