@@ -1,9 +1,19 @@
-## Updated on 2021.11.01
+## Updated on 2021.11.02
 
 ## I2I
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-01**|**When Does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?**|Lijie Fan et.al.|[2111.01124v1](http://arxiv.org/abs/2111.01124v1)|null|
+|**2021-11-01**|**Black Hole Images as Tests of General Relativity: Effects of Plasma Physics**|Feryal Ozel et.al.|[2111.01123v1](http://arxiv.org/abs/2111.01123v1)|null|
+|**2021-11-01**|**Stakeholder Participation in AI: Beyond "Add Diverse Stakeholders and Stir"**|Fernando Delgado et.al.|[2111.01122v1](http://arxiv.org/abs/2111.01122v1)|null|
+|**2021-11-01**|**The Scale Invariant Scotogenic Model: Dark Matter and the Scalar Sector**|Rachik Soualah et.al.|[2111.01121v1](http://arxiv.org/abs/2111.01121v1)|null|
+|**2021-11-01**|**The conductance of correlated many-fermion systems from charge fluctuations**|Yuchi He et.al.|[2111.01120v1](http://arxiv.org/abs/2111.01120v1)|null|
+|**2021-11-01**|**Subwavelength precision optical guiding for trapped atoms coupled to a nanophotonic resonator**|Xinchao Zhou et.al.|[2111.01119v1](http://arxiv.org/abs/2111.01119v1)|null|
+|**2021-11-01**|**Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training**|Minguk Kang et.al.|[2111.01118v1](http://arxiv.org/abs/2111.01118v1)|**[link](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)**|
+|**2021-11-01**|**The genericity theorem for the essential dimension of tame stacks**|Giulio Bresciani et.al.|[2111.01117v1](http://arxiv.org/abs/2111.01117v1)|null|
+|**2021-11-01**|**Hypertetrahedral arrangements**|Liena Colarte et.al.|[2111.01116v1](http://arxiv.org/abs/2111.01116v1)|null|
+|**2021-11-01**|**Magnetic-field resilience of 3D transmons with thin-film Al/AlO$_x$/Al Josephson junctions approaching 1 T**|J. Krause et.al.|[2111.01115v1](http://arxiv.org/abs/2111.01115v1)|null|
 |**2021-10-29**|**Support Recovery with Stochastic Gates: Theory and Application for Linear Models**|Soham Jana et.al.|[2110.15960v1](http://arxiv.org/abs/2110.15960v1)|null|
 |**2021-10-29**|**Large-$N_c$ constraints for elastic dark matter-light nucleus scattering in pionless effective field theory**|Thomas R. Richardson et.al.|[2110.15959v1](http://arxiv.org/abs/2110.15959v1)|null|
 |**2021-10-29**|**NISQ-HHL: Portfolio Optimization for Near-Term Quantum Hardware**|Romina Yalovetzky et.al.|[2110.15958v1](http://arxiv.org/abs/2110.15958v1)|null|
