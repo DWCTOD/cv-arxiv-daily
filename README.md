@@ -1,9 +1,19 @@
-## Updated on 2021.11.02
+## Updated on 2021.11.03
 
 ## I2I
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-02**|**M5-branes Probing Flux Backgrounds**|Ibrahima Bah et.al.|[2111.01790v1](http://arxiv.org/abs/2111.01790v1)|null|
+|**2021-11-02**|**The eccentricity distribution of wide binaries and their individual measurements**|Hsiang-Chih Hwang et.al.|[2111.01789v1](http://arxiv.org/abs/2111.01789v1)|null|
+|**2021-11-02**|**Wide binaries from the H3 survey: the thick disk and halo have similar wide binary fractions**|Hsiang-Chih Hwang et.al.|[2111.01788v1](http://arxiv.org/abs/2111.01788v1)|null|
+|**2021-11-02**|**Flatfield Ultrafast Imaging with Single-Shot Non-Synchronous Array Photography**|Matthew Sheinman et.al.|[2111.01787v1](http://arxiv.org/abs/2111.01787v1)|null|
+|**2021-11-02**|**A Recommendation System to Enhance Midwives' Capacities in Low-Income Countries**|Anna Guitart et.al.|[2111.01786v1](http://arxiv.org/abs/2111.01786v1)|null|
+|**2021-11-02**|**PatchGame: Learning to Signal Mid-level Patches in Referential Games**|Kamal Gupta et.al.|[2111.01785v1](http://arxiv.org/abs/2111.01785v1)|**[link](https://github.com/kampta/patchgame)**|
+|**2021-11-02**|**Towards the 5/6-Density Conjecture of Pinwheel Scheduling**|Leszek Gąsieniec et.al.|[2111.01784v1](http://arxiv.org/abs/2111.01784v1)|null|
+|**2021-11-02**|**Optimal bailout strategies resulting from the drift controlled supercooled Stefan problem**|Christa Cuchiero et.al.|[2111.01783v1](http://arxiv.org/abs/2111.01783v1)|null|
+|**2021-11-02**|**Improving the Cook et al. Proximity Bound Given Integral Valued Constraints**|Marcel Celaya et.al.|[2111.01782v1](http://arxiv.org/abs/2111.01782v1)|null|
+|**2021-11-02**|**Analysis and Numerical Solution of a Modular Convex Nash Equilibrium Problem**|Minh N. Bùi et.al.|[2111.01781v1](http://arxiv.org/abs/2111.01781v1)|null|
 |**2021-11-01**|**When Does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?**|Lijie Fan et.al.|[2111.01124v1](http://arxiv.org/abs/2111.01124v1)|null|
 |**2021-11-01**|**Black Hole Images as Tests of General Relativity: Effects of Plasma Physics**|Feryal Ozel et.al.|[2111.01123v1](http://arxiv.org/abs/2111.01123v1)|null|
 |**2021-11-01**|**Stakeholder Participation in AI: Beyond "Add Diverse Stakeholders and Stir"**|Fernando Delgado et.al.|[2111.01122v1](http://arxiv.org/abs/2111.01122v1)|null|
