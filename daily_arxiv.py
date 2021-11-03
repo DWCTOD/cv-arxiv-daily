@@ -179,7 +179,11 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["I2I"]                = "Image to image"
+    keywords["Face Reenactment"]     = "\"Face Reenactment\"OR\"portrait reenactment\""
+    keywords["Talking Faces"]        = "\"Talking Faces\"OR\"audio driven\"OR\"audio-driven\""
+    
+    #keywords["I2I"]                = "Image to image"
+
     #keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
     #keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
     #keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
