@@ -1,4 +1,4 @@
-## Updated on 2021.11.29
+## Updated on 2021.11.30
 
 ## Face Reenactment
 
@@ -7,7 +7,7 @@
 |**2021-10-10**|**Fine-grained Identity Preserving Landmark Synthesis for Face Reenactment**|Haichao Zhang et.al.|[2110.04708v2](http://arxiv.org/abs/2110.04708v2)|null|
 |**2021-09-10**|**Detection of GAN-synthesized street videos**|Omran Alamayreh et.al.|[2109.04991v2](http://arxiv.org/abs/2109.04991v2)|null|
 |**2021-08-12**|**UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing**|Meng Cao et.al.|[2108.05650v1](http://arxiv.org/abs/2108.05650v1)|null|
-|**2021-07-30**|**Relightable Neural Video Portrait**|Youjia Wang et.al.|[2107.14735v1](http://arxiv.org/abs/2107.14735v1)|null|
+|**2021-07-30**|**Relightable Neural Video Portrait**|Youjia Wang et.al.|[2107.14735v2](http://arxiv.org/abs/2107.14735v2)|null|
 |**2021-07-07**|**Egocentric Videoconferencing**|Mohamed Elgharib et.al.|[2107.03109v1](http://arxiv.org/abs/2107.03109v1)|null|
 |**2021-04-07**|**Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**|Soumya Tripathy et.al.|[2104.03117v1](http://arxiv.org/abs/2104.03117v1)|null|
 |**2021-04-07**|**Everything's Talkin': Pareidolia Face Reenactment**|Linsen Song et.al.|[2104.03061v1](http://arxiv.org/abs/2104.03061v1)|**[link](https://github.com/Linsen13/EverythingTalking)**|
