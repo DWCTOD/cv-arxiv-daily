@@ -1,4 +1,4 @@
-## Updated on 2021.12.06
+## Updated on 2021.12.07
 
 ## Face Reenactment
 
@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-06**|**One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning**|Suzhen Wang et.al.|[2112.02749v1](http://arxiv.org/abs/2112.02749v1)|null|
 |**2021-11-02**|**BiosecurID: a multimodal biometric database**|Julian Fierrez et.al.|[2111.03472v1](http://arxiv.org/abs/2111.03472v1)|null|
 |**2021-10-30**|**Imitating Arbitrary Talking Style for Realistic Audio-DrivenTalking Face Synthesis**|Haozhe Wu et.al.|[2111.00203v1](http://arxiv.org/abs/2111.00203v1)|**[link](https://github.com/wuhaozhe/style_avatar)**|
 |**2021-10-26**|**Emotion recognition in talking-face videos using persistent entropy and neural networks**|Eduardo Paluzo-Hidalgo et.al.|[2110.13571v1](http://arxiv.org/abs/2110.13571v1)|**[link](https://github.com/cimagroup/audiovisual-emotionrecognitionusingtda)**|
