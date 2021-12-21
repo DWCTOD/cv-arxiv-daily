@@ -1,9 +1,10 @@
-## Updated on 2021.12.20
+## Updated on 2021.12.21
 
 ## Face Reenactment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-19**|**Initiative Defense against Facial Manipulation**|Qidong Huang et.al.|[2112.10098v1](http://arxiv.org/abs/2112.10098v1)|null|
 |**2021-10-10**|**Fine-grained Identity Preserving Landmark Synthesis for Face Reenactment**|Haichao Zhang et.al.|[2110.04708v2](http://arxiv.org/abs/2110.04708v2)|null|
 |**2021-09-10**|**Detection of GAN-synthesized street videos**|Omran Alamayreh et.al.|[2109.04991v2](http://arxiv.org/abs/2109.04991v2)|null|
 |**2021-08-12**|**UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing**|Meng Cao et.al.|[2108.05650v1](http://arxiv.org/abs/2108.05650v1)|null|
@@ -27,7 +28,7 @@
 |**2021-09-17**|**PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering**|Yurui Ren et.al.|[2109.08379v1](http://arxiv.org/abs/2109.08379v1)|**[link](https://github.com/renyurui/pirender)**|
 |**2021-08-18**|**FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning**|Chenxu Zhang et.al.|[2108.07938v1](http://arxiv.org/abs/2108.07938v1)|**[link](https://github.com/zhangchenxu528/FACIAL)**|
 |**2021-07-20**|**Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion**|Suzhen Wang et.al.|[2107.09293v1](http://arxiv.org/abs/2107.09293v1)|null|
-|**2021-07-14**|**High-Speed and High-Quality Text-to-Lip Generation**|Jinglin Liu et.al.|[2107.06831v1](http://arxiv.org/abs/2107.06831v1)|null|
+|**2021-07-14**|**Parallel and High-Fidelity Text-to-Lip Generation**|Jinglin Liu et.al.|[2107.06831v2](http://arxiv.org/abs/2107.06831v2)|null|
 |**2021-07-10**|**Speech2Video: Cross-Modal Distillation for Speech to Video Generation**|Shijing Si et.al.|[2107.04806v1](http://arxiv.org/abs/2107.04806v1)|null|
 |**2021-06-18**|**An Audio-Driven System For Real-Time Music Visualisation**|Max Graf et.al.|[2106.10134v1](http://arxiv.org/abs/2106.10134v1)|**[link](https://github.com/maxgraf96/music-vis-backend)**|
 |**2021-06-08**|**LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization**|Avisek Lahiri et.al.|[2106.04185v1](http://arxiv.org/abs/2106.04185v1)|null|
