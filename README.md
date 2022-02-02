@@ -1,9 +1,10 @@
-## Updated on 2022.02.01
+## Updated on 2022.02.02
 
 ## Face Reenactment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Finding Directions in GAN's Latent Space for Neural Face Reenactment**|Stella Bounareli et.al.|[2202.00046v1](http://arxiv.org/abs/2202.00046v1)|null|
 |**2021-12-19**|**Initiative Defense against Facial Manipulation**|Qidong Huang et.al.|[2112.10098v1](http://arxiv.org/abs/2112.10098v1)|null|
 |**2021-10-10**|**Fine-grained Identity Preserving Landmark Synthesis for Face Reenactment**|Haichao Zhang et.al.|[2110.04708v2](http://arxiv.org/abs/2110.04708v2)|null|
 |**2021-09-10**|**Detection of GAN-synthesized street videos**|Omran Alamayreh et.al.|[2109.04991v2](http://arxiv.org/abs/2109.04991v2)|null|
