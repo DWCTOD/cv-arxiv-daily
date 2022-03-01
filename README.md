@@ -1,9 +1,10 @@
-## Updated on 2022.02.28
+## Updated on 2022.03.01
 
 ## Face Reenactment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment**|Yuval Nirkin et.al.|[2202.12972v1](http://arxiv.org/abs/2202.12972v1)|null|
 |**2022-02-22**|**Thinking the Fusion Strategy of Multi-reference Face Reenactment**|Takuya Yashima et.al.|[2202.10758v1](http://arxiv.org/abs/2202.10758v1)|null|
 |**2022-01-31**|**Finding Directions in GAN's Latent Space for Neural Face Reenactment**|Stella Bounareli et.al.|[2202.00046v1](http://arxiv.org/abs/2202.00046v1)|null|
 |**2021-12-19**|**Initiative Defense against Facial Manipulation**|Qidong Huang et.al.|[2112.10098v1](http://arxiv.org/abs/2112.10098v1)|null|
