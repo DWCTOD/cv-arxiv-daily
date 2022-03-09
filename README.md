@@ -1,4 +1,4 @@
-## Updated on 2022.03.08
+## Updated on 2022.03.09
 
 ## Face Reenactment
 
@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN**|Fei Yin et.al.|[2203.04036v1](http://arxiv.org/abs/2203.04036v1)|null|
+|**2022-03-08**|**Attention-Based Lip Audio-Visual Synthesis for Talking Face Generation in the Wild**|Ganglai Wang et.al.|[2203.03984v1](http://arxiv.org/abs/2203.03984v1)|null|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2022-01-18**|**Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection**|Alexandros Haliassos et.al.|[2201.07131v1](http://arxiv.org/abs/2201.07131v1)|null|
 |**2022-01-16**|**Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels**|Zipeng Ye et.al.|[2201.05986v1](http://arxiv.org/abs/2201.05986v1)|null|
