@@ -1,4 +1,4 @@
-## Updated on 2022.03.29
+## Updated on 2022.03.30
 
 ## Face Reenactment
 
@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-27**|**Thin-Plate Spline Motion Model for Image Animation**|Jian Zhao et.al.|[2203.14367v1](http://arxiv.org/abs/2203.14367v1)|**[link](https://github.com/yoyo-nb/thin-plate-spline-motion-model)**|
+|**2022-03-27**|**Thin-Plate Spline Motion Model for Image Animation**|Jian Zhao et.al.|[2203.14367v2](http://arxiv.org/abs/2203.14367v2)|**[link](https://github.com/yoyo-nb/thin-plate-spline-motion-model)**|
 |**2022-03-10**|**An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection**|Ganglai Wang et.al.|[2203.05178v1](http://arxiv.org/abs/2203.05178v1)|null|
 |**2022-03-08**|**StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN**|Fei Yin et.al.|[2203.04036v2](http://arxiv.org/abs/2203.04036v2)|**[link](https://github.com/FeiiYin/StyleHEAT)**|
 |**2022-03-08**|**Attention-Based Lip Audio-Visual Synthesis for Talking Face Generation in the Wild**|Ganglai Wang et.al.|[2203.03984v1](http://arxiv.org/abs/2203.03984v1)|null|
