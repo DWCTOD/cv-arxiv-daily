@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs**|Jinguo Zhu et.al.|[2206.04674v1](http://arxiv.org/abs/2206.04674v1)|null|
+|**2022-06-09**|**PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies**|Guocheng Qian et.al.|[2206.04670v1](http://arxiv.org/abs/2206.04670v1)|**[link](https://github.com/guochengqian/pointnext)**|
+|**2022-06-09**|**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**|Junwen Chen et.al.|[2206.04668v1](http://arxiv.org/abs/2206.04668v1)|null|
+|**2022-06-09**|**AGConv: Adaptive Graph Convolution on 3D Point Clouds**|Mingqiang Wei et.al.|[2206.04665v1](http://arxiv.org/abs/2206.04665v1)|**[link](https://github.com/hrzhou2/adaptconv-master)**|
+|**2022-06-09**|**Simple Cues Lead to a Strong Multi-Object Tracker**|Jenny Seidenschwarz et.al.|[2206.04656v1](http://arxiv.org/abs/2206.04656v1)|null|
+|**2022-06-09**|**VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution**|Zeyuan Chen et.al.|[2206.04647v1](http://arxiv.org/abs/2206.04647v1)|**[link](https://github.com/picsart-ai-research/videoinr-continuous-space-time-super-resolution)**|
+|**2022-06-09**|**On Margins and Generalisation for Voting Classifiers**|Felix Biggs et.al.|[2206.04607v1](http://arxiv.org/abs/2206.04607v1)|**[link](https://github.com/vzantedeschi/dirichlet-margin-bound)**|
+|**2022-06-09**|**Privacy Leakage in Text Classification: A Data Extraction Approach**|Adel Elmahdy et.al.|[2206.04591v1](http://arxiv.org/abs/2206.04591v1)|null|
+|**2022-06-09**|**Benefits of Overparameterized Convolutional Residual Networks: Function Approximation under Smoothness Constraint**|Hao Liu et.al.|[2206.04569v1](http://arxiv.org/abs/2206.04569v1)|null|
+|**2022-06-09**|**Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**|Hamid Nasiri et.al.|[2206.04548v1](http://arxiv.org/abs/2206.04548v1)|null|
 |**2022-06-08**|**An Improved One millisecond Mobile Backbone**|Pavan Kumar Anasosalu Vasu et.al.|[2206.04040v1](http://arxiv.org/abs/2206.04040v1)|null|
 |**2022-06-08**|**High-dimensional limit theorems for SGD: Effective dynamics and critical scaling**|Gerard Ben Arous et.al.|[2206.04030v1](http://arxiv.org/abs/2206.04030v1)|null|
 |**2022-06-08**|**Patch-based Object-centric Transformers for Efficient Video Generation**|Wilson Yan et.al.|[2206.04003v1](http://arxiv.org/abs/2206.04003v1)|null|
@@ -19,6 +29,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-09**|**AttX: Attentive Cross-Connections for Fusion of Wearable Signals in Emotion Recognition**|Anubhav Bhatti et.al.|[2206.04625v1](http://arxiv.org/abs/2206.04625v1)|null|
+|**2022-06-09**|**GASP: Gated Attention For Saliency Prediction**|Fares Abawi et.al.|[2206.04590v1](http://arxiv.org/abs/2206.04590v1)|**[link](https://github.com/knowledgetechnologyuhh/gasp)**|
+|**2022-06-09**|**Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**|Hamid Nasiri et.al.|[2206.04548v1](http://arxiv.org/abs/2206.04548v1)|null|
+|**2022-06-09**|**Pair production of neutral Higgs particles in the B-LSSM**|Dan He et.al.|[2206.04450v1](http://arxiv.org/abs/2206.04450v1)|null|
+|**2022-06-09**|**Bridged treatment comparisons: an illustrative application in HIV treatment**|Paul N Zivich et.al.|[2206.04445v1](http://arxiv.org/abs/2206.04445v1)|null|
+|**2022-06-09**|**Cross-modal Local Shortest Path and Global Enhancement for Visible-Thermal Person Re-Identification**|Xiaohong Wang et.al.|[2206.04401v1](http://arxiv.org/abs/2206.04401v1)|null|
+|**2022-06-08**|**Transport in fusion plasmas: is the tail wagging the dog?**|Guilhem Dif-Pradalier et.al.|[2206.04193v1](http://arxiv.org/abs/2206.04193v1)|null|
+|**2022-06-08**|**Theoretical Uncertainty Quantification for Heavy-ion Fusion**|K. Godbey et.al.|[2206.04150v1](http://arxiv.org/abs/2206.04150v1)|null|
+|**2022-06-08**|**Structure of primitive axial algebras**|Louis Halle Rowen et.al.|[2206.04120v1](http://arxiv.org/abs/2206.04120v1)|null|
 |**2022-06-08**|**Sparse Fusion Mixture-of-Experts are Domain Generalizable Learners**|Bo Li et.al.|[2206.04046v1](http://arxiv.org/abs/2206.04046v1)|**[link](https://github.com/luodian/sf-moe-dg)**|
 |**2022-06-08**|**Robust Environment Perception for Automated Driving: A Unified Learning Pipeline for Visual-Infrared Object Detection**|Mohsen Vadidar et.al.|[2206.03943v1](http://arxiv.org/abs/2206.03943v1)|null|
 |**2022-06-08**|**Depth Estimation Matters Most: Improving Per-Object Depth Estimation for Monocular 3D Detection and Tracking**|Longlong Jing et.al.|[2206.03666v1](http://arxiv.org/abs/2206.03666v1)|null|
