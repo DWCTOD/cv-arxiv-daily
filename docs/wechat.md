@@ -1,4 +1,4 @@
-> Updated on 2022.06.09
+> Updated on 2022.06.10
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 - 2022-06-08, **High-dimensional limit theorems for SGD: Effective dynamics and critical scaling**, Gerard Ben Arous et.al., Paper: [http://arxiv.org/abs/2206.04030v1](http://arxiv.org/abs/2206.04030v1)
 - 2022-06-08, **Patch-based Object-centric Transformers for Efficient Video Generation**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2206.04003v1](http://arxiv.org/abs/2206.04003v1)
 - 2022-06-08, **Classification of Stochastic Processes with Topological Data Analysis**, İsmail Güzel et.al., Paper: [http://arxiv.org/abs/2206.03973v1](http://arxiv.org/abs/2206.03973v1)
-- 2022-06-08, **Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**, Yu Cai et.al., Paper: [http://arxiv.org/abs/2206.03935v1](http://arxiv.org/abs/2206.03935v1), Code: **[https://github.com/caiyu6666/ddad](https://github.com/caiyu6666/ddad)**
+- 2022-06-09, **Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**, Yu Cai et.al., Paper: [http://arxiv.org/abs/2206.03935v2](http://arxiv.org/abs/2206.03935v2), Code: **[https://github.com/caiyu6666/ddad](https://github.com/caiyu6666/ddad)**
 - 2022-06-08, **Direct Triangulation with Spherical Projection for Omnidirectional Cameras**, Ciarán Eising et.al., Paper: [http://arxiv.org/abs/2206.03928v1](http://arxiv.org/abs/2206.03928v1)
 - 2022-06-08, **Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-Recurrence Brain Tumor MRI Scans**, Tony C. W. Mok et.al., Paper: [http://arxiv.org/abs/2206.03900v1](http://arxiv.org/abs/2206.03900v1), Code: **[https://github.com/cwmok/dirac](https://github.com/cwmok/dirac)**
 - 2022-06-08, **PrivHAR: Recognizing Human Actions From Privacy-preserving Lens**, Carlos Hinojosa et.al., Paper: [http://arxiv.org/abs/2206.03891v1](http://arxiv.org/abs/2206.03891v1)
