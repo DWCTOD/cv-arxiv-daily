@@ -1,4 +1,4 @@
-> Updated on 2022.06.10
+> Updated on 2022.06.11
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2022-06-09, **On Margins and Generalisation for Voting Classifiers**, Felix Biggs et.al., Paper: [http://arxiv.org/abs/2206.04607v1](http://arxiv.org/abs/2206.04607v1), Code: **[https://github.com/vzantedeschi/dirichlet-margin-bound](https://github.com/vzantedeschi/dirichlet-margin-bound)**
 - 2022-06-09, **Privacy Leakage in Text Classification: A Data Extraction Approach**, Adel Elmahdy et.al., Paper: [http://arxiv.org/abs/2206.04591v1](http://arxiv.org/abs/2206.04591v1)
 - 2022-06-09, **Benefits of Overparameterized Convolutional Residual Networks: Function Approximation under Smoothness Constraint**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2206.04569v1](http://arxiv.org/abs/2206.04569v1)
-- 2022-06-09, **Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**, Hamid Nasiri et.al., Paper: [http://arxiv.org/abs/2206.04548v1](http://arxiv.org/abs/2206.04548v1)
+- 2022-06-09, **Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**, Hamid Nasiri et.al., Paper: [http://arxiv.org/abs/2206.04548v1](http://arxiv.org/abs/2206.04548v1), Code: **[https://github.com/gha7all/covid19-automated-detection](https://github.com/gha7all/covid19-automated-detection)**
 - 2022-06-08, **An Improved One millisecond Mobile Backbone**, Pavan Kumar Anasosalu Vasu et.al., Paper: [http://arxiv.org/abs/2206.04040v1](http://arxiv.org/abs/2206.04040v1)
 - 2022-06-08, **High-dimensional limit theorems for SGD: Effective dynamics and critical scaling**, Gerard Ben Arous et.al., Paper: [http://arxiv.org/abs/2206.04030v1](http://arxiv.org/abs/2206.04030v1)
 - 2022-06-08, **Patch-based Object-centric Transformers for Efficient Video Generation**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2206.04003v1](http://arxiv.org/abs/2206.04003v1)
@@ -27,7 +27,7 @@
 
 - 2022-06-09, **AttX: Attentive Cross-Connections for Fusion of Wearable Signals in Emotion Recognition**, Anubhav Bhatti et.al., Paper: [http://arxiv.org/abs/2206.04625v1](http://arxiv.org/abs/2206.04625v1)
 - 2022-06-09, **GASP: Gated Attention For Saliency Prediction**, Fares Abawi et.al., Paper: [http://arxiv.org/abs/2206.04590v1](http://arxiv.org/abs/2206.04590v1), Code: **[https://github.com/knowledgetechnologyuhh/gasp](https://github.com/knowledgetechnologyuhh/gasp)**
-- 2022-06-09, **Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**, Hamid Nasiri et.al., Paper: [http://arxiv.org/abs/2206.04548v1](http://arxiv.org/abs/2206.04548v1)
+- 2022-06-09, **Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**, Hamid Nasiri et.al., Paper: [http://arxiv.org/abs/2206.04548v1](http://arxiv.org/abs/2206.04548v1), Code: **[https://github.com/gha7all/covid19-automated-detection](https://github.com/gha7all/covid19-automated-detection)**
 - 2022-06-09, **Pair production of neutral Higgs particles in the B-LSSM**, Dan He et.al., Paper: [http://arxiv.org/abs/2206.04450v1](http://arxiv.org/abs/2206.04450v1)
 - 2022-06-09, **Bridged treatment comparisons: an illustrative application in HIV treatment**, Paul N Zivich et.al., Paper: [http://arxiv.org/abs/2206.04445v1](http://arxiv.org/abs/2206.04445v1)
 - 2022-06-09, **Cross-modal Local Shortest Path and Global Enhancement for Visible-Thermal Person Re-Identification**, Xiaohong Wang et.al., Paper: [http://arxiv.org/abs/2206.04401v1](http://arxiv.org/abs/2206.04401v1)
