@@ -1,4 +1,4 @@
-> Updated on 2022.06.11
+> Updated on 2022.06.12
 
 ## Video_Classification
 
@@ -29,7 +29,7 @@
 - 2022-06-09, **GASP: Gated Attention For Saliency Prediction**, Fares Abawi et.al., Paper: [http://arxiv.org/abs/2206.04590v1](http://arxiv.org/abs/2206.04590v1), Code: **[https://github.com/knowledgetechnologyuhh/gasp](https://github.com/knowledgetechnologyuhh/gasp)**
 - 2022-06-09, **Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**, Hamid Nasiri et.al., Paper: [http://arxiv.org/abs/2206.04548v1](http://arxiv.org/abs/2206.04548v1), Code: **[https://github.com/gha7all/covid19-automated-detection](https://github.com/gha7all/covid19-automated-detection)**
 - 2022-06-09, **Pair production of neutral Higgs particles in the B-LSSM**, Dan He et.al., Paper: [http://arxiv.org/abs/2206.04450v1](http://arxiv.org/abs/2206.04450v1)
-- 2022-06-09, **Bridged treatment comparisons: an illustrative application in HIV treatment**, Paul N Zivich et.al., Paper: [http://arxiv.org/abs/2206.04445v1](http://arxiv.org/abs/2206.04445v1)
+- 2022-06-09, **Bridged treatment comparisons: an illustrative application in HIV treatment**, Paul N Zivich et.al., Paper: [http://arxiv.org/abs/2206.04445v1](http://arxiv.org/abs/2206.04445v1), Code: **[https://github.com/pzivich/publications-code](https://github.com/pzivich/publications-code)**
 - 2022-06-09, **Cross-modal Local Shortest Path and Global Enhancement for Visible-Thermal Person Re-Identification**, Xiaohong Wang et.al., Paper: [http://arxiv.org/abs/2206.04401v1](http://arxiv.org/abs/2206.04401v1)
 - 2022-06-08, **Transport in fusion plasmas: is the tail wagging the dog?**, Guilhem Dif-Pradalier et.al., Paper: [http://arxiv.org/abs/2206.04193v1](http://arxiv.org/abs/2206.04193v1)
 - 2022-06-08, **Theoretical Uncertainty Quantification for Heavy-ion Fusion**, K. Godbey et.al., Paper: [http://arxiv.org/abs/2206.04150v1](http://arxiv.org/abs/2206.04150v1)
