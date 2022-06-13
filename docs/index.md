@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.12
+## Updated on 2022.06.13
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@ layout: default
 |**2022-06-09**|**PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies**|Guocheng Qian et.al.|[2206.04670v1](http://arxiv.org/abs/2206.04670v1)|**[link](https://github.com/guochengqian/pointnext)**|
 |**2022-06-09**|**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**|Junwen Chen et.al.|[2206.04668v1](http://arxiv.org/abs/2206.04668v1)|null|
 |**2022-06-09**|**AGConv: Adaptive Graph Convolution on 3D Point Clouds**|Mingqiang Wei et.al.|[2206.04665v1](http://arxiv.org/abs/2206.04665v1)|**[link](https://github.com/hrzhou2/adaptconv-master)**|
-|**2022-06-09**|**Simple Cues Lead to a Strong Multi-Object Tracker**|Jenny Seidenschwarz et.al.|[2206.04656v1](http://arxiv.org/abs/2206.04656v1)|null|
+|**2022-06-10**|**Simple Cues Lead to a Strong Multi-Object Tracker**|Jenny Seidenschwarz et.al.|[2206.04656v2](http://arxiv.org/abs/2206.04656v2)|null|
 |**2022-06-09**|**VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution**|Zeyuan Chen et.al.|[2206.04647v1](http://arxiv.org/abs/2206.04647v1)|**[link](https://github.com/picsart-ai-research/videoinr-continuous-space-time-super-resolution)**|
 |**2022-06-09**|**On Margins and Generalisation for Voting Classifiers**|Felix Biggs et.al.|[2206.04607v1](http://arxiv.org/abs/2206.04607v1)|**[link](https://github.com/vzantedeschi/dirichlet-margin-bound)**|
 |**2022-06-09**|**Privacy Leakage in Text Classification: A Data Extraction Approach**|Adel Elmahdy et.al.|[2206.04591v1](http://arxiv.org/abs/2206.04591v1)|null|
