@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-06-10, **Explaining Image Classifiers Using Contrastive Counterfactuals in Generative Latent Spaces**, Kamran Alipour et.al., Paper: [http://arxiv.org/abs/2206.05257v1](http://arxiv.org/abs/2206.05257v1)
+- 2022-06-10, **Lost in Transmission: On the Impact of Networking Corruptions on Video Machine Learning Models**, Trenton Chang et.al., Paper: [http://arxiv.org/abs/2206.05252v1](http://arxiv.org/abs/2206.05252v1)
+- 2022-06-10, **Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**, Enrica Troiano et.al., Paper: [http://arxiv.org/abs/2206.05238v1](http://arxiv.org/abs/2206.05238v1)
+- 2022-06-10, **A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction**, Wonseok Hwang et.al., Paper: [http://arxiv.org/abs/2206.05224v1](http://arxiv.org/abs/2206.05224v1), Code: **[https://github.com/lbox-kr/lbox-open](https://github.com/lbox-kr/lbox-open)**
+- 2022-06-10, **A new distance measurement and its application in K-Means Algorithm**, Yiqun Zhang et.al., Paper: [http://arxiv.org/abs/2206.05215v1](http://arxiv.org/abs/2206.05215v1)
+- 2022-06-10, **Learning the Space of Deep Models**, Gianluca Berardi et.al., Paper: [http://arxiv.org/abs/2206.05194v1](http://arxiv.org/abs/2206.05194v1), Code: **[https://github.com/cvlab-unibo/netspace](https://github.com/cvlab-unibo/netspace)**
+- 2022-06-10, **Lightweight Conditional Model Extrapolation for Streaming Data under Class-Prior Shift**, Paulina Tomaszewska et.al., Paper: [http://arxiv.org/abs/2206.05181v1](http://arxiv.org/abs/2206.05181v1), Code: **[https://github.com/ptomaszewska/limes](https://github.com/ptomaszewska/limes)**
+- 2022-06-10, **Multi-faceted Graph Attention Network for Radar Target Recognition in Heterogeneous Radar Network**, Han Meng et.al., Paper: [http://arxiv.org/abs/2206.05168v1](http://arxiv.org/abs/2206.05168v1)
+- 2022-06-10, **An Image Processing Pipeline for Camera Trap Time-Lapse Recordings**, Michael L. Hilton et.al., Paper: [http://arxiv.org/abs/2206.05159v1](http://arxiv.org/abs/2206.05159v1)
+- 2022-06-10, **MEAT: Maneuver Extraction from Agent Trajectories**, Julian Schmidt et.al., Paper: [http://arxiv.org/abs/2206.05158v1](http://arxiv.org/abs/2206.05158v1)
 - 2022-06-09, **Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs**, Jinguo Zhu et.al., Paper: [http://arxiv.org/abs/2206.04674v1](http://arxiv.org/abs/2206.04674v1)
 - 2022-06-09, **PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2206.04670v1](http://arxiv.org/abs/2206.04670v1), Code: **[https://github.com/guochengqian/pointnext](https://github.com/guochengqian/pointnext)**
 - 2022-06-09, **GateHUB: Gated History Unit with Background Suppression for Online Action Detection**, Junwen Chen et.al., Paper: [http://arxiv.org/abs/2206.04668v1](http://arxiv.org/abs/2206.04668v1)
@@ -25,6 +35,9 @@
 
 ## MultiModal
 
+- 2022-06-10, **Multi-faceted Graph Attention Network for Radar Target Recognition in Heterogeneous Radar Network**, Han Meng et.al., Paper: [http://arxiv.org/abs/2206.05168v1](http://arxiv.org/abs/2206.05168v1)
+- 2022-06-10, **NR-DFERNet: Noise-Robust Network for Dynamic Facial Expression Recognition**, Hanting Li et.al., Paper: [http://arxiv.org/abs/2206.04975v1](http://arxiv.org/abs/2206.04975v1)
+- 2022-06-10, **Beyond the Gates of Euclidean Space: Temporal-Discrimination-Fusions and Attention-based Graph Neural Network for Human Activity Recognition**, Nafees Ahmad et.al., Paper: [http://arxiv.org/abs/2206.04855v1](http://arxiv.org/abs/2206.04855v1)
 - 2022-06-09, **AttX: Attentive Cross-Connections for Fusion of Wearable Signals in Emotion Recognition**, Anubhav Bhatti et.al., Paper: [http://arxiv.org/abs/2206.04625v1](http://arxiv.org/abs/2206.04625v1)
 - 2022-06-09, **GASP: Gated Attention For Saliency Prediction**, Fares Abawi et.al., Paper: [http://arxiv.org/abs/2206.04590v1](http://arxiv.org/abs/2206.04590v1), Code: **[https://github.com/knowledgetechnologyuhh/gasp](https://github.com/knowledgetechnologyuhh/gasp)**
 - 2022-06-09, **Classification of COVID-19 in Chest X-ray Images Using Fusion of Deep Features and LightGBM**, Hamid Nasiri et.al., Paper: [http://arxiv.org/abs/2206.04548v1](http://arxiv.org/abs/2206.04548v1), Code: **[https://github.com/gha7all/covid19-automated-detection](https://github.com/gha7all/covid19-automated-detection)**
