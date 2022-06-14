@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-13**|**ARF: Artistic Radiance Fields**|Kai Zhang et.al.|[2206.06360v1](http://arxiv.org/abs/2206.06360v1)|null|
+|**2022-06-13**|**Anomaly Detection and Inter-Sensor Transfer Learning on Smart Manufacturing Datasets**|Mustafa Abdallah et.al.|[2206.06355v1](http://arxiv.org/abs/2206.06355v1)|null|
+|**2022-06-13**|**Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens**|Elad Ben-Avraham et.al.|[2206.06346v1](http://arxiv.org/abs/2206.06346v1)|null|
+|**2022-06-13**|**Unsupervised inter-frame motion correction for whole-body dynamic PET using convolutional long short-term memory in a convolutional neural network**|Xueqi Guo et.al.|[2206.06341v1](http://arxiv.org/abs/2206.06341v1)|null|
+|**2022-06-13**|**SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data**|Eldar Insafutdinov et.al.|[2206.06340v1](http://arxiv.org/abs/2206.06340v1)|null|
+|**2022-06-13**|**Learning Uncertainty with Artificial Neural Networks for Improved Predictive Process Monitoring**|Hans Weytjens et.al.|[2206.06317v1](http://arxiv.org/abs/2206.06317v1)|**[link](https://github.com/hansweytjens/uncertainty)**|
+|**2022-06-13**|**Towards Constructing Finer then Homotopy Path Classes**|Weifu Wang et.al.|[2206.06307v1](http://arxiv.org/abs/2206.06307v1)|null|
+|**2022-06-13**|**Drop impact on viscous liquid films**|Vatsal Sanjay et.al.|[2206.06298v1](http://arxiv.org/abs/2206.06298v1)|null|
+|**2022-06-13**|**Learning Domain Adaptive Object Detection with Probabilistic Teacher**|Meilin Chen et.al.|[2206.06293v1](http://arxiv.org/abs/2206.06293v1)|**[link](https://github.com/hikvision-research/probabilisticteacher)**|
+|**2022-06-13**|**MLP-3D: A MLP-like 3D Architecture with Grouped Time Mixing**|Zhaofan Qiu et.al.|[2206.06292v1](http://arxiv.org/abs/2206.06292v1)|null|
 |**2022-06-10**|**Explaining Image Classifiers Using Contrastive Counterfactuals in Generative Latent Spaces**|Kamran Alipour et.al.|[2206.05257v1](http://arxiv.org/abs/2206.05257v1)|null|
 |**2022-06-10**|**Lost in Transmission: On the Impact of Networking Corruptions on Video Machine Learning Models**|Trenton Chang et.al.|[2206.05252v1](http://arxiv.org/abs/2206.05252v1)|null|
 |**2022-06-13**|**Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**|Enrica Troiano et.al.|[2206.05238v2](http://arxiv.org/abs/2206.05238v2)|null|
@@ -39,6 +49,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-13**|**Topological Defects in Floquet Circuits**|Mao Tian Tan et.al.|[2206.06272v1](http://arxiv.org/abs/2206.06272v1)|null|
+|**2022-06-13**|**MMMNA-Net for Overall Survival Time Prediction of Brain Tumor Patients**|Wen Tang et.al.|[2206.06267v1](http://arxiv.org/abs/2206.06267v1)|**[link](https://github.com/tangwen920812/mmmna-net)**|
+|**2022-06-13**|**Vision-State Fusion: Improving Deep Neural Networks for Autonomous Robotics**|Elia Cereda et.al.|[2206.06112v1](http://arxiv.org/abs/2206.06112v1)|null|
+|**2022-06-13**|**Learning Feature Disentanglement and Dynamic Fusion for Recaptured Image Forensic**|Shuyu Miao et.al.|[2206.06103v1](http://arxiv.org/abs/2206.06103v1)|null|
+|**2022-06-13**|**Low-complexity deep learning frameworks for acoustic scene classification**|Lam Pham et.al.|[2206.06057v1](http://arxiv.org/abs/2206.06057v1)|null|
+|**2022-06-12**|**COLD Fusion: Calibrated and Ordinal Latent Distribution Fusion for Uncertainty-Aware Multimodal Emotion Recognition**|Mani Kumar Tellamekala et.al.|[2206.05833v1](http://arxiv.org/abs/2206.05833v1)|null|
+|**2022-06-12**|**Revisiting Whole-Slide Image Pyramids for Cancer Prognosis via Dual-Stream Networks**|Pei Liu et.al.|[2206.05782v1](http://arxiv.org/abs/2206.05782v1)|null|
+|**2022-06-12**|**Multimodal Fake News Detection with Adaptive Unimodal Representation Aggregation**|Qichao Ying et.al.|[2206.05741v1](http://arxiv.org/abs/2206.05741v1)|null|
+|**2022-06-12**|**Fusing Feature Engineering and Deep Learning: A Case Study for Malware Classification**|Daniel Gibert et.al.|[2206.05735v1](http://arxiv.org/abs/2206.05735v1)|null|
+|**2022-06-12**|**Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes**|Suyu Han et.al.|[2206.05648v1](http://arxiv.org/abs/2206.05648v1)|null|
 |**2022-06-10**|**Multi-faceted Graph Attention Network for Radar Target Recognition in Heterogeneous Radar Network**|Han Meng et.al.|[2206.05168v1](http://arxiv.org/abs/2206.05168v1)|null|
 |**2022-06-10**|**NR-DFERNet: Noise-Robust Network for Dynamic Facial Expression Recognition**|Hanting Li et.al.|[2206.04975v1](http://arxiv.org/abs/2206.04975v1)|null|
 |**2022-06-10**|**Beyond the Gates of Euclidean Space: Temporal-Discrimination-Fusions and Attention-based Graph Neural Network for Human Activity Recognition**|Nafees Ahmad et.al.|[2206.04855v1](http://arxiv.org/abs/2206.04855v1)|null|
