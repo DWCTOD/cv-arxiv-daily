@@ -1,10 +1,10 @@
-> Updated on 2022.06.13
+> Updated on 2022.06.14
 
 ## Video_Classification
 
 - 2022-06-10, **Explaining Image Classifiers Using Contrastive Counterfactuals in Generative Latent Spaces**, Kamran Alipour et.al., Paper: [http://arxiv.org/abs/2206.05257v1](http://arxiv.org/abs/2206.05257v1)
 - 2022-06-10, **Lost in Transmission: On the Impact of Networking Corruptions on Video Machine Learning Models**, Trenton Chang et.al., Paper: [http://arxiv.org/abs/2206.05252v1](http://arxiv.org/abs/2206.05252v1)
-- 2022-06-10, **Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**, Enrica Troiano et.al., Paper: [http://arxiv.org/abs/2206.05238v1](http://arxiv.org/abs/2206.05238v1)
+- 2022-06-13, **Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction**, Enrica Troiano et.al., Paper: [http://arxiv.org/abs/2206.05238v2](http://arxiv.org/abs/2206.05238v2)
 - 2022-06-10, **A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction**, Wonseok Hwang et.al., Paper: [http://arxiv.org/abs/2206.05224v1](http://arxiv.org/abs/2206.05224v1), Code: **[https://github.com/lbox-kr/lbox-open](https://github.com/lbox-kr/lbox-open)**
 - 2022-06-10, **A new distance measurement and its application in K-Means Algorithm**, Yiqun Zhang et.al., Paper: [http://arxiv.org/abs/2206.05215v1](http://arxiv.org/abs/2206.05215v1)
 - 2022-06-10, **Learning the Space of Deep Models**, Gianluca Berardi et.al., Paper: [http://arxiv.org/abs/2206.05194v1](http://arxiv.org/abs/2206.05194v1), Code: **[https://github.com/cvlab-unibo/netspace](https://github.com/cvlab-unibo/netspace)**
