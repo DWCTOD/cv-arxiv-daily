@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-06-14, **ReCo: Retrieve and Co-segment for Zero-shot Transfer**, Gyungin Shin et.al., Paper: [http://arxiv.org/abs/2206.07045v1](http://arxiv.org/abs/2206.07045v1), Code: **[https://github.com/NoelShin/reco](https://github.com/NoelShin/reco)**
+- 2022-06-14, **AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos**, Yanze Wu et.al., Paper: [http://arxiv.org/abs/2206.07038v1](http://arxiv.org/abs/2206.07038v1)
+- 2022-06-14, **Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention**, Quanzeng You et.al., Paper: [http://arxiv.org/abs/2206.07011v1](http://arxiv.org/abs/2206.07011v1)
+- 2022-06-14, **Classification of the non-trivial $2$-$(k^{2},k,λ)$ designs, with $λ\mid k$, admitting a flag-transitive automorphism group of affine type**, Alessandro Montinaro et.al., Paper: [http://arxiv.org/abs/2206.06953v1](http://arxiv.org/abs/2206.06953v1)
+- 2022-06-14, **K-Space Transformer for Fast MRIReconstruction with Implicit Representation**, Ziheng Zhao et.al., Paper: [http://arxiv.org/abs/2206.06947v1](http://arxiv.org/abs/2206.06947v1)
+- 2022-06-14, **OSN Dashboard Tool For Sentiment Analysis**, Andreas Kilde Lien et.al., Paper: [http://arxiv.org/abs/2206.06935v1](http://arxiv.org/abs/2206.06935v1)
+- 2022-06-14, **Stand-Alone Inter-Frame Attention in Video Models**, Fuchen Long et.al., Paper: [http://arxiv.org/abs/2206.06931v1](http://arxiv.org/abs/2206.06931v1), Code: **[https://github.com/fuchenustc/sifa](https://github.com/fuchenustc/sifa)**
+- 2022-06-14, **Objectivity and Rigor in Classical Italian Algebraic Geometry**, Silvia De Toffoli et.al., Paper: [http://arxiv.org/abs/2206.06887v1](http://arxiv.org/abs/2206.06887v1)
+- 2022-06-14, **Evaluating histopathology transfer learning with ChampKit**, Jakub R. Kaczmarzyk et.al., Paper: [http://arxiv.org/abs/2206.06862v1](http://arxiv.org/abs/2206.06862v1), Code: **[https://github.com/kaczmarj/champkit](https://github.com/kaczmarj/champkit)**
+- 2022-06-14, **The local Universe in the era of large surveys -- II. Multi-wavelength characterisation of activity in nearby S0 galaxies**, C. Jiménez-Palau et.al., Paper: [http://arxiv.org/abs/2206.06860v1](http://arxiv.org/abs/2206.06860v1)
 - 2022-06-13, **ARF: Artistic Radiance Fields**, Kai Zhang et.al., Paper: [http://arxiv.org/abs/2206.06360v1](http://arxiv.org/abs/2206.06360v1)
 - 2022-06-13, **Anomaly Detection and Inter-Sensor Transfer Learning on Smart Manufacturing Datasets**, Mustafa Abdallah et.al., Paper: [http://arxiv.org/abs/2206.06355v1](http://arxiv.org/abs/2206.06355v1)
 - 2022-06-13, **Bringing Image Scene Structure to Video via Frame-Clip Consistency of Object Tokens**, Elad Ben-Avraham et.al., Paper: [http://arxiv.org/abs/2206.06346v1](http://arxiv.org/abs/2206.06346v1)
@@ -45,6 +55,10 @@
 
 ## MultiModal
 
+- 2022-06-14, **ULTRA: Uncertainty-aware Label Distribution Learning for Breast Tumor Cellularity Assessment**, Xiangyu Li et.al., Paper: [http://arxiv.org/abs/2206.06623v1](http://arxiv.org/abs/2206.06623v1)
+- 2022-06-14, **TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer**, Jiajun Deng et.al., Paper: [http://arxiv.org/abs/2206.06619v1](http://arxiv.org/abs/2206.06619v1), Code: **[https://github.com/djiajunustc/TransVG](https://github.com/djiajunustc/TransVG)**
+- 2022-06-14, **Learning Enhanced Representations for Tabular Data via Neighborhood Propagation**, Kounianhua Du et.al., Paper: [http://arxiv.org/abs/2206.06587v1](http://arxiv.org/abs/2206.06587v1), Code: **[https://github.com/kounianhuadu/pet](https://github.com/kounianhuadu/pet)**
+- 2022-06-13, **Proton and neutron exchange as a prelude to fusion at near-barrier energies**, J. E. Johnstone et.al., Paper: [http://arxiv.org/abs/2206.06436v1](http://arxiv.org/abs/2206.06436v1)
 - 2022-06-13, **Topological Defects in Floquet Circuits**, Mao Tian Tan et.al., Paper: [http://arxiv.org/abs/2206.06272v1](http://arxiv.org/abs/2206.06272v1)
 - 2022-06-13, **MMMNA-Net for Overall Survival Time Prediction of Brain Tumor Patients**, Wen Tang et.al., Paper: [http://arxiv.org/abs/2206.06267v1](http://arxiv.org/abs/2206.06267v1), Code: **[https://github.com/tangwen920812/mmmna-net](https://github.com/tangwen920812/mmmna-net)**
 - 2022-06-13, **Vision-State Fusion: Improving Deep Neural Networks for Autonomous Robotics**, Elia Cereda et.al., Paper: [http://arxiv.org/abs/2206.06112v1](http://arxiv.org/abs/2206.06112v1)
