@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-15**|**PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos**|Yiming Xie et.al.|[2206.07710v1](http://arxiv.org/abs/2206.07710v1)|null|
+|**2022-06-15**|**Waymo Open Dataset: Panoramic Video Panoptic Segmentation**|Jieru Mei et.al.|[2206.07704v1](http://arxiv.org/abs/2206.07704v1)|null|
+|**2022-06-15**|**Masked Siamese ConvNets**|Li Jing et.al.|[2206.07700v1](http://arxiv.org/abs/2206.07700v1)|null|
+|**2022-06-15**|**Prefix Language Models are Unified Modal Learners**|Shizhe Diao et.al.|[2206.07699v1](http://arxiv.org/abs/2206.07699v1)|**[link](https://github.com/shizhediao/davinci)**|
+|**2022-06-15**|**Diffusion Models for Video Prediction and Infilling**|Tobias Höppe et.al.|[2206.07696v1](http://arxiv.org/abs/2206.07696v1)|null|
+|**2022-06-15**|**DIRECTOR: Generator-Classifiers For Supervised Language Modeling**|Kushal Arora et.al.|[2206.07694v1](http://arxiv.org/abs/2206.07694v1)|null|
+|**2022-06-15**|**Structured Video Tokens @ Ego4D PNR Temporal Localization Challenge 2022**|Elad Ben-Avraham et.al.|[2206.07689v1](http://arxiv.org/abs/2206.07689v1)|null|
+|**2022-06-15**|**Residual Sparsity Connection Learning for Efficient Video Super-Resolution**|Bin Xia et.al.|[2206.07687v1](http://arxiv.org/abs/2206.07687v1)|null|
+|**2022-06-15**|**Decentralized WebRCT P2P network using Kademlia**|Ryle Zhou et.al.|[2206.07685v1](http://arxiv.org/abs/2206.07685v1)|null|
+|**2022-06-15**|**AVATAR: Unconstrained Audiovisual Speech Recognition**|Valentin Gabeur et.al.|[2206.07684v1](http://arxiv.org/abs/2206.07684v1)|null|
 |**2022-06-14**|**ReCo: Retrieve and Co-segment for Zero-shot Transfer**|Gyungin Shin et.al.|[2206.07045v1](http://arxiv.org/abs/2206.07045v1)|**[link](https://github.com/NoelShin/reco)**|
 |**2022-06-14**|**AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos**|Yanze Wu et.al.|[2206.07038v1](http://arxiv.org/abs/2206.07038v1)|null|
 |**2022-06-14**|**Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention**|Quanzeng You et.al.|[2206.07011v1](http://arxiv.org/abs/2206.07011v1)|null|
@@ -63,6 +73,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-15**|**PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos**|Yiming Xie et.al.|[2206.07710v1](http://arxiv.org/abs/2206.07710v1)|null|
+|**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|**[link](https://github.com/microsoft/fiber)**|
+|**2022-06-15**|**How GNNs Facilitate CNNs in Mining Geometric Information from Large-Scale Medical Images**|Yiqing Shen et.al.|[2206.07599v1](http://arxiv.org/abs/2206.07599v1)|null|
+|**2022-06-15**|**Collaborative Knowledge Graph Fusion by Exploiting the Open Corpus**|Yue Wang et.al.|[2206.07472v1](http://arxiv.org/abs/2206.07472v1)|null|
+|**2022-06-15**|**Self-Assessment for Single-Object Tracking in Clutter Using Subjective Logic**|Thomas Griebel et.al.|[2206.07449v1](http://arxiv.org/abs/2206.07449v1)|null|
+|**2022-06-15**|**Residual Language Model for End-to-end Speech Recognition**|Emiru Tsunoo et.al.|[2206.07430v1](http://arxiv.org/abs/2206.07430v1)|null|
+|**2022-06-15**|**S\textsuperscript{2}-FPN: Scale-ware Strip Attention Guided Feature Pyramid Network for Real-time Semantic Segmentation**|Mohammed A. M. Elhassan et.al.|[2206.07298v1](http://arxiv.org/abs/2206.07298v1)|**[link](https://github.com/mohamedac29/s2-fpn)**|
+|**2022-06-15**|**Accurate Emotion Strength Assessment for Seen and Unseen Speech Based on Data-Driven Deep Learning**|Rui Liu et.al.|[2206.07229v1](http://arxiv.org/abs/2206.07229v1)|**[link](https://github.com/ttslr/strengthnet)**|
 |**2022-06-14**|**ULTRA: Uncertainty-aware Label Distribution Learning for Breast Tumor Cellularity Assessment**|Xiangyu Li et.al.|[2206.06623v1](http://arxiv.org/abs/2206.06623v1)|null|
 |**2022-06-14**|**TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer**|Jiajun Deng et.al.|[2206.06619v1](http://arxiv.org/abs/2206.06619v1)|**[link](https://github.com/djiajunustc/TransVG)**|
 |**2022-06-14**|**Learning Enhanced Representations for Tabular Data via Neighborhood Propagation**|Kounianhua Du et.al.|[2206.06587v1](http://arxiv.org/abs/2206.06587v1)|**[link](https://github.com/kounianhuadu/pet)**|
