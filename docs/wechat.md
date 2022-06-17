@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-06-16, **Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model**, Erik C. M. Johnson et.al., Paper: [http://arxiv.org/abs/2206.08368v1](http://arxiv.org/abs/2206.08368v1)
+- 2022-06-16, **SHIFT: A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation**, Tao Sun et.al., Paper: [http://arxiv.org/abs/2206.08367v1](http://arxiv.org/abs/2206.08367v1)
+- 2022-06-16, **Unified Fourier-based Kernel and Nonlinearity Design for Equivariant Networks on Homogeneous Spaces**, Yinshuang Xu et.al., Paper: [http://arxiv.org/abs/2206.08362v1](http://arxiv.org/abs/2206.08362v1)
+- 2022-06-16, **OmniMAE: Single Model Masked Pretraining on Images and Videos**, Rohit Girdhar et.al., Paper: [http://arxiv.org/abs/2206.08356v1](http://arxiv.org/abs/2206.08356v1)
+- 2022-06-16, **Jordan blocks and the Bethe ansatz II: The eclectic spin chain beyond $K=1$**, Juan Miguel Nieto García et.al., Paper: [http://arxiv.org/abs/2206.08348v1](http://arxiv.org/abs/2206.08348v1)
+- 2022-06-16, **Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning**, Matthew Gwilliam et.al., Paper: [http://arxiv.org/abs/2206.08347v1](http://arxiv.org/abs/2206.08347v1)
+- 2022-06-16, **Real-World Single Image Super-Resolution Under Rainy Condition**, Mohammad Shahab Uddin et.al., Paper: [http://arxiv.org/abs/2206.08345v1](http://arxiv.org/abs/2206.08345v1)
+- 2022-06-16, **Realistic One-shot Mesh-based Head Avatars**, Taras Khakhulin et.al., Paper: [http://arxiv.org/abs/2206.08343v1](http://arxiv.org/abs/2206.08343v1)
+- 2022-06-16, **iBoot: Image-bootstrapped Self-Supervised Video Representation Learning**, Fatemeh Saleh et.al., Paper: [http://arxiv.org/abs/2206.08339v1](http://arxiv.org/abs/2206.08339v1)
+- 2022-06-16, **Boosting the Adversarial Transferability of Surrogate Model with Dark Knowledge**, Dingcheng Yang et.al., Paper: [http://arxiv.org/abs/2206.08316v1](http://arxiv.org/abs/2206.08316v1), Code: **[https://github.com/ydc123/Dark_Surrogate_Model](https://github.com/ydc123/Dark_Surrogate_Model)**
 - 2022-06-15, **PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2206.07710v1](http://arxiv.org/abs/2206.07710v1)
 - 2022-06-15, **Waymo Open Dataset: Panoramic Video Panoptic Segmentation**, Jieru Mei et.al., Paper: [http://arxiv.org/abs/2206.07704v1](http://arxiv.org/abs/2206.07704v1)
 - 2022-06-15, **Masked Siamese ConvNets**, Li Jing et.al., Paper: [http://arxiv.org/abs/2206.07700v1](http://arxiv.org/abs/2206.07700v1)
@@ -65,6 +75,16 @@
 
 ## MultiModal
 
+- 2022-06-16, **Multi scale Feature Extraction and Fusion for Online Knowledge Distillation**, Panpan Zou et.al., Paper: [http://arxiv.org/abs/2206.08224v1](http://arxiv.org/abs/2206.08224v1)
+- 2022-06-16, **Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline**, Penghao Wu et.al., Paper: [http://arxiv.org/abs/2206.08129v1](http://arxiv.org/abs/2206.08129v1), Code: **[https://github.com/OpenPerceptionX/TCP](https://github.com/OpenPerceptionX/TCP)**
+- 2022-06-16, **Hardness prediction of age-hardening aluminum alloy based on ensemble learning**, Zuo Houchen et.al., Paper: [http://arxiv.org/abs/2206.08011v1](http://arxiv.org/abs/2206.08011v1)
+- 2022-06-16, **Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos**, Lianyang Ma et.al., Paper: [http://arxiv.org/abs/2206.07981v1](http://arxiv.org/abs/2206.07981v1)
+- 2022-06-16, **A Simple Baseline for BEV Perception Without LiDAR**, Adam W. Harley et.al., Paper: [http://arxiv.org/abs/2206.07959v1](http://arxiv.org/abs/2206.07959v1)
+- 2022-06-16, **Challenges and Opportunities in Deep Reinforcement Learning with Graph Neural Networks: A Comprehensive review of Algorithms and Applications**, Sai Munikoti et.al., Paper: [http://arxiv.org/abs/2206.07922v1](http://arxiv.org/abs/2206.07922v1)
+- 2022-06-16, **Investigating the role and limitation of colliding partners variables in heavy actinide nuclei**, R. Dubey et.al., Paper: [http://arxiv.org/abs/2206.07903v1](http://arxiv.org/abs/2206.07903v1)
+- 2022-06-16, **Dual-channel Early Warning Framework for Ethereum Ponzi Schemes**, Jie Jin et.al., Paper: [http://arxiv.org/abs/2206.07895v1](http://arxiv.org/abs/2206.07895v1)
+- 2022-06-16, **Accelerating Inference and Language Model Fusion of Recurrent Neural Network Transducers via End-to-End 4-bit Quantization**, Andrea Fasoli et.al., Paper: [http://arxiv.org/abs/2206.07882v1](http://arxiv.org/abs/2206.07882v1)
+- 2022-06-16, **EPG2S: Speech Generation and Speech Enhancement based on Electropalatography and Audio Signals using Multimodal Learning**, Li-Chin Chen et.al., Paper: [http://arxiv.org/abs/2206.07860v1](http://arxiv.org/abs/2206.07860v1)
 - 2022-06-15, **PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2206.07710v1](http://arxiv.org/abs/2206.07710v1)
 - 2022-06-15, **Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**, Zi-Yi Dou et.al., Paper: [http://arxiv.org/abs/2206.07643v1](http://arxiv.org/abs/2206.07643v1), Code: **[https://github.com/microsoft/fiber](https://github.com/microsoft/fiber)**
 - 2022-06-15, **How GNNs Facilitate CNNs in Mining Geometric Information from Large-Scale Medical Images**, Yiqing Shen et.al., Paper: [http://arxiv.org/abs/2206.07599v1](http://arxiv.org/abs/2206.07599v1)
