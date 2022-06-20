@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.19
+## Updated on 2022.06.20
 
 ## Video_Classification
 
@@ -86,7 +86,7 @@ layout: default
 |**2022-06-16**|**Multi scale Feature Extraction and Fusion for Online Knowledge Distillation**|Panpan Zou et.al.|[2206.08224v1](http://arxiv.org/abs/2206.08224v1)|null|
 |**2022-06-16**|**Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline**|Penghao Wu et.al.|[2206.08129v1](http://arxiv.org/abs/2206.08129v1)|**[link](https://github.com/OpenPerceptionX/TCP)**|
 |**2022-06-16**|**Hardness prediction of age-hardening aluminum alloy based on ensemble learning**|Zuo Houchen et.al.|[2206.08011v1](http://arxiv.org/abs/2206.08011v1)|null|
-|**2022-06-16**|**Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos**|Lianyang Ma et.al.|[2206.07981v1](http://arxiv.org/abs/2206.07981v1)|null|
+|**2022-06-17**|**Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos**|Lianyang Ma et.al.|[2206.07981v2](http://arxiv.org/abs/2206.07981v2)|null|
 |**2022-06-16**|**A Simple Baseline for BEV Perception Without LiDAR**|Adam W. Harley et.al.|[2206.07959v1](http://arxiv.org/abs/2206.07959v1)|null|
 |**2022-06-16**|**Challenges and Opportunities in Deep Reinforcement Learning with Graph Neural Networks: A Comprehensive review of Algorithms and Applications**|Sai Munikoti et.al.|[2206.07922v1](http://arxiv.org/abs/2206.07922v1)|null|
 |**2022-06-16**|**Investigating the role and limitation of colliding partners variables in heavy actinide nuclei**|R. Dubey et.al.|[2206.07903v1](http://arxiv.org/abs/2206.07903v1)|null|
