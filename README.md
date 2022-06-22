@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-21**|**Temporally Consistent Semantic Video Editing**|Yiran Xu et.al.|[2206.10590v1](http://arxiv.org/abs/2206.10590v1)|null|
+|**2022-06-21**|**EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications**|Muhammad Maaz et.al.|[2206.10589v1](http://arxiv.org/abs/2206.10589v1)|**[link](https://github.com/mmaaz60/EdgeNeXt)**|
+|**2022-06-21**|**Ensembling over Classifiers: a Bias-Variance Perspective**|Neha Gupta et.al.|[2206.10566v1](http://arxiv.org/abs/2206.10566v1)|null|
+|**2022-06-21**|**Low Resource Pipeline for Spoken Language Understanding via Weak Supervision**|Ayush Kumar et.al.|[2206.10559v1](http://arxiv.org/abs/2206.10559v1)|null|
+|**2022-06-21**|**A Study of Weisfeiler-Leman Colorings on Planar Graphs**|Sandra Kiefer et.al.|[2206.10557v1](http://arxiv.org/abs/2206.10557v1)|null|
+|**2022-06-21**|**Vicinity Vision Transformer**|Weixuan Sun et.al.|[2206.10552v1](http://arxiv.org/abs/2206.10552v1)|null|
+|**2022-06-21**|**FedHiSyn: A Hierarchical Synchronous Federated Learning Framework for Resource and Data Heterogeneity**|Guanghao Li et.al.|[2206.10546v1](http://arxiv.org/abs/2206.10546v1)|null|
+|**2022-06-21**|**Faster Diffusion Cardiac MRI with Deep Learning-based breath hold reduction**|Michael Tanzer et.al.|[2206.10543v1](http://arxiv.org/abs/2206.10543v1)|null|
+|**2022-06-21**|**HealNet -- Self-Supervised Acute Wound Heal-Stage Classification**|Héctor Carrión et.al.|[2206.10536v1](http://arxiv.org/abs/2206.10536v1)|null|
+|**2022-06-21**|**Neural Transformers for Intraductal Papillary Mucosal Neoplasms (IPMN) Classification in MRI images**|Federica Proietto Salanitri et.al.|[2206.10531v1](http://arxiv.org/abs/2206.10531v1)|null|
 |**2022-06-17**|**Linear Revolution-Invariance: Modeling and Deblurring Spatially-Varying Imaging Systems**|Amit Kohli et.al.|[2206.08928v1](http://arxiv.org/abs/2206.08928v1)|**[link](https://github.com/apsk14/lri)**|
 |**2022-06-17**|**Colonoscopy 3D Video Dataset with Paired Depth from 2D-3D Registration**|Taylor L. Bobrow et.al.|[2206.08903v1](http://arxiv.org/abs/2206.08903v1)|null|
 |**2022-06-17**|**Cyclic isogenies of elliptic curves over a fixed quadratic field**|Barinder S. Banwait et.al.|[2206.08891v1](http://arxiv.org/abs/2206.08891v1)|**[link](https://github.com/barinderbanwait/quadratic_isogeny_composites)**|
@@ -89,6 +99,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-21**|**Scaling up Kernels in 3D CNNs**|Yukang Chen et.al.|[2206.10555v1](http://arxiv.org/abs/2206.10555v1)|**[link](https://github.com/dvlab-research/largekernel3d)**|
+|**2022-06-21**|**A survey on association schemes on triples**|Jose Maria P. Balmaceda et.al.|[2206.10500v1](http://arxiv.org/abs/2206.10500v1)|null|
+|**2022-06-21**|**Next-to-leading-order QCD Corrections to Higgs Production in association with a Jet**|R. Bonciani et.al.|[2206.10490v1](http://arxiv.org/abs/2206.10490v1)|null|
+|**2022-06-21**|**MEStereo-Du2CNN: A Novel Dual Channel CNN for Learning Robust Depth Estimates from Multi-exposure Stereo Images for HDR 3D Applications**|Rohit Choudhary et.al.|[2206.10375v1](http://arxiv.org/abs/2206.10375v1)|null|
+|**2022-06-21**|**GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker without Bells and Whistles**|Jianan Liu et.al.|[2206.10255v1](http://arxiv.org/abs/2206.10255v1)|null|
+|**2022-06-21**|**TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2206.10177v1](http://arxiv.org/abs/2206.10177v1)|null|
+|**2022-06-20**|**Data-driven model for divertor plasma detachment prediction**|Ben Zhu et.al.|[2206.09964v1](http://arxiv.org/abs/2206.09964v1)|null|
+|**2022-06-20**|**A Dense Representation Framework for Lexical and Semantic Matching**|Sheng-Chieh Lin et.al.|[2206.09912v1](http://arxiv.org/abs/2206.09912v1)|**[link](https://github.com/castorini/dhr)**|
+|**2022-06-20**|**Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras**|Zhengxia Zou et.al.|[2206.09770v1](http://arxiv.org/abs/2206.09770v1)|null|
+|**2022-06-20**|**Data Fusion for Radio Frequency SLAM with Robust Sampling**|Erik Leitinger et.al.|[2206.09746v1](http://arxiv.org/abs/2206.09746v1)|null|
 |**2022-06-17**|**Edge-Aided Sensor Data Sharing in Vehicular Communication Networks**|Rui Song et.al.|[2206.08882v1](http://arxiv.org/abs/2206.08882v1)|null|
 |**2022-06-17**|**Self-supervised speech unit discovery from articulatory and acoustic features using VQ-VAE**|Marc-Antoine Georges et.al.|[2206.08790v1](http://arxiv.org/abs/2206.08790v1)|null|
 |**2022-06-17**|**Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning**|Xiao Xu et.al.|[2206.08657v1](http://arxiv.org/abs/2206.08657v1)|**[link](https://github.com/microsoft/BridgeTower)**|
