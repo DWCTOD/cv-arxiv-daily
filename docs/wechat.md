@@ -1,4 +1,4 @@
-> Updated on 2022.06.22
+> Updated on 2022.06.23
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 - 2022-06-21, **Ensembling over Classifiers: a Bias-Variance Perspective**, Neha Gupta et.al., Paper: [http://arxiv.org/abs/2206.10566v1](http://arxiv.org/abs/2206.10566v1)
 - 2022-06-21, **Low Resource Pipeline for Spoken Language Understanding via Weak Supervision**, Ayush Kumar et.al., Paper: [http://arxiv.org/abs/2206.10559v1](http://arxiv.org/abs/2206.10559v1)
 - 2022-06-21, **A Study of Weisfeiler-Leman Colorings on Planar Graphs**, Sandra Kiefer et.al., Paper: [http://arxiv.org/abs/2206.10557v1](http://arxiv.org/abs/2206.10557v1)
-- 2022-06-21, **Vicinity Vision Transformer**, Weixuan Sun et.al., Paper: [http://arxiv.org/abs/2206.10552v1](http://arxiv.org/abs/2206.10552v1)
+- 2022-06-21, **Vicinity Vision Transformer**, Weixuan Sun et.al., Paper: [http://arxiv.org/abs/2206.10552v1](http://arxiv.org/abs/2206.10552v1), Code: **[https://github.com/opennlplab/vicinity-vision-transformer](https://github.com/opennlplab/vicinity-vision-transformer)**
 - 2022-06-21, **FedHiSyn: A Hierarchical Synchronous Federated Learning Framework for Resource and Data Heterogeneity**, Guanghao Li et.al., Paper: [http://arxiv.org/abs/2206.10546v1](http://arxiv.org/abs/2206.10546v1)
 - 2022-06-21, **Faster Diffusion Cardiac MRI with Deep Learning-based breath hold reduction**, Michael Tanzer et.al., Paper: [http://arxiv.org/abs/2206.10543v1](http://arxiv.org/abs/2206.10543v1)
 - 2022-06-21, **HealNet -- Self-Supervised Acute Wound Heal-Stage Classification**, Héctor Carrión et.al., Paper: [http://arxiv.org/abs/2206.10536v1](http://arxiv.org/abs/2206.10536v1)
