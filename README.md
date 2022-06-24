@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space**|Jinghuan Shang et.al.|[2206.11895v1](http://arxiv.org/abs/2206.11895v1)|null|
+|**2022-06-23**|**MaskViT: Masked Visual Pre-Training for Video Prediction**|Agrim Gupta et.al.|[2206.11894v1](http://arxiv.org/abs/2206.11894v1)|null|
+|**2022-06-23**|**Quant-BnB: A Scalable Branch-and-Bound Method for Optimal Decision Trees with Continuous Features**|Rahul Mazumder et.al.|[2206.11844v1](http://arxiv.org/abs/2206.11844v1)|null|
+|**2022-06-23**|**More Than a Wife and a Mom: A Study of Mom Vlogging Practices in China**|Bohui Shen et.al.|[2206.11843v1](http://arxiv.org/abs/2206.11843v1)|null|
+|**2022-06-23**|**Scalable 3D printing for topological mechanical metamaterials**|Achilles Bergne et.al.|[2206.11837v1](http://arxiv.org/abs/2206.11837v1)|null|
+|**2022-06-23**|**Toward Clinically Assisted Colorectal Polyp Recognition via Structured Cross-modal Representation Consistency**|Weijie Ma et.al.|[2206.11826v1](http://arxiv.org/abs/2206.11826v1)|**[link](https://github.com/weijiemax/cpc-trans)**|
+|**2022-06-23**|**Inductive Conformal Prediction: A Straightforward Introduction with Examples in Python**|Martim Sousa et.al.|[2206.11810v1](http://arxiv.org/abs/2206.11810v1)|null|
+|**2022-06-23**|**Steenrod closed parameter ideals in the mod-$2$ cohomology of $A_4$ and $SO(3)$**|Henrik Rüping et.al.|[2206.11802v1](http://arxiv.org/abs/2206.11802v1)|null|
+|**2022-06-23**|**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**|Bowen Baker et.al.|[2206.11795v1](http://arxiv.org/abs/2206.11795v1)|null|
+|**2022-06-23**|**Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark**|Hendrik Borras et.al.|[2206.11791v1](http://arxiv.org/abs/2206.11791v1)|**[link](https://github.com/mlcommons/tiny_results_v0.7/tree/main/open/hls4ml-finn)**|
 |**2022-06-22**|**Behavior Transformers: Cloning $k$ modes with one stone**|Nur Muhammad Mahi Shafiullah et.al.|[2206.11251v1](http://arxiv.org/abs/2206.11251v1)|**[link](https://github.com/notmahi/bet)**|
 |**2022-06-22**|**Classification of nondegenerate $G$-categories**|Tom Gannon et.al.|[2206.11247v1](http://arxiv.org/abs/2206.11247v1)|null|
 |**2022-06-22**|**Concentration inequalities and optimal number of layers for stochastic deep neural networks**|Michele Caprio et.al.|[2206.11241v1](http://arxiv.org/abs/2206.11241v1)|null|
@@ -109,6 +119,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**DeepSafety:Multi-level Audio-Text Feature Extraction and Fusion Approach for Violence Detection in Conversations**|Amna Anwar et.al.|[2206.11822v1](http://arxiv.org/abs/2206.11822v1)|null|
+|**2022-06-23**|**Probabilistic load forecasting for the low voltage network: forecast fusion and daily peaks**|Ciaran Gilbert et.al.|[2206.11745v1](http://arxiv.org/abs/2206.11745v1)|null|
+|**2022-06-23**|**Evidence fusion with contextual discounting for multi-modality medical image segmentation**|Ling Huang et.al.|[2206.11739v1](http://arxiv.org/abs/2206.11739v1)|**[link](https://github.com/iweisskohl/evidence-fusion-with-contextual-discounting)**|
+|**2022-06-23**|**The SJTU X-LANCE Lab System for CNSRC 2022**|Zhengyang Chen et.al.|[2206.11699v1](http://arxiv.org/abs/2206.11699v1)|null|
+|**2022-06-23**|**A Neuromorphic Vision-Based Measurement for Robust Relative Localization in Future Space Exploration Missions**|Mohammed Salah et.al.|[2206.11541v1](http://arxiv.org/abs/2206.11541v1)|null|
+|**2022-06-23**|**Dynamic Scene Deblurring Base on Continuous Cross-Layer Attention Transmission**|Xia Hua et.al.|[2206.11476v1](http://arxiv.org/abs/2206.11476v1)|null|
+|**2022-06-23**|**Formation of large chunk of nuclear matter in heavy-ion collisions**|Gao-Chan Yong et.al.|[2206.11446v1](http://arxiv.org/abs/2206.11446v1)|null|
+|**2022-06-22**|**Fusion of Model-free Reinforcement Learning with Microgrid Control: Review and Insight**|Buxin She et.al.|[2206.11398v1](http://arxiv.org/abs/2206.11398v1)|null|
+|**2022-06-22**|**An Effective Field Theory Treatment of the Production and Annihilation of Magnetic Monopoles and their Relic Abundance**|Luciano M. Abreu et.al.|[2206.11394v1](http://arxiv.org/abs/2206.11394v1)|null|
 |**2022-06-22**|**Hierarchical Sampling based Particle Filter for Visual-inertial Gimbal in the Wild**|Xueyang Kang et.al.|[2206.10981v1](http://arxiv.org/abs/2206.10981v1)|null|
 |**2022-06-22**|**Improve Sensing and Communication Performance of UAV via Integrated Sensing and Communication**|Wangjun Jiang et.al.|[2206.10945v1](http://arxiv.org/abs/2206.10945v1)|null|
 |**2022-06-22**|**Improve Radar Sensing Performance of Multiple Roadside Units Cooperation via Space Registration**|Wangjun Jiang et.al.|[2206.10930v1](http://arxiv.org/abs/2206.10930v1)|null|
