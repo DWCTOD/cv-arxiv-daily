@@ -1,4 +1,4 @@
-## Updated on 2022.06.26
+## Updated on 2022.06.27
 
 ## Video_Classification
 
@@ -9,8 +9,8 @@
 |**2022-06-23**|**Quant-BnB: A Scalable Branch-and-Bound Method for Optimal Decision Trees with Continuous Features**|Rahul Mazumder et.al.|[2206.11844v1](http://arxiv.org/abs/2206.11844v1)|null|
 |**2022-06-23**|**More Than a Wife and a Mom: A Study of Mom Vlogging Practices in China**|Bohui Shen et.al.|[2206.11843v1](http://arxiv.org/abs/2206.11843v1)|null|
 |**2022-06-23**|**Scalable 3D printing for topological mechanical metamaterials**|Achilles Bergne et.al.|[2206.11837v1](http://arxiv.org/abs/2206.11837v1)|null|
-|**2022-06-23**|**Toward Clinically Assisted Colorectal Polyp Recognition via Structured Cross-modal Representation Consistency**|Weijie Ma et.al.|[2206.11826v1](http://arxiv.org/abs/2206.11826v1)|**[link](https://github.com/weijiemax/cpc-trans)**|
-|**2022-06-23**|**Inductive Conformal Prediction: A Straightforward Introduction with Examples in Python**|Martim Sousa et.al.|[2206.11810v1](http://arxiv.org/abs/2206.11810v1)|null|
+|**2022-06-24**|**Toward Clinically Assisted Colorectal Polyp Recognition via Structured Cross-modal Representation Consistency**|Weijie Ma et.al.|[2206.11826v2](http://arxiv.org/abs/2206.11826v2)|**[link](https://github.com/weijiemax/cpc-trans)**|
+|**2022-06-24**|**Inductive Conformal Prediction: A Straightforward Introduction with Examples in Python**|Martim Sousa et.al.|[2206.11810v2](http://arxiv.org/abs/2206.11810v2)|null|
 |**2022-06-23**|**Steenrod closed parameter ideals in the mod-$2$ cohomology of $A_4$ and $SO(3)$**|Henrik Rüping et.al.|[2206.11802v1](http://arxiv.org/abs/2206.11802v1)|null|
 |**2022-06-23**|**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**|Bowen Baker et.al.|[2206.11795v1](http://arxiv.org/abs/2206.11795v1)|null|
 |**2022-06-23**|**Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark**|Hendrik Borras et.al.|[2206.11791v1](http://arxiv.org/abs/2206.11791v1)|**[link](https://github.com/mlcommons/tiny_results_v0.7/tree/main/open/hls4ml-finn)**|
