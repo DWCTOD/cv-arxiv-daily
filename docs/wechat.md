@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-06-24, **Text-Driven Stylization of Video Objects**, Sebastian Loeschcke et.al., Paper: [http://arxiv.org/abs/2206.12396v1](http://arxiv.org/abs/2206.12396v1)
+- 2022-06-24, **Using BERT Embeddings to Model Word Importance in Conversational Transcripts for Deaf and Hard of Hearing Users**, Akhter Al Amin et.al., Paper: [http://arxiv.org/abs/2206.12368v1](http://arxiv.org/abs/2206.12368v1)
+- 2022-06-24, **Segmentation-free PVC for Cardiac SPECT using a Densely-connected Multi-dimensional Dynamic Network**, Huidong Xie et.al., Paper: [http://arxiv.org/abs/2206.12344v1](http://arxiv.org/abs/2206.12344v1)
+- 2022-06-24, **HANF: Hyperparameter And Neural Architecture Search in Federated Learning**, Jonas Seng et.al., Paper: [http://arxiv.org/abs/2206.12342v1](http://arxiv.org/abs/2206.12342v1)
+- 2022-06-24, **Learning sparse features can lead to overfitting in neural networks**, Leonardo Petrini et.al., Paper: [http://arxiv.org/abs/2206.12314v1](http://arxiv.org/abs/2206.12314v1), Code: **[https://github.com/pcsl-epfl/regressionsphere](https://github.com/pcsl-epfl/regressionsphere)**
+- 2022-06-24, **Analyzing the impact of SARS-CoV-2 variants on respiratory sound signals**, Debarpan Bhattacharya et.al., Paper: [http://arxiv.org/abs/2206.12309v1](http://arxiv.org/abs/2206.12309v1)
+- 2022-06-24, **Automatic extraction of coronary arteries using deep learning in invasive coronary angiograms**, Yinghui Meng et.al., Paper: [http://arxiv.org/abs/2206.12300v1](http://arxiv.org/abs/2206.12300v1)
+- 2022-06-24, **A Literature Review on Serverless Computing**, Jinfeng Wen et.al., Paper: [http://arxiv.org/abs/2206.12275v1](http://arxiv.org/abs/2206.12275v1)
+- 2022-06-24, **Deformable CNN and Imbalance-Aware Feature Learning for Singing Technique Classification**, Yuya Yamamoto et.al., Paper: [http://arxiv.org/abs/2206.12230v1](http://arxiv.org/abs/2206.12230v1)
+- 2022-06-24, **Rate-Distortion Optimal Transform Coefficient Selection for Unoccupied Regions in Video-Based Point Cloud Compression**, Christian Herglotz et.al., Paper: [http://arxiv.org/abs/2206.12186v1](http://arxiv.org/abs/2206.12186v1)
 - 2022-06-23, **Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space**, Jinghuan Shang et.al., Paper: [http://arxiv.org/abs/2206.11895v1](http://arxiv.org/abs/2206.11895v1)
 - 2022-06-23, **MaskViT: Masked Visual Pre-Training for Video Prediction**, Agrim Gupta et.al., Paper: [http://arxiv.org/abs/2206.11894v1](http://arxiv.org/abs/2206.11894v1)
 - 2022-06-23, **Quant-BnB: A Scalable Branch-and-Bound Method for Optimal Decision Trees with Continuous Features**, Rahul Mazumder et.al., Paper: [http://arxiv.org/abs/2206.11844v1](http://arxiv.org/abs/2206.11844v1)
@@ -115,6 +125,16 @@
 
 ## MultiModal
 
+- 2022-06-24, **Analyzing the impact of SARS-CoV-2 variants on respiratory sound signals**, Debarpan Bhattacharya et.al., Paper: [http://arxiv.org/abs/2206.12309v1](http://arxiv.org/abs/2206.12309v1)
+- 2022-06-24, **Cosmic nucleosynthesis: a multi-messenger challenge**, Roland Diehl et.al., Paper: [http://arxiv.org/abs/2206.12246v1](http://arxiv.org/abs/2206.12246v1)
+- 2022-06-24, **A Fundamental Limit of Distributed Hypothesis Testing Under Memoryless Quantization**, Yunus Inan et.al., Paper: [http://arxiv.org/abs/2206.12232v1](http://arxiv.org/abs/2206.12232v1)
+- 2022-06-24, **Search for light long-lived neutral particles that decay to collimated pairs of leptons or light hadrons in $pp$ collisions at $\sqrt{s}=13$~TeV with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2206.12181v1](http://arxiv.org/abs/2206.12181v1)
+- 2022-06-24, **Augmented Reality-Empowered Network Planning Services for Private Networks**, Qi Liao et.al., Paper: [http://arxiv.org/abs/2206.12139v1](http://arxiv.org/abs/2206.12139v1)
+- 2022-06-24, **Do You Know My Emotion? Emotion-Aware Strategy Recognition towards a Persuasive Dialogue System**, Wei Peng et.al., Paper: [http://arxiv.org/abs/2206.12101v1](http://arxiv.org/abs/2206.12101v1), Code: **[https://github.com/pengwei-iie/cfonetwork](https://github.com/pengwei-iie/cfonetwork)**
+- 2022-06-24, **Multi-modal Sensor Data Fusion for In-situ Classification of Animal Behavior Using Accelerometry and GNSS Data**, Reza Arablouei et.al., Paper: [http://arxiv.org/abs/2206.12078v1](http://arxiv.org/abs/2206.12078v1), Code: **[https://github.com/reza219/animal_behavior_classification_acc_gnss](https://github.com/reza219/animal_behavior_classification_acc_gnss)**
+- 2022-06-24, **Bilateral Network with Channel Splitting Network and Transformer for Thermal Image Super-Resolution**, Bo Yan et.al., Paper: [http://arxiv.org/abs/2206.12046v1](http://arxiv.org/abs/2206.12046v1)
+- 2022-06-23, **Massively-Parallel Lagrangian Particle Code and Applications**, Shaohua Yuan et.al., Paper: [http://arxiv.org/abs/2206.11998v1](http://arxiv.org/abs/2206.11998v1)
+- 2022-06-23, **Reduced Physics Model of the Tokamak Scrape-off-Layer for Pulse Design**, X. Zhang et.al., Paper: [http://arxiv.org/abs/2206.11947v1](http://arxiv.org/abs/2206.11947v1)
 - 2022-06-23, **DeepSafety:Multi-level Audio-Text Feature Extraction and Fusion Approach for Violence Detection in Conversations**, Amna Anwar et.al., Paper: [http://arxiv.org/abs/2206.11822v1](http://arxiv.org/abs/2206.11822v1)
 - 2022-06-23, **Probabilistic load forecasting for the low voltage network: forecast fusion and daily peaks**, Ciaran Gilbert et.al., Paper: [http://arxiv.org/abs/2206.11745v1](http://arxiv.org/abs/2206.11745v1)
 - 2022-06-23, **Evidence fusion with contextual discounting for multi-modality medical image segmentation**, Ling Huang et.al., Paper: [http://arxiv.org/abs/2206.11739v1](http://arxiv.org/abs/2206.11739v1), Code: **[https://github.com/iweisskohl/evidence-fusion-with-contextual-discounting](https://github.com/iweisskohl/evidence-fusion-with-contextual-discounting)**
