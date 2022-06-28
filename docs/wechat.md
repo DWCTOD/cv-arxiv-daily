@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-06-27, **Programmatic Concept Learning for Human Motion Description and Synthesis**, Sumith Kulal et.al., Paper: [http://arxiv.org/abs/2206.13502v1](http://arxiv.org/abs/2206.13502v1)
+- 2022-06-27, **Optimized Decoding-Energy-Aware Encoding in Practical VVC Implementations**, Matthias Kränzler et.al., Paper: [http://arxiv.org/abs/2206.13483v1](http://arxiv.org/abs/2206.13483v1)
+- 2022-06-27, **Impact of Acoustic Event Tagging on Scene Classification in a Multi-Task Learning Framework**, Rahil Parikh et.al., Paper: [http://arxiv.org/abs/2206.13476v1](http://arxiv.org/abs/2206.13476v1)
+- 2022-06-27, **On the sample complexity of entropic optimal transport**, Philippe Rigollet et.al., Paper: [http://arxiv.org/abs/2206.13472v1](http://arxiv.org/abs/2206.13472v1)
+- 2022-06-27, **IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**, Abanob Soliman et.al., Paper: [http://arxiv.org/abs/2206.13455v1](http://arxiv.org/abs/2206.13455v1), Code: **[https://github.com/AbanobSoliman/IBISCape](https://github.com/AbanobSoliman/IBISCape)**
+- 2022-06-27, **Optimizing Video Prediction via Video Frame Interpolation**, Yue Wu et.al., Paper: [http://arxiv.org/abs/2206.13454v1](http://arxiv.org/abs/2206.13454v1)
+- 2022-06-27, **Benchopt: Reproducible, efficient and collaborative optimization benchmarks**, Thomas Moreau et.al., Paper: [http://arxiv.org/abs/2206.13424v1](http://arxiv.org/abs/2206.13424v1), Code: **[https://github.com/benchopt/benchopt](https://github.com/benchopt/benchopt)**
+- 2022-06-27, **DeStripe: A Self2Self Spatio-Spectral Graph Neural Network with Unfolded Hessian for Stripe Artifact Removal in Light-sheet Microscopy**, Yu Liu et.al., Paper: [http://arxiv.org/abs/2206.13419v1](http://arxiv.org/abs/2206.13419v1)
+- 2022-06-27, **Explicitly incorporating spatial information to recurrent networks for agriculture**, Claus Smitt et.al., Paper: [http://arxiv.org/abs/2206.13406v1](http://arxiv.org/abs/2206.13406v1)
+- 2022-06-27, **Mushroom image recognition and distance generation based on attention-mechanism model and genetic information**, Wenbin Liao et.al., Paper: [http://arxiv.org/abs/2206.13383v1](http://arxiv.org/abs/2206.13383v1)
 - 2022-06-27, **Text-Driven Stylization of Video Objects**, Sebastian Loeschcke et.al., Paper: [http://arxiv.org/abs/2206.12396v2](http://arxiv.org/abs/2206.12396v2)
 - 2022-06-24, **Using BERT Embeddings to Model Word Importance in Conversational Transcripts for Deaf and Hard of Hearing Users**, Akhter Al Amin et.al., Paper: [http://arxiv.org/abs/2206.12368v1](http://arxiv.org/abs/2206.12368v1)
 - 2022-06-24, **Segmentation-free PVC for Cardiac SPECT using a Densely-connected Multi-dimensional Dynamic Network**, Huidong Xie et.al., Paper: [http://arxiv.org/abs/2206.12344v1](http://arxiv.org/abs/2206.12344v1)
@@ -125,6 +135,16 @@
 
 ## MultiModal
 
+- 2022-06-27, **Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**, Barak Or et.al., Paper: [http://arxiv.org/abs/2206.13428v1](http://arxiv.org/abs/2206.13428v1)
+- 2022-06-27, **BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT**, Chi Yu et.al., Paper: [http://arxiv.org/abs/2206.13325v1](http://arxiv.org/abs/2206.13325v1), Code: **[https://github.com/NTDXYG/BASHEXPLAINER](https://github.com/NTDXYG/BASHEXPLAINER)**
+- 2022-06-27, **LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2206.13294v1](http://arxiv.org/abs/2206.13294v1)
+- 2022-06-27, **Three-dimensional TQFTs via string-nets and two-dimensional surgery**, Bruce Bartlett et.al., Paper: [http://arxiv.org/abs/2206.13262v1](http://arxiv.org/abs/2206.13262v1)
+- 2022-06-27, **A Topic-Attentive Transformer-based Model For Multimodal Depression Detection**, Yanrong Guo et.al., Paper: [http://arxiv.org/abs/2206.13256v1](http://arxiv.org/abs/2206.13256v1)
+- 2022-06-27, **Potential energy surface and formation of superheavy nuclei with the Skyrme energy-density functional**, Cheng Peng et.al., Paper: [http://arxiv.org/abs/2206.13201v1](http://arxiv.org/abs/2206.13201v1)
+- 2022-06-27, **Fermionization of fusion category symmetries in 1+1 dimensions**, Kansei Inamura et.al., Paper: [http://arxiv.org/abs/2206.13159v1](http://arxiv.org/abs/2206.13159v1)
+- 2022-06-27, **Detection of Doctored Speech: Towards an End-to-End Parametric Learn-able Filter Approach**, Rohit Arora et.al., Paper: [http://arxiv.org/abs/2206.13066v1](http://arxiv.org/abs/2206.13066v1)
+- 2022-06-26, **AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2206.12946v1](http://arxiv.org/abs/2206.12946v1)
+- 2022-06-26, **Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer**, Ailin Huang et.al., Paper: [http://arxiv.org/abs/2206.12837v1](http://arxiv.org/abs/2206.12837v1)
 - 2022-06-24, **Analyzing the impact of SARS-CoV-2 variants on respiratory sound signals**, Debarpan Bhattacharya et.al., Paper: [http://arxiv.org/abs/2206.12309v1](http://arxiv.org/abs/2206.12309v1)
 - 2022-06-24, **Cosmic nucleosynthesis: a multi-messenger challenge**, Roland Diehl et.al., Paper: [http://arxiv.org/abs/2206.12246v1](http://arxiv.org/abs/2206.12246v1)
 - 2022-06-24, **A Fundamental Limit of Distributed Hypothesis Testing Under Memoryless Quantization**, Yunus Inan et.al., Paper: [http://arxiv.org/abs/2206.12232v1](http://arxiv.org/abs/2206.12232v1)
