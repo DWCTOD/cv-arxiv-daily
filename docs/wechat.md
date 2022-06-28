@@ -1,8 +1,8 @@
-> Updated on 2022.06.27
+> Updated on 2022.06.28
 
 ## Video_Classification
 
-- 2022-06-24, **Text-Driven Stylization of Video Objects**, Sebastian Loeschcke et.al., Paper: [http://arxiv.org/abs/2206.12396v1](http://arxiv.org/abs/2206.12396v1)
+- 2022-06-27, **Text-Driven Stylization of Video Objects**, Sebastian Loeschcke et.al., Paper: [http://arxiv.org/abs/2206.12396v2](http://arxiv.org/abs/2206.12396v2)
 - 2022-06-24, **Using BERT Embeddings to Model Word Importance in Conversational Transcripts for Deaf and Hard of Hearing Users**, Akhter Al Amin et.al., Paper: [http://arxiv.org/abs/2206.12368v1](http://arxiv.org/abs/2206.12368v1)
 - 2022-06-24, **Segmentation-free PVC for Cardiac SPECT using a Densely-connected Multi-dimensional Dynamic Network**, Huidong Xie et.al., Paper: [http://arxiv.org/abs/2206.12344v1](http://arxiv.org/abs/2206.12344v1)
 - 2022-06-24, **HANF: Hyperparameter And Neural Architecture Search in Federated Learning**, Jonas Seng et.al., Paper: [http://arxiv.org/abs/2206.12342v1](http://arxiv.org/abs/2206.12342v1)
