@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-06-28, **DayDreamer: World Models for Physical Robot Learning**, Philipp Wu et.al., Paper: [http://arxiv.org/abs/2206.14176v1](http://arxiv.org/abs/2206.14176v1)
+- 2022-06-28, **Comparison of metadata with relevance for bibliometrics between Microsoft Academic Graph and OpenAlex until 2020**, Thomas Scheidsteger et.al., Paper: [http://arxiv.org/abs/2206.14168v1](http://arxiv.org/abs/2206.14168v1)
+- 2022-06-28, **Wave spectroscopy in a driven granular material**, Michael Berhanu et.al., Paper: [http://arxiv.org/abs/2206.14144v1](http://arxiv.org/abs/2206.14144v1)
+- 2022-06-28, **RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network**, Vitaliy Chiley et.al., Paper: [http://arxiv.org/abs/2206.14098v1](http://arxiv.org/abs/2206.14098v1)
+- 2022-06-28, **Placing (Historical) Facts on a Timeline: A Classification cum Coref Resolution Approach**, Sayantan Adak et.al., Paper: [http://arxiv.org/abs/2206.14089v1](http://arxiv.org/abs/2206.14089v1)
+- 2022-06-28, **Continual Learning with Transformers for Image Classification**, Beyza Ermis et.al., Paper: [http://arxiv.org/abs/2206.14085v1](http://arxiv.org/abs/2206.14085v1)
+- 2022-06-28, **Short-Term Plasticity Neurons Learning to Learn and Forget**, Hector Garcia Rodriguez et.al., Paper: [http://arxiv.org/abs/2206.14048v1](http://arxiv.org/abs/2206.14048v1)
+- 2022-06-28, **A Bayesian hierarchical model for improving exercise rehabilitation in mechanically ventilated ICU patients**, Luke Hardcastle et.al., Paper: [http://arxiv.org/abs/2206.14047v1](http://arxiv.org/abs/2206.14047v1)
+- 2022-06-28, **Taxonomy and evolution predicting using deep learning in images**, Jiewen Xiao et.al., Paper: [http://arxiv.org/abs/2206.14011v1](http://arxiv.org/abs/2206.14011v1)
+- 2022-06-28, **Show Me Your Face, And I'll Tell You How You Speak**, Christen Millerdurai et.al., Paper: [http://arxiv.org/abs/2206.14009v1](http://arxiv.org/abs/2206.14009v1)
 - 2022-06-27, **Programmatic Concept Learning for Human Motion Description and Synthesis**, Sumith Kulal et.al., Paper: [http://arxiv.org/abs/2206.13502v1](http://arxiv.org/abs/2206.13502v1)
 - 2022-06-27, **Optimized Decoding-Energy-Aware Encoding in Practical VVC Implementations**, Matthias Kränzler et.al., Paper: [http://arxiv.org/abs/2206.13483v1](http://arxiv.org/abs/2206.13483v1)
 - 2022-06-27, **Impact of Acoustic Event Tagging on Scene Classification in a Multi-Task Learning Framework**, Rahil Parikh et.al., Paper: [http://arxiv.org/abs/2206.13476v1](http://arxiv.org/abs/2206.13476v1)
@@ -135,6 +145,14 @@
 
 ## MultiModal
 
+- 2022-06-28, **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**, Sangyun Lee et.al., Paper: [http://arxiv.org/abs/2206.14180v1](http://arxiv.org/abs/2206.14180v1)
+- 2022-06-28, **SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving**, Prarthana Bhattacharyya et.al., Paper: [http://arxiv.org/abs/2206.14116v1](http://arxiv.org/abs/2206.14116v1)
+- 2022-06-28, **RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network**, Vitaliy Chiley et.al., Paper: [http://arxiv.org/abs/2206.14098v1](http://arxiv.org/abs/2206.14098v1)
+- 2022-06-28, **MACSA: A Multimodal Aspect-Category Sentiment Analysis Dataset with Multimodal Fine-grained Aligned Annotations**, Hao Yang et.al., Paper: [http://arxiv.org/abs/2206.13969v1](http://arxiv.org/abs/2206.13969v1)
+- 2022-06-28, **Speaker Verification in Multi-Speaker Environments Using Temporal Feature Fusion**, Ahmad Aloradi et.al., Paper: [http://arxiv.org/abs/2206.13808v1](http://arxiv.org/abs/2206.13808v1)
+- 2022-06-28, **Two Methods for Spoofing-Aware Speaker Verification: Multi-Layer Perceptron Score Fusion Model and Integrated Embedding Projector**, Jungwoo Heo et.al., Paper: [http://arxiv.org/abs/2206.13807v1](http://arxiv.org/abs/2206.13807v1)
+- 2022-06-27, **Multi-scale Network with Attentional Multi-resolution Fusion for Point Cloud Semantic Segmentation**, Yuyan Li et.al., Paper: [http://arxiv.org/abs/2206.13628v1](http://arxiv.org/abs/2206.13628v1)
+- 2022-06-27, **BeamsNet: A data-driven Approach Enhancing Doppler Velocity Log Measurements for Autonomous Underwater Vehicle Navigation**, Nadav Cohen et.al., Paper: [http://arxiv.org/abs/2206.13603v1](http://arxiv.org/abs/2206.13603v1)
 - 2022-06-27, **Adaptive Step Size Learning with Applications to Velocity Aided Inertial Navigation System**, Barak Or et.al., Paper: [http://arxiv.org/abs/2206.13428v1](http://arxiv.org/abs/2206.13428v1)
 - 2022-06-27, **BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT**, Chi Yu et.al., Paper: [http://arxiv.org/abs/2206.13325v1](http://arxiv.org/abs/2206.13325v1), Code: **[https://github.com/NTDXYG/BASHEXPLAINER](https://github.com/NTDXYG/BASHEXPLAINER)**
 - 2022-06-27, **LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2206.13294v1](http://arxiv.org/abs/2206.13294v1)
