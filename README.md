@@ -1,4 +1,4 @@
-## Updated on 2022.06.28
+## Updated on 2022.06.29
 
 ## Video_Classification
 
@@ -10,7 +10,7 @@
 |**2022-06-27**|**On the sample complexity of entropic optimal transport**|Philippe Rigollet et.al.|[2206.13472v1](http://arxiv.org/abs/2206.13472v1)|null|
 |**2022-06-27**|**IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**|Abanob Soliman et.al.|[2206.13455v1](http://arxiv.org/abs/2206.13455v1)|**[link](https://github.com/AbanobSoliman/IBISCape)**|
 |**2022-06-27**|**Optimizing Video Prediction via Video Frame Interpolation**|Yue Wu et.al.|[2206.13454v1](http://arxiv.org/abs/2206.13454v1)|null|
-|**2022-06-27**|**Benchopt: Reproducible, efficient and collaborative optimization benchmarks**|Thomas Moreau et.al.|[2206.13424v1](http://arxiv.org/abs/2206.13424v1)|**[link](https://github.com/benchopt/benchopt)**|
+|**2022-06-28**|**Benchopt: Reproducible, efficient and collaborative optimization benchmarks**|Thomas Moreau et.al.|[2206.13424v2](http://arxiv.org/abs/2206.13424v2)|**[link](https://github.com/benchopt/benchopt)**|
 |**2022-06-27**|**DeStripe: A Self2Self Spatio-Spectral Graph Neural Network with Unfolded Hessian for Stripe Artifact Removal in Light-sheet Microscopy**|Yu Liu et.al.|[2206.13419v1](http://arxiv.org/abs/2206.13419v1)|null|
 |**2022-06-27**|**Explicitly incorporating spatial information to recurrent networks for agriculture**|Claus Smitt et.al.|[2206.13406v1](http://arxiv.org/abs/2206.13406v1)|null|
 |**2022-06-27**|**Mushroom image recognition and distance generation based on attention-mechanism model and genetic information**|Wenbin Liao et.al.|[2206.13383v1](http://arxiv.org/abs/2206.13383v1)|null|
