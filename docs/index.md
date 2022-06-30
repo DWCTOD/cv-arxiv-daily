@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-29**|**3D-Aware Video Generation**|Sherwin Bahmani et.al.|[2206.14797v1](http://arxiv.org/abs/2206.14797v1)|null|
+|**2022-06-29**|**Placenta Segmentation in Ultrasound Imaging: Addressing Sources of Uncertainty and Limited Field-of-View**|Veronika A. Zimmer et.al.|[2206.14746v1](http://arxiv.org/abs/2206.14746v1)|**[link](https://github.com/vamzimmer/multitask_seg_placenta)**|
+|**2022-06-29**|**Classification of irreducible representations of metaplectic covers of the general linear group over a non-archimedean local field**|Eyal Kaplan et.al.|[2206.14731v1](http://arxiv.org/abs/2206.14731v1)|null|
+|**2022-06-29**|**CONVIQT: Contrastive Video Quality Estimator**|Pavan C. Madhusudana et.al.|[2206.14713v1](http://arxiv.org/abs/2206.14713v1)|**[link](https://github.com/pavancm/conviqt)**|
+|**2022-06-29**|**An Embedding Framework for the Design and Analysis of Consistent Polyhedral Surrogates**|Jessie Finocchiaro et.al.|[2206.14707v1](http://arxiv.org/abs/2206.14707v1)|null|
+|**2022-06-29**|**Computer-aided diagnosis and prediction in brain disorders**|Vikram Venkatraghavan et.al.|[2206.14683v1](http://arxiv.org/abs/2206.14683v1)|null|
+|**2022-06-29**|**BiometryNet: Landmark-based Fetal Biometry Estimation from Standard Ultrasound Planes**|Netanell Avisdris et.al.|[2206.14678v1](http://arxiv.org/abs/2206.14678v1)|null|
+|**2022-06-29**|**Deep Learning-Based Attenuation and Scatter Correction of Brain 18F-FDG PET Images in the Image Domain**|Reza Jahangir et.al.|[2206.14673v1](http://arxiv.org/abs/2206.14673v1)|null|
+|**2022-06-29**|**Towards a Data-Driven Requirements Engineering Approach: Automatic Analysis of User Reviews**|Jialiang Wei et.al.|[2206.14669v1](http://arxiv.org/abs/2206.14669v1)|null|
+|**2022-06-29**|**The THUEE System Description for the IARPA OpenASR21 Challenge**|Jing Zhao et.al.|[2206.14660v1](http://arxiv.org/abs/2206.14660v1)|null|
 |**2022-06-28**|**DayDreamer: World Models for Physical Robot Learning**|Philipp Wu et.al.|[2206.14176v1](http://arxiv.org/abs/2206.14176v1)|null|
 |**2022-06-28**|**Comparison of metadata with relevance for bibliometrics between Microsoft Academic Graph and OpenAlex until 2020**|Thomas Scheidsteger et.al.|[2206.14168v1](http://arxiv.org/abs/2206.14168v1)|null|
 |**2022-06-28**|**Wave spectroscopy in a driven granular material**|Michael Berhanu et.al.|[2206.14144v1](http://arxiv.org/abs/2206.14144v1)|null|
@@ -153,8 +163,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-06-28**|**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**|Sangyun Lee et.al.|[2206.14180v1](http://arxiv.org/abs/2206.14180v1)|null|
-|**2022-06-28**|**SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving**|Prarthana Bhattacharyya et.al.|[2206.14116v1](http://arxiv.org/abs/2206.14116v1)|null|
+|**2022-06-29**|**Placenta Segmentation in Ultrasound Imaging: Addressing Sources of Uncertainty and Limited Field-of-View**|Veronika A. Zimmer et.al.|[2206.14746v1](http://arxiv.org/abs/2206.14746v1)|**[link](https://github.com/vamzimmer/multitask_seg_placenta)**|
+|**2022-06-29**|**GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction**|Jingwen Wang et.al.|[2206.14735v1](http://arxiv.org/abs/2206.14735v1)|null|
+|**2022-06-29**|**On the depletion behaviour of low-temperature covalently bonded silicon sensor diodes**|Johannes Wüthrich et.al.|[2206.14717v1](http://arxiv.org/abs/2206.14717v1)|null|
+|**2022-06-29**|**Validation and results of an approximate model for the stress of a Tokamak toroidal field coil at the inboard midplane**|C. P. S. Swanson et.al.|[2206.14699v1](http://arxiv.org/abs/2206.14699v1)|null|
+|**2022-06-29**|**NNLO study of top-quark mass renormalization scheme uncertainties in Higgs boson production**|Javier Mazzitelli et.al.|[2206.14667v1](http://arxiv.org/abs/2206.14667v1)|null|
+|**2022-06-29**|**Anomalous Higgs boson couplings in weak boson fusion production at NNLO in QCD**|Konstantin Asteriadis et.al.|[2206.14630v1](http://arxiv.org/abs/2206.14630v1)|null|
+|**2022-06-29**|**Contextual Density Ratio for Language Model Biasing of Sequence to Sequence ASR Systems**|Jesús Andrés-Ferrer et.al.|[2206.14623v1](http://arxiv.org/abs/2206.14623v1)|null|
+|**2022-06-29**|**Uncertainty-aware Panoptic Segmentation**|Kshitij Sirohi et.al.|[2206.14554v1](http://arxiv.org/abs/2206.14554v1)|null|
+|**2022-06-28**|**High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**|Sangyun Lee et.al.|[2206.14180v1](http://arxiv.org/abs/2206.14180v1)|**[link](https://github.com/sangyun884/hr-viton)**|
+|**2022-06-28**|**SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving**|Prarthana Bhattacharyya et.al.|[2206.14116v1](http://arxiv.org/abs/2206.14116v1)|**[link](https://github.com/autovision-cloud/ssl-lanes)**|
 |**2022-06-28**|**RevBiFPN: The Fully Reversible Bidirectional Feature Pyramid Network**|Vitaliy Chiley et.al.|[2206.14098v1](http://arxiv.org/abs/2206.14098v1)|null|
 |**2022-06-28**|**MACSA: A Multimodal Aspect-Category Sentiment Analysis Dataset with Multimodal Fine-grained Aligned Annotations**|Hao Yang et.al.|[2206.13969v1](http://arxiv.org/abs/2206.13969v1)|null|
 |**2022-06-28**|**Speaker Verification in Multi-Speaker Environments Using Temporal Feature Fusion**|Ahmad Aloradi et.al.|[2206.13808v1](http://arxiv.org/abs/2206.13808v1)|null|
