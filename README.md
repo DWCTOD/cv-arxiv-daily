@@ -1,4 +1,4 @@
-## Updated on 2022.06.29
+## Updated on 2022.06.30
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@
 |**2022-06-28**|**Short-Term Plasticity Neurons Learning to Learn and Forget**|Hector Garcia Rodriguez et.al.|[2206.14048v1](http://arxiv.org/abs/2206.14048v1)|null|
 |**2022-06-28**|**A Bayesian hierarchical model for improving exercise rehabilitation in mechanically ventilated ICU patients**|Luke Hardcastle et.al.|[2206.14047v1](http://arxiv.org/abs/2206.14047v1)|null|
 |**2022-06-28**|**Taxonomy and evolution predicting using deep learning in images**|Jiewen Xiao et.al.|[2206.14011v1](http://arxiv.org/abs/2206.14011v1)|null|
-|**2022-06-28**|**Show Me Your Face, And I'll Tell You How You Speak**|Christen Millerdurai et.al.|[2206.14009v1](http://arxiv.org/abs/2206.14009v1)|null|
+|**2022-06-28**|**Show Me Your Face, And I'll Tell You How You Speak**|Christen Millerdurai et.al.|[2206.14009v1](http://arxiv.org/abs/2206.14009v1)|**[link](https://github.com/chris10m/lip2speech)**|
 |**2022-06-27**|**Programmatic Concept Learning for Human Motion Description and Synthesis**|Sumith Kulal et.al.|[2206.13502v1](http://arxiv.org/abs/2206.13502v1)|null|
 |**2022-06-27**|**Optimized Decoding-Energy-Aware Encoding in Practical VVC Implementations**|Matthias Kränzler et.al.|[2206.13483v1](http://arxiv.org/abs/2206.13483v1)|null|
 |**2022-06-27**|**Impact of Acoustic Event Tagging on Scene Classification in a Multi-Task Learning Framework**|Rahil Parikh et.al.|[2206.13476v1](http://arxiv.org/abs/2206.13476v1)|null|
