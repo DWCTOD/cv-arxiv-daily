@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing**|Donglai Xiang et.al.|[2206.15470v1](http://arxiv.org/abs/2206.15470v1)|null|
+|**2022-06-30**|**Watch and Match: Supercharging Imitation with Regularized Optimal Transport**|Siddhant Haldar et.al.|[2206.15469v1](http://arxiv.org/abs/2206.15469v1)|null|
+|**2022-06-30**|**Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values**|Zijie J. Wang et.al.|[2206.15465v1](http://arxiv.org/abs/2206.15465v1)|null|
+|**2022-06-30**|**Learning Iterative Reasoning through Energy Minimization**|Yilun Du et.al.|[2206.15448v1](http://arxiv.org/abs/2206.15448v1)|null|
+|**2022-06-30**|**Asymmetry Disentanglement Network for Interpretable Acute Ischemic Stroke Infarct Segmentation in Non-Contrast CT Scans**|Haomiao Ni et.al.|[2206.15445v1](http://arxiv.org/abs/2206.15445v1)|**[link](https://github.com/nihaomiao/miccai22_adn)**|
+|**2022-06-30**|**Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset**|Yang Fu et.al.|[2206.15436v1](http://arxiv.org/abs/2206.15436v1)|null|
+|**2022-06-30**|**Shifts 2.0: Extending The Dataset of Real Distributional Shifts**|Andrey Malinin et.al.|[2206.15407v1](http://arxiv.org/abs/2206.15407v1)|**[link](https://github.com/shifts-project/shifts)**|
+|**2022-06-30**|**Learning Audio-Text Agreement for Open-vocabulary Keyword Spotting**|Hyeon-Kyeong Shin et.al.|[2206.15400v1](http://arxiv.org/abs/2206.15400v1)|null|
+|**2022-06-30**|**Improving the Generalization of Supervised Models**|Mert Bulent Sariyildiz et.al.|[2206.15369v1](http://arxiv.org/abs/2206.15369v1)|null|
+|**2022-06-30**|**Two-Stage Classifier for COVID-19 Misinformation Detection Using BERT: a Study on Indonesian Tweets**|Douglas Raevan Faisal et.al.|[2206.15359v1](http://arxiv.org/abs/2206.15359v1)|null|
 |**2022-06-29**|**3D-Aware Video Generation**|Sherwin Bahmani et.al.|[2206.14797v1](http://arxiv.org/abs/2206.14797v1)|null|
 |**2022-06-29**|**Placenta Segmentation in Ultrasound Imaging: Addressing Sources of Uncertainty and Limited Field-of-View**|Veronika A. Zimmer et.al.|[2206.14746v1](http://arxiv.org/abs/2206.14746v1)|**[link](https://github.com/vamzimmer/multitask_seg_placenta)**|
 |**2022-06-29**|**Classification of irreducible representations of metaplectic covers of the general linear group over a non-archimedean local field**|Eyal Kaplan et.al.|[2206.14731v1](http://arxiv.org/abs/2206.14731v1)|null|
@@ -159,6 +169,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**A Medical Image Fusion Method based on MDLatLRRv2**|Xu Song et.al.|[2206.15179v1](http://arxiv.org/abs/2206.15179v1)|null|
+|**2022-06-30**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermann et.al.|[2206.15157v1](http://arxiv.org/abs/2206.15157v1)|**[link](https://github.com/timbroed/hrfuser)**|
+|**2022-06-30**|**Learning-Aided Beam Prediction in mmWave MU-MIMO Systems for High-Speed Railway**|Fan Meng et.al.|[2206.15095v1](http://arxiv.org/abs/2206.15095v1)|null|
+|**2022-06-30**|**Sub-barrier fusion hindrance and absence of neutron transfer channels**|Vinay Singh et.al.|[2206.15087v1](http://arxiv.org/abs/2206.15087v1)|null|
+|**2022-06-30**|**FeaRLESS: Feature Refinement Loss for Ensembling Self-Supervised Learning Features in Robust End-to-end Speech Recognition**|Szu-Jui Chen et.al.|[2206.15056v1](http://arxiv.org/abs/2206.15056v1)|null|
+|**2022-06-30**|**Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction**|Liangzhe Han et.al.|[2206.15005v1](http://arxiv.org/abs/2206.15005v1)|null|
+|**2022-06-30**|**Improving Visual Speech Enhancement Network by Learning Audio-visual Affinity with Multi-head Attention**|Xinmeng Xu et.al.|[2206.14964v1](http://arxiv.org/abs/2206.14964v1)|null|
+|**2022-06-29**|**Doubly Charged Higgs Boson Production at Hadron Colliders II: A Zee-Babu Case Study**|Richard Ruiz et.al.|[2206.14833v1](http://arxiv.org/abs/2206.14833v1)|null|
 |**2022-06-29**|**Placenta Segmentation in Ultrasound Imaging: Addressing Sources of Uncertainty and Limited Field-of-View**|Veronika A. Zimmer et.al.|[2206.14746v1](http://arxiv.org/abs/2206.14746v1)|**[link](https://github.com/vamzimmer/multitask_seg_placenta)**|
 |**2022-06-29**|**GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction**|Jingwen Wang et.al.|[2206.14735v1](http://arxiv.org/abs/2206.14735v1)|null|
 |**2022-06-29**|**On the depletion behaviour of low-temperature covalently bonded silicon sensor diodes**|Johannes Wüthrich et.al.|[2206.14717v1](http://arxiv.org/abs/2206.14717v1)|null|
