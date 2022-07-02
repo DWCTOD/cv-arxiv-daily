@@ -17,7 +17,7 @@ layout: default
 |**2022-06-30**|**Shifts 2.0: Extending The Dataset of Real Distributional Shifts**|Andrey Malinin et.al.|[2206.15407v1](http://arxiv.org/abs/2206.15407v1)|**[link](https://github.com/shifts-project/shifts)**|
 |**2022-06-30**|**Learning Audio-Text Agreement for Open-vocabulary Keyword Spotting**|Hyeon-Kyeong Shin et.al.|[2206.15400v1](http://arxiv.org/abs/2206.15400v1)|null|
 |**2022-06-30**|**Improving the Generalization of Supervised Models**|Mert Bulent Sariyildiz et.al.|[2206.15369v1](http://arxiv.org/abs/2206.15369v1)|null|
-|**2022-06-30**|**Two-Stage Classifier for COVID-19 Misinformation Detection Using BERT: a Study on Indonesian Tweets**|Douglas Raevan Faisal et.al.|[2206.15359v1](http://arxiv.org/abs/2206.15359v1)|null|
+|**2022-06-30**|**Two-Stage Classifier for COVID-19 Misinformation Detection Using BERT: a Study on Indonesian Tweets**|Douglas Raevan Faisal et.al.|[2206.15359v1](http://arxiv.org/abs/2206.15359v1)|**[link](https://github.com/douglasraevan/covid19-indonesian-misinformation-tweets)**|
 |**2022-06-29**|**3D-Aware Video Generation**|Sherwin Bahmani et.al.|[2206.14797v1](http://arxiv.org/abs/2206.14797v1)|null|
 |**2022-06-29**|**Placenta Segmentation in Ultrasound Imaging: Addressing Sources of Uncertainty and Limited Field-of-View**|Veronika A. Zimmer et.al.|[2206.14746v1](http://arxiv.org/abs/2206.14746v1)|**[link](https://github.com/vamzimmer/multitask_seg_placenta)**|
 |**2022-06-29**|**Classification of irreducible representations of metaplectic covers of the general linear group over a non-archimedean local field**|Eyal Kaplan et.al.|[2206.14731v1](http://arxiv.org/abs/2206.14731v1)|null|
