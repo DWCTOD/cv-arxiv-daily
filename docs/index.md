@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**On Leave-One-Out Conditional Mutual Information For Generalization**|Mohamad Rida Rammal et.al.|[2207.00581v1](http://arxiv.org/abs/2207.00581v1)|null|
+|**2022-07-01**|**Video + CLIP Baseline for Ego4D Long-term Action Anticipation**|Srijan Das et.al.|[2207.00579v1](http://arxiv.org/abs/2207.00579v1)|**[link](https://github.com/srijandas07/clip_baseline_lta_ego4d)**|
+|**2022-07-01**|**How can spherical CNNs benefit ML-based diffusion MRI parameter estimation?**|Tobias Goodwin-Allcock et.al.|[2207.00572v1](http://arxiv.org/abs/2207.00572v1)|null|
+|**2022-07-01**|**The "AI+R"-tree: An Instance-optimized R-tree**|Abdullah-Al-Mamun et.al.|[2207.00550v1](http://arxiv.org/abs/2207.00550v1)|null|
+|**2022-07-01**|**QoE-Centric Multi-User mmWave Scheduling: A Beam Alignment and Buffer Predictive Approach**|Babak Badnava et.al.|[2207.00532v1](http://arxiv.org/abs/2207.00532v1)|null|
+|**2022-07-01**|**Ray-Space Motion Compensation for Lenslet Plenoptic Video Coding**|Thuc Nguyen Huu et.al.|[2207.00522v1](http://arxiv.org/abs/2207.00522v1)|null|
+|**2022-07-01**|**How Far Can I Go ? : A Self-Supervised Approach for Deterministic Video Depth Forecasting**|Suaradip Nag et.al.|[2207.00506v1](http://arxiv.org/abs/2207.00506v1)|**[link](https://github.com/sauradip/depthforecasting)**|
+|**2022-07-01**|**Unsupervised Cross-Domain Feature Extraction for Single Blood Cell Image Classification**|Raheleh Salehi et.al.|[2207.00501v1](http://arxiv.org/abs/2207.00501v1)|null|
+|**2022-07-01**|**Personalized Diagnostic Tool for Thyroid Cancer Classification using Multi-view Ultrasound**|Han Huang et.al.|[2207.00496v1](http://arxiv.org/abs/2207.00496v1)|null|
+|**2022-07-01**|**Agent with Tangent-based Formulation and Anatomical Perception for Standard Plane Localization in 3D Ultrasound**|Yuxin Zou et.al.|[2207.00475v1](http://arxiv.org/abs/2207.00475v1)|null|
 |**2022-06-30**|**Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing**|Donglai Xiang et.al.|[2206.15470v1](http://arxiv.org/abs/2206.15470v1)|null|
 |**2022-06-30**|**Watch and Match: Supercharging Imitation with Regularized Optimal Transport**|Siddhant Haldar et.al.|[2206.15469v1](http://arxiv.org/abs/2206.15469v1)|null|
 |**2022-06-30**|**Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values**|Zijie J. Wang et.al.|[2206.15465v1](http://arxiv.org/abs/2206.15465v1)|null|
@@ -173,6 +183,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Measurement of the properties of Higgs boson production at $\sqrt{s} = 13$ TeV in the $H\toγγ$ channel using $139$ fb$^{-1}$ of $pp$ collision data with the ATLAS experiment**|ATLAS Collaboration et.al.|[2207.00348v1](http://arxiv.org/abs/2207.00348v1)|null|
+|**2022-07-01**|**Measurements of Higgs boson production by gluon$-$gluon fusion and vector-boson fusion using $H\rightarrow W W^* \rightarrow eνμν$ decays in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2207.00338v1](http://arxiv.org/abs/2207.00338v1)|null|
+|**2022-07-01**|**DALG: Deep Attentive Local and Global Modeling for Image Retrieval**|Yuxin Song et.al.|[2207.00287v1](http://arxiv.org/abs/2207.00287v1)|null|
+|**2022-07-01**|**Towards Two-view 6D Object Pose Estimation: A Comparative Study on Fusion Strategy**|Jun Wu et.al.|[2207.00260v1](http://arxiv.org/abs/2207.00260v1)|null|
+|**2022-07-01**|**Bridging Fidelities to Predict Nanoindentation Tip Radii Using Interpretable Deep Learning Models**|Claus O. W. Trost et.al.|[2207.00243v1](http://arxiv.org/abs/2207.00243v1)|null|
+|**2022-07-01**|**MMFN: Multi-Modal-Fusion-Net for End-to-End Driving**|Qingwen Zhang et.al.|[2207.00186v1](http://arxiv.org/abs/2207.00186v1)|**[link](https://github.com/Kin-Zhang/mmfn)**|
+|**2022-07-01**|**A New Dataset and A Baseline Model for Breast Lesion Detection in Ultrasound Videos**|Zhi Lin et.al.|[2207.00141v1](http://arxiv.org/abs/2207.00141v1)|**[link](https://github.com/jhl-det/cva-net)**|
+|**2022-06-30**|**Infuence of mass ablation on ignition and burn propagation in layered fusion capsules**|W. Daughton et.al.|[2207.00093v1](http://arxiv.org/abs/2207.00093v1)|null|
 |**2022-06-30**|**A Medical Image Fusion Method based on MDLatLRRv2**|Xu Song et.al.|[2206.15179v1](http://arxiv.org/abs/2206.15179v1)|null|
 |**2022-06-30**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermann et.al.|[2206.15157v1](http://arxiv.org/abs/2206.15157v1)|**[link](https://github.com/timbroed/hrfuser)**|
 |**2022-06-30**|**Learning-Aided Beam Prediction in mmWave MU-MIMO Systems for High-Speed Railway**|Fan Meng et.al.|[2206.15095v1](http://arxiv.org/abs/2206.15095v1)|null|
