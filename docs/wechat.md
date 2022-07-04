@@ -1,4 +1,4 @@
-> Updated on 2022.07.03
+> Updated on 2022.07.04
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 - 2022-06-30, **Asymmetry Disentanglement Network for Interpretable Acute Ischemic Stroke Infarct Segmentation in Non-Contrast CT Scans**, Haomiao Ni et.al., Paper: [http://arxiv.org/abs/2206.15445v1](http://arxiv.org/abs/2206.15445v1), Code: **[https://github.com/nihaomiao/miccai22_adn](https://github.com/nihaomiao/miccai22_adn)**
 - 2022-06-30, **Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset**, Yang Fu et.al., Paper: [http://arxiv.org/abs/2206.15436v1](http://arxiv.org/abs/2206.15436v1)
 - 2022-06-30, **Shifts 2.0: Extending The Dataset of Real Distributional Shifts**, Andrey Malinin et.al., Paper: [http://arxiv.org/abs/2206.15407v1](http://arxiv.org/abs/2206.15407v1), Code: **[https://github.com/shifts-project/shifts](https://github.com/shifts-project/shifts)**
-- 2022-06-30, **Learning Audio-Text Agreement for Open-vocabulary Keyword Spotting**, Hyeon-Kyeong Shin et.al., Paper: [http://arxiv.org/abs/2206.15400v1](http://arxiv.org/abs/2206.15400v1)
+- 2022-07-01, **Learning Audio-Text Agreement for Open-vocabulary Keyword Spotting**, Hyeon-Kyeong Shin et.al., Paper: [http://arxiv.org/abs/2206.15400v2](http://arxiv.org/abs/2206.15400v2)
 - 2022-06-30, **Improving the Generalization of Supervised Models**, Mert Bulent Sariyildiz et.al., Paper: [http://arxiv.org/abs/2206.15369v1](http://arxiv.org/abs/2206.15369v1)
 - 2022-06-30, **Two-Stage Classifier for COVID-19 Misinformation Detection Using BERT: a Study on Indonesian Tweets**, Douglas Raevan Faisal et.al., Paper: [http://arxiv.org/abs/2206.15359v1](http://arxiv.org/abs/2206.15359v1), Code: **[https://github.com/douglasraevan/covid19-indonesian-misinformation-tweets](https://github.com/douglasraevan/covid19-indonesian-misinformation-tweets)**
 - 2022-06-29, **3D-Aware Video Generation**, Sherwin Bahmani et.al., Paper: [http://arxiv.org/abs/2206.14797v1](http://arxiv.org/abs/2206.14797v1)
