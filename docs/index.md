@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.04
+## Updated on 2022.07.05
 
 ## Video_Classification
 
@@ -191,7 +191,7 @@ layout: default
 |**2022-07-01**|**MMFN: Multi-Modal-Fusion-Net for End-to-End Driving**|Qingwen Zhang et.al.|[2207.00186v1](http://arxiv.org/abs/2207.00186v1)|**[link](https://github.com/Kin-Zhang/mmfn)**|
 |**2022-07-01**|**A New Dataset and A Baseline Model for Breast Lesion Detection in Ultrasound Videos**|Zhi Lin et.al.|[2207.00141v1](http://arxiv.org/abs/2207.00141v1)|**[link](https://github.com/jhl-det/cva-net)**|
 |**2022-06-30**|**Infuence of mass ablation on ignition and burn propagation in layered fusion capsules**|W. Daughton et.al.|[2207.00093v1](http://arxiv.org/abs/2207.00093v1)|null|
-|**2022-06-30**|**A Medical Image Fusion Method based on MDLatLRRv2**|Xu Song et.al.|[2206.15179v1](http://arxiv.org/abs/2206.15179v1)|null|
+|**2022-07-02**|**A Medical Image Fusion Method based on MDLatLRRv2**|Xu Song et.al.|[2206.15179v2](http://arxiv.org/abs/2206.15179v2)|null|
 |**2022-06-30**|**HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection**|Tim Broedermann et.al.|[2206.15157v1](http://arxiv.org/abs/2206.15157v1)|**[link](https://github.com/timbroed/hrfuser)**|
 |**2022-06-30**|**Learning-Aided Beam Prediction in mmWave MU-MIMO Systems for High-Speed Railway**|Fan Meng et.al.|[2206.15095v1](http://arxiv.org/abs/2206.15095v1)|null|
 |**2022-06-30**|**Sub-barrier fusion hindrance and absence of neutron transfer channels**|Vinay Singh et.al.|[2206.15087v1](http://arxiv.org/abs/2206.15087v1)|null|
