@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-04**|**A Framework for Auditing Multilevel Models using Explainability Methods**|Debarati Bhaumik et.al.|[2207.01611v1](http://arxiv.org/abs/2207.01611v1)|null|
+|**2022-07-04**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610v1](http://arxiv.org/abs/2207.01610v1)|null|
+|**2022-07-04**|**Invariant and Transportable Representations for Anti-Causal Domain Shifts**|Yibo Jiang et.al.|[2207.01603v1](http://arxiv.org/abs/2207.01603v1)|**[link](https://github.com/ybjiaang/actir)**|
+|**2022-07-04**|**Minimax Optimal Deep Neural Network Classifiers Under Smooth Decision Boundary**|Tianyang Hu et.al.|[2207.01602v1](http://arxiv.org/abs/2207.01602v1)|null|
+|**2022-07-04**|**CRFormer: A Cross-Region Transformer for Shadow Removal**|Jin Wan et.al.|[2207.01600v1](http://arxiv.org/abs/2207.01600v1)|null|
+|**2022-07-04**|**Classification of Alzheimer's Disease Using the Convolutional Neural Network (CNN) with Transfer Learning and Weighted Loss**|Muhammad Wildan Oktavian et.al.|[2207.01584v1](http://arxiv.org/abs/2207.01584v1)|null|
+|**2022-07-04**|**Interpretable Fusion Analytics Framework for fMRI Connectivity: Self-Attention Mechanism and Latent Space Item-Response Model**|Jeong-Jae Kim et.al.|[2207.01581v1](http://arxiv.org/abs/2207.01581v1)|null|
+|**2022-07-04**|**Spatiotemporal Feature Learning Based on Two-Step LSTM and Transformer for CT Scans**|Chih-Chung Hsu et.al.|[2207.01579v1](http://arxiv.org/abs/2207.01579v1)|null|
+|**2022-07-04**|**On Quasi Steinberg characters of Complex Reflection Groups**|Ashish Mishra et.al.|[2207.01564v1](http://arxiv.org/abs/2207.01564v1)|null|
+|**2022-07-04**|**ViRel: Unsupervised Visual Relations Discovery with Graph-level Analogy**|Daniel Zeng et.al.|[2207.00590v1](http://arxiv.org/abs/2207.00590v1)|null|
 |**2022-07-01**|**On Leave-One-Out Conditional Mutual Information For Generalization**|Mohamad Rida Rammal et.al.|[2207.00581v1](http://arxiv.org/abs/2207.00581v1)|null|
 |**2022-07-01**|**Video + CLIP Baseline for Ego4D Long-term Action Anticipation**|Srijan Das et.al.|[2207.00579v1](http://arxiv.org/abs/2207.00579v1)|**[link](https://github.com/srijandas07/clip_baseline_lta_ego4d)**|
 |**2022-07-01**|**How can spherical CNNs benefit ML-based diffusion MRI parameter estimation?**|Tobias Goodwin-Allcock et.al.|[2207.00572v1](http://arxiv.org/abs/2207.00572v1)|null|
@@ -183,6 +193,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-04**|**Interpretable Fusion Analytics Framework for fMRI Connectivity: Self-Attention Mechanism and Latent Space Item-Response Model**|Jeong-Jae Kim et.al.|[2207.01581v1](http://arxiv.org/abs/2207.01581v1)|null|
+|**2022-07-04**|**VEM$^2$L: A Plug-and-play Framework for Fusing Text and Structure Knowledge on Sparse Knowledge Graph Completion**|Tao He et.al.|[2207.01528v1](http://arxiv.org/abs/2207.01528v1)|null|
+|**2022-07-04**|**DeepPyramid: Enabling Pyramid View and Deformable Pyramid Reception for Semantic Segmentation in Cataract Surgery Videos**|Negin Ghamsarian et.al.|[2207.01453v1](http://arxiv.org/abs/2207.01453v1)|**[link](https://github.com/negin-ghamsarian/deeppyramid_miccai2022)**|
+|**2022-07-04**|**Dynamic Contrastive Distillation for Image-Text Retrieval**|Jun Rao et.al.|[2207.01426v1](http://arxiv.org/abs/2207.01426v1)|null|
+|**2022-07-04**|**Production of Singlet dominated scalar(s) at the LHC**|Subhadip Bisal et.al.|[2207.01358v1](http://arxiv.org/abs/2207.01358v1)|null|
+|**2022-07-04**|**Single Particle Configurations of the Excited States of $^{203}$Po**|S. Chatterjee et.al.|[2207.01311v1](http://arxiv.org/abs/2207.01311v1)|null|
+|**2022-07-04**|**Segmentation Guided Deep HDR Deghosting**|K. Ram Prabhakar et.al.|[2207.01229v1](http://arxiv.org/abs/2207.01229v1)|null|
+|**2022-07-04**|**TANet: Transformer-based Asymmetric Network for RGB-D Salient Object Detection**|Chang Liu et.al.|[2207.01172v1](http://arxiv.org/abs/2207.01172v1)|**[link](https://github.com/lc012463/tanet)**|
+|**2022-07-03**|**Boosting Single-Frame 3D Object Detection by Simulating Multi-Frame Point Clouds**|Wu Zheng et.al.|[2207.01030v1](http://arxiv.org/abs/2207.01030v1)|null|
+|**2022-07-03**|**Dynamic boxes fusion strategy in object detection**|Zhijiang Wan et.al.|[2207.00997v1](http://arxiv.org/abs/2207.00997v1)|null|
 |**2022-07-01**|**Measurement of the properties of Higgs boson production at $\sqrt{s} = 13$ TeV in the $H\toγγ$ channel using $139$ fb$^{-1}$ of $pp$ collision data with the ATLAS experiment**|ATLAS Collaboration et.al.|[2207.00348v1](http://arxiv.org/abs/2207.00348v1)|null|
 |**2022-07-01**|**Measurements of Higgs boson production by gluon$-$gluon fusion and vector-boson fusion using $H\rightarrow W W^* \rightarrow eνμν$ decays in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2207.00338v1](http://arxiv.org/abs/2207.00338v1)|null|
 |**2022-07-01**|**DALG: Deep Attentive Local and Global Modeling for Image Retrieval**|Yuxin Song et.al.|[2207.00287v1](http://arxiv.org/abs/2207.00287v1)|null|
