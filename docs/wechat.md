@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-07-05, **Segmenting Moving Objects via an Object-Centric Layered Representation**, Junyu Xie et.al., Paper: [http://arxiv.org/abs/2207.02206v1](http://arxiv.org/abs/2207.02206v1)
+- 2022-07-05, **An Approximation Method for Fitted Random Forests**, Sai K Popuri et.al., Paper: [http://arxiv.org/abs/2207.02184v1](http://arxiv.org/abs/2207.02184v1)
+- 2022-07-05, **ST-CoNAL: Consistency-Based Acquisition Criterion Using Temporal Self-Ensemble for Active Learning**, Jae Soon Baik et.al., Paper: [http://arxiv.org/abs/2207.02182v1](http://arxiv.org/abs/2207.02182v1)
+- 2022-07-05, **Many-fields Packet Classification Using R-Tree and Field Concatenation Technique**, Aladdin Abdulhassan et.al., Paper: [http://arxiv.org/abs/2207.02180v1](http://arxiv.org/abs/2207.02180v1)
+- 2022-07-05, **On the sensitivity of the D parameter to new physics**, Adam Falkowski et.al., Paper: [http://arxiv.org/abs/2207.02161v1](http://arxiv.org/abs/2207.02161v1)
+- 2022-07-05, **A Comprehensive Review of Visual-Textual Sentiment Analysis from Social Media Networks**, Israa Khalaf Salman Al-Tameemi et.al., Paper: [http://arxiv.org/abs/2207.02160v1](http://arxiv.org/abs/2207.02160v1)
+- 2022-07-05, **Multi-modal Robustness Analysis Against Language and Visual Perturbations**, Madeline C. Schiappa et.al., Paper: [http://arxiv.org/abs/2207.02159v1](http://arxiv.org/abs/2207.02159v1), Code: **[https://github.com/Maddy12/MultiModalVideoRobustness/tree/master/code](https://github.com/Maddy12/MultiModalVideoRobustness/tree/master/code)**
+- 2022-07-05, **Class-Specific Semantic Reconstruction for Open Set Recognition**, Hongzhi Huang et.al., Paper: [http://arxiv.org/abs/2207.02158v1](http://arxiv.org/abs/2207.02158v1)
+- 2022-07-05, **On algebraic division rings over Henselian fields of finite absolute Brauer $p$-dimensions and residually arithmetic type**, Ivan D. Chipchakov et.al., Paper: [http://arxiv.org/abs/2207.02154v1](http://arxiv.org/abs/2207.02154v1)
+- 2022-07-05, **Deterministic Decoupling of Global Features and its Application to Data Analysis**, Eduardo Martinez-Enriquez et.al., Paper: [http://arxiv.org/abs/2207.02132v1](http://arxiv.org/abs/2207.02132v1)
 - 2022-07-04, **A Framework for Auditing Multilevel Models using Explainability Methods**, Debarati Bhaumik et.al., Paper: [http://arxiv.org/abs/2207.01611v1](http://arxiv.org/abs/2207.01611v1)
 - 2022-07-04, **PVO: Panoptic Visual Odometry**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2207.01610v1](http://arxiv.org/abs/2207.01610v1)
 - 2022-07-04, **Invariant and Transportable Representations for Anti-Causal Domain Shifts**, Yibo Jiang et.al., Paper: [http://arxiv.org/abs/2207.01603v1](http://arxiv.org/abs/2207.01603v1), Code: **[https://github.com/ybjiaang/actir](https://github.com/ybjiaang/actir)**
@@ -185,6 +195,16 @@
 
 ## MultiModal
 
+- 2022-07-05, **Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation**, Jiadai Sun et.al., Paper: [http://arxiv.org/abs/2207.02201v1](http://arxiv.org/abs/2207.02201v1), Code: **[https://github.com/haomo-ai/motionseg3d](https://github.com/haomo-ai/motionseg3d)**
+- 2022-07-05, **A Comprehensive Review of Visual-Textual Sentiment Analysis from Social Media Networks**, Israa Khalaf Salman Al-Tameemi et.al., Paper: [http://arxiv.org/abs/2207.02160v1](http://arxiv.org/abs/2207.02160v1)
+- 2022-07-05, **Is a PET all you need? A multi-modal study for Alzheimer's disease using 3D CNNs**, Marla Narazani et.al., Paper: [http://arxiv.org/abs/2207.02094v1](http://arxiv.org/abs/2207.02094v1)
+- 2022-07-05, **AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2207.02031v1](http://arxiv.org/abs/2207.02031v1)
+- 2022-07-05, **MIA 2022 Shared Task Submission: Leveraging Entity Representations, Dense-Sparse Hybrids, and Fusion-in-Decoder for Cross-Lingual Question Answering**, Zhucheng Tu et.al., Paper: [http://arxiv.org/abs/2207.01940v1](http://arxiv.org/abs/2207.01940v1)
+- 2022-07-05, **Drone Detection and Tracking in Real-Time by Fusion of Different Sensing Modalities**, Fredrik Svanström et.al., Paper: [http://arxiv.org/abs/2207.01927v1](http://arxiv.org/abs/2207.01927v1)
+- 2022-07-05, **Aesthetic Attribute Assessment of Images Numerically on Mixed Multi-attribute Datasets**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2207.01806v1](http://arxiv.org/abs/2207.01806v1)
+- 2022-07-05, **Backend Ensemble for Speaker Verification and Spoofing Countermeasure**, Li Zhang et.al., Paper: [http://arxiv.org/abs/2207.01802v1](http://arxiv.org/abs/2207.01802v1)
+- 2022-07-05, **A deep cascade of ensemble of dual domain networks with gradient-based T1 assistance and perceptual refinement for fast MRI reconstruction**, Balamurali Murugesan et.al., Paper: [http://arxiv.org/abs/2207.01791v1](http://arxiv.org/abs/2207.01791v1)
+- 2022-07-05, **SESS: Saliency Enhancing with Scaling and Sliding**, Osman Tursun et.al., Paper: [http://arxiv.org/abs/2207.01769v1](http://arxiv.org/abs/2207.01769v1), Code: **[https://github.com/neouyghur/sess](https://github.com/neouyghur/sess)**
 - 2022-07-04, **Interpretable Fusion Analytics Framework for fMRI Connectivity: Self-Attention Mechanism and Latent Space Item-Response Model**, Jeong-Jae Kim et.al., Paper: [http://arxiv.org/abs/2207.01581v1](http://arxiv.org/abs/2207.01581v1)
 - 2022-07-04, **VEM$^2$L: A Plug-and-play Framework for Fusing Text and Structure Knowledge on Sparse Knowledge Graph Completion**, Tao He et.al., Paper: [http://arxiv.org/abs/2207.01528v1](http://arxiv.org/abs/2207.01528v1)
 - 2022-07-04, **DeepPyramid: Enabling Pyramid View and Deformable Pyramid Reception for Semantic Segmentation in Cataract Surgery Videos**, Negin Ghamsarian et.al., Paper: [http://arxiv.org/abs/2207.01453v1](http://arxiv.org/abs/2207.01453v1), Code: **[https://github.com/negin-ghamsarian/deeppyramid_miccai2022](https://github.com/negin-ghamsarian/deeppyramid_miccai2022)**
