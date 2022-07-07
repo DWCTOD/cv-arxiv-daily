@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v1](http://arxiv.org/abs/2207.02812v1)|**[link](https://github.com/yingchen001/cf-clip)**|
+|**2022-07-06**|**Delving into Sequential Patches for Deepfake Detection**|Jiazhi Guan et.al.|[2207.02803v1](http://arxiv.org/abs/2207.02803v1)|null|
+|**2022-07-06**|**Rethinking the Value of Gazetteer in Chinese Named Entity Recognition**|Qianglong Chen et.al.|[2207.02802v1](http://arxiv.org/abs/2207.02802v1)|**[link](https://github.com/knowledgeresearch/kaner)**|
+|**2022-07-06**|**The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning**|Nicholas Konz et.al.|[2207.02797v1](http://arxiv.org/abs/2207.02797v1)|**[link](https://github.com/mazurowski-lab/radiologyintrinsicmanifolds)**|
+|**2022-07-06**|**STVGFormer: Spatio-Temporal Video Grounding with Static-Dynamic Cross-Modal Understanding**|Zihang Lin et.al.|[2207.02756v1](http://arxiv.org/abs/2207.02756v1)|null|
+|**2022-07-06**|**A Hybrid Approach for Binary Classification of Imbalanced Data**|Hsin-Han Tsai et.al.|[2207.02738v1](http://arxiv.org/abs/2207.02738v1)|null|
+|**2022-07-06**|**Deep Learning approach for Classifying Trusses and Runners of Strawberries**|Jakub Pomykala et.al.|[2207.02721v1](http://arxiv.org/abs/2207.02721v1)|null|
+|**2022-07-06**|**Histopathology DatasetGAN: Synthesizing Large-Resolution Histopathology Datasets**|S. A. Rizvi et.al.|[2207.02712v1](http://arxiv.org/abs/2207.02712v1)|null|
+|**2022-07-06**|**Spike Calibration: Fast and Accurate Conversion of Spiking Neural Network for Object Detection and Segmentation**|Yang Li et.al.|[2207.02702v1](http://arxiv.org/abs/2207.02702v1)|null|
+|**2022-07-06**|**Binding prediction of multi-domain cellulases with a dual-CNN**|Kay S. Schaller et.al.|[2207.02698v1](http://arxiv.org/abs/2207.02698v1)|null|
 |**2022-07-05**|**Segmenting Moving Objects via an Object-Centric Layered Representation**|Junyu Xie et.al.|[2207.02206v1](http://arxiv.org/abs/2207.02206v1)|null|
 |**2022-07-05**|**An Approximation Method for Fitted Random Forests**|Sai K Popuri et.al.|[2207.02184v1](http://arxiv.org/abs/2207.02184v1)|null|
 |**2022-07-05**|**ST-CoNAL: Consistency-Based Acquisition Criterion Using Temporal Self-Ensemble for Active Learning**|Jae Soon Baik et.al.|[2207.02182v1](http://arxiv.org/abs/2207.02182v1)|null|
@@ -199,6 +209,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-06**|**Pseudoscalar MSSM Higgs Production at NLO SUSY--QCD**|Emanuele Bagnaschi et.al.|[2207.02807v1](http://arxiv.org/abs/2207.02807v1)|null|
+|**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
+|**2022-07-06**|**GFNet: Geometric Flow Network for 3D Point Cloud Semantic Segmentation**|Haibo Qiu et.al.|[2207.02605v1](http://arxiv.org/abs/2207.02605v1)|**[link](https://github.com/haibo-qiu/gfnet)**|
+|**2022-07-06**|**Top-Yukawa-induced Corrections to Higgs Pair Production**|Margarete Mühlleitner et.al.|[2207.02524v1](http://arxiv.org/abs/2207.02524v1)|null|
+|**2022-07-06**|**InAs-Al Hybrid Devices Passing the Topological Gap Protocol**|Morteza Aghaee et.al.|[2207.02472v1](http://arxiv.org/abs/2207.02472v1)|null|
+|**2022-07-06**|**Complementary Bi-directional Feature Compression for Indoor 360° Semantic Segmentation with Self-distillation**|Zishuo Zheng et.al.|[2207.02437v1](http://arxiv.org/abs/2207.02437v1)|null|
+|**2022-07-05**|**OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers**|Jialun Pei et.al.|[2207.02255v1](http://arxiv.org/abs/2207.02255v1)|**[link](https://github.com/pjlallen/osformer)**|
+|**2022-07-05**|**Array Camera Image Fusion using Physics-Aware Transformers**|Qian Huang et.al.|[2207.02250v1](http://arxiv.org/abs/2207.02250v1)|**[link](https://github.com/djbradyatopticalsciencesarizona/physicsawaretransformer)**|
 |**2022-07-05**|**Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation**|Jiadai Sun et.al.|[2207.02201v1](http://arxiv.org/abs/2207.02201v1)|**[link](https://github.com/haomo-ai/motionseg3d)**|
 |**2022-07-05**|**A Comprehensive Review of Visual-Textual Sentiment Analysis from Social Media Networks**|Israa Khalaf Salman Al-Tameemi et.al.|[2207.02160v1](http://arxiv.org/abs/2207.02160v1)|null|
 |**2022-07-05**|**Is a PET all you need? A multi-modal study for Alzheimer's disease using 3D CNNs**|Marla Narazani et.al.|[2207.02094v1](http://arxiv.org/abs/2207.02094v1)|null|
