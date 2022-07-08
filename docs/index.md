@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-07**|**TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation**|Zihan Li et.al.|[2207.03450v1](http://arxiv.org/abs/2207.03450v1)|**[link](https://github.com/huanglizi/tfcns)**|
+|**2022-07-07**|**Adaptive Personlization in Federated Learning for Highly Non-i.i.d. Data**|Yousef Yeganeh et.al.|[2207.03448v1](http://arxiv.org/abs/2207.03448v1)|null|
+|**2022-07-07**|**Learning to restore images degraded by atmospheric turbulence using uncertainty**|Rajeev Yasarla et.al.|[2207.03447v1](http://arxiv.org/abs/2207.03447v1)|**[link](https://github.com/rajeevyasarla/at-net)**|
+|**2022-07-07**|**Back to the Source: Diffusion-Driven Test-Time Adaptation**|Jin Gao et.al.|[2207.03442v1](http://arxiv.org/abs/2207.03442v1)|null|
+|**2022-07-07**|**Sociable and Ergonomic Human-Robot Collaboration through Action Recognition and Augmented Hierarchical Quadratic Programming**|Francesco Tassi et.al.|[2207.03435v1](http://arxiv.org/abs/2207.03435v1)|null|
+|**2022-07-07**|**A Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion**|Xiangxi Meng et.al.|[2207.03430v1](http://arxiv.org/abs/2207.03430v1)|null|
+|**2022-07-07**|**Haros graphs: an exotic representation of real numbers**|Jorge Calero-Sanz et.al.|[2207.03425v1](http://arxiv.org/abs/2207.03425v1)|null|
+|**2022-07-07**|**Robust Watermarking for Video Forgery Detection with Improved Imperceptibility and Robustness**|Yangming Zhou et.al.|[2207.03409v1](http://arxiv.org/abs/2207.03409v1)|null|
+|**2022-07-07**|**Unified Learning from Demonstrations, Corrections, and Preferences during Physical Human-Robot Interaction**|Shaunak A. Mehta et.al.|[2207.03395v1](http://arxiv.org/abs/2207.03395v1)|null|
+|**2022-07-07**|**Non-Abelian extensions of groupoids and their groupoid rings**|Natã Machado et.al.|[2207.03369v1](http://arxiv.org/abs/2207.03369v1)|null|
 |**2022-07-07**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v2](http://arxiv.org/abs/2207.02812v2)|**[link](https://github.com/yingchen001/cf-clip)**|
 |**2022-07-06**|**Delving into Sequential Patches for Deepfake Detection**|Jiazhi Guan et.al.|[2207.02803v1](http://arxiv.org/abs/2207.02803v1)|null|
 |**2022-07-06**|**Rethinking the Value of Gazetteer in Chinese Named Entity Recognition**|Qianglong Chen et.al.|[2207.02802v1](http://arxiv.org/abs/2207.02802v1)|**[link](https://github.com/knowledgeresearch/kaner)**|
@@ -213,6 +223,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-07**|**Non-Linear Pairwise Language Mappings for Low-Resource Multilingual Acoustic Model Fusion**|Muhammad Umar Farooq et.al.|[2207.03391v1](http://arxiv.org/abs/2207.03391v1)|null|
+|**2022-07-07**|**Multimodal E-Commerce Product Classification Using Hierarchical Fusion**|Tsegaye Misikir Tashu et.al.|[2207.03305v1](http://arxiv.org/abs/2207.03305v1)|null|
+|**2022-07-07**|**Cross-Scale Vector Quantization for Scalable Neural Speech Coding**|Xue Jiang et.al.|[2207.03067v1](http://arxiv.org/abs/2207.03067v1)|null|
+|**2022-07-07**|**Multi-Task Retrieval-Augmented Text Generation with Relevance Sampling**|Sebastian Hofstätter et.al.|[2207.03030v1](http://arxiv.org/abs/2207.03030v1)|null|
+|**2022-07-06**|**gamma-UPC: Automated generation of exclusive photon-photon processes in ultraperipheral proton and nuclear collisions with varying form factors**|Hua-Sheng Shao et.al.|[2207.03012v1](http://arxiv.org/abs/2207.03012v1)|null|
+|**2022-07-06**|**Perfusion imaging in deep prostate cancer detection from mp-MRI: can we take advantage of it?**|Audrey Duran et.al.|[2207.02854v1](http://arxiv.org/abs/2207.02854v1)|null|
 |**2022-07-06**|**Pseudoscalar MSSM Higgs Production at NLO SUSY--QCD**|Emanuele Bagnaschi et.al.|[2207.02807v1](http://arxiv.org/abs/2207.02807v1)|null|
 |**2022-07-06**|**RoVaR: Robust Multi-agent Tracking through Dual-layer Diversity in Visual and RF Sensor Fusion**|Mallesham Dasari et.al.|[2207.02792v1](http://arxiv.org/abs/2207.02792v1)|null|
 |**2022-07-06**|**GFNet: Geometric Flow Network for 3D Point Cloud Semantic Segmentation**|Haibo Qiu et.al.|[2207.02605v1](http://arxiv.org/abs/2207.02605v1)|**[link](https://github.com/haibo-qiu/gfnet)**|
