@@ -1,17 +1,17 @@
-## Updated on 2022.07.07
+## Updated on 2022.07.08
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v1](http://arxiv.org/abs/2207.02812v1)|**[link](https://github.com/yingchen001/cf-clip)**|
+|**2022-07-07**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v2](http://arxiv.org/abs/2207.02812v2)|**[link](https://github.com/yingchen001/cf-clip)**|
 |**2022-07-06**|**Delving into Sequential Patches for Deepfake Detection**|Jiazhi Guan et.al.|[2207.02803v1](http://arxiv.org/abs/2207.02803v1)|null|
 |**2022-07-06**|**Rethinking the Value of Gazetteer in Chinese Named Entity Recognition**|Qianglong Chen et.al.|[2207.02802v1](http://arxiv.org/abs/2207.02802v1)|**[link](https://github.com/knowledgeresearch/kaner)**|
 |**2022-07-06**|**The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning**|Nicholas Konz et.al.|[2207.02797v1](http://arxiv.org/abs/2207.02797v1)|**[link](https://github.com/mazurowski-lab/radiologyintrinsicmanifolds)**|
 |**2022-07-06**|**STVGFormer: Spatio-Temporal Video Grounding with Static-Dynamic Cross-Modal Understanding**|Zihang Lin et.al.|[2207.02756v1](http://arxiv.org/abs/2207.02756v1)|null|
-|**2022-07-06**|**A Hybrid Approach for Binary Classification of Imbalanced Data**|Hsin-Han Tsai et.al.|[2207.02738v1](http://arxiv.org/abs/2207.02738v1)|null|
+|**2022-07-07**|**A Hybrid Approach for Binary Classification of Imbalanced Data**|Hsin-Han Tsai et.al.|[2207.02738v2](http://arxiv.org/abs/2207.02738v2)|null|
 |**2022-07-06**|**Deep Learning approach for Classifying Trusses and Runners of Strawberries**|Jakub Pomykala et.al.|[2207.02721v1](http://arxiv.org/abs/2207.02721v1)|null|
-|**2022-07-06**|**Histopathology DatasetGAN: Synthesizing Large-Resolution Histopathology Datasets**|S. A. Rizvi et.al.|[2207.02712v1](http://arxiv.org/abs/2207.02712v1)|null|
+|**2022-07-06**|**Histopathology DatasetGAN: Synthesizing Large-Resolution Histopathology Datasets**|S. A. Rizvi et.al.|[2207.02712v1](http://arxiv.org/abs/2207.02712v1)|**[link](https://github.com/SyedA5688/HistopathologyDatasetGAN)**|
 |**2022-07-06**|**Spike Calibration: Fast and Accurate Conversion of Spiking Neural Network for Object Detection and Segmentation**|Yang Li et.al.|[2207.02702v1](http://arxiv.org/abs/2207.02702v1)|null|
 |**2022-07-06**|**Binding prediction of multi-domain cellulases with a dual-CNN**|Kay S. Schaller et.al.|[2207.02698v1](http://arxiv.org/abs/2207.02698v1)|null|
 |**2022-07-05**|**Segmenting Moving Objects via an Object-Centric Layered Representation**|Junyu Xie et.al.|[2207.02206v1](http://arxiv.org/abs/2207.02206v1)|null|
