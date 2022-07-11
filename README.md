@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications**|Mirac Suzgun et.al.|[2207.04043v1](http://arxiv.org/abs/2207.04043v1)|**[link](https://github.com/suzgunmirac/hupd)**|
+|**2022-07-08**|**Bayesian model comparison for simulation-based inference**|A. Spurio Mancini et.al.|[2207.04037v1](http://arxiv.org/abs/2207.04037v1)|null|
+|**2022-07-08**|**A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection**|Yu Li et.al.|[2207.04027v1](http://arxiv.org/abs/2207.04027v1)|**[link](https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection)**|
+|**2022-07-08**|**ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**|Saad Hassan et.al.|[2207.04021v1](http://arxiv.org/abs/2207.04021v1)|null|
+|**2022-07-08**|**MACFE: A Meta-learning and Causality Based Feature Engineering Framework**|Ivan Reyes-Amezcua et.al.|[2207.04010v1](http://arxiv.org/abs/2207.04010v1)|null|
+|**2022-07-08**|**On Improving the Performance of Glitch Classification for Gravitational Wave Detection by using Generative Adversarial Networks**|Jianqi Yan et.al.|[2207.04001v1](http://arxiv.org/abs/2207.04001v1)|null|
+|**2022-07-08**|**Boundary and domain wall theories of 2d generalized quantum double model**|Zhian Jia et.al.|[2207.03970v1](http://arxiv.org/abs/2207.03970v1)|null|
+|**2022-07-08**|**Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space**|Lea Steffen et.al.|[2207.03959v1](http://arxiv.org/abs/2207.03959v1)|null|
+|**2022-07-08**|**Statistical Analysis of the Radial Evolution of the Solar Winds between 0.1 and 1 au, and their Semi-empirical Iso-poly Fluid Modeling**|Dakeyo et.al.|[2207.03898v1](http://arxiv.org/abs/2207.03898v1)|null|
+|**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|null|
 |**2022-07-07**|**TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation**|Zihan Li et.al.|[2207.03450v1](http://arxiv.org/abs/2207.03450v1)|**[link](https://github.com/huanglizi/tfcns)**|
 |**2022-07-07**|**Adaptive Personlization in Federated Learning for Highly Non-i.i.d. Data**|Yousef Yeganeh et.al.|[2207.03448v1](http://arxiv.org/abs/2207.03448v1)|null|
 |**2022-07-07**|**Learning to restore images degraded by atmospheric turbulence using uncertainty**|Rajeev Yasarla et.al.|[2207.03447v1](http://arxiv.org/abs/2207.03447v1)|**[link](https://github.com/rajeevyasarla/at-net)**|
@@ -219,6 +229,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-08**|**Search for resonant $WZ \rightarrow \ellν\ell^{\prime}\ell^{\prime}$ production in proton$-$proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2207.03925v1](http://arxiv.org/abs/2207.03925v1)|null|
+|**2022-07-08**|**Revisiting Chernoff information with Likelihood Ratio Exponential Families**|Frank Nielsen et.al.|[2207.03745v1](http://arxiv.org/abs/2207.03745v1)|null|
+|**2022-07-08**|**Hirota Bilinear Method and Relativistic Dissipative Soliton Solutions in Nonlinear Spinor Equations**|Oktay K Pashaev et.al.|[2207.03709v1](http://arxiv.org/abs/2207.03709v1)|null|
+|**2022-07-08**|**SST-Calib: Simultaneous Spatial-Temporal Parameter Calibration between LIDAR and Camera**|Akio Kodaira et.al.|[2207.03704v1](http://arxiv.org/abs/2207.03704v1)|null|
+|**2022-07-08**|**On the extensions of the left modules for a meromorphic open-string vertex algebra, I**|Fei Qi et.al.|[2207.03702v1](http://arxiv.org/abs/2207.03702v1)|null|
+|**2022-07-07**|**GaitTAKE: Gait Recognition by Temporal Attention \\and Keypoint-guided Embedding**|Hung-Min Hsu et.al.|[2207.03608v1](http://arxiv.org/abs/2207.03608v1)|null|
+|**2022-07-07**|**Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection**|Xiurong Jiang et.al.|[2207.03558v1](http://arxiv.org/abs/2207.03558v1)|**[link](https://github.com/jxr326/swinmcnet)**|
 |**2022-07-07**|**Non-Linear Pairwise Language Mappings for Low-Resource Multilingual Acoustic Model Fusion**|Muhammad Umar Farooq et.al.|[2207.03391v1](http://arxiv.org/abs/2207.03391v1)|null|
 |**2022-07-07**|**Multimodal E-Commerce Product Classification Using Hierarchical Fusion**|Tsegaye Misikir Tashu et.al.|[2207.03305v1](http://arxiv.org/abs/2207.03305v1)|null|
 |**2022-07-07**|**Cross-Scale Vector Quantization for Scalable Neural Speech Coding**|Xue Jiang et.al.|[2207.03067v1](http://arxiv.org/abs/2207.03067v1)|null|
