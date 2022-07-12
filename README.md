@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-11**|**Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**|Long Zhuo et.al.|[2207.05049v1](http://arxiv.org/abs/2207.05049v1)|null|
+|**2022-07-11**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042v1](http://arxiv.org/abs/2207.05042v1)|null|
+|**2022-07-11**|**Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning**|Jan Achterhold et.al.|[2207.05018v1](http://arxiv.org/abs/2207.05018v1)|null|
+|**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|null|
+|**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|null|
+|**2022-07-11**|**Learning Mutual Fund Categorization using Natural Language Processing**|Dimitrios Vamvourellis et.al.|[2207.04959v1](http://arxiv.org/abs/2207.04959v1)|null|
+|**2022-07-11**|**A4T: Hierarchical Affordance Detection for Transparent Objects Depth Reconstruction and Manipulation**|Jiaqi Jiang et.al.|[2207.04907v1](http://arxiv.org/abs/2207.04907v1)|null|
+|**2022-07-11**|**New Quantum Invariants of Planar Knotoids**|Wout Moltmaker et.al.|[2207.04894v1](http://arxiv.org/abs/2207.04894v1)|null|
+|**2022-07-11**|**Adversarial Style Augmentation for Domain Generalized Urban-Scene Segmentation**|Zhun Zhong et.al.|[2207.04892v1](http://arxiv.org/abs/2207.04892v1)|null|
+|**2022-07-11**|**LaT: Latent Translation with Cycle-Consistency for Video-Text Retrieval**|Jinbin Bai et.al.|[2207.04858v1](http://arxiv.org/abs/2207.04858v1)|null|
 |**2022-07-08**|**The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications**|Mirac Suzgun et.al.|[2207.04043v1](http://arxiv.org/abs/2207.04043v1)|**[link](https://github.com/suzgunmirac/hupd)**|
 |**2022-07-08**|**Bayesian model comparison for simulation-based inference**|A. Spurio Mancini et.al.|[2207.04037v1](http://arxiv.org/abs/2207.04037v1)|**[link](https://github.com/astro-informatics/harmonic)**|
 |**2022-07-08**|**A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection**|Yu Li et.al.|[2207.04027v1](http://arxiv.org/abs/2207.04027v1)|**[link](https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection)**|
@@ -229,6 +239,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-11**|**Data Fusion of Total Solar Irradiance Composite Time Series Using 41 Years of Satellite Measurements**|Jean-Philippe Montillet et.al.|[2207.04926v1](http://arxiv.org/abs/2207.04926v1)|null|
+|**2022-07-11**|**Nuclear fission and fusion in a random-walk model**|M. Albertsson et.al.|[2207.04919v1](http://arxiv.org/abs/2207.04919v1)|null|
+|**2022-07-11**|**A Late Fusion Framework with Multiple Optimization Methods for Media Interestingness**|Maria Shoukat et.al.|[2207.04762v1](http://arxiv.org/abs/2207.04762v1)|null|
+|**2022-07-11**|**Snow Mask Guided Adaptive Residual Network for Image Snow Removal**|Bodong Cheng et.al.|[2207.04754v1](http://arxiv.org/abs/2207.04754v1)|null|
+|**2022-07-11**|**Hybrid Skip: A Biologically Inspired Skip Connection for the UNet Architecture**|Nikolaos Zioulis et.al.|[2207.04721v1](http://arxiv.org/abs/2207.04721v1)|null|
+|**2022-07-11**|**Multi-level Fusion of Wav2vec 2.0 and BERT for Multimodal Emotion Recognition**|Zihan Zhao et.al.|[2207.04697v1](http://arxiv.org/abs/2207.04697v1)|null|
+|**2022-07-10**|**Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion**|Ashutosh Agarwal et.al.|[2207.04535v1](http://arxiv.org/abs/2207.04535v1)|**[link](https://github.com/ashutosh1807/depthformer)**|
+|**2022-07-10**|**TCR: A Transformer Based Deep Network for Predicting Cancer Drugs Response**|Jie Gao et.al.|[2207.04457v1](http://arxiv.org/abs/2207.04457v1)|null|
+|**2022-07-10**|**2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds**|Xu Yan et.al.|[2207.04397v1](http://arxiv.org/abs/2207.04397v1)|**[link](https://github.com/yanx27/2dpass)**|
+|**2022-07-10**|**Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays**|Yan Han et.al.|[2207.04394v1](http://arxiv.org/abs/2207.04394v1)|null|
 |**2022-07-08**|**Search for resonant $WZ \rightarrow \ellν\ell^{\prime}\ell^{\prime}$ production in proton$-$proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2207.03925v1](http://arxiv.org/abs/2207.03925v1)|null|
 |**2022-07-08**|**Revisiting Chernoff information with Likelihood Ratio Exponential Families**|Frank Nielsen et.al.|[2207.03745v1](http://arxiv.org/abs/2207.03745v1)|null|
 |**2022-07-08**|**Hirota Bilinear Method and Relativistic Dissipative Soliton Solutions in Nonlinear Spinor Equations**|Oktay K Pashaev et.al.|[2207.03709v1](http://arxiv.org/abs/2207.03709v1)|null|
