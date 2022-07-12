@@ -1,9 +1,9 @@
-> Updated on 2022.07.11
+> Updated on 2022.07.12
 
 ## Video_Classification
 
 - 2022-07-08, **The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications**, Mirac Suzgun et.al., Paper: [http://arxiv.org/abs/2207.04043v1](http://arxiv.org/abs/2207.04043v1), Code: **[https://github.com/suzgunmirac/hupd](https://github.com/suzgunmirac/hupd)**
-- 2022-07-08, **Bayesian model comparison for simulation-based inference**, A. Spurio Mancini et.al., Paper: [http://arxiv.org/abs/2207.04037v1](http://arxiv.org/abs/2207.04037v1)
+- 2022-07-08, **Bayesian model comparison for simulation-based inference**, A. Spurio Mancini et.al., Paper: [http://arxiv.org/abs/2207.04037v1](http://arxiv.org/abs/2207.04037v1), Code: **[https://github.com/astro-informatics/harmonic](https://github.com/astro-informatics/harmonic)**
 - 2022-07-08, **A Multi-tasking Model of Speaker-Keyword Classification for Keeping Human in the Loop of Drone-assisted Inspection**, Yu Li et.al., Paper: [http://arxiv.org/abs/2207.04027v1](http://arxiv.org/abs/2207.04027v1), Code: **[https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection](https://github.com/yuli1102/speech-dataset-for-drone-assisted-inspection)**
 - 2022-07-08, **ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks**, Saad Hassan et.al., Paper: [http://arxiv.org/abs/2207.04021v1](http://arxiv.org/abs/2207.04021v1)
 - 2022-07-08, **MACFE: A Meta-learning and Causality Based Feature Engineering Framework**, Ivan Reyes-Amezcua et.al., Paper: [http://arxiv.org/abs/2207.04010v1](http://arxiv.org/abs/2207.04010v1)
