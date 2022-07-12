@@ -4,8 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-11**|**Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**|Long Zhuo et.al.|[2207.05049v1](http://arxiv.org/abs/2207.05049v1)|null|
-|**2022-07-11**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042v1](http://arxiv.org/abs/2207.05042v1)|null|
+|**2022-07-11**|**Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**|Long Zhuo et.al.|[2207.05049v1](http://arxiv.org/abs/2207.05049v1)|**[link](https://github.com/fast-vid2vid/fast-vid2vid)**|
+|**2022-07-11**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042v1](http://arxiv.org/abs/2207.05042v1)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2022-07-11**|**Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning**|Jan Achterhold et.al.|[2207.05018v1](http://arxiv.org/abs/2207.05018v1)|null|
 |**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|null|
 |**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|null|
