@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-07-12, **The Untold Impact of Learning Approaches on Software Fault-Proneness Predictions**, Mohammad Jamil Ahmad et.al., Paper: [http://arxiv.org/abs/2207.05710v1](http://arxiv.org/abs/2207.05710v1)
+- 2022-07-12, **RE-Tagger: A light-weight Real-Estate Image Classifier**, Prateek Chhikara et.al., Paper: [http://arxiv.org/abs/2207.05696v1](http://arxiv.org/abs/2207.05696v1)
+- 2022-07-12, **From Spectral Graph Convolutions to Large Scale Graph Convolutional Networks**, Matteo Bunino et.al., Paper: [http://arxiv.org/abs/2207.05669v1](http://arxiv.org/abs/2207.05669v1)
+- 2022-07-12, **A Single-Loop Gradient Descent and Perturbed Ascent Algorithm for Nonconvex Functional Constrained Optimization**, Songtao Lu et.al., Paper: [http://arxiv.org/abs/2207.05650v1](http://arxiv.org/abs/2207.05650v1)
+- 2022-07-12, **Backdoor Attacks on Crowd Counting**, Yuhua Sun et.al., Paper: [http://arxiv.org/abs/2207.05641v1](http://arxiv.org/abs/2207.05641v1)
+- 2022-07-12, **On the Bernstein--Zelevinsky classification in families**, Sam Mundy et.al., Paper: [http://arxiv.org/abs/2207.05629v1](http://arxiv.org/abs/2207.05629v1)
+- 2022-07-12, **Attacking (and defending) the Maritime Radar System**, G. Longo et.al., Paper: [http://arxiv.org/abs/2207.05623v1](http://arxiv.org/abs/2207.05623v1)
+- 2022-07-12, **Ego-motion Estimation Based on Fusion of Images and Events**, Liren Yang et.al., Paper: [http://arxiv.org/abs/2207.05588v1](http://arxiv.org/abs/2207.05588v1)
+- 2022-07-12, **Rigidity results on Liouville equation**, Alexandre Eremenko et.al., Paper: [http://arxiv.org/abs/2207.05587v1](http://arxiv.org/abs/2207.05587v1)
+- 2022-07-12, **Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation**, Yuhao Yang et.al., Paper: [http://arxiv.org/abs/2207.05584v1](http://arxiv.org/abs/2207.05584v1), Code: **[https://github.com/yuh-yang/mbht-kdd22](https://github.com/yuh-yang/mbht-kdd22)**
 - 2022-07-11, **Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**, Long Zhuo et.al., Paper: [http://arxiv.org/abs/2207.05049v1](http://arxiv.org/abs/2207.05049v1), Code: **[https://github.com/fast-vid2vid/fast-vid2vid](https://github.com/fast-vid2vid/fast-vid2vid)**
 - 2022-07-11, **Audio-Visual Segmentation**, Jinxing Zhou et.al., Paper: [http://arxiv.org/abs/2207.05042v1](http://arxiv.org/abs/2207.05042v1), Code: **[https://github.com/opennlplab/avsbench](https://github.com/opennlplab/avsbench)**
 - 2022-07-11, **Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning**, Jan Achterhold et.al., Paper: [http://arxiv.org/abs/2207.05018v1](http://arxiv.org/abs/2207.05018v1)
@@ -235,6 +245,15 @@
 
 ## MultiModal
 
+- 2022-07-12, **M-FUSE: Multi-frame Fusion for Scene Flow Estimation**, Lukas Mehl et.al., Paper: [http://arxiv.org/abs/2207.05704v1](http://arxiv.org/abs/2207.05704v1)
+- 2022-07-12, **A machine-learning-based tool for last closed magnetic flux surface reconstruction on tokamak**, Chenguang Wan et.al., Paper: [http://arxiv.org/abs/2207.05695v1](http://arxiv.org/abs/2207.05695v1)
+- 2022-07-12, **Ego-motion Estimation Based on Fusion of Images and Events**, Liren Yang et.al., Paper: [http://arxiv.org/abs/2207.05588v1](http://arxiv.org/abs/2207.05588v1)
+- 2022-07-12, **Online Video Instance Segmentation via Robust Context Fusion**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2207.05580v1](http://arxiv.org/abs/2207.05580v1)
+- 2022-07-12, **Paint and Distill: Boosting 3D Object Detection with Semantic Passing Network**, Bo Ju et.al., Paper: [http://arxiv.org/abs/2207.05497v1](http://arxiv.org/abs/2207.05497v1)
+- 2022-07-12, **HelixFold: An Efficient Implementation of AlphaFold2 using PaddlePaddle**, Guoxia Wang et.al., Paper: [http://arxiv.org/abs/2207.05477v1](http://arxiv.org/abs/2207.05477v1), Code: **[https://github.com/PaddlePaddle/PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix)**
+- 2022-07-12, **Wound Segmentation with Dynamic Illumination Correction and Dual-view Semantic Fusion**, Honghui Liu et.al., Paper: [http://arxiv.org/abs/2207.05388v1](http://arxiv.org/abs/2207.05388v1)
+- 2022-07-12, **SD-GAN: Semantic Decomposition for Face Image Synthesis with Discrete Attribute**, Zhou Kangneng et.al., Paper: [http://arxiv.org/abs/2207.05300v1](http://arxiv.org/abs/2207.05300v1)
+- 2022-07-11, **The Role of Vector Boson Fusion in the Production of Heavy Vector Triplets at the LHC and HL-LHC**, Michael J. Baker et.al., Paper: [http://arxiv.org/abs/2207.05091v1](http://arxiv.org/abs/2207.05091v1)
 - 2022-07-11, **Data Fusion of Total Solar Irradiance Composite Time Series Using 41 Years of Satellite Measurements**, Jean-Philippe Montillet et.al., Paper: [http://arxiv.org/abs/2207.04926v1](http://arxiv.org/abs/2207.04926v1)
 - 2022-07-11, **Nuclear fission and fusion in a random-walk model**, M. Albertsson et.al., Paper: [http://arxiv.org/abs/2207.04919v1](http://arxiv.org/abs/2207.04919v1)
 - 2022-07-11, **A Late Fusion Framework with Multiple Optimization Methods for Media Interestingness**, Maria Shoukat et.al., Paper: [http://arxiv.org/abs/2207.04762v1](http://arxiv.org/abs/2207.04762v1)
