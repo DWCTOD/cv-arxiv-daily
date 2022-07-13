@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.12
+## Updated on 2022.07.13
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@ layout: default
 |**2022-07-11**|**Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**|Long Zhuo et.al.|[2207.05049v1](http://arxiv.org/abs/2207.05049v1)|**[link](https://github.com/fast-vid2vid/fast-vid2vid)**|
 |**2022-07-11**|**Audio-Visual Segmentation**|Jinxing Zhou et.al.|[2207.05042v1](http://arxiv.org/abs/2207.05042v1)|**[link](https://github.com/opennlplab/avsbench)**|
 |**2022-07-11**|**Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning**|Jan Achterhold et.al.|[2207.05018v1](http://arxiv.org/abs/2207.05018v1)|null|
-|**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|null|
+|**2022-07-11**|**TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs**|Christopher Agia et.al.|[2207.05006v1](http://arxiv.org/abs/2207.05006v1)|**[link](https://github.com/taskography/taskography)**|
 |**2022-07-11**|**Embedding Recycling for Language Models**|Jon Saad-Falcon et.al.|[2207.04993v1](http://arxiv.org/abs/2207.04993v1)|null|
 |**2022-07-11**|**Learning Mutual Fund Categorization using Natural Language Processing**|Dimitrios Vamvourellis et.al.|[2207.04959v1](http://arxiv.org/abs/2207.04959v1)|null|
 |**2022-07-11**|**A4T: Hierarchical Affordance Detection for Transparent Objects Depth Reconstruction and Manipulation**|Jiaqi Jiang et.al.|[2207.04907v1](http://arxiv.org/abs/2207.04907v1)|null|
@@ -248,11 +248,11 @@ layout: default
 |**2022-07-11**|**A Late Fusion Framework with Multiple Optimization Methods for Media Interestingness**|Maria Shoukat et.al.|[2207.04762v1](http://arxiv.org/abs/2207.04762v1)|null|
 |**2022-07-11**|**Snow Mask Guided Adaptive Residual Network for Image Snow Removal**|Bodong Cheng et.al.|[2207.04754v1](http://arxiv.org/abs/2207.04754v1)|null|
 |**2022-07-11**|**Hybrid Skip: A Biologically Inspired Skip Connection for the UNet Architecture**|Nikolaos Zioulis et.al.|[2207.04721v1](http://arxiv.org/abs/2207.04721v1)|null|
-|**2022-07-11**|**Multi-level Fusion of Wav2vec 2.0 and BERT for Multimodal Emotion Recognition**|Zihan Zhao et.al.|[2207.04697v1](http://arxiv.org/abs/2207.04697v1)|null|
-|**2022-07-10**|**Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion**|Ashutosh Agarwal et.al.|[2207.04535v1](http://arxiv.org/abs/2207.04535v1)|**[link](https://github.com/ashutosh1807/depthformer)**|
+|**2022-07-12**|**Multi-level Fusion of Wav2vec 2.0 and BERT for Multimodal Emotion Recognition**|Zihan Zhao et.al.|[2207.04697v2](http://arxiv.org/abs/2207.04697v2)|null|
+|**2022-07-12**|**Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion**|Ashutosh Agarwal et.al.|[2207.04535v2](http://arxiv.org/abs/2207.04535v2)|**[link](https://github.com/ashutosh1807/depthformer)**|
 |**2022-07-10**|**TCR: A Transformer Based Deep Network for Predicting Cancer Drugs Response**|Jie Gao et.al.|[2207.04457v1](http://arxiv.org/abs/2207.04457v1)|null|
 |**2022-07-10**|**2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds**|Xu Yan et.al.|[2207.04397v1](http://arxiv.org/abs/2207.04397v1)|**[link](https://github.com/yanx27/2dpass)**|
-|**2022-07-10**|**Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays**|Yan Han et.al.|[2207.04394v1](http://arxiv.org/abs/2207.04394v1)|null|
+|**2022-07-12**|**Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays**|Yan Han et.al.|[2207.04394v2](http://arxiv.org/abs/2207.04394v2)|null|
 |**2022-07-08**|**Search for resonant $WZ \rightarrow \ellν\ell^{\prime}\ell^{\prime}$ production in proton$-$proton collisions at $\mathbf{\sqrt{s} = 13}$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2207.03925v1](http://arxiv.org/abs/2207.03925v1)|null|
 |**2022-07-08**|**Revisiting Chernoff information with Likelihood Ratio Exponential Families**|Frank Nielsen et.al.|[2207.03745v1](http://arxiv.org/abs/2207.03745v1)|null|
 |**2022-07-08**|**Hirota Bilinear Method and Relativistic Dissipative Soliton Solutions in Nonlinear Spinor Equations**|Oktay K Pashaev et.al.|[2207.03709v1](http://arxiv.org/abs/2207.03709v1)|null|
