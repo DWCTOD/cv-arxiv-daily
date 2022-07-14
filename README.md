@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-13**|**Masked Autoencoders that Listen**|Po-Yao et.al.|[2207.06405v1](http://arxiv.org/abs/2207.06405v1)|**[link](https://github.com/facebookresearch/audiomae)**|
+|**2022-07-13**|**PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images**|Hongwen Zhang et.al.|[2207.06400v1](http://arxiv.org/abs/2207.06400v1)|null|
+|**2022-07-13**|**Water Surface Patch Classification Using Mixture Augmentation for River Scum Index**|Takato Yasuno et.al.|[2207.06388v1](http://arxiv.org/abs/2207.06388v1)|null|
+|**2022-07-13**|**Tilt-then-Blur or Blur-then-Tilt? Clarifying the Atmospheric Turbulence Model**|Stanley H. Chan et.al.|[2207.06377v1](http://arxiv.org/abs/2207.06377v1)|null|
+|**2022-07-13**|**N-Grammer: Augmenting Transformers with latent n-grams**|Aurko Roy et.al.|[2207.06366v1](http://arxiv.org/abs/2207.06366v1)|null|
+|**2022-07-13**|**You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution**|Mengshun Hu et.al.|[2207.06345v1](http://arxiv.org/abs/2207.06345v1)|null|
+|**2022-07-13**|**Left Ventricle Contouring of Apical Three-Chamber Views on 2D Echocardiography**|Alberto Gomez et.al.|[2207.06330v1](http://arxiv.org/abs/2207.06330v1)|null|
+|**2022-07-13**|**PointNorm: Normalization is All You Need for Point Cloud Analysis**|Shen Zheng et.al.|[2207.06324v1](http://arxiv.org/abs/2207.06324v1)|**[link](https://github.com/shenzheng2000/pointnorm-for-point-cloud-analysis)**|
+|**2022-07-13**|**Is Appearance Free Action Recognition Possible?**|Filip Ilic et.al.|[2207.06261v1](http://arxiv.org/abs/2207.06261v1)|null|
+|**2022-07-13**|**Hierarchy exploitation to detect missing annotations on hierarchical multi-label classification**|Miguel Romero et.al.|[2207.06237v1](http://arxiv.org/abs/2207.06237v1)|null|
 |**2022-07-12**|**The Untold Impact of Learning Approaches on Software Fault-Proneness Predictions**|Mohammad Jamil Ahmad et.al.|[2207.05710v1](http://arxiv.org/abs/2207.05710v1)|null|
 |**2022-07-12**|**RE-Tagger: A light-weight Real-Estate Image Classifier**|Prateek Chhikara et.al.|[2207.05696v1](http://arxiv.org/abs/2207.05696v1)|null|
 |**2022-07-12**|**From Spectral Graph Convolutions to Large Scale Graph Convolutional Networks**|Matteo Bunino et.al.|[2207.05669v1](http://arxiv.org/abs/2207.05669v1)|null|
@@ -249,6 +259,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-13**|**You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution**|Mengshun Hu et.al.|[2207.06345v1](http://arxiv.org/abs/2207.06345v1)|null|
+|**2022-07-13**|**Symmetry-Aware Transformer-based Mirror Detection**|Tianyu Huang et.al.|[2207.06332v1](http://arxiv.org/abs/2207.06332v1)|**[link](https://github.com/tyhuang0428/satnet)**|
+|**2022-07-13**|**YOLO2U-Net: Detection-Guided 3D Instance Segmentation for Microscopy**|Amirkoushyar Ziabari et.al.|[2207.06215v1](http://arxiv.org/abs/2207.06215v1)|null|
+|**2022-07-13**|**Multi-modal Depression Estimation based on Sub-attentional Fusion**|Ping-Cheng Wei et.al.|[2207.06180v1](http://arxiv.org/abs/2207.06180v1)|null|
+|**2022-07-13**|**A comparison between PMBM Bayesian track initiation and labelled RFS adaptive birth**|Ángel F. García-Fernández et.al.|[2207.06156v1](http://arxiv.org/abs/2207.06156v1)|**[link](https://github.com/Agarciafernandez/MTT)**|
+|**2022-07-13**|**Multiple Kernel Clustering with Dual Noise Minimization**|Junpu Zhang et.al.|[2207.06041v1](http://arxiv.org/abs/2207.06041v1)|null|
+|**2022-07-13**|**Graph Property Prediction on Open Graph Benchmark: A Winning Solution by Graph Neural Architecture Search**|Xu Wang et.al.|[2207.06027v1](http://arxiv.org/abs/2207.06027v1)|null|
+|**2022-07-13**|**Studying the age of onset and detection of Chronic Myeloid Leukemia using a three-stage stochastic model**|Suryadeepto Nag et.al.|[2207.06001v1](http://arxiv.org/abs/2207.06001v1)|null|
+|**2022-07-13**|**A new database of Houma Alliance Book ancient handwritten characters and its baseline algorithm**|Xiaoyu Yuan et.al.|[2207.05993v1](http://arxiv.org/abs/2207.05993v1)|null|
+|**2022-07-12**|**A Novel DeBERTa-based Model for Financial Question Answering Task**|Yanbo J. Wang et.al.|[2207.05875v1](http://arxiv.org/abs/2207.05875v1)|null|
 |**2022-07-12**|**M-FUSE: Multi-frame Fusion for Scene Flow Estimation**|Lukas Mehl et.al.|[2207.05704v1](http://arxiv.org/abs/2207.05704v1)|null|
 |**2022-07-12**|**A machine-learning-based tool for last closed magnetic flux surface reconstruction on tokamak**|Chenguang Wan et.al.|[2207.05695v1](http://arxiv.org/abs/2207.05695v1)|null|
 |**2022-07-12**|**Ego-motion Estimation Based on Fusion of Images and Events**|Liren Yang et.al.|[2207.05588v1](http://arxiv.org/abs/2207.05588v1)|null|
