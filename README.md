@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-14**|**XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model**|Ho Kei Cheng et.al.|[2207.07115v1](http://arxiv.org/abs/2207.07115v1)|**[link](https://github.com/hkchengrex/XMem)**|
+|**2022-07-14**|**From Rota-Baxter operators to quasitriangular Lie bialgebra structures on $gl_2(\mathbb C)$**|Maxim Goncharov et.al.|[2207.07109v1](http://arxiv.org/abs/2207.07109v1)|null|
+|**2022-07-14**|**Relighting4D: Neural Relightable Human from Videos**|Zhaoxi Chen et.al.|[2207.07104v1](http://arxiv.org/abs/2207.07104v1)|null|
+|**2022-07-14**|**ReAct: Temporal Action Detection with Relational Queries**|Dingfeng Shi et.al.|[2207.07097v1](http://arxiv.org/abs/2207.07097v1)|**[link](https://github.com/sssste/react)**|
+|**2022-07-14**|**A Personalized Zero-Shot ECG Arrhythmia Monitoring System: From Sparse Representation Based Domain Adaption to Energy Efficient Abnormal Beat Detection for Practical ECG Surveillance**|Mehmet Yamaç et.al.|[2207.07089v1](http://arxiv.org/abs/2207.07089v1)|**[link](https://github.com/mertduman/zero-shot-ecg)**|
+|**2022-07-14**|**An Asymmetric Contrastive Loss for Handling Imbalanced Datasets**|Valentino Vito et.al.|[2207.07080v1](http://arxiv.org/abs/2207.07080v1)|null|
+|**2022-07-14**|**Efficient spike encoding algorithms for neuromorphic speech recognition**|Sidi Yaya Arnaud Yarga et.al.|[2207.07073v1](http://arxiv.org/abs/2207.07073v1)|null|
+|**2022-07-14**|**Video Observations of Tiny Near-Earth Objects with Tomo-e Gozen**|Jin Beniyama et.al.|[2207.07071v1](http://arxiv.org/abs/2207.07071v1)|null|
+|**2022-07-14**|**Semi-Supervised Temporal Action Detection with Proposal-Free Masking**|Sauradip Nag et.al.|[2207.07059v1](http://arxiv.org/abs/2207.07059v1)|null|
+|**2022-07-14**|**A Single Self-Supervised Model for Many Speech Modalities Enables Zero-Shot Modality Transfer**|Wei-Ning Hsu et.al.|[2207.07036v1](http://arxiv.org/abs/2207.07036v1)|null|
 |**2022-07-13**|**Masked Autoencoders that Listen**|Po-Yao et.al.|[2207.06405v1](http://arxiv.org/abs/2207.06405v1)|**[link](https://github.com/facebookresearch/audiomae)**|
 |**2022-07-13**|**PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images**|Hongwen Zhang et.al.|[2207.06400v1](http://arxiv.org/abs/2207.06400v1)|null|
 |**2022-07-13**|**Water Surface Patch Classification Using Mixture Augmentation for River Scum Index**|Takato Yasuno et.al.|[2207.06388v1](http://arxiv.org/abs/2207.06388v1)|null|
@@ -259,6 +269,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-14**|**MedFuse: Multi-modal fusion with clinical time-series data and chest X-ray images**|Nasir Hayat et.al.|[2207.07027v1](http://arxiv.org/abs/2207.07027v1)|null|
+|**2022-07-14**|**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**|Peng Yin et.al.|[2207.06965v1](http://arxiv.org/abs/2207.06965v1)|null|
+|**2022-07-14**|**Real-time Streaming Video Denoising with Bidirectional Buffers**|Chenyang Qi et.al.|[2207.06937v1](http://arxiv.org/abs/2207.06937v1)|**[link](https://github.com/chenyangqiqi/bsvd)**|
+|**2022-07-14**|**Dynamical pair production at sub-barrier energies for light nuclei**|A. Bonasera et.al.|[2207.06900v1](http://arxiv.org/abs/2207.06900v1)|null|
+|**2022-07-14**|**Pose-based Tremor Classification for Parkinson's Disease Diagnosis from Video**|Haozheng Zhang et.al.|[2207.06828v1](http://arxiv.org/abs/2207.06828v1)|null|
+|**2022-07-14**|**Loss-tolerant linear optical quantum computing under nonideal fusions using multiphoton qubits**|Seok-Hyung Lee et.al.|[2207.06805v1](http://arxiv.org/abs/2207.06805v1)|null|
+|**2022-07-14**|**Inertial Hallucinations -- When Wearable Inertial Devices Start Seeing Things**|Alessandro Masullo et.al.|[2207.06789v1](http://arxiv.org/abs/2207.06789v1)|null|
+|**2022-07-14**|**Dynamics and statistics of a self-organized temperature corrugation in tokamak plasmas**|Minjun J. Choi et.al.|[2207.06610v1](http://arxiv.org/abs/2207.06610v1)|null|
+|**2022-07-14**|**Rethinking Super-Resolution as Text-Guided Details Generation**|Chenxi Ma et.al.|[2207.06604v1](http://arxiv.org/abs/2207.06604v1)|null|
+|**2022-07-14**|**MDEAW: A Multimodal Dataset for Emotion Analysis through EDA and PPG signals from wireless wearable low-cost off-the-shelf Devices**|Arijit Nandi et.al.|[2207.06410v1](http://arxiv.org/abs/2207.06410v1)|null|
 |**2022-07-13**|**You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution**|Mengshun Hu et.al.|[2207.06345v1](http://arxiv.org/abs/2207.06345v1)|null|
 |**2022-07-13**|**Symmetry-Aware Transformer-based Mirror Detection**|Tianyu Huang et.al.|[2207.06332v1](http://arxiv.org/abs/2207.06332v1)|**[link](https://github.com/tyhuang0428/satnet)**|
 |**2022-07-13**|**YOLO2U-Net: Detection-Guided 3D Instance Segmentation for Microscopy**|Amirkoushyar Ziabari et.al.|[2207.06215v1](http://arxiv.org/abs/2207.06215v1)|null|
