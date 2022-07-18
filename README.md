@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
+|**2022-07-15**|**Is a Caption Worth a Thousand Images? A Controlled Study for Representation Learning**|Shibani Santurkar et.al.|[2207.07635v1](http://arxiv.org/abs/2207.07635v1)|null|
+|**2022-07-15**|**GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**|Zhiruo Zhou et.al.|[2207.07629v1](http://arxiv.org/abs/2207.07629v1)|null|
+|**2022-07-15**|**Dual-space Compressed Sensing**|Xudong Lv et.al.|[2207.07627v1](http://arxiv.org/abs/2207.07627v1)|null|
+|**2022-07-15**|**Brain MRI study for glioma segmentation using convolutional neural networks and original post-processing techniques with low computational demand**|José Gerardo Suárez-García Javier Miguel Hernández-López et.al.|[2207.07622v1](http://arxiv.org/abs/2207.07622v1)|null|
+|**2022-07-15**|**MegaPortraits: One-shot Megapixel Neural Head Avatars**|Nikita Drobyshev et.al.|[2207.07621v1](http://arxiv.org/abs/2207.07621v1)|null|
+|**2022-07-15**|**A Non-Anatomical Graph Structure for isolated hand gesture separation in continuous gesture sequences**|Razieh Rastgoo et.al.|[2207.07619v1](http://arxiv.org/abs/2207.07619v1)|null|
+|**2022-07-15**|**A Bayesian Monte Carlo assessment of orbital stability in the late stages of planetary system formation**|Jassyr Salas et.al.|[2207.07617v1](http://arxiv.org/abs/2207.07617v1)|null|
+|**2022-07-15**|**Position Prediction as an Effective Pretraining Strategy**|Shuangfei Zhai et.al.|[2207.07611v1](http://arxiv.org/abs/2207.07611v1)|null|
+|**2022-07-15**|**DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving**|Ruiqing Mao et.al.|[2207.07609v1](http://arxiv.org/abs/2207.07609v1)|null|
 |**2022-07-14**|**XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model**|Ho Kei Cheng et.al.|[2207.07115v1](http://arxiv.org/abs/2207.07115v1)|**[link](https://github.com/hkchengrex/XMem)**|
 |**2022-07-14**|**From Rota-Baxter operators to quasitriangular Lie bialgebra structures on $gl_2(\mathbb C)$**|Maxim Goncharov et.al.|[2207.07109v1](http://arxiv.org/abs/2207.07109v1)|null|
 |**2022-07-14**|**Relighting4D: Neural Relightable Human from Videos**|Zhaoxi Chen et.al.|[2207.07104v1](http://arxiv.org/abs/2207.07104v1)|**[link](https://github.com/frozenburning/relighting4d)**|
@@ -269,6 +279,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
+|**2022-07-15**|**ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization**|Bingjie Xu et.al.|[2207.07643v1](http://arxiv.org/abs/2207.07643v1)|null|
+|**2022-07-15**|**DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving**|Ruiqing Mao et.al.|[2207.07609v1](http://arxiv.org/abs/2207.07609v1)|null|
+|**2022-07-15**|**The DKU-OPPO System for the 2022 Spoofing-Aware Speaker Verification Challenge**|Xingming Wang et.al.|[2207.07510v1](http://arxiv.org/abs/2207.07510v1)|null|
+|**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
+|**2022-07-15**|**Mixed QCD-electroweak corrections to Higgs plus jet production at the LHC**|Marco Bonetti et.al.|[2207.07420v1](http://arxiv.org/abs/2207.07420v1)|null|
+|**2022-07-15**|**Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal**|Xuhao Jiang et.al.|[2207.07335v1](http://arxiv.org/abs/2207.07335v1)|null|
+|**2022-07-15**|**WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation**|Mengping Yang et.al.|[2207.07288v1](http://arxiv.org/abs/2207.07288v1)|**[link](https://github.com/kobeshegu/eccv2022_wavegan)**|
+|**2022-07-15**|**Boosting Multi-Modal E-commerce Attribute Value Extraction via Unified Learning Scheme and Dynamic Range Minimization**|Mengyin Liu et.al.|[2207.07278v1](http://arxiv.org/abs/2207.07278v1)|null|
+|**2022-07-14**|**Image Clustering with Contrastive Learning and Multi-scale Graph Convolutional Networks**|Yuanku Xu et.al.|[2207.07173v1](http://arxiv.org/abs/2207.07173v1)|null|
 |**2022-07-14**|**MedFuse: Multi-modal fusion with clinical time-series data and chest X-ray images**|Nasir Hayat et.al.|[2207.07027v1](http://arxiv.org/abs/2207.07027v1)|**[link](https://github.com/nyuad-cai/medfuse)**|
 |**2022-07-14**|**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**|Peng Yin et.al.|[2207.06965v1](http://arxiv.org/abs/2207.06965v1)|null|
 |**2022-07-14**|**Real-time Streaming Video Denoising with Bidirectional Buffers**|Chenyang Qi et.al.|[2207.06937v1](http://arxiv.org/abs/2207.06937v1)|**[link](https://github.com/chenyangqiqi/bsvd)**|
