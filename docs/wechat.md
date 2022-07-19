@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-07-18, **Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations**, Hashmat Shadab Malik et.al., Paper: [http://arxiv.org/abs/2207.08803v1](http://arxiv.org/abs/2207.08803v1), Code: **[https://github.com/hashmatshadab/apr](https://github.com/hashmatshadab/apr)**
+- 2022-07-18, **Package for Fast ABC-Boost**, Ping Li et.al., Paper: [http://arxiv.org/abs/2207.08770v1](http://arxiv.org/abs/2207.08770v1)
+- 2022-07-18, **Morphology, color-magnitude and scaling relations of galaxies in Abell 426**, Sheeraz A. Khanday et.al., Paper: [http://arxiv.org/abs/2207.08729v1](http://arxiv.org/abs/2207.08729v1)
+- 2022-07-18, **Boosting Video Super Resolution with Patch-Based Temporal Redundancy Optimization**, Yuhao Huang et.al., Paper: [http://arxiv.org/abs/2207.08674v1](http://arxiv.org/abs/2207.08674v1), Code: **[https://github.com/hyhsimon/boosted-vsr](https://github.com/hyhsimon/boosted-vsr)**
+- 2022-07-18, **pGMM Kernel Regression and Comparisons with Boosted Trees**, Ping Li et.al., Paper: [http://arxiv.org/abs/2207.08667v1](http://arxiv.org/abs/2207.08667v1)
+- 2022-07-18, **Learning useful representations for radio astronomy "in the wild" with contrastive learning**, Inigo Val Slijepcevic et.al., Paper: [http://arxiv.org/abs/2207.08666v1](http://arxiv.org/abs/2207.08666v1)
+- 2022-07-18, **Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation**, Guodong Ding et.al., Paper: [http://arxiv.org/abs/2207.08653v1](http://arxiv.org/abs/2207.08653v1)
+- 2022-07-18, **Upper Limb Movement Recognition utilising EEG and EMG Signals for Rehabilitative Robotics**, Wang Zihao et.al., Paper: [http://arxiv.org/abs/2207.08650v1](http://arxiv.org/abs/2207.08650v1)
+- 2022-07-18, **Enhancing HDR Video Compression through CNN-based Effective Bit Depth Adaptation**, Chen Feng et.al., Paper: [http://arxiv.org/abs/2207.08634v1](http://arxiv.org/abs/2207.08634v1)
+- 2022-07-18, **Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**, Chuang Liu et.al., Paper: [http://arxiv.org/abs/2207.08629v1](http://arxiv.org/abs/2207.08629v1)
 - 2022-07-15, **Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**, Rui Qian et.al., Paper: [http://arxiv.org/abs/2207.07646v1](http://arxiv.org/abs/2207.07646v1)
 - 2022-07-15, **Is a Caption Worth a Thousand Images? A Controlled Study for Representation Learning**, Shibani Santurkar et.al., Paper: [http://arxiv.org/abs/2207.07635v1](http://arxiv.org/abs/2207.07635v1)
 - 2022-07-15, **GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**, Zhiruo Zhou et.al., Paper: [http://arxiv.org/abs/2207.07629v1](http://arxiv.org/abs/2207.07629v1)
@@ -275,6 +285,16 @@
 
 ## MultiModal
 
+- 2022-07-18, **Beyond dimension six in SM Effective Field Theory: a case study in Higgs pair production at NLO QCD**, Gudrun Heinrich et.al., Paper: [http://arxiv.org/abs/2207.08790v1](http://arxiv.org/abs/2207.08790v1)
+- 2022-07-18, **Temporal Lift Pooling for Continuous Sign Language Recognition**, Lianyu Hu et.al., Paper: [http://arxiv.org/abs/2207.08734v1](http://arxiv.org/abs/2207.08734v1), Code: **[https://github.com/hulianyuyy/Temporal-Lift-Pooling](https://github.com/hulianyuyy/Temporal-Lift-Pooling)**
+- 2022-07-18, **Radiative pulsed L-mode operation in ARC-class reactors**, S. J. Frank et.al., Paper: [http://arxiv.org/abs/2207.08726v1](http://arxiv.org/abs/2207.08726v1)
+- 2022-07-18, **Upper Limb Movement Recognition utilising EEG and EMG Signals for Rehabilitative Robotics**, Wang Zihao et.al., Paper: [http://arxiv.org/abs/2207.08650v1](http://arxiv.org/abs/2207.08650v1)
+- 2022-07-18, **Learning Correspondency in Frequency Domain by a Latent-Space Similarity Loss for Multispectral Pansharpening**, Yinghui Xing et.al., Paper: [http://arxiv.org/abs/2207.08602v1](http://arxiv.org/abs/2207.08602v1)
+- 2022-07-18, **A Certifiable Security Patch for Object Tracking in Self-Driving Systems via Historical Deviation Modeling**, Xudong Pan et.al., Paper: [http://arxiv.org/abs/2207.08556v1](http://arxiv.org/abs/2207.08556v1)
+- 2022-07-18, **UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View**, Zequn Qin et.al., Paper: [http://arxiv.org/abs/2207.08536v1](http://arxiv.org/abs/2207.08536v1)
+- 2022-07-18, **HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation**, Moein Heidari et.al., Paper: [http://arxiv.org/abs/2207.08518v1](http://arxiv.org/abs/2207.08518v1), Code: **[https://github.com/amirhossein-kz/hiformer](https://github.com/amirhossein-kz/hiformer)**
+- 2022-07-18, **Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**, Gensheng Pei et.al., Paper: [http://arxiv.org/abs/2207.08485v1](http://arxiv.org/abs/2207.08485v1), Code: **[https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)**
+- 2022-07-18, **Multi-dimension Geospatial feature learning for urban region function recognition**, Wenjia Xu et.al., Paper: [http://arxiv.org/abs/2207.08461v1](http://arxiv.org/abs/2207.08461v1)
 - 2022-07-15, **Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**, Rui Qian et.al., Paper: [http://arxiv.org/abs/2207.07646v1](http://arxiv.org/abs/2207.07646v1)
 - 2022-07-15, **ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization**, Bingjie Xu et.al., Paper: [http://arxiv.org/abs/2207.07643v1](http://arxiv.org/abs/2207.07643v1)
 - 2022-07-15, **DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving**, Ruiqing Mao et.al., Paper: [http://arxiv.org/abs/2207.07609v1](http://arxiv.org/abs/2207.07609v1)
