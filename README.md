@@ -1,4 +1,4 @@
-## Updated on 2022.07.19
+## Updated on 2022.07.20
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@
 |**2022-07-18**|**Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation**|Guodong Ding et.al.|[2207.08653v1](http://arxiv.org/abs/2207.08653v1)|null|
 |**2022-07-18**|**Upper Limb Movement Recognition utilising EEG and EMG Signals for Rehabilitative Robotics**|Wang Zihao et.al.|[2207.08650v1](http://arxiv.org/abs/2207.08650v1)|null|
 |**2022-07-18**|**Enhancing HDR Video Compression through CNN-based Effective Bit Depth Adaptation**|Chen Feng et.al.|[2207.08634v1](http://arxiv.org/abs/2207.08634v1)|null|
-|**2022-07-18**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**|Chuang Liu et.al.|[2207.08629v1](http://arxiv.org/abs/2207.08629v1)|null|
+|**2022-07-19**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**|Chuang Liu et.al.|[2207.08629v2](http://arxiv.org/abs/2207.08629v2)|null|
 |**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
 |**2022-07-15**|**Is a Caption Worth a Thousand Images? A Controlled Study for Representation Learning**|Shibani Santurkar et.al.|[2207.07635v1](http://arxiv.org/abs/2207.07635v1)|null|
 |**2022-07-15**|**GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**|Zhiruo Zhou et.al.|[2207.07629v1](http://arxiv.org/abs/2207.07629v1)|null|
@@ -295,9 +295,9 @@
 |**2022-07-18**|**Upper Limb Movement Recognition utilising EEG and EMG Signals for Rehabilitative Robotics**|Wang Zihao et.al.|[2207.08650v1](http://arxiv.org/abs/2207.08650v1)|null|
 |**2022-07-18**|**Learning Correspondency in Frequency Domain by a Latent-Space Similarity Loss for Multispectral Pansharpening**|Yinghui Xing et.al.|[2207.08602v1](http://arxiv.org/abs/2207.08602v1)|null|
 |**2022-07-18**|**A Certifiable Security Patch for Object Tracking in Self-Driving Systems via Historical Deviation Modeling**|Xudong Pan et.al.|[2207.08556v1](http://arxiv.org/abs/2207.08556v1)|null|
-|**2022-07-18**|**UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View**|Zequn Qin et.al.|[2207.08536v1](http://arxiv.org/abs/2207.08536v1)|null|
+|**2022-07-18**|**UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View**|Zequn Qin et.al.|[2207.08536v1](http://arxiv.org/abs/2207.08536v1)|**[link](https://github.com/cfzd/uniformer)**|
 |**2022-07-18**|**HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation**|Moein Heidari et.al.|[2207.08518v1](http://arxiv.org/abs/2207.08518v1)|**[link](https://github.com/amirhossein-kz/hiformer)**|
-|**2022-07-18**|**Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**|Gensheng Pei et.al.|[2207.08485v1](http://arxiv.org/abs/2207.08485v1)|**[link](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)**|
+|**2022-07-19**|**Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**|Gensheng Pei et.al.|[2207.08485v2](http://arxiv.org/abs/2207.08485v2)|**[link](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)**|
 |**2022-07-18**|**Multi-dimension Geospatial feature learning for urban region function recognition**|Wenjia Xu et.al.|[2207.08461v1](http://arxiv.org/abs/2207.08461v1)|null|
 |**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
 |**2022-07-15**|**ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization**|Bingjie Xu et.al.|[2207.07643v1](http://arxiv.org/abs/2207.07643v1)|null|
