@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Human-to-Robot Imitation in the Wild**|Shikhar Bahl et.al.|[2207.09450v1](http://arxiv.org/abs/2207.09450v1)|null|
+|**2022-07-19**|**Machine learning approach to genome of two-dimensional materials with flat electronic bands**|Anupam Bhattacharya et.al.|[2207.09444v1](http://arxiv.org/abs/2207.09444v1)|null|
+|**2022-07-19**|**A Convolutional Neural Network Approach to Supernova Time-Series Classification**|Helen Qu et.al.|[2207.09440v1](http://arxiv.org/abs/2207.09440v1)|null|
+|**2022-07-19**|**Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2207.09425v1](http://arxiv.org/abs/2207.09425v1)|null|
+|**2022-07-19**|**Image Synthesis with Disentangled Attributes for Chest X-Ray Nodule Augmentation and Detection**|Zhenrong Shen et.al.|[2207.09389v1](http://arxiv.org/abs/2207.09389v1)|null|
+|**2022-07-19**|**Emotion Recognition based on Multi-Task Learning Framework in the ABAW4 Challenge**|Tenggan Zhang et.al.|[2207.09373v1](http://arxiv.org/abs/2207.09373v1)|null|
+|**2022-07-19**|**Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations**|Xiaofei Huang et.al.|[2207.09352v1](http://arxiv.org/abs/2207.09352v1)|null|
+|**2022-07-19**|**Accommodating false positives within acoustic spatial capture-recapture, with variable source levels, noisy bearings and an inhomogeneous spatial density**|Felix T Petersma et.al.|[2207.09343v1](http://arxiv.org/abs/2207.09343v1)|null|
+|**2022-07-19**|**Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective**|Li Zhang et.al.|[2207.09339v1](http://arxiv.org/abs/2207.09339v1)|null|
+|**2022-07-19**|**Uncertainty in Contrastive Learning: On the Predictability of Downstream Performance**|Shervin Ardeshir et.al.|[2207.09336v1](http://arxiv.org/abs/2207.09336v1)|null|
 |**2022-07-18**|**Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations**|Hashmat Shadab Malik et.al.|[2207.08803v1](http://arxiv.org/abs/2207.08803v1)|**[link](https://github.com/hashmatshadab/apr)**|
 |**2022-07-18**|**Package for Fast ABC-Boost**|Ping Li et.al.|[2207.08770v1](http://arxiv.org/abs/2207.08770v1)|null|
 |**2022-07-18**|**Morphology, color-magnitude and scaling relations of galaxies in Abell 426**|Sheeraz A. Khanday et.al.|[2207.08729v1](http://arxiv.org/abs/2207.08729v1)|null|
@@ -289,6 +299,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2207.09425v1](http://arxiv.org/abs/2207.09425v1)|null|
+|**2022-07-19**|**Fusion cross section for the reaction $^{18}$O+$^{12}$C at 16.7 MeV/nucleon**|Lucia Baldesi et.al.|[2207.09419v1](http://arxiv.org/abs/2207.09419v1)|null|
+|**2022-07-19**|**KinD-LCE Curve Estimation And Retinex Fusion On Low-Light Image**|Xiaochun Lei et.al.|[2207.09210v1](http://arxiv.org/abs/2207.09210v1)|null|
 |**2022-07-18**|**Beyond dimension six in SM Effective Field Theory: a case study in Higgs pair production at NLO QCD**|Gudrun Heinrich et.al.|[2207.08790v1](http://arxiv.org/abs/2207.08790v1)|null|
 |**2022-07-18**|**Temporal Lift Pooling for Continuous Sign Language Recognition**|Lianyu Hu et.al.|[2207.08734v1](http://arxiv.org/abs/2207.08734v1)|**[link](https://github.com/hulianyuyy/Temporal-Lift-Pooling)**|
 |**2022-07-18**|**Radiative pulsed L-mode operation in ARC-class reactors**|S. J. Frank et.al.|[2207.08726v1](http://arxiv.org/abs/2207.08726v1)|null|
