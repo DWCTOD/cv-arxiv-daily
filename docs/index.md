@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Is an Object-Centric Video Representation Beneficial for Transfer?**|Chuhan Zhang et.al.|[2207.10075v1](http://arxiv.org/abs/2207.10075v1)|null|
+|**2022-07-20**|**Automatic Segmentation of Coronal Holes in Solar Images and Solar Prediction Map Classification**|Venkatesh Jatla et.al.|[2207.10070v1](http://arxiv.org/abs/2207.10070v1)|null|
+|**2022-07-20**|**Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model**|Zhiyuan Mao et.al.|[2207.10040v1](http://arxiv.org/abs/2207.10040v1)|null|
+|**2022-07-20**|**Learning from Synthetic Data: Facial Expression Classification based on Ensemble of Multi-task Networks**|Jae-Yeop Jeong et.al.|[2207.10025v1](http://arxiv.org/abs/2207.10025v1)|null|
+|**2022-07-20**|**MANI-Rank: Multiple Attribute and Intersectional Group Fairness for Consensus Ranking**|Kathleen Cachel et.al.|[2207.10020v1](http://arxiv.org/abs/2207.10020v1)|**[link](https://github.com/kcachel/mani-rank)**|
+|**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
+|**2022-07-20**|**BYEL : Bootstrap on Your Emotion Latent**|Hyungjun Lee et.al.|[2207.10003v1](http://arxiv.org/abs/2207.10003v1)|null|
+|**2022-07-20**|**Temporal and cross-modal attention for audio-visual zero-shot learning**|Otniel-Bogdan Mercea et.al.|[2207.09966v1](http://arxiv.org/abs/2207.09966v1)|**[link](https://github.com/explainableml/tcaf-gzsl)**|
+|**2022-07-20**|**M2-Net: Multi-stages Specular Highlight Detection and Removal in Multi-scenes**|Zhaoyangfan Huang et.al.|[2207.09965v1](http://arxiv.org/abs/2207.09965v1)|null|
+|**2022-07-20**|**Exploration of Parameter Spaces Assisted by Machine Learning**|A. Hammad et.al.|[2207.09959v1](http://arxiv.org/abs/2207.09959v1)|**[link](https://github.com/ahamamd150/mlscanner)**|
 |**2022-07-19**|**Human-to-Robot Imitation in the Wild**|Shikhar Bahl et.al.|[2207.09450v1](http://arxiv.org/abs/2207.09450v1)|null|
 |**2022-07-19**|**Machine learning approach to genome of two-dimensional materials with flat electronic bands**|Anupam Bhattacharya et.al.|[2207.09444v1](http://arxiv.org/abs/2207.09444v1)|null|
 |**2022-07-19**|**A Convolutional Neural Network Approach to Supernova Time-Series Classification**|Helen Qu et.al.|[2207.09440v1](http://arxiv.org/abs/2207.09440v1)|null|
@@ -303,7 +313,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-19**|**Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2207.09425v1](http://arxiv.org/abs/2207.09425v1)|null|
+|**2022-07-20**|**Data Fusion in a Two-stage Spatio-Temporal Model using the INLA-SPDE Approach**|Stephen Jun Villejo et.al.|[2207.10027v1](http://arxiv.org/abs/2207.10027v1)|null|
+|**2022-07-20**|**Lagrangian particle simulation of hydrogen pellets and SPI into runaway electron beam in ITER**|Shaohua Yuan et.al.|[2207.10000v1](http://arxiv.org/abs/2207.10000v1)|null|
+|**2022-07-20**|**Cooling flow regime of a plasma thermal quench**|Yanzeng Zhang et.al.|[2207.09974v1](http://arxiv.org/abs/2207.09974v1)|null|
+|**2022-07-20**|**Investigating the muon catalyzed fusion in muonic lithium hydride**|Qian Wu et.al.|[2207.09753v1](http://arxiv.org/abs/2207.09753v1)|null|
+|**2022-07-20**|**Prime ideals of the Burnside ring of a saturated fusion system**|Nicolas Lemoine et.al.|[2207.09722v1](http://arxiv.org/abs/2207.09722v1)|null|
+|**2022-07-20**|**Multi-Task Learning for Emotion Descriptors Estimation at the fourth ABAW Challenge**|Yanan Chang et.al.|[2207.09716v1](http://arxiv.org/abs/2207.09716v1)|null|
+|**2022-07-20**|**Sensitivity on Two-Higgs-Doublet Models from Higgs-Pair Production via $b\bar{b}b\bar{b}$ Final State**|Kingman Cheung et.al.|[2207.09602v1](http://arxiv.org/abs/2207.09602v1)|null|
+|**2022-07-19**|**Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2207.09425v1](http://arxiv.org/abs/2207.09425v1)|**[link](https://github.com/tanqiu98/2g-gcn)**|
 |**2022-07-19**|**Fusion cross section for the reaction $^{18}$O+$^{12}$C at 16.7 MeV/nucleon**|Lucia Baldesi et.al.|[2207.09419v1](http://arxiv.org/abs/2207.09419v1)|null|
 |**2022-07-19**|**KinD-LCE Curve Estimation And Retinex Fusion On Low-Light Image**|Xiaochun Lei et.al.|[2207.09210v1](http://arxiv.org/abs/2207.09210v1)|null|
 |**2022-07-18**|**Beyond dimension six in SM Effective Field Theory: a case study in Higgs pair production at NLO QCD**|Gudrun Heinrich et.al.|[2207.08790v1](http://arxiv.org/abs/2207.08790v1)|null|
