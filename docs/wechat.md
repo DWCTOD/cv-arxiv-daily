@@ -1,11 +1,11 @@
-> Updated on 2022.07.21
+> Updated on 2022.07.22
 
 ## Video_Classification
 
 - 2022-07-20, **Is an Object-Centric Video Representation Beneficial for Transfer?**, Chuhan Zhang et.al., Paper: [http://arxiv.org/abs/2207.10075v1](http://arxiv.org/abs/2207.10075v1)
 - 2022-07-20, **Automatic Segmentation of Coronal Holes in Solar Images and Solar Prediction Map Classification**, Venkatesh Jatla et.al., Paper: [http://arxiv.org/abs/2207.10070v1](http://arxiv.org/abs/2207.10070v1)
 - 2022-07-20, **Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model**, Zhiyuan Mao et.al., Paper: [http://arxiv.org/abs/2207.10040v1](http://arxiv.org/abs/2207.10040v1)
-- 2022-07-20, **Learning from Synthetic Data: Facial Expression Classification based on Ensemble of Multi-task Networks**, Jae-Yeop Jeong et.al., Paper: [http://arxiv.org/abs/2207.10025v1](http://arxiv.org/abs/2207.10025v1)
+- 2022-07-21, **Learning from Synthetic Data: Facial Expression Classification based on Ensemble of Multi-task Networks**, Jae-Yeop Jeong et.al., Paper: [http://arxiv.org/abs/2207.10025v2](http://arxiv.org/abs/2207.10025v2)
 - 2022-07-20, **MANI-Rank: Multiple Attribute and Intersectional Group Fairness for Consensus Ranking**, Kathleen Cachel et.al., Paper: [http://arxiv.org/abs/2207.10020v1](http://arxiv.org/abs/2207.10020v1), Code: **[https://github.com/kcachel/mani-rank](https://github.com/kcachel/mani-rank)**
 - 2022-07-20, **Generative Domain Adaptation for Face Anti-Spoofing**, Qianyu Zhou et.al., Paper: [http://arxiv.org/abs/2207.10015v1](http://arxiv.org/abs/2207.10015v1)
 - 2022-07-20, **BYEL : Bootstrap on Your Emotion Latent**, Hyungjun Lee et.al., Paper: [http://arxiv.org/abs/2207.10003v1](http://arxiv.org/abs/2207.10003v1)
