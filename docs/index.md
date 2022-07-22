@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|**[link](https://github.com/visipedia/ssw60)**|
+|**2022-07-21**|**Neural Pixel Composition: 3D-4D View Synthesis from Multi-Views**|Aayush Bansal et.al.|[2207.10663v1](http://arxiv.org/abs/2207.10663v1)|null|
+|**2022-07-21**|**In Defense of Online Models for Video Instance Segmentation**|Junfeng Wu et.al.|[2207.10661v1](http://arxiv.org/abs/2207.10661v1)|**[link](https://github.com/wjf5203/vnext)**|
+|**2022-07-21**|**A Dynamical Systems Algorithm for Clustering in Hyperspectral Imagery**|William F. Basener et.al.|[2207.10625v1](http://arxiv.org/abs/2207.10625v1)|null|
+|**2022-07-21**|**Topology of Born-Infeld AdS black holes in 4D novel Einstein-Gauss-Bonnet gravity**|Pavan Kumar Yerra et.al.|[2207.10612v1](http://arxiv.org/abs/2207.10612v1)|null|
+|**2022-07-21**|**Approximate Differentiable Rendering with Algebraic Surfaces**|Leonid Keselman et.al.|[2207.10606v1](http://arxiv.org/abs/2207.10606v1)|null|
+|**2022-07-21**|**Careful What You Wish For: on the Extraction of Adversarially Trained Models**|Kacem Khaled et.al.|[2207.10561v1](http://arxiv.org/abs/2207.10561v1)|null|
+|**2022-07-21**|**Closed-Loop Next-Best-View Planning for Target-Driven Grasping**|Michel Breyer et.al.|[2207.10543v1](http://arxiv.org/abs/2207.10543v1)|null|
+|**2022-07-21**|**Neural Network Learning of Chemical Bond Representations in Spectral Indices and Features**|Bill Basener et.al.|[2207.10530v1](http://arxiv.org/abs/2207.10530v1)|null|
+|**2022-07-21**|**Bounds on Successive Minima of Orders in Number Fields and Scrollar Invariants of Curves**|Sameera Vemulapalli et.al.|[2207.10522v1](http://arxiv.org/abs/2207.10522v1)|null|
 |**2022-07-20**|**Is an Object-Centric Video Representation Beneficial for Transfer?**|Chuhan Zhang et.al.|[2207.10075v1](http://arxiv.org/abs/2207.10075v1)|null|
 |**2022-07-20**|**Automatic Segmentation of Coronal Holes in Solar Images and Solar Prediction Map Classification**|Venkatesh Jatla et.al.|[2207.10070v1](http://arxiv.org/abs/2207.10070v1)|null|
 |**2022-07-20**|**Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model**|Zhiyuan Mao et.al.|[2207.10040v1](http://arxiv.org/abs/2207.10040v1)|null|
@@ -313,6 +323,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|**[link](https://github.com/visipedia/ssw60)**|
+|**2022-07-21**|**Neural Networks for Nuclear Reactions in MAESTROeX**|Duoming Fan et.al.|[2207.10628v1](http://arxiv.org/abs/2207.10628v1)|null|
+|**2022-07-21**|**Boosting 3D Object Detection via Object-Focused Image Fusion**|Hao Yang et.al.|[2207.10589v1](http://arxiv.org/abs/2207.10589v1)|**[link](https://github.com/haoy945/demf)**|
+|**2022-07-21**|**Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**|Suman Ghosh et.al.|[2207.10494v1](http://arxiv.org/abs/2207.10494v1)|null|
+|**2022-07-21**|**Temporal and Spatial Online Integrated Calibration for Camera and LiDAR**|Shouan Wang et.al.|[2207.10454v1](http://arxiv.org/abs/2207.10454v1)|null|
+|**2022-07-21**|**Stochastic Particle-Based Variational Bayesian Inference for Multi-band Radar Sensing**|Zhixiang Hu et.al.|[2207.10427v1](http://arxiv.org/abs/2207.10427v1)|null|
+|**2022-07-21**|**Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification**|Yongqiang Mao et.al.|[2207.10278v1](http://arxiv.org/abs/2207.10278v1)|**[link](https://github.com/wingkeungm/rffs-net)**|
+|**2022-07-20**|**Theoretical evaluation of solar proton-proton fusion reaction rate and its uncertainties**|Hilla De-Leon et.al.|[2207.10176v1](http://arxiv.org/abs/2207.10176v1)|null|
 |**2022-07-20**|**Data Fusion in a Two-stage Spatio-Temporal Model using the INLA-SPDE Approach**|Stephen Jun Villejo et.al.|[2207.10027v1](http://arxiv.org/abs/2207.10027v1)|null|
 |**2022-07-20**|**Lagrangian particle simulation of hydrogen pellets and SPI into runaway electron beam in ITER**|Shaohua Yuan et.al.|[2207.10000v1](http://arxiv.org/abs/2207.10000v1)|null|
 |**2022-07-20**|**Cooling flow regime of a plasma thermal quench**|Yanzeng Zhang et.al.|[2207.09974v1](http://arxiv.org/abs/2207.09974v1)|null|
