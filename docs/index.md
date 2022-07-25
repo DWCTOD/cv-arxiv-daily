@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-22**|**Multiface: A Dataset for Neural Face Rendering**|Cheng-hsin Wuu et.al.|[2207.11243v1](http://arxiv.org/abs/2207.11243v1)|**[link](https://github.com/facebookresearch/multiface)**|
+|**2022-07-22**|**Discrete Key-Value Bottleneck**|Frederik Träuble et.al.|[2207.11240v1](http://arxiv.org/abs/2207.11240v1)|null|
+|**2022-07-22**|**Seeing 3D Objects in a Single Image via Self-Supervised Static-Dynamic Disentanglement**|Prafull Sharma et.al.|[2207.11232v1](http://arxiv.org/abs/2207.11232v1)|null|
+|**2022-07-22**|**Learning to Singulate Layers of Cloth using Tactile Feedback**|Sashank Tirumala et.al.|[2207.11196v1](http://arxiv.org/abs/2207.11196v1)|null|
+|**2022-07-22**|**Comment on "On the Extraction of Purely Motor EEG Neural Correlates during an Upper Limb Visuomotor Task"**|Patrick Ofner et.al.|[2207.11168v1](http://arxiv.org/abs/2207.11168v1)|null|
+|**2022-07-22**|**InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images**|Zhengqi Li et.al.|[2207.11148v1](http://arxiv.org/abs/2207.11148v1)|null|
+|**2022-07-22**|**Fast strategies for multi-temporal speckle reduction of Sentinel-1 GRD images**|Inès Meraoumia et.al.|[2207.11111v1](http://arxiv.org/abs/2207.11111v1)|null|
+|**2022-07-22**|**CARBON: A Counterfactual Reasoning based Framework for Neural Code Comprehension Debiasing**|Shuzheng Gao et.al.|[2207.11104v1](http://arxiv.org/abs/2207.11104v1)|null|
+|**2022-07-22**|**DeVIS: Making Deformable Transformers Work for Video Instance Segmentation**|Adrià Caelles et.al.|[2207.11103v1](http://arxiv.org/abs/2207.11103v1)|**[link](https://github.com/acaelles97/devis)**|
+|**2022-07-22**|**Physiology-based simulation of the retinal vasculature enables annotation-free segmentation of OCT angiographs**|Martin J. Menten et.al.|[2207.11102v1](http://arxiv.org/abs/2207.11102v1)|**[link](https://github.com/iMED-Lab/OCTA-Net-OCTA-Vessel-Segmentation-Network)**|
 |**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|**[link](https://github.com/visipedia/ssw60)**|
 |**2022-07-21**|**Neural Pixel Composition: 3D-4D View Synthesis from Multi-Views**|Aayush Bansal et.al.|[2207.10663v1](http://arxiv.org/abs/2207.10663v1)|null|
 |**2022-07-21**|**In Defense of Online Models for Video Instance Segmentation**|Junfeng Wu et.al.|[2207.10661v1](http://arxiv.org/abs/2207.10661v1)|**[link](https://github.com/wjf5203/vnext)**|
@@ -323,6 +333,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-21**|**Search for invisible Higgs bosons produced via vector boson fusion at the LHC using the ATLAS detector**|Mohamed Zaazoua et.al.|[2207.11216v1](http://arxiv.org/abs/2207.11216v1)|null|
+|**2022-07-22**|**Improving Predictive Performance and Calibration by Weight Fusion in Semantic Segmentation**|Timo Sämann et.al.|[2207.11211v1](http://arxiv.org/abs/2207.11211v1)|null|
+|**2022-07-22**|**Visible and Near Infrared Image Fusion Based on Texture Information**|Guanyu Zhang et.al.|[2207.10953v1](http://arxiv.org/abs/2207.10953v1)|null|
+|**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
+|**2022-07-22**|**Search for the Higgs boson pair production in the $b\bar{b}μ^+μ^-$ final state at the LHC**|Botao Guo et.al.|[2207.10912v1](http://arxiv.org/abs/2207.10912v1)|null|
+|**2022-07-22**|**Mechanics of diffusion-mediated budding and implications for virus replication and infection**|Mattia Bacca et.al.|[2207.10907v1](http://arxiv.org/abs/2207.10907v1)|null|
+|**2022-07-22**|**3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization**|Rui Qiu et.al.|[2207.10895v1](http://arxiv.org/abs/2207.10895v1)|null|
+|**2022-07-22**|**Uncertainty-aware Multi-modal Learning via Cross-modal Random Network Prediction**|Hu Wang et.al.|[2207.10851v1](http://arxiv.org/abs/2207.10851v1)|null|
+|**2022-07-21**|**Topological holography: Towards a unification of Landau and beyond-Landau physics**|Heidar Moradi et.al.|[2207.10712v1](http://arxiv.org/abs/2207.10712v1)|null|
 |**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|**[link](https://github.com/visipedia/ssw60)**|
 |**2022-07-21**|**Neural Networks for Nuclear Reactions in MAESTROeX**|Duoming Fan et.al.|[2207.10628v1](http://arxiv.org/abs/2207.10628v1)|null|
 |**2022-07-21**|**Boosting 3D Object Detection via Object-Focused Image Fusion**|Hao Yang et.al.|[2207.10589v1](http://arxiv.org/abs/2207.10589v1)|**[link](https://github.com/haoy945/demf)**|
