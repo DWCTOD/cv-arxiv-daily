@@ -1,4 +1,4 @@
-## Updated on 2022.07.25
+## Updated on 2022.07.26
 
 ## Video_Classification
 
@@ -334,8 +334,8 @@
 |**2022-07-22**|**Visible and Near Infrared Image Fusion Based on Texture Information**|Guanyu Zhang et.al.|[2207.10953v1](http://arxiv.org/abs/2207.10953v1)|null|
 |**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow et.al.|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
 |**2022-07-22**|**Search for the Higgs boson pair production in the $b\bar{b}μ^+μ^-$ final state at the LHC**|Botao Guo et.al.|[2207.10912v1](http://arxiv.org/abs/2207.10912v1)|null|
-|**2022-07-22**|**Mechanics of diffusion-mediated budding and implications for virus replication and infection**|Mattia Bacca et.al.|[2207.10907v1](http://arxiv.org/abs/2207.10907v1)|null|
-|**2022-07-22**|**3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization**|Rui Qiu et.al.|[2207.10895v1](http://arxiv.org/abs/2207.10895v1)|null|
+|**2022-07-25**|**Mechanics of diffusion-mediated budding and implications for virus replication and infection**|Mattia Bacca et.al.|[2207.10907v2](http://arxiv.org/abs/2207.10907v2)|null|
+|**2022-07-25**|**3D Random Occlusion and Multi-Layer Projection for Deep Multi-Camera Pedestrian Localization**|Rui Qiu et.al.|[2207.10895v2](http://arxiv.org/abs/2207.10895v2)|null|
 |**2022-07-22**|**Uncertainty-aware Multi-modal Learning via Cross-modal Random Network Prediction**|Hu Wang et.al.|[2207.10851v1](http://arxiv.org/abs/2207.10851v1)|null|
 |**2022-07-21**|**Topological holography: Towards a unification of Landau and beyond-Landau physics**|Heidar Moradi et.al.|[2207.10712v1](http://arxiv.org/abs/2207.10712v1)|null|
 |**2022-07-21**|**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**|Grant Van Horn et.al.|[2207.10664v1](http://arxiv.org/abs/2207.10664v1)|**[link](https://github.com/visipedia/ssw60)**|
