@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-25**|**CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**|Hao Zhu et.al.|[2207.12393v1](http://arxiv.org/abs/2207.12393v1)|**[link](https://github.com/celebv-hq/celebv-hq)**|
+|**2022-07-25**|**SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness**|Jindong Gu et.al.|[2207.12391v1](http://arxiv.org/abs/2207.12391v1)|null|
+|**2022-07-25**|**LightX3ECG: A Lightweight and eXplainable Deep Learning System for 3-lead Electrocardiogram Classification**|Khiem H. Le et.al.|[2207.12381v1](http://arxiv.org/abs/2207.12381v1)|null|
+|**2022-07-25**|**MIGHTEE: the nature of the radio-loud AGN population**|I. H. Whittam et.al.|[2207.12379v1](http://arxiv.org/abs/2207.12379v1)|null|
+|**2022-07-25**|**Edge-Aware Autoencoder Design for Real-Time Mixture-of-Experts Image Compression**|Elvira Fleig et.al.|[2207.12348v1](http://arxiv.org/abs/2207.12348v1)|null|
+|**2022-07-25**|**Contrastive Knowledge-Augmented Meta-Learning for Few-Shot Classification**|Rakshith Subramanyam et.al.|[2207.12346v1](http://arxiv.org/abs/2207.12346v1)|null|
+|**2022-07-25**|**Four New Fast Radio Bursts Discovered in the Parkes 70-cm Pulsar Survey Archive**|F. Crawford et.al.|[2207.12332v1](http://arxiv.org/abs/2207.12332v1)|null|
+|**2022-07-25**|**Classification of all constant solutions of the Yang-Mills-Dirac equations**|D. S. Shirokov et.al.|[2207.12313v1](http://arxiv.org/abs/2207.12313v1)|null|
+|**2022-07-25**|**Error-Aware Spatial Ensembles for Video Frame Interpolation**|Zhixiang Chi et.al.|[2207.12305v1](http://arxiv.org/abs/2207.12305v1)|null|
+|**2022-07-25**|**Orthogonalization of data via Gromov-Wasserstein type feedback for clustering and visualization**|Martin Ryner et.al.|[2207.12279v1](http://arxiv.org/abs/2207.12279v1)|null|
 |**2022-07-22**|**Multiface: A Dataset for Neural Face Rendering**|Cheng-hsin Wuu et.al.|[2207.11243v1](http://arxiv.org/abs/2207.11243v1)|**[link](https://github.com/facebookresearch/multiface)**|
 |**2022-07-22**|**Discrete Key-Value Bottleneck**|Frederik Träuble et.al.|[2207.11240v1](http://arxiv.org/abs/2207.11240v1)|null|
 |**2022-07-22**|**Seeing 3D Objects in a Single Image via Self-Supervised Static-Dynamic Disentanglement**|Prafull Sharma et.al.|[2207.11232v1](http://arxiv.org/abs/2207.11232v1)|null|
@@ -333,6 +343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-25**|**Approximating missing higher-orders in transverse momentum distributions using resummations**|Niccolò Laurenti et.al.|[2207.12265v1](http://arxiv.org/abs/2207.12265v1)|null|
+|**2022-07-25**|**Surrogate Modeling of Melt Pool Thermal Field using Deep Learning**|AmirPouya Hemmasian et.al.|[2207.12259v1](http://arxiv.org/abs/2207.12259v1)|null|
+|**2022-07-25**|**Resilient Navigation and Path Planning System for High-speed Autonomous Race Car**|Daegyu Lee et.al.|[2207.12232v1](http://arxiv.org/abs/2207.12232v1)|null|
+|**2022-07-25**|**Deep dual stream residual network with contextual attention for pansharpening of remote sensing images**|Syeda Roshana Ali et.al.|[2207.12004v1](http://arxiv.org/abs/2207.12004v1)|null|
+|**2022-07-25**|**GA2MIF: Graph and Attention-based Two-stage Multi-source Information Fusion for Conversational Emotion Detection**|Jiang Li et.al.|[2207.11900v1](http://arxiv.org/abs/2207.11900v1)|null|
+|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v1](http://arxiv.org/abs/2207.11894v1)|null|
+|**2022-07-25**|**K-theoretic classification of inductive limit actions of fusion categories on AF-algebras**|Quan Chen et.al.|[2207.11854v1](http://arxiv.org/abs/2207.11854v1)|null|
+|**2022-07-24**|**Incorporating Heterogeneous User Behaviors and Social Influences for Predictive Analysis**|Haobing Liu et.al.|[2207.11776v1](http://arxiv.org/abs/2207.11776v1)|null|
+|**2022-07-23**|**Face Deblurring using Dual Camera Fusion on Mobile Phones**|Wei-Sheng Lai et.al.|[2207.11617v1](http://arxiv.org/abs/2207.11617v1)|null|
+|**2022-07-23**|**Intelligent 3D Network Protocol for Multimedia Data Classification using Deep Learning**|Arslan Syed et.al.|[2207.11504v1](http://arxiv.org/abs/2207.11504v1)|null|
 |**2022-07-21**|**Search for invisible Higgs bosons produced via vector boson fusion at the LHC using the ATLAS detector**|Mohamed Zaazoua et.al.|[2207.11216v1](http://arxiv.org/abs/2207.11216v1)|null|
 |**2022-07-22**|**Improving Predictive Performance and Calibration by Weight Fusion in Semantic Segmentation**|Timo Sämann et.al.|[2207.11211v1](http://arxiv.org/abs/2207.11211v1)|null|
 |**2022-07-22**|**Visible and Near Infrared Image Fusion Based on Texture Information**|Guanyu Zhang et.al.|[2207.10953v1](http://arxiv.org/abs/2207.10953v1)|null|
