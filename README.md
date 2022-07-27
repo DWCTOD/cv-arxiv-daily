@@ -1,4 +1,4 @@
-## Updated on 2022.07.26
+## Updated on 2022.07.27
 
 ## Video_Classification
 
@@ -344,7 +344,7 @@
 |**2022-07-25**|**Resilient Navigation and Path Planning System for High-speed Autonomous Race Car**|Daegyu Lee et.al.|[2207.12232v1](http://arxiv.org/abs/2207.12232v1)|null|
 |**2022-07-25**|**Deep dual stream residual network with contextual attention for pansharpening of remote sensing images**|Syeda Roshana Ali et.al.|[2207.12004v1](http://arxiv.org/abs/2207.12004v1)|null|
 |**2022-07-25**|**GA2MIF: Graph and Attention-based Two-stage Multi-source Information Fusion for Conversational Emotion Detection**|Jiang Li et.al.|[2207.11900v1](http://arxiv.org/abs/2207.11900v1)|null|
-|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v1](http://arxiv.org/abs/2207.11894v1)|null|
+|**2022-07-26**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
 |**2022-07-25**|**K-theoretic classification of inductive limit actions of fusion categories on AF-algebras**|Quan Chen et.al.|[2207.11854v1](http://arxiv.org/abs/2207.11854v1)|null|
 |**2022-07-24**|**Incorporating Heterogeneous User Behaviors and Social Influences for Predictive Analysis**|Haobing Liu et.al.|[2207.11776v1](http://arxiv.org/abs/2207.11776v1)|null|
 |**2022-07-23**|**Face Deblurring using Dual Camera Fusion on Mobile Phones**|Wei-Sheng Lai et.al.|[2207.11617v1](http://arxiv.org/abs/2207.11617v1)|null|
