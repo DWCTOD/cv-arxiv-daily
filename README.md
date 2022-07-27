@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-26**|**Task Agnostic and Post-hoc Unseen Distribution Detection**|Radhika Dua et.al.|[2207.13083v1](http://arxiv.org/abs/2207.13083v1)|null|
+|**2022-07-26**|**Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**|Trisha Mittal et.al.|[2207.13064v1](http://arxiv.org/abs/2207.13064v1)|null|
+|**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
+|**2022-07-26**|**Efficient High-Resolution Deep Learning: A Survey**|Arian Bakhtiarnia et.al.|[2207.13050v1](http://arxiv.org/abs/2207.13050v1)|null|
+|**2022-07-26**|**Plug-and-Play Compressed Sensing: Theoretical Guarantees on Exact and Robust Recovery**|Ruturaj G. Gavaskar et.al.|[2207.13031v1](http://arxiv.org/abs/2207.13031v1)|null|
+|**2022-07-26**|**On Bi-Lipschitz classification of fractal cubes possessing one-point intersection property**|A. Tetenov et.al.|[2207.13023v1](http://arxiv.org/abs/2207.13023v1)|null|
+|**2022-07-26**|**Is Attention Interpretation? A Quantitative Assessment On Sets**|Jonathan Haab et.al.|[2207.13018v1](http://arxiv.org/abs/2207.13018v1)|null|
+|**2022-07-26**|**Spinful topological phases in acoustic crystals with projective PT symmetry**|Yan Meng et.al.|[2207.13000v1](http://arxiv.org/abs/2207.13000v1)|null|
+|**2022-07-26**|**Learning Series-Parallel Lookup Tables for Efficient Image Super-Resolution**|Cheng Ma et.al.|[2207.12987v1](http://arxiv.org/abs/2207.12987v1)|null|
+|**2022-07-26**|**Explaining Deep Neural Networks for Point Clouds using Gradient-based Visualisations**|Jawad Tayyub et.al.|[2207.12984v1](http://arxiv.org/abs/2207.12984v1)|null|
 |**2022-07-25**|**CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**|Hao Zhu et.al.|[2207.12393v1](http://arxiv.org/abs/2207.12393v1)|**[link](https://github.com/celebv-hq/celebv-hq)**|
 |**2022-07-25**|**SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness**|Jindong Gu et.al.|[2207.12391v1](http://arxiv.org/abs/2207.12391v1)|null|
 |**2022-07-25**|**LightX3ECG: A Lightweight and eXplainable Deep Learning System for 3-lead Electrocardiogram Classification**|Khiem H. Le et.al.|[2207.12381v1](http://arxiv.org/abs/2207.12381v1)|null|
@@ -339,6 +349,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-26**|**Basic Hopf algebras and symmetric bimodules**|Katerina Hristova et.al.|[2207.12983v1](http://arxiv.org/abs/2207.12983v1)|null|
+|**2022-07-26**|**TransFiner: A Full-Scale Refinement Approach for Multiple Object Tracking**|Bin Sun et.al.|[2207.12967v1](http://arxiv.org/abs/2207.12967v1)|null|
+|**2022-07-26**|**AMF: Adaptable Weighting Fusion with Multiple Fine-tuning for Image Classification**|Xuyang Shen et.al.|[2207.12944v1](http://arxiv.org/abs/2207.12944v1)|null|
+|**2022-07-26**|**Microscopic study of the compound nucleus formation in cold-fusion reactions**|Xiang-Xiang Sun et.al.|[2207.12924v1](http://arxiv.org/abs/2207.12924v1)|null|
+|**2022-07-26**|**Effects of the tensor force on low-energy heavy-ion fusion reactions: A mini review**|Xiang-Xiang Sun et.al.|[2207.12918v1](http://arxiv.org/abs/2207.12918v1)|null|
+|**2022-07-26**|**$U_q\mathfrak{sl}_2$-invariant non-compact boundary conditions for the XXZ spin chain**|Dmitry Chernyak et.al.|[2207.12772v1](http://arxiv.org/abs/2207.12772v1)|null|
+|**2022-07-26**|**Efficient and Accurate Skeleton-Based Two-Person Interaction Recognition Using Inter- and Intra-body Graphs**|Yoshiki Ito et.al.|[2207.12648v1](http://arxiv.org/abs/2207.12648v1)|null|
+|**2022-07-26**|**TGCF: Texture guided color fusion for impressionism oil painting style rendering**|Jing Geng et.al.|[2207.12585v1](http://arxiv.org/abs/2207.12585v1)|null|
+|**2022-07-25**|**Runaway electron deconfinement in SPARC and DIII-D by a passive 3D coil**|V. A. Izzo et.al.|[2207.12450v1](http://arxiv.org/abs/2207.12450v1)|null|
 |**2022-07-25**|**Approximating missing higher-orders in transverse momentum distributions using resummations**|Niccolò Laurenti et.al.|[2207.12265v1](http://arxiv.org/abs/2207.12265v1)|null|
 |**2022-07-25**|**Surrogate Modeling of Melt Pool Thermal Field using Deep Learning**|AmirPouya Hemmasian et.al.|[2207.12259v1](http://arxiv.org/abs/2207.12259v1)|null|
 |**2022-07-25**|**Resilient Navigation and Path Planning System for High-speed Autonomous Race Car**|Daegyu Lee et.al.|[2207.12232v1](http://arxiv.org/abs/2207.12232v1)|null|
