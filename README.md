@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**The Surface Edge Explorer (SEE): A measurement-direct approach to next best view planning**|Rowan Border et.al.|[2207.13684v1](http://arxiv.org/abs/2207.13684v1)|null|
+|**2022-07-27**|**Multi-layer Representation Learning for Robust OOD Image Classification**|Aristotelis Ballas et.al.|[2207.13678v1](http://arxiv.org/abs/2207.13678v1)|null|
+|**2022-07-27**|**Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning**|Shixing Yu et.al.|[2207.13670v1](http://arxiv.org/abs/2207.13670v1)|null|
+|**2022-07-27**|**BotBuster: Multi-platform Bot Detection Using A Mixture of Experts**|Lynnette Hui Xian Ng et.al.|[2207.13658v1](http://arxiv.org/abs/2207.13658v1)|null|
+|**2022-07-27**|**Using Deep Learning to Detecting Deepfakes**|Jacob Mallet et.al.|[2207.13644v1](http://arxiv.org/abs/2207.13644v1)|null|
+|**2022-07-27**|**D3C2-Net: Dual-Domain Deep Convolutional Coding Network for Compressive Sensing**|Weiqi Li et.al.|[2207.13560v1](http://arxiv.org/abs/2207.13560v1)|null|
+|**2022-07-27**|**Contrastive Masked Autoencoders are Stronger Vision Learners**|Zhicheng Huang et.al.|[2207.13532v1](http://arxiv.org/abs/2207.13532v1)|null|
+|**2022-07-27**|**A Hybrid Deep Animation Codec for Low-bitrate Video Conferencing**|Goluck Konuko et.al.|[2207.13530v1](http://arxiv.org/abs/2207.13530v1)|null|
+|**2022-07-27**|**Future Unruptured Intracranial Aneurysm Growth Prediction using Mesh Convolutional Neural Networks**|Kimberley M. Timmins et.al.|[2207.13518v1](http://arxiv.org/abs/2207.13518v1)|null|
+|**2022-07-27**|**Learning with Combinatorial Optimization Layers: a Probabilistic Approach**|Guillaume Dalle et.al.|[2207.13513v1](http://arxiv.org/abs/2207.13513v1)|null|
 |**2022-07-26**|**Task Agnostic and Post-hoc Unseen Distribution Detection**|Radhika Dua et.al.|[2207.13083v1](http://arxiv.org/abs/2207.13083v1)|null|
 |**2022-07-27**|**Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**|Trisha Mittal et.al.|[2207.13064v2](http://arxiv.org/abs/2207.13064v2)|null|
 |**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
@@ -349,6 +359,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Production of proton-rich nuclei in the vicinity of 100Sn via multinucleon transfer reactions**|Zhenji Wu et.al.|[2207.13582v1](http://arxiv.org/abs/2207.13582v1)|null|
+|**2022-07-27**|**Microscopic study on fusion reactions $^{40,48}\mathrm{Ca}+{}^{78}\mathrm{Ni}$ and the effect of tensor force**|Xiang-Xiang Sun et.al.|[2207.13536v1](http://arxiv.org/abs/2207.13536v1)|null|
+|**2022-07-27**|**A Hybrid Deep Animation Codec for Low-bitrate Video Conferencing**|Goluck Konuko et.al.|[2207.13530v1](http://arxiv.org/abs/2207.13530v1)|null|
+|**2022-07-27**|**The Global Well-Posedness of the Relativistic Boltzmann Equation with Diffuse Reflection Boundary Condition in Bounded Domains**|Yong Wang et.al.|[2207.13470v1](http://arxiv.org/abs/2207.13470v1)|null|
+|**2022-07-27**|**Towards the Probabilistic Fusion of Learned Priors into Standard Pipelines for 3D Reconstruction**|Tristan Laidlow et.al.|[2207.13464v1](http://arxiv.org/abs/2207.13464v1)|null|
+|**2022-07-27**|**End-To-End Audiovisual Feature Fusion for Active Speaker Detection**|Fiseha B. Tesema et.al.|[2207.13434v1](http://arxiv.org/abs/2207.13434v1)|null|
+|**2022-07-27**|**TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model**|Reza Azad et.al.|[2207.13415v1](http://arxiv.org/abs/2207.13415v1)|**[link](https://github.com/rezazad68/transnorm)**|
+|**2022-07-27**|**Camouflaged Object Detection via Context-aware Cross-level Fusion**|Geng Chen et.al.|[2207.13362v1](http://arxiv.org/abs/2207.13362v1)|**[link](https://github.com/ben57882/c2fnet-tscvt)**|
+|**2022-07-27**|**Traffic Sign Detection With Event Cameras and DCNN**|Piotr Wzorek et.al.|[2207.13345v1](http://arxiv.org/abs/2207.13345v1)|null|
+|**2022-07-27**|**NICEST: Noisy Label Correction and Training for Robust Scene Graph Generation**|Lin Li et.al.|[2207.13316v1](http://arxiv.org/abs/2207.13316v1)|null|
 |**2022-07-26**|**Basic Hopf algebras and symmetric bimodules**|Katerina Hristova et.al.|[2207.12983v1](http://arxiv.org/abs/2207.12983v1)|null|
 |**2022-07-26**|**TransFiner: A Full-Scale Refinement Approach for Multiple Object Tracking**|Bin Sun et.al.|[2207.12967v1](http://arxiv.org/abs/2207.12967v1)|null|
 |**2022-07-26**|**AMF: Adaptable Weighting Fusion with Multiple Fine-tuning for Image Classification**|Xuyang Shen et.al.|[2207.12944v1](http://arxiv.org/abs/2207.12944v1)|null|
