@@ -11,7 +11,7 @@
 - 2022-07-27, **Contrastive Masked Autoencoders are Stronger Vision Learners**, Zhicheng Huang et.al., Paper: [http://arxiv.org/abs/2207.13532v1](http://arxiv.org/abs/2207.13532v1)
 - 2022-07-27, **A Hybrid Deep Animation Codec for Low-bitrate Video Conferencing**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2207.13530v1](http://arxiv.org/abs/2207.13530v1)
 - 2022-07-27, **Future Unruptured Intracranial Aneurysm Growth Prediction using Mesh Convolutional Neural Networks**, Kimberley M. Timmins et.al., Paper: [http://arxiv.org/abs/2207.13518v1](http://arxiv.org/abs/2207.13518v1)
-- 2022-07-27, **Learning with Combinatorial Optimization Layers: a Probabilistic Approach**, Guillaume Dalle et.al., Paper: [http://arxiv.org/abs/2207.13513v1](http://arxiv.org/abs/2207.13513v1)
+- 2022-07-27, **Learning with Combinatorial Optimization Layers: a Probabilistic Approach**, Guillaume Dalle et.al., Paper: [http://arxiv.org/abs/2207.13513v1](http://arxiv.org/abs/2207.13513v1), Code: **[https://github.com/axelparmentier/inferopt.jl](https://github.com/axelparmentier/inferopt.jl)**
 - 2022-07-26, **Task Agnostic and Post-hoc Unseen Distribution Detection**, Radhika Dua et.al., Paper: [http://arxiv.org/abs/2207.13083v1](http://arxiv.org/abs/2207.13083v1)
 - 2022-07-27, **Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**, Trisha Mittal et.al., Paper: [http://arxiv.org/abs/2207.13064v2](http://arxiv.org/abs/2207.13064v2)
 - 2022-07-26, **NewsStories: Illustrating articles with visual summaries**, Reuben Tan et.al., Paper: [http://arxiv.org/abs/2207.13061v1](http://arxiv.org/abs/2207.13061v1), Code: **[https://github.com/newsstoriesdata/newsstories.github.io](https://github.com/newsstoriesdata/newsstories.github.io)**
