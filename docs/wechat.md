@@ -1,9 +1,9 @@
-> Updated on 2022.07.27
+> Updated on 2022.07.28
 
 ## Video_Classification
 
 - 2022-07-26, **Task Agnostic and Post-hoc Unseen Distribution Detection**, Radhika Dua et.al., Paper: [http://arxiv.org/abs/2207.13083v1](http://arxiv.org/abs/2207.13083v1)
-- 2022-07-26, **Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**, Trisha Mittal et.al., Paper: [http://arxiv.org/abs/2207.13064v1](http://arxiv.org/abs/2207.13064v1)
+- 2022-07-27, **Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis**, Trisha Mittal et.al., Paper: [http://arxiv.org/abs/2207.13064v2](http://arxiv.org/abs/2207.13064v2)
 - 2022-07-26, **NewsStories: Illustrating articles with visual summaries**, Reuben Tan et.al., Paper: [http://arxiv.org/abs/2207.13061v1](http://arxiv.org/abs/2207.13061v1), Code: **[https://github.com/newsstoriesdata/newsstories.github.io](https://github.com/newsstoriesdata/newsstories.github.io)**
 - 2022-07-26, **Efficient High-Resolution Deep Learning: A Survey**, Arian Bakhtiarnia et.al., Paper: [http://arxiv.org/abs/2207.13050v1](http://arxiv.org/abs/2207.13050v1)
 - 2022-07-26, **Plug-and-Play Compressed Sensing: Theoretical Guarantees on Exact and Robust Recovery**, Ruturaj G. Gavaskar et.al., Paper: [http://arxiv.org/abs/2207.13031v1](http://arxiv.org/abs/2207.13031v1)
@@ -352,7 +352,7 @@
 - 2022-07-26, **Effects of the tensor force on low-energy heavy-ion fusion reactions: A mini review**, Xiang-Xiang Sun et.al., Paper: [http://arxiv.org/abs/2207.12918v1](http://arxiv.org/abs/2207.12918v1)
 - 2022-07-26, **$U_q\mathfrak{sl}_2$-invariant non-compact boundary conditions for the XXZ spin chain**, Dmitry Chernyak et.al., Paper: [http://arxiv.org/abs/2207.12772v1](http://arxiv.org/abs/2207.12772v1)
 - 2022-07-26, **Efficient and Accurate Skeleton-Based Two-Person Interaction Recognition Using Inter- and Intra-body Graphs**, Yoshiki Ito et.al., Paper: [http://arxiv.org/abs/2207.12648v1](http://arxiv.org/abs/2207.12648v1)
-- 2022-07-26, **TGCF: Texture guided color fusion for impressionism oil painting style rendering**, Jing Geng et.al., Paper: [http://arxiv.org/abs/2207.12585v1](http://arxiv.org/abs/2207.12585v1)
+- 2022-07-27, **PTGCF: Printing Texture Guided Color Fusion for Impressionism Oil Painting Style Rendering**, Jing Geng et.al., Paper: [http://arxiv.org/abs/2207.12585v2](http://arxiv.org/abs/2207.12585v2)
 - 2022-07-25, **Runaway electron deconfinement in SPARC and DIII-D by a passive 3D coil**, V. A. Izzo et.al., Paper: [http://arxiv.org/abs/2207.12450v1](http://arxiv.org/abs/2207.12450v1)
 - 2022-07-25, **Approximating missing higher-orders in transverse momentum distributions using resummations**, Niccolò Laurenti et.al., Paper: [http://arxiv.org/abs/2207.12265v1](http://arxiv.org/abs/2207.12265v1)
 - 2022-07-25, **Surrogate Modeling of Melt Pool Thermal Field using Deep Learning**, AmirPouya Hemmasian et.al., Paper: [http://arxiv.org/abs/2207.12259v1](http://arxiv.org/abs/2207.12259v1)
