@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Initialization and Alignment for Adversarial Texture Optimization**|Xiaoming Zhao et.al.|[2207.14289v1](http://arxiv.org/abs/2207.14289v1)|null|
+|**2022-07-28**|**Depth Field Networks for Generalizable Multi-view Scene Representation**|Vitor Guizilini et.al.|[2207.14287v1](http://arxiv.org/abs/2207.14287v1)|null|
+|**2022-07-28**|**HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions**|Yongming Rao et.al.|[2207.14284v1](http://arxiv.org/abs/2207.14284v1)|**[link](https://github.com/raoyongming/hornet)**|
+|**2022-07-28**|**Combining human parsing with analytical feature extraction and ranking schemes for high-generalization person reidentification**|Nikita Gabdullin et.al.|[2207.14243v1](http://arxiv.org/abs/2207.14243v1)|null|
+|**2022-07-28**|**Re-thinking and Re-labeling LIDC-IDRI for Robust Pulmonary Cancer Prediction**|Hanxiao Zhang et.al.|[2207.14238v1](http://arxiv.org/abs/2207.14238v1)|null|
+|**2022-07-28**|**CrAM: A Compression-Aware Minimizer**|Alexandra Peste et.al.|[2207.14200v1](http://arxiv.org/abs/2207.14200v1)|null|
+|**2022-07-28**|**Optimization of Artificial Neural Networks models applied to the identification of images of asteroids' resonant arguments**|Valerio Carruba et.al.|[2207.14181v1](http://arxiv.org/abs/2207.14181v1)|null|
+|**2022-07-28**|**Content-oriented learned image compression**|Meng Li et.al.|[2207.14168v1](http://arxiv.org/abs/2207.14168v1)|null|
+|**2022-07-28**|**RHA-Net: An Encoder-Decoder Network with Residual Blocks and Hybrid Attention Mechanisms for Pavement Crack Segmentation**|Guijie Zhu et.al.|[2207.14166v1](http://arxiv.org/abs/2207.14166v1)|null|
+|**2022-07-28**|**A Transformer-based Generative Adversarial Network for Brain Tumor Segmentation**|Liqun Huang et.al.|[2207.14134v1](http://arxiv.org/abs/2207.14134v1)|null|
 |**2022-07-27**|**The Surface Edge Explorer (SEE): A measurement-direct approach to next best view planning**|Rowan Border et.al.|[2207.13684v1](http://arxiv.org/abs/2207.13684v1)|null|
 |**2022-07-27**|**Multi-layer Representation Learning for Robust OOD Image Classification**|Aristotelis Ballas et.al.|[2207.13678v1](http://arxiv.org/abs/2207.13678v1)|null|
 |**2022-07-27**|**Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning**|Shixing Yu et.al.|[2207.13670v1](http://arxiv.org/abs/2207.13670v1)|null|
@@ -359,6 +369,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion**|Gongjie Zhang et.al.|[2207.14172v1](http://arxiv.org/abs/2207.14172v1)|**[link](https://github.com/zhanggongjie/sam-detr)**|
+|**2022-07-28**|**CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**|Hao Sun et.al.|[2207.14087v1](http://arxiv.org/abs/2207.14087v1)|null|
+|**2022-07-28**|**Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**|Hao Shao et.al.|[2207.14024v1](http://arxiv.org/abs/2207.14024v1)|null|
+|**2022-07-28**|**MLRIP: Pre-training a military language representation model with informative factual knowledge and professional knowledge base**|Hui Li et.al.|[2207.13929v1](http://arxiv.org/abs/2207.13929v1)|null|
 |**2022-07-27**|**Production of proton-rich nuclei in the vicinity of 100Sn via multinucleon transfer reactions**|Zhenji Wu et.al.|[2207.13582v1](http://arxiv.org/abs/2207.13582v1)|null|
 |**2022-07-27**|**Microscopic study on fusion reactions $^{40,48}\mathrm{Ca}+{}^{78}\mathrm{Ni}$ and the effect of tensor force**|Xiang-Xiang Sun et.al.|[2207.13536v1](http://arxiv.org/abs/2207.13536v1)|null|
 |**2022-07-27**|**A Hybrid Deep Animation Codec for Low-bitrate Video Conferencing**|Goluck Konuko et.al.|[2207.13530v1](http://arxiv.org/abs/2207.13530v1)|null|
