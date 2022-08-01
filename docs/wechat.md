@@ -1,4 +1,4 @@
-> Updated on 2022.07.31
+> Updated on 2022.08.01
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2022-07-28, **Optimization of Artificial Neural Networks models applied to the identification of images of asteroids' resonant arguments**, Valerio Carruba et.al., Paper: [http://arxiv.org/abs/2207.14181v1](http://arxiv.org/abs/2207.14181v1)
 - 2022-07-28, **Content-oriented learned image compression**, Meng Li et.al., Paper: [http://arxiv.org/abs/2207.14168v1](http://arxiv.org/abs/2207.14168v1)
 - 2022-07-28, **RHA-Net: An Encoder-Decoder Network with Residual Blocks and Hybrid Attention Mechanisms for Pavement Crack Segmentation**, Guijie Zhu et.al., Paper: [http://arxiv.org/abs/2207.14166v1](http://arxiv.org/abs/2207.14166v1)
-- 2022-07-28, **A Transformer-based Generative Adversarial Network for Brain Tumor Segmentation**, Liqun Huang et.al., Paper: [http://arxiv.org/abs/2207.14134v1](http://arxiv.org/abs/2207.14134v1)
+- 2022-07-29, **A Transformer-based Generative Adversarial Network for Brain Tumor Segmentation**, Liqun Huang et.al., Paper: [http://arxiv.org/abs/2207.14134v2](http://arxiv.org/abs/2207.14134v2)
 - 2022-07-27, **The Surface Edge Explorer (SEE): A measurement-direct approach to next best view planning**, Rowan Border et.al., Paper: [http://arxiv.org/abs/2207.13684v1](http://arxiv.org/abs/2207.13684v1)
 - 2022-07-27, **Multi-layer Representation Learning for Robust OOD Image Classification**, Aristotelis Ballas et.al., Paper: [http://arxiv.org/abs/2207.13678v1](http://arxiv.org/abs/2207.13678v1)
 - 2022-07-27, **Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning**, Shixing Yu et.al., Paper: [http://arxiv.org/abs/2207.13670v1](http://arxiv.org/abs/2207.13670v1)
@@ -367,7 +367,7 @@
 
 - 2022-07-28, **Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion**, Gongjie Zhang et.al., Paper: [http://arxiv.org/abs/2207.14172v1](http://arxiv.org/abs/2207.14172v1), Code: **[https://github.com/zhanggongjie/sam-detr](https://github.com/zhanggongjie/sam-detr)**
 - 2022-07-28, **CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**, Hao Sun et.al., Paper: [http://arxiv.org/abs/2207.14087v1](http://arxiv.org/abs/2207.14087v1)
-- 2022-07-28, **Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**, Hao Shao et.al., Paper: [http://arxiv.org/abs/2207.14024v1](http://arxiv.org/abs/2207.14024v1)
+- 2022-07-29, **Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**, Hao Shao et.al., Paper: [http://arxiv.org/abs/2207.14024v2](http://arxiv.org/abs/2207.14024v2), Code: **[https://github.com/opendilab/InterFuser](https://github.com/opendilab/InterFuser)**
 - 2022-07-28, **MLRIP: Pre-training a military language representation model with informative factual knowledge and professional knowledge base**, Hui Li et.al., Paper: [http://arxiv.org/abs/2207.13929v1](http://arxiv.org/abs/2207.13929v1)
 - 2022-07-27, **Production of proton-rich nuclei in the vicinity of 100Sn via multinucleon transfer reactions**, Zhenji Wu et.al., Paper: [http://arxiv.org/abs/2207.13582v1](http://arxiv.org/abs/2207.13582v1)
 - 2022-07-27, **Microscopic study on fusion reactions $^{40,48}\mathrm{Ca}+{}^{78}\mathrm{Ni}$ and the effect of tensor force**, Xiang-Xiang Sun et.al., Paper: [http://arxiv.org/abs/2207.13536v1](http://arxiv.org/abs/2207.13536v1)
