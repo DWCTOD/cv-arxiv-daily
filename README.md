@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**|Dezhi Peng et.al.|[2207.14807v1](http://arxiv.org/abs/2207.14807v1)|null|
+|**2022-07-29**|**Artifact Identification in X-ray Diffraction Data using Machine Learning Methods**|Howard Yanxon et.al.|[2207.14804v1](http://arxiv.org/abs/2207.14804v1)|**[link](https://github.com/advancedphotonsource/airxd-ml)**|
+|**2022-07-29**|**Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach**|Dezhi Peng et.al.|[2207.14801v1](http://arxiv.org/abs/2207.14801v1)|null|
+|**2022-07-29**|**Del Pezzo surfaces of Picard number one admitting a torus action**|Daniel Haettig et.al.|[2207.14790v1](http://arxiv.org/abs/2207.14790v1)|null|
+|**2022-07-29**|**Using Multi-modal Data for Improving Generalizability and Explainability of Disease Classification in Radiology**|Pranav Agnihotri et.al.|[2207.14781v1](http://arxiv.org/abs/2207.14781v1)|null|
+|**2022-07-29**|**Combining Evolutionary Search with Behaviour Cloning for Procedurally Generated Content**|Nicholas Muir et.al.|[2207.14772v1](http://arxiv.org/abs/2207.14772v1)|null|
+|**2022-07-29**|**SimCURL: Simple Contrastive User Representation Learning from Command Sequences**|Hang Chu et.al.|[2207.14760v1](http://arxiv.org/abs/2207.14760v1)|null|
+|**2022-07-29**|**Rating the Crisis of Online Public Opinion Using a Multi-Level Index System**|Fanqi Meng et.al.|[2207.14740v1](http://arxiv.org/abs/2207.14740v1)|null|
+|**2022-07-29**|**Classification of Solvable Lie algebras whose non-trivial Coadjoint Orbits of simply connected Lie groups are all of Codimension 2**|Hieu Van Ha et.al.|[2207.14719v1](http://arxiv.org/abs/2207.14719v1)|null|
+|**2022-07-29**|**Robust Quantitative Susceptibility Mapping via Approximate Message Passing**|Shuai Huang et.al.|[2207.14709v1](http://arxiv.org/abs/2207.14709v1)|null|
 |**2022-07-28**|**Initialization and Alignment for Adversarial Texture Optimization**|Xiaoming Zhao et.al.|[2207.14289v1](http://arxiv.org/abs/2207.14289v1)|null|
 |**2022-07-28**|**Depth Field Networks for Generalizable Multi-view Scene Representation**|Vitor Guizilini et.al.|[2207.14287v1](http://arxiv.org/abs/2207.14287v1)|null|
 |**2022-07-28**|**HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions**|Yongming Rao et.al.|[2207.14284v1](http://arxiv.org/abs/2207.14284v1)|**[link](https://github.com/raoyongming/hornet)**|
@@ -369,6 +379,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**Multimodal SuperCon: Classifier for Drivers of Deforestation in Indonesia**|Bella Septina Ika Hartanti et.al.|[2207.14656v1](http://arxiv.org/abs/2207.14656v1)|**[link](https://github.com/bellasih/multimodal_supercon)**|
+|**2022-07-29**|**Prompting for Multi-Modal Tracking**|Jinyu Yang et.al.|[2207.14571v1](http://arxiv.org/abs/2207.14571v1)|null|
+|**2022-07-29**|**Electroweak corrections to Higgs boson production at the future LHeC**|Bowen Wang et.al.|[2207.14515v1](http://arxiv.org/abs/2207.14515v1)|null|
+|**2022-07-29**|**PC-GANs: Progressive Compensation Generative Adversarial Networks for Pan-sharpening**|Yinghui Xing et.al.|[2207.14451v1](http://arxiv.org/abs/2207.14451v1)|null|
+|**2022-07-28**|**Scaling of reconnection parameters in magnetic island coalescence: Role of in-plane shear flow**|Jagannath Mahapatra et.al.|[2207.14365v1](http://arxiv.org/abs/2207.14365v1)|null|
+|**2022-07-28**|**Nonproliferation and fusion power plants**|Michael Y. Hua et.al.|[2207.14348v1](http://arxiv.org/abs/2207.14348v1)|null|
 |**2022-07-28**|**Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion**|Gongjie Zhang et.al.|[2207.14172v1](http://arxiv.org/abs/2207.14172v1)|**[link](https://github.com/zhanggongjie/sam-detr)**|
 |**2022-07-28**|**CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**|Hao Sun et.al.|[2207.14087v1](http://arxiv.org/abs/2207.14087v1)|null|
 |**2022-07-29**|**Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer**|Hao Shao et.al.|[2207.14024v2](http://arxiv.org/abs/2207.14024v2)|**[link](https://github.com/opendilab/InterFuser)**|
