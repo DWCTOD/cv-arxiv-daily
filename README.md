@@ -1,4 +1,4 @@
-## Updated on 2022.08.01
+## Updated on 2022.08.02
 
 ## Video_Classification
 
@@ -380,7 +380,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-07-29**|**Multimodal SuperCon: Classifier for Drivers of Deforestation in Indonesia**|Bella Septina Ika Hartanti et.al.|[2207.14656v1](http://arxiv.org/abs/2207.14656v1)|**[link](https://github.com/bellasih/multimodal_supercon)**|
-|**2022-07-29**|**Prompting for Multi-Modal Tracking**|Jinyu Yang et.al.|[2207.14571v1](http://arxiv.org/abs/2207.14571v1)|null|
+|**2022-08-01**|**Prompting for Multi-Modal Tracking**|Jinyu Yang et.al.|[2207.14571v2](http://arxiv.org/abs/2207.14571v2)|null|
 |**2022-07-29**|**Electroweak corrections to Higgs boson production at the future LHeC**|Bowen Wang et.al.|[2207.14515v1](http://arxiv.org/abs/2207.14515v1)|null|
 |**2022-07-29**|**PC-GANs: Progressive Compensation Generative Adversarial Networks for Pan-sharpening**|Yinghui Xing et.al.|[2207.14451v1](http://arxiv.org/abs/2207.14451v1)|null|
 |**2022-07-28**|**Scaling of reconnection parameters in magnetic island coalescence: Role of in-plane shear flow**|Jagannath Mahapatra et.al.|[2207.14365v1](http://arxiv.org/abs/2207.14365v1)|null|
