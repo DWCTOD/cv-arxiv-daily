@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-01**|**The classification of surfaces via normal curves**|Fethi Ayaz et.al.|[2208.00999v1](http://arxiv.org/abs/2208.00999v1)|null|
+|**2022-08-01**|**Information Gain Sampling for Active Learning in Medical Image Classification**|Raghav Mehta et.al.|[2208.00974v1](http://arxiv.org/abs/2208.00974v1)|null|
+|**2022-08-01**|**FrOoDo: Framework for Out-of-Distribution Detection**|Jonathan Stieber et.al.|[2208.00963v1](http://arxiv.org/abs/2208.00963v1)|**[link](https://github.com/meclabtuda/froodo)**|
+|**2022-08-01**|**Large-Scale Product Retrieval with Weakly Supervised Representation Learning**|Xiao Han et.al.|[2208.00955v1](http://arxiv.org/abs/2208.00955v1)|**[link](https://github.com/01bb01/ebaychallenge)**|
+|**2022-08-01**|**Fast Two-step Blind Optical Aberration Correction**|Thomas Eboli et.al.|[2208.00950v1](http://arxiv.org/abs/2208.00950v1)|null|
+|**2022-08-01**|**Motion-aware Memory Network for Fast Video Salient Object Detection**|Xing Zhao et.al.|[2208.00946v1](http://arxiv.org/abs/2208.00946v1)|null|
+|**2022-08-01**|**Amino Acid Classification in 2D NMR Spectra via Acoustic Signal Embeddings**|Jia Qi Yip et.al.|[2208.00935v1](http://arxiv.org/abs/2208.00935v1)|null|
+|**2022-08-01**|**Video Question Answering with Iterative Video-Text Co-Tokenization**|AJ Piergiovanni et.al.|[2208.00934v1](http://arxiv.org/abs/2208.00934v1)|null|
+|**2022-08-01**|**Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**|Yousef Altaher et.al.|[2208.00932v1](http://arxiv.org/abs/2208.00932v1)|null|
+|**2022-08-01**|**giMLPs: Gate with Inhibition Mechanism in MLPs**|Cheng Kang et.al.|[2208.00929v1](http://arxiv.org/abs/2208.00929v1)|null|
 |**2022-07-29**|**PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**|Dezhi Peng et.al.|[2207.14807v1](http://arxiv.org/abs/2207.14807v1)|null|
 |**2022-07-29**|**Artifact Identification in X-ray Diffraction Data using Machine Learning Methods**|Howard Yanxon et.al.|[2207.14804v1](http://arxiv.org/abs/2207.14804v1)|**[link](https://github.com/advancedphotonsource/airxd-ml)**|
 |**2022-07-29**|**Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach**|Dezhi Peng et.al.|[2207.14801v1](http://arxiv.org/abs/2207.14801v1)|null|
@@ -379,6 +389,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-01**|**Motion-aware Memory Network for Fast Video Salient Object Detection**|Xing Zhao et.al.|[2208.00946v1](http://arxiv.org/abs/2208.00946v1)|null|
+|**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
+|**2022-08-01**|**CSDN: Cross-modal Shape-transfer Dual-refinement Network for Point Cloud Completion**|Zhe Zhu et.al.|[2208.00751v1](http://arxiv.org/abs/2208.00751v1)|null|
+|**2022-08-01**|**Efficient Long-Text Understanding with Short-Text Models**|Maor Ivgi et.al.|[2208.00748v1](http://arxiv.org/abs/2208.00748v1)|null|
+|**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
+|**2022-08-01**|**SiamixFormer: A Siamese Transformer Network For Building Detection And Change Detection From Bi-Temporal Remote Sensing Images**|Amir mohammadian et.al.|[2208.00657v1](http://arxiv.org/abs/2208.00657v1)|null|
+|**2022-08-01**|**J-comb: An image fusion algorithm to combine observations covering different spatial frequency ranges**|Sihan Jiao et.al.|[2208.00588v1](http://arxiv.org/abs/2208.00588v1)|null|
+|**2022-07-31**|**Augmenting Vision Language Pretraining by Learning Codebook with Visual Semantics**|Xiaoyuan Guo et.al.|[2208.00475v1](http://arxiv.org/abs/2208.00475v1)|null|
+|**2022-07-31**|**Age of View: A New Metric for Evaluating Heterogeneous Information Fusion in Vehicular Cyber-Physical Systems**|Xincao Xu et.al.|[2208.00358v1](http://arxiv.org/abs/2208.00358v1)|null|
+|**2022-07-31**|**GraphMFT: A Graph Attention based Multimodal Fusion Technique for Emotion Recognition in Conversation**|Jiang Li et.al.|[2208.00339v1](http://arxiv.org/abs/2208.00339v1)|null|
 |**2022-07-29**|**Multimodal SuperCon: Classifier for Drivers of Deforestation in Indonesia**|Bella Septina Ika Hartanti et.al.|[2207.14656v1](http://arxiv.org/abs/2207.14656v1)|**[link](https://github.com/bellasih/multimodal_supercon)**|
 |**2022-08-01**|**Prompting for Multi-Modal Tracking**|Jinyu Yang et.al.|[2207.14571v2](http://arxiv.org/abs/2207.14571v2)|null|
 |**2022-07-29**|**Electroweak corrections to Higgs boson production at the future LHeC**|Bowen Wang et.al.|[2207.14515v1](http://arxiv.org/abs/2207.14515v1)|null|
