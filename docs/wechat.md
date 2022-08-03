@@ -1,4 +1,4 @@
-> Updated on 2022.08.02
+> Updated on 2022.08.03
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2022-08-01, **Amino Acid Classification in 2D NMR Spectra via Acoustic Signal Embeddings**, Jia Qi Yip et.al., Paper: [http://arxiv.org/abs/2208.00935v1](http://arxiv.org/abs/2208.00935v1)
 - 2022-08-01, **Video Question Answering with Iterative Video-Text Co-Tokenization**, AJ Piergiovanni et.al., Paper: [http://arxiv.org/abs/2208.00934v1](http://arxiv.org/abs/2208.00934v1)
 - 2022-08-01, **Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets**, Yousef Altaher et.al., Paper: [http://arxiv.org/abs/2208.00932v1](http://arxiv.org/abs/2208.00932v1)
-- 2022-08-01, **giMLPs: Gate with Inhibition Mechanism in MLPs**, Cheng Kang et.al., Paper: [http://arxiv.org/abs/2208.00929v1](http://arxiv.org/abs/2208.00929v1)
+- 2022-08-02, **giMLPs: Gate with Inhibition Mechanism in MLPs**, Cheng Kang et.al., Paper: [http://arxiv.org/abs/2208.00929v2](http://arxiv.org/abs/2208.00929v2)
 - 2022-07-29, **PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14807v1](http://arxiv.org/abs/2207.14807v1)
 - 2022-07-29, **Artifact Identification in X-ray Diffraction Data using Machine Learning Methods**, Howard Yanxon et.al., Paper: [http://arxiv.org/abs/2207.14804v1](http://arxiv.org/abs/2207.14804v1), Code: **[https://github.com/advancedphotonsource/airxd-ml](https://github.com/advancedphotonsource/airxd-ml)**
 - 2022-07-29, **Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14801v1](http://arxiv.org/abs/2207.14801v1)
