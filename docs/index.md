@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**Stochastic Primal-Dual Three Operator Splitting with Arbitrary Sampling and Preconditioning**|Junqi Tang et.al.|[2208.01631v1](http://arxiv.org/abs/2208.01631v1)|null|
+|**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
+|**2022-08-02**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v1](http://arxiv.org/abs/2208.01602v1)|null|
+|**2022-08-02**|**Tunable high-resolution synthetic aperture radar imaging**|Arnold D. Kim et.al.|[2208.01596v1](http://arxiv.org/abs/2208.01596v1)|null|
+|**2022-08-02**|**ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries**|Junru Gu et.al.|[2208.01582v1](http://arxiv.org/abs/2208.01582v1)|null|
+|**2022-08-02**|**Cluster Weighted Model Based on TSNE algorithm for High-Dimensional Data**|Kehinde Olobatuyi et.al.|[2208.01579v1](http://arxiv.org/abs/2208.01579v1)|null|
+|**2022-08-02**|**Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning**|Konstantinos Kalais et.al.|[2208.01573v1](http://arxiv.org/abs/2208.01573v1)|**[link](https://github.com/kkalais/stochlwta-ml)**|
+|**2022-08-02**|**Nets in $\mathbb P^2$ and Alexander Duality**|Nancy Abdallah et.al.|[2208.01557v1](http://arxiv.org/abs/2208.01557v1)|null|
+|**2022-08-02**|**Low-complexity CNNs for Acoustic Scene Classification**|Arshdeep Singh et.al.|[2208.01555v1](http://arxiv.org/abs/2208.01555v1)|null|
+|**2022-08-02**|**The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence**|Brando Miranda et.al.|[2208.01545v1](http://arxiv.org/abs/2208.01545v1)|null|
 |**2022-08-01**|**The classification of surfaces via normal curves**|Fethi Ayaz et.al.|[2208.00999v1](http://arxiv.org/abs/2208.00999v1)|null|
 |**2022-08-01**|**Information Gain Sampling for Active Learning in Medical Image Classification**|Raghav Mehta et.al.|[2208.00974v1](http://arxiv.org/abs/2208.00974v1)|null|
 |**2022-08-01**|**FrOoDo: Framework for Out-of-Distribution Detection**|Jonathan Stieber et.al.|[2208.00963v1](http://arxiv.org/abs/2208.00963v1)|**[link](https://github.com/meclabtuda/froodo)**|
@@ -393,6 +403,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**A self-dual boundary phase transition of the 2d $\mathbb{Z}_N$ topological order**|Yalei Lu et.al.|[2208.01572v1](http://arxiv.org/abs/2208.01572v1)|null|
+|**2022-08-02**|**Switching of controlling mechanisms during the rapid solidification of a melt pool in additive manufacturing**|Yijia Gu et.al.|[2208.01487v1](http://arxiv.org/abs/2208.01487v1)|null|
+|**2022-08-02**|**Combinatorial Discovery of Irradiation Damage Tolerant Nano-structured W-based alloys**|Haechan Jo et.al.|[2208.01271v1](http://arxiv.org/abs/2208.01271v1)|null|
+|**2022-08-02**|**Late Fusion Multi-view Clustering via Global and Local Alignment Maximization**|Siwei Wang et.al.|[2208.01198v1](http://arxiv.org/abs/2208.01198v1)|**[link](https://github.com/wangsiwei2010/latefusionalignment)**|
+|**2022-08-01**|**MV6D: Multi-View 6D Pose Estimation on RGB-D Frames Using a Deep Point-wise Voting Network**|Fabian Duffhauss et.al.|[2208.01172v1](http://arxiv.org/abs/2208.01172v1)|null|
 |**2022-08-01**|**Motion-aware Memory Network for Fast Video Salient Object Detection**|Xing Zhao et.al.|[2208.00946v1](http://arxiv.org/abs/2208.00946v1)|null|
 |**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
 |**2022-08-01**|**CSDN: Cross-modal Shape-transfer Dual-refinement Network for Point Cloud Completion**|Zhe Zhu et.al.|[2208.00751v1](http://arxiv.org/abs/2208.00751v1)|null|
