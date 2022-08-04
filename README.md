@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-03**|**MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**|De-An Huang et.al.|[2208.02245v1](http://arxiv.org/abs/2208.02245v1)|**[link](https://github.com/nvlabs/minvis)**|
+|**2022-08-03**|**Robot Learning from Demonstration Using Elastic Maps**|Brendan Hertel et.al.|[2208.02207v1](http://arxiv.org/abs/2208.02207v1)|null|
+|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
+|**2022-08-03**|**RealPatch: A Statistical Matching Framework for Model Patching with Real Samples**|Sara Romiti et.al.|[2208.02192v1](http://arxiv.org/abs/2208.02192v1)|**[link](https://github.com/wearepal/realpatch)**|
+|**2022-08-03**|**Multimodal sensor fusion in the latent representation space**|Robert J. Piechocki et.al.|[2208.02183v1](http://arxiv.org/abs/2208.02183v1)|null|
+|**2022-08-03**|**Classification of Cohen-Macaulay $t$-spread lexsegment ideals via simplicial complexes**|Marilena Crupi et.al.|[2208.02175v1](http://arxiv.org/abs/2208.02175v1)|null|
+|**2022-08-03**|**One Node at a Time: Node-Level Network Classification**|Saray Shai et.al.|[2208.02162v1](http://arxiv.org/abs/2208.02162v1)|null|
+|**2022-08-03**|**Machine Learning-Based Classification, Interpretation, and Prediction of High-Entropy-Alloy Intermetallic Phases**|Jie Qi et.al.|[2208.02141v1](http://arxiv.org/abs/2208.02141v1)|null|
+|**2022-08-03**|**Subject-Specific Lesion Generation and Pseudo-Healthy Synthesis for Multiple Sclerosis Brain Images**|Berke Doga Basaran et.al.|[2208.02135v1](http://arxiv.org/abs/2208.02135v1)|**[link](https://github.com/dogabasaran/lesion-synthesis)**|
+|**2022-08-03**|**The Importance of the Instantaneous Phase in Detecting Faces with Convolutional Neural Networks**|Luis Sanchez Tapia et.al.|[2208.01638v1](http://arxiv.org/abs/2208.01638v1)|null|
 |**2022-08-02**|**Stochastic Primal-Dual Three Operator Splitting with Arbitrary Sampling and Preconditioning**|Junqi Tang et.al.|[2208.01631v1](http://arxiv.org/abs/2208.01631v1)|null|
 |**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
 |**2022-08-03**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v2](http://arxiv.org/abs/2208.01602v2)|null|
@@ -399,6 +409,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-03**|**Multimodal sensor fusion in the latent representation space**|Robert J. Piechocki et.al.|[2208.02183v1](http://arxiv.org/abs/2208.02183v1)|null|
+|**2022-08-03**|**Development and application of a hybrid MHD-kinetic model in JOREK**|T. J. Bogaarts et.al.|[2208.02179v1](http://arxiv.org/abs/2208.02179v1)|null|
+|**2022-08-03**|**KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**|Jin Zhang et.al.|[2208.02178v1](http://arxiv.org/abs/2208.02178v1)|**[link](https://github.com/zhangjincv/kd-scfnet)**|
+|**2022-08-03**|**Audio-visual scene classification via contrastive event-object alignment and semantic-based fusion**|Yuanbo Hou et.al.|[2208.02086v1](http://arxiv.org/abs/2208.02086v1)|null|
+|**2022-08-03**|**Reactive Laser Synthesis of Ultra-high-temperature Ceramics HfC, ZrC, TiC, HfN, ZrN, and TiN for Additive Manufacturing**|Adam B. Peters et.al.|[2208.02041v1](http://arxiv.org/abs/2208.02041v1)|null|
+|**2022-08-03**|**The SJTU System for Short-duration Speaker Verification Challenge 2021**|Bing Han et.al.|[2208.01933v1](http://arxiv.org/abs/2208.01933v1)|null|
+|**2022-08-03**|**Quarkophobic W' for LHC searches**|Alfredo Gurrola et.al.|[2208.01861v1](http://arxiv.org/abs/2208.01861v1)|null|
+|**2022-08-03**|**Bayesian approach for validation of runaway electron simulations**|Aaro Järvinen et.al.|[2208.01858v1](http://arxiv.org/abs/2208.01858v1)|null|
+|**2022-08-03**|**EMC2A-Net: An Efficient Multibranch Cross-channel Attention Network for SAR Target Classification**|Xiang Yu et.al.|[2208.01836v1](http://arxiv.org/abs/2208.01836v1)|null|
+|**2022-08-03**|**Neural Contourlet Network for Monocular 360 Depth Estimation**|Zhijie Shen et.al.|[2208.01817v1](http://arxiv.org/abs/2208.01817v1)|null|
 |**2022-08-02**|**A self-dual boundary phase transition of the 2d $\mathbb{Z}_N$ topological order**|Yalei Lu et.al.|[2208.01572v1](http://arxiv.org/abs/2208.01572v1)|null|
 |**2022-08-02**|**Switching of controlling mechanisms during the rapid solidification of a melt pool in additive manufacturing**|Yijia Gu et.al.|[2208.01487v1](http://arxiv.org/abs/2208.01487v1)|null|
 |**2022-08-02**|**Combinatorial Discovery of Irradiation Damage Tolerant Nano-structured W-based alloys**|Haechan Jo et.al.|[2208.01271v1](http://arxiv.org/abs/2208.01271v1)|null|
