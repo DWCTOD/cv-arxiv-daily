@@ -1,4 +1,4 @@
-## Updated on 2022.08.03
+## Updated on 2022.08.04
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2022-08-02**|**Stochastic Primal-Dual Three Operator Splitting with Arbitrary Sampling and Preconditioning**|Junqi Tang et.al.|[2208.01631v1](http://arxiv.org/abs/2208.01631v1)|null|
 |**2022-08-02**|**Single chip photonic deep neural network with accelerated training**|Saumil Bandyopadhyay et.al.|[2208.01623v1](http://arxiv.org/abs/2208.01623v1)|null|
-|**2022-08-02**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v1](http://arxiv.org/abs/2208.01602v1)|null|
+|**2022-08-03**|**Lossy compression of multidimensional medical images using sinusoidal activation networks: an evaluation study**|Matteo Mancini et.al.|[2208.01602v2](http://arxiv.org/abs/2208.01602v2)|null|
 |**2022-08-02**|**Tunable high-resolution synthetic aperture radar imaging**|Arnold D. Kim et.al.|[2208.01596v1](http://arxiv.org/abs/2208.01596v1)|null|
 |**2022-08-02**|**ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries**|Junru Gu et.al.|[2208.01582v1](http://arxiv.org/abs/2208.01582v1)|null|
 |**2022-08-02**|**Cluster Weighted Model Based on TSNE algorithm for High-Dimensional Data**|Kehinde Olobatuyi et.al.|[2208.01579v1](http://arxiv.org/abs/2208.01579v1)|null|
@@ -407,7 +407,7 @@
 |**2022-08-01**|**Motion-aware Memory Network for Fast Video Salient Object Detection**|Xing Zhao et.al.|[2208.00946v1](http://arxiv.org/abs/2208.00946v1)|null|
 |**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
 |**2022-08-01**|**CSDN: Cross-modal Shape-transfer Dual-refinement Network for Point Cloud Completion**|Zhe Zhu et.al.|[2208.00751v1](http://arxiv.org/abs/2208.00751v1)|null|
-|**2022-08-01**|**Efficient Long-Text Understanding with Short-Text Models**|Maor Ivgi et.al.|[2208.00748v1](http://arxiv.org/abs/2208.00748v1)|null|
+|**2022-08-01**|**Efficient Long-Text Understanding with Short-Text Models**|Maor Ivgi et.al.|[2208.00748v1](http://arxiv.org/abs/2208.00748v1)|**[link](https://github.com/mivg/sled)**|
 |**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
 |**2022-08-01**|**SiamixFormer: A Siamese Transformer Network For Building Detection And Change Detection From Bi-Temporal Remote Sensing Images**|Amir mohammadian et.al.|[2208.00657v1](http://arxiv.org/abs/2208.00657v1)|null|
 |**2022-08-01**|**J-comb: An image fusion algorithm to combine observations covering different spatial frequency ranges**|Sihan Jiao et.al.|[2208.00588v1](http://arxiv.org/abs/2208.00588v1)|null|
