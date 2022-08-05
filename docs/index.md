@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.04
+## Updated on 2022.08.05
 
 ## Video_Classification
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-03**|**MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**|De-An Huang et.al.|[2208.02245v1](http://arxiv.org/abs/2208.02245v1)|**[link](https://github.com/nvlabs/minvis)**|
 |**2022-08-03**|**Robot Learning from Demonstration Using Elastic Maps**|Brendan Hertel et.al.|[2208.02207v1](http://arxiv.org/abs/2208.02207v1)|null|
-|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
+|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|**[link](https://github.com/nka77/dahitra)**|
 |**2022-08-03**|**RealPatch: A Statistical Matching Framework for Model Patching with Real Samples**|Sara Romiti et.al.|[2208.02192v1](http://arxiv.org/abs/2208.02192v1)|**[link](https://github.com/wearepal/realpatch)**|
 |**2022-08-03**|**Multimodal sensor fusion in the latent representation space**|Robert J. Piechocki et.al.|[2208.02183v1](http://arxiv.org/abs/2208.02183v1)|null|
 |**2022-08-03**|**Classification of Cohen-Macaulay $t$-spread lexsegment ideals via simplicial complexes**|Marilena Crupi et.al.|[2208.02175v1](http://arxiv.org/abs/2208.02175v1)|null|
@@ -414,7 +414,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-03**|**Multimodal sensor fusion in the latent representation space**|Robert J. Piechocki et.al.|[2208.02183v1](http://arxiv.org/abs/2208.02183v1)|null|
-|**2022-08-03**|**Development and application of a hybrid MHD-kinetic model in JOREK**|T. J. Bogaarts et.al.|[2208.02179v1](http://arxiv.org/abs/2208.02179v1)|null|
+|**2022-08-04**|**Development and application of a hybrid MHD-kinetic model in JOREK**|T. J. Bogaarts et.al.|[2208.02179v2](http://arxiv.org/abs/2208.02179v2)|null|
 |**2022-08-03**|**KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**|Jin Zhang et.al.|[2208.02178v1](http://arxiv.org/abs/2208.02178v1)|**[link](https://github.com/zhangjincv/kd-scfnet)**|
 |**2022-08-03**|**Audio-visual scene classification via contrastive event-object alignment and semantic-based fusion**|Yuanbo Hou et.al.|[2208.02086v1](http://arxiv.org/abs/2208.02086v1)|null|
 |**2022-08-03**|**Reactive Laser Synthesis of Ultra-high-temperature Ceramics HfC, ZrC, TiC, HfN, ZrN, and TiN for Additive Manufacturing**|Adam B. Peters et.al.|[2208.02041v1](http://arxiv.org/abs/2208.02041v1)|null|
