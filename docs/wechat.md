@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-04, **Occupancy Planes for Single-view RGB-D Human Reconstruction**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2208.02817v1](http://arxiv.org/abs/2208.02817v1)
+- 2022-08-04, **Expanding Language-Image Pretrained Models for General Video Recognition**, Bolin Ni et.al., Paper: [http://arxiv.org/abs/2208.02816v1](http://arxiv.org/abs/2208.02816v1), Code: **[https://github.com/microsoft/VideoX/tree/master/X-CLIP](https://github.com/microsoft/VideoX/tree/master/X-CLIP)**
+- 2022-08-04, **Towards Understanding Mixture of Experts in Deep Learning**, Zixiang Chen et.al., Paper: [http://arxiv.org/abs/2208.02813v1](http://arxiv.org/abs/2208.02813v1)
+- 2022-08-04, **P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting**, Ziyi Wang et.al., Paper: [http://arxiv.org/abs/2208.02812v1](http://arxiv.org/abs/2208.02812v1), Code: **[https://github.com/wangzy22/P2P](https://github.com/wangzy22/P2P)**
+- 2022-08-04, **Automatic dense annotation of large-vocabulary sign language videos**, Liliane Momeni et.al., Paper: [http://arxiv.org/abs/2208.02802v1](http://arxiv.org/abs/2208.02802v1)
+- 2022-08-04, **Modular Grammatical Evolution for the Generation of Artificial Neural Networks**, Khabat Soltanian et.al., Paper: [http://arxiv.org/abs/2208.02787v1](http://arxiv.org/abs/2208.02787v1)
+- 2022-08-04, **Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-power Edge Microcontrollers**, Jingyi Wang et.al., Paper: [http://arxiv.org/abs/2208.02765v1](http://arxiv.org/abs/2208.02765v1)
+- 2022-08-04, **Open-world Contrastive Learning**, Yiyou Sun et.al., Paper: [http://arxiv.org/abs/2208.02764v1](http://arxiv.org/abs/2208.02764v1)
+- 2022-08-04, **Topological Defect Lines in Two Dimensional Fermionic CFTs**, Chi-Ming Chang et.al., Paper: [http://arxiv.org/abs/2208.02757v1](http://arxiv.org/abs/2208.02757v1)
+- 2022-08-04, **Disentangled Representation Learning for RF Fingerprint Extraction under Unknown Channel Statistics**, Renjie Xie et.al., Paper: [http://arxiv.org/abs/2208.02724v1](http://arxiv.org/abs/2208.02724v1)
 - 2022-08-03, **MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training**, De-An Huang et.al., Paper: [http://arxiv.org/abs/2208.02245v1](http://arxiv.org/abs/2208.02245v1), Code: **[https://github.com/nvlabs/minvis](https://github.com/nvlabs/minvis)**
 - 2022-08-03, **Robot Learning from Demonstration Using Elastic Maps**, Brendan Hertel et.al., Paper: [http://arxiv.org/abs/2208.02207v1](http://arxiv.org/abs/2208.02207v1)
 - 2022-08-03, **DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**, Navjot Kaur et.al., Paper: [http://arxiv.org/abs/2208.02205v1](http://arxiv.org/abs/2208.02205v1), Code: **[https://github.com/nka77/dahitra](https://github.com/nka77/dahitra)**
@@ -405,6 +415,16 @@
 
 ## MultiModal
 
+- 2022-08-04, **Vision-Centric BEV Perception: A Survey**, Yuexin Ma et.al., Paper: [http://arxiv.org/abs/2208.02797v1](http://arxiv.org/abs/2208.02797v1)
+- 2022-08-04, **Topological Defect Lines in Two Dimensional Fermionic CFTs**, Chi-Ming Chang et.al., Paper: [http://arxiv.org/abs/2208.02757v1](http://arxiv.org/abs/2208.02757v1)
+- 2022-08-04, **Searches for additional Higgs bosons and for vector leptoquarks in $ττ$ final states in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, CMS Collaboration et.al., Paper: [http://arxiv.org/abs/2208.02717v1](http://arxiv.org/abs/2208.02717v1)
+- 2022-08-04, **ACSGRegNet: A Deep Learning-based Framework for Unsupervised Joint Affine and Diffeomorphic Registration of Lumbar Spine CT via Cross- and Self-Attention Fusion**, Xiaoru Gao et.al., Paper: [http://arxiv.org/abs/2208.02642v1](http://arxiv.org/abs/2208.02642v1)
+- 2022-08-04, **Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards**, Hanwen Kang et.al., Paper: [http://arxiv.org/abs/2208.02483v1](http://arxiv.org/abs/2208.02483v1)
+- 2022-08-04, **Multi-scale Sampling and Aggregation Network For High Dynamic Range Imaging**, Jun Xiao et.al., Paper: [http://arxiv.org/abs/2208.02448v1](http://arxiv.org/abs/2208.02448v1)
+- 2022-08-04, **Credal Valuation Networks for Machine Reasoning Under Uncertainty**, Branko Ristic et.al., Paper: [http://arxiv.org/abs/2208.02443v1](http://arxiv.org/abs/2208.02443v1)
+- 2022-08-04, **H2-Stereo: High-Speed, High-Resolution Stereoscopic Video System**, Ming Cheng et.al., Paper: [http://arxiv.org/abs/2208.02436v1](http://arxiv.org/abs/2208.02436v1)
+- 2022-08-04, **Fusing Sentence Embeddings Into LSTM-based Autoregressive Language Models**, Vilém Zouhar et.al., Paper: [http://arxiv.org/abs/2208.02402v1](http://arxiv.org/abs/2208.02402v1)
+- 2022-08-04, **Omnigenious toroidal plasma equilibria**, Allen H Boozer et.al., Paper: [http://arxiv.org/abs/2208.02391v1](http://arxiv.org/abs/2208.02391v1)
 - 2022-08-03, **Multimodal sensor fusion in the latent representation space**, Robert J. Piechocki et.al., Paper: [http://arxiv.org/abs/2208.02183v1](http://arxiv.org/abs/2208.02183v1)
 - 2022-08-04, **Development and application of a hybrid MHD-kinetic model in JOREK**, T. J. Bogaarts et.al., Paper: [http://arxiv.org/abs/2208.02179v2](http://arxiv.org/abs/2208.02179v2)
 - 2022-08-03, **KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation**, Jin Zhang et.al., Paper: [http://arxiv.org/abs/2208.02178v1](http://arxiv.org/abs/2208.02178v1), Code: **[https://github.com/zhangjincv/kd-scfnet](https://github.com/zhangjincv/kd-scfnet)**
