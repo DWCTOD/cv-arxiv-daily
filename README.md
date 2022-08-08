@@ -1,4 +1,4 @@
-## Updated on 2022.08.07
+## Updated on 2022.08.08
 
 ## Video_Classification
 
@@ -427,7 +427,7 @@
 |**2022-08-04**|**Multi-scale Sampling and Aggregation Network For High Dynamic Range Imaging**|Jun Xiao et.al.|[2208.02448v1](http://arxiv.org/abs/2208.02448v1)|null|
 |**2022-08-04**|**Credal Valuation Networks for Machine Reasoning Under Uncertainty**|Branko Ristic et.al.|[2208.02443v1](http://arxiv.org/abs/2208.02443v1)|null|
 |**2022-08-04**|**H2-Stereo: High-Speed, High-Resolution Stereoscopic Video System**|Ming Cheng et.al.|[2208.02436v1](http://arxiv.org/abs/2208.02436v1)|null|
-|**2022-08-04**|**Fusing Sentence Embeddings Into LSTM-based Autoregressive Language Models**|Vilém Zouhar et.al.|[2208.02402v1](http://arxiv.org/abs/2208.02402v1)|**[link](https://github.com/zouharvi/sentence-embd-fusion)**|
+|**2022-08-05**|**Fusing Sentence Embeddings Into LSTM-based Autoregressive Language Models**|Vilém Zouhar et.al.|[2208.02402v2](http://arxiv.org/abs/2208.02402v2)|**[link](https://github.com/zouharvi/sentence-embd-fusion)**|
 |**2022-08-04**|**Omnigenious toroidal plasma equilibria**|Allen H Boozer et.al.|[2208.02391v1](http://arxiv.org/abs/2208.02391v1)|null|
 |**2022-08-03**|**Multimodal sensor fusion in the latent representation space**|Robert J. Piechocki et.al.|[2208.02183v1](http://arxiv.org/abs/2208.02183v1)|null|
 |**2022-08-04**|**Development and application of a hybrid MHD-kinetic model in JOREK**|T. J. Bogaarts et.al.|[2208.02179v2](http://arxiv.org/abs/2208.02179v2)|null|
