@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**Floer homology and non-fibered knot detection**|John A. Baldwin et.al.|[2208.03307v1](http://arxiv.org/abs/2208.03307v1)|null|
+|**2022-08-05**|**Deep Learning-based Segmentation of Pleural Effusion From Ultrasound Using Coordinate Convolutions**|Germain Morilhat et.al.|[2208.03305v1](http://arxiv.org/abs/2208.03305v1)|null|
+|**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
+|**2022-08-05**|**End-to-end analysis using image classification**|Adam Aurisano et.al.|[2208.03285v1](http://arxiv.org/abs/2208.03285v1)|null|
+|**2022-08-05**|**Search for Coincident Gravitational Wave and Long Gamma-Ray Bursts from 4-OGC and the Fermi/Swift Catalog**|Yi-Fan Wang et.al.|[2208.03279v1](http://arxiv.org/abs/2208.03279v1)|null|
+|**2022-08-05**|**The ALMA Science Archive Reaches a Major Milestone**|Felix Stoehr et.al.|[2208.03275v1](http://arxiv.org/abs/2208.03275v1)|null|
+|**2022-08-05**|**A Holistic Approach to Undesired Content Detection in the Real World**|Todor Markov et.al.|[2208.03274v1](http://arxiv.org/abs/2208.03274v1)|null|
+|**2022-08-05**|**3D Pose Based Feedback for Physical Exercises**|Ziyi Zhao et.al.|[2208.03257v1](http://arxiv.org/abs/2208.03257v1)|null|
+|**2022-08-05**|**Real-time Gesture Animation Generation from Speech for Virtual Human Interaction**|Manuel Rebol et.al.|[2208.03244v1](http://arxiv.org/abs/2208.03244v1)|**[link](https://github.com/mrebol/Gestures-From-Speech)**|
+|**2022-08-05**|**Construction of English Resume Corpus and Test with Pre-trained Language Models**|Chengguang Gan et.al.|[2208.03219v1](http://arxiv.org/abs/2208.03219v1)|null|
 |**2022-08-04**|**Occupancy Planes for Single-view RGB-D Human Reconstruction**|Xiaoming Zhao et.al.|[2208.02817v1](http://arxiv.org/abs/2208.02817v1)|null|
 |**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/videox)**|
 |**2022-08-04**|**Towards Understanding Mixture of Experts in Deep Learning**|Zixiang Chen et.al.|[2208.02813v1](http://arxiv.org/abs/2208.02813v1)|null|
@@ -423,6 +433,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**Activity Detection in Distributed MIMO: Distributed AMP via Likelihood Ratio Fusion**|Jianan Bai et.al.|[2208.03070v1](http://arxiv.org/abs/2208.03070v1)|null|
+|**2022-08-05**|**Hybrid Multimodal Feature Extraction, Mining and Fusion for Sentiment Analysis**|Jia Li et.al.|[2208.03051v1](http://arxiv.org/abs/2208.03051v1)|null|
+|**2022-08-05**|**Joint Attention-Driven Domain Fusion and Noise-Tolerant Learning for Multi-Source Domain Adaptation**|Tong Xu et.al.|[2208.02947v1](http://arxiv.org/abs/2208.02947v1)|null|
 |**2022-08-04**|**Vision-Centric BEV Perception: A Survey**|Yuexin Ma et.al.|[2208.02797v1](http://arxiv.org/abs/2208.02797v1)|**[link](https://github.com/4dvlab/vision-centric-bev-perception)**|
 |**2022-08-04**|**Topological Defect Lines in Two Dimensional Fermionic CFTs**|Chi-Ming Chang et.al.|[2208.02757v1](http://arxiv.org/abs/2208.02757v1)|null|
 |**2022-08-04**|**Searches for additional Higgs bosons and for vector leptoquarks in $ττ$ final states in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2208.02717v1](http://arxiv.org/abs/2208.02717v1)|null|
