@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|null|
+|**2022-08-08**|**Boosting neural video codecs by exploiting hierarchical redundancy**|Reza Pourreza et.al.|[2208.04303v1](http://arxiv.org/abs/2208.04303v1)|null|
+|**2022-08-08**|**Toric vector bundles over a discrete valuation ring and Bruhat-Tits buildings**|Kiumars Kaveh et.al.|[2208.04299v1](http://arxiv.org/abs/2208.04299v1)|null|
+|**2022-08-08**|**Extremal affine subspaces and Khintchine-Jarník type theorems**|Jing-Jing Huang et.al.|[2208.04255v1](http://arxiv.org/abs/2208.04255v1)|null|
+|**2022-08-08**|**A Multi-label Continual Learning Framework to Scale Deep Learning Approaches for Packaging Equipment Monitoring**|Davide Dalle Pezze et.al.|[2208.04227v1](http://arxiv.org/abs/2208.04227v1)|null|
+|**2022-08-08**|**SKDCGN: Source-free Knowledge Distillation of Counterfactual Generative Networks using cGANs**|Sameer Ambekar et.al.|[2208.04226v1](http://arxiv.org/abs/2208.04226v1)|**[link](https://github.com/ambekarsameer96/skdcgn)**|
+|**2022-08-08**|**Boosting Video-Text Retrieval with Explicit High-Level Semantics**|Haoran Wang et.al.|[2208.04215v1](http://arxiv.org/abs/2208.04215v1)|null|
+|**2022-08-08**|**Vision-Based Activity Recognition in Children with Autism-Related Behaviors**|Pengbo Wei et.al.|[2208.04206v1](http://arxiv.org/abs/2208.04206v1)|null|
+|**2022-08-08**|**fMRI-S4: learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models**|Ahmed El-Gazzar et.al.|[2208.04166v1](http://arxiv.org/abs/2208.04166v1)|null|
+|**2022-08-08**|**Efficient Neural Net Approaches in Metal Casting Defect Detection**|Rohit Lal et.al.|[2208.04150v1](http://arxiv.org/abs/2208.04150v1)|null|
 |**2022-08-05**|**Floer homology and non-fibered knot detection**|John A. Baldwin et.al.|[2208.03307v1](http://arxiv.org/abs/2208.03307v1)|null|
 |**2022-08-05**|**Deep Learning-based Segmentation of Pleural Effusion From Ultrasound Using Coordinate Convolutions**|Germain Morilhat et.al.|[2208.03305v1](http://arxiv.org/abs/2208.03305v1)|null|
 |**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
@@ -433,6 +443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-08**|**Image Quality Assessment with Gradient Siamese Network**|Heng Cong et.al.|[2208.04081v1](http://arxiv.org/abs/2208.04081v1)|null|
+|**2022-08-08**|**Multi-Frames Temporal Abnormal Clues Learning Method for Face Anti-Spoofing**|Heng Cong et.al.|[2208.04076v1](http://arxiv.org/abs/2208.04076v1)|null|
+|**2022-08-08**|**Intelligent MIMO Detection Using Meta Learning**|Haomiao Huo et.al.|[2208.03953v1](http://arxiv.org/abs/2208.03953v1)|null|
+|**2022-08-08**|**Depth Quality-Inspired Feature Manipulation for Efficient RGB-D and Video Salient Object Detection**|Wenbo Zhang et.al.|[2208.03918v1](http://arxiv.org/abs/2208.03918v1)|**[link](https://github.com/zwbx/DFM-Net)**|
+|**2022-08-08**|**RadSegNet: A Reliable Approach to Radar Camera Fusion**|Kshitiz Bansal et.al.|[2208.03849v1](http://arxiv.org/abs/2208.03849v1)|null|
+|**2022-08-07**|**Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects**|Qiyu Dai et.al.|[2208.03792v1](http://arxiv.org/abs/2208.03792v1)|**[link](https://github.com/pku-epic/dreds)**|
+|**2022-08-07**|**Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph**|Honghui Yang et.al.|[2208.03624v1](http://arxiv.org/abs/2208.03624v1)|**[link](https://github.com/nightmare-n/graphrcnn)**|
+|**2022-08-06**|**D-optimal Data Fusion: Exact and Approximation Algorithms**|Yongchun Li et.al.|[2208.03589v1](http://arxiv.org/abs/2208.03589v1)|null|
+|**2022-08-06**|**Damage threshold in pre-heated materials exposed to intense X-rays**|Nikita Medvedev et.al.|[2208.03465v1](http://arxiv.org/abs/2208.03465v1)|null|
+|**2022-08-06**|**Deep Uncalibrated Photometric Stereo via Inter-Intra Image Feature Fusion**|Fangzhou Gao et.al.|[2208.03440v1](http://arxiv.org/abs/2208.03440v1)|null|
 |**2022-08-05**|**Activity Detection in Distributed MIMO: Distributed AMP via Likelihood Ratio Fusion**|Jianan Bai et.al.|[2208.03070v1](http://arxiv.org/abs/2208.03070v1)|null|
 |**2022-08-05**|**Hybrid Multimodal Feature Extraction, Mining and Fusion for Sentiment Analysis**|Jia Li et.al.|[2208.03051v1](http://arxiv.org/abs/2208.03051v1)|null|
 |**2022-08-05**|**Joint Attention-Driven Domain Fusion and Noise-Tolerant Learning for Multi-Source Domain Adaptation**|Tong Xu et.al.|[2208.02947v1](http://arxiv.org/abs/2208.02947v1)|null|
