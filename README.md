@@ -1,4 +1,4 @@
-## Updated on 2022.08.08
+## Updated on 2022.08.09
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 |**2022-08-05**|**Deep Learning-based Segmentation of Pleural Effusion From Ultrasound Using Coordinate Convolutions**|Germain Morilhat et.al.|[2208.03305v1](http://arxiv.org/abs/2208.03305v1)|null|
 |**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
 |**2022-08-05**|**End-to-end analysis using image classification**|Adam Aurisano et.al.|[2208.03285v1](http://arxiv.org/abs/2208.03285v1)|null|
-|**2022-08-05**|**Search for Coincident Gravitational Wave and Long Gamma-Ray Bursts from 4-OGC and the Fermi/Swift Catalog**|Yi-Fan Wang et.al.|[2208.03279v1](http://arxiv.org/abs/2208.03279v1)|null|
+|**2022-08-05**|**Search for Coincident Gravitational Wave and Long Gamma-Ray Bursts from 4-OGC and the Fermi/Swift Catalog**|Yi-Fan Wang et.al.|[2208.03279v1](http://arxiv.org/abs/2208.03279v1)|**[link](https://github.com/gwastro/gw-longgrb)**|
 |**2022-08-05**|**The ALMA Science Archive Reaches a Major Milestone**|Felix Stoehr et.al.|[2208.03275v1](http://arxiv.org/abs/2208.03275v1)|null|
 |**2022-08-05**|**A Holistic Approach to Undesired Content Detection in the Real World**|Todor Markov et.al.|[2208.03274v1](http://arxiv.org/abs/2208.03274v1)|null|
 |**2022-08-05**|**3D Pose Based Feedback for Physical Exercises**|Ziyi Zhao et.al.|[2208.03257v1](http://arxiv.org/abs/2208.03257v1)|null|
