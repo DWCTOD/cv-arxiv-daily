@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-09**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v1](http://arxiv.org/abs/2208.04929v1)|null|
+|**2022-08-09**|**Enabling Efficient and General Subpopulation Analytics in Multidimensional Data Streams**|Antonis Manousis et.al.|[2208.04927v1](http://arxiv.org/abs/2208.04927v1)|null|
+|**2022-08-09**|**On the Activation Function Dependence of the Spectral Bias of Neural Networks**|Qingguo Hong et.al.|[2208.04924v1](http://arxiv.org/abs/2208.04924v1)|null|
+|**2022-08-09**|**Wide binary stars with non-coeval components**|Oleg Malkov et.al.|[2208.04899v1](http://arxiv.org/abs/2208.04899v1)|null|
+|**2022-08-09**|**Sports Video Analysis on Large-Scale Data**|Dekun Wu et.al.|[2208.04897v1](http://arxiv.org/abs/2208.04897v1)|**[link](https://github.com/jackwu502/nsva)**|
+|**2022-08-09**|**Online Malware Classification with System-Wide System Calls in Cloud IaaS**|Phillip Brown et.al.|[2208.04891v1](http://arxiv.org/abs/2208.04891v1)|null|
+|**2022-08-09**|**Pulsar Emission Beam Geometry of Radio Broadband Arecibo Sources**|Timothy Olszanski et.al.|[2208.04889v1](http://arxiv.org/abs/2208.04889v1)|null|
+|**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
+|**2022-08-09**|**Imaging-based representation and stratification of intra-tumor Heterogeneity via tree-edit distance**|Lara Cavinato et.al.|[2208.04829v1](http://arxiv.org/abs/2208.04829v1)|null|
+|**2022-08-09**|**Longitudinal Prediction of Postnatal Brain Magnetic Resonance Images via a Metamorphic Generative Adversarial Network**|Yunzhi Huang et.al.|[2208.04825v1](http://arxiv.org/abs/2208.04825v1)|null|
 |**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|**[link](https://github.com/lahoud/3d-vision-transformers)**|
 |**2022-08-08**|**Boosting neural video codecs by exploiting hierarchical redundancy**|Reza Pourreza et.al.|[2208.04303v1](http://arxiv.org/abs/2208.04303v1)|null|
 |**2022-08-08**|**Toric vector bundles over a discrete valuation ring and Bruhat-Tits buildings**|Kiumars Kaveh et.al.|[2208.04299v1](http://arxiv.org/abs/2208.04299v1)|null|
@@ -439,6 +449,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-09**|**Early Stage Sparse Retrieval with Entity Linking**|Dahlia Shehata et.al.|[2208.04887v1](http://arxiv.org/abs/2208.04887v1)|null|
+|**2022-08-09**|**Semantic Segmentation-Assisted Instance Feature Fusion for Multi-Level 3D Part Instance Segmentation**|Chunyu Sun et.al.|[2208.04766v1](http://arxiv.org/abs/2208.04766v1)|null|
+|**2022-08-09**|**Time Lag Aware Sequential Recommendation**|Lihua Chen et.al.|[2208.04760v1](http://arxiv.org/abs/2208.04760v1)|null|
+|**2022-08-09**|**Poisson-Lie T-duality defects and target space fusion**|Saskia Demulder et.al.|[2208.04662v1](http://arxiv.org/abs/2208.04662v1)|null|
+|**2022-08-09**|**Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems**|Qihua Zhang et.al.|[2208.04560v1](http://arxiv.org/abs/2208.04560v1)|null|
+|**2022-08-08**|**EFI: A Toolbox for Feature Importance Fusion and Interpretation in Python**|Aayush Kumar et.al.|[2208.04343v1](http://arxiv.org/abs/2208.04343v1)|null|
 |**2022-08-08**|**Image Quality Assessment with Gradient Siamese Network**|Heng Cong et.al.|[2208.04081v1](http://arxiv.org/abs/2208.04081v1)|null|
 |**2022-08-08**|**Multi-Frames Temporal Abnormal Clues Learning Method for Face Anti-Spoofing**|Heng Cong et.al.|[2208.04076v1](http://arxiv.org/abs/2208.04076v1)|null|
 |**2022-08-08**|**Intelligent MIMO Detection Using Meta Learning**|Haomiao Huo et.al.|[2208.03953v1](http://arxiv.org/abs/2208.03953v1)|null|
