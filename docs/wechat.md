@@ -1,14 +1,14 @@
-> Updated on 2022.08.09
+> Updated on 2022.08.10
 
 ## Video_Classification
 
-- 2022-08-08, **3D Vision with Transformers: A Survey**, Jean Lahoud et.al., Paper: [http://arxiv.org/abs/2208.04309v1](http://arxiv.org/abs/2208.04309v1)
+- 2022-08-08, **3D Vision with Transformers: A Survey**, Jean Lahoud et.al., Paper: [http://arxiv.org/abs/2208.04309v1](http://arxiv.org/abs/2208.04309v1), Code: **[https://github.com/lahoud/3d-vision-transformers](https://github.com/lahoud/3d-vision-transformers)**
 - 2022-08-08, **Boosting neural video codecs by exploiting hierarchical redundancy**, Reza Pourreza et.al., Paper: [http://arxiv.org/abs/2208.04303v1](http://arxiv.org/abs/2208.04303v1)
 - 2022-08-08, **Toric vector bundles over a discrete valuation ring and Bruhat-Tits buildings**, Kiumars Kaveh et.al., Paper: [http://arxiv.org/abs/2208.04299v1](http://arxiv.org/abs/2208.04299v1)
 - 2022-08-08, **Extremal affine subspaces and Khintchine-Jarník type theorems**, Jing-Jing Huang et.al., Paper: [http://arxiv.org/abs/2208.04255v1](http://arxiv.org/abs/2208.04255v1)
 - 2022-08-08, **A Multi-label Continual Learning Framework to Scale Deep Learning Approaches for Packaging Equipment Monitoring**, Davide Dalle Pezze et.al., Paper: [http://arxiv.org/abs/2208.04227v1](http://arxiv.org/abs/2208.04227v1)
 - 2022-08-08, **SKDCGN: Source-free Knowledge Distillation of Counterfactual Generative Networks using cGANs**, Sameer Ambekar et.al., Paper: [http://arxiv.org/abs/2208.04226v1](http://arxiv.org/abs/2208.04226v1), Code: **[https://github.com/ambekarsameer96/skdcgn](https://github.com/ambekarsameer96/skdcgn)**
-- 2022-08-08, **Boosting Video-Text Retrieval with Explicit High-Level Semantics**, Haoran Wang et.al., Paper: [http://arxiv.org/abs/2208.04215v1](http://arxiv.org/abs/2208.04215v1)
+- 2022-08-09, **Boosting Video-Text Retrieval with Explicit High-Level Semantics**, Haoran Wang et.al., Paper: [http://arxiv.org/abs/2208.04215v2](http://arxiv.org/abs/2208.04215v2)
 - 2022-08-08, **Vision-Based Activity Recognition in Children with Autism-Related Behaviors**, Pengbo Wei et.al., Paper: [http://arxiv.org/abs/2208.04206v1](http://arxiv.org/abs/2208.04206v1)
 - 2022-08-08, **fMRI-S4: learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models**, Ahmed El-Gazzar et.al., Paper: [http://arxiv.org/abs/2208.04166v1](http://arxiv.org/abs/2208.04166v1)
 - 2022-08-08, **Efficient Neural Net Approaches in Metal Casting Defect Detection**, Rohit Lal et.al., Paper: [http://arxiv.org/abs/2208.04150v1](http://arxiv.org/abs/2208.04150v1)
