@@ -1,4 +1,4 @@
-> Updated on 2022.08.10
+> Updated on 2022.08.11
 
 ## Video_Classification
 
@@ -445,11 +445,11 @@
 
 ## MultiModal
 
-- 2022-08-09, **Early Stage Sparse Retrieval with Entity Linking**, Dahlia Shehata et.al., Paper: [http://arxiv.org/abs/2208.04887v1](http://arxiv.org/abs/2208.04887v1)
+- 2022-08-10, **Early Stage Sparse Retrieval with Entity Linking**, Dahlia Shehata et.al., Paper: [http://arxiv.org/abs/2208.04887v2](http://arxiv.org/abs/2208.04887v2)
 - 2022-08-09, **Semantic Segmentation-Assisted Instance Feature Fusion for Multi-Level 3D Part Instance Segmentation**, Chunyu Sun et.al., Paper: [http://arxiv.org/abs/2208.04766v1](http://arxiv.org/abs/2208.04766v1)
 - 2022-08-09, **Time Lag Aware Sequential Recommendation**, Lihua Chen et.al., Paper: [http://arxiv.org/abs/2208.04760v1](http://arxiv.org/abs/2208.04760v1)
 - 2022-08-09, **Poisson-Lie T-duality defects and target space fusion**, Saskia Demulder et.al., Paper: [http://arxiv.org/abs/2208.04662v1](http://arxiv.org/abs/2208.04662v1)
-- 2022-08-09, **Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems**, Qihua Zhang et.al., Paper: [http://arxiv.org/abs/2208.04560v1](http://arxiv.org/abs/2208.04560v1)
+- 2022-08-10, **Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems**, Qihua Zhang et.al., Paper: [http://arxiv.org/abs/2208.04560v2](http://arxiv.org/abs/2208.04560v2)
 - 2022-08-08, **EFI: A Toolbox for Feature Importance Fusion and Interpretation in Python**, Aayush Kumar et.al., Paper: [http://arxiv.org/abs/2208.04343v1](http://arxiv.org/abs/2208.04343v1)
 - 2022-08-08, **Image Quality Assessment with Gradient Siamese Network**, Heng Cong et.al., Paper: [http://arxiv.org/abs/2208.04081v1](http://arxiv.org/abs/2208.04081v1)
 - 2022-08-08, **Multi-Frames Temporal Abnormal Clues Learning Method for Face Anti-Spoofing**, Heng Cong et.al., Paper: [http://arxiv.org/abs/2208.04076v1](http://arxiv.org/abs/2208.04076v1)
