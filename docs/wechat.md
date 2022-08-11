@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-10, **Differentiable Inference of Temporal Logic Formulas**, Nicole Fronda et.al., Paper: [http://arxiv.org/abs/2208.05440v1](http://arxiv.org/abs/2208.05440v1), Code: **[https://github.com/nicaless/fernn_stl_inference](https://github.com/nicaless/fernn_stl_inference)**
+- 2022-08-10, **Detecting COVID-19 from digitized ECG printouts using 1D convolutional neural networks**, Thao Nguyen et.al., Paper: [http://arxiv.org/abs/2208.05433v1](http://arxiv.org/abs/2208.05433v1)
+- 2022-08-10, **Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues**, Zitong Yu et.al., Paper: [http://arxiv.org/abs/2208.05401v1](http://arxiv.org/abs/2208.05401v1)
+- 2022-08-10, **Towards Autonomous Atlas-based Ultrasound Acquisitions in Presence of Articulated Motion**, Zhongliang Jiang et.al., Paper: [http://arxiv.org/abs/2208.05399v1](http://arxiv.org/abs/2208.05399v1), Code: **[https://github.com/jiang96998/autolimbusscan](https://github.com/jiang96998/autolimbusscan)**
+- 2022-08-10, **Precise Repositioning of Robotic Ultrasound: Improving Registration-based Motion Compensation using Ultrasound Confidence Optimization**, Zhongliang Jiang et.al., Paper: [http://arxiv.org/abs/2208.05383v1](http://arxiv.org/abs/2208.05383v1)
+- 2022-08-10, **Evaluating the Resilience of Variational Quantum Algorithms to Leakage Noise**, Chen Ding et.al., Paper: [http://arxiv.org/abs/2208.05378v1](http://arxiv.org/abs/2208.05378v1)
+- 2022-08-10, **Exploring Anchor-based Detection for Ego4D Natural Language Query**, Sipeng Zheng et.al., Paper: [http://arxiv.org/abs/2208.05375v1](http://arxiv.org/abs/2208.05375v1)
+- 2022-08-10, **A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics**, Roberta Mota et.al., Paper: [http://arxiv.org/abs/2208.05370v1](http://arxiv.org/abs/2208.05370v1)
+- 2022-08-10, **E Pluribus Unum Interpretable Convolutional Neural Networks**, George Dimas et.al., Paper: [http://arxiv.org/abs/2208.05369v1](http://arxiv.org/abs/2208.05369v1)
+- 2022-08-10, **BehaVerify: Verifying Temporal Logic Specifications for Behavior Trees**, Bernard Serbinowski et.al., Paper: [http://arxiv.org/abs/2208.05360v1](http://arxiv.org/abs/2208.05360v1)
 - 2022-08-09, **Literature Review: Graph Kernels in Chemoinformatics**, James Young et.al., Paper: [http://arxiv.org/abs/2208.04929v1](http://arxiv.org/abs/2208.04929v1)
 - 2022-08-09, **Enabling Efficient and General Subpopulation Analytics in Multidimensional Data Streams**, Antonis Manousis et.al., Paper: [http://arxiv.org/abs/2208.04927v1](http://arxiv.org/abs/2208.04927v1)
 - 2022-08-09, **On the Activation Function Dependence of the Spectral Bias of Neural Networks**, Qingguo Hong et.al., Paper: [http://arxiv.org/abs/2208.04924v1](http://arxiv.org/abs/2208.04924v1)
@@ -445,6 +455,16 @@
 
 ## MultiModal
 
+- 2022-08-10, **Double Higgs production at TeV $e^+e^-$ colliders with Effective Field Theories: sensitivity to BSM Higgs couplings**, D. Domenech et.al., Paper: [http://arxiv.org/abs/2208.05452v1](http://arxiv.org/abs/2208.05452v1)
+- 2022-08-10, **CLARION2-TRINITY: a Compton-suppressed HPGe and GAGG:Ce-Si-Si array for absolute cross-section measurements with heavy ions**, T. J. Gray et.al., Paper: [http://arxiv.org/abs/2208.05449v1](http://arxiv.org/abs/2208.05449v1)
+- 2022-08-10, **Microstability of $β\sim 1$ tokamak equilibria**, Rahul Gaur et.al., Paper: [http://arxiv.org/abs/2208.05435v1](http://arxiv.org/abs/2208.05435v1)
+- 2022-08-10, **Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues**, Zitong Yu et.al., Paper: [http://arxiv.org/abs/2208.05401v1](http://arxiv.org/abs/2208.05401v1)
+- 2022-08-10, **Light-front approach to axial-vector quarkonium $γ^* γ^*$ form factors**, Izabela Babiarz et.al., Paper: [http://arxiv.org/abs/2208.05377v1](http://arxiv.org/abs/2208.05377v1)
+- 2022-08-10, **On symmetric simplicial (super)string backgrounds, (super-)WZW defect fusion and the Chern-Simons theory**, Rafał R. Suszek et.al., Paper: [http://arxiv.org/abs/2208.05312v1](http://arxiv.org/abs/2208.05312v1)
+- 2022-08-10, **Multi-scale Feature Aggregation for Crowd Counting**, Xiaoheng Jiang et.al., Paper: [http://arxiv.org/abs/2208.05256v1](http://arxiv.org/abs/2208.05256v1)
+- 2022-08-10, **Inaccuracy rates for distributed inference over random networks with applications to social learning**, Dragana Bajovic et.al., Paper: [http://arxiv.org/abs/2208.05236v1](http://arxiv.org/abs/2208.05236v1)
+- 2022-08-10, **Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer**, Zhipeng Luo et.al., Paper: [http://arxiv.org/abs/2208.05216v1](http://arxiv.org/abs/2208.05216v1), Code: **[https://github.com/jasonkks/pttr](https://github.com/jasonkks/pttr)**
+- 2022-08-09, **Simultaneous measurements of unstable and stable Alfvén Eigenmodes in JET**, R. A. Tinguely et.al., Paper: [http://arxiv.org/abs/2208.05052v1](http://arxiv.org/abs/2208.05052v1)
 - 2022-08-10, **Early Stage Sparse Retrieval with Entity Linking**, Dahlia Shehata et.al., Paper: [http://arxiv.org/abs/2208.04887v2](http://arxiv.org/abs/2208.04887v2)
 - 2022-08-09, **Semantic Segmentation-Assisted Instance Feature Fusion for Multi-Level 3D Part Instance Segmentation**, Chunyu Sun et.al., Paper: [http://arxiv.org/abs/2208.04766v1](http://arxiv.org/abs/2208.04766v1)
 - 2022-08-09, **Time Lag Aware Sequential Recommendation**, Lihua Chen et.al., Paper: [http://arxiv.org/abs/2208.04760v1](http://arxiv.org/abs/2208.04760v1)
