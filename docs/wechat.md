@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
+- 2022-08-11, **PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees**, Jun-Kun Chen et.al., Paper: [http://arxiv.org/abs/2208.05962v1](http://arxiv.org/abs/2208.05962v1), Code: **[https://github.com/immortalco/pointtree](https://github.com/immortalco/pointtree)**
+- 2022-08-11, **Partition Pooling for Convolutional Graph Network Applications in Particle Physics**, M. Bachlechner et.al., Paper: [http://arxiv.org/abs/2208.05952v1](http://arxiv.org/abs/2208.05952v1)
+- 2022-08-11, **Heatmap Regression for Lesion Detection using Pointwise Annotations**, Chelsea Myers-Colet et.al., Paper: [http://arxiv.org/abs/2208.05939v1](http://arxiv.org/abs/2208.05939v1), Code: **[https://github.com/chelseam-c/miccai2022-heatmap-lesion-detection](https://github.com/chelseam-c/miccai2022-heatmap-lesion-detection)**
+- 2022-08-11, **When does an impacting drop stop bouncing?**, Vatsal Sanjay et.al., Paper: [http://arxiv.org/abs/2208.05935v1](http://arxiv.org/abs/2208.05935v1)
+- 2022-08-11, **Critical slowing down of fermions near a magnetic quantum phase transition**, Chia-Jung Yang et.al., Paper: [http://arxiv.org/abs/2208.05932v1](http://arxiv.org/abs/2208.05932v1)
+- 2022-08-11, **Rotating Spacetime Modulation: Topological Phases and Spacetime Haldane Model**, João C. Serra et.al., Paper: [http://arxiv.org/abs/2208.05913v1](http://arxiv.org/abs/2208.05913v1)
+- 2022-08-11, **Optimal Transport Features for Morphometric Population Analysis**, Samuel Gerber et.al., Paper: [http://arxiv.org/abs/2208.05891v1](http://arxiv.org/abs/2208.05891v1), Code: **[https://github.com/kitwaremedical/utm](https://github.com/kitwaremedical/utm)**
+- 2022-08-11, **Predictive Angular Potential Field-based Obstacle Avoidance for Dynamic UAV Flights**, Daniel Schleich et.al., Paper: [http://arxiv.org/abs/2208.05873v1](http://arxiv.org/abs/2208.05873v1)
+- 2022-08-11, **TotalSegmentator: robust segmentation of 104 anatomical structures in CT images**, Jakob Wasserthal et.al., Paper: [http://arxiv.org/abs/2208.05868v1](http://arxiv.org/abs/2208.05868v1), Code: **[https://github.com/wasserth/totalsegmentator](https://github.com/wasserth/totalsegmentator)**
 - 2022-08-10, **Differentiable Inference of Temporal Logic Formulas**, Nicole Fronda et.al., Paper: [http://arxiv.org/abs/2208.05440v1](http://arxiv.org/abs/2208.05440v1), Code: **[https://github.com/nicaless/fernn_stl_inference](https://github.com/nicaless/fernn_stl_inference)**
 - 2022-08-10, **Detecting COVID-19 from digitized ECG printouts using 1D convolutional neural networks**, Thao Nguyen et.al., Paper: [http://arxiv.org/abs/2208.05433v1](http://arxiv.org/abs/2208.05433v1)
 - 2022-08-10, **Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues**, Zitong Yu et.al., Paper: [http://arxiv.org/abs/2208.05401v1](http://arxiv.org/abs/2208.05401v1)
@@ -455,6 +465,13 @@
 
 ## MultiModal
 
+- 2022-08-11, **Amplitudes, Hopf algebras and the colour-kinematics duality**, Andreas Brandhuber et.al., Paper: [http://arxiv.org/abs/2208.05886v1](http://arxiv.org/abs/2208.05886v1)
+- 2022-08-11, **Hybrid Transformer Network for Deepfake Detection**, Sohail Ahmed Khan et.al., Paper: [http://arxiv.org/abs/2208.05820v1](http://arxiv.org/abs/2208.05820v1)
+- 2022-08-10, **Exploiting Hierarchical Dependence Structures for Unsupervised Rank Fusion in Information Retrieval**, J. Hermosillo-Valadez et.al., Paper: [http://arxiv.org/abs/2208.05574v1](http://arxiv.org/abs/2208.05574v1)
+- 2022-08-10, **What's on your mind? A Mental and Perceptual Load Estimation Framework towards Adaptive In-vehicle Interaction while Driving**, Amr Gomaa et.al., Paper: [http://arxiv.org/abs/2208.05564v1](http://arxiv.org/abs/2208.05564v1)
+- 2022-08-10, **Heterogeneity assessment in causal data fusion problems**, Tat-Thang Vo et.al., Paper: [http://arxiv.org/abs/2208.05543v1](http://arxiv.org/abs/2208.05543v1)
+- 2022-08-10, **Kinematic Hopf algebra for amplitudes and form factors**, Gang Chen et.al., Paper: [http://arxiv.org/abs/2208.05519v1](http://arxiv.org/abs/2208.05519v1)
+- 2022-08-10, **Asymptotic density of states in 2d CFTs with non-invertible symmetries**, Ying-Hsuan Lin et.al., Paper: [http://arxiv.org/abs/2208.05495v1](http://arxiv.org/abs/2208.05495v1)
 - 2022-08-10, **Double Higgs production at TeV $e^+e^-$ colliders with Effective Field Theories: sensitivity to BSM Higgs couplings**, D. Domenech et.al., Paper: [http://arxiv.org/abs/2208.05452v1](http://arxiv.org/abs/2208.05452v1)
 - 2022-08-10, **CLARION2-TRINITY: a Compton-suppressed HPGe and GAGG:Ce-Si-Si array for absolute cross-section measurements with heavy ions**, T. J. Gray et.al., Paper: [http://arxiv.org/abs/2208.05449v1](http://arxiv.org/abs/2208.05449v1)
 - 2022-08-10, **Microstability of $β\sim 1$ tokamak equilibria**, Rahul Gaur et.al., Paper: [http://arxiv.org/abs/2208.05435v1](http://arxiv.org/abs/2208.05435v1)
