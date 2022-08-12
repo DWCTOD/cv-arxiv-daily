@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.11
+## Updated on 2022.08.12
 
 ## Video_Classification
 
@@ -469,7 +469,7 @@ layout: default
 |**2022-08-10**|**Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues**|Zitong Yu et.al.|[2208.05401v1](http://arxiv.org/abs/2208.05401v1)|null|
 |**2022-08-10**|**Light-front approach to axial-vector quarkonium $γ^* γ^*$ form factors**|Izabela Babiarz et.al.|[2208.05377v1](http://arxiv.org/abs/2208.05377v1)|null|
 |**2022-08-10**|**On symmetric simplicial (super)string backgrounds, (super-)WZW defect fusion and the Chern-Simons theory**|Rafał R. Suszek et.al.|[2208.05312v1](http://arxiv.org/abs/2208.05312v1)|null|
-|**2022-08-10**|**Multi-scale Feature Aggregation for Crowd Counting**|Xiaoheng Jiang et.al.|[2208.05256v1](http://arxiv.org/abs/2208.05256v1)|null|
+|**2022-08-11**|**Multi-scale Feature Aggregation for Crowd Counting**|Xiaoheng Jiang et.al.|[2208.05256v2](http://arxiv.org/abs/2208.05256v2)|null|
 |**2022-08-10**|**Inaccuracy rates for distributed inference over random networks with applications to social learning**|Dragana Bajovic et.al.|[2208.05236v1](http://arxiv.org/abs/2208.05236v1)|null|
 |**2022-08-10**|**Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer**|Zhipeng Luo et.al.|[2208.05216v1](http://arxiv.org/abs/2208.05216v1)|**[link](https://github.com/jasonkks/pttr)**|
 |**2022-08-09**|**Simultaneous measurements of unstable and stable Alfvén Eigenmodes in JET**|R. A. Tinguely et.al.|[2208.05052v1](http://arxiv.org/abs/2208.05052v1)|null|
