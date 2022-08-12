@@ -12,7 +12,7 @@ layout: default
 |**2022-08-11**|**PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees**|Jun-Kun Chen et.al.|[2208.05962v1](http://arxiv.org/abs/2208.05962v1)|**[link](https://github.com/immortalco/pointtree)**|
 |**2022-08-11**|**Partition Pooling for Convolutional Graph Network Applications in Particle Physics**|M. Bachlechner et.al.|[2208.05952v1](http://arxiv.org/abs/2208.05952v1)|null|
 |**2022-08-11**|**Heatmap Regression for Lesion Detection using Pointwise Annotations**|Chelsea Myers-Colet et.al.|[2208.05939v1](http://arxiv.org/abs/2208.05939v1)|**[link](https://github.com/chelseam-c/miccai2022-heatmap-lesion-detection)**|
-|**2022-08-11**|**When does an impacting drop stop bouncing?**|Vatsal Sanjay et.al.|[2208.05935v1](http://arxiv.org/abs/2208.05935v1)|null|
+|**2022-08-11**|**When does an impacting drop stop bouncing?**|Vatsal Sanjay et.al.|[2208.05935v1](http://arxiv.org/abs/2208.05935v1)|**[link](https://github.com/VatsalSy/When-does-a-drop-stop-bouncing)**|
 |**2022-08-11**|**Critical slowing down of fermions near a magnetic quantum phase transition**|Chia-Jung Yang et.al.|[2208.05932v1](http://arxiv.org/abs/2208.05932v1)|null|
 |**2022-08-11**|**Rotating Spacetime Modulation: Topological Phases and Spacetime Haldane Model**|João C. Serra et.al.|[2208.05913v1](http://arxiv.org/abs/2208.05913v1)|null|
 |**2022-08-11**|**Optimal Transport Features for Morphometric Population Analysis**|Samuel Gerber et.al.|[2208.05891v1](http://arxiv.org/abs/2208.05891v1)|**[link](https://github.com/kitwaremedical/utm)**|
