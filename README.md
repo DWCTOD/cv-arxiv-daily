@@ -1,4 +1,4 @@
-## Updated on 2022.08.13
+## Updated on 2022.08.14
 
 ## Video_Classification
 
@@ -474,7 +474,7 @@
 |**2022-08-10**|**Exploiting Hierarchical Dependence Structures for Unsupervised Rank Fusion in Information Retrieval**|J. Hermosillo-Valadez et.al.|[2208.05574v1](http://arxiv.org/abs/2208.05574v1)|null|
 |**2022-08-10**|**What's on your mind? A Mental and Perceptual Load Estimation Framework towards Adaptive In-vehicle Interaction while Driving**|Amr Gomaa et.al.|[2208.05564v1](http://arxiv.org/abs/2208.05564v1)|null|
 |**2022-08-10**|**Heterogeneity assessment in causal data fusion problems**|Tat-Thang Vo et.al.|[2208.05543v1](http://arxiv.org/abs/2208.05543v1)|null|
-|**2022-08-10**|**Kinematic Hopf algebra for amplitudes and form factors**|Gang Chen et.al.|[2208.05519v1](http://arxiv.org/abs/2208.05519v1)|null|
+|**2022-08-10**|**Kinematic Hopf algebra for amplitudes and form factors**|Gang Chen et.al.|[2208.05519v1](http://arxiv.org/abs/2208.05519v1)|**[link](https://github.com/amplitudegravity/kinematichopfalgebra)**|
 |**2022-08-10**|**Asymptotic density of states in 2d CFTs with non-invertible symmetries**|Ying-Hsuan Lin et.al.|[2208.05495v1](http://arxiv.org/abs/2208.05495v1)|null|
 |**2022-08-10**|**Double Higgs production at TeV $e^+e^-$ colliders with Effective Field Theories: sensitivity to BSM Higgs couplings**|D. Domenech et.al.|[2208.05452v1](http://arxiv.org/abs/2208.05452v1)|null|
 |**2022-08-10**|**CLARION2-TRINITY: a Compton-suppressed HPGe and GAGG:Ce-Si-Si array for absolute cross-section measurements with heavy ions**|T. J. Gray et.al.|[2208.05449v1](http://arxiv.org/abs/2208.05449v1)|null|
