@@ -1,13 +1,13 @@
-> Updated on 2022.08.15
+> Updated on 2022.08.16
 
 ## Video_Classification
 
 - 2022-08-12, **BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers**, Zhiliang Peng et.al., Paper: [http://arxiv.org/abs/2208.06366v1](http://arxiv.org/abs/2208.06366v1)
 - 2022-08-12, **Classification of Leavitt Path Algebras with Gelfand-Kirillov Dimension <4 up to Morita Equivalence**, Ayten Koç et.al., Paper: [http://arxiv.org/abs/2208.06357v1](http://arxiv.org/abs/2208.06357v1)
 - 2022-08-12, **RealityTalk: Real-Time Speech-Driven Augmented Presentation for AR Live Storytelling**, Jian Liao et.al., Paper: [http://arxiv.org/abs/2208.06350v1](http://arxiv.org/abs/2208.06350v1)
-- 2022-08-12, **Voxels Intersecting along Orthogonal Levels Attention U-Net (viola-Unet) to Segment Intracerebral Haemorrhage Using Computed Tomography Head Scans**, Qinghui Liu et.al., Paper: [http://arxiv.org/abs/2208.06313v1](http://arxiv.org/abs/2208.06313v1)
+- 2022-08-12, **Voxels Intersecting along Orthogonal Levels Attention U-Net (viola-Unet) to Segment Intracerebral Haemorrhage Using Computed Tomography Head Scans**, Qinghui Liu et.al., Paper: [http://arxiv.org/abs/2208.06313v1](http://arxiv.org/abs/2208.06313v1), Code: **[https://github.com/samleoqh/viola-unet](https://github.com/samleoqh/viola-unet)**
 - 2022-08-12, **Classification of multistationarity for mass action networks with one-dimensional stoichiometric subspace**, Casian Pantea et.al., Paper: [http://arxiv.org/abs/2208.06310v1](http://arxiv.org/abs/2208.06310v1)
-- 2022-08-12, **Triple-View Feature Learning for Medical Image Segmentation**, Ziyang Wang et.al., Paper: [http://arxiv.org/abs/2208.06303v1](http://arxiv.org/abs/2208.06303v1)
+- 2022-08-12, **Triple-View Feature Learning for Medical Image Segmentation**, Ziyang Wang et.al., Paper: [http://arxiv.org/abs/2208.06303v1](http://arxiv.org/abs/2208.06303v1), Code: **[https://github.com/HiLab-git/SSL4MIS](https://github.com/HiLab-git/SSL4MIS)**
 - 2022-08-12, **Scale-free Photo-realistic Adversarial Pattern Attack**, Xiangbo Gao et.al., Paper: [http://arxiv.org/abs/2208.06222v1](http://arxiv.org/abs/2208.06222v1)
 - 2022-08-12, **Symmetries and conservation laws of the one-dimensional shallow water magnetohydrodynamics equations in Lagrangian coordinates**, S. V. Meleshko et.al., Paper: [http://arxiv.org/abs/2208.06219v1](http://arxiv.org/abs/2208.06219v1)
 - 2022-08-12, **Is Your Model Sensitive? SPeDaC: A New Benchmark for Detecting and Classifying Sensitive Personal Data**, Gaia Gambarelli et.al., Paper: [http://arxiv.org/abs/2208.06216v1](http://arxiv.org/abs/2208.06216v1), Code: **[https://github.com/gaia-g/spedac-corpora](https://github.com/gaia-g/spedac-corpora)**
@@ -482,7 +482,7 @@
 - 2022-08-11, **Amplitudes, Hopf algebras and the colour-kinematics duality**, Andreas Brandhuber et.al., Paper: [http://arxiv.org/abs/2208.05886v1](http://arxiv.org/abs/2208.05886v1)
 - 2022-08-11, **Hybrid Transformer Network for Deepfake Detection**, Sohail Ahmed Khan et.al., Paper: [http://arxiv.org/abs/2208.05820v1](http://arxiv.org/abs/2208.05820v1)
 - 2022-08-10, **Exploiting Hierarchical Dependence Structures for Unsupervised Rank Fusion in Information Retrieval**, J. Hermosillo-Valadez et.al., Paper: [http://arxiv.org/abs/2208.05574v1](http://arxiv.org/abs/2208.05574v1)
-- 2022-08-10, **What's on your mind? A Mental and Perceptual Load Estimation Framework towards Adaptive In-vehicle Interaction while Driving**, Amr Gomaa et.al., Paper: [http://arxiv.org/abs/2208.05564v1](http://arxiv.org/abs/2208.05564v1)
+- 2022-08-10, **What's on your mind? A Mental and Perceptual Load Estimation Framework towards Adaptive In-vehicle Interaction while Driving**, Amr Gomaa et.al., Paper: [http://arxiv.org/abs/2208.05564v1](http://arxiv.org/abs/2208.05564v1), Code: **[https://github.com/amrgomaaelhady/mwl-pl-estimator](https://github.com/amrgomaaelhady/mwl-pl-estimator)**
 - 2022-08-10, **Heterogeneity assessment in causal data fusion problems**, Tat-Thang Vo et.al., Paper: [http://arxiv.org/abs/2208.05543v1](http://arxiv.org/abs/2208.05543v1)
 - 2022-08-10, **Kinematic Hopf algebra for amplitudes and form factors**, Gang Chen et.al., Paper: [http://arxiv.org/abs/2208.05519v1](http://arxiv.org/abs/2208.05519v1), Code: **[https://github.com/amplitudegravity/kinematichopfalgebra](https://github.com/amplitudegravity/kinematichopfalgebra)**
 - 2022-08-10, **Asymptotic density of states in 2d CFTs with non-invertible symmetries**, Ying-Hsuan Lin et.al., Paper: [http://arxiv.org/abs/2208.05495v1](http://arxiv.org/abs/2208.05495v1)
