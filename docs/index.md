@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-15**|**Codimension-2 defects and higher symmetries in (3+1)D topological phases**|Maissam Barkeshli et.al.|[2208.07367v1](http://arxiv.org/abs/2208.07367v1)|null|
+|**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
+|**2022-08-15**|**MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control**|Nolan Wagener et.al.|[2208.07363v1](http://arxiv.org/abs/2208.07363v1)|null|
+|**2022-08-15**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
+|**2022-08-15**|**Learn2Trust: A video and streamlit-based educational programme for AI-based medical image analysis targeted towards medical students**|Hanna Siebert et.al.|[2208.07314v1](http://arxiv.org/abs/2208.07314v1)|null|
+|**2022-08-15**|**Task Oriented Video Coding: A Survey**|Daniel Wood et.al.|[2208.07313v1](http://arxiv.org/abs/2208.07313v1)|null|
+|**2022-08-15**|**Antipodal two-weight rank metric codes**|Rakhi Pratihar et.al.|[2208.07295v1](http://arxiv.org/abs/2208.07295v1)|null|
+|**2022-08-15**|**Elderly Fall Detection Using CCTV Cameras under Partial Occlusion of the Subjects Body**|Sara Khalili et.al.|[2208.07291v1](http://arxiv.org/abs/2208.07291v1)|null|
+|**2022-08-15**|**Training-Time Attacks against k-Nearest Neighbors**|Ara Vartanian et.al.|[2208.07272v1](http://arxiv.org/abs/2208.07272v1)|null|
+|**2022-08-15**|**A Package for the Automated Classification of Images Containing Supernova Light Echoes**|A. Bhullar et.al.|[2208.07260v1](http://arxiv.org/abs/2208.07260v1)|null|
 |**2022-08-12**|**BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers**|Zhiliang Peng et.al.|[2208.06366v1](http://arxiv.org/abs/2208.06366v1)|null|
 |**2022-08-12**|**Classification of Leavitt Path Algebras with Gelfand-Kirillov Dimension <4 up to Morita Equivalence**|Ayten Koç et.al.|[2208.06357v1](http://arxiv.org/abs/2208.06357v1)|null|
 |**2022-08-12**|**RealityTalk: Real-Time Speech-Driven Augmented Presentation for AR Live Storytelling**|Jian Liao et.al.|[2208.06350v1](http://arxiv.org/abs/2208.06350v1)|null|
@@ -483,6 +493,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-15**|**A toy model for categorical charges**|Clement Delcamp et.al.|[2208.07361v1](http://arxiv.org/abs/2208.07361v1)|null|
+|**2022-08-15**|**Categorification of integral group rings extended by one dimension**|Andrew Schopieray et.al.|[2208.07319v1](http://arxiv.org/abs/2208.07319v1)|null|
+|**2022-08-15**|**Known mechanisms that increase nuclear fusion rates in the solid-state**|Florian Metzler et.al.|[2208.07245v1](http://arxiv.org/abs/2208.07245v1)|null|
+|**2022-08-15**|**HEFT: Homomorphically Encrypted Fusion of Biometric Templates**|Luke Sperling et.al.|[2208.07241v1](http://arxiv.org/abs/2208.07241v1)|null|
+|**2022-08-15**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
+|**2022-08-15**|**Green correspondence on centric Mackey functor over fusion systems**|Marco Praderio Bova et.al.|[2208.07125v1](http://arxiv.org/abs/2208.07125v1)|null|
+|**2022-08-15**|**Towards Spatio-Temporal Cross-Platform Graph Embedding Fusion for Urban Traffic Flow Prediction**|Mahan Tabatabaie et.al.|[2208.06947v1](http://arxiv.org/abs/2208.06947v1)|null|
+|**2022-08-14**|**Search for single production of vectorlike $B$-quarks at the LHC**|Jin-Zhong Han et.al.|[2208.06845v1](http://arxiv.org/abs/2208.06845v1)|null|
+|**2022-08-14**|**IPvSeeYou: Exploiting Leaked Identifiers in IPv6 for Street-Level Geolocation**|Erik Rye et.al.|[2208.06767v1](http://arxiv.org/abs/2208.06767v1)|null|
+|**2022-08-14**|**MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting**|Pengyu Chen et.al.|[2208.06761v1](http://arxiv.org/abs/2208.06761v1)|null|
 |**2022-08-12**|**dual unet:a novel siamese network for change detection with cascade differential fusion**|Kaixuan Jiang et.al.|[2208.06293v1](http://arxiv.org/abs/2208.06293v1)|null|
 |**2022-08-12**|**On Triality Defects in 2d CFT**|Da-Chuan Lu et.al.|[2208.06077v1](http://arxiv.org/abs/2208.06077v1)|null|
 |**2022-08-11**|**Non-invertible Symmetries and Higher Representation Theory I**|Thomas Bartsch et.al.|[2208.05993v1](http://arxiv.org/abs/2208.05993v1)|null|
