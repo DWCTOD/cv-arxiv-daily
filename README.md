@@ -1,4 +1,4 @@
-## Updated on 2022.08.16
+## Updated on 2022.08.17
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@
 |**2022-08-15**|**Antipodal two-weight rank metric codes**|Rakhi Pratihar et.al.|[2208.07295v1](http://arxiv.org/abs/2208.07295v1)|null|
 |**2022-08-15**|**Elderly Fall Detection Using CCTV Cameras under Partial Occlusion of the Subjects Body**|Sara Khalili et.al.|[2208.07291v1](http://arxiv.org/abs/2208.07291v1)|null|
 |**2022-08-15**|**Training-Time Attacks against k-Nearest Neighbors**|Ara Vartanian et.al.|[2208.07272v1](http://arxiv.org/abs/2208.07272v1)|null|
-|**2022-08-15**|**A Package for the Automated Classification of Images Containing Supernova Light Echoes**|A. Bhullar et.al.|[2208.07260v1](http://arxiv.org/abs/2208.07260v1)|null|
+|**2022-08-15**|**A Package for the Automated Classification of Images Containing Supernova Light Echoes**|A. Bhullar et.al.|[2208.07260v1](http://arxiv.org/abs/2208.07260v1)|**[link](https://github.com/lightechodetection/aled)**|
 |**2022-08-12**|**BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers**|Zhiliang Peng et.al.|[2208.06366v1](http://arxiv.org/abs/2208.06366v1)|null|
 |**2022-08-12**|**Classification of Leavitt Path Algebras with Gelfand-Kirillov Dimension <4 up to Morita Equivalence**|Ayten Koç et.al.|[2208.06357v1](http://arxiv.org/abs/2208.06357v1)|null|
 |**2022-08-12**|**RealityTalk: Real-Time Speech-Driven Augmented Presentation for AR Live Storytelling**|Jian Liao et.al.|[2208.06350v1](http://arxiv.org/abs/2208.06350v1)|null|
@@ -496,7 +496,7 @@
 |**2022-08-15**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
 |**2022-08-15**|**Green correspondence on centric Mackey functor over fusion systems**|Marco Praderio Bova et.al.|[2208.07125v1](http://arxiv.org/abs/2208.07125v1)|null|
 |**2022-08-15**|**Towards Spatio-Temporal Cross-Platform Graph Embedding Fusion for Urban Traffic Flow Prediction**|Mahan Tabatabaie et.al.|[2208.06947v1](http://arxiv.org/abs/2208.06947v1)|null|
-|**2022-08-14**|**Search for single production of vectorlike $B$-quarks at the LHC**|Jin-Zhong Han et.al.|[2208.06845v1](http://arxiv.org/abs/2208.06845v1)|null|
+|**2022-08-16**|**Search for single production of vectorlike $B$-quarks at the LHC**|Jin-Zhong Han et.al.|[2208.06845v2](http://arxiv.org/abs/2208.06845v2)|null|
 |**2022-08-14**|**IPvSeeYou: Exploiting Leaked Identifiers in IPv6 for Street-Level Geolocation**|Erik Rye et.al.|[2208.06767v1](http://arxiv.org/abs/2208.06767v1)|null|
 |**2022-08-14**|**MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting**|Pengyu Chen et.al.|[2208.06761v1](http://arxiv.org/abs/2208.06761v1)|null|
 |**2022-08-12**|**dual unet:a novel siamese network for change detection with cascade differential fusion**|Kaixuan Jiang et.al.|[2208.06293v1](http://arxiv.org/abs/2208.06293v1)|null|
