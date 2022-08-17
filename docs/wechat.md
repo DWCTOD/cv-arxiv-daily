@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-16, **BERTifying Sinhala -- A Comprehensive Analysis of Pre-trained Language Models for Sinhala Text Classification**, Vinura Dhananjaya et.al., Paper: [http://arxiv.org/abs/2208.07864v1](http://arxiv.org/abs/2208.07864v1)
+- 2022-08-16, **StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2208.07862v1](http://arxiv.org/abs/2208.07862v1), Code: **[https://github.com/arthur-qiu/stylefacev](https://github.com/arthur-qiu/stylefacev)**
+- 2022-08-16, **Diagnosis of COVID-19 disease using CT scan images and pre-trained models**, Faezeh Amouzegar et.al., Paper: [http://arxiv.org/abs/2208.07829v1](http://arxiv.org/abs/2208.07829v1)
+- 2022-08-16, **Learning Facial Liveness Representation for Domain Generalized Face Anti-spoofing**, Zih-Ching Chen et.al., Paper: [http://arxiv.org/abs/2208.07828v1](http://arxiv.org/abs/2208.07828v1)
+- 2022-08-16, **The JCMT Transient Survey: Single Epoch Transients and Variability of Faint Sources**, Doug Johnstone et.al., Paper: [http://arxiv.org/abs/2208.07815v1](http://arxiv.org/abs/2208.07815v1)
+- 2022-08-16, **SIERRA: A Modular Framework for Research Automation and Reproducibility**, John Harwell et.al., Paper: [http://arxiv.org/abs/2208.07805v1](http://arxiv.org/abs/2208.07805v1)
+- 2022-08-16, **Counterfactual Supervision-based Information Bottleneck for Out-of-Distribution Generalization**, Bin Deng et.al., Paper: [http://arxiv.org/abs/2208.07798v1](http://arxiv.org/abs/2208.07798v1), Code: **[https://github.com/szubing/csib](https://github.com/szubing/csib)**
+- 2022-08-16, **Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model**, Xiulong Yang et.al., Paper: [http://arxiv.org/abs/2208.07791v1](http://arxiv.org/abs/2208.07791v1)
+- 2022-08-16, **Unsupervised Domain Adaptation for Segmentation with Black-box Source Model**, Xiaofeng Liu et.al., Paper: [http://arxiv.org/abs/2208.07769v1](http://arxiv.org/abs/2208.07769v1)
+- 2022-08-16, **Subtype-Aware Dynamic Unsupervised Domain Adaptation**, Xiaofeng Liu et.al., Paper: [http://arxiv.org/abs/2208.07754v1](http://arxiv.org/abs/2208.07754v1)
 - 2022-08-15, **Codimension-2 defects and higher symmetries in (3+1)D topological phases**, Maissam Barkeshli et.al., Paper: [http://arxiv.org/abs/2208.07367v1](http://arxiv.org/abs/2208.07367v1)
 - 2022-08-15, **Unsupervised Video Domain Adaptation: A Disentanglement Perspective**, Pengfei Wei et.al., Paper: [http://arxiv.org/abs/2208.07365v1](http://arxiv.org/abs/2208.07365v1), Code: **[https://github.com/ldkong1205/transvae](https://github.com/ldkong1205/transvae)**
 - 2022-08-15, **MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control**, Nolan Wagener et.al., Paper: [http://arxiv.org/abs/2208.07363v1](http://arxiv.org/abs/2208.07363v1)
@@ -485,6 +495,13 @@
 
 ## MultiModal
 
+- 2022-08-16, **M2HF: Multi-level Multi-modal Hybrid Fusion for Text-Video Retrieval**, Shuo Liu et.al., Paper: [http://arxiv.org/abs/2208.07664v1](http://arxiv.org/abs/2208.07664v1)
+- 2022-08-16, **Multi-Point Integrated Sensing and Communication: Fusion Model and Functionality Selection**, Guoliang Li et.al., Paper: [http://arxiv.org/abs/2208.07592v1](http://arxiv.org/abs/2208.07592v1)
+- 2022-08-16, **Branes and Non-Invertible Symmetries**, Iñaki García Etxebarria et.al., Paper: [http://arxiv.org/abs/2208.07508v1](http://arxiv.org/abs/2208.07508v1)
+- 2022-08-15, **Non-Linear Ablative Rayleigh-Taylor Instability: Increased Growth due to Self-Generated Magnetic Fields**, C. A. Walsh et.al., Paper: [http://arxiv.org/abs/2208.07470v1](http://arxiv.org/abs/2208.07470v1)
+- 2022-08-15, **An Efficient Multi-Scale Fusion Network for 3D Organ at Risk (OAR) Segmentation**, Abhishek Srivastava et.al., Paper: [http://arxiv.org/abs/2208.07417v1](http://arxiv.org/abs/2208.07417v1)
+- 2022-08-15, **Non-Invertible Symmetries from Holography and Branes**, Fabio Apruzzi et.al., Paper: [http://arxiv.org/abs/2208.07373v1](http://arxiv.org/abs/2208.07373v1)
+- 2022-08-16, **SOLBP: Second-Order Loopy Belief Propagation for Inference in Uncertain Bayesian Networks**, Conrad D. Hougen et.al., Paper: [http://arxiv.org/abs/2208.07368v1](http://arxiv.org/abs/2208.07368v1)
 - 2022-08-15, **A toy model for categorical charges**, Clement Delcamp et.al., Paper: [http://arxiv.org/abs/2208.07361v1](http://arxiv.org/abs/2208.07361v1)
 - 2022-08-15, **Categorification of integral group rings extended by one dimension**, Andrew Schopieray et.al., Paper: [http://arxiv.org/abs/2208.07319v1](http://arxiv.org/abs/2208.07319v1)
 - 2022-08-15, **Known mechanisms that increase nuclear fusion rates in the solid-state**, Florian Metzler et.al., Paper: [http://arxiv.org/abs/2208.07245v1](http://arxiv.org/abs/2208.07245v1)
