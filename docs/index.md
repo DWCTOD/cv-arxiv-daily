@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|**[link](https://github.com/malefikus/mocapdeform)**|
+|**2022-08-17**|**Learning to Structure an Image with Few Colors and Beyond**|Yunzhong Hou et.al.|[2208.08438v1](http://arxiv.org/abs/2208.08438v1)|null|
+|**2022-08-17**|**Extracting Medication Changes in Clinical Narratives using Pre-trained Language Models**|Giridhar Kaushik Ramachandran et.al.|[2208.08417v1](http://arxiv.org/abs/2208.08417v1)|null|
+|**2022-08-17**|**Deep Generative Views to Mitigate Gender Classification Bias Across Gender-Race Groups**|Sreeraj Ramachandran et.al.|[2208.08382v1](http://arxiv.org/abs/2208.08382v1)|null|
+|**2022-08-17**|**Global Speed-of-Sound Prediction Using Transmission Geometry**|Can Deniz Bezek et.al.|[2208.08377v1](http://arxiv.org/abs/2208.08377v1)|null|
+|**2022-08-17**|**Perceptive Locomotion through Nonlinear Model Predictive Control**|Ruben Grandia et.al.|[2208.08373v1](http://arxiv.org/abs/2208.08373v1)|null|
+|**2022-08-17**|**FCN-Transformer Feature Fusion for Polyp Segmentation**|Edward Sanderson et.al.|[2208.08352v1](http://arxiv.org/abs/2208.08352v1)|**[link](https://github.com/cvml-uclan/fcbformer)**|
+|**2022-08-17**|**Open Long-Tailed Recognition in a Dynamic World**|Ziwei Liu et.al.|[2208.08349v1](http://arxiv.org/abs/2208.08349v1)|null|
+|**2022-08-17**|**Semantic Communications with Discrete-time Analog Transmission: A PAPR Perspective**|Yulin Shao et.al.|[2208.08342v1](http://arxiv.org/abs/2208.08342v1)|null|
+|**2022-08-17**|**Leukocyte Classification using Multimodal Architecture Enhanced by Knowledge Distillation**|Litao Yang et.al.|[2208.08331v1](http://arxiv.org/abs/2208.08331v1)|null|
 |**2022-08-17**|**BERTifying Sinhala -- A Comprehensive Analysis of Pre-trained Language Models for Sinhala Text Classification**|Vinura Dhananjaya et.al.|[2208.07864v2](http://arxiv.org/abs/2208.07864v2)|null|
 |**2022-08-16**|**StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**|Haonan Qiu et.al.|[2208.07862v1](http://arxiv.org/abs/2208.07862v1)|**[link](https://github.com/arthur-qiu/stylefacev)**|
 |**2022-08-16**|**Diagnosis of COVID-19 disease using CT scan images and pre-trained models**|Faezeh Amouzegar et.al.|[2208.07829v1](http://arxiv.org/abs/2208.07829v1)|null|
@@ -503,6 +513,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-17**|**FCN-Transformer Feature Fusion for Polyp Segmentation**|Edward Sanderson et.al.|[2208.08352v1](http://arxiv.org/abs/2208.08352v1)|**[link](https://github.com/cvml-uclan/fcbformer)**|
+|**2022-08-17**|**Incremental 3D Scene Completion for Safe and Efficient Exploration Mapping and Planning**|Lukas Schmid et.al.|[2208.08307v1](http://arxiv.org/abs/2208.08307v1)|**[link](https://github.com/ethz-asl/ssc_exploration)**|
+|**2022-08-17**|**ParaColorizer: Realistic Image Colorization using Parallel Generative Networks**|Himanshu Kumar et.al.|[2208.08295v1](http://arxiv.org/abs/2208.08295v1)|null|
+|**2022-08-17**|**Two-Stage Robust and Sparse Distributed Statistical Inference for Large-Scale Data**|Emadaldin Mozafari-Majd et.al.|[2208.08230v1](http://arxiv.org/abs/2208.08230v1)|null|
+|**2022-08-17**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v1](http://arxiv.org/abs/2208.08224v1)|null|
+|**2022-08-17**|**Toroflux: A counterpart of the Chandrasekhar-Kendall state in noncentrosymmetric superconductors**|Julien Garaud et.al.|[2208.08180v1](http://arxiv.org/abs/2208.08180v1)|null|
+|**2022-08-17**|**Capturing network and dynamic effects in bike sharing system via fused Lasso**|Yunjin Choi et.al.|[2208.08150v1](http://arxiv.org/abs/2208.08150v1)|null|
+|**2022-08-17**|**Stereo Superpixel Segmentation Via Decoupled Dynamic Spatial-Embedding Fusion Network**|Hua Li et.al.|[2208.08145v1](http://arxiv.org/abs/2208.08145v1)|null|
+|**2022-08-17**|**Knowledge Graph Curation: A Practical Framework**|Elwin Huaman et.al.|[2208.08130v1](http://arxiv.org/abs/2208.08130v1)|null|
+|**2022-08-17**|**Boosting Distributed Training Performance of the Unpadded BERT Model**|Jinle Zeng et.al.|[2208.08124v1](http://arxiv.org/abs/2208.08124v1)|null|
 |**2022-08-16**|**M2HF: Multi-level Multi-modal Hybrid Fusion for Text-Video Retrieval**|Shuo Liu et.al.|[2208.07664v1](http://arxiv.org/abs/2208.07664v1)|null|
 |**2022-08-16**|**Multi-Point Integrated Sensing and Communication: Fusion Model and Functionality Selection**|Guoliang Li et.al.|[2208.07592v1](http://arxiv.org/abs/2208.07592v1)|null|
 |**2022-08-16**|**Branes and Non-Invertible Symmetries**|Iñaki García Etxebarria et.al.|[2208.07508v1](http://arxiv.org/abs/2208.07508v1)|null|
