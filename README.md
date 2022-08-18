@@ -1,10 +1,10 @@
-## Updated on 2022.08.17
+## Updated on 2022.08.18
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-16**|**BERTifying Sinhala -- A Comprehensive Analysis of Pre-trained Language Models for Sinhala Text Classification**|Vinura Dhananjaya et.al.|[2208.07864v1](http://arxiv.org/abs/2208.07864v1)|null|
+|**2022-08-17**|**BERTifying Sinhala -- A Comprehensive Analysis of Pre-trained Language Models for Sinhala Text Classification**|Vinura Dhananjaya et.al.|[2208.07864v2](http://arxiv.org/abs/2208.07864v2)|null|
 |**2022-08-16**|**StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3**|Haonan Qiu et.al.|[2208.07862v1](http://arxiv.org/abs/2208.07862v1)|**[link](https://github.com/arthur-qiu/stylefacev)**|
 |**2022-08-16**|**Diagnosis of COVID-19 disease using CT scan images and pre-trained models**|Faezeh Amouzegar et.al.|[2208.07829v1](http://arxiv.org/abs/2208.07829v1)|null|
 |**2022-08-16**|**Learning Facial Liveness Representation for Domain Generalized Face Anti-spoofing**|Zih-Ching Chen et.al.|[2208.07828v1](http://arxiv.org/abs/2208.07828v1)|null|
