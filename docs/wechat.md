@@ -1,4 +1,4 @@
-> Updated on 2022.08.18
+> Updated on 2022.08.19
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 - 2022-08-17, **Deep Generative Views to Mitigate Gender Classification Bias Across Gender-Race Groups**, Sreeraj Ramachandran et.al., Paper: [http://arxiv.org/abs/2208.08382v1](http://arxiv.org/abs/2208.08382v1)
 - 2022-08-17, **Global Speed-of-Sound Prediction Using Transmission Geometry**, Can Deniz Bezek et.al., Paper: [http://arxiv.org/abs/2208.08377v1](http://arxiv.org/abs/2208.08377v1)
 - 2022-08-17, **Perceptive Locomotion through Nonlinear Model Predictive Control**, Ruben Grandia et.al., Paper: [http://arxiv.org/abs/2208.08373v1](http://arxiv.org/abs/2208.08373v1)
-- 2022-08-17, **FCN-Transformer Feature Fusion for Polyp Segmentation**, Edward Sanderson et.al., Paper: [http://arxiv.org/abs/2208.08352v1](http://arxiv.org/abs/2208.08352v1), Code: **[https://github.com/cvml-uclan/fcbformer](https://github.com/cvml-uclan/fcbformer)**
+- 2022-08-17, **FCN-Transformer Feature Fusion for Polyp Segmentation**, Edward Sanderson et.al., Paper: [http://arxiv.org/abs/2208.08352v1](http://arxiv.org/abs/2208.08352v1), Code: **[https://github.com/ESandML/FCBFormer](https://github.com/ESandML/FCBFormer)**
 - 2022-08-17, **Open Long-Tailed Recognition in a Dynamic World**, Ziwei Liu et.al., Paper: [http://arxiv.org/abs/2208.08349v1](http://arxiv.org/abs/2208.08349v1)
 - 2022-08-17, **Semantic Communications with Discrete-time Analog Transmission: A PAPR Perspective**, Yulin Shao et.al., Paper: [http://arxiv.org/abs/2208.08342v1](http://arxiv.org/abs/2208.08342v1)
 - 2022-08-17, **Leukocyte Classification using Multimodal Architecture Enhanced by Knowledge Distillation**, Litao Yang et.al., Paper: [http://arxiv.org/abs/2208.08331v1](http://arxiv.org/abs/2208.08331v1)
@@ -505,7 +505,7 @@
 
 ## MultiModal
 
-- 2022-08-17, **FCN-Transformer Feature Fusion for Polyp Segmentation**, Edward Sanderson et.al., Paper: [http://arxiv.org/abs/2208.08352v1](http://arxiv.org/abs/2208.08352v1), Code: **[https://github.com/cvml-uclan/fcbformer](https://github.com/cvml-uclan/fcbformer)**
+- 2022-08-17, **FCN-Transformer Feature Fusion for Polyp Segmentation**, Edward Sanderson et.al., Paper: [http://arxiv.org/abs/2208.08352v1](http://arxiv.org/abs/2208.08352v1), Code: **[https://github.com/ESandML/FCBFormer](https://github.com/ESandML/FCBFormer)**
 - 2022-08-17, **Incremental 3D Scene Completion for Safe and Efficient Exploration Mapping and Planning**, Lukas Schmid et.al., Paper: [http://arxiv.org/abs/2208.08307v1](http://arxiv.org/abs/2208.08307v1), Code: **[https://github.com/ethz-asl/ssc_exploration](https://github.com/ethz-asl/ssc_exploration)**
 - 2022-08-17, **ParaColorizer: Realistic Image Colorization using Parallel Generative Networks**, Himanshu Kumar et.al., Paper: [http://arxiv.org/abs/2208.08295v1](http://arxiv.org/abs/2208.08295v1)
 - 2022-08-17, **Two-Stage Robust and Sparse Distributed Statistical Inference for Large-Scale Data**, Emadaldin Mozafari-Majd et.al., Paper: [http://arxiv.org/abs/2208.08230v1](http://arxiv.org/abs/2208.08230v1)
