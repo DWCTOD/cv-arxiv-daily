@@ -2,7 +2,7 @@
 
 ## Video_Classification
 
-- 2022-08-18, **Visualizations for Bayesian Additive Regression Trees**, Alan Inglis et.al., Paper: [http://arxiv.org/abs/2208.08966v1](http://arxiv.org/abs/2208.08966v1)
+- 2022-08-18, **Visualizations for Bayesian Additive Regression Trees**, Alan Inglis et.al., Paper: [http://arxiv.org/abs/2208.08966v1](http://arxiv.org/abs/2208.08966v1), Code: **[https://github.com/alaninglis/bartman](https://github.com/alaninglis/bartman)**
 - 2022-08-18, **Sequence Prediction Under Missing Data : An RNN Approach Without Imputation**, Soumen Pachal et.al., Paper: [http://arxiv.org/abs/2208.08933v1](http://arxiv.org/abs/2208.08933v1)
 - 2022-08-18, **Multi-modal imaging using a cascaded microscope design**, Xi Yang et.al., Paper: [http://arxiv.org/abs/2208.08875v1](http://arxiv.org/abs/2208.08875v1)
 - 2022-08-18, **Outlier Detection using Self-Organizing Maps for Automated Blood Cell Analysis**, Stefan Röhrl et.al., Paper: [http://arxiv.org/abs/2208.08834v1](http://arxiv.org/abs/2208.08834v1)
