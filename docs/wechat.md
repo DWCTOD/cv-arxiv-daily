@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-19, **Temporal View Synthesis of Dynamic Scenes through 3D Object Motion Estimation with Multi-Plane Images**, Nagabhushan Somraj et.al., Paper: [http://arxiv.org/abs/2208.09463v1](http://arxiv.org/abs/2208.09463v1)
+- 2022-08-19, **A Novel Plug-and-Play Approach for Adversarially Robust Generalization**, Deepak Maurya et.al., Paper: [http://arxiv.org/abs/2208.09449v1](http://arxiv.org/abs/2208.09449v1)
+- 2022-08-19, **Hierarchical Compositional Representations for Few-shot Action Recognition**, Changzhen Li et.al., Paper: [http://arxiv.org/abs/2208.09424v1](http://arxiv.org/abs/2208.09424v1)
+- 2022-08-19, **SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability**, Wei Huang et.al., Paper: [http://arxiv.org/abs/2208.09418v1](http://arxiv.org/abs/2208.09418v1)
+- 2022-08-19, **Aspect-based Sentiment Classification with Sequential Cross-modal Semantic Graph**, Yufeng Huang et.al., Paper: [http://arxiv.org/abs/2208.09417v1](http://arxiv.org/abs/2208.09417v1)
+- 2022-08-19, **Kernel Memory Networks: A Unifying Framework for Memory Modeling**, Georgios Iatropoulos et.al., Paper: [http://arxiv.org/abs/2208.09416v1](http://arxiv.org/abs/2208.09416v1)
+- 2022-08-19, **Wildfire Forecasting with Satellite Images and Deep Generative Model**, Thai-Nam Hoang et.al., Paper: [http://arxiv.org/abs/2208.09411v1](http://arxiv.org/abs/2208.09411v1)
+- 2022-08-19, **PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**, Mohammadreza Amirian et.al., Paper: [http://arxiv.org/abs/2208.09408v1](http://arxiv.org/abs/2208.09408v1)
+- 2022-08-19, **Learning in Stackelberg Games with Non-myopic Agents**, Nika Haghtalab et.al., Paper: [http://arxiv.org/abs/2208.09407v1](http://arxiv.org/abs/2208.09407v1)
+- 2022-08-19, **Nonlinear Optical Data Transformer for Machine Learning**, Mustafa Yildirim et.al., Paper: [http://arxiv.org/abs/2208.09398v1](http://arxiv.org/abs/2208.09398v1)
 - 2022-08-18, **Visualizations for Bayesian Additive Regression Trees**, Alan Inglis et.al., Paper: [http://arxiv.org/abs/2208.08966v1](http://arxiv.org/abs/2208.08966v1), Code: **[https://github.com/alaninglis/bartman](https://github.com/alaninglis/bartman)**
 - 2022-08-18, **Sequence Prediction Under Missing Data : An RNN Approach Without Imputation**, Soumen Pachal et.al., Paper: [http://arxiv.org/abs/2208.08933v1](http://arxiv.org/abs/2208.08933v1)
 - 2022-08-18, **Multi-modal imaging using a cascaded microscope design**, Xi Yang et.al., Paper: [http://arxiv.org/abs/2208.08875v1](http://arxiv.org/abs/2208.08875v1)
@@ -515,6 +525,16 @@
 
 ## MultiModal
 
+- 2022-08-19, **Curbing Task Interference using Representation Similarity-Guided Multi-Task Feature Sharing**, Naresh Kumar Gurulingan et.al., Paper: [http://arxiv.org/abs/2208.09427v1](http://arxiv.org/abs/2208.09427v1), Code: **[https://github.com/neurai-lab/progressivedecoderfusion](https://github.com/neurai-lab/progressivedecoderfusion)**
+- 2022-08-19, **Quartic Gauge-Higgs couplings: Constraints and Future Directions**, Anisha et.al., Paper: [http://arxiv.org/abs/2208.09334v1](http://arxiv.org/abs/2208.09334v1)
+- 2022-08-19, **Diagnose Like a Radiologist: Hybrid Neuro-Probabilistic Reasoning for Attribute-Based Medical Image Diagnosis**, Gangming Zhao et.al., Paper: [http://arxiv.org/abs/2208.09282v1](http://arxiv.org/abs/2208.09282v1)
+- 2022-08-19, **Wilson Operators, Non-Abelian Fusion Rules, and Loop Shrinking Rules of Borromean Rings Topological Order**, Zhi-Feng Zhang et.al., Paper: [http://arxiv.org/abs/2208.09228v1](http://arxiv.org/abs/2208.09228v1)
+- 2022-08-19, **EAA-Net: Rethinking the Autoencoder Architecture with Intra-class Features for Medical Image Segmentation**, Shiqiang Ma et.al., Paper: [http://arxiv.org/abs/2208.09197v1](http://arxiv.org/abs/2208.09197v1)
+- 2022-08-19, **Improved Image Classification with Token Fusion**, Keong Hun Choi et.al., Paper: [http://arxiv.org/abs/2208.09183v1](http://arxiv.org/abs/2208.09183v1)
+- 2022-08-19, **Consistent Bayesian Information Criterion Based on a Mixture Prior for Possibly High-Dimensional Multivariate Linear Regression Models**, Haruki Kono et.al., Paper: [http://arxiv.org/abs/2208.09157v1](http://arxiv.org/abs/2208.09157v1)
+- 2022-08-19, **Part-aware Prototypical Graph Network for One-shot Skeleton-based Action Recognition**, Tailin Chen et.al., Paper: [http://arxiv.org/abs/2208.09150v1](http://arxiv.org/abs/2208.09150v1)
+- 2022-08-18, **A Unified Algorithmic Framework for Distributed Adaptive Signal and Feature Fusion Problems -- Part II: Convergence Properties**, Cem Ates Musluoglu et.al., Paper: [http://arxiv.org/abs/2208.09088v1](http://arxiv.org/abs/2208.09088v1)
+- 2022-08-18, **Mouse Dynamics Behavioral Biometrics: A Survey**, Simon Khan et.al., Paper: [http://arxiv.org/abs/2208.09061v1](http://arxiv.org/abs/2208.09061v1)
 - 2022-08-18, **On the partition function of the $Sp(4)$ integrable vertex model**, G. A. P. Ribeiro et.al., Paper: [http://arxiv.org/abs/2208.08973v1](http://arxiv.org/abs/2208.08973v1)
 - 2022-08-17, **On the Observability of Gaussian Models using Discrete Density Approximations**, Ariane Hanebeck et.al., Paper: [http://arxiv.org/abs/2208.08870v1](http://arxiv.org/abs/2208.08870v1)
 - 2022-08-18, **A Unified Algorithmic Framework for Distributed Adaptive Signal and Feature Fusion Problems -- Part I: Algorithm Derivation**, Cem Ates Musluoglu et.al., Paper: [http://arxiv.org/abs/2208.08867v1](http://arxiv.org/abs/2208.08867v1), Code: **[https://github.com/AlexanderBertrandLab/DASF_toolbox](https://github.com/AlexanderBertrandLab/DASF_toolbox)**
