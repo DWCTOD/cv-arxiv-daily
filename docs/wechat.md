@@ -3,7 +3,7 @@
 ## Video_Classification
 
 - 2022-08-22, **Automated Pruning of Polyculture Plants**, Mark Presten et.al., Paper: [http://arxiv.org/abs/2208.10472v1](http://arxiv.org/abs/2208.10472v1)
-- 2022-08-22, **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et.al., Paper: [http://arxiv.org/abs/2208.10442v1](http://arxiv.org/abs/2208.10442v1)
+- 2022-08-22, **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et.al., Paper: [http://arxiv.org/abs/2208.10442v1](http://arxiv.org/abs/2208.10442v1), Code: **[https://github.com/microsoft/unilm/tree/master/beit](https://github.com/microsoft/unilm/tree/master/beit)**
 - 2022-08-22, **The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation**, Youngwoo Yoon et.al., Paper: [http://arxiv.org/abs/2208.10441v1](http://arxiv.org/abs/2208.10441v1), Code: **[https://github.com/teonikolov/genea_visualizer](https://github.com/teonikolov/genea_visualizer)**
 - 2022-08-22, **Experimental And Numerical Studies Of Interaction Between Liquid Droplets And Hot Surfaces Under Different Conditions**, Subhasish Guchhait et.al., Paper: [http://arxiv.org/abs/2208.10430v1](http://arxiv.org/abs/2208.10430v1)
 - 2022-08-22, **Patient-level Microsatellite Stability Assessment from Whole Slide Images By Combining Momentum Contrast Learning and Group Patch Embeddings**, Daniel Shats et.al., Paper: [http://arxiv.org/abs/2208.10429v1](http://arxiv.org/abs/2208.10429v1), Code: **[https://github.com/technioncomputationalmrilab/colorectal_cancer_ai](https://github.com/technioncomputationalmrilab/colorectal_cancer_ai)**
@@ -535,7 +535,7 @@
 
 ## MultiModal
 
-- 2022-08-22, **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et.al., Paper: [http://arxiv.org/abs/2208.10442v1](http://arxiv.org/abs/2208.10442v1)
+- 2022-08-22, **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et.al., Paper: [http://arxiv.org/abs/2208.10442v1](http://arxiv.org/abs/2208.10442v1), Code: **[https://github.com/microsoft/unilm/tree/master/beit](https://github.com/microsoft/unilm/tree/master/beit)**
 - 2022-08-22, **Probing compressed higgsinos with forward protons at the LHC**, Hang Zhou et.al., Paper: [http://arxiv.org/abs/2208.10406v1](http://arxiv.org/abs/2208.10406v1)
 - 2022-08-22, **High-quality Task Division for Large-scale Entity Alignment**, Bing Liu et.al., Paper: [http://arxiv.org/abs/2208.10366v1](http://arxiv.org/abs/2208.10366v1), Code: **[https://github.com/uqbingliu/divea](https://github.com/uqbingliu/divea)**
 - 2022-08-22, **Learning Branched Fusion and Orthogonal Projection for Face-Voice Association**, Muhammad Saad Saeed et.al., Paper: [http://arxiv.org/abs/2208.10238v1](http://arxiv.org/abs/2208.10238v1), Code: **[https://github.com/msaadsaeed/FOP](https://github.com/msaadsaeed/FOP)**
