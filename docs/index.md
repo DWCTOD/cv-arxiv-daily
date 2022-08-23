@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**Automated Pruning of Polyculture Plants**|Mark Presten et.al.|[2208.10472v1](http://arxiv.org/abs/2208.10472v1)|null|
+|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|null|
+|**2022-08-22**|**The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation**|Youngwoo Yoon et.al.|[2208.10441v1](http://arxiv.org/abs/2208.10441v1)|**[link](https://github.com/teonikolov/genea_visualizer)**|
+|**2022-08-22**|**Experimental And Numerical Studies Of Interaction Between Liquid Droplets And Hot Surfaces Under Different Conditions**|Subhasish Guchhait et.al.|[2208.10430v1](http://arxiv.org/abs/2208.10430v1)|null|
+|**2022-08-22**|**Patient-level Microsatellite Stability Assessment from Whole Slide Images By Combining Momentum Contrast Learning and Group Patch Embeddings**|Daniel Shats et.al.|[2208.10429v1](http://arxiv.org/abs/2208.10429v1)|**[link](https://github.com/technioncomputationalmrilab/colorectal_cancer_ai)**|
+|**2022-08-22**|**Equivariant Hypergraph Neural Networks**|Jinwoo Kim et.al.|[2208.10428v1](http://arxiv.org/abs/2208.10428v1)|**[link](https://github.com/jw9730/ehnn)**|
+|**2022-08-22**|**Symmetry Classification of Scalar $n$th Order Ordinary Differential Equations**|Said Waqas Shah et.al.|[2208.10395v1](http://arxiv.org/abs/2208.10395v1)|null|
+|**2022-08-22**|**Minimizing the Effect of Noise and Limited Dataset Size in Image Classification Using Depth Estimation as an Auxiliary Task with Deep Multitask Learning**|Khashayar Namdar et.al.|[2208.10390v1](http://arxiv.org/abs/2208.10390v1)|null|
+|**2022-08-22**|**Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism**|Yongwei Wang et.al.|[2208.10373v1](http://arxiv.org/abs/2208.10373v1)|null|
+|**2022-08-22**|**Repurposing Knowledge Graph Embeddings for Triple Representation via Weak Supervision**|Alexander Kalinowski et.al.|[2208.10328v1](http://arxiv.org/abs/2208.10328v1)|**[link](https://github.com/yur7nd/ptss)**|
 |**2022-08-19**|**Temporal View Synthesis of Dynamic Scenes through 3D Object Motion Estimation with Multi-Plane Images**|Nagabhushan Somraj et.al.|[2208.09463v1](http://arxiv.org/abs/2208.09463v1)|null|
 |**2022-08-19**|**A Novel Plug-and-Play Approach for Adversarially Robust Generalization**|Deepak Maurya et.al.|[2208.09449v1](http://arxiv.org/abs/2208.09449v1)|null|
 |**2022-08-19**|**Hierarchical Compositional Representations for Few-shot Action Recognition**|Changzhen Li et.al.|[2208.09424v1](http://arxiv.org/abs/2208.09424v1)|null|
@@ -533,6 +543,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|null|
+|**2022-08-22**|**Probing compressed higgsinos with forward protons at the LHC**|Hang Zhou et.al.|[2208.10406v1](http://arxiv.org/abs/2208.10406v1)|null|
+|**2022-08-22**|**High-quality Task Division for Large-scale Entity Alignment**|Bing Liu et.al.|[2208.10366v1](http://arxiv.org/abs/2208.10366v1)|**[link](https://github.com/uqbingliu/divea)**|
+|**2022-08-22**|**Learning Branched Fusion and Orthogonal Projection for Face-Voice Association**|Muhammad Saad Saeed et.al.|[2208.10238v1](http://arxiv.org/abs/2208.10238v1)|**[link](https://github.com/msaadsaeed/FOP)**|
+|**2022-08-22**|**Design and Analysis of a 170 GHz Antenna for Millimeter-wave Applications**|Sheetal Punia et.al.|[2208.10075v1](http://arxiv.org/abs/2208.10075v1)|null|
+|**2022-08-21**|**The plectic conjecture over local fields**|Siyan Daniel Li-Huerta et.al.|[2208.09962v1](http://arxiv.org/abs/2208.09962v1)|null|
+|**2022-08-21**|**A Graphical Model for Fusing Diverse Microbiome Data**|Mehmet Aktukmak et.al.|[2208.09934v1](http://arxiv.org/abs/2208.09934v1)|**[link](https://github.com/maktukmak/microbiome-thor)**|
+|**2022-08-21**|**Z-Code++: A Pre-trained Language Model Optimized for Abstractive Summarization**|Pengcheng He et.al.|[2208.09770v1](http://arxiv.org/abs/2208.09770v1)|null|
+|**2022-08-20**|**Quantum Field Theories, Topological Materials, and Topological Quantum Computing**|Muhammad Ilyas et.al.|[2208.09707v1](http://arxiv.org/abs/2208.09707v1)|null|
+|**2022-08-20**|**Fuse and Attend: Generalized Embedding Learning for Art and Sketches**|Ujjal Kr Dutta et.al.|[2208.09698v1](http://arxiv.org/abs/2208.09698v1)|null|
 |**2022-08-19**|**Curbing Task Interference using Representation Similarity-Guided Multi-Task Feature Sharing**|Naresh Kumar Gurulingan et.al.|[2208.09427v1](http://arxiv.org/abs/2208.09427v1)|**[link](https://github.com/neurai-lab/progressivedecoderfusion)**|
 |**2022-08-19**|**Quartic Gauge-Higgs couplings: Constraints and Future Directions**|Anisha et.al.|[2208.09334v1](http://arxiv.org/abs/2208.09334v1)|null|
 |**2022-08-19**|**Diagnose Like a Radiologist: Hybrid Neuro-Probabilistic Reasoning for Attribute-Based Medical Image Diagnosis**|Gangming Zhao et.al.|[2208.09282v1](http://arxiv.org/abs/2208.09282v1)|null|
