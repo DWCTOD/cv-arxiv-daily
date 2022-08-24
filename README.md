@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-23**|**Towards Open Set Video Anomaly Detection**|Yuansheng Zhu et.al.|[2208.11113v1](http://arxiv.org/abs/2208.11113v1)|null|
+|**2022-08-23**|**Efficient Attention-free Video Shift Transformers**|Adrian Bulat et.al.|[2208.11108v1](http://arxiv.org/abs/2208.11108v1)|null|
+|**2022-08-23**|**Realisation of the Brazil-nut effect in charged colloids without external driving**|Marjolein N. van der Linden et.al.|[2208.11102v1](http://arxiv.org/abs/2208.11102v1)|null|
+|**2022-08-23**|**Consistency Regularization for Domain Adaptation**|Kian Boon Koh et.al.|[2208.11084v1](http://arxiv.org/abs/2208.11084v1)|**[link](https://github.com/kw01sg/crda)**|
+|**2022-08-23**|**DepthFake: a depth-based strategy for detecting Deepfake videos**|Luca Maiano et.al.|[2208.11074v1](http://arxiv.org/abs/2208.11074v1)|null|
+|**2022-08-23**|**Point symmetries of the heat equation revisited**|Serhii D. Koval et.al.|[2208.11073v1](http://arxiv.org/abs/2208.11073v1)|null|
+|**2022-08-23**|**Neuroevolution-based Classifiers for Deforestation Detection in Tropical Forests**|Guilherme A. Pimenta et.al.|[2208.11058v1](http://arxiv.org/abs/2208.11058v1)|null|
+|**2022-08-23**|**Prompting as Probing: Using Language Models for Knowledge Base Construction**|Dimitrios Alivanistos et.al.|[2208.11057v1](http://arxiv.org/abs/2208.11057v1)|**[link](https://github.com/hemile/iswc-challenge)**|
+|**2022-08-23**|**Enhancement Encoding: A New Imbalanced Classification Approach via Encoding the Labels**|Jia-Chen Zhao et.al.|[2208.11056v1](http://arxiv.org/abs/2208.11056v1)|null|
+|**2022-08-23**|**IMPaSh: A Novel Domain-shift Resistant Representation for Colorectal Cancer Tissue Classification**|Trinh Thi Le Vuong et.al.|[2208.11052v1](http://arxiv.org/abs/2208.11052v1)|**[link](https://github.com/trinhvg/impash)**|
 |**2022-08-22**|**Automated Pruning of Polyculture Plants**|Mark Presten et.al.|[2208.10472v1](http://arxiv.org/abs/2208.10472v1)|null|
 |**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|**[link](https://github.com/microsoft/unilm/tree/master/beit)**|
 |**2022-08-22**|**The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation**|Youngwoo Yoon et.al.|[2208.10441v1](http://arxiv.org/abs/2208.10441v1)|**[link](https://github.com/teonikolov/genea_visualizer)**|
@@ -539,6 +549,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-23**|**DeepInteraction: 3D Object Detection via Modality Interaction**|Zeyu Yang et.al.|[2208.11112v1](http://arxiv.org/abs/2208.11112v1)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
+|**2022-08-23**|**Multi-Modal Representation Learning with SAT for Commodity Verification**|Chenchen Han et.al.|[2208.11064v1](http://arxiv.org/abs/2208.11064v1)|**[link](https://github.com/hanchenchen/ccks2022-track2-solution)**|
+|**2022-08-23**|**Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**|Bodong Zhou et.al.|[2208.11061v1](http://arxiv.org/abs/2208.11061v1)|null|
+|**2022-08-23**|**Fusion Frame Homotopy and Tightening Fusion Frames by Gradient Descent**|Tom Needham et.al.|[2208.11045v1](http://arxiv.org/abs/2208.11045v1)|null|
+|**2022-08-23**|**Low-Light Video Enhancement with Synthetic Event Guidance**|Lin Liu et.al.|[2208.11014v1](http://arxiv.org/abs/2208.11014v1)|null|
+|**2022-08-23**|**An Evolutionary Approach for Creating of Diverse Classifier Ensembles**|Alvaro R. Ferreira Jr et.al.|[2208.10996v1](http://arxiv.org/abs/2208.10996v1)|null|
+|**2022-08-23**|**Treatment Effect Estimation with Unmeasured Confounders in Data Fusion**|Anpeng Wu et.al.|[2208.10912v1](http://arxiv.org/abs/2208.10912v1)|null|
+|**2022-08-23**|**Scaling laws for electron kinetic effects in tokamak scrape-off layer plasmas**|Dominic Power et.al.|[2208.10862v1](http://arxiv.org/abs/2208.10862v1)|null|
+|**2022-08-23**|**Real-Time Sonar Fusion for Layered Navigation Controller**|Wouter Jansen et.al.|[2208.10834v1](http://arxiv.org/abs/2208.10834v1)|null|
+|**2022-08-23**|**Adaptive Acoustic Flow-Based Navigation with 3D Sonar Sensor Fusion**|Wouter Jansen et.al.|[2208.10823v1](http://arxiv.org/abs/2208.10823v1)|null|
 |**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|**[link](https://github.com/microsoft/unilm/tree/master/beit)**|
 |**2022-08-22**|**Probing compressed higgsinos with forward protons at the LHC**|Hang Zhou et.al.|[2208.10406v1](http://arxiv.org/abs/2208.10406v1)|null|
 |**2022-08-22**|**High-quality Task Division for Large-scale Entity Alignment**|Bing Liu et.al.|[2208.10366v1](http://arxiv.org/abs/2208.10366v1)|**[link](https://github.com/uqbingliu/divea)**|
