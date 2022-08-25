@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-24, **ForestEyes Project: Conception, Enhancements, and Challenges**, Fernanda B. J. R. Dallaqua et.al., Paper: [http://arxiv.org/abs/2208.11687v1](http://arxiv.org/abs/2208.11687v1)
+- 2022-08-24, **Towards Sparsified Federated Neuroimaging Models via Weight Pruning**, Dimitris Stripelis et.al., Paper: [http://arxiv.org/abs/2208.11669v1](http://arxiv.org/abs/2208.11669v1)
+- 2022-08-24, **Efficient Heterogeneous Video Segmentation at the Edge**, Jamie Menjay Lin et.al., Paper: [http://arxiv.org/abs/2208.11666v1](http://arxiv.org/abs/2208.11666v1)
+- 2022-08-24, **Discovering latent topology and geometry in data: a law of large dimension**, Nick Whiteley et.al., Paper: [http://arxiv.org/abs/2208.11665v1](http://arxiv.org/abs/2208.11665v1)
+- 2022-08-24, **Lane Change Classification and Prediction with Action Recognition Networks**, Kai Liang et.al., Paper: [http://arxiv.org/abs/2208.11650v1](http://arxiv.org/abs/2208.11650v1)
+- 2022-08-24, **2-adic images of CM isogeny-torsion graphs**, Garen Chiloyan et.al., Paper: [http://arxiv.org/abs/2208.11649v1](http://arxiv.org/abs/2208.11649v1)
+- 2022-08-24, **On a Built-in Conflict between Deep Learning and Systematic Generalization**, Yuanpeng Li et.al., Paper: [http://arxiv.org/abs/2208.11633v1](http://arxiv.org/abs/2208.11633v1), Code: **[https://github.com/yuanpeng16/bcdlsg](https://github.com/yuanpeng16/bcdlsg)**
+- 2022-08-24, **Generative Adversarial Network (GAN) based Image-Deblurring**, Yuhong Lu et.al., Paper: [http://arxiv.org/abs/2208.11622v1](http://arxiv.org/abs/2208.11622v1)
+- 2022-08-24, **Unrestricted Black-box Adversarial Attack Using GAN with Limited Queries**, Dongbin Na et.al., Paper: [http://arxiv.org/abs/2208.11613v1](http://arxiv.org/abs/2208.11613v1), Code: **[https://github.com/ndb796/latenthsja](https://github.com/ndb796/latenthsja)**
+- 2022-08-24, **Fast Nearest Convolution for Real-Time Efficient Image Super-Resolution**, Ziwei Luo et.al., Paper: [http://arxiv.org/abs/2208.11609v1](http://arxiv.org/abs/2208.11609v1), Code: **[https://github.com/algolzw/ncnet](https://github.com/algolzw/ncnet)**
 - 2022-08-23, **Towards Open Set Video Anomaly Detection**, Yuansheng Zhu et.al., Paper: [http://arxiv.org/abs/2208.11113v1](http://arxiv.org/abs/2208.11113v1)
 - 2022-08-23, **Efficient Attention-free Video Shift Transformers**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2208.11108v1](http://arxiv.org/abs/2208.11108v1)
 - 2022-08-23, **Realisation of the Brazil-nut effect in charged colloids without external driving**, Marjolein N. van der Linden et.al., Paper: [http://arxiv.org/abs/2208.11102v1](http://arxiv.org/abs/2208.11102v1)
@@ -545,6 +555,15 @@
 
 ## MultiModal
 
+- 2022-08-24, **Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model**, Yixiao Zhang et.al., Paper: [http://arxiv.org/abs/2208.11671v1](http://arxiv.org/abs/2208.11671v1), Code: **[https://github.com/ldzhangyx/bart-fusion](https://github.com/ldzhangyx/bart-fusion)**
+- 2022-08-24, **Production of $e^{+} e^{-}$ in proton-lead collision: photon-photon fusion**, Barbara Linek et.al., Paper: [http://arxiv.org/abs/2208.11621v1](http://arxiv.org/abs/2208.11621v1)
+- 2022-08-24, **Active Gaze Control for Foveal Scene Exploration**, Alexandre M. F. Dias et.al., Paper: [http://arxiv.org/abs/2208.11594v1](http://arxiv.org/abs/2208.11594v1)
+- 2022-08-24, **Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Insufficient Labelled Data**, Puneet Kumar et.al., Paper: [http://arxiv.org/abs/2208.11450v1](http://arxiv.org/abs/2208.11450v1)
+- 2022-08-24, **Deep Hyperspectral and Multispectral Image Fusion with Inter-image Variability**, Xiuheng Wang et.al., Paper: [http://arxiv.org/abs/2208.11376v1](http://arxiv.org/abs/2208.11376v1)
+- 2022-08-24, **Research on Mask Wearing Detection of Natural Population Based on Improved YOLOv4**, Xuecheng Wu et.al., Paper: [http://arxiv.org/abs/2208.11353v1](http://arxiv.org/abs/2208.11353v1)
+- 2022-08-24, **Revisiting Code Search in a Two-Stage Paradigm**, Fan Hu et.al., Paper: [http://arxiv.org/abs/2208.11274v1](http://arxiv.org/abs/2208.11274v1)
+- 2022-08-24, **Long Code for Code Search**, Fan Hu et.al., Paper: [http://arxiv.org/abs/2208.11271v1](http://arxiv.org/abs/2208.11271v1)
+- 2022-08-23, **Autonomous Driving Vehicles Using Adaptive Learning Method for Data Fusion**, Farhad Aghili et.al., Paper: [http://arxiv.org/abs/2208.11229v1](http://arxiv.org/abs/2208.11229v1)
 - 2022-08-24, **DeepInteraction: 3D Object Detection via Modality Interaction**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2208.11112v2](http://arxiv.org/abs/2208.11112v2), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
 - 2022-08-24, **Multi-Modal Representation Learning with Self-Adaptive Thresholds for Commodity Verification**, Chenchen Han et.al., Paper: [http://arxiv.org/abs/2208.11064v2](http://arxiv.org/abs/2208.11064v2), Code: **[https://github.com/hanchenchen/ccks2022-track2-solution](https://github.com/hanchenchen/ccks2022-track2-solution)**
 - 2022-08-23, **Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**, Bodong Zhou et.al., Paper: [http://arxiv.org/abs/2208.11061v1](http://arxiv.org/abs/2208.11061v1)
