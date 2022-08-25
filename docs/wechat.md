@@ -1,4 +1,4 @@
-> Updated on 2022.08.24
+> Updated on 2022.08.25
 
 ## Video_Classification
 
@@ -545,8 +545,8 @@
 
 ## MultiModal
 
-- 2022-08-23, **DeepInteraction: 3D Object Detection via Modality Interaction**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2208.11112v1](http://arxiv.org/abs/2208.11112v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
-- 2022-08-23, **Multi-Modal Representation Learning with SAT for Commodity Verification**, Chenchen Han et.al., Paper: [http://arxiv.org/abs/2208.11064v1](http://arxiv.org/abs/2208.11064v1), Code: **[https://github.com/hanchenchen/ccks2022-track2-solution](https://github.com/hanchenchen/ccks2022-track2-solution)**
+- 2022-08-24, **DeepInteraction: 3D Object Detection via Modality Interaction**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2208.11112v2](http://arxiv.org/abs/2208.11112v2), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
+- 2022-08-24, **Multi-Modal Representation Learning with Self-Adaptive Thresholds for Commodity Verification**, Chenchen Han et.al., Paper: [http://arxiv.org/abs/2208.11064v2](http://arxiv.org/abs/2208.11064v2), Code: **[https://github.com/hanchenchen/ccks2022-track2-solution](https://github.com/hanchenchen/ccks2022-track2-solution)**
 - 2022-08-23, **Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**, Bodong Zhou et.al., Paper: [http://arxiv.org/abs/2208.11061v1](http://arxiv.org/abs/2208.11061v1)
 - 2022-08-23, **Fusion Frame Homotopy and Tightening Fusion Frames by Gradient Descent**, Tom Needham et.al., Paper: [http://arxiv.org/abs/2208.11045v1](http://arxiv.org/abs/2208.11045v1)
 - 2022-08-23, **Low-Light Video Enhancement with Synthetic Event Guidance**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2208.11014v1](http://arxiv.org/abs/2208.11014v1)
