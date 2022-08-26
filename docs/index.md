@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-25**|**Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding**|Guocheng Qian et.al.|[2208.12259v1](http://arxiv.org/abs/2208.12259v1)|**[link](https://github.com/guochengqian/pix4point)**|
+|**2022-08-25**|**Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling**|Rui Wang et.al.|[2208.12257v1](http://arxiv.org/abs/2208.12257v1)|null|
+|**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
+|**2022-08-25**|**Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands**|Dylan Turpin et.al.|[2208.12250v1](http://arxiv.org/abs/2208.12250v1)|null|
+|**2022-08-25**|**Supervised Contrastive Learning for Affect Modelling**|Kosmas Pinitas et.al.|[2208.12238v1](http://arxiv.org/abs/2208.12238v1)|**[link](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**|
+|**2022-08-25**|**Skin Lesion Analysis: A State-of-the-Art Survey, Systematic Review, and Future Trends**|Md. Kamrul Hasan et.al.|[2208.12232v1](http://arxiv.org/abs/2208.12232v1)|null|
+|**2022-08-25**|**Contrastive Audio-Language Learning for Music**|Ilaria Manco et.al.|[2208.12208v1](http://arxiv.org/abs/2208.12208v1)|**[link](https://github.com/ilaria-manco/muscall)**|
+|**2022-08-25**|**3D Super-Resolution Ultrasound with Adaptive Weight-Based Beamforming**|Jipeng Yan et.al.|[2208.12176v1](http://arxiv.org/abs/2208.12176v1)|null|
+|**2022-08-25**|**Clustering Egocentric Images in Passive Dietary Monitoring with Self-Supervised Learning**|Jiachuan Peng et.al.|[2208.12160v1](http://arxiv.org/abs/2208.12160v1)|null|
+|**2022-08-25**|**Multi-Scale Multi-Target Domain Adaptation for Angle Closure Classification**|Zhen Qiu et.al.|[2208.12157v1](http://arxiv.org/abs/2208.12157v1)|null|
 |**2022-08-24**|**ForestEyes Project: Conception, Enhancements, and Challenges**|Fernanda B. J. R. Dallaqua et.al.|[2208.11687v1](http://arxiv.org/abs/2208.11687v1)|null|
 |**2022-08-24**|**Towards Sparsified Federated Neuroimaging Models via Weight Pruning**|Dimitris Stripelis et.al.|[2208.11669v1](http://arxiv.org/abs/2208.11669v1)|null|
 |**2022-08-24**|**Efficient Heterogeneous Video Segmentation at the Edge**|Jamie Menjay Lin et.al.|[2208.11666v1](http://arxiv.org/abs/2208.11666v1)|null|
@@ -563,6 +573,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-25**|**Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection**|Taohua Zhou et.al.|[2208.12079v1](http://arxiv.org/abs/2208.12079v1)|null|
+|**2022-08-25**|**Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter Cameras**|Xiaolei Lang et.al.|[2208.12008v1](http://arxiv.org/abs/2208.12008v1)|**[link](https://github.com/april-zju/ctrl-vio)**|
+|**2022-08-25**|**FusePose: IMU-Vision Sensor Fusion in Kinematic Space for Parametric Human Pose Estimation**|Yiming Bao et.al.|[2208.11960v1](http://arxiv.org/abs/2208.11960v1)|null|
+|**2022-08-25**|**Cross-Modality Gated Attention Fusion for Multimodal Sentiment Analysis**|Ming Jiang et.al.|[2208.11893v1](http://arxiv.org/abs/2208.11893v1)|null|
+|**2022-08-25**|**Interpretable Multimodal Emotion Recognition using Hybrid Fusion of Speech and Image Data**|Puneet Kumar et.al.|[2208.11868v1](http://arxiv.org/abs/2208.11868v1)|**[link](https://github.com/mintelligence-group/speechimg_emorec)**|
+|**2022-08-24**|**Mastering Autonomous Assembly in Fusion Application with Learning-by-doing: a Peg-in-hole Study**|Ruochen Yin et.al.|[2208.11737v1](http://arxiv.org/abs/2208.11737v1)|null|
 |**2022-08-24**|**Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model**|Yixiao Zhang et.al.|[2208.11671v1](http://arxiv.org/abs/2208.11671v1)|**[link](https://github.com/ldzhangyx/bart-fusion)**|
 |**2022-08-24**|**Production of $e^{+} e^{-}$ in proton-lead collision: photon-photon fusion**|Barbara Linek et.al.|[2208.11621v1](http://arxiv.org/abs/2208.11621v1)|null|
 |**2022-08-24**|**Active Gaze Control for Foveal Scene Exploration**|Alexandre M. F. Dias et.al.|[2208.11594v1](http://arxiv.org/abs/2208.11594v1)|null|
