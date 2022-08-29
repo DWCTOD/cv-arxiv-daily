@@ -1,11 +1,11 @@
-> Updated on 2022.08.28
+> Updated on 2022.08.29
 
 ## Video_Classification
 
 - 2022-08-25, **Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2208.12259v1](http://arxiv.org/abs/2208.12259v1), Code: **[https://github.com/guochengqian/pix4point](https://github.com/guochengqian/pix4point)**
 - 2022-08-25, **Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling**, Rui Wang et.al., Paper: [http://arxiv.org/abs/2208.12257v1](http://arxiv.org/abs/2208.12257v1)
 - 2022-08-25, **A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**, Jianli Wei et.al., Paper: [http://arxiv.org/abs/2208.12251v1](http://arxiv.org/abs/2208.12251v1)
-- 2022-08-25, **Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands**, Dylan Turpin et.al., Paper: [http://arxiv.org/abs/2208.12250v1](http://arxiv.org/abs/2208.12250v1)
+- 2022-08-26, **Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands**, Dylan Turpin et.al., Paper: [http://arxiv.org/abs/2208.12250v2](http://arxiv.org/abs/2208.12250v2)
 - 2022-08-25, **Supervised Contrastive Learning for Affect Modelling**, Kosmas Pinitas et.al., Paper: [http://arxiv.org/abs/2208.12238v1](http://arxiv.org/abs/2208.12238v1), Code: **[https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**
 - 2022-08-25, **Skin Lesion Analysis: A State-of-the-Art Survey, Systematic Review, and Future Trends**, Md. Kamrul Hasan et.al., Paper: [http://arxiv.org/abs/2208.12232v1](http://arxiv.org/abs/2208.12232v1)
 - 2022-08-25, **Contrastive Audio-Language Learning for Music**, Ilaria Manco et.al., Paper: [http://arxiv.org/abs/2208.12208v1](http://arxiv.org/abs/2208.12208v1), Code: **[https://github.com/ilaria-manco/muscall](https://github.com/ilaria-manco/muscall)**
