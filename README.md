@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**VMFormer: End-to-End Video Matting with Transformer**|Jiachen Li et.al.|[2208.12801v1](http://arxiv.org/abs/2208.12801v1)|null|
+|**2022-08-26**|**Leveraging Synthetic Data to Learn Video Stabilization Under Adverse Conditions**|Abdulrahman Kerim et.al.|[2208.12763v1](http://arxiv.org/abs/2208.12763v1)|null|
+|**2022-08-26**|**On semibiproducts of magmas and semigroups**|Nelson Martins-Ferreira et.al.|[2208.12704v1](http://arxiv.org/abs/2208.12704v1)|null|
+|**2022-08-26**|**Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy**|Lucas Rosenblatt et.al.|[2208.12700v1](http://arxiv.org/abs/2208.12700v1)|null|
+|**2022-08-26**|**Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective**|Jiangmeng Li et.al.|[2208.12681v1](http://arxiv.org/abs/2208.12681v1)|null|
+|**2022-08-26**|**Multi tasks RetinaNet for mitosis detection**|Chen Yang et.al.|[2208.12657v1](http://arxiv.org/abs/2208.12657v1)|null|
+|**2022-08-26**|**From WSI-level to Patch-level: Structure Prior Guided Binuclear Cell Fine-grained Detection**|Baomin Wang et.al.|[2208.12623v1](http://arxiv.org/abs/2208.12623v1)|null|
+|**2022-08-26**|**SOFFLFM: Super-resolution optical fluctuation Fourier light-field microscopy**|Haixin Huang et.al.|[2208.12599v1](http://arxiv.org/abs/2208.12599v1)|null|
+|**2022-08-26**|**Veritas: Answering Causal Queries from Video Streaming Traces**|Chandan Bothra et.al.|[2208.12596v1](http://arxiv.org/abs/2208.12596v1)|null|
+|**2022-08-26**|**Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention**|Ruixiang Xue et.al.|[2208.12573v1](http://arxiv.org/abs/2208.12573v1)|null|
 |**2022-08-25**|**Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding**|Guocheng Qian et.al.|[2208.12259v1](http://arxiv.org/abs/2208.12259v1)|**[link](https://github.com/guochengqian/pix4point)**|
 |**2022-08-25**|**Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling**|Rui Wang et.al.|[2208.12257v1](http://arxiv.org/abs/2208.12257v1)|null|
 |**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
@@ -569,6 +579,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**TFusion: Transformer based N-to-One Multimodal Fusion Block**|Zecheng Liu et.al.|[2208.12776v1](http://arxiv.org/abs/2208.12776v1)|null|
+|**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v1](http://arxiv.org/abs/2208.12653v1)|null|
+|**2022-08-26**|**MORI-RAN: Multi-view Robust Representation Learning via Hybrid Contrastive Fusion**|Guanzhou Ke et.al.|[2208.12545v1](http://arxiv.org/abs/2208.12545v1)|**[link](https://github.com/guanzhou-ke/mori-ran)**|
+|**2022-08-26**|**Measurements of the $^{27}{\rm Al}(α,n)$ Thick Target Yield Near Threshold**|K. Brandenburg et.al.|[2208.12405v1](http://arxiv.org/abs/2208.12405v1)|null|
+|**2022-08-25**|**Challenges and opportunities to assure future manufacturing of magnet conductors for the accelerator sector**|Lance Cooley et.al.|[2208.12379v1](http://arxiv.org/abs/2208.12379v1)|null|
+|**2022-08-25**|**Origin of nontopological soliton dark matter: solitosynthesis or phase transition**|Yang Bai et.al.|[2208.12290v1](http://arxiv.org/abs/2208.12290v1)|null|
 |**2022-08-25**|**Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection**|Taohua Zhou et.al.|[2208.12079v1](http://arxiv.org/abs/2208.12079v1)|null|
 |**2022-08-25**|**Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter Cameras**|Xiaolei Lang et.al.|[2208.12008v1](http://arxiv.org/abs/2208.12008v1)|**[link](https://github.com/april-zju/ctrl-vio)**|
 |**2022-08-25**|**FusePose: IMU-Vision Sensor Fusion in Kinematic Space for Parametric Human Pose Estimation**|Yiming Bao et.al.|[2208.11960v1](http://arxiv.org/abs/2208.11960v1)|null|
