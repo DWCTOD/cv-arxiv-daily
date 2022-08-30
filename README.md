@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-29**|**Temporal Label Smoothing for Early Prediction of Adverse Events**|Hugo Yèche et.al.|[2208.13764v1](http://arxiv.org/abs/2208.13764v1)|null|
+|**2022-08-29**|**Manifold diagrams and tame tangles**|Christoph Dorn et.al.|[2208.13758v1](http://arxiv.org/abs/2208.13758v1)|null|
+|**2022-08-29**|**Geometry of symmetric spaces of type EVI**|Victor A. Petrov et.al.|[2208.13730v1](http://arxiv.org/abs/2208.13730v1)|null|
+|**2022-08-29**|**StableFace: Analyzing and Improving Motion Stability for Talking Face Generation**|Jun Ling et.al.|[2208.13717v1](http://arxiv.org/abs/2208.13717v1)|null|
+|**2022-08-29**|**Using Speech to Reduce Loss of Trust in Humanoid Social Robots**|Amandus Krantz et.al.|[2208.13688v1](http://arxiv.org/abs/2208.13688v1)|null|
+|**2022-08-29**|**Deformable Image Registration using Unsupervised Deep Learning for CBCT-guided Abdominal Radiotherapy**|Huiqiao Xie et.al.|[2208.13686v1](http://arxiv.org/abs/2208.13686v1)|null|
+|**2022-08-29**|**Comprehensive study of good model training for prostate segmentation in volumetric MRI**|Carlos Nácher Collado et.al.|[2208.13671v1](http://arxiv.org/abs/2208.13671v1)|null|
+|**2022-08-29**|**Latent Heterogeneous Graph Network for Incomplete Multi-View Learning**|Pengfei Zhu et.al.|[2208.13669v1](http://arxiv.org/abs/2208.13669v1)|null|
+|**2022-08-29**|**Learning Binary and Sparse Permutation-Invariant Representations for Fast and Memory Efficient Whole Slide Image Search**|Sobhan Hemati et.al.|[2208.13653v1](http://arxiv.org/abs/2208.13653v1)|null|
+|**2022-08-29**|**Large-scale photonic natural language processing**|Carlo Michele Valensise et.al.|[2208.13649v1](http://arxiv.org/abs/2208.13649v1)|null|
 |**2022-08-26**|**VMFormer: End-to-End Video Matting with Transformer**|Jiachen Li et.al.|[2208.12801v1](http://arxiv.org/abs/2208.12801v1)|null|
 |**2022-08-26**|**Leveraging Synthetic Data to Learn Video Stabilization Under Adverse Conditions**|Abdulrahman Kerim et.al.|[2208.12763v1](http://arxiv.org/abs/2208.12763v1)|null|
 |**2022-08-26**|**On semibiproducts of magmas and semigroups**|Nelson Martins-Ferreira et.al.|[2208.12704v1](http://arxiv.org/abs/2208.12704v1)|null|
@@ -579,6 +589,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-29**|**A Missing Value Filling Model Based on Feature Fusion Enhanced Autoencoder**|Xinyao Liu et.al.|[2208.13495v1](http://arxiv.org/abs/2208.13495v1)|null|
+|**2022-08-29**|**Time-aware Self-Attention Meets Logic Reasoning in Recommender Systems**|Zhijian Luo et.al.|[2208.13330v1](http://arxiv.org/abs/2208.13330v1)|null|
+|**2022-08-28**|**Map Container: A Map-based Framework for Cooperative Perception**|Kun Jiang et.al.|[2208.13226v1](http://arxiv.org/abs/2208.13226v1)|null|
+|**2022-08-28**|**Detection of poloidal magnetic flux emission from a plasma focus -- First Experiments at Sofia University**|A B Blagoev et.al.|[2208.13211v1](http://arxiv.org/abs/2208.13211v1)|null|
+|**2022-08-28**|**Cloud and Microjet Mix: A Possible Source of Yield limitation of the National Ignition Facility Targets**|Gene H. MCall et.al.|[2208.13131v1](http://arxiv.org/abs/2208.13131v1)|null|
+|**2022-08-28**|**Explicit high-order symplectic integrators of coupled Schrodinger equations for pump-probe systems**|Xiaobao Jia et.al.|[2208.13120v1](http://arxiv.org/abs/2208.13120v1)|null|
+|**2022-08-27**|**Anti-Retroactive Interference for Lifelong Learning**|Runqi Wang et.al.|[2208.12967v1](http://arxiv.org/abs/2208.12967v1)|null|
+|**2022-08-26**|**Multi-Modality Cardiac Image Computing: A Survey**|Lei Li et.al.|[2208.12881v1](http://arxiv.org/abs/2208.12881v1)|null|
 |**2022-08-26**|**TFusion: Transformer based N-to-One Multimodal Fusion Block**|Zecheng Liu et.al.|[2208.12776v1](http://arxiv.org/abs/2208.12776v1)|null|
 |**2022-08-29**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v2](http://arxiv.org/abs/2208.12653v2)|null|
 |**2022-08-26**|**MORI-RAN: Multi-view Robust Representation Learning via Hybrid Contrastive Fusion**|Guanzhou Ke et.al.|[2208.12545v1](http://arxiv.org/abs/2208.12545v1)|**[link](https://github.com/guanzhou-ke/mori-ran)**|
