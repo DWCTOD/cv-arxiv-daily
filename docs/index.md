@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.29
+## Updated on 2022.08.30
 
 ## Video_Classification
 
@@ -584,7 +584,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-26**|**TFusion: Transformer based N-to-One Multimodal Fusion Block**|Zecheng Liu et.al.|[2208.12776v1](http://arxiv.org/abs/2208.12776v1)|null|
-|**2022-08-26**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v1](http://arxiv.org/abs/2208.12653v1)|null|
+|**2022-08-29**|**Uncertainty Guided Depth Fusion for Spike Camera**|Jianing Li et.al.|[2208.12653v2](http://arxiv.org/abs/2208.12653v2)|null|
 |**2022-08-26**|**MORI-RAN: Multi-view Robust Representation Learning via Hybrid Contrastive Fusion**|Guanzhou Ke et.al.|[2208.12545v1](http://arxiv.org/abs/2208.12545v1)|**[link](https://github.com/guanzhou-ke/mori-ran)**|
 |**2022-08-26**|**Measurements of the $^{27}{\rm Al}(α,n)$ Thick Target Yield Near Threshold**|K. Brandenburg et.al.|[2208.12405v1](http://arxiv.org/abs/2208.12405v1)|null|
 |**2022-08-25**|**Challenges and opportunities to assure future manufacturing of magnet conductors for the accelerator sector**|Lance Cooley et.al.|[2208.12379v1](http://arxiv.org/abs/2208.12379v1)|null|
