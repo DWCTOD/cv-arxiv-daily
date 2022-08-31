@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-30, **Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2208.14439v1](http://arxiv.org/abs/2208.14439v1), Code: **[https://github.com/wesleyhsieh0806/ss-prl](https://github.com/wesleyhsieh0806/ss-prl)**
+- 2022-08-30, **SPIM-Flow, an integrated light-sheet and microfluidics platform for hydrodynamic studies of Hydra**, Per Niklas Hedde et.al., Paper: [http://arxiv.org/abs/2208.14430v1](http://arxiv.org/abs/2208.14430v1)
+- 2022-08-30, **Extensions of Hitomezashi Patterns**, Colin Defant et.al., Paper: [http://arxiv.org/abs/2208.14428v1](http://arxiv.org/abs/2208.14428v1)
+- 2022-08-30, **FDB: Fraud Dataset Benchmark**, Prince Grover et.al., Paper: [http://arxiv.org/abs/2208.14417v1](http://arxiv.org/abs/2208.14417v1), Code: **[https://github.com/amazon-research/fraud-dataset-benchmark](https://github.com/amazon-research/fraud-dataset-benchmark)**
+- 2022-08-30, **Comparing Results of Thermographic Images Based Diagnosis for Breast Diseases**, E. O. Rodrigues et.al., Paper: [http://arxiv.org/abs/2208.14410v1](http://arxiv.org/abs/2208.14410v1)
+- 2022-08-30, **Expert Opinion Elicitation for Assisting Deep Learning based Lyme Disease Classifier with Patient Data**, Sk Imran Hossain et.al., Paper: [http://arxiv.org/abs/2208.14384v1](http://arxiv.org/abs/2208.14384v1)
+- 2022-08-30, **Associative Learning for Network Embedding**, Yuchen Liang et.al., Paper: [http://arxiv.org/abs/2208.14376v1](http://arxiv.org/abs/2208.14376v1)
+- 2022-08-30, **Automated recognition of the pericardium contour on processed CT images using genetic algorithms**, E. O. Rodrigues et.al., Paper: [http://arxiv.org/abs/2208.14375v1](http://arxiv.org/abs/2208.14375v1)
+- 2022-08-30, **Deep Spatial and Tonal Optimisation for Diffusion Inpainting**, Pascal Peter et.al., Paper: [http://arxiv.org/abs/2208.14371v1](http://arxiv.org/abs/2208.14371v1)
+- 2022-08-30, **FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain**, Mostafa Mehdipour Ghazi et.al., Paper: [http://arxiv.org/abs/2208.14360v1](http://arxiv.org/abs/2208.14360v1)
 - 2022-08-29, **Temporal Label Smoothing for Early Prediction of Adverse Events**, Hugo Yèche et.al., Paper: [http://arxiv.org/abs/2208.13764v1](http://arxiv.org/abs/2208.13764v1)
 - 2022-08-29, **Manifold diagrams and tame tangles**, Christoph Dorn et.al., Paper: [http://arxiv.org/abs/2208.13758v1](http://arxiv.org/abs/2208.13758v1)
 - 2022-08-29, **Geometry of symmetric spaces of type EVI**, Victor A. Petrov et.al., Paper: [http://arxiv.org/abs/2208.13730v1](http://arxiv.org/abs/2208.13730v1)
@@ -585,6 +595,16 @@
 
 ## MultiModal
 
+- 2022-08-30, **FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain**, Mostafa Mehdipour Ghazi et.al., Paper: [http://arxiv.org/abs/2208.14360v1](http://arxiv.org/abs/2208.14360v1)
+- 2022-08-30, **Boosting Night-time Scene Parsing with Learnable Frequency**, Zhifeng Xie et.al., Paper: [http://arxiv.org/abs/2208.14241v1](http://arxiv.org/abs/2208.14241v1), Code: **[https://github.com/wangsen99/FDLNet](https://github.com/wangsen99/FDLNet)**
+- 2022-08-30, **Fundamentals of Clustered Molecular Nanonetworks**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2208.14213v1](http://arxiv.org/abs/2208.14213v1)
+- 2022-08-30, **FUSION: Fully Unsupervised Test-Time Stain Adaptation via Fused Normalization Statistics**, Nilanjan Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2208.14206v1](http://arxiv.org/abs/2208.14206v1)
+- 2022-08-30, **ORACLE: Occlusion-Resilient And self-Calibrating mmWave Radar Network for People Tracking**, Jacopo Pegoraro et.al., Paper: [http://arxiv.org/abs/2208.14199v1](http://arxiv.org/abs/2208.14199v1)
+- 2022-08-30, **Intelligent Perception System for Vehicle-Road Cooperation**, Songbin Chen et.al., Paper: [http://arxiv.org/abs/2208.14052v1](http://arxiv.org/abs/2208.14052v1)
+- 2022-08-30, **Spacecraft depth completion based on the gray image and the sparse depth map**, Xiang Liu et.al., Paper: [http://arxiv.org/abs/2208.14030v1](http://arxiv.org/abs/2208.14030v1)
+- 2022-08-30, **Composing topological domain walls and anyon mobility**, Peter Huston et.al., Paper: [http://arxiv.org/abs/2208.14018v1](http://arxiv.org/abs/2208.14018v1)
+- 2022-08-30, **Video-based Cross-modal Auxiliary Network for Multimodal Sentiment Analysis**, Rongfei Chen et.al., Paper: [http://arxiv.org/abs/2208.13954v1](http://arxiv.org/abs/2208.13954v1), Code: **[https://github.com/rongfei-chen/VCAN](https://github.com/rongfei-chen/VCAN)**
+- 2022-08-29, **Benchmarking magnetized three-wave coupling for laser backscattering: Analytic solutions and kinetic simulations**, Yuan Shi et.al., Paper: [http://arxiv.org/abs/2208.13832v1](http://arxiv.org/abs/2208.13832v1)
 - 2022-08-29, **A Missing Value Filling Model Based on Feature Fusion Enhanced Autoencoder**, Xinyao Liu et.al., Paper: [http://arxiv.org/abs/2208.13495v1](http://arxiv.org/abs/2208.13495v1)
 - 2022-08-29, **Time-aware Self-Attention Meets Logic Reasoning in Recommender Systems**, Zhijian Luo et.al., Paper: [http://arxiv.org/abs/2208.13330v1](http://arxiv.org/abs/2208.13330v1)
 - 2022-08-28, **Map Container: A Map-based Framework for Cooperative Perception**, Kun Jiang et.al., Paper: [http://arxiv.org/abs/2208.13226v1](http://arxiv.org/abs/2208.13226v1)
