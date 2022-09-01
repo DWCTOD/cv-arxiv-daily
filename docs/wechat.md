@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-08-31, **A Realism Metric for Generated LiDAR Point Clouds**, Larissa T. Triess et.al., Paper: [http://arxiv.org/abs/2208.14958v1](http://arxiv.org/abs/2208.14958v1)
+- 2022-08-31, **Few-Shot Learning for Clinical Natural Language Processing Using Siamese Neural Networks**, David Oniani et.al., Paper: [http://arxiv.org/abs/2208.14923v1](http://arxiv.org/abs/2208.14923v1)
+- 2022-08-31, **Object classification on video data of meteors and meteor-like phenomena: algorithm and data**, Rabea Sennlaub et.al., Paper: [http://arxiv.org/abs/2208.14914v1](http://arxiv.org/abs/2208.14914v1)
+- 2022-08-31, **Denoising method for dynamic contrast-enhanced CT perfusion studies using three-dimensional deep image prior as a simultaneous spatial and temporal regularizer**, Kenya Murase et.al., Paper: [http://arxiv.org/abs/2208.14897v1](http://arxiv.org/abs/2208.14897v1)
+- 2022-08-31, **GRILLBot: An Assistant for Real-World Tasks with Neural Semantic Parsing and Graph-Based Representations**, Carlos Gemmell et.al., Paper: [http://arxiv.org/abs/2208.14884v1](http://arxiv.org/abs/2208.14884v1)
+- 2022-08-31, **Hierarchical Local-Global Transformer for Temporal Sentence Grounding**, Xiang Fang et.al., Paper: [http://arxiv.org/abs/2208.14882v1](http://arxiv.org/abs/2208.14882v1)
+- 2022-08-31, **NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation**, Zhaohu Xing et.al., Paper: [http://arxiv.org/abs/2208.14876v1](http://arxiv.org/abs/2208.14876v1), Code: **[https://github.com/920232796/nestedformer](https://github.com/920232796/nestedformer)**
+- 2022-08-31, **Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization**, Ding Li et.al., Paper: [http://arxiv.org/abs/2208.14856v1](http://arxiv.org/abs/2208.14856v1)
+- 2022-08-31, **Listen to your heart: A self-supervised approach for detecting murmur in heart-beat sounds for the Physionet 2022 challenge**, Aristotelis Ballas et.al., Paper: [http://arxiv.org/abs/2208.14845v1](http://arxiv.org/abs/2208.14845v1)
+- 2022-08-31, **Cadence Detection in Symbolic Classical Music using Graph Neural Networks**, Emmanouil Karystinaios et.al., Paper: [http://arxiv.org/abs/2208.14819v1](http://arxiv.org/abs/2208.14819v1)
 - 2022-08-30, **Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2208.14439v1](http://arxiv.org/abs/2208.14439v1), Code: **[https://github.com/wesleyhsieh0806/ss-prl](https://github.com/wesleyhsieh0806/ss-prl)**
 - 2022-08-30, **SPIM-Flow, an integrated light-sheet and microfluidics platform for hydrodynamic studies of Hydra**, Per Niklas Hedde et.al., Paper: [http://arxiv.org/abs/2208.14430v1](http://arxiv.org/abs/2208.14430v1)
 - 2022-08-30, **Extensions of Hitomezashi Patterns**, Colin Defant et.al., Paper: [http://arxiv.org/abs/2208.14428v1](http://arxiv.org/abs/2208.14428v1)
@@ -595,6 +605,12 @@
 
 ## MultiModal
 
+- 2022-08-31, **Unitary braided-enriched monoidal categories**, Zachery Dell et.al., Paper: [http://arxiv.org/abs/2208.14992v1](http://arxiv.org/abs/2208.14992v1)
+- 2022-08-31, **NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation**, Zhaohu Xing et.al., Paper: [http://arxiv.org/abs/2208.14876v1](http://arxiv.org/abs/2208.14876v1), Code: **[https://github.com/920232796/nestedformer](https://github.com/920232796/nestedformer)**
+- 2022-08-31, **SimpleRecon: 3D Reconstruction Without 3D Convolutions**, Mohamed Sayed et.al., Paper: [http://arxiv.org/abs/2208.14743v1](http://arxiv.org/abs/2208.14743v1)
+- 2022-08-31, **ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer**, Jiaqi Ma et.al., Paper: [http://arxiv.org/abs/2208.14704v1](http://arxiv.org/abs/2208.14704v1)
+- 2022-08-31, **Non-readily identifiable data collaboration analysis for multiple datasets including personal information**, Akira Imakura et.al., Paper: [http://arxiv.org/abs/2208.14611v1](http://arxiv.org/abs/2208.14611v1)
+- 2022-08-30, **A Unified Filter for Fusion of Multiple Inertial Measurement Units**, Yaakov Libero et.al., Paper: [http://arxiv.org/abs/2208.14524v1](http://arxiv.org/abs/2208.14524v1)
 - 2022-08-30, **FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain**, Mostafa Mehdipour Ghazi et.al., Paper: [http://arxiv.org/abs/2208.14360v1](http://arxiv.org/abs/2208.14360v1)
 - 2022-08-30, **Boosting Night-time Scene Parsing with Learnable Frequency**, Zhifeng Xie et.al., Paper: [http://arxiv.org/abs/2208.14241v1](http://arxiv.org/abs/2208.14241v1), Code: **[https://github.com/wangsen99/FDLNet](https://github.com/wangsen99/FDLNet)**
 - 2022-08-30, **Fundamentals of Clustered Molecular Nanonetworks**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2208.14213v1](http://arxiv.org/abs/2208.14213v1)
