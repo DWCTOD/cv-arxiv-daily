@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.01
+## Updated on 2022.09.02
 
 ## Video_Classification
 
@@ -613,7 +613,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-31**|**Unitary braided-enriched monoidal categories**|Zachery Dell et.al.|[2208.14992v1](http://arxiv.org/abs/2208.14992v1)|null|
+|**2022-09-01**|**Unitary braided-enriched monoidal categories**|Zachary Dell et.al.|[2208.14992v2](http://arxiv.org/abs/2208.14992v2)|null|
 |**2022-08-31**|**NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation**|Zhaohu Xing et.al.|[2208.14876v1](http://arxiv.org/abs/2208.14876v1)|**[link](https://github.com/920232796/nestedformer)**|
 |**2022-08-31**|**SimpleRecon: 3D Reconstruction Without 3D Convolutions**|Mohamed Sayed et.al.|[2208.14743v1](http://arxiv.org/abs/2208.14743v1)|null|
 |**2022-08-31**|**ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer**|Jiaqi Ma et.al.|[2208.14704v1](http://arxiv.org/abs/2208.14704v1)|null|
