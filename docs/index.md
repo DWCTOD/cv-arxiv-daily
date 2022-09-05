@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-02**|**Decohering Tensor Network Quantum Machine Learning Models**|Haoran Liao et.al.|[2209.01195v1](http://arxiv.org/abs/2209.01195v1)|**[link](https://github.com/HaoranLiao/dephased_ttn_mera)**|
+|**2022-09-02**|**Early detection of knee osteoarthritis using deep learning on knee magnetic resonance images**|Anastasis Alexopoulos et.al.|[2209.01192v1](http://arxiv.org/abs/2209.01192v1)|null|
+|**2022-09-02**|**A stability range for topological 4-manifolds**|Ian Hambleton et.al.|[2209.01189v1](http://arxiv.org/abs/2209.01189v1)|null|
+|**2022-09-02**|**ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos**|Xiaoyang Zou et.al.|[2209.01148v1](http://arxiv.org/abs/2209.01148v1)|null|
+|**2022-09-02**|**Back-to-Bones: Rediscovering the Role of Backbones in Domain Generalization**|Simone Angarano et.al.|[2209.01121v1](http://arxiv.org/abs/2209.01121v1)|null|
+|**2022-09-02**|**Understandable Controller Extraction from Video Observations of Swarms**|Khulud Alharthi et.al.|[2209.01118v1](http://arxiv.org/abs/2209.01118v1)|null|
+|**2022-09-02**|**AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier**|Lars Heiliger et.al.|[2209.01112v1](http://arxiv.org/abs/2209.01112v1)|null|
+|**2022-09-02**|**Fiducial Marker Detection in Multi-Viewpoint Point Cloud**|Yibo Liu et.al.|[2209.01072v1](http://arxiv.org/abs/2209.01072v1)|**[link](https://github.com/York-SDCNLab/Marker-Detection-General)**|
+|**2022-09-02**|**In-Place Gestures Classification via Long-term Memory Augmented Network**|Lizhi Zhao et.al.|[2209.01059v1](http://arxiv.org/abs/2209.01059v1)|null|
+|**2022-09-02**|**Classifying with Uncertain Data Envelopment Analysis**|Casey Garner et.al.|[2209.01052v1](http://arxiv.org/abs/2209.01052v1)|null|
 |**2022-09-01**|**Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild**|Sindhu B Hegde et.al.|[2209.00642v1](http://arxiv.org/abs/2209.00642v1)|null|
 |**2022-09-01**|**Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation**|Nadine Behrmann et.al.|[2209.00638v1](http://arxiv.org/abs/2209.00638v1)|null|
 |**2022-09-01**|**Learning with Differentiable Algorithms**|Felix Petersen et.al.|[2209.00616v1](http://arxiv.org/abs/2209.00616v1)|null|
@@ -623,6 +633,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v1](http://arxiv.org/abs/2209.01194v1)|null|
+|**2022-09-02**|**The Syncline Model -- Analyzing the Impact of Time Synchronization in Sensor Fusion**|Erling Rennemo Jellum et.al.|[2209.01136v1](http://arxiv.org/abs/2209.01136v1)|null|
+|**2022-09-02**|**AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier**|Lars Heiliger et.al.|[2209.01112v1](http://arxiv.org/abs/2209.01112v1)|null|
+|**2022-09-02**|**Fragmentation Analysis of Cryogenic Pellets for Disruption Mitigation**|Tobias Peherstorfer et.al.|[2209.01024v1](http://arxiv.org/abs/2209.01024v1)|null|
+|**2022-09-02**|**Multimodal Information Fusion for Glaucoma and DR Classification**|Yihao Li et.al.|[2209.00979v1](http://arxiv.org/abs/2209.00979v1)|null|
+|**2022-09-02**|**Ab initio Computation of the Static Exchange--Correlation Kernel of Real Materials: From Ambient Conditions to Warm Dense Matter**|Zhandos A. Moldabekov et.al.|[2209.00928v1](http://arxiv.org/abs/2209.00928v1)|null|
+|**2022-09-02**|**Detection of diabetic retinopathy using longitudinal self-supervised learning**|Rachid Zeghlache et.al.|[2209.00915v1](http://arxiv.org/abs/2209.00915v1)|null|
+|**2022-09-02**|**Discovery of a brown dwarf with quasi-spherical mass-loss**|Dary A. Ruíz-Rodríguez et.al.|[2209.00759v1](http://arxiv.org/abs/2209.00759v1)|null|
+|**2022-09-01**|**Zero-Shot Multi-Modal Artist-Controlled Retrieval and Exploration of 3D Object Sets**|Kristofer Schlachter et.al.|[2209.00682v1](http://arxiv.org/abs/2209.00682v1)|null|
+|**2022-09-01**|**Exploring traditional machine learning for identification of pathological auscultations**|Haroldas Razvadauskas et.al.|[2209.00672v1](http://arxiv.org/abs/2209.00672v1)|null|
 |**2022-09-01**|**Coagulation equations for non-spherical clusters**|Iulia Cristian et.al.|[2209.00644v1](http://arxiv.org/abs/2209.00644v1)|null|
 |**2022-09-01**|**Multi-Scale Contrastive Co-Training for Event Temporal Relation Extraction**|Hao-Ren Yao et.al.|[2209.00568v1](http://arxiv.org/abs/2209.00568v1)|null|
 |**2022-09-01**|**Spoofing-Aware Attention based ASV Back-end with Multiple Enrollment Utterances and a Sampling Strategy for the SASV Challenge 2022**|Chang Zeng et.al.|[2209.00423v1](http://arxiv.org/abs/2209.00423v1)|null|
