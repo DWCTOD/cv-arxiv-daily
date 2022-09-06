@@ -9,7 +9,7 @@
 - 2022-09-02, **Back-to-Bones: Rediscovering the Role of Backbones in Domain Generalization**, Simone Angarano et.al., Paper: [http://arxiv.org/abs/2209.01121v1](http://arxiv.org/abs/2209.01121v1)
 - 2022-09-02, **Understandable Controller Extraction from Video Observations of Swarms**, Khulud Alharthi et.al., Paper: [http://arxiv.org/abs/2209.01118v1](http://arxiv.org/abs/2209.01118v1)
 - 2022-09-02, **AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier**, Lars Heiliger et.al., Paper: [http://arxiv.org/abs/2209.01112v1](http://arxiv.org/abs/2209.01112v1)
-- 2022-09-02, **Fiducial Marker Detection in Multi-Viewpoint Point Cloud**, Yibo Liu et.al., Paper: [http://arxiv.org/abs/2209.01072v1](http://arxiv.org/abs/2209.01072v1), Code: **[https://github.com/York-SDCNLab/Marker-Detection-General](https://github.com/York-SDCNLab/Marker-Detection-General)**
+- 2022-09-02, **Fiducial Marker Detection in Multi-Viewpoint Point Cloud**, Yibo Liu et.al., Paper: [http://arxiv.org/abs/2209.01072v1](http://arxiv.org/abs/2209.01072v1), Code: **[https://github.com/york-sdcnlab/m_livox_mapping](https://github.com/york-sdcnlab/m_livox_mapping)**
 - 2022-09-02, **In-Place Gestures Classification via Long-term Memory Augmented Network**, Lizhi Zhao et.al., Paper: [http://arxiv.org/abs/2209.01059v1](http://arxiv.org/abs/2209.01059v1)
 - 2022-09-02, **Classifying with Uncertain Data Envelopment Analysis**, Casey Garner et.al., Paper: [http://arxiv.org/abs/2209.01052v1](http://arxiv.org/abs/2209.01052v1)
 - 2022-09-01, **Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild**, Sindhu B Hegde et.al., Paper: [http://arxiv.org/abs/2209.00642v1](http://arxiv.org/abs/2209.00642v1)
