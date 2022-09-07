@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.06
+## Updated on 2022.09.07
 
 ## Video_Classification
 
@@ -633,13 +633,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v1](http://arxiv.org/abs/2209.01194v1)|null|
+|**2022-09-06**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v2](http://arxiv.org/abs/2209.01194v2)|null|
 |**2022-09-02**|**The Syncline Model -- Analyzing the Impact of Time Synchronization in Sensor Fusion**|Erling Rennemo Jellum et.al.|[2209.01136v1](http://arxiv.org/abs/2209.01136v1)|null|
 |**2022-09-02**|**AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier**|Lars Heiliger et.al.|[2209.01112v1](http://arxiv.org/abs/2209.01112v1)|null|
 |**2022-09-02**|**Fragmentation Analysis of Cryogenic Pellets for Disruption Mitigation**|Tobias Peherstorfer et.al.|[2209.01024v1](http://arxiv.org/abs/2209.01024v1)|null|
-|**2022-09-02**|**Multimodal Information Fusion for Glaucoma and DR Classification**|Yihao Li et.al.|[2209.00979v1](http://arxiv.org/abs/2209.00979v1)|null|
+|**2022-09-05**|**Multimodal Information Fusion for Glaucoma and DR Classification**|Yihao Li et.al.|[2209.00979v2](http://arxiv.org/abs/2209.00979v2)|null|
 |**2022-09-02**|**Ab initio Computation of the Static Exchange--Correlation Kernel of Real Materials: From Ambient Conditions to Warm Dense Matter**|Zhandos A. Moldabekov et.al.|[2209.00928v1](http://arxiv.org/abs/2209.00928v1)|null|
-|**2022-09-02**|**Detection of diabetic retinopathy using longitudinal self-supervised learning**|Rachid Zeghlache et.al.|[2209.00915v1](http://arxiv.org/abs/2209.00915v1)|null|
+|**2022-09-05**|**Detection of diabetic retinopathy using longitudinal self-supervised learning**|Rachid Zeghlache et.al.|[2209.00915v2](http://arxiv.org/abs/2209.00915v2)|null|
 |**2022-09-02**|**Discovery of a brown dwarf with quasi-spherical mass-loss**|Dary A. Ruíz-Rodríguez et.al.|[2209.00759v1](http://arxiv.org/abs/2209.00759v1)|null|
 |**2022-09-01**|**Zero-Shot Multi-Modal Artist-Controlled Retrieval and Exploration of 3D Object Sets**|Kristofer Schlachter et.al.|[2209.00682v1](http://arxiv.org/abs/2209.00682v1)|null|
 |**2022-09-01**|**Exploring traditional machine learning for identification of pathological auscultations**|Haroldas Razvadauskas et.al.|[2209.00672v1](http://arxiv.org/abs/2209.00672v1)|null|
