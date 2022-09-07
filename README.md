@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-06**|**Classification Protocols with Minimal Disclosure**|Jinshuo Dong et.al.|[2209.02690v1](http://arxiv.org/abs/2209.02690v1)|null|
+|**2022-09-06**|**Neural Networks Optimized by Genetic Algorithms in Cosmology**|Isidro Gómez-Vargas et.al.|[2209.02685v1](http://arxiv.org/abs/2209.02685v1)|null|
+|**2022-09-06**|**How important are activation functions in regression and classification? A survey, performance comparison, and future directions**|Ameya D. Jagtap et.al.|[2209.02681v1](http://arxiv.org/abs/2209.02681v1)|null|
+|**2022-09-06**|**A Complex Window-Based Joint Chirp Rate Time Frequency Transform for BBH Merger Gravitational Wave Signal Detection**|Xiyuan Li et.al.|[2209.02673v1](http://arxiv.org/abs/2209.02673v1)|null|
+|**2022-09-06**|**Single-Stage Broad Multi-Instance Multi-Label Learning (BMIML) with Diverse Inter-Correlations and its application to medical image classification**|Qi Lai et.al.|[2209.02625v1](http://arxiv.org/abs/2209.02625v1)|null|
+|**2022-09-06**|**Multiscale major factor selections for complex system data with structural dependency and heterogeneity**|Hsieh Fushing et.al.|[2209.02623v1](http://arxiv.org/abs/2209.02623v1)|null|
+|**2022-09-06**|**Deep filter bank regression for super-resolution of anisotropic MR brain images**|Samuel W. Remedios et.al.|[2209.02611v1](http://arxiv.org/abs/2209.02611v1)|null|
+|**2022-09-06**|**Domain Engineering for Applied Monocular Reconstruction of Parametric Faces**|Igor Borovikov et.al.|[2209.02600v1](http://arxiv.org/abs/2209.02600v1)|null|
+|**2022-09-06**|**Improving the Accuracy and Robustness of CNNs Using a Deep CCA Neural Data Regularizer**|Cassidy Pirlot et.al.|[2209.02582v1](http://arxiv.org/abs/2209.02582v1)|null|
+|**2022-09-06**|**Avgust: Automating Usage-Based Test Generation from Videos of App Executions**|Yixue Zhao et.al.|[2209.02577v1](http://arxiv.org/abs/2209.02577v1)|null|
 |**2022-09-02**|**Decohering Tensor Network Quantum Machine Learning Models**|Haoran Liao et.al.|[2209.01195v1](http://arxiv.org/abs/2209.01195v1)|**[link](https://github.com/HaoranLiao/dephased_ttn_mera)**|
 |**2022-09-02**|**Early detection of knee osteoarthritis using deep learning on knee magnetic resonance images**|Anastasis Alexopoulos et.al.|[2209.01192v1](http://arxiv.org/abs/2209.01192v1)|null|
 |**2022-09-02**|**A stability range for topological 4-manifolds**|Ian Hambleton et.al.|[2209.01189v1](http://arxiv.org/abs/2209.01189v1)|null|
@@ -629,6 +639,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-06**|**OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction**|Hu Cao et.al.|[2209.02693v1](http://arxiv.org/abs/2209.02693v1)|**[link](https://github.com/cao-hu/oneee)**|
+|**2022-09-06**|**Resonant leptoquark at NLO with POWHEG**|Luca Buonocore et.al.|[2209.02599v1](http://arxiv.org/abs/2209.02599v1)|null|
+|**2022-09-06**|**Observation of electromagnetic filamentary structures produced by the Weibel instability in laser-driven plasmas**|G. D. Sutcliffe et.al.|[2209.02565v1](http://arxiv.org/abs/2209.02565v1)|null|
+|**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v1](http://arxiv.org/abs/2209.02540v1)|null|
+|**2022-09-06**|**Learned Distributed Image Compression with Multi-Scale Patch Matching in Feature Domai**|Yujun Huang et.al.|[2209.02514v1](http://arxiv.org/abs/2209.02514v1)|null|
+|**2022-09-06**|**Finger Multimodal Feature Fusion and Recognition Based on Channel Spatial Attention**|Jian Guo et.al.|[2209.02368v1](http://arxiv.org/abs/2209.02368v1)|null|
+|**2022-09-06**|**Simulations Campaign of the Turbulent Diffusion at Tokamaks Edges**|L. Scarivaglione et.al.|[2209.02318v1](http://arxiv.org/abs/2209.02318v1)|null|
+|**2022-09-06**|**Progressive Glass Segmentation**|Letian Yu et.al.|[2209.02280v1](http://arxiv.org/abs/2209.02280v1)|null|
+|**2022-09-06**|**Factor Graph Accelerator for LiDAR-Inertial Odometry**|Yuhui Hao et.al.|[2209.02207v1](http://arxiv.org/abs/2209.02207v1)|null|
+|**2022-09-05**|**Forward light-by-light scattering and electromagnetic correction to hadronic vacuum polarization**|Volodymyr Biloshytskyi et.al.|[2209.02149v1](http://arxiv.org/abs/2209.02149v1)|null|
 |**2022-09-06**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v2](http://arxiv.org/abs/2209.01194v2)|null|
 |**2022-09-02**|**The Syncline Model -- Analyzing the Impact of Time Synchronization in Sensor Fusion**|Erling Rennemo Jellum et.al.|[2209.01136v1](http://arxiv.org/abs/2209.01136v1)|null|
 |**2022-09-02**|**AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by Maximum Intensity Projection Classifier**|Lars Heiliger et.al.|[2209.01112v1](http://arxiv.org/abs/2209.01112v1)|null|
