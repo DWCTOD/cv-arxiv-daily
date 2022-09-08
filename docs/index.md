@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**|Connor Henley et.al.|[2209.03336v1](http://arxiv.org/abs/2209.03336v1)|null|
+|**2022-09-07**|**What does a platypus look like? Generating customized prompts for zero-shot image classification**|Sarah Pratt et.al.|[2209.03320v1](http://arxiv.org/abs/2209.03320v1)|**[link](https://github.com/sarahpratt/cupl)**|
+|**2022-09-07**|**Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising**|Se-In Jang et.al.|[2209.03300v1](http://arxiv.org/abs/2209.03300v1)|null|
+|**2022-09-07**|**K-VIL: Keypoints-based Visual Imitation Learning**|Jianfeng Gao et.al.|[2209.03277v1](http://arxiv.org/abs/2209.03277v1)|**[link](https://gitlab.com/jianfenggaobit/kvil_public)**|
+|**2022-09-07**|**VulCurator: A Vulnerability-Fixing Commit Detector**|Truong Giang Nguyen et.al.|[2209.03260v1](http://arxiv.org/abs/2209.03260v1)|**[link](https://github.com/ntgiang71096/vfdetector)**|
+|**2022-09-07**|**Hardware faults that matter: Understanding and Estimating the safety impact of hardware faults on object detection DNNs**|Syed Qutub et.al.|[2209.03225v1](http://arxiv.org/abs/2209.03225v1)|null|
+|**2022-09-07**|**Morphology-preserving Autoregressive 3D Generative Modelling of the Brain**|Petru-Daniel Tudosiu et.al.|[2209.03177v1](http://arxiv.org/abs/2209.03177v1)|**[link](https://github.com/amigolab/synthanatomy)**|
+|**2022-09-07**|**Machine Learning-based Automatic Annotation and Detection of COVID-19 Fake News**|Mohammad Majid Akhtar et.al.|[2209.03162v1](http://arxiv.org/abs/2209.03162v1)|null|
+|**2022-09-07**|**A multiclass Q-NLP sentiment analysis experiment using DisCoCat**|Victor Martinez et.al.|[2209.03152v1](http://arxiv.org/abs/2209.03152v1)|null|
+|**2022-09-07**|**MSSPN: Automatic First Arrival Picking using Multi-Stage Segmentation Picking Network**|Hongtao Wang et.al.|[2209.03132v1](http://arxiv.org/abs/2209.03132v1)|null|
 |**2022-09-06**|**Classification Protocols with Minimal Disclosure**|Jinshuo Dong et.al.|[2209.02690v1](http://arxiv.org/abs/2209.02690v1)|null|
 |**2022-09-06**|**Neural Networks Optimized by Genetic Algorithms in Cosmology**|Isidro Gómez-Vargas et.al.|[2209.02685v1](http://arxiv.org/abs/2209.02685v1)|null|
 |**2022-09-07**|**How important are activation functions in regression and classification? A survey, performance comparison, and future directions**|Ameya D. Jagtap et.al.|[2209.02681v2](http://arxiv.org/abs/2209.02681v2)|null|
@@ -643,6 +653,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**The Branes Behind Generalized Symmetry Operators**|Jonathan J. Heckman et.al.|[2209.03343v1](http://arxiv.org/abs/2209.03343v1)|null|
+|**2022-09-07**|**On the Complementarity between Pre-Training and Random-Initialization for Resource-Rich Machine Translation**|Changtong Zan et.al.|[2209.03316v1](http://arxiv.org/abs/2209.03316v1)|**[link](https://github.com/zanchangtong/ptvsri)**|
+|**2022-09-07**|**Accurate Cooperative Sensor Fusion by Parameterized Covariance Generation for Sensing and Localization Pipelines in CAVs**|Edward Andert et.al.|[2209.03306v1](http://arxiv.org/abs/2209.03306v1)|null|
+|**2022-09-07**|**Fault Signature Identification for BLDC motor Drive System -A Statistical Signal Fusion Approach**|Tribeni Prasad Banerjee et.al.|[2209.03159v1](http://arxiv.org/abs/2209.03159v1)|null|
+|**2022-09-07**|**DM$^2$S$^2$: Deep Multi-Modal Sequence Sets with Hierarchical Modality Attention**|Shunsuke Kitada et.al.|[2209.03126v1](http://arxiv.org/abs/2209.03126v1)|null|
+|**2022-09-07**|**MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection**|Yang Jiao et.al.|[2209.03102v1](http://arxiv.org/abs/2209.03102v1)|**[link](https://github.com/sxjyjay/msmdfusion)**|
+|**2022-09-07**|**First direct limit on the 334 keV resonance strength in the $^{22}$Ne(α,γ)$^{26}$Mg reaction**|D. Piatti et.al.|[2209.03051v1](http://arxiv.org/abs/2209.03051v1)|null|
+|**2022-09-07**|**BiFuse++: Self-supervised and Efficient Bi-projection Fusion for 360 Depth Estimation**|Fu-En Wang et.al.|[2209.02952v1](http://arxiv.org/abs/2209.02952v1)|**[link](https://github.com/fuenwang/bifusev2)**|
+|**2022-09-07**|**Self-supervised multimodal neuroimaging yields predictive representations for a spectrum of Alzheimer's phenotypes**|Alex Fedorov et.al.|[2209.02876v1](http://arxiv.org/abs/2209.02876v1)|null|
+|**2022-09-06**|**Fusion of Satellite Images and Weather Data with Transformer Networks for Downy Mildew Disease Detection**|William Maillet et.al.|[2209.02797v1](http://arxiv.org/abs/2209.02797v1)|null|
 |**2022-09-06**|**OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction**|Hu Cao et.al.|[2209.02693v1](http://arxiv.org/abs/2209.02693v1)|**[link](https://github.com/cao-hu/oneee)**|
 |**2022-09-06**|**Resonant leptoquark at NLO with POWHEG**|Luca Buonocore et.al.|[2209.02599v1](http://arxiv.org/abs/2209.02599v1)|null|
 |**2022-09-06**|**Observation of electromagnetic filamentary structures produced by the Weibel instability in laser-driven plasmas**|G. D. Sutcliffe et.al.|[2209.02565v1](http://arxiv.org/abs/2209.02565v1)|null|
