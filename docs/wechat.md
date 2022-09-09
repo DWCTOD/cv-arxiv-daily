@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-09-08, **Persistent topology of the reionization bubble network. II: Evolution & Classification**, Willem Elbers et.al., Paper: [http://arxiv.org/abs/2209.03948v1](http://arxiv.org/abs/2209.03948v1)
+- 2022-09-08, **Data Feedback Loops: Model-driven Amplification of Dataset Biases**, Rohan Taori et.al., Paper: [http://arxiv.org/abs/2209.03942v1](http://arxiv.org/abs/2209.03942v1), Code: **[https://github.com/rtaori/data_feedback](https://github.com/rtaori/data_feedback)**
+- 2022-09-08, **Apartness relations between propositions**, Zoltan A. Kocsis et.al., Paper: [http://arxiv.org/abs/2209.03920v1](http://arxiv.org/abs/2209.03920v1)
+- 2022-09-08, **A multi view multi stage and multi window framework for pulmonary artery segmentation from CT scans**, ZeYu Liu et.al., Paper: [http://arxiv.org/abs/2209.03918v1](http://arxiv.org/abs/2209.03918v1)
+- 2022-09-08, **Exploring Target Representations for Masked Autoencoders**, Xingbin Liu et.al., Paper: [http://arxiv.org/abs/2209.03917v1](http://arxiv.org/abs/2209.03917v1)
+- 2022-09-08, **Histogram Layers for Synthetic Aperture Sonar Imagery**, Joshua Peeples et.al., Paper: [http://arxiv.org/abs/2209.03878v1](http://arxiv.org/abs/2209.03878v1)
+- 2022-09-08, **Transformer-based classification of premise in tweets related to COVID-19**, Vadim Porvatov et.al., Paper: [http://arxiv.org/abs/2209.03851v1](http://arxiv.org/abs/2209.03851v1)
+- 2022-09-08, **Identifiability in Continuous Lyapunov Models**, Philipp Dettling et.al., Paper: [http://arxiv.org/abs/2209.03835v1](http://arxiv.org/abs/2209.03835v1)
+- 2022-09-08, **Pre-Training a Graph Recurrent Network for Language Representation**, Yile Wang et.al., Paper: [http://arxiv.org/abs/2209.03834v1](http://arxiv.org/abs/2209.03834v1), Code: **[https://github.com/ylwangy/slstm_pytorch](https://github.com/ylwangy/slstm_pytorch)**
+- 2022-09-08, **T$^2$LR-Net: An Unrolling Reconstruction Network Learning Transformed Tensor Low-Rank prior for Dynamic MR Imaging**, Yinghao Zhang et.al., Paper: [http://arxiv.org/abs/2209.03832v1](http://arxiv.org/abs/2209.03832v1)
 - 2022-09-07, **Detection and Mapping of Specular Surfaces Using Multibounce Lidar Returns**, Connor Henley et.al., Paper: [http://arxiv.org/abs/2209.03336v1](http://arxiv.org/abs/2209.03336v1)
 - 2022-09-07, **What does a platypus look like? Generating customized prompts for zero-shot image classification**, Sarah Pratt et.al., Paper: [http://arxiv.org/abs/2209.03320v1](http://arxiv.org/abs/2209.03320v1), Code: **[https://github.com/sarahpratt/cupl](https://github.com/sarahpratt/cupl)**
 - 2022-09-07, **Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising**, Se-In Jang et.al., Paper: [http://arxiv.org/abs/2209.03300v1](http://arxiv.org/abs/2209.03300v1)
@@ -645,6 +655,11 @@
 
 ## MultiModal
 
+- 2022-09-08, **N$^3$LO+N$^3$LL QCD improved Higgs pair cross sections**, A. H. Ajjath et.al., Paper: [http://arxiv.org/abs/2209.03914v1](http://arxiv.org/abs/2209.03914v1)
+- 2022-09-08, **Topological Quantum Computation on Supersymmetric Spin Chains**, Indrajit Jana et.al., Paper: [http://arxiv.org/abs/2209.03822v1](http://arxiv.org/abs/2209.03822v1)
+- 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1), Code: **[https://github.com/hku-mars/r3live](https://github.com/hku-mars/r3live)**
+- 2022-09-07, **Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations**, Vadim Tschernezki et.al., Paper: [http://arxiv.org/abs/2209.03494v1](http://arxiv.org/abs/2209.03494v1)
+- 2022-09-07, **Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**, Paul Pu Liang et.al., Paper: [http://arxiv.org/abs/2209.03430v1](http://arxiv.org/abs/2209.03430v1)
 - 2022-09-07, **The Branes Behind Generalized Symmetry Operators**, Jonathan J. Heckman et.al., Paper: [http://arxiv.org/abs/2209.03343v1](http://arxiv.org/abs/2209.03343v1)
 - 2022-09-07, **On the Complementarity between Pre-Training and Random-Initialization for Resource-Rich Machine Translation**, Changtong Zan et.al., Paper: [http://arxiv.org/abs/2209.03316v1](http://arxiv.org/abs/2209.03316v1), Code: **[https://github.com/zanchangtong/ptvsri](https://github.com/zanchangtong/ptvsri)**
 - 2022-09-07, **Accurate Cooperative Sensor Fusion by Parameterized Covariance Generation for Sensing and Localization Pipelines in CAVs**, Edward Andert et.al., Paper: [http://arxiv.org/abs/2209.03306v1](http://arxiv.org/abs/2209.03306v1)
