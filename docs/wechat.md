@@ -1,11 +1,11 @@
-> Updated on 2022.09.11
+> Updated on 2022.09.12
 
 ## Video_Classification
 
 - 2022-09-08, **Persistent topology of the reionization bubble network. II: Evolution & Classification**, Willem Elbers et.al., Paper: [http://arxiv.org/abs/2209.03948v1](http://arxiv.org/abs/2209.03948v1), Code: **[https://github.com/wullm/21runs](https://github.com/wullm/21runs)**
 - 2022-09-08, **Data Feedback Loops: Model-driven Amplification of Dataset Biases**, Rohan Taori et.al., Paper: [http://arxiv.org/abs/2209.03942v1](http://arxiv.org/abs/2209.03942v1), Code: **[https://github.com/rtaori/data_feedback](https://github.com/rtaori/data_feedback)**
 - 2022-09-08, **Apartness relations between propositions**, Zoltan A. Kocsis et.al., Paper: [http://arxiv.org/abs/2209.03920v1](http://arxiv.org/abs/2209.03920v1)
-- 2022-09-08, **A multi view multi stage and multi window framework for pulmonary artery segmentation from CT scans**, ZeYu Liu et.al., Paper: [http://arxiv.org/abs/2209.03918v1](http://arxiv.org/abs/2209.03918v1)
+- 2022-09-09, **A multi view multi stage and multi window framework for pulmonary artery segmentation from CT scans**, ZeYu Liu et.al., Paper: [http://arxiv.org/abs/2209.03918v2](http://arxiv.org/abs/2209.03918v2)
 - 2022-09-08, **Exploring Target Representations for Masked Autoencoders**, Xingbin Liu et.al., Paper: [http://arxiv.org/abs/2209.03917v1](http://arxiv.org/abs/2209.03917v1)
 - 2022-09-08, **Histogram Layers for Synthetic Aperture Sonar Imagery**, Joshua Peeples et.al., Paper: [http://arxiv.org/abs/2209.03878v1](http://arxiv.org/abs/2209.03878v1)
 - 2022-09-08, **Transformer-based classification of premise in tweets related to COVID-19**, Vadim Porvatov et.al., Paper: [http://arxiv.org/abs/2209.03851v1](http://arxiv.org/abs/2209.03851v1)
