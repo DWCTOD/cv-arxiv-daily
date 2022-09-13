@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images**|Pak-Hei Yeung et.al.|[2209.05477v1](http://arxiv.org/abs/2209.05477v1)|null|
+|**2022-09-12**|**Explicitly Controllable 3D-Aware Portrait Generation**|Junshu Tang et.al.|[2209.05434v1](http://arxiv.org/abs/2209.05434v1)|null|
+|**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
+|**2022-09-12**|**Chromosome Segmentation Analysis Using Image Processing Techniques and Autoencoders**|Amritha S Pallavoor et.al.|[2209.05414v1](http://arxiv.org/abs/2209.05414v1)|null|
+|**2022-09-12**|**Communication-Efficient and Privacy-Preserving Feature-based Federated Transfer Learning**|Feng Wang et.al.|[2209.05395v1](http://arxiv.org/abs/2209.05395v1)|**[link](https://github.com/wfwf10/feature-based-federated-transfer-learning)**|
+|**2022-09-12**|**Action-based Early Autism Diagnosis Using Contrastive Feature Learning**|Asha Rani et.al.|[2209.05379v1](http://arxiv.org/abs/2209.05379v1)|null|
+|**2022-09-12**|**Analysis and Comparison of Classification Metrics**|Luciana Ferrer et.al.|[2209.05355v1](http://arxiv.org/abs/2209.05355v1)|null|
+|**2022-09-12**|**Self-supervised Sequential Information Bottleneck for Robust Exploration in Deep Reinforcement Learning**|Bang You et.al.|[2209.05333v1](http://arxiv.org/abs/2209.05333v1)|null|
+|**2022-09-12**|**An Evaluation of Low Overhead Time Series Preprocessing Techniques for Downstream Machine Learning**|Matthew L. Weiss et.al.|[2209.05300v1](http://arxiv.org/abs/2209.05300v1)|null|
+|**2022-09-12**|**Deep Convolutional Pooling Transformer for Deepfake Detection**|Tianyi Wang et.al.|[2209.05299v1](http://arxiv.org/abs/2209.05299v1)|null|
 |**2022-09-09**|**Trigger Warnings: Bootstrapping a Violence Detector for FanFiction**|Magdalena Wolska et.al.|[2209.04409v1](http://arxiv.org/abs/2209.04409v1)|null|
 |**2022-09-09**|**GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression**|Jiahao Pang et.al.|[2209.04401v1](http://arxiv.org/abs/2209.04401v1)|null|
 |**2022-09-09**|**Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**|Ciaran Bench et.al.|[2209.04375v1](http://arxiv.org/abs/2209.04375v1)|**[link](https://github.com/ciaranbench/unsupervised-hsi-seg)**|
@@ -673,6 +683,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
+|**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
+|**2022-09-12**|**Machine-enhanced CP-asymmetries in the electroweak sector**|Noah Clarke Hall et.al.|[2209.05143v1](http://arxiv.org/abs/2209.05143v1)|null|
+|**2022-09-12**|**X-ray detection of a nova in the fireball phase**|Ole König et.al.|[2209.05125v1](http://arxiv.org/abs/2209.05125v1)|null|
+|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v1](http://arxiv.org/abs/2209.05040v1)|**[link](https://github.com/clement25/sancl)**|
+|**2022-09-12**|**On the relationship between the multi-region relaxed variational principle and resistive inner layer theory**|A. Kumar et.al.|[2209.05003v1](http://arxiv.org/abs/2209.05003v1)|null|
+|**2022-09-12**|**Numerical approximation based on deep convolutional neural network for high-dimensional fully nonlinear merged PDEs and 2BSDEs**|Xu Xiao et.al.|[2209.04997v1](http://arxiv.org/abs/2209.04997v1)|null|
+|**2022-09-12**|**Alpha-particle generation from H-11B fusion initiated by laser-accelerated boron ions**|Defeng Kong et.al.|[2209.04992v1](http://arxiv.org/abs/2209.04992v1)|null|
+|**2022-09-12**|**High-energy-density plasma in femtosecond-laser-irradiated nanowire array targets for nuclear reactions**|Defeng Kong et.al.|[2209.04990v1](http://arxiv.org/abs/2209.04990v1)|null|
+|**2022-09-12**|**Multi-modal Streaming 3D Object Detection**|Mazen Abdelfattah et.al.|[2209.04966v1](http://arxiv.org/abs/2209.04966v1)|null|
 |**2022-09-09**|**MIntRec: A New Dataset for Multimodal Intent Recognition**|Hanlei Zhang et.al.|[2209.04355v1](http://arxiv.org/abs/2209.04355v1)|**[link](https://github.com/thuiar/mintrec)**|
 |**2022-09-09**|**Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Blade-based spreading approaches**|Ryan W. Penny et.al.|[2209.04320v1](http://arxiv.org/abs/2209.04320v1)|null|
 |**2022-09-09**|**Turbulence prevents core particle depletion in stellarators**|H. Thienpondt et.al.|[2209.04194v1](http://arxiv.org/abs/2209.04194v1)|null|
