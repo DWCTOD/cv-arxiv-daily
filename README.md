@@ -1,4 +1,4 @@
-## Updated on 2022.09.13
+## Updated on 2022.09.14
 
 ## Video_Classification
 
@@ -683,7 +683,7 @@
 |**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
 |**2022-09-12**|**Machine-enhanced CP-asymmetries in the electroweak sector**|Noah Clarke Hall et.al.|[2209.05143v1](http://arxiv.org/abs/2209.05143v1)|null|
 |**2022-09-12**|**X-ray detection of a nova in the fireball phase**|Ole König et.al.|[2209.05125v1](http://arxiv.org/abs/2209.05125v1)|null|
-|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v1](http://arxiv.org/abs/2209.05040v1)|**[link](https://github.com/clement25/sancl)**|
+|**2022-09-13**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v2](http://arxiv.org/abs/2209.05040v2)|**[link](https://github.com/clement25/sancl)**|
 |**2022-09-12**|**On the relationship between the multi-region relaxed variational principle and resistive inner layer theory**|A. Kumar et.al.|[2209.05003v1](http://arxiv.org/abs/2209.05003v1)|null|
 |**2022-09-12**|**Numerical approximation based on deep convolutional neural network for high-dimensional fully nonlinear merged PDEs and 2BSDEs**|Xu Xiao et.al.|[2209.04997v1](http://arxiv.org/abs/2209.04997v1)|null|
 |**2022-09-12**|**Alpha-particle generation from H-11B fusion initiated by laser-accelerated boron ions**|Defeng Kong et.al.|[2209.04992v1](http://arxiv.org/abs/2209.04992v1)|null|
