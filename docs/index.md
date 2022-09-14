@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-13**|**StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**|Adyasha Maharana et.al.|[2209.06192v1](http://arxiv.org/abs/2209.06192v1)|**[link](https://github.com/adymaharana/storydalle)**|
+|**2022-09-13**|**HistoPerm: A Permutation-Based View Generation Approach for Learning Histopathologic Feature Representations**|Joseph DiPalma et.al.|[2209.06185v1](http://arxiv.org/abs/2209.06185v1)|null|
+|**2022-09-13**|**Automated classification for open-ended questions with BERT**|Hyukjun Gweon et.al.|[2209.06178v1](http://arxiv.org/abs/2209.06178v1)|null|
+|**2022-09-13**|**Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
+|**2022-09-13**|**Comparative analysis of segmentation and generative models for fingerprint retrieval task**|Megh Patel et.al.|[2209.06172v1](http://arxiv.org/abs/2209.06172v1)|null|
+|**2022-09-13**|**PET image denoising based on denoising diffusion probabilistic models**|Kuang Gong et.al.|[2209.06167v1](http://arxiv.org/abs/2209.06167v1)|null|
+|**2022-09-13**|**What You See is What You Grasp: User-Friendly Grasping Guided by Near-eye-tracking**|Shaochen Wang et.al.|[2209.06122v1](http://arxiv.org/abs/2209.06122v1)|null|
+|**2022-09-13**|**A Complete Enumeration of Ballot Permutations Avoiding Sets of Small Patterns**|Nathan Sun et.al.|[2209.06087v1](http://arxiv.org/abs/2209.06087v1)|null|
+|**2022-09-13**|**DOMINO: Domain-aware Model Calibration in Medical Image Segmentation**|Skylar E. Stolte et.al.|[2209.06077v1](http://arxiv.org/abs/2209.06077v1)|null|
+|**2022-09-13**|**A CMOL-Like Memristor-CMOS Neuromorphic Chip-Core Demonstrating Stochastic Binary STDP**|L. A. Camuñas-Mesa et.al.|[2209.06068v1](http://arxiv.org/abs/2209.06068v1)|null|
 |**2022-09-12**|**Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images**|Pak-Hei Yeung et.al.|[2209.05477v1](http://arxiv.org/abs/2209.05477v1)|null|
 |**2022-09-12**|**Explicitly Controllable 3D-Aware Portrait Generation**|Junshu Tang et.al.|[2209.05434v1](http://arxiv.org/abs/2209.05434v1)|null|
 |**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
@@ -683,6 +693,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-13**|**Inclusive Production Cross Sections at N3LO**|Julien Baglio et.al.|[2209.06138v1](http://arxiv.org/abs/2209.06138v1)|null|
+|**2022-09-13**|**Analysis of Self-Attention Head Diversity for Conformer-based Automatic Speech Recognition**|Kartik Audhkhasi et.al.|[2209.06096v1](http://arxiv.org/abs/2209.06096v1)|null|
+|**2022-09-13**|**M^2-3DLaneNet: Multi-Modal 3D Lane Detection**|Yueru Luo et.al.|[2209.05996v1](http://arxiv.org/abs/2209.05996v1)|null|
+|**2022-09-13**|**HEARTS: Multi-task Fusion of Dense Retrieval and Non-autoregressive Generation for Sponsored Search**|Bhargav Dodla et.al.|[2209.05861v1](http://arxiv.org/abs/2209.05861v1)|null|
+|**2022-09-13**|**Moving from 2D to 3D: volumetric medical image classification for rectal cancer staging**|Joohyung Lee et.al.|[2209.05771v1](http://arxiv.org/abs/2209.05771v1)|null|
+|**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
+|**2022-09-13**|**Semantic2Graph: Graph-based Multi-modal Feature for Action Segmentation in Videos**|Junbin Zhang et.al.|[2209.05653v1](http://arxiv.org/abs/2209.05653v1)|null|
+|**2022-09-12**|**VBF vs. GGF Higgs with Full-Event Deep Learning: Towards a Decay-Agnostic Tagger**|Cheng-Wei Chiang et.al.|[2209.05518v1](http://arxiv.org/abs/2209.05518v1)|null|
 |**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
 |**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
 |**2022-09-12**|**Machine-enhanced CP-asymmetries in the electroweak sector**|Noah Clarke Hall et.al.|[2209.05143v1](http://arxiv.org/abs/2209.05143v1)|null|
