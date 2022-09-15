@@ -1,4 +1,4 @@
-## Updated on 2022.09.14
+## Updated on 2022.09.15
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 |**2022-09-13**|**Automated classification for open-ended questions with BERT**|Hyukjun Gweon et.al.|[2209.06178v1](http://arxiv.org/abs/2209.06178v1)|null|
 |**2022-09-13**|**Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
 |**2022-09-13**|**Comparative analysis of segmentation and generative models for fingerprint retrieval task**|Megh Patel et.al.|[2209.06172v1](http://arxiv.org/abs/2209.06172v1)|null|
-|**2022-09-13**|**PET image denoising based on denoising diffusion probabilistic models**|Kuang Gong et.al.|[2209.06167v1](http://arxiv.org/abs/2209.06167v1)|null|
+|**2022-09-14**|**PET image denoising based on denoising diffusion probabilistic models**|Kuang Gong et.al.|[2209.06167v2](http://arxiv.org/abs/2209.06167v2)|null|
 |**2022-09-13**|**What You See is What You Grasp: User-Friendly Grasping Guided by Near-eye-tracking**|Shaochen Wang et.al.|[2209.06122v1](http://arxiv.org/abs/2209.06122v1)|null|
 |**2022-09-13**|**A Complete Enumeration of Ballot Permutations Avoiding Sets of Small Patterns**|Nathan Sun et.al.|[2209.06087v1](http://arxiv.org/abs/2209.06087v1)|null|
 |**2022-09-13**|**DOMINO: Domain-aware Model Calibration in Medical Image Segmentation**|Skylar E. Stolte et.al.|[2209.06077v1](http://arxiv.org/abs/2209.06077v1)|null|
