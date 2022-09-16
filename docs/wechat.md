@@ -1,4 +1,4 @@
-> Updated on 2022.09.15
+> Updated on 2022.09.16
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 - 2022-09-14, **Efficient Unsupervised Learning for Plankton Images**, Paolo Didier Alfano et.al., Paper: [http://arxiv.org/abs/2209.06726v1](http://arxiv.org/abs/2209.06726v1)
 - 2022-09-14, **Detection of Smart Grid Integrity Attacks Using Signal Temporal Logic**, José Ignacio Requeno et.al., Paper: [http://arxiv.org/abs/2209.06722v1](http://arxiv.org/abs/2209.06722v1)
 - 2022-09-14, **On Language Clustering: A Non-parametric Statistical Approach**, Anagh Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2209.06720v1](http://arxiv.org/abs/2209.06720v1)
-- 2022-09-14, **Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**, Flor Miriam Plaza-del-Arco et.al., Paper: [http://arxiv.org/abs/2209.06701v1](http://arxiv.org/abs/2209.06701v1), Code: **[https://github.com/fmplaza/zsl_nli_emotion_prompts](https://github.com/fmplaza/zsl_nli_emotion_prompts)**
+- 2022-09-15, **Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**, Flor Miriam Plaza-del-Arco et.al., Paper: [http://arxiv.org/abs/2209.06701v2](http://arxiv.org/abs/2209.06701v2), Code: **[https://github.com/fmplaza/zsl_nli_emotion_prompts](https://github.com/fmplaza/zsl_nli_emotion_prompts)**
 - 2022-09-14, **WildQA: In-the-Wild Video Question Answering**, Santiago Castro et.al., Paper: [http://arxiv.org/abs/2209.06650v1](http://arxiv.org/abs/2209.06650v1)
 - 2022-09-14, **Distributed Multi-Robot Obstacle Avoidance via Logarithmic Map-based Deep Reinforcement Learning**, Jiafeng Ma et.al., Paper: [http://arxiv.org/abs/2209.06622v1](http://arxiv.org/abs/2209.06622v1)
 - 2022-09-14, **trec: An R package for trend estimation and classification to support integrated assessment of the marine ecosystem and environmental factors**, Hiroko Solvang et.al., Paper: [http://arxiv.org/abs/2209.06619v1](http://arxiv.org/abs/2209.06619v1)
@@ -695,7 +695,7 @@
 
 ## MultiModal
 
-- 2022-09-14, **GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design**, N. R. Mandell et.al., Paper: [http://arxiv.org/abs/2209.06731v1](http://arxiv.org/abs/2209.06731v1)
+- 2022-09-15, **GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design**, N. R. Mandell et.al., Paper: [http://arxiv.org/abs/2209.06731v2](http://arxiv.org/abs/2209.06731v2)
 - 2022-09-14, **Volumetric-based Contact Point Detection for 7-DoF Grasping**, Junhao Cai et.al., Paper: [http://arxiv.org/abs/2209.06675v1](http://arxiv.org/abs/2209.06675v1)
 - 2022-09-14, **Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**, Vincenzo Polizzi et.al., Paper: [http://arxiv.org/abs/2209.06588v1](http://arxiv.org/abs/2209.06588v1)
 - 2022-09-14, **CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer**, Youngseok Kim et.al., Paper: [http://arxiv.org/abs/2209.06535v1](http://arxiv.org/abs/2209.06535v1)
