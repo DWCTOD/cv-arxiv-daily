@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
+|**2022-09-15**|**Medical Image Segmentation using LeViT-UNet++: A Case Study on GI Tract Data**|Praneeth Nemani et.al.|[2209.07515v1](http://arxiv.org/abs/2209.07515v1)|null|
+|**2022-09-15**|**Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**|Manli Shu et.al.|[2209.07511v1](http://arxiv.org/abs/2209.07511v1)|null|
+|**2022-09-15**|**DiP-GNN: Discriminative Pre-Training of Graph Neural Networks**|Simiao Zuo et.al.|[2209.07499v1](http://arxiv.org/abs/2209.07499v1)|null|
+|**2022-09-15**|**Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings**|Sooji Han et.al.|[2209.07494v1](http://arxiv.org/abs/2209.07494v1)|null|
+|**2022-09-15**|**MRI-MECH: Mechanics-informed MRI to estimate esophageal health**|Sourav Halder et.al.|[2209.07492v1](http://arxiv.org/abs/2209.07492v1)|null|
+|**2022-09-15**|**On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition**|Farrukh Rahman et.al.|[2209.07474v1](http://arxiv.org/abs/2209.07474v1)|null|
+|**2022-09-15**|**Envy-freeness in 3D Hedonic Games**|Ágnes Cseh et.al.|[2209.07440v1](http://arxiv.org/abs/2209.07440v1)|null|
+|**2022-09-15**|**Fano's Last Fano**|Marco Andreatta et.al.|[2209.07390v1](http://arxiv.org/abs/2209.07390v1)|null|
+|**2022-09-15**|**Visual Recognition with Deep Nearest Centroids**|Wenguan Wang et.al.|[2209.07383v1](http://arxiv.org/abs/2209.07383v1)|**[link](https://github.com/chenghan111/dnc)**|
 |**2022-09-14**|**Automated Fidelity Assessment for Strategy Training in Inpatient Rehabilitation using Natural Language Processing**|Hunter Osterhoudt et.al.|[2209.06727v1](http://arxiv.org/abs/2209.06727v1)|null|
 |**2022-09-14**|**Efficient Unsupervised Learning for Plankton Images**|Paolo Didier Alfano et.al.|[2209.06726v1](http://arxiv.org/abs/2209.06726v1)|null|
 |**2022-09-14**|**Detection of Smart Grid Integrity Attacks Using Signal Temporal Logic**|José Ignacio Requeno et.al.|[2209.06722v1](http://arxiv.org/abs/2209.06722v1)|null|
@@ -703,6 +713,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-15**|**FFPA-Net: Efficient Feature Fusion with Projection Awareness for 3D Object Detection**|Chaokang Jiang et.al.|[2209.07419v1](http://arxiv.org/abs/2209.07419v1)|null|
+|**2022-09-15**|**Sharpness of saturated fusion systems on a Sylow $p$-subgroup of ${\rm G}_2(p)$**|Valentina Grazian et.al.|[2209.07388v1](http://arxiv.org/abs/2209.07388v1)|null|
+|**2022-09-15**|**Distributed Sparse Linear Regression with Sublinear Communication**|Chen Amiraz et.al.|[2209.07230v1](http://arxiv.org/abs/2209.07230v1)|null|
+|**2022-09-15**|**Encrypted distributed state estimation via affine averaging**|N. Schlüter et.al.|[2209.07206v1](http://arxiv.org/abs/2209.07206v1)|null|
+|**2022-09-15**|**Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge**|Zhihong Chen et.al.|[2209.07118v1](http://arxiv.org/abs/2209.07118v1)|null|
+|**2022-09-15**|**MIPI 2022 Challenge on RGB+ToF Depth Completion: Dataset and Report**|Wenxiu Sun et.al.|[2209.07057v1](http://arxiv.org/abs/2209.07057v1)|null|
+|**2022-09-15**|**Model-Guided Multi-Contrast Deep Unfolding Network for MRI Super-resolution Reconstruction**|Gang Yang et.al.|[2209.07030v1](http://arxiv.org/abs/2209.07030v1)|**[link](https://github.com/yggame/mgdun)**|
+|**2022-09-15**|**PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer**|Qibo Qiu et.al.|[2209.06994v1](http://arxiv.org/abs/2209.06994v1)|**[link](https://github.com/vincentqqb/priorlane)**|
 |**2022-09-15**|**GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design**|N. R. Mandell et.al.|[2209.06731v2](http://arxiv.org/abs/2209.06731v2)|null|
 |**2022-09-14**|**Volumetric-based Contact Point Detection for 7-DoF Grasping**|Junhao Cai et.al.|[2209.06675v1](http://arxiv.org/abs/2209.06675v1)|null|
 |**2022-09-14**|**Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**|Vincenzo Polizzi et.al.|[2209.06588v1](http://arxiv.org/abs/2209.06588v1)|null|
