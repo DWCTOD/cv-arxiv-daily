@@ -15,7 +15,7 @@ layout: default
 |**2022-09-16**|**Causes of Catastrophic Forgetting in Class-Incremental Semantic Segmentation**|Tobias Kalb et.al.|[2209.08010v1](http://arxiv.org/abs/2209.08010v1)|**[link](https://github.com/mmasana/FACIL)**|
 |**2022-09-16**|**Plug-and-Play Regularization using Linear Solvers**|Pravin Nair et.al.|[2209.08003v1](http://arxiv.org/abs/2209.08003v1)|null|
 |**2022-09-16**|**TIMIT-TTS: a Text-to-Speech Dataset for Multimodal Synthetic Media Detection**|Davide Salvi et.al.|[2209.08000v1](http://arxiv.org/abs/2209.08000v1)|null|
-|**2022-09-16**|**Self-Supervised Learning with an Information Maximization Criterion**|Serdar Ozsoy et.al.|[2209.07999v1](http://arxiv.org/abs/2209.07999v1)|null|
+|**2022-09-16**|**Self-Supervised Learning with an Information Maximization Criterion**|Serdar Ozsoy et.al.|[2209.07999v1](http://arxiv.org/abs/2209.07999v1)|**[link](https://github.com/serdarozsoy/corinfomax-ssl)**|
 |**2022-09-16**|**Enhanced hyperalignment via spatial prior information**|Angela Andreella et.al.|[2209.07960v1](http://arxiv.org/abs/2209.07960v1)|null|
 |**2022-09-16**|**Towards Bridging the Performance Gaps of Joint Energy-based Models**|Xiulong Yang et.al.|[2209.07959v1](http://arxiv.org/abs/2209.07959v1)|null|
 |**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
