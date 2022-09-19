@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**Motion Detection in Diffraction Tomography by Common Circle Methods**|Michael Quellmalz et.al.|[2209.08086v1](http://arxiv.org/abs/2209.08086v1)|null|
+|**2022-09-16**|**A Systematic Evaluation of Node Embedding Robustness**|Alexandru Mara et.al.|[2209.08064v1](http://arxiv.org/abs/2209.08064v1)|null|
+|**2022-09-16**|**On the structure of the $6 \times 6$ copositive cone**|Roland Hildebrand et.al.|[2209.08039v1](http://arxiv.org/abs/2209.08039v1)|null|
+|**2022-09-16**|**Continual Learning for Class- and Domain-Incremental Semantic Segmentation**|Tobias Kalb et.al.|[2209.08023v1](http://arxiv.org/abs/2209.08023v1)|null|
+|**2022-09-16**|**Causes of Catastrophic Forgetting in Class-Incremental Semantic Segmentation**|Tobias Kalb et.al.|[2209.08010v1](http://arxiv.org/abs/2209.08010v1)|**[link](https://github.com/mmasana/FACIL)**|
+|**2022-09-16**|**Plug-and-Play Regularization using Linear Solvers**|Pravin Nair et.al.|[2209.08003v1](http://arxiv.org/abs/2209.08003v1)|null|
+|**2022-09-16**|**TIMIT-TTS: a Text-to-Speech Dataset for Multimodal Synthetic Media Detection**|Davide Salvi et.al.|[2209.08000v1](http://arxiv.org/abs/2209.08000v1)|null|
+|**2022-09-16**|**Self-Supervised Learning with an Information Maximization Criterion**|Serdar Ozsoy et.al.|[2209.07999v1](http://arxiv.org/abs/2209.07999v1)|null|
+|**2022-09-16**|**Enhanced hyperalignment via spatial prior information**|Angela Andreella et.al.|[2209.07960v1](http://arxiv.org/abs/2209.07960v1)|null|
+|**2022-09-16**|**Towards Bridging the Performance Gaps of Joint Energy-based Models**|Xiulong Yang et.al.|[2209.07959v1](http://arxiv.org/abs/2209.07959v1)|null|
 |**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
 |**2022-09-15**|**Medical Image Segmentation using LeViT-UNet++: A Case Study on GI Tract Data**|Praneeth Nemani et.al.|[2209.07515v1](http://arxiv.org/abs/2209.07515v1)|null|
 |**2022-09-15**|**Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**|Manli Shu et.al.|[2209.07511v1](http://arxiv.org/abs/2209.07511v1)|null|
@@ -709,6 +719,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**Axial algebras of Jordan and Monster type**|Justin McInroy et.al.|[2209.08043v1](http://arxiv.org/abs/2209.08043v1)|null|
+|**2022-09-16**|**Anisotropic higher rank $\mathbb{Z}_N$ topological phases on graphs**|Hiromi Ebisu et.al.|[2209.07987v1](http://arxiv.org/abs/2209.07987v1)|null|
+|**2022-09-16**|**DPFNet: A Dual-branch Dilated Network with Phase-aware Fourier Convolution for Low-light Image Enhancement**|Yunliang Zhuang et.al.|[2209.07937v1](http://arxiv.org/abs/2209.07937v1)|null|
+|**2022-09-16**|**An Attention-guided Multistream Feature Fusion Network for Localization of Risky Objects in Driving Videos**|Muhammad Monjurul Karim et.al.|[2209.07922v1](http://arxiv.org/abs/2209.07922v1)|null|
+|**2022-09-16**|**Majorana fusion in interacting one-dimensional Kitaev chains**|Bradraj Pandey et.al.|[2209.07913v1](http://arxiv.org/abs/2209.07913v1)|null|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
+|**2022-09-16**|**Weakly Supervised Semantic Segmentation via Progressive Patch Learning**|Jinlong Li et.al.|[2209.07828v1](http://arxiv.org/abs/2209.07828v1)|**[link](https://github.com/tyroneli/ppl_wsss)**|
+|**2022-09-15**|**Multi-Pose Fusion for Sparse-View CT Reconstruction Using Consensus Equilibrium**|Diyu Yang et.al.|[2209.07561v1](http://arxiv.org/abs/2209.07561v1)|null|
 |**2022-09-15**|**FFPA-Net: Efficient Feature Fusion with Projection Awareness for 3D Object Detection**|Chaokang Jiang et.al.|[2209.07419v1](http://arxiv.org/abs/2209.07419v1)|null|
 |**2022-09-15**|**Sharpness of saturated fusion systems on a Sylow $p$-subgroup of ${\rm G}_2(p)$**|Valentina Grazian et.al.|[2209.07388v1](http://arxiv.org/abs/2209.07388v1)|null|
 |**2022-09-15**|**Distributed Sparse Linear Regression with Sublinear Communication**|Chen Amiraz et.al.|[2209.07230v1](http://arxiv.org/abs/2209.07230v1)|null|
