@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**Real-time Online Video Detection with Temporal Smoothing Transformers**|Yue Zhao et.al.|[2209.09236v1](http://arxiv.org/abs/2209.09236v1)|**[link](https://github.com/zhaoyue-zephyrus/testra)**|
+|**2022-09-19**|**Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments**|Mingyo Seo et.al.|[2209.09233v1](http://arxiv.org/abs/2209.09233v1)|null|
+|**2022-09-19**|**A Zero-Shot Adaptive Quadcopter Controller**|Dingqi Zhang et.al.|[2209.09232v1](http://arxiv.org/abs/2209.09232v1)|null|
+|**2022-09-19**|**TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization**|Zijie J. Wang et.al.|[2209.09227v1](http://arxiv.org/abs/2209.09227v1)|**[link](https://github.com/poloclub/timbertrek)**|
+|**2022-09-19**|**Gravity Localization on Intersecting Thick Braneworlds**|Henrique Matheus Gauy et.al.|[2209.09215v1](http://arxiv.org/abs/2209.09215v1)|null|
+|**2022-09-19**|**Deep Variation Prior: Joint Image Denoising and Noise Variance Estimation without Clean Data**|Rihuan Ke et.al.|[2209.09214v1](http://arxiv.org/abs/2209.09214v1)|null|
+|**2022-09-19**|**Neural Collapse with Normalized Features: A Geometric Analysis over the Riemannian Manifold**|Can Yaras et.al.|[2209.09211v1](http://arxiv.org/abs/2209.09211v1)|null|
+|**2022-09-19**|**Degenerations of Poisson algebras**|Hani Abdelwahab et.al.|[2209.09150v1](http://arxiv.org/abs/2209.09150v1)|null|
+|**2022-09-19**|**DeePhy: On Deepfake Phylogeny**|Kartik Narayan et.al.|[2209.09111v1](http://arxiv.org/abs/2209.09111v1)|null|
+|**2022-09-19**|**SJTU-AISPEECH System for VoxCeleb Speaker Recognition Challenge 2022**|Zhengyang Chen et.al.|[2209.09076v1](http://arxiv.org/abs/2209.09076v1)|null|
 |**2022-09-16**|**Motion Detection in Diffraction Tomography by Common Circle Methods**|Michael Quellmalz et.al.|[2209.08086v1](http://arxiv.org/abs/2209.08086v1)|null|
 |**2022-09-19**|**A Systematic Evaluation of Node Embedding Robustness**|Alexandru Mara et.al.|[2209.08064v2](http://arxiv.org/abs/2209.08064v2)|null|
 |**2022-09-16**|**On the structure of the $6 \times 6$ copositive cone**|Roland Hildebrand et.al.|[2209.08039v1](http://arxiv.org/abs/2209.08039v1)|null|
@@ -719,6 +729,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**SJTU-AISPEECH System for VoxCeleb Speaker Recognition Challenge 2022**|Zhengyang Chen et.al.|[2209.09076v1](http://arxiv.org/abs/2209.09076v1)|null|
+|**2022-09-19**|**Audio-Visual Fusion for Emotion Recognition in the Valence-Arousal Space Using Joint Cross-Attention**|R Gnana Praveen et.al.|[2209.09068v1](http://arxiv.org/abs/2209.09068v1)|null|
+|**2022-09-19**|**The Royalflush System for VoxCeleb Speaker Recognition Challenge 2022**|Jingguang Tian et.al.|[2209.09010v1](http://arxiv.org/abs/2209.09010v1)|null|
+|**2022-09-19**|**MSA-GCN:Multiscale Adaptive Graph Convolution Network for Gait Emotion Recognition**|Yunfei Yin et.al.|[2209.08988v1](http://arxiv.org/abs/2209.08988v1)|null|
+|**2022-09-19**|**MMF3: Neural Code Summarization Based on Multi-Modal Fine-Grained Feature Fusion**|Zheng Ma et.al.|[2209.08978v1](http://arxiv.org/abs/2209.08978v1)|null|
+|**2022-09-19**|**The imprint of star formation on stellar pulsations**|Thomas Steindl et.al.|[2209.08942v1](http://arxiv.org/abs/2209.08942v1)|null|
+|**2022-09-19**|**OPR-Miner: Order-preserving rule mining for time series**|Youxi Wu et.al.|[2209.08932v1](http://arxiv.org/abs/2209.08932v1)|null|
+|**2022-09-19**|**Best Axes Composition Extended: Multiple Gyroscopes and Accelerometers Data Fusion to Reduce Systematic Error**|Marsel Faizullin et.al.|[2209.08895v1](http://arxiv.org/abs/2209.08895v1)|null|
+|**2022-09-19**|**Deep Fusion of Multi-object Densities Using Transfomer**|Lechi Li et.al.|[2209.08857v1](http://arxiv.org/abs/2209.08857v1)|**[link](https://github.com/lechili/deepfusion)**|
+|**2022-09-19**|**Scale Attention for Learning Deep Face Representation: A Study Against Visual Scale Variation**|Hailin Shi et.al.|[2209.08788v1](http://arxiv.org/abs/2209.08788v1)|null|
 |**2022-09-16**|**Axial algebras of Jordan and Monster type**|Justin McInroy et.al.|[2209.08043v1](http://arxiv.org/abs/2209.08043v1)|null|
 |**2022-09-16**|**Anisotropic higher rank $\mathbb{Z}_N$ topological phases on graphs**|Hiromi Ebisu et.al.|[2209.07987v1](http://arxiv.org/abs/2209.07987v1)|null|
 |**2022-09-16**|**DPFNet: A Dual-branch Dilated Network with Phase-aware Fourier Convolution for Low-light Image Enhancement**|Yunliang Zhuang et.al.|[2209.07937v1](http://arxiv.org/abs/2209.07937v1)|null|
