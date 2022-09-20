@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.09.19
+## Updated on 2022.09.20
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-16**|**Motion Detection in Diffraction Tomography by Common Circle Methods**|Michael Quellmalz et.al.|[2209.08086v1](http://arxiv.org/abs/2209.08086v1)|null|
-|**2022-09-16**|**A Systematic Evaluation of Node Embedding Robustness**|Alexandru Mara et.al.|[2209.08064v1](http://arxiv.org/abs/2209.08064v1)|null|
+|**2022-09-19**|**A Systematic Evaluation of Node Embedding Robustness**|Alexandru Mara et.al.|[2209.08064v2](http://arxiv.org/abs/2209.08064v2)|null|
 |**2022-09-16**|**On the structure of the $6 \times 6$ copositive cone**|Roland Hildebrand et.al.|[2209.08039v1](http://arxiv.org/abs/2209.08039v1)|null|
 |**2022-09-16**|**Continual Learning for Class- and Domain-Incremental Semantic Segmentation**|Tobias Kalb et.al.|[2209.08023v1](http://arxiv.org/abs/2209.08023v1)|null|
 |**2022-09-16**|**Causes of Catastrophic Forgetting in Class-Incremental Semantic Segmentation**|Tobias Kalb et.al.|[2209.08010v1](http://arxiv.org/abs/2209.08010v1)|**[link](https://github.com/mmasana/FACIL)**|
