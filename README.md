@@ -1,4 +1,4 @@
-## Updated on 2022.09.20
+## Updated on 2022.09.21
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@
 |**2022-09-19**|**Neural Collapse with Normalized Features: A Geometric Analysis over the Riemannian Manifold**|Can Yaras et.al.|[2209.09211v1](http://arxiv.org/abs/2209.09211v1)|null|
 |**2022-09-19**|**Degenerations of Poisson algebras**|Hani Abdelwahab et.al.|[2209.09150v1](http://arxiv.org/abs/2209.09150v1)|null|
 |**2022-09-19**|**DeePhy: On Deepfake Phylogeny**|Kartik Narayan et.al.|[2209.09111v1](http://arxiv.org/abs/2209.09111v1)|null|
-|**2022-09-19**|**SJTU-AISPEECH System for VoxCeleb Speaker Recognition Challenge 2022**|Zhengyang Chen et.al.|[2209.09076v1](http://arxiv.org/abs/2209.09076v1)|null|
+|**2022-09-20**|**SJTU-AISPEECH System for VoxCeleb Speaker Recognition Challenge 2022**|Zhengyang Chen et.al.|[2209.09076v2](http://arxiv.org/abs/2209.09076v2)|null|
 |**2022-09-16**|**Motion Detection in Diffraction Tomography by Common Circle Methods**|Michael Quellmalz et.al.|[2209.08086v1](http://arxiv.org/abs/2209.08086v1)|null|
 |**2022-09-19**|**A Systematic Evaluation of Node Embedding Robustness**|Alexandru Mara et.al.|[2209.08064v2](http://arxiv.org/abs/2209.08064v2)|null|
 |**2022-09-16**|**On the structure of the $6 \times 6$ copositive cone**|Roland Hildebrand et.al.|[2209.08039v1](http://arxiv.org/abs/2209.08039v1)|null|
@@ -729,9 +729,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-19**|**SJTU-AISPEECH System for VoxCeleb Speaker Recognition Challenge 2022**|Zhengyang Chen et.al.|[2209.09076v1](http://arxiv.org/abs/2209.09076v1)|null|
+|**2022-09-20**|**SJTU-AISPEECH System for VoxCeleb Speaker Recognition Challenge 2022**|Zhengyang Chen et.al.|[2209.09076v2](http://arxiv.org/abs/2209.09076v2)|null|
 |**2022-09-19**|**Audio-Visual Fusion for Emotion Recognition in the Valence-Arousal Space Using Joint Cross-Attention**|R Gnana Praveen et.al.|[2209.09068v1](http://arxiv.org/abs/2209.09068v1)|null|
-|**2022-09-19**|**The Royalflush System for VoxCeleb Speaker Recognition Challenge 2022**|Jingguang Tian et.al.|[2209.09010v1](http://arxiv.org/abs/2209.09010v1)|null|
+|**2022-09-20**|**The Royalflush System for VoxCeleb Speaker Recognition Challenge 2022**|Jingguang Tian et.al.|[2209.09010v2](http://arxiv.org/abs/2209.09010v2)|null|
 |**2022-09-19**|**MSA-GCN:Multiscale Adaptive Graph Convolution Network for Gait Emotion Recognition**|Yunfei Yin et.al.|[2209.08988v1](http://arxiv.org/abs/2209.08988v1)|null|
 |**2022-09-19**|**MMF3: Neural Code Summarization Based on Multi-Modal Fine-Grained Feature Fusion**|Zheng Ma et.al.|[2209.08978v1](http://arxiv.org/abs/2209.08978v1)|null|
 |**2022-09-19**|**The imprint of star formation on stellar pulsations**|Thomas Steindl et.al.|[2209.08942v1](http://arxiv.org/abs/2209.08942v1)|null|
