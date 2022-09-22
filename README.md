@@ -1,4 +1,4 @@
-## Updated on 2022.09.21
+## Updated on 2022.09.22
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**Intermediate-mass black holes and the fundamental plane of black hole accretion**|Kayhan Gültekin et.al.|[2209.09890v1](http://arxiv.org/abs/2209.09890v1)|null|
 |**2022-09-20**|**Diabetic foot ulcers monitoring by employing super resolution and noise reduction deep learning techniques**|Agapi Davradou et.al.|[2209.09880v1](http://arxiv.org/abs/2209.09880v1)|null|
-|**2022-09-20**|**Streaming Encoding Algorithms for Scalable Hyperdimensional Computing**|Anthony Thomas et.al.|[2209.09868v1](http://arxiv.org/abs/2209.09868v1)|null|
+|**2022-09-21**|**Streaming Encoding Algorithms for Scalable Hyperdimensional Computing**|Anthony Thomas et.al.|[2209.09868v2](http://arxiv.org/abs/2209.09868v2)|null|
 |**2022-09-20**|**ESTA: An Esports Trajectory and Action Dataset**|Peter Xenopoulos et.al.|[2209.09861v1](http://arxiv.org/abs/2209.09861v1)|null|
 |**2022-09-20**|**Extremely Simple Activation Shaping for Out-of-Distribution Detection**|Andrija Djurisic et.al.|[2209.09858v1](http://arxiv.org/abs/2209.09858v1)|**[link](https://github.com/andrijazz/ash)**|
 |**2022-09-20**|**Fine-grained Classification of Solder Joints with α-skew Jensen-Shannon Divergence**|Furkan Ulger et.al.|[2209.09857v1](http://arxiv.org/abs/2209.09857v1)|null|
@@ -744,7 +744,7 @@
 |**2022-09-20**|**Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations**|Tushar et.al.|[2209.09750v1](http://arxiv.org/abs/2209.09750v1)|null|
 |**2022-09-20**|**Parallel transport modeling of linear divertor simulators with fundamental ion cyclotron heating**|A. Kumar et.al.|[2209.09745v1](http://arxiv.org/abs/2209.09745v1)|null|
 |**2022-09-20**|**Integrated modelling and multiscale gyrokinetic validation study of ETG turbulence in a JET hybrid H-mode scenario**|J Citrin et.al.|[2209.09683v1](http://arxiv.org/abs/2209.09683v1)|null|
-|**2022-09-20**|**An Efficient, High-order, Adaptive Finite Volume Solver for Modelling Capillary Effects in Advanced Manufacturing Processes**|Patrick Zimbrod et.al.|[2209.09671v1](http://arxiv.org/abs/2209.09671v1)|**[link](https://github.com/pzimbrod/thermocapillaryInterFoam)**|
+|**2022-09-20**|**An Efficient, High-order, Adaptive Finite Volume Solver for Modelling Capillary Effects in Advanced Manufacturing Processes**|Patrick Zimbrod et.al.|[2209.09671v1](http://arxiv.org/abs/2209.09671v1)|**[link](https://github.com/pzimbrod/ieee-iceccme-2022)**|
 |**2022-09-20**|**The BUCEA Speaker Diarization System for the VoxCeleb Speaker Recognition Challenge 2022**|Ruohua Zhou et.al.|[2209.09635v1](http://arxiv.org/abs/2209.09635v1)|null|
 |**2022-09-20**|**Towards Robust Referring Image Segmentation**|Jianzong Wu et.al.|[2209.09554v1](http://arxiv.org/abs/2209.09554v1)|null|
 |**2022-09-20**|**Perceptual Quality Assessment for Digital Human Heads**|Zicheng Zhang et.al.|[2209.09489v1](http://arxiv.org/abs/2209.09489v1)|null|
