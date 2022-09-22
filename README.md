@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation**|Yu-Ying Yeh et.al.|[2209.10510v1](http://arxiv.org/abs/2209.10510v1)|null|
+|**2022-09-21**|**Gemino: Practical and Robust Neural Compression for Video Conferencing**|Vibhaalakshmi Sivaraman et.al.|[2209.10507v1](http://arxiv.org/abs/2209.10507v1)|null|
+|**2022-09-21**|**Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers**|Ruisi Zhang et.al.|[2209.10505v1](http://arxiv.org/abs/2209.10505v1)|null|
+|**2022-09-21**|**Unifying Classification Schemes for Software Engineering Meta-Research**|Angelika Kaplan et.al.|[2209.10491v1](http://arxiv.org/abs/2209.10491v1)|null|
+|**2022-09-21**|**Recurrent Super-Resolution Method for Enhancing Low Quality Thermal Facial Data**|David O'Callaghan et.al.|[2209.10489v1](http://arxiv.org/abs/2209.10489v1)|null|
+|**2022-09-21**|**SMTCE: A Social Media Text Classification Evaluation Benchmark and BERTology Models for Vietnamese**|Luan Thanh Nguyen et.al.|[2209.10482v1](http://arxiv.org/abs/2209.10482v1)|null|
+|**2022-09-21**|**Multi-view Local Co-occurrence and Global Consistency Learning Improve Mammogram Classification Generalisation**|Yuanhong Chen et.al.|[2209.10478v1](http://arxiv.org/abs/2209.10478v1)|null|
+|**2022-09-21**|**Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model**|Zhaopeng Feng et.al.|[2209.10451v1](http://arxiv.org/abs/2209.10451v1)|null|
+|**2022-09-21**|**Complicated Background Suppression of ViSAR Image For Moving Target Shadow Detection**|Zhenyu Yang et.al.|[2209.10431v1](http://arxiv.org/abs/2209.10431v1)|null|
+|**2022-09-21**|**Consecutive Knowledge Meta-Adaptation Learning for Unsupervised Medical Diagnosis**|Yumin Zhang et.al.|[2209.10425v1](http://arxiv.org/abs/2209.10425v1)|null|
 |**2022-09-20**|**LINGUIST: Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging**|Andy Rosenbaum et.al.|[2209.09900v1](http://arxiv.org/abs/2209.09900v1)|null|
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**Intermediate-mass black holes and the fundamental plane of black hole accretion**|Kayhan Gültekin et.al.|[2209.09890v1](http://arxiv.org/abs/2209.09890v1)|null|
@@ -739,6 +749,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**|Swarnadeep Saha et.al.|[2209.10492v1](http://arxiv.org/abs/2209.10492v1)|**[link](https://github.com/swarnahub/summarizationprograms)**|
+|**2022-09-21**|**Reply to "Comment on Sequential Single-pion Production Explaining the dibaryon $d^*(2380)$ peak''**|R. Molina et.al.|[2209.10459v1](http://arxiv.org/abs/2209.10459v1)|null|
+|**2022-09-21**|**A Technical Note on (Labeled) RFS-AA Fusion: Derivation from PHD Consistency**|Tiancheng Li et.al.|[2209.10433v1](http://arxiv.org/abs/2209.10433v1)|null|
+|**2022-09-21**|**Toward 3D Spatial Reasoning for Human-like Text-based Visual Question Answering**|Hao Li et.al.|[2209.10326v1](http://arxiv.org/abs/2209.10326v1)|null|
+|**2022-09-21**|**Kirillov-Reshetikhin modules and quantum $K$-matrices**|Hiroto Kusano et.al.|[2209.10325v1](http://arxiv.org/abs/2209.10325v1)|null|
+|**2022-09-21**|**Radio observations of the Black Hole X-ray Binary EXO 1846-031 re-awakening from a 34-year slumber**|D. R. A. Williams et.al.|[2209.10228v1](http://arxiv.org/abs/2209.10228v1)|null|
+|**2022-09-21**|**HiFuse: Hierarchical Multi-Scale Feature Fusion Network for Medical Image Classification**|Xiangzuo Huo et.al.|[2209.10218v1](http://arxiv.org/abs/2209.10218v1)|**[link](https://github.com/huoxiangzuo/HiFuse)**|
+|**2022-09-21**|**The ReturnZero System for VoxCeleb Speaker Recognition Challenge 2022**|Sangwon Suh et.al.|[2209.10147v1](http://arxiv.org/abs/2209.10147v1)|null|
+|**2022-09-21**|**Progressive with Purpose: Guiding Progressive Inpainting DNNs through Context and Structure**|Kangdi Shi et.al.|[2209.10071v1](http://arxiv.org/abs/2209.10071v1)|null|
 |**2022-09-20**|**Predictive Scale-Bridging Simulations through Active Learning**|Satish Karra et.al.|[2209.09811v1](http://arxiv.org/abs/2209.09811v1)|null|
 |**2022-09-20**|**An Efficient End-to-End Transformer with Progressive Tri-modal Attention for Multi-modal Emotion Recognition**|Yang Wu et.al.|[2209.09768v1](http://arxiv.org/abs/2209.09768v1)|null|
 |**2022-09-20**|**Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations**|Tushar et.al.|[2209.09750v1](http://arxiv.org/abs/2209.09750v1)|null|
