@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**VToonify: Controllable High-Resolution Portrait Video Style Transfer**|Shuai Yang et.al.|[2209.11224v1](http://arxiv.org/abs/2209.11224v1)|**[link](https://github.com/williamyang1991/vtoonify)**|
+|**2022-09-22**|**OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics**|Mohit Prabhushankar et.al.|[2209.11195v1](http://arxiv.org/abs/2209.11195v1)|null|
+|**2022-09-22**|**Learning Visual Explanations for DCNN-Based Image Classifiers Using an Attention Mechanism**|Ioanna Gkartzonika et.al.|[2209.11189v1](http://arxiv.org/abs/2209.11189v1)|null|
+|**2022-09-22**|**Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network, data reduction procedures, and the catalog**|J. Borovicka et.al.|[2209.11186v1](http://arxiv.org/abs/2209.11186v1)|null|
+|**2022-09-22**|**Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures**|Klara Janouskova et.al.|[2209.11159v1](http://arxiv.org/abs/2209.11159v1)|null|
+|**2022-09-22**|**Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation**|Jack Saunders et.al.|[2209.11094v1](http://arxiv.org/abs/2209.11094v1)|null|
+|**2022-09-22**|**Blockage Prediction for Mobile UE in RIS-assisted Wireless Networks: A Deep Learning Approach**|Shakil Ahmed et.al.|[2209.11088v1](http://arxiv.org/abs/2209.11088v1)|null|
+|**2022-09-22**|**A practical overview of image classification with variational tensor-network quantum circuits**|Diego Guala et.al.|[2209.11058v1](http://arxiv.org/abs/2209.11058v1)|null|
+|**2022-09-22**|**Efficient Few-Shot Learning Without Prompts**|Lewis Tunstall et.al.|[2209.11055v1](http://arxiv.org/abs/2209.11055v1)|**[link](https://github.com/huggingface/setfit)**|
+|**2022-09-22**|**Stochastic Optimization of 3D Non-Cartesian Sampling Trajectory (SNOPY)**|Guanhua Wang et.al.|[2209.11030v1](http://arxiv.org/abs/2209.11030v1)|null|
 |**2022-09-21**|**Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation**|Yu-Ying Yeh et.al.|[2209.10510v1](http://arxiv.org/abs/2209.10510v1)|null|
 |**2022-09-22**|**Gemino: Practical and Robust Neural Compression for Video Conferencing**|Vibhaalakshmi Sivaraman et.al.|[2209.10507v2](http://arxiv.org/abs/2209.10507v2)|null|
 |**2022-09-21**|**Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers**|Ruisi Zhang et.al.|[2209.10505v1](http://arxiv.org/abs/2209.10505v1)|null|
@@ -753,6 +763,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**Exploring Non-Invertible Symmetries in Free Theories**|Pierluigi Niro et.al.|[2209.11166v1](http://arxiv.org/abs/2209.11166v1)|null|
+|**2022-09-22**|**Decentralized Distributed Expert Assisted Learning (D2EAL) approach for cooperative target-tracking**|Shubhankar Gupta et.al.|[2209.11113v1](http://arxiv.org/abs/2209.11113v1)|null|
+|**2022-09-22**|**Symmetry TFTs for Non-Invertible Defects**|Justin Kaidi et.al.|[2209.11062v1](http://arxiv.org/abs/2209.11062v1)|null|
+|**2022-09-22**|**DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**|Chao Li et.al.|[2209.10907v1](http://arxiv.org/abs/2209.10907v1)|null|
+|**2022-09-22**|**Beyond Voxel Prediction Uncertainty: Identifying brain lesions you can trust**|Benjamin Lambert et.al.|[2209.10877v1](http://arxiv.org/abs/2209.10877v1)|null|
+|**2022-09-22**|**The SpeakIn System Description for CNSRC2022**|Yu Zheng et.al.|[2209.10846v1](http://arxiv.org/abs/2209.10846v1)|null|
+|**2022-09-22**|**High-order Multi-view Clustering for Generic Data**|Erlin Pan et.al.|[2209.10838v1](http://arxiv.org/abs/2209.10838v1)|null|
+|**2022-09-22**|**FusionRCNN: LiDAR-Camera Fusion for Two-stage 3D Object Detection**|Xinli Xu et.al.|[2209.10733v1](http://arxiv.org/abs/2209.10733v1)|null|
+|**2022-09-22**|**Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**|Xiaoyan Liu et.al.|[2209.10722v1](http://arxiv.org/abs/2209.10722v1)|null|
 |**2022-09-21**|**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**|Swarnadeep Saha et.al.|[2209.10492v1](http://arxiv.org/abs/2209.10492v1)|**[link](https://github.com/swarnahub/summarizationprograms)**|
 |**2022-09-21**|**Reply to "Comment on Sequential Single-pion Production Explaining the dibaryon $d^*(2380)$ peak''**|R. Molina et.al.|[2209.10459v1](http://arxiv.org/abs/2209.10459v1)|null|
 |**2022-09-21**|**A Technical Note on (Labeled) RFS-AA Fusion: Derivation from PHD Consistency**|Tiancheng Li et.al.|[2209.10433v1](http://arxiv.org/abs/2209.10433v1)|null|
