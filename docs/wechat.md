@@ -1,9 +1,9 @@
-> Updated on 2022.09.22
+> Updated on 2022.09.23
 
 ## Video_Classification
 
 - 2022-09-21, **Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation**, Yu-Ying Yeh et.al., Paper: [http://arxiv.org/abs/2209.10510v1](http://arxiv.org/abs/2209.10510v1)
-- 2022-09-21, **Gemino: Practical and Robust Neural Compression for Video Conferencing**, Vibhaalakshmi Sivaraman et.al., Paper: [http://arxiv.org/abs/2209.10507v1](http://arxiv.org/abs/2209.10507v1)
+- 2022-09-22, **Gemino: Practical and Robust Neural Compression for Video Conferencing**, Vibhaalakshmi Sivaraman et.al., Paper: [http://arxiv.org/abs/2209.10507v2](http://arxiv.org/abs/2209.10507v2)
 - 2022-09-21, **Text Revealer: Private Text Reconstruction via Model Inversion Attacks against Transformers**, Ruisi Zhang et.al., Paper: [http://arxiv.org/abs/2209.10505v1](http://arxiv.org/abs/2209.10505v1)
 - 2022-09-21, **Unifying Classification Schemes for Software Engineering Meta-Research**, Angelika Kaplan et.al., Paper: [http://arxiv.org/abs/2209.10491v1](http://arxiv.org/abs/2209.10491v1)
 - 2022-09-21, **Recurrent Super-Resolution Method for Enhancing Low Quality Thermal Facial Data**, David O'Callaghan et.al., Paper: [http://arxiv.org/abs/2209.10489v1](http://arxiv.org/abs/2209.10489v1)
