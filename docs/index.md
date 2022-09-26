@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-23**|**Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN**|Tomas Kerepecky et.al.|[2209.11729v1](http://arxiv.org/abs/2209.11729v1)|null|
+|**2022-09-23**|**I-SPLIT: Deep Network Interpretability for Split Computing**|Federico Cunico et.al.|[2209.11607v1](http://arxiv.org/abs/2209.11607v1)|**[link](https://github.com/vips4/i-split)**|
+|**2022-09-23**|**Multi-Granularity Graph Pooling for Video-based Person Re-Identification**|Honghu Pan et.al.|[2209.11584v1](http://arxiv.org/abs/2209.11584v1)|null|
+|**2022-09-23**|**Pose-Aided Video-based Person Re-Identification via Recurrent Graph Convolutional Network**|Honghu Pan et.al.|[2209.11582v1](http://arxiv.org/abs/2209.11582v1)|null|
+|**2022-09-23**|**Multi-Modal Cross-Domain Alignment Network for Video Moment Retrieval**|Xiang Fang et.al.|[2209.11572v1](http://arxiv.org/abs/2209.11572v1)|null|
+|**2022-09-23**|**Query-based Hard-Image Retrieval for Object Detection at Test Time**|Edward Ayers et.al.|[2209.11559v1](http://arxiv.org/abs/2209.11559v1)|**[link](https://github.com/fiveai/hardest)**|
+|**2022-09-23**|**Applications of Machine Learning in Chemical and Biological Oceanography**|Balamurugan Sadaiappan et.al.|[2209.11557v1](http://arxiv.org/abs/2209.11557v1)|null|
+|**2022-09-23**|**MAGIC: Mask-Guided Image Synthesis by Inverting a Quasi-Robust Classifier**|Mozhdeh Rouhsedaghat et.al.|[2209.11549v1](http://arxiv.org/abs/2209.11549v1)|null|
+|**2022-09-23**|**Dynamics of Pop-Tsack Torsing**|Anqi Li et.al.|[2209.11548v1](http://arxiv.org/abs/2209.11548v1)|null|
+|**2022-09-23**|**Deep Learning-based Anonymization of Chest Radiographs: A Utility-preserving Measure for Patient Privacy**|Kai Packhäuser et.al.|[2209.11531v1](http://arxiv.org/abs/2209.11531v1)|null|
 |**2022-09-23**|**VToonify: Controllable High-Resolution Portrait Video Style Transfer**|Shuai Yang et.al.|[2209.11224v2](http://arxiv.org/abs/2209.11224v2)|**[link](https://github.com/williamyang1991/vtoonify)**|
 |**2022-09-22**|**OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics**|Mohit Prabhushankar et.al.|[2209.11195v1](http://arxiv.org/abs/2209.11195v1)|null|
 |**2022-09-22**|**Learning Visual Explanations for DCNN-Based Image Classifiers Using an Attention Mechanism**|Ioanna Gkartzonika et.al.|[2209.11189v1](http://arxiv.org/abs/2209.11189v1)|null|
@@ -763,6 +773,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-23**|**Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN**|Tomas Kerepecky et.al.|[2209.11729v1](http://arxiv.org/abs/2209.11729v1)|null|
+|**2022-09-23**|**Signal to background discrimination for the production of double Higgs boson events via vector boson fusion mechanism in the decay channel with four charged leptons and two b-jets in the final state at the LHC experiment**|Brunella D'Anzi et.al.|[2209.11649v1](http://arxiv.org/abs/2209.11649v1)|null|
+|**2022-09-23**|**The SpeakIn Speaker Verification System for Far-Field Speaker Verification Challenge 2022**|Yu Zheng et.al.|[2209.11625v1](http://arxiv.org/abs/2209.11625v1)|null|
+|**2022-09-23**|**Kinetic instabilities in a dense mirror-confined plasma of a continuous ECR discharge**|Mikhail Viktorov et.al.|[2209.11512v1](http://arxiv.org/abs/2209.11512v1)|null|
+|**2022-09-23**|**Towards Frame Rate Agnostic Multi-Object Tracking**|Weitao Feng et.al.|[2209.11404v1](http://arxiv.org/abs/2209.11404v1)|**[link](https://github.com/helicopt/framot)**|
+|**2022-09-22**|**FuTH-Net: Fusing Temporal Relations and Holistic Features for Aerial Video Classification**|Pu Jin et.al.|[2209.11316v1](http://arxiv.org/abs/2209.11316v1)|null|
+|**2022-09-22**|**FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion**|Fabian Duffhauss et.al.|[2209.11277v1](http://arxiv.org/abs/2209.11277v1)|null|
 |**2022-09-22**|**Exploring Non-Invertible Symmetries in Free Theories**|Pierluigi Niro et.al.|[2209.11166v1](http://arxiv.org/abs/2209.11166v1)|null|
 |**2022-09-22**|**Decentralized Distributed Expert Assisted Learning (D2EAL) approach for cooperative target-tracking**|Shubhankar Gupta et.al.|[2209.11113v1](http://arxiv.org/abs/2209.11113v1)|null|
 |**2022-09-22**|**Symmetry TFTs for Non-Invertible Defects**|Justin Kaidi et.al.|[2209.11062v1](http://arxiv.org/abs/2209.11062v1)|null|
