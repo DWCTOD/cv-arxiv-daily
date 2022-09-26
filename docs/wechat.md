@@ -1,8 +1,8 @@
-> Updated on 2022.09.25
+> Updated on 2022.09.26
 
 ## Video_Classification
 
-- 2022-09-22, **VToonify: Controllable High-Resolution Portrait Video Style Transfer**, Shuai Yang et.al., Paper: [http://arxiv.org/abs/2209.11224v1](http://arxiv.org/abs/2209.11224v1), Code: **[https://github.com/williamyang1991/vtoonify](https://github.com/williamyang1991/vtoonify)**
+- 2022-09-23, **VToonify: Controllable High-Resolution Portrait Video Style Transfer**, Shuai Yang et.al., Paper: [http://arxiv.org/abs/2209.11224v2](http://arxiv.org/abs/2209.11224v2), Code: **[https://github.com/williamyang1991/vtoonify](https://github.com/williamyang1991/vtoonify)**
 - 2022-09-22, **OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics**, Mohit Prabhushankar et.al., Paper: [http://arxiv.org/abs/2209.11195v1](http://arxiv.org/abs/2209.11195v1)
 - 2022-09-22, **Learning Visual Explanations for DCNN-Based Image Classifiers Using an Attention Mechanism**, Ioanna Gkartzonika et.al., Paper: [http://arxiv.org/abs/2209.11189v1](http://arxiv.org/abs/2209.11189v1)
 - 2022-09-22, **Data on 824 fireballs observed by the digital cameras of the European Fireball Network in 2017-2018. I. Description of the network, data reduction procedures, and the catalog**, J. Borovicka et.al., Paper: [http://arxiv.org/abs/2209.11186v1](http://arxiv.org/abs/2209.11186v1)
