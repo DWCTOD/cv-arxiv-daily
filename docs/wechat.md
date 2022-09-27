@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-09-26, **Learning to Learn with Generative Models of Neural Network Checkpoints**, William Peebles et.al., Paper: [http://arxiv.org/abs/2209.12892v1](http://arxiv.org/abs/2209.12892v1), Code: **[https://github.com/wpeebles/g.pt](https://github.com/wpeebles/g.pt)**
+- 2022-09-26, **Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization**, Luigi Campanaro et.al., Paper: [http://arxiv.org/abs/2209.12878v1](http://arxiv.org/abs/2209.12878v1)
+- 2022-09-26, **On Efficient Online Imitation Learning via Classification**, Yichen Li et.al., Paper: [http://arxiv.org/abs/2209.12868v1](http://arxiv.org/abs/2209.12868v1)
+- 2022-09-26, **Automatic Identification and Classification of Share Buybacks and their Effect on Short-, Mid- and Long-Term Returns**, Thilo Reintjes et.al., Paper: [http://arxiv.org/abs/2209.12863v1](http://arxiv.org/abs/2209.12863v1)
+- 2022-09-26, **AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**, Sourish Ghosh et.al., Paper: [http://arxiv.org/abs/2209.12849v1](http://arxiv.org/abs/2209.12849v1)
+- 2022-09-26, **Adaptation of Autoencoder for Sparsity Reduction From Clinical Notes Representation Learning**, Thanh-Dung Le et.al., Paper: [http://arxiv.org/abs/2209.12831v1](http://arxiv.org/abs/2209.12831v1)
+- 2022-09-26, **ComplexWoundDB: A Database for Automatic Complex Wound Tissue Categorization**, Talita A. Pereira et.al., Paper: [http://arxiv.org/abs/2209.12822v1](http://arxiv.org/abs/2209.12822v1)
+- 2022-09-26, **Rethinking Resolution in the Context of Efficient Video Recognition**, Chuofan Ma et.al., Paper: [http://arxiv.org/abs/2209.12797v1](http://arxiv.org/abs/2209.12797v1), Code: **[https://github.com/cvmi-lab/reskd](https://github.com/cvmi-lab/reskd)**
+- 2022-09-26, **Application of Quantum Machine Learning in a Higgs Physics Study at the CEPC**, Abdualazem Fadol et.al., Paper: [http://arxiv.org/abs/2209.12788v1](http://arxiv.org/abs/2209.12788v1)
+- 2022-09-26, **Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors**, Alberto Tamajo et.al., Paper: [http://arxiv.org/abs/2209.12770v1](http://arxiv.org/abs/2209.12770v1)
 - 2022-09-23, **Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN**, Tomas Kerepecky et.al., Paper: [http://arxiv.org/abs/2209.11729v1](http://arxiv.org/abs/2209.11729v1)
 - 2022-09-23, **I-SPLIT: Deep Network Interpretability for Split Computing**, Federico Cunico et.al., Paper: [http://arxiv.org/abs/2209.11607v1](http://arxiv.org/abs/2209.11607v1), Code: **[https://github.com/vips4/i-split](https://github.com/vips4/i-split)**
 - 2022-09-23, **Multi-Granularity Graph Pooling for Video-based Person Re-Identification**, Honghu Pan et.al., Paper: [http://arxiv.org/abs/2209.11584v1](http://arxiv.org/abs/2209.11584v1)
@@ -765,6 +775,16 @@
 
 ## MultiModal
 
+- 2022-09-26, **A CNN-LSTM-based Fusion Separation Deep Neural Network for 6G Ultra-Massive MIMO Hybrid Beamforming**, Rafid Umayer Murshed et.al., Paper: [http://arxiv.org/abs/2209.12893v1](http://arxiv.org/abs/2209.12893v1)
+- 2022-09-26, **Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects**, Philip Jacobson et.al., Paper: [http://arxiv.org/abs/2209.12880v1](http://arxiv.org/abs/2209.12880v1)
+- 2022-09-26, **Material Prediction for Design Automation Using Graph Representation Learning**, Shijie Bian et.al., Paper: [http://arxiv.org/abs/2209.12793v1](http://arxiv.org/abs/2209.12793v1), Code: **[https://github.com/danielegrandi-adsk/material-gnn](https://github.com/danielegrandi-adsk/material-gnn)**
+- 2022-09-26, **Optimizing DNN Compilation for Distributed Training with Joint OP and Tensor Fusion**, Xiaodong Yi et.al., Paper: [http://arxiv.org/abs/2209.12769v1](http://arxiv.org/abs/2209.12769v1)
+- 2022-09-26, **DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**, Florian Drews et.al., Paper: [http://arxiv.org/abs/2209.12729v1](http://arxiv.org/abs/2209.12729v1)
+- 2022-09-26, **Multi-modal Video Chapter Generation**, Xiao Cao et.al., Paper: [http://arxiv.org/abs/2209.12694v1](http://arxiv.org/abs/2209.12694v1)
+- 2022-09-26, **Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset**, Huanjing Yue et.al., Paper: [http://arxiv.org/abs/2209.12475v1](http://arxiv.org/abs/2209.12475v1), Code: **[https://github.com/zmzhang1998/Real-RawVSR](https://github.com/zmzhang1998/Real-RawVSR)**
+- 2022-09-26, **An optimization-based IMU/Lidar/Camera Co-calibration method**, Hou lanhua et.al., Paper: [http://arxiv.org/abs/2209.12355v1](http://arxiv.org/abs/2209.12355v1)
+- 2022-09-25, **Exploiting Trust for Resilient Hypothesis Testing with Malicious Robots**, Matthew Cavorsi et.al., Paper: [http://arxiv.org/abs/2209.12285v1](http://arxiv.org/abs/2209.12285v1)
+- 2022-09-25, **Cooperative Sensing and Heterogeneous Information Fusion in VCPS: A Multi-agent Deep Reinforcement Learning Approach**, Xincao Xu et.al., Paper: [http://arxiv.org/abs/2209.12265v1](http://arxiv.org/abs/2209.12265v1)
 - 2022-09-23, **Dual-Cycle: Self-Supervised Dual-View Fluorescence Microscopy Image Reconstruction using CycleGAN**, Tomas Kerepecky et.al., Paper: [http://arxiv.org/abs/2209.11729v1](http://arxiv.org/abs/2209.11729v1)
 - 2022-09-23, **Signal to background discrimination for the production of double Higgs boson events via vector boson fusion mechanism in the decay channel with four charged leptons and two b-jets in the final state at the LHC experiment**, Brunella D'Anzi et.al., Paper: [http://arxiv.org/abs/2209.11649v1](http://arxiv.org/abs/2209.11649v1)
 - 2022-09-23, **The SpeakIn Speaker Verification System for Far-Field Speaker Verification Challenge 2022**, Yu Zheng et.al., Paper: [http://arxiv.org/abs/2209.11625v1](http://arxiv.org/abs/2209.11625v1)
