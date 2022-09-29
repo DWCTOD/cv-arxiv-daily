@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-09-28, **Conformal Prediction is Robust to Label Noise**, Bat-Sheva Einbinder et.al., Paper: [http://arxiv.org/abs/2209.14295v1](http://arxiv.org/abs/2209.14295v1)
+- 2022-09-28, **Multimodal Prediction of Spontaneous Humour: A Novel Dataset and First Results**, Lukas Christ et.al., Paper: [http://arxiv.org/abs/2209.14272v1](http://arxiv.org/abs/2209.14272v1), Code: **[https://github.com/eihw/passau-sfch](https://github.com/eihw/passau-sfch)**
+- 2022-09-28, **A Multi-scale Graph Signature for Persistence Diagrams based on Return Probabilities of Random Walks**, Chau Pham et.al., Paper: [http://arxiv.org/abs/2209.14264v1](http://arxiv.org/abs/2209.14264v1)
+- 2022-09-28, **Radio source-component association for the LOFAR Two-metre Sky Survey with region-based convolutional neural networks**, Rafaël I. J. Mostert et.al., Paper: [http://arxiv.org/abs/2209.14226v1](http://arxiv.org/abs/2209.14226v1)
+- 2022-09-28, **Automated Quality Controlled Analysis of 2D Phase Contrast Cardiovascular Magnetic Resonance Imaging**, Emily Chan et.al., Paper: [http://arxiv.org/abs/2209.14212v1](http://arxiv.org/abs/2209.14212v1)
+- 2022-09-28, **Active Transfer Prototypical Network: An Efficient Labeling Algorithm for Time-Series Data**, Yuqicheng Zhu et.al., Paper: [http://arxiv.org/abs/2209.14199v1](http://arxiv.org/abs/2209.14199v1)
+- 2022-09-28, **On Computing Exact Means of Time Series Using the Move-Split-Merge Metric**, Jana Holznigenkemper et.al., Paper: [http://arxiv.org/abs/2209.14197v1](http://arxiv.org/abs/2209.14197v1)
+- 2022-09-28, **Class-Imbalanced Complementary-Label Learning via Weighted Loss**, Meng Wei et.al., Paper: [http://arxiv.org/abs/2209.14189v1](http://arxiv.org/abs/2209.14189v1)
+- 2022-09-28, **CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2209.14169v1](http://arxiv.org/abs/2209.14169v1)
+- 2022-09-28, **Supervised Contrastive Learning as Multi-Objective Optimization for Fine-Tuning Large Pre-trained Language Models**, Youness Moukafih et.al., Paper: [http://arxiv.org/abs/2209.14161v1](http://arxiv.org/abs/2209.14161v1)
 - 2022-09-28, **Detection and hypothesis testing of features in extremely noisy image series using topological data analysis, with applications to nanoparticle videos**, Andrew M. Thomas et.al., Paper: [http://arxiv.org/abs/2209.13584v2](http://arxiv.org/abs/2209.13584v2)
 - 2022-09-27, **Learning State-Aware Visual Representations from Audible Interactions**, Himangi Mittal et.al., Paper: [http://arxiv.org/abs/2209.13583v1](http://arxiv.org/abs/2209.13583v1), Code: **[https://github.com/HimangiM/RepLAI](https://github.com/HimangiM/RepLAI)**
 - 2022-09-27, **Source detection via multi-label classification**, Jayakrishnan Vijayamohanan et.al., Paper: [http://arxiv.org/abs/2209.13553v1](http://arxiv.org/abs/2209.13553v1)
@@ -785,6 +795,10 @@
 
 ## MultiModal
 
+- 2022-09-28, **Multimodal Prediction of Spontaneous Humour: A Novel Dataset and First Results**, Lukas Christ et.al., Paper: [http://arxiv.org/abs/2209.14272v1](http://arxiv.org/abs/2209.14272v1), Code: **[https://github.com/eihw/passau-sfch](https://github.com/eihw/passau-sfch)**
+- 2022-09-28, **Mobile Edge Computing, Metaverse, 6G Wireless Communications, Artificial Intelligence, and Blockchain: Survey and Their Convergence**, Yitong Wang et.al., Paper: [http://arxiv.org/abs/2209.14147v1](http://arxiv.org/abs/2209.14147v1)
+- 2022-09-28, **LL-GNN: Low Latency Graph Neural Networks on FPGAs for Particle Detectors**, Zhiqiang Que et.al., Paper: [http://arxiv.org/abs/2209.14065v1](http://arxiv.org/abs/2209.14065v1)
+- 2022-09-28, **Thinking Hallucination for Video Captioning**, Nasib Ullah et.al., Paper: [http://arxiv.org/abs/2209.13853v1](http://arxiv.org/abs/2209.13853v1)
 - 2022-09-27, **Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**, Shobha Sundar Ram et.al., Paper: [http://arxiv.org/abs/2209.13512v1](http://arxiv.org/abs/2209.13512v1)
 - 2022-09-27, **OBBStacking: An Ensemble Method for Remote Sensing Object Detection**, Haoning Lin et.al., Paper: [http://arxiv.org/abs/2209.13369v1](http://arxiv.org/abs/2209.13369v1), Code: **[https://github.com/haoning724/obbstacking](https://github.com/haoning724/obbstacking)**
 - 2022-09-27, **SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery**, Jiaqing Zhang et.al., Paper: [http://arxiv.org/abs/2209.13351v1](http://arxiv.org/abs/2209.13351v1), Code: **[https://github.com/icey-zhang/SuperYOLO](https://github.com/icey-zhang/SuperYOLO)**
