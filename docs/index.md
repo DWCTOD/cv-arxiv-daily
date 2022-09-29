@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2022.09.28
+## Updated on 2022.09.29
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-27**|**Detection and Hypothesis Testing of Features in Extremely Noisy Image Series using Topological Data Analysis, with Applications to Nanoparticle Videos**|Andrew M. Thomas et.al.|[2209.13584v1](http://arxiv.org/abs/2209.13584v1)|null|
+|**2022-09-28**|**Detection and hypothesis testing of features in extremely noisy image series using topological data analysis, with applications to nanoparticle videos**|Andrew M. Thomas et.al.|[2209.13584v2](http://arxiv.org/abs/2209.13584v2)|null|
 |**2022-09-27**|**Learning State-Aware Visual Representations from Audible Interactions**|Himangi Mittal et.al.|[2209.13583v1](http://arxiv.org/abs/2209.13583v1)|**[link](https://github.com/HimangiM/RepLAI)**|
 |**2022-09-27**|**Source detection via multi-label classification**|Jayakrishnan Vijayamohanan et.al.|[2209.13553v1](http://arxiv.org/abs/2209.13553v1)|null|
 |**2022-09-27**|**StyleSwap: Style-Based Generator Empowers Robust Face Swapping**|Zhiliang Xu et.al.|[2209.13514v1](http://arxiv.org/abs/2209.13514v1)|null|
@@ -796,7 +796,7 @@ layout: default
 |**2022-09-27**|**Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**|Shobha Sundar Ram et.al.|[2209.13512v1](http://arxiv.org/abs/2209.13512v1)|null|
 |**2022-09-27**|**OBBStacking: An Ensemble Method for Remote Sensing Object Detection**|Haoning Lin et.al.|[2209.13369v1](http://arxiv.org/abs/2209.13369v1)|**[link](https://github.com/haoning724/obbstacking)**|
 |**2022-09-27**|**SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery**|Jiaqing Zhang et.al.|[2209.13351v1](http://arxiv.org/abs/2209.13351v1)|**[link](https://github.com/icey-zhang/SuperYOLO)**|
-|**2022-09-27**|**SmartFPS: Neural Network based Wireless-inertial fusion positioning system**|Luchi Hua et.al.|[2209.13261v1](http://arxiv.org/abs/2209.13261v1)|null|
+|**2022-09-28**|**SmartFPS: Neural Network based Wireless-inertial fusion positioning system**|Luchi Hua et.al.|[2209.13261v2](http://arxiv.org/abs/2209.13261v2)|null|
 |**2022-09-27**|**View-aware Salient Object Detection for 360° Omnidirectional Image**|Junjie Wu et.al.|[2209.13222v1](http://arxiv.org/abs/2209.13222v1)|null|
 |**2022-09-27**|**Towards Multimodal Multitask Scene Understanding Models for Indoor Mobile Agents**|Yao-Hung Hubert Tsai et.al.|[2209.13156v1](http://arxiv.org/abs/2209.13156v1)|null|
 |**2022-09-27**|**WikiDes: A Wikipedia-Based Dataset for Generating Short Descriptions from Paragraphs**|Hoang Thang Ta et.al.|[2209.13101v1](http://arxiv.org/abs/2209.13101v1)|**[link](https://github.com/declare-lab/wikides)**|
