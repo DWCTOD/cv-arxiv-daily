@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-09-30, **Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**, Zifan Shi et.al., Paper: [http://arxiv.org/abs/2209.15637v1](http://arxiv.org/abs/2209.15637v1)
+- 2022-09-30, **$Φ$-DVAE: Learning Physically Interpretable Representations with Nonlinear Filtering**, Alex Glyn-Davies et.al., Paper: [http://arxiv.org/abs/2209.15609v1](http://arxiv.org/abs/2209.15609v1)
+- 2022-09-30, **New Metric Formulas that Include Measurement Errors in Machine Learning for Natural Sciences**, Umberto Michelucci et.al., Paper: [http://arxiv.org/abs/2209.15588v1](http://arxiv.org/abs/2209.15588v1)
+- 2022-09-30, **Cloud Classification with Unsupervised Deep Learning**, Takuya Kurihana et.al., Paper: [http://arxiv.org/abs/2209.15585v1](http://arxiv.org/abs/2209.15585v1)
+- 2022-09-30, **Holographic-(V)AE: an end-to-end SO(3)-Equivariant (Variational) Autoencoder in Fourier Space**, Gian Marco Visani et.al., Paper: [http://arxiv.org/abs/2209.15567v1](http://arxiv.org/abs/2209.15567v1)
+- 2022-09-30, **Out-of-Distribution Detection and Selective Generation for Conditional Language Models**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2209.15558v1](http://arxiv.org/abs/2209.15558v1)
+- 2022-09-30, **Towards a Unified View of Affinity-Based Knowledge Distillation**, Vladimir Li et.al., Paper: [http://arxiv.org/abs/2209.15555v1](http://arxiv.org/abs/2209.15555v1)
+- 2022-09-30, **Bayesian Neural Networks for Geothermal Resource Assessment: Prediction with Uncertainty**, Stephen Brown et.al., Paper: [http://arxiv.org/abs/2209.15543v1](http://arxiv.org/abs/2209.15543v1)
+- 2022-09-30, **Riemannian geometry as a unifying theory for robot motion learning and control**, Noémie Jaquier et.al., Paper: [http://arxiv.org/abs/2209.15539v1](http://arxiv.org/abs/2209.15539v1)
+- 2022-09-30, **Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data**, Yuki Takezawa et.al., Paper: [http://arxiv.org/abs/2209.15505v1](http://arxiv.org/abs/2209.15505v1)
 - 2022-09-29, **REST: REtrieve & Self-Train for generative action recognition**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2209.15000v1](http://arxiv.org/abs/2209.15000v1)
 - 2022-09-30, **Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**, Yuri R. Fonseca et.al., Paper: [http://arxiv.org/abs/2209.14967v2](http://arxiv.org/abs/2209.14967v2)
 - 2022-09-29, **A number theoretic classification of toroidal solenoids**, Maria Sabitova et.al., Paper: [http://arxiv.org/abs/2209.14966v1](http://arxiv.org/abs/2209.14966v1)
@@ -805,6 +815,16 @@
 
 ## MultiModal
 
+- 2022-09-30, **On knots that divide ribbon knotted surfaces**, Hans U. Boden et.al., Paper: [http://arxiv.org/abs/2209.15577v1](http://arxiv.org/abs/2209.15577v1)
+- 2022-09-30, **Photon-photon fusion and tau g-2 measurement in ATLAS**, Agnieszka Ogrodnik et.al., Paper: [http://arxiv.org/abs/2209.15506v1](http://arxiv.org/abs/2209.15506v1)
+- 2022-09-30, **Reliable Face Morphing Attack Detection in On-The-Fly Border Control Scenario with Variation in Image Resolution and Capture Distance**, Jag Mohan Singh et.al., Paper: [http://arxiv.org/abs/2209.15474v1](http://arxiv.org/abs/2209.15474v1)
+- 2022-09-30, **Parea: multi-view ensemble clustering for cancer subtype discovery**, Bastian Pfeifer et.al., Paper: [http://arxiv.org/abs/2209.15399v1](http://arxiv.org/abs/2209.15399v1), Code: **[https://github.com/mdbloice/pyrea](https://github.com/mdbloice/pyrea)**
+- 2022-09-30, **Nonrealizability of certain representations in fusion systems**, Bob Oliver et.al., Paper: [http://arxiv.org/abs/2209.15375v1](http://arxiv.org/abs/2209.15375v1)
+- 2022-09-30, **Wave propagation in rotating magnetised plasmas**, Renaud Gueroult et.al., Paper: [http://arxiv.org/abs/2209.15346v1](http://arxiv.org/abs/2209.15346v1)
+- 2022-09-30, **Optical cluster-state generation with unitary averaging**, Deepesh Singh et.al., Paper: [http://arxiv.org/abs/2209.15282v1](http://arxiv.org/abs/2209.15282v1)
+- 2022-09-30, **X-ray emission mechanisms in accreting white dwarfs**, K. L. Page et.al., Paper: [http://arxiv.org/abs/2209.15262v1](http://arxiv.org/abs/2209.15262v1)
+- 2022-09-30, **Husformer: A Multi-Modal Transformer for Multi-Modal Human State Recognition**, Ruiqi Wang et.al., Paper: [http://arxiv.org/abs/2209.15182v1](http://arxiv.org/abs/2209.15182v1)
+- 2022-09-30, **Depth-Wise Attention (DWAtt): A Layer Fusion Method for Data-Efficient Classification**, Muhammad ElNokrashy et.al., Paper: [http://arxiv.org/abs/2209.15168v1](http://arxiv.org/abs/2209.15168v1)
 - 2022-09-29, **Molecular dynamics approaches for determination of elastic parameters of lipid membranes**, Konstantin V. Pinigin et.al., Paper: [http://arxiv.org/abs/2209.14983v1](http://arxiv.org/abs/2209.14983v1)
 - 2022-09-29, **Exploring the parameter space of MagLIF implosions using similarity scaling. III. Rise-time scaling**, D. E. Ruiz et.al., Paper: [http://arxiv.org/abs/2209.14912v1](http://arxiv.org/abs/2209.14912v1)
 - 2022-09-29, **Exploring the parameter space of MagLIF implosions using similarity scaling. II. Current scaling**, D. E. Ruiz et.al., Paper: [http://arxiv.org/abs/2209.14911v1](http://arxiv.org/abs/2209.14911v1)
