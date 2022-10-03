@@ -1,11 +1,11 @@
-## Updated on 2022.10.02
+## Updated on 2022.10.03
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-09-29**|**REST: REtrieve & Self-Train for generative action recognition**|Adrian Bulat et.al.|[2209.15000v1](http://arxiv.org/abs/2209.15000v1)|null|
-|**2022-09-29**|**Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**|Yuri S. Fonseca et.al.|[2209.14967v1](http://arxiv.org/abs/2209.14967v1)|null|
+|**2022-09-30**|**Statistical Learning and Inverse Problems: An Stochastic Gradient Approach**|Yuri R. Fonseca et.al.|[2209.14967v2](http://arxiv.org/abs/2209.14967v2)|null|
 |**2022-09-29**|**A number theoretic classification of toroidal solenoids**|Maria Sabitova et.al.|[2209.14966v1](http://arxiv.org/abs/2209.14966v1)|null|
 |**2022-09-29**|**Reinforcement Learning Algorithms: An Overview and Classification**|Fadi AlMahamid et.al.|[2209.14940v1](http://arxiv.org/abs/2209.14940v1)|null|
 |**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
