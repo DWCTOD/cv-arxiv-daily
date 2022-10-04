@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1)
+- 2022-10-03, **Generative Category-Level Shape and Pose Estimation with Semantic Primitives**, Guanglin Li et.al., Paper: [http://arxiv.org/abs/2210.01112v1](http://arxiv.org/abs/2210.01112v1)
+- 2022-10-03, **MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples**, Jinyuan Jia et.al., Paper: [http://arxiv.org/abs/2210.01111v1](http://arxiv.org/abs/2210.01111v1), Code: **[https://github.com/quwenjie/multiguard](https://github.com/quwenjie/multiguard)**
+- 2022-10-03, **The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at $1.5 < z < 8$**, Leonardo Ferreira et.al., Paper: [http://arxiv.org/abs/2210.01110v1](http://arxiv.org/abs/2210.01110v1)
+- 2022-10-03, **Nonstationary data stream classification with online active learning and siamese neural networks**, Kleanthis Malialis et.al., Paper: [http://arxiv.org/abs/2210.01090v1](http://arxiv.org/abs/2210.01090v1), Code: **[https://github.com/kmalialis/actisiamese](https://github.com/kmalialis/actisiamese)**
+- 2022-10-03, **Improving Convolutional Neural Networks for Fault Diagnosis by Assimilating Global Features**, Saif S. S. Al-Wahaibi et.al., Paper: [http://arxiv.org/abs/2210.01077v1](http://arxiv.org/abs/2210.01077v1)
+- 2022-10-03, **Process Modeling, Hidden Markov Models, and Non-negative Tensor Factorization with Model Selection**, Erik Skau et.al., Paper: [http://arxiv.org/abs/2210.01060v1](http://arxiv.org/abs/2210.01060v1)
+- 2022-10-03, **CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training**, Tianyu Huang et.al., Paper: [http://arxiv.org/abs/2210.01055v1](http://arxiv.org/abs/2210.01055v1), Code: **[https://github.com/tyhuang0428/CLIP2Point](https://github.com/tyhuang0428/CLIP2Point)**
+- 2022-10-03, **Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**, Weicong Liang et.al., Paper: [http://arxiv.org/abs/2210.01035v1](http://arxiv.org/abs/2210.01035v1)
+- 2022-10-03, **LPT: Long-tailed Prompt Tuning for Image Classification**, Bowen Dong et.al., Paper: [http://arxiv.org/abs/2210.01033v1](http://arxiv.org/abs/2210.01033v1)
 - 2022-09-30, **Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**, Zifan Shi et.al., Paper: [http://arxiv.org/abs/2209.15637v1](http://arxiv.org/abs/2209.15637v1)
 - 2022-09-30, **$Φ$-DVAE: Learning Physically Interpretable Representations with Nonlinear Filtering**, Alex Glyn-Davies et.al., Paper: [http://arxiv.org/abs/2209.15609v1](http://arxiv.org/abs/2209.15609v1)
 - 2022-09-30, **New Metric Formulas that Include Measurement Errors in Machine Learning for Natural Sciences**, Umberto Michelucci et.al., Paper: [http://arxiv.org/abs/2209.15588v1](http://arxiv.org/abs/2209.15588v1)
@@ -815,6 +825,16 @@
 
 ## MultiModal
 
+- 2022-10-03, **Parity and Spin CFT with boundaries and defects**, Ingo Runkel et.al., Paper: [http://arxiv.org/abs/2210.01057v1](http://arxiv.org/abs/2210.01057v1)
+- 2022-10-03, **SPARC: Sparse Render-and-Compare for CAD model alignment in a single RGB image**, Florian Langer et.al., Paper: [http://arxiv.org/abs/2210.01044v1](http://arxiv.org/abs/2210.01044v1), Code: **[https://github.com/florianlanger/sparc](https://github.com/florianlanger/sparc)**
+- 2022-10-03, **Rank 2 Amalgams and Fusion Systems**, Martin van Beek et.al., Paper: [http://arxiv.org/abs/2210.01013v1](http://arxiv.org/abs/2210.01013v1)
+- 2022-10-03, **Unsupervised Multimodal Change Detection Based on Structural Relationship Graph Representation Learning**, Hongruixuan Chen et.al., Paper: [http://arxiv.org/abs/2210.00941v1](http://arxiv.org/abs/2210.00941v1), Code: **[https://github.com/chenhongruixuan/srgcae](https://github.com/chenhongruixuan/srgcae)**
+- 2022-10-03, **Smart-Badge: A wearable badge with multi-modal sensors for kitchen activity recognition**, Mengxi Liu et.al., Paper: [http://arxiv.org/abs/2210.00888v1](http://arxiv.org/abs/2210.00888v1)
+- 2022-10-03, **A Strong Transfer Baseline for RGB-D Fusion in Vision Transformers**, Georgios Tziafas et.al., Paper: [http://arxiv.org/abs/2210.00843v1](http://arxiv.org/abs/2210.00843v1)
+- 2022-10-03, **A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**, Ha Sier et.al., Paper: [http://arxiv.org/abs/2210.00812v1](http://arxiv.org/abs/2210.00812v1)
+- 2022-10-03, **Complete Positivity of Comultiplication and Primary Criteria for Unitary Categorification**, Linzhe Huang et.al., Paper: [http://arxiv.org/abs/2210.00792v1](http://arxiv.org/abs/2210.00792v1)
+- 2022-10-03, **Lexical semantics enhanced neural word embeddings**, Dongqiang Yang et.al., Paper: [http://arxiv.org/abs/2210.00754v1](http://arxiv.org/abs/2210.00754v1)
+- 2022-10-03, **NAS-based Recursive Stage Partial Network (RSPNet) for Light-Weight Semantic Segmentation**, Yi-Chun Wang et.al., Paper: [http://arxiv.org/abs/2210.00698v1](http://arxiv.org/abs/2210.00698v1)
 - 2022-09-30, **On knots that divide ribbon knotted surfaces**, Hans U. Boden et.al., Paper: [http://arxiv.org/abs/2209.15577v1](http://arxiv.org/abs/2209.15577v1)
 - 2022-09-30, **Photon-photon fusion and tau g-2 measurement in ATLAS**, Agnieszka Ogrodnik et.al., Paper: [http://arxiv.org/abs/2209.15506v1](http://arxiv.org/abs/2209.15506v1)
 - 2022-09-30, **Reliable Face Morphing Attack Detection in On-The-Fly Border Control Scenario with Variation in Image Resolution and Capture Distance**, Jag Mohan Singh et.al., Paper: [http://arxiv.org/abs/2209.15474v1](http://arxiv.org/abs/2209.15474v1)
