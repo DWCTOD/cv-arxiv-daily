@@ -1,8 +1,8 @@
-> Updated on 2022.10.04
+> Updated on 2022.10.05
 
 ## Video_Classification
 
-- 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1)
+- 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1), Code: **[https://github.com/abitha-thankaraj/audio-robot-learning](https://github.com/abitha-thankaraj/audio-robot-learning)**
 - 2022-10-03, **Generative Category-Level Shape and Pose Estimation with Semantic Primitives**, Guanglin Li et.al., Paper: [http://arxiv.org/abs/2210.01112v1](http://arxiv.org/abs/2210.01112v1)
 - 2022-10-03, **MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples**, Jinyuan Jia et.al., Paper: [http://arxiv.org/abs/2210.01111v1](http://arxiv.org/abs/2210.01111v1), Code: **[https://github.com/quwenjie/multiguard](https://github.com/quwenjie/multiguard)**
 - 2022-10-03, **The JWST Hubble Sequence: The Rest-Frame Optical Evolution of Galaxy Structure at $1.5 < z < 8$**, Leonardo Ferreira et.al., Paper: [http://arxiv.org/abs/2210.01110v1](http://arxiv.org/abs/2210.01110v1)
