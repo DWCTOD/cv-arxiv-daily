@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-04, **Implicit Warping for Animation with Image Sets**, Arun Mallya et.al., Paper: [http://arxiv.org/abs/2210.01794v1](http://arxiv.org/abs/2210.01794v1)
+- 2022-10-04, **Sampling Streaming Data with Parallel Vector Quantization -- PVQ**, Mujahid Sultan et.al., Paper: [http://arxiv.org/abs/2210.01792v1](http://arxiv.org/abs/2210.01792v1)
+- 2022-10-04, **Robust self-healing prediction model for high dimensional data**, Anirudha Rayasam et.al., Paper: [http://arxiv.org/abs/2210.01788v1](http://arxiv.org/abs/2210.01788v1)
+- 2022-10-04, **Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness**, Bohang Zhang et.al., Paper: [http://arxiv.org/abs/2210.01787v1](http://arxiv.org/abs/2210.01787v1), Code: **[https://github.com/zbh2047/sortnet](https://github.com/zbh2047/sortnet)**
+- 2022-10-04, **COPILOT: Human Collision Prediction and Localization from Multi-view Egocentric Videos**, Boxiao Pan et.al., Paper: [http://arxiv.org/abs/2210.01781v1](http://arxiv.org/abs/2210.01781v1)
+- 2022-10-04, **Evaluating Disentanglement in Generative Models Without Knowledge of Latent Factors**, Chester Holtz et.al., Paper: [http://arxiv.org/abs/2210.01760v1](http://arxiv.org/abs/2210.01760v1)
+- 2022-10-04, **All-sky search for gravitational-wave bursts in the third Advanced LIGO-Virgo run with coherent WaveBurst enhanced by Machine Learning**, Marek J. Szczepańczyk et.al., Paper: [http://arxiv.org/abs/2210.01754v1](http://arxiv.org/abs/2210.01754v1)
+- 2022-10-04, **MEDFAIR: Benchmarking Fairness for Medical Imaging**, Yongshuo Zong et.al., Paper: [http://arxiv.org/abs/2210.01725v1](http://arxiv.org/abs/2210.01725v1), Code: **[https://github.com/ys-zong/medfair](https://github.com/ys-zong/medfair)**
+- 2022-10-04, **MBW: Multi-view Bootstrapping in the Wild**, Mosam Dabhi et.al., Paper: [http://arxiv.org/abs/2210.01721v1](http://arxiv.org/abs/2210.01721v1), Code: **[https://github.com/mosamdabhi/mbw](https://github.com/mosamdabhi/mbw)**
+- 2022-10-04, **Learning the Spectrogram Temporal Resolution for Audio Classification**, Haohe Liu et.al., Paper: [http://arxiv.org/abs/2210.01719v1](http://arxiv.org/abs/2210.01719v1), Code: **[https://github.com/haoheliu/diffres-python](https://github.com/haoheliu/diffres-python)**
 - 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1), Code: **[https://github.com/abitha-thankaraj/audio-robot-learning](https://github.com/abitha-thankaraj/audio-robot-learning)**
 - 2022-10-03, **Generative Category-Level Shape and Pose Estimation with Semantic Primitives**, Guanglin Li et.al., Paper: [http://arxiv.org/abs/2210.01112v1](http://arxiv.org/abs/2210.01112v1)
 - 2022-10-03, **MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples**, Jinyuan Jia et.al., Paper: [http://arxiv.org/abs/2210.01111v1](http://arxiv.org/abs/2210.01111v1), Code: **[https://github.com/quwenjie/multiguard](https://github.com/quwenjie/multiguard)**
@@ -825,6 +835,16 @@
 
 ## MultiModal
 
+- 2022-10-04, **An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2210.01467v1](http://arxiv.org/abs/2210.01467v1)
+- 2022-10-04, **Learning to Occlusion-Robustly Estimate 3-D States of Deformable Linear Objects from Single-Frame Point Clouds**, Kangchen Lv et.al., Paper: [http://arxiv.org/abs/2210.01433v1](http://arxiv.org/abs/2210.01433v1)
+- 2022-10-04, **Streaming Video Analytics On The Edge With Asynchronous Cloud Support**, Anurag Ghosh et.al., Paper: [http://arxiv.org/abs/2210.01402v1](http://arxiv.org/abs/2210.01402v1)
+- 2022-10-04, **Bridged Transformer for Vision and Point Cloud 3D Object Detection**, Yikai Wang et.al., Paper: [http://arxiv.org/abs/2210.01391v1](http://arxiv.org/abs/2210.01391v1)
+- 2022-10-04, **Pay Self-Attention to Audio-Visual Navigation**, Yinfeng Yu et.al., Paper: [http://arxiv.org/abs/2210.01353v1](http://arxiv.org/abs/2210.01353v1)
+- 2022-10-04, **ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions**, Anjun Chen et.al., Paper: [http://arxiv.org/abs/2210.01346v1](http://arxiv.org/abs/2210.01346v1)
+- 2022-10-04, **ASAP: Accurate semantic segmentation for real time performance**, Jaehyun Park et.al., Paper: [http://arxiv.org/abs/2210.01323v1](http://arxiv.org/abs/2210.01323v1)
+- 2022-10-03, **Probabilistic Volumetric Fusion for Dense Monocular SLAM**, Antoni Rosinol et.al., Paper: [http://arxiv.org/abs/2210.01276v1](http://arxiv.org/abs/2210.01276v1)
+- 2022-10-03, **Extending Compositional Attention Networks for Social Reasoning in Videos**, Christina Sartzetaki et.al., Paper: [http://arxiv.org/abs/2210.01191v1](http://arxiv.org/abs/2210.01191v1), Code: **[https://github.com/sergeantchris/macx-socialiq](https://github.com/sergeantchris/macx-socialiq)**
+- 2022-10-03, **M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance**, Sandipan Das et.al., Paper: [http://arxiv.org/abs/2210.01154v1](http://arxiv.org/abs/2210.01154v1)
 - 2022-10-03, **Parity and Spin CFT with boundaries and defects**, Ingo Runkel et.al., Paper: [http://arxiv.org/abs/2210.01057v1](http://arxiv.org/abs/2210.01057v1)
 - 2022-10-03, **SPARC: Sparse Render-and-Compare for CAD model alignment in a single RGB image**, Florian Langer et.al., Paper: [http://arxiv.org/abs/2210.01044v1](http://arxiv.org/abs/2210.01044v1), Code: **[https://github.com/florianlanger/sparc](https://github.com/florianlanger/sparc)**
 - 2022-10-03, **Rank 2 Amalgams and Fusion Systems**, Martin van Beek et.al., Paper: [http://arxiv.org/abs/2210.01013v1](http://arxiv.org/abs/2210.01013v1)
