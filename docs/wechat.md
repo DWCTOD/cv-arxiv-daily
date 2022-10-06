@@ -1,4 +1,4 @@
-> Updated on 2022.10.05
+> Updated on 2022.10.06
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2022-10-04, **All-sky search for gravitational-wave bursts in the third Advanced LIGO-Virgo run with coherent WaveBurst enhanced by Machine Learning**, Marek J. Szczepańczyk et.al., Paper: [http://arxiv.org/abs/2210.01754v1](http://arxiv.org/abs/2210.01754v1)
 - 2022-10-04, **MEDFAIR: Benchmarking Fairness for Medical Imaging**, Yongshuo Zong et.al., Paper: [http://arxiv.org/abs/2210.01725v1](http://arxiv.org/abs/2210.01725v1), Code: **[https://github.com/ys-zong/medfair](https://github.com/ys-zong/medfair)**
 - 2022-10-04, **MBW: Multi-view Bootstrapping in the Wild**, Mosam Dabhi et.al., Paper: [http://arxiv.org/abs/2210.01721v1](http://arxiv.org/abs/2210.01721v1), Code: **[https://github.com/mosamdabhi/mbw](https://github.com/mosamdabhi/mbw)**
-- 2022-10-04, **Learning the Spectrogram Temporal Resolution for Audio Classification**, Haohe Liu et.al., Paper: [http://arxiv.org/abs/2210.01719v1](http://arxiv.org/abs/2210.01719v1), Code: **[https://github.com/haoheliu/diffres-python](https://github.com/haoheliu/diffres-python)**
+- 2022-10-05, **Learning the Spectrogram Temporal Resolution for Audio Classification**, Haohe Liu et.al., Paper: [http://arxiv.org/abs/2210.01719v2](http://arxiv.org/abs/2210.01719v2), Code: **[https://github.com/haoheliu/diffres-python](https://github.com/haoheliu/diffres-python)**
 - 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1), Code: **[https://github.com/abitha-thankaraj/audio-robot-learning](https://github.com/abitha-thankaraj/audio-robot-learning)**
 - 2022-10-03, **Generative Category-Level Shape and Pose Estimation with Semantic Primitives**, Guanglin Li et.al., Paper: [http://arxiv.org/abs/2210.01112v1](http://arxiv.org/abs/2210.01112v1)
 - 2022-10-03, **MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples**, Jinyuan Jia et.al., Paper: [http://arxiv.org/abs/2210.01111v1](http://arxiv.org/abs/2210.01111v1), Code: **[https://github.com/quwenjie/multiguard](https://github.com/quwenjie/multiguard)**
@@ -839,7 +839,7 @@
 - 2022-10-04, **Learning to Occlusion-Robustly Estimate 3-D States of Deformable Linear Objects from Single-Frame Point Clouds**, Kangchen Lv et.al., Paper: [http://arxiv.org/abs/2210.01433v1](http://arxiv.org/abs/2210.01433v1)
 - 2022-10-04, **Streaming Video Analytics On The Edge With Asynchronous Cloud Support**, Anurag Ghosh et.al., Paper: [http://arxiv.org/abs/2210.01402v1](http://arxiv.org/abs/2210.01402v1)
 - 2022-10-04, **Bridged Transformer for Vision and Point Cloud 3D Object Detection**, Yikai Wang et.al., Paper: [http://arxiv.org/abs/2210.01391v1](http://arxiv.org/abs/2210.01391v1)
-- 2022-10-04, **Pay Self-Attention to Audio-Visual Navigation**, Yinfeng Yu et.al., Paper: [http://arxiv.org/abs/2210.01353v1](http://arxiv.org/abs/2210.01353v1)
+- 2022-10-05, **Pay Self-Attention to Audio-Visual Navigation**, Yinfeng Yu et.al., Paper: [http://arxiv.org/abs/2210.01353v2](http://arxiv.org/abs/2210.01353v2)
 - 2022-10-04, **ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions**, Anjun Chen et.al., Paper: [http://arxiv.org/abs/2210.01346v1](http://arxiv.org/abs/2210.01346v1)
 - 2022-10-04, **ASAP: Accurate semantic segmentation for real time performance**, Jaehyun Park et.al., Paper: [http://arxiv.org/abs/2210.01323v1](http://arxiv.org/abs/2210.01323v1)
 - 2022-10-03, **Probabilistic Volumetric Fusion for Dense Monocular SLAM**, Antoni Rosinol et.al., Paper: [http://arxiv.org/abs/2210.01276v1](http://arxiv.org/abs/2210.01276v1)
