@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-05, **DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**, Ivan Kapelyukh et.al., Paper: [http://arxiv.org/abs/2210.02438v1](http://arxiv.org/abs/2210.02438v1)
+- 2022-10-05, **Incorrect sample classification in "Electron localization induced by intrinsic anion disorder in a transition metal oxynitride"**, A. Mobius et.al., Paper: [http://arxiv.org/abs/2210.02430v1](http://arxiv.org/abs/2210.02430v1)
+- 2022-10-05, **A deep learning model for brain vessel segmentation in 3DRA with arteriovenous malformations**, Camila García et.al., Paper: [http://arxiv.org/abs/2210.02416v1](http://arxiv.org/abs/2210.02416v1)
+- 2022-10-05, **How Erdös and Rényi Win the Lottery**, Advait Gadhikar et.al., Paper: [http://arxiv.org/abs/2210.02412v1](http://arxiv.org/abs/2210.02412v1)
+- 2022-10-05, **Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**, Deepak Gupta et.al., Paper: [http://arxiv.org/abs/2210.02401v1](http://arxiv.org/abs/2210.02401v1), Code: **[https://github.com/deepaknlp/dls](https://github.com/deepaknlp/dls)**
+- 2022-10-05, **Phenaki: Variable Length Video Generation From Open Domain Textual Description**, Ruben Villegas et.al., Paper: [http://arxiv.org/abs/2210.02399v1](http://arxiv.org/abs/2210.02399v1)
+- 2022-10-05, **Temporally Consistent Video Transformer for Long-Term Video Prediction**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2210.02396v1](http://arxiv.org/abs/2210.02396v1)
+- 2022-10-05, **Geometry Driven Progressive Warping for One-Shot Face Animation**, Yatao Zhong et.al., Paper: [http://arxiv.org/abs/2210.02391v1](http://arxiv.org/abs/2210.02391v1)
+- 2022-10-05, **Domain Adaptation for Unknown Image Distortions in Instance Segmentation**, Maximiliane Gruber et.al., Paper: [http://arxiv.org/abs/2210.02386v1](http://arxiv.org/abs/2210.02386v1)
+- 2022-10-05, **Goal Recognition as a Deep Learning Task: the GRNet Approach**, Mattia Chiari et.al., Paper: [http://arxiv.org/abs/2210.02377v1](http://arxiv.org/abs/2210.02377v1)
 - 2022-10-04, **Implicit Warping for Animation with Image Sets**, Arun Mallya et.al., Paper: [http://arxiv.org/abs/2210.01794v1](http://arxiv.org/abs/2210.01794v1)
 - 2022-10-04, **Sampling Streaming Data with Parallel Vector Quantization -- PVQ**, Mujahid Sultan et.al., Paper: [http://arxiv.org/abs/2210.01792v1](http://arxiv.org/abs/2210.01792v1)
 - 2022-10-04, **Robust self-healing prediction model for high dimensional data**, Anirudha Rayasam et.al., Paper: [http://arxiv.org/abs/2210.01788v1](http://arxiv.org/abs/2210.01788v1)
@@ -835,6 +845,14 @@
 
 ## MultiModal
 
+- 2022-10-05, **Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**, Jinhyung Park et.al., Paper: [http://arxiv.org/abs/2210.02443v1](http://arxiv.org/abs/2210.02443v1)
+- 2022-10-05, **Multi-stream Fusion for Class Incremental Learning in Pill Image Classification**, Trong-Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2210.02313v1](http://arxiv.org/abs/2210.02313v1), Code: **[https://github.com/vinuni-vishc/cg-imif](https://github.com/vinuni-vishc/cg-imif)**
+- 2022-10-05, **Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**, Jon Almazán et.al., Paper: [http://arxiv.org/abs/2210.02254v1](http://arxiv.org/abs/2210.02254v1)
+- 2022-10-05, **Comprint: Image Forgery Detection and Localization using Compression Fingerprints**, Hannes Mareen et.al., Paper: [http://arxiv.org/abs/2210.02227v1](http://arxiv.org/abs/2210.02227v1), Code: **[https://github.com/idlabmedia/comprint](https://github.com/idlabmedia/comprint)**
+- 2022-10-05, **Fused mean structure learning in data integration with dependence**, Emily C. Hector et.al., Paper: [http://arxiv.org/abs/2210.02198v1](http://arxiv.org/abs/2210.02198v1)
+- 2022-10-05, **Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**, Victor Dhédin et.al., Paper: [http://arxiv.org/abs/2210.02127v1](http://arxiv.org/abs/2210.02127v1)
+- 2022-10-05, **The Trilinear Higgs Self-Couplings at ${\cal O}(α_t^2)$ in the CP-Violating NMSSM**, Christoph Borschensky et.al., Paper: [http://arxiv.org/abs/2210.02104v1](http://arxiv.org/abs/2210.02104v1)
+- 2022-10-05, **DreamShard: Generalizable Embedding Table Placement for Recommender Systems**, Daochen Zha et.al., Paper: [http://arxiv.org/abs/2210.02023v1](http://arxiv.org/abs/2210.02023v1)
 - 2022-10-04, **An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2210.01467v1](http://arxiv.org/abs/2210.01467v1)
 - 2022-10-04, **Learning to Occlusion-Robustly Estimate 3-D States of Deformable Linear Objects from Single-Frame Point Clouds**, Kangchen Lv et.al., Paper: [http://arxiv.org/abs/2210.01433v1](http://arxiv.org/abs/2210.01433v1)
 - 2022-10-04, **Streaming Video Analytics On The Edge With Asynchronous Cloud Support**, Anurag Ghosh et.al., Paper: [http://arxiv.org/abs/2210.01402v1](http://arxiv.org/abs/2210.01402v1)
