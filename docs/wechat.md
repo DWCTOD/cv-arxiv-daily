@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-06, **Real-World Robot Learning with Masked Visual Pre-training**, Ilija Radosavovic et.al., Paper: [http://arxiv.org/abs/2210.03109v1](http://arxiv.org/abs/2210.03109v1)
+- 2022-10-06, **Ambiguous Images With Human Judgments for Robust Visual Event Classification**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2210.03102v1](http://arxiv.org/abs/2210.03102v1)
+- 2022-10-06, **Mixed higher-order topology: boundary non-Hermitian skin effect induced by a Floquet bulk**, Hui Liu et.al., Paper: [http://arxiv.org/abs/2210.03097v1](http://arxiv.org/abs/2210.03097v1)
+- 2022-10-06, **ARS2: Adaptive Ranking-based Sample Selection for Weakly supervised Class-imbalanced Text Classification**, Linxin Song et.al., Paper: [http://arxiv.org/abs/2210.03092v1](http://arxiv.org/abs/2210.03092v1), Code: **[https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py](https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py)**
+- 2022-10-06, **Rolling Shutter Inversion: Bring Rolling Shutter Images to High Framerate Global Shutter Video**, Bin Fan et.al., Paper: [http://arxiv.org/abs/2210.03040v1](http://arxiv.org/abs/2210.03040v1), Code: **[https://github.com/gitcvfb/rssr](https://github.com/gitcvfb/rssr)**
+- 2022-10-06, **AnimeTAB: A new guitar tablature dataset of anime and game music**, Yuecheng Zhou et.al., Paper: [http://arxiv.org/abs/2210.03027v1](http://arxiv.org/abs/2210.03027v1)
+- 2022-10-06, **Enhancing Code Classification by Mixup-Based Data Augmentation**, Zeming Dong et.al., Paper: [http://arxiv.org/abs/2210.03003v1](http://arxiv.org/abs/2210.03003v1)
+- 2022-10-06, **A Novel Attention Mechanism Using Anatomical Prior Probability Maps for Thoracic Disease Classification from X-Ray Images**, Md. Iqbal Hossain et.al., Paper: [http://arxiv.org/abs/2210.02998v1](http://arxiv.org/abs/2210.02998v1)
+- 2022-10-06, **Expander Graph Propagation**, Andreea Deac et.al., Paper: [http://arxiv.org/abs/2210.02997v1](http://arxiv.org/abs/2210.02997v1)
+- 2022-10-06, **Compressed Vision for Efficient Video Understanding**, Olivia Wiles et.al., Paper: [http://arxiv.org/abs/2210.02995v1](http://arxiv.org/abs/2210.02995v1)
 - 2022-10-05, **DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**, Ivan Kapelyukh et.al., Paper: [http://arxiv.org/abs/2210.02438v1](http://arxiv.org/abs/2210.02438v1)
 - 2022-10-05, **Incorrect sample classification in "Electron localization induced by intrinsic anion disorder in a transition metal oxynitride"**, A. Mobius et.al., Paper: [http://arxiv.org/abs/2210.02430v1](http://arxiv.org/abs/2210.02430v1)
 - 2022-10-05, **A deep learning model for brain vessel segmentation in 3DRA with arteriovenous malformations**, Camila García et.al., Paper: [http://arxiv.org/abs/2210.02416v1](http://arxiv.org/abs/2210.02416v1)
@@ -845,6 +855,16 @@
 
 ## MultiModal
 
+- 2022-10-06, **Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**, Kirill Mazur et.al., Paper: [http://arxiv.org/abs/2210.03043v1](http://arxiv.org/abs/2210.03043v1)
+- 2022-10-06, **Microscopic nucleus-nucleus optical potentials from nuclear matter with uncertainty analysis from chiral forces**, T. R. Whitehead et.al., Paper: [http://arxiv.org/abs/2210.03031v1](http://arxiv.org/abs/2210.03031v1)
+- 2022-10-06, **Data-Driven Meets Navigation: Concepts, Models, and Experimental Validation**, Itzik Klein et.al., Paper: [http://arxiv.org/abs/2210.02930v1](http://arxiv.org/abs/2210.02930v1)
+- 2022-10-06, **A Distributional Lens for Multi-Aspect Controllable Text Generation**, Yuxuan Gu et.al., Paper: [http://arxiv.org/abs/2210.02889v1](http://arxiv.org/abs/2210.02889v1), Code: **[https://github.com/happygu0524/multicontrol](https://github.com/happygu0524/multicontrol)**
+- 2022-10-06, **CIR-Net: Cross-modality Interaction and Refinement for RGB-D Salient Object Detection**, Runmin Cong et.al., Paper: [http://arxiv.org/abs/2210.02843v1](http://arxiv.org/abs/2210.02843v1)
+- 2022-10-06, **FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras**, Andreas Meuleman et.al., Paper: [http://arxiv.org/abs/2210.02785v1](http://arxiv.org/abs/2210.02785v1)
+- 2022-10-06, **MuS2: A Benchmark for Sentinel-2 Multi-Image Super-Resolution**, Pawel Kowaleczko et.al., Paper: [http://arxiv.org/abs/2210.02745v1](http://arxiv.org/abs/2210.02745v1)
+- 2022-10-05, **Star-Graph Multimodal Matching Component Analysis for Data Fusion and Transfer Learning**, Nick Lorenzo et.al., Paper: [http://arxiv.org/abs/2210.02590v1](http://arxiv.org/abs/2210.02590v1)
+- 2022-10-05, **Reading Chinese in Natural Scenes with a Bag-of-Radicals Prior**, Liu Yongbin et.al., Paper: [http://arxiv.org/abs/2210.02576v1](http://arxiv.org/abs/2210.02576v1)
+- 2022-10-05, **Dual-Domain Cross-Iteration Squeeze-Excitation Network for Sparse Reconstruction of Brain MRI**, Xiongchao Chen et.al., Paper: [http://arxiv.org/abs/2210.02523v1](http://arxiv.org/abs/2210.02523v1)
 - 2022-10-05, **Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**, Jinhyung Park et.al., Paper: [http://arxiv.org/abs/2210.02443v1](http://arxiv.org/abs/2210.02443v1)
 - 2022-10-05, **Multi-stream Fusion for Class Incremental Learning in Pill Image Classification**, Trong-Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2210.02313v1](http://arxiv.org/abs/2210.02313v1), Code: **[https://github.com/vinuni-vishc/cg-imif](https://github.com/vinuni-vishc/cg-imif)**
 - 2022-10-05, **Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**, Jon Almazán et.al., Paper: [http://arxiv.org/abs/2210.02254v1](http://arxiv.org/abs/2210.02254v1)
