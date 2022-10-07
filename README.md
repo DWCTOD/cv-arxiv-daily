@@ -1,4 +1,4 @@
-## Updated on 2022.10.06
+## Updated on 2022.10.07
 
 ## Video_Classification
 
@@ -10,7 +10,7 @@
 |**2022-10-05**|**How Erdös and Rényi Win the Lottery**|Advait Gadhikar et.al.|[2210.02412v1](http://arxiv.org/abs/2210.02412v1)|null|
 |**2022-10-05**|**Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**|Deepak Gupta et.al.|[2210.02401v1](http://arxiv.org/abs/2210.02401v1)|**[link](https://github.com/deepaknlp/dls)**|
 |**2022-10-05**|**Phenaki: Variable Length Video Generation From Open Domain Textual Description**|Ruben Villegas et.al.|[2210.02399v1](http://arxiv.org/abs/2210.02399v1)|null|
-|**2022-10-05**|**Temporally Consistent Video Transformer for Long-Term Video Prediction**|Wilson Yan et.al.|[2210.02396v1](http://arxiv.org/abs/2210.02396v1)|null|
+|**2022-10-05**|**Temporally Consistent Video Transformer for Long-Term Video Prediction**|Wilson Yan et.al.|[2210.02396v1](http://arxiv.org/abs/2210.02396v1)|**[link](https://github.com/wilson1yan/teco)**|
 |**2022-10-05**|**Geometry Driven Progressive Warping for One-Shot Face Animation**|Yatao Zhong et.al.|[2210.02391v1](http://arxiv.org/abs/2210.02391v1)|null|
 |**2022-10-05**|**Domain Adaptation for Unknown Image Distortions in Instance Segmentation**|Maximiliane Gruber et.al.|[2210.02386v1](http://arxiv.org/abs/2210.02386v1)|null|
 |**2022-10-05**|**Goal Recognition as a Deep Learning Task: the GRNet Approach**|Mattia Chiari et.al.|[2210.02377v1](http://arxiv.org/abs/2210.02377v1)|null|
@@ -854,7 +854,7 @@
 |**2022-10-05**|**Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**|Jon Almazán et.al.|[2210.02254v1](http://arxiv.org/abs/2210.02254v1)|null|
 |**2022-10-05**|**Comprint: Image Forgery Detection and Localization using Compression Fingerprints**|Hannes Mareen et.al.|[2210.02227v1](http://arxiv.org/abs/2210.02227v1)|**[link](https://github.com/idlabmedia/comprint)**|
 |**2022-10-05**|**Fused mean structure learning in data integration with dependence**|Emily C. Hector et.al.|[2210.02198v1](http://arxiv.org/abs/2210.02198v1)|null|
-|**2022-10-05**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v1](http://arxiv.org/abs/2210.02127v1)|null|
+|**2022-10-06**|**Visual-Inertial and Leg Odometry Fusion for Dynamic Locomotion**|Victor Dhédin et.al.|[2210.02127v2](http://arxiv.org/abs/2210.02127v2)|null|
 |**2022-10-05**|**The Trilinear Higgs Self-Couplings at ${\cal O}(α_t^2)$ in the CP-Violating NMSSM**|Christoph Borschensky et.al.|[2210.02104v1](http://arxiv.org/abs/2210.02104v1)|null|
 |**2022-10-05**|**DreamShard: Generalizable Embedding Table Placement for Recommender Systems**|Daochen Zha et.al.|[2210.02023v1](http://arxiv.org/abs/2210.02023v1)|null|
 |**2022-10-04**|**An Anatomy-aware Framework for Automatic Segmentation of Parotid Tumor from Multimodal MRI**|Yifan Gao et.al.|[2210.01467v1](http://arxiv.org/abs/2210.01467v1)|null|
