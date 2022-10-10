@@ -1,11 +1,11 @@
-> Updated on 2022.10.09
+> Updated on 2022.10.10
 
 ## Video_Classification
 
 - 2022-10-06, **Real-World Robot Learning with Masked Visual Pre-training**, Ilija Radosavovic et.al., Paper: [http://arxiv.org/abs/2210.03109v1](http://arxiv.org/abs/2210.03109v1)
 - 2022-10-06, **Ambiguous Images With Human Judgments for Robust Visual Event Classification**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2210.03102v1](http://arxiv.org/abs/2210.03102v1)
 - 2022-10-06, **Mixed higher-order topology: boundary non-Hermitian skin effect induced by a Floquet bulk**, Hui Liu et.al., Paper: [http://arxiv.org/abs/2210.03097v1](http://arxiv.org/abs/2210.03097v1)
-- 2022-10-06, **ARS2: Adaptive Ranking-based Sample Selection for Weakly supervised Class-imbalanced Text Classification**, Linxin Song et.al., Paper: [http://arxiv.org/abs/2210.03092v1](http://arxiv.org/abs/2210.03092v1), Code: **[https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py](https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py)**
+- 2022-10-07, **Adaptive Ranking-based Sample Selection for Weakly Supervised Class-imbalanced Text Classification**, Linxin Song et.al., Paper: [http://arxiv.org/abs/2210.03092v2](http://arxiv.org/abs/2210.03092v2), Code: **[https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py](https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py)**
 - 2022-10-06, **Rolling Shutter Inversion: Bring Rolling Shutter Images to High Framerate Global Shutter Video**, Bin Fan et.al., Paper: [http://arxiv.org/abs/2210.03040v1](http://arxiv.org/abs/2210.03040v1), Code: **[https://github.com/gitcvfb/rssr](https://github.com/gitcvfb/rssr)**
 - 2022-10-06, **AnimeTAB: A new guitar tablature dataset of anime and game music**, Yuecheng Zhou et.al., Paper: [http://arxiv.org/abs/2210.03027v1](http://arxiv.org/abs/2210.03027v1)
 - 2022-10-06, **Enhancing Code Classification by Mixup-Based Data Augmentation**, Zeming Dong et.al., Paper: [http://arxiv.org/abs/2210.03003v1](http://arxiv.org/abs/2210.03003v1)

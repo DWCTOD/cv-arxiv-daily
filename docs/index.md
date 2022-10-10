@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.09
+## Updated on 2022.10.10
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@ layout: default
 |**2022-10-06**|**Real-World Robot Learning with Masked Visual Pre-training**|Ilija Radosavovic et.al.|[2210.03109v1](http://arxiv.org/abs/2210.03109v1)|null|
 |**2022-10-06**|**Ambiguous Images With Human Judgments for Robust Visual Event Classification**|Kate Sanders et.al.|[2210.03102v1](http://arxiv.org/abs/2210.03102v1)|null|
 |**2022-10-06**|**Mixed higher-order topology: boundary non-Hermitian skin effect induced by a Floquet bulk**|Hui Liu et.al.|[2210.03097v1](http://arxiv.org/abs/2210.03097v1)|null|
-|**2022-10-06**|**ARS2: Adaptive Ranking-based Sample Selection for Weakly supervised Class-imbalanced Text Classification**|Linxin Song et.al.|[2210.03092v1](http://arxiv.org/abs/2210.03092v1)|**[link](https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py)**|
+|**2022-10-07**|**Adaptive Ranking-based Sample Selection for Weakly Supervised Class-imbalanced Text Classification**|Linxin Song et.al.|[2210.03092v2](http://arxiv.org/abs/2210.03092v2)|**[link](https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/ars2.py)**|
 |**2022-10-06**|**Rolling Shutter Inversion: Bring Rolling Shutter Images to High Framerate Global Shutter Video**|Bin Fan et.al.|[2210.03040v1](http://arxiv.org/abs/2210.03040v1)|**[link](https://github.com/gitcvfb/rssr)**|
 |**2022-10-06**|**AnimeTAB: A new guitar tablature dataset of anime and game music**|Yuecheng Zhou et.al.|[2210.03027v1](http://arxiv.org/abs/2210.03027v1)|null|
 |**2022-10-06**|**Enhancing Code Classification by Mixup-Based Data Augmentation**|Zeming Dong et.al.|[2210.03003v1](http://arxiv.org/abs/2210.03003v1)|null|
