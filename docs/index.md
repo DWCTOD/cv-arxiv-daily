@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Safe Path Planning for Polynomial Shape Obstacles via Control Barrier Functions and Logistic Regression**|Chengyang Peng et.al.|[2210.03704v1](http://arxiv.org/abs/2210.03704v1)|null|
+|**2022-10-07**|**Multi-Frequency-Aware Patch Adversarial Learning for Neural Point Cloud Rendering**|Jay Karhade et.al.|[2210.03693v1](http://arxiv.org/abs/2210.03693v1)|null|
+|**2022-10-07**|**Compressing Video Calls using Synthetic Talking Heads**|Madhav Agarwal et.al.|[2210.03692v1](http://arxiv.org/abs/2210.03692v1)|null|
+|**2022-10-07**|**GENHOP: An Image Generation Method Based on Successive Subspace Learning**|Xuejing Lei et.al.|[2210.03689v1](http://arxiv.org/abs/2210.03689v1)|null|
+|**2022-10-07**|**Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors**|Federico Baldassarre et.al.|[2210.03683v1](http://arxiv.org/abs/2210.03683v1)|null|
+|**2022-10-07**|**Classification of Fermionic Topological Orders from Congruence Representations**|Gil Young Cho et.al.|[2210.03681v1](http://arxiv.org/abs/2210.03681v1)|null|
+|**2022-10-07**|**IronDepth: Iterative Refinement of Single-View Depth using Surface Normal and its Uncertainty**|Gwangbin Bae et.al.|[2210.03676v1](http://arxiv.org/abs/2210.03676v1)|**[link](https://github.com/baegwangbin/irondepth)**|
+|**2022-10-07**|**Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification**|Linhao Qu et.al.|[2210.03664v1](http://arxiv.org/abs/2210.03664v1)|**[link](https://github.com/miccaiif/weno)**|
+|**2022-10-07**|**Learning High Speed Precision Table Tennis on a Physical Robot**|Tianli Ding et.al.|[2210.03662v1](http://arxiv.org/abs/2210.03662v1)|null|
+|**2022-10-07**|**Spatio-temporal Tendency Reasoning for Human Body Pose and Shape Estimation from Videos**|Boyang Zhang et.al.|[2210.03659v1](http://arxiv.org/abs/2210.03659v1)|null|
 |**2022-10-06**|**Real-World Robot Learning with Masked Visual Pre-training**|Ilija Radosavovic et.al.|[2210.03109v1](http://arxiv.org/abs/2210.03109v1)|null|
 |**2022-10-06**|**Ambiguous Images With Human Judgments for Robust Visual Event Classification**|Kate Sanders et.al.|[2210.03102v1](http://arxiv.org/abs/2210.03102v1)|null|
 |**2022-10-06**|**Mixed higher-order topology: boundary non-Hermitian skin effect induced by a Floquet bulk**|Hui Liu et.al.|[2210.03097v1](http://arxiv.org/abs/2210.03097v1)|null|
@@ -863,6 +873,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Classification of Fermionic Topological Orders from Congruence Representations**|Gil Young Cho et.al.|[2210.03681v1](http://arxiv.org/abs/2210.03681v1)|null|
+|**2022-10-07**|**PCAE: A Framework of Plug-in Conditional Auto-Encoder for Controllable Text Generation**|Haoqin Tu et.al.|[2210.03496v1](http://arxiv.org/abs/2210.03496v1)|**[link](https://github.com/imkett/pcae)**|
+|**2022-10-07**|**DABERT: Dual Attention Enhanced BERT for Semantic Matching**|Sirui Wang et.al.|[2210.03454v1](http://arxiv.org/abs/2210.03454v1)|null|
+|**2022-10-07**|**KRF: Keypoint Refinement with Fusion Network for 6D Pose Estimation**|Irvin Haozhe Zhan et.al.|[2210.03437v1](http://arxiv.org/abs/2210.03437v1)|**[link](https://github.com/zhanhz/krf)**|
+|**2022-10-07**|**Research on Self-adaptive Online Vehicle Velocity Prediction Strategy Considering Traffic Information Fusion**|Ziyan Zhang et.al.|[2210.03402v1](http://arxiv.org/abs/2210.03402v1)|null|
+|**2022-10-06**|**Interpreting County Level COVID-19 Infection and Feature Sensitivity using Deep Learning Time Series Models**|Md Khairul Islam et.al.|[2210.03258v1](http://arxiv.org/abs/2210.03258v1)|**[link](https://github.com/data-sciencehub/gpce-sensitivity)**|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
 |**2022-10-06**|**Microscopic nucleus-nucleus optical potentials from nuclear matter with uncertainty analysis from chiral forces**|T. R. Whitehead et.al.|[2210.03031v1](http://arxiv.org/abs/2210.03031v1)|null|
 |**2022-10-06**|**Data-Driven Meets Navigation: Concepts, Models, and Experimental Validation**|Itzik Klein et.al.|[2210.02930v1](http://arxiv.org/abs/2210.02930v1)|null|
