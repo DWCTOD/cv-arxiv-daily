@@ -1,4 +1,4 @@
-> Updated on 2022.10.10
+> Updated on 2022.10.11
 
 ## Video_Classification
 
@@ -9,9 +9,9 @@
 - 2022-10-07, **Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors**, Federico Baldassarre et.al., Paper: [http://arxiv.org/abs/2210.03683v1](http://arxiv.org/abs/2210.03683v1)
 - 2022-10-07, **Classification of Fermionic Topological Orders from Congruence Representations**, Gil Young Cho et.al., Paper: [http://arxiv.org/abs/2210.03681v1](http://arxiv.org/abs/2210.03681v1)
 - 2022-10-07, **IronDepth: Iterative Refinement of Single-View Depth using Surface Normal and its Uncertainty**, Gwangbin Bae et.al., Paper: [http://arxiv.org/abs/2210.03676v1](http://arxiv.org/abs/2210.03676v1), Code: **[https://github.com/baegwangbin/irondepth](https://github.com/baegwangbin/irondepth)**
-- 2022-10-07, **Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification**, Linhao Qu et.al., Paper: [http://arxiv.org/abs/2210.03664v1](http://arxiv.org/abs/2210.03664v1), Code: **[https://github.com/miccaiif/weno](https://github.com/miccaiif/weno)**
+- 2022-10-10, **Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification**, Linhao Qu et.al., Paper: [http://arxiv.org/abs/2210.03664v2](http://arxiv.org/abs/2210.03664v2), Code: **[https://github.com/miccaiif/weno](https://github.com/miccaiif/weno)**
 - 2022-10-07, **Learning High Speed Precision Table Tennis on a Physical Robot**, Tianli Ding et.al., Paper: [http://arxiv.org/abs/2210.03662v1](http://arxiv.org/abs/2210.03662v1)
-- 2022-10-07, **Spatio-temporal Tendency Reasoning for Human Body Pose and Shape Estimation from Videos**, Boyang Zhang et.al., Paper: [http://arxiv.org/abs/2210.03659v1](http://arxiv.org/abs/2210.03659v1)
+- 2022-10-10, **Spatio-temporal Tendency Reasoning for Human Body Pose and Shape Estimation from Videos**, Boyang Zhang et.al., Paper: [http://arxiv.org/abs/2210.03659v2](http://arxiv.org/abs/2210.03659v2)
 - 2022-10-06, **Real-World Robot Learning with Masked Visual Pre-training**, Ilija Radosavovic et.al., Paper: [http://arxiv.org/abs/2210.03109v1](http://arxiv.org/abs/2210.03109v1)
 - 2022-10-06, **Ambiguous Images With Human Judgments for Robust Visual Event Classification**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2210.03102v1](http://arxiv.org/abs/2210.03102v1)
 - 2022-10-06, **Mixed higher-order topology: boundary non-Hermitian skin effect induced by a Floquet bulk**, Hui Liu et.al., Paper: [http://arxiv.org/abs/2210.03097v1](http://arxiv.org/abs/2210.03097v1)
