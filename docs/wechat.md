@@ -1,4 +1,4 @@
-> Updated on 2022.10.11
+> Updated on 2022.10.12
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 - 2022-10-10, **Tracking changes using Kullback-Leibler divergence for the continual learning**, Sebastián Basterrech et.al., Paper: [http://arxiv.org/abs/2210.04865v1](http://arxiv.org/abs/2210.04865v1)
 - 2022-10-10, **A Posteriori Error Estimate and Adaptivity for QM/MM Models of Crystalline Defects**, Yangshuai Wang et.al., Paper: [http://arxiv.org/abs/2210.04856v1](http://arxiv.org/abs/2210.04856v1)
 - 2022-10-10, **Multi-Modal Fusion by Meta-Initialization**, Matthew T. Jackson et.al., Paper: [http://arxiv.org/abs/2210.04843v1](http://arxiv.org/abs/2210.04843v1), Code: **[https://github.com/s-a-malik/multi-few](https://github.com/s-a-malik/multi-few)**
-- 2022-10-10, **Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**, Charith Peris et.al., Paper: [http://arxiv.org/abs/2210.04834v1](http://arxiv.org/abs/2210.04834v1)
+- 2022-10-11, **Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**, Charith Peris et.al., Paper: [http://arxiv.org/abs/2210.04834v2](http://arxiv.org/abs/2210.04834v2)
 - 2022-10-10, **Hierarchical3D Adapters for Long Video-to-text Summarization**, Pinelopi Papalampidi et.al., Paper: [http://arxiv.org/abs/2210.04829v1](http://arxiv.org/abs/2210.04829v1)
 - 2022-10-10, **Rhombic Grids Reduce the Number of Voxels in Fast Pulse-Echo Ultrasound Imaging**, Martin F. Schiffner et.al., Paper: [http://arxiv.org/abs/2210.04818v1](http://arxiv.org/abs/2210.04818v1)
 - 2022-10-07, **Safe Path Planning for Polynomial Shape Obstacles via Control Barrier Functions and Logistic Regression**, Chengyang Peng et.al., Paper: [http://arxiv.org/abs/2210.03704v1](http://arxiv.org/abs/2210.03704v1)
@@ -882,7 +882,7 @@
 - 2022-10-10, **Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**, Xingyu Chen et.al., Paper: [http://arxiv.org/abs/2210.04562v1](http://arxiv.org/abs/2210.04562v1)
 - 2022-10-10, **Multi-Modal Fusion Transformer for Visual Question Answering in Remote Sensing**, Tim Siebert et.al., Paper: [http://arxiv.org/abs/2210.04510v1](http://arxiv.org/abs/2210.04510v1)
 - 2022-10-10, **LAPFormer: A Light and Accurate Polyp Segmentation Transformer**, Mai Nguyen et.al., Paper: [http://arxiv.org/abs/2210.04393v1](http://arxiv.org/abs/2210.04393v1)
-- 2022-10-09, **ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**, Jiannan Xiang et.al., Paper: [http://arxiv.org/abs/2210.04325v1](http://arxiv.org/abs/2210.04325v1), Code: **[https://github.com/szxiangjn/any-shot-data2text](https://github.com/szxiangjn/any-shot-data2text)**
+- 2022-10-11, **ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**, Jiannan Xiang et.al., Paper: [http://arxiv.org/abs/2210.04325v2](http://arxiv.org/abs/2210.04325v2), Code: **[https://github.com/szxiangjn/any-shot-data2text](https://github.com/szxiangjn/any-shot-data2text)**
 - 2022-10-09, **Cost-effective photonic super-resolution millimeter-wave joint radar-communication system using self-coherent detection**, Wenlin Bai et.al., Paper: [http://arxiv.org/abs/2210.04280v1](http://arxiv.org/abs/2210.04280v1)
 - 2022-10-09, **Does Thermal Really Always Matter for RGB-T Salient Object Detection?**, Runmin Cong et.al., Paper: [http://arxiv.org/abs/2210.04266v1](http://arxiv.org/abs/2210.04266v1)
 - 2022-10-07, **Classification of Fermionic Topological Orders from Congruence Representations**, Gil Young Cho et.al., Paper: [http://arxiv.org/abs/2210.03681v1](http://arxiv.org/abs/2210.03681v1)
