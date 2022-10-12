@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-11**|**Point Transformer V2: Grouped Vector Attention and Partition-based Pooling**|Xiaoyang Wu et.al.|[2210.05666v1](http://arxiv.org/abs/2210.05666v1)|**[link](https://github.com/gofinge/pointtransformerv2)**|
+|**2022-10-11**|**HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**|Yue Jiang et.al.|[2210.05665v1](http://arxiv.org/abs/2210.05665v1)|null|
+|**2022-10-11**|**CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory**|Nur Muhammad Mahi Shafiullah et.al.|[2210.05663v1](http://arxiv.org/abs/2210.05663v1)|**[link](https://github.com/notmahi/clip-fields)**|
+|**2022-10-11**|**The Unreasonable Effectiveness of Fully-Connected Layers for Low-Data Regimes**|Peter Kocsis et.al.|[2210.05657v1](http://arxiv.org/abs/2210.05657v1)|null|
+|**2022-10-11**|**APSNet: Attention Based Point Cloud Sampling**|Yang Ye et.al.|[2210.05638v1](http://arxiv.org/abs/2210.05638v1)|**[link](https://github.com/yangyeeee/apsnet)**|
+|**2022-10-11**|**SEE-Few: Seed, Expand and Entail for Few-shot Named Entity Recognition**|Zeng Yang et.al.|[2210.05632v1](http://arxiv.org/abs/2210.05632v1)|**[link](https://github.com/unveiled-the-red-hat/SEE-Few)**|
+|**2022-10-11**|**Contrastive Training Improves Zero-Shot Classification of Semi-structured Documents**|Muhammad Khalifa et.al.|[2210.05613v1](http://arxiv.org/abs/2210.05613v1)|null|
+|**2022-10-11**|**Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection**|Shizhen Zhao et.al.|[2210.05593v1](http://arxiv.org/abs/2210.05593v1)|**[link](https://github.com/cvmi-lab/fs3d)**|
+|**2022-10-11**|**What Can the Neural Tangent Kernel Tell Us About Adversarial Robustness?**|Nikolaos Tsilivis et.al.|[2210.05577v1](http://arxiv.org/abs/2210.05577v1)|null|
+|**2022-10-11**|**Motion Aware Self-Supervision for Generic Event Boundary Detection**|Ayush K. Rai et.al.|[2210.05574v1](http://arxiv.org/abs/2210.05574v1)|**[link](https://github.com/rayush7/motion_ssl_gebd)**|
 |**2022-10-10**|**Turbo Training with Token Dropout**|Tengda Han et.al.|[2210.04889v1](http://arxiv.org/abs/2210.04889v1)|null|
 |**2022-10-10**|**In-Hand Object Rotation via Rapid Motor Adaptation**|Haozhi Qi et.al.|[2210.04887v1](http://arxiv.org/abs/2210.04887v1)|null|
 |**2022-10-10**|**Revisiting adapters with adversarial training**|Sylvestre-Alvise Rebuffi et.al.|[2210.04886v1](http://arxiv.org/abs/2210.04886v1)|null|
@@ -883,6 +893,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-11**|**Learning to Locate Visual Answer in Video Corpus Using Question**|Bin Li et.al.|[2210.05423v1](http://arxiv.org/abs/2210.05423v1)|null|
+|**2022-10-11**|**PP-StructureV2: A Stronger Document Analysis System**|Chenxia Li et.al.|[2210.05391v1](http://arxiv.org/abs/2210.05391v1)|null|
+|**2022-10-11**|**FusionDeepMF: A Dual Embedding based Deep Fusion Model for Recommendation**|Supriyo Mandal et.al.|[2210.05338v1](http://arxiv.org/abs/2210.05338v1)|null|
+|**2022-10-11**|**Deep Spectro-temporal Artifacts for Detecting Synthesized Speech**|Xiaohui Liu et.al.|[2210.05254v1](http://arxiv.org/abs/2210.05254v1)|null|
+|**2022-10-11**|**Cross-modal Search Method of Technology Video based on Adversarial Learning and Feature Fusion**|Xiangbin Liu et.al.|[2210.05243v1](http://arxiv.org/abs/2210.05243v1)|null|
+|**2022-10-10**|**Automated Audio Captioning via Fusion of Low- and High- Dimensional Features**|Jianyuan Sun et.al.|[2210.05037v1](http://arxiv.org/abs/2210.05037v1)|null|
+|**2022-10-10**|**On Designing Day Ahead and Same Day Ridership Level Prediction Models for City-Scale Transit Networks Using Noisy APC Data**|Jose Paolo Talusan et.al.|[2210.04989v1](http://arxiv.org/abs/2210.04989v1)|null|
+|**2022-10-10**|**On Distributed Detection in EH-WSNs With Finite-State Markov Channel and Limited Feedback**|Ghazaleh Ardeshiri et.al.|[2210.04953v1](http://arxiv.org/abs/2210.04953v1)|null|
 |**2022-10-10**|**Multi-Modal Fusion by Meta-Initialization**|Matthew T. Jackson et.al.|[2210.04843v1](http://arxiv.org/abs/2210.04843v1)|**[link](https://github.com/s-a-malik/multi-few)**|
 |**2022-10-10**|**A flag version of Beilinson-Drinfeld Grassmannian for surfaces**|Benjamin Hennion et.al.|[2210.04798v1](http://arxiv.org/abs/2210.04798v1)|null|
 |**2022-10-10**|**Semantics-Consistent Cross-domain Summarization via Optimal Transport Alignment**|Jielin Qiu et.al.|[2210.04722v1](http://arxiv.org/abs/2210.04722v1)|null|
