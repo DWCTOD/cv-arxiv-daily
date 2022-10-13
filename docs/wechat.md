@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-12, **AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars**, Yue Wu et.al., Paper: [http://arxiv.org/abs/2210.06465v1](http://arxiv.org/abs/2210.06465v1)
+- 2022-10-12, **Holo-Dex: Teaching Dexterity with Immersive Mixed Reality**, Sridhar Pandian Arunachalam et.al., Paper: [http://arxiv.org/abs/2210.06463v1](http://arxiv.org/abs/2210.06463v1)
+- 2022-10-12, **Token-Label Alignment for Vision Transformers**, Han Xiao et.al., Paper: [http://arxiv.org/abs/2210.06455v1](http://arxiv.org/abs/2210.06455v1), Code: **[https://github.com/euphoria16/tl-align](https://github.com/euphoria16/tl-align)**
+- 2022-10-12, **Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics**, Kyle Lee et.al., Paper: [http://arxiv.org/abs/2210.06450v1](http://arxiv.org/abs/2210.06450v1)
+- 2022-10-12, **The Devil is in the Details: On Models and Training Regimes for Few-Shot Intent Classification**, Mohsen Mesgar et.al., Paper: [http://arxiv.org/abs/2210.06440v1](http://arxiv.org/abs/2210.06440v1)
+- 2022-10-12, **Deep Combinatorial Aggregation**, Yuesong Shen et.al., Paper: [http://arxiv.org/abs/2210.06436v1](http://arxiv.org/abs/2210.06436v1)
+- 2022-10-12, **FedProp: Cross-client Label Propagation for Federated Semi-supervised Learning**, Jonathan Scott et.al., Paper: [http://arxiv.org/abs/2210.06434v1](http://arxiv.org/abs/2210.06434v1)
+- 2022-10-12, **Self-supervised video pretraining yields strong image representations**, Nikhil Parthasarathy et.al., Paper: [http://arxiv.org/abs/2210.06433v1](http://arxiv.org/abs/2210.06433v1)
+- 2022-10-12, **Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork**, Haotao Wang et.al., Paper: [http://arxiv.org/abs/2210.06428v1](http://arxiv.org/abs/2210.06428v1)
+- 2022-10-12, **A New Family of Generalization Bounds Using Samplewise Evaluated CMI**, Fredrik Hellström et.al., Paper: [http://arxiv.org/abs/2210.06422v1](http://arxiv.org/abs/2210.06422v1)
 - 2022-10-12, **Point Transformer V2: Grouped Vector Attention and Partition-based Pooling**, Xiaoyang Wu et.al., Paper: [http://arxiv.org/abs/2210.05666v2](http://arxiv.org/abs/2210.05666v2), Code: **[https://github.com/gofinge/pointtransformerv2](https://github.com/gofinge/pointtransformerv2)**
 - 2022-10-11, **HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**, Yue Jiang et.al., Paper: [http://arxiv.org/abs/2210.05665v1](http://arxiv.org/abs/2210.05665v1)
 - 2022-10-11, **CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory**, Nur Muhammad Mahi Shafiullah et.al., Paper: [http://arxiv.org/abs/2210.05663v1](http://arxiv.org/abs/2210.05663v1), Code: **[https://github.com/notmahi/clip-fields](https://github.com/notmahi/clip-fields)**
@@ -885,6 +895,12 @@
 
 ## MultiModal
 
+- 2022-10-12, **MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection**, Dehua Zheng et.al., Paper: [http://arxiv.org/abs/2210.06361v1](http://arxiv.org/abs/2210.06361v1)
+- 2022-10-12, **Bridging the Gap Between Vision Transformers and Convolutional Neural Networks on Small Datasets**, Zhiying Lu et.al., Paper: [http://arxiv.org/abs/2210.05958v1](http://arxiv.org/abs/2210.05958v1), Code: **[https://github.com/arieseirack/dhvt](https://github.com/arieseirack/dhvt)**
+- 2022-10-12, **Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features**, Gokul Karthik Kumar et.al., Paper: [http://arxiv.org/abs/2210.05916v1](http://arxiv.org/abs/2210.05916v1), Code: **[https://github.com/gokulkarthik/hateclipper](https://github.com/gokulkarthik/hateclipper)**
+- 2022-10-12, **PSNet: Parallel Symmetric Network for Video Salient Object Detection**, Runmin Cong et.al., Paper: [http://arxiv.org/abs/2210.05912v1](http://arxiv.org/abs/2210.05912v1)
+- 2022-10-12, **DG-STGCN: Dynamic Spatial-Temporal Modeling for Skeleton-based Action Recognition**, Haodong Duan et.al., Paper: [http://arxiv.org/abs/2210.05895v1](http://arxiv.org/abs/2210.05895v1), Code: **[https://github.com/kennymckormick/pyskl](https://github.com/kennymckormick/pyskl)**
+- 2022-10-11, **Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors**, Karim Guirguis et.al., Paper: [http://arxiv.org/abs/2210.05783v1](http://arxiv.org/abs/2210.05783v1)
 - 2022-10-11, **Learning to Locate Visual Answer in Video Corpus Using Question**, Bin Li et.al., Paper: [http://arxiv.org/abs/2210.05423v1](http://arxiv.org/abs/2210.05423v1)
 - 2022-10-11, **PP-StructureV2: A Stronger Document Analysis System**, Chenxia Li et.al., Paper: [http://arxiv.org/abs/2210.05391v1](http://arxiv.org/abs/2210.05391v1), Code: **[https://github.com/PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)**
 - 2022-10-11, **FusionDeepMF: A Dual Embedding based Deep Fusion Model for Recommendation**, Supriyo Mandal et.al., Paper: [http://arxiv.org/abs/2210.05338v1](http://arxiv.org/abs/2210.05338v1)
