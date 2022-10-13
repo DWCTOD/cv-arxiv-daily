@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2022.10.12
+## Updated on 2022.10.13
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-11**|**Point Transformer V2: Grouped Vector Attention and Partition-based Pooling**|Xiaoyang Wu et.al.|[2210.05666v1](http://arxiv.org/abs/2210.05666v1)|**[link](https://github.com/gofinge/pointtransformerv2)**|
+|**2022-10-12**|**Point Transformer V2: Grouped Vector Attention and Partition-based Pooling**|Xiaoyang Wu et.al.|[2210.05666v2](http://arxiv.org/abs/2210.05666v2)|**[link](https://github.com/gofinge/pointtransformerv2)**|
 |**2022-10-11**|**HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**|Yue Jiang et.al.|[2210.05665v1](http://arxiv.org/abs/2210.05665v1)|null|
 |**2022-10-11**|**CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory**|Nur Muhammad Mahi Shafiullah et.al.|[2210.05663v1](http://arxiv.org/abs/2210.05663v1)|**[link](https://github.com/notmahi/clip-fields)**|
 |**2022-10-11**|**The Unreasonable Effectiveness of Fully-Connected Layers for Low-Data Regimes**|Peter Kocsis et.al.|[2210.05657v1](http://arxiv.org/abs/2210.05657v1)|null|
@@ -17,7 +17,7 @@ layout: default
 |**2022-10-11**|**Contrastive Training Improves Zero-Shot Classification of Semi-structured Documents**|Muhammad Khalifa et.al.|[2210.05613v1](http://arxiv.org/abs/2210.05613v1)|null|
 |**2022-10-11**|**Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection**|Shizhen Zhao et.al.|[2210.05593v1](http://arxiv.org/abs/2210.05593v1)|**[link](https://github.com/cvmi-lab/fs3d)**|
 |**2022-10-11**|**What Can the Neural Tangent Kernel Tell Us About Adversarial Robustness?**|Nikolaos Tsilivis et.al.|[2210.05577v1](http://arxiv.org/abs/2210.05577v1)|null|
-|**2022-10-11**|**Motion Aware Self-Supervision for Generic Event Boundary Detection**|Ayush K. Rai et.al.|[2210.05574v1](http://arxiv.org/abs/2210.05574v1)|**[link](https://github.com/rayush7/motion_ssl_gebd)**|
+|**2022-10-12**|**Motion Aware Self-Supervision for Generic Event Boundary Detection**|Ayush K. Rai et.al.|[2210.05574v2](http://arxiv.org/abs/2210.05574v2)|**[link](https://github.com/rayush7/motion_ssl_gebd)**|
 |**2022-10-10**|**Turbo Training with Token Dropout**|Tengda Han et.al.|[2210.04889v1](http://arxiv.org/abs/2210.04889v1)|null|
 |**2022-10-10**|**In-Hand Object Rotation via Rapid Motor Adaptation**|Haozhi Qi et.al.|[2210.04887v1](http://arxiv.org/abs/2210.04887v1)|null|
 |**2022-10-10**|**Revisiting adapters with adversarial training**|Sylvestre-Alvise Rebuffi et.al.|[2210.04886v1](http://arxiv.org/abs/2210.04886v1)|null|
@@ -894,7 +894,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-11**|**Learning to Locate Visual Answer in Video Corpus Using Question**|Bin Li et.al.|[2210.05423v1](http://arxiv.org/abs/2210.05423v1)|null|
-|**2022-10-11**|**PP-StructureV2: A Stronger Document Analysis System**|Chenxia Li et.al.|[2210.05391v1](http://arxiv.org/abs/2210.05391v1)|null|
+|**2022-10-11**|**PP-StructureV2: A Stronger Document Analysis System**|Chenxia Li et.al.|[2210.05391v1](http://arxiv.org/abs/2210.05391v1)|**[link](https://github.com/PaddlePaddle/PaddleOCR)**|
 |**2022-10-11**|**FusionDeepMF: A Dual Embedding based Deep Fusion Model for Recommendation**|Supriyo Mandal et.al.|[2210.05338v1](http://arxiv.org/abs/2210.05338v1)|null|
 |**2022-10-11**|**Deep Spectro-temporal Artifacts for Detecting Synthesized Speech**|Xiaohui Liu et.al.|[2210.05254v1](http://arxiv.org/abs/2210.05254v1)|null|
 |**2022-10-11**|**Cross-modal Search Method of Technology Video based on Adversarial Learning and Feature Fusion**|Xiangbin Liu et.al.|[2210.05243v1](http://arxiv.org/abs/2210.05243v1)|null|
