@@ -1,4 +1,4 @@
-## Updated on 2022.10.13
+## Updated on 2022.10.14
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 |**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|**[link](https://github.com/euphoria16/tl-align)**|
 |**2022-10-12**|**Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics**|Kyle Lee et.al.|[2210.06450v1](http://arxiv.org/abs/2210.06450v1)|null|
 |**2022-10-12**|**The Devil is in the Details: On Models and Training Regimes for Few-Shot Intent Classification**|Mohsen Mesgar et.al.|[2210.06440v1](http://arxiv.org/abs/2210.06440v1)|null|
-|**2022-10-12**|**Deep Combinatorial Aggregation**|Yuesong Shen et.al.|[2210.06436v1](http://arxiv.org/abs/2210.06436v1)|null|
+|**2022-10-12**|**Deep Combinatorial Aggregation**|Yuesong Shen et.al.|[2210.06436v1](http://arxiv.org/abs/2210.06436v1)|**[link](https://github.com/tum-vision/dca)**|
 |**2022-10-12**|**FedProp: Cross-client Label Propagation for Federated Semi-supervised Learning**|Jonathan Scott et.al.|[2210.06434v1](http://arxiv.org/abs/2210.06434v1)|null|
 |**2022-10-12**|**Self-supervised video pretraining yields strong image representations**|Nikhil Parthasarathy et.al.|[2210.06433v1](http://arxiv.org/abs/2210.06433v1)|null|
 |**2022-10-12**|**Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork**|Haotao Wang et.al.|[2210.06428v1](http://arxiv.org/abs/2210.06428v1)|null|
@@ -901,12 +901,12 @@
 |---|---|---|---|---|
 |**2022-10-12**|**MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection**|Dehua Zheng et.al.|[2210.06361v1](http://arxiv.org/abs/2210.06361v1)|null|
 |**2022-10-12**|**Bridging the Gap Between Vision Transformers and Convolutional Neural Networks on Small Datasets**|Zhiying Lu et.al.|[2210.05958v1](http://arxiv.org/abs/2210.05958v1)|**[link](https://github.com/arieseirack/dhvt)**|
-|**2022-10-12**|**Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features**|Gokul Karthik Kumar et.al.|[2210.05916v1](http://arxiv.org/abs/2210.05916v1)|**[link](https://github.com/gokulkarthik/hateclipper)**|
+|**2022-10-13**|**Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features**|Gokul Karthik Kumar et.al.|[2210.05916v2](http://arxiv.org/abs/2210.05916v2)|**[link](https://github.com/gokulkarthik/hateclipper)**|
 |**2022-10-12**|**PSNet: Parallel Symmetric Network for Video Salient Object Detection**|Runmin Cong et.al.|[2210.05912v1](http://arxiv.org/abs/2210.05912v1)|null|
 |**2022-10-12**|**DG-STGCN: Dynamic Spatial-Temporal Modeling for Skeleton-based Action Recognition**|Haodong Duan et.al.|[2210.05895v1](http://arxiv.org/abs/2210.05895v1)|**[link](https://github.com/kennymckormick/pyskl)**|
 |**2022-10-11**|**Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors**|Karim Guirguis et.al.|[2210.05783v1](http://arxiv.org/abs/2210.05783v1)|null|
-|**2022-10-11**|**Learning to Locate Visual Answer in Video Corpus Using Question**|Bin Li et.al.|[2210.05423v1](http://arxiv.org/abs/2210.05423v1)|null|
-|**2022-10-11**|**PP-StructureV2: A Stronger Document Analysis System**|Chenxia Li et.al.|[2210.05391v1](http://arxiv.org/abs/2210.05391v1)|**[link](https://github.com/PaddlePaddle/PaddleOCR)**|
+|**2022-10-13**|**Learning to Locate Visual Answer in Video Corpus Using Question**|Bin Li et.al.|[2210.05423v2](http://arxiv.org/abs/2210.05423v2)|null|
+|**2022-10-13**|**PP-StructureV2: A Stronger Document Analysis System**|Chenxia Li et.al.|[2210.05391v2](http://arxiv.org/abs/2210.05391v2)|**[link](https://github.com/PaddlePaddle/PaddleOCR)**|
 |**2022-10-11**|**FusionDeepMF: A Dual Embedding based Deep Fusion Model for Recommendation**|Supriyo Mandal et.al.|[2210.05338v1](http://arxiv.org/abs/2210.05338v1)|null|
 |**2022-10-11**|**Deep Spectro-temporal Artifacts for Detecting Synthesized Speech**|Xiaohui Liu et.al.|[2210.05254v1](http://arxiv.org/abs/2210.05254v1)|null|
 |**2022-10-11**|**Cross-modal Search Method of Technology Video based on Adversarial Learning and Feature Fusion**|Xiangbin Liu et.al.|[2210.05243v1](http://arxiv.org/abs/2210.05243v1)|null|
