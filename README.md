@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
+|**2022-10-13**|**Exploring Long-Sequence Masked Autoencoders**|Ronghang Hu et.al.|[2210.07224v1](http://arxiv.org/abs/2210.07224v1)|**[link](https://github.com/facebookresearch/long_seq_mae)**|
+|**2022-10-13**|**On the column-row property of Operator spaces**|Samya Kumar Ray et.al.|[2210.07223v1](http://arxiv.org/abs/2210.07223v1)|null|
+|**2022-10-13**|**Constructing Natural Language Explanations via Saliency Map Verbalization**|Nils Feldhus et.al.|[2210.07222v1](http://arxiv.org/abs/2210.07222v1)|null|
+|**2022-10-13**|**Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild**|Kaifeng Zhang et.al.|[2210.07199v1](http://arxiv.org/abs/2210.07199v1)|null|
+|**2022-10-13**|**Visual Classification via Description from Large Language Models**|Sachit Menon et.al.|[2210.07183v1](http://arxiv.org/abs/2210.07183v1)|null|
+|**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu et.al.|[2210.07181v1](http://arxiv.org/abs/2210.07181v1)|null|
+|**2022-10-13**|**Corneal endothelium assessment in specular microscopy images with Fuchs' dystrophy via deep regression of signed distance maps**|Juan S. Sierra et.al.|[2210.07102v1](http://arxiv.org/abs/2210.07102v1)|**[link](https://github.com/opi-lab/signed-distance-maps-for-corneal-endothelium)**|
+|**2022-10-13**|**Incorporating Context into Subword Vocabularies**|Shaked Yehezkel et.al.|[2210.07095v1](http://arxiv.org/abs/2210.07095v1)|null|
+|**2022-10-13**|**Automated Search Bias Models & YouTube Gender Bias Analysis**|Gizem Gezici et.al.|[2210.07089v1](http://arxiv.org/abs/2210.07089v1)|null|
 |**2022-10-12**|**AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars**|Yue Wu et.al.|[2210.06465v1](http://arxiv.org/abs/2210.06465v1)|null|
 |**2022-10-12**|**Holo-Dex: Teaching Dexterity with Immersive Mixed Reality**|Sridhar Pandian Arunachalam et.al.|[2210.06463v1](http://arxiv.org/abs/2210.06463v1)|null|
 |**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|**[link](https://github.com/euphoria16/tl-align)**|
@@ -899,6 +909,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-13**|**Precision QCD corrections to gluon-initiated diphoton-plus-jet production at the LHC**|Ryan Moodie et.al.|[2210.07115v1](http://arxiv.org/abs/2210.07115v1)|null|
+|**2022-10-13**|**Query Expansion Using Contextual Clue Sampling with Language Models**|Linqing Liu et.al.|[2210.07093v1](http://arxiv.org/abs/2210.07093v1)|null|
+|**2022-10-13**|**Inverse and forward sparse-grids-based uncertainty quantification analysis of laser-based powder bed fusion of metals**|Mihaela Chiappetta et.al.|[2210.06839v1](http://arxiv.org/abs/2210.06839v1)|null|
+|**2022-10-13**|**Deepfake Detection System for the ADD Challenge Track 3.2 Based on Score Fusion**|Yuxiang Zhang et.al.|[2210.06818v1](http://arxiv.org/abs/2210.06818v1)|null|
+|**2022-10-13**|**Subspace-Contrastive Multi-View Clustering**|Fu Lele et.al.|[2210.06795v1](http://arxiv.org/abs/2210.06795v1)|null|
+|**2022-10-13**|**X-Align: Cross-Modal Cross-View Alignment for Bird's-Eye-View Segmentation**|Shubhankar Borse et.al.|[2210.06778v1](http://arxiv.org/abs/2210.06778v1)|null|
+|**2022-10-13**|**DCANet: Differential Convolution Attention Network for RGB-D Semantic Segmentation**|Lizhi Bai et.al.|[2210.06747v1](http://arxiv.org/abs/2210.06747v1)|null|
+|**2022-10-13**|**Wasserstein Barycenter-based Model Fusion and Linear Mode Connectivity of Neural Networks**|Aditya Kumar Akash et.al.|[2210.06671v1](http://arxiv.org/abs/2210.06671v1)|**[link](https://github.com/sixuli/wbfusionandlmc)**|
 |**2022-10-12**|**MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection**|Dehua Zheng et.al.|[2210.06361v1](http://arxiv.org/abs/2210.06361v1)|null|
 |**2022-10-12**|**Bridging the Gap Between Vision Transformers and Convolutional Neural Networks on Small Datasets**|Zhiying Lu et.al.|[2210.05958v1](http://arxiv.org/abs/2210.05958v1)|**[link](https://github.com/arieseirack/dhvt)**|
 |**2022-10-13**|**Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features**|Gokul Karthik Kumar et.al.|[2210.05916v2](http://arxiv.org/abs/2210.05916v2)|**[link](https://github.com/gokulkarthik/hateclipper)**|
