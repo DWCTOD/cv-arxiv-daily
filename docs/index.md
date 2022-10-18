@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.17
+## Updated on 2022.10.18
 
 ## Video_Classification
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-14**|**Learnable Polyphase Sampling for Shift Invariant and Equivariant Convolutional Networks**|Renan A. Rojas-Gomez et.al.|[2210.08001v1](http://arxiv.org/abs/2210.08001v1)|null|
 |**2022-10-14**|**Trailers12k: Evaluating Transfer Learning for Movie Trailer Genre Classification**|Ricardo Montalvo-Lezama et.al.|[2210.07983v1](http://arxiv.org/abs/2210.07983v1)|**[link](https://github.com/richardtml/divita)**|
-|**2022-10-14**|**Wide Range MRI Artifact Removal with Transformers**|Lennart Alexander Van der Goten et.al.|[2210.07976v1](http://arxiv.org/abs/2210.07976v1)|null|
+|**2022-10-17**|**Wide Range MRI Artifact Removal with Transformers**|Lennart Alexander Van der Goten et.al.|[2210.07976v2](http://arxiv.org/abs/2210.07976v2)|null|
 |**2022-10-14**|**Data-Limited Tissue Segmentation using Inpainting-Based Self-Supervised Learning**|Jeffrey Dominic et.al.|[2210.07936v1](http://arxiv.org/abs/2210.07936v1)|null|
 |**2022-10-14**|**Neural Routing in Meta Learning**|Jicang Cai et.al.|[2210.07932v1](http://arxiv.org/abs/2210.07932v1)|**[link](https://github.com/damedollaforthree/nrml)**|
 |**2022-10-14**|**Sequential Learning Of Neural Networks for Prequential MDL**|Jorg Bornschein et.al.|[2210.07931v1](http://arxiv.org/abs/2210.07931v1)|null|
@@ -926,12 +926,12 @@ layout: default
 |**2022-10-14**|**Metaverse: Survey, Applications, Security, and Opportunities**|Jiayi Sun et.al.|[2210.07990v1](http://arxiv.org/abs/2210.07990v1)|null|
 |**2022-10-14**|**EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning**|Tiannan Wang et.al.|[2210.07795v1](http://arxiv.org/abs/2210.07795v1)|null|
 |**2022-10-14**|**Bandwidth-efficient distributed neural network architectures with application to body sensor networks**|Thomas Strypsteen et.al.|[2210.07750v1](http://arxiv.org/abs/2210.07750v1)|null|
-|**2022-10-14**|**LeVoice ASR Systems for the ISCSLP 2022 Intelligent Cockpit Speech Recognition Challenge**|Yan Jia et.al.|[2210.07749v1](http://arxiv.org/abs/2210.07749v1)|null|
+|**2022-10-17**|**LeVoice ASR Systems for the ISCSLP 2022 Intelligent Cockpit Speech Recognition Challenge**|Yan Jia et.al.|[2210.07749v2](http://arxiv.org/abs/2210.07749v2)|null|
 |**2022-10-14**|**Multi-View Photometric Stereo Revisited**|Berk Kaya et.al.|[2210.07670v1](http://arxiv.org/abs/2210.07670v1)|null|
 |**2022-10-14**|**Self-Supervised 2D/3D Registration for X-Ray to CT Image Fusion**|Srikrishna Jaganathan et.al.|[2210.07611v1](http://arxiv.org/abs/2210.07611v1)|null|
 |**2022-10-14**|**Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique**|Connor Malone et.al.|[2210.07509v1](http://arxiv.org/abs/2210.07509v1)|null|
 |**2022-10-13**|**Ultra-Wide Bandgap Ga$_2$O$_3$-on-SiC MOSFETs**|Yiwen Song et.al.|[2210.07417v1](http://arxiv.org/abs/2210.07417v1)|null|
-|**2022-10-13**|**Real-time Action Recognition for Fine-Grained Actions and The Hand Wash Dataset**|Akash Nagaraj et.al.|[2210.07400v1](http://arxiv.org/abs/2210.07400v1)|null|
+|**2022-10-13**|**Real-time Action Recognition for Fine-Grained Actions and The Hand Wash Dataset**|Akash Nagaraj et.al.|[2210.07400v1](http://arxiv.org/abs/2210.07400v1)|**[link](https://github.com/grassknoted/Modified-Two-Stream-Fusion-for-Real-time-ActionRecognition)**|
 |**2022-10-13**|**SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds**|Pei Sun et.al.|[2210.07372v1](http://arxiv.org/abs/2210.07372v1)|null|
 |**2022-10-13**|**Precision QCD corrections to gluon-initiated diphoton-plus-jet production at the LHC**|Ryan Moodie et.al.|[2210.07115v1](http://arxiv.org/abs/2210.07115v1)|null|
 |**2022-10-13**|**Query Expansion Using Contextual Clue Sampling with Language Models**|Linqing Liu et.al.|[2210.07093v1](http://arxiv.org/abs/2210.07093v1)|null|
