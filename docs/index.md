@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-17**|**Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning**|Yuxin Wen et.al.|[2210.09305v1](http://arxiv.org/abs/2210.09305v1)|**[link](https://github.com/yuxinwenrick/thinking-two-moves-ahead)**|
+|**2022-10-17**|**Non-Contrastive Learning Meets Language-Image Pre-Training**|Jinghao Zhou et.al.|[2210.09304v1](http://arxiv.org/abs/2210.09304v1)|null|
+|**2022-10-17**|**The Power of One Clean Qubit in Supervised Machine Learning**|Mahsa Karimi et.al.|[2210.09275v1](http://arxiv.org/abs/2210.09275v1)|null|
+|**2022-10-17**|**Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**|Zhe Gan et.al.|[2210.09263v1](http://arxiv.org/abs/2210.09263v1)|null|
+|**2022-10-17**|**Boosting Offline Reinforcement Learning via Data Rebalancing**|Yang Yue et.al.|[2210.09241v1](http://arxiv.org/abs/2210.09241v1)|null|
+|**2022-10-17**|**Improving Contrastive Learning on Visually Homogeneous Mars Rover Images**|Isaac Ronald Ward et.al.|[2210.09234v1](http://arxiv.org/abs/2210.09234v1)|null|
+|**2022-10-17**|**Self-Supervised Learning Through Efference Copies**|Franz Scherr et.al.|[2210.09224v1](http://arxiv.org/abs/2210.09224v1)|null|
+|**2022-10-17**|**On the Impact of Temporal Concept Drift on Model Explanations**|Zhixue Zhao et.al.|[2210.09197v1](http://arxiv.org/abs/2210.09197v1)|**[link](https://github.com/casszhao/temporal-drift-on-explanation)**|
+|**2022-10-17**|**Nonlinear Detection of Voltage Source Converter Control Systems in Wind Farms Based on Higher-Order Spectral Analysis**|Zetian Zheng et.al.|[2210.09187v1](http://arxiv.org/abs/2210.09187v1)|null|
+|**2022-10-17**|**Zero-Shot Ranking Socio-Political Texts with Transformer Language Models to Reduce Close Reading Time**|Kiymet Akdemir et.al.|[2210.09179v1](http://arxiv.org/abs/2210.09179v1)|null|
 |**2022-10-14**|**Learnable Polyphase Sampling for Shift Invariant and Equivariant Convolutional Networks**|Renan A. Rojas-Gomez et.al.|[2210.08001v1](http://arxiv.org/abs/2210.08001v1)|null|
 |**2022-10-14**|**Trailers12k: Evaluating Transfer Learning for Movie Trailer Genre Classification**|Ricardo Montalvo-Lezama et.al.|[2210.07983v1](http://arxiv.org/abs/2210.07983v1)|**[link](https://github.com/richardtml/divita)**|
 |**2022-10-17**|**Wide Range MRI Artifact Removal with Transformers**|Lennart Alexander Van der Goten et.al.|[2210.07976v2](http://arxiv.org/abs/2210.07976v2)|null|
@@ -923,6 +933,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-17**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v1](http://arxiv.org/abs/2210.09267v1)|null|
+|**2022-10-17**|**On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning**|Philipp Becker et.al.|[2210.09256v1](http://arxiv.org/abs/2210.09256v1)|**[link](https://github.com/pbecker93/vrkn)**|
+|**2022-10-17**|**The holography of non-invertible self-duality symmetries**|Andrea Antinucci et.al.|[2210.09146v1](http://arxiv.org/abs/2210.09146v1)|null|
+|**2022-10-17**|**Gated Recurrent Unit for Video Denoising**|Kai Guo et.al.|[2210.09135v1](http://arxiv.org/abs/2210.09135v1)|null|
+|**2022-10-17**|**Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention**|Ashutosh Agarwal et.al.|[2210.09071v1](http://arxiv.org/abs/2210.09071v1)|null|
+|**2022-10-17**|**A Novel Membership Inference Attack against Dynamic Neural Networks by Utilizing Policy Networks Information**|Pan Li et.al.|[2210.08956v1](http://arxiv.org/abs/2210.08956v1)|null|
+|**2022-10-17**|**Prediction for the synthesis cross sections of new moscovium isotopes in fusion-evaporation reactions**|Peng-Hui Chen et.al.|[2210.08941v1](http://arxiv.org/abs/2210.08941v1)|null|
+|**2022-10-17**|**Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion**|Suman Ghosh et.al.|[2210.08927v1](http://arxiv.org/abs/2210.08927v1)|null|
+|**2022-10-17**|**Far-forward production of charm mesons and neutrinos at Forward Physics Facilities at the LHC and the intrinsic charm in the proton**|Rafal Maciula et.al.|[2210.08890v1](http://arxiv.org/abs/2210.08890v1)|null|
+|**2022-10-17**|**Towards Summary Candidates Fusion**|Mathieu Ravaut et.al.|[2210.08779v1](http://arxiv.org/abs/2210.08779v1)|null|
 |**2022-10-14**|**Metaverse: Survey, Applications, Security, and Opportunities**|Jiayi Sun et.al.|[2210.07990v1](http://arxiv.org/abs/2210.07990v1)|null|
 |**2022-10-14**|**EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning**|Tiannan Wang et.al.|[2210.07795v1](http://arxiv.org/abs/2210.07795v1)|null|
 |**2022-10-14**|**Bandwidth-efficient distributed neural network architectures with application to body sensor networks**|Thomas Strypsteen et.al.|[2210.07750v1](http://arxiv.org/abs/2210.07750v1)|null|
