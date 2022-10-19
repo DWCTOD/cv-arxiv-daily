@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-18**|**From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**|Zichen Jeff Cui et.al.|[2210.10047v1](http://arxiv.org/abs/2210.10047v1)|null|
+|**2022-10-18**|**Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**|Zipeng Fu et.al.|[2210.10044v1](http://arxiv.org/abs/2210.10044v1)|null|
+|**2022-10-18**|**How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**|Mantas Mazeika et.al.|[2210.10039v1](http://arxiv.org/abs/2210.10039v1)|**[link](https://github.com/hendrycks/emodiversity)**|
+|**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
+|**2022-10-18**|**Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks**|Juniper Lovato et.al.|[2210.10026v1](http://arxiv.org/abs/2210.10026v1)|null|
+|**2022-10-18**|**ULN: Towards Underspecified Vision-and-Language Navigation**|Weixi Feng et.al.|[2210.10020v1](http://arxiv.org/abs/2210.10020v1)|**[link](https://github.com/weixi-feng/uln)**|
+|**2022-10-18**|**Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation**|Jun-Kun Wang et.al.|[2210.10019v1](http://arxiv.org/abs/2210.10019v1)|null|
+|**2022-10-18**|**On Classification Thresholds for Graph Attention with Edge Features**|Kimon Fountoulakis et.al.|[2210.10014v1](http://arxiv.org/abs/2210.10014v1)|null|
+|**2022-10-18**|**Theoretical Guarantees for Permutation-Equivariant Quantum Neural Networks**|Louis Schatzki et.al.|[2210.09974v1](http://arxiv.org/abs/2210.09974v1)|null|
+|**2022-10-18**|**Transfer-learning for video classification: Video Swin Transformer on multiple domains**|Daniel Oliveira et.al.|[2210.09969v1](http://arxiv.org/abs/2210.09969v1)|null|
 |**2022-10-17**|**Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning**|Yuxin Wen et.al.|[2210.09305v1](http://arxiv.org/abs/2210.09305v1)|**[link](https://github.com/yuxinwenrick/thinking-two-moves-ahead)**|
 |**2022-10-17**|**Non-Contrastive Learning Meets Language-Image Pre-Training**|Jinghao Zhou et.al.|[2210.09304v1](http://arxiv.org/abs/2210.09304v1)|null|
 |**2022-10-17**|**The Power of One Clean Qubit in Supervised Machine Learning**|Mahsa Karimi et.al.|[2210.09275v1](http://arxiv.org/abs/2210.09275v1)|null|
@@ -929,6 +939,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-18**|**SA-DNet: A on-demand semantic object registration network adapting to non-rigid deformation**|Housheng Xie et.al.|[2210.09900v1](http://arxiv.org/abs/2210.09900v1)|null|
+|**2022-10-18**|**MotionDeltaCNN: Sparse CNN Inference of Frame Differences in Moving Camera Videos**|Mathias Parger et.al.|[2210.09887v1](http://arxiv.org/abs/2210.09887v1)|null|
+|**2022-10-18**|**Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention**|Yu Yuan et.al.|[2210.09847v1](http://arxiv.org/abs/2210.09847v1)|null|
+|**2022-10-18**|**Quarkonium polarization in low-$p_{\rm T}$ hadro-production: from past data to future opportunities**|Pietro Faccioli et.al.|[2210.09845v1](http://arxiv.org/abs/2210.09845v1)|null|
+|**2022-10-18**|**Compact multi-scale periocular recognition using SAFE features**|Fernando Alonso-Fernandez et.al.|[2210.09778v1](http://arxiv.org/abs/2210.09778v1)|null|
+|**2022-10-18**|**DAGAD: Data Augmentation for Graph Anomaly Detection**|Fanzhen Liu et.al.|[2210.09766v1](http://arxiv.org/abs/2210.09766v1)|**[link](https://github.com/fanzhenliu/dagad)**|
+|**2022-10-18**|**Very Low-Resolution Iris Recognition Via Eigen-Patch Super-Resolution and Matcher Fusion**|Fernando Alonso-Fernandez et.al.|[2210.09765v1](http://arxiv.org/abs/2210.09765v1)|null|
+|**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
+|**2022-10-18**|**Real-Time Multi-Modal Semantic Fusion on Unmanned Aerial Vehicles with Label Propagation for Cross-Domain Adaptation**|Simon Bultmann et.al.|[2210.09739v1](http://arxiv.org/abs/2210.09739v1)|null|
+|**2022-10-18**|**Intense γ-photon and high-energy electron production by neutron irradiation: effect of nuclear excitation on transport of defects**|Luca Reali et.al.|[2210.09667v1](http://arxiv.org/abs/2210.09667v1)|null|
 |**2022-10-18**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v2](http://arxiv.org/abs/2210.09267v2)|null|
 |**2022-10-17**|**On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning**|Philipp Becker et.al.|[2210.09256v1](http://arxiv.org/abs/2210.09256v1)|**[link](https://github.com/pbecker93/vrkn)**|
 |**2022-10-17**|**The holography of non-invertible self-duality symmetries**|Andrea Antinucci et.al.|[2210.09146v1](http://arxiv.org/abs/2210.09146v1)|null|
