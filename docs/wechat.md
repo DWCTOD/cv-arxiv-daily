@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-19, **TabLLM: Few-shot Classification of Tabular Data with Large Language Models**, Stefan Hegselmann et.al., Paper: [http://arxiv.org/abs/2210.10723v1](http://arxiv.org/abs/2210.10723v1)
+- 2022-10-19, **CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**, Philippe Weinzaepfel et.al., Paper: [http://arxiv.org/abs/2210.10716v1](http://arxiv.org/abs/2210.10716v1)
+- 2022-10-19, **BPS Dendroscopy on Local $\mathbb{P}^2$**, Pierrick Bousseau et.al., Paper: [http://arxiv.org/abs/2210.10712v1](http://arxiv.org/abs/2210.10712v1)
+- 2022-10-19, **X-ray galaxies selected from HyperLEDA database**, N. Pulatova et.al., Paper: [http://arxiv.org/abs/2210.10707v1](http://arxiv.org/abs/2210.10707v1)
+- 2022-10-19, **AUC-based Selective Classification**, Andrea Pugnana et.al., Paper: [http://arxiv.org/abs/2210.10703v1](http://arxiv.org/abs/2210.10703v1)
+- 2022-10-19, **Binary Orthogonal Non-negative Matrix Factorization**, S. Fathi Hafshejani et.al., Paper: [http://arxiv.org/abs/2210.10660v1](http://arxiv.org/abs/2210.10660v1)
+- 2022-10-19, **Comparative analysis of deep learning approaches for AgNOR-stained cytology samples interpretation**, João Gustavo Atkinson Amorim et.al., Paper: [http://arxiv.org/abs/2210.10641v1](http://arxiv.org/abs/2210.10641v1)
+- 2022-10-19, **Irregularly-Sampled Time Series Modeling with Spline Networks**, Marin Biloš et.al., Paper: [http://arxiv.org/abs/2210.10630v1](http://arxiv.org/abs/2210.10630v1)
+- 2022-10-19, **A Unified View of Masked Image Modeling**, Zhiliang Peng et.al., Paper: [http://arxiv.org/abs/2210.10615v1](http://arxiv.org/abs/2210.10615v1)
+- 2022-10-19, **Holographic single particle imaging for weakly scattering, heterogeneous nanoscale objects**, Abhishek Mall et.al., Paper: [http://arxiv.org/abs/2210.10611v1](http://arxiv.org/abs/2210.10611v1), Code: **[https://github.com/AyyerLab/RefSPI-MaxLP](https://github.com/AyyerLab/RefSPI-MaxLP)**
 - 2022-10-19, **From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**, Zichen Jeff Cui et.al., Paper: [http://arxiv.org/abs/2210.10047v2](http://arxiv.org/abs/2210.10047v2)
 - 2022-10-18, **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**, Zipeng Fu et.al., Paper: [http://arxiv.org/abs/2210.10044v1](http://arxiv.org/abs/2210.10044v1)
 - 2022-10-18, **How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**, Mantas Mazeika et.al., Paper: [http://arxiv.org/abs/2210.10039v1](http://arxiv.org/abs/2210.10039v1), Code: **[https://github.com/hendrycks/emodiversity](https://github.com/hendrycks/emodiversity)**
@@ -935,9 +945,16 @@
 
 ## MultiModal
 
+- 2022-10-19, **Integrated Decision and Control for High-Level Automated Vehicles by Mixed Policy Gradient and Its Experiment Verification**, Yang Guan et.al., Paper: [http://arxiv.org/abs/2210.10613v1](http://arxiv.org/abs/2210.10613v1)
+- 2022-10-19, **Online LiDAR-Camera Extrinsic Parameters Self-checking**, Pengjin Wei et.al., Paper: [http://arxiv.org/abs/2210.10537v1](http://arxiv.org/abs/2210.10537v1), Code: **[https://github.com/opencalib/lidar2camera_self-check](https://github.com/opencalib/lidar2camera_self-check)**
+- 2022-10-19, **Audio Tampering Detection Based on Shallow and Deep Feature Representation Learning**, Zhifeng Wang et.al., Paper: [http://arxiv.org/abs/2210.10506v1](http://arxiv.org/abs/2210.10506v1)
+- 2022-10-19, **Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**, Abhra Chaudhuri et.al., Paper: [http://arxiv.org/abs/2210.10486v1](http://arxiv.org/abs/2210.10486v1)
+- 2022-10-19, **FaceDancer: Pose- and Occlusion-Aware High Fidelity Face Swapping**, Felix Rosberg et.al., Paper: [http://arxiv.org/abs/2210.10473v1](http://arxiv.org/abs/2210.10473v1)
+- 2022-10-19, **A sensor-to-pattern calibration framework for multi-modal industrial collaborative cells**, Daniela Rato et.al., Paper: [http://arxiv.org/abs/2210.10365v1](http://arxiv.org/abs/2210.10365v1)
+- 2022-10-19, **Observation of non-Abelian exchange statistics on a superconducting processor**, Trond I. Andersen et.al., Paper: [http://arxiv.org/abs/2210.10255v1](http://arxiv.org/abs/2210.10255v1)
 - 2022-10-18, **SA-DNet: A on-demand semantic object registration network adapting to non-rigid deformation**, Housheng Xie et.al., Paper: [http://arxiv.org/abs/2210.09900v1](http://arxiv.org/abs/2210.09900v1)
 - 2022-10-18, **MotionDeltaCNN: Sparse CNN Inference of Frame Differences in Moving Camera Videos**, Mathias Parger et.al., Paper: [http://arxiv.org/abs/2210.09887v1](http://arxiv.org/abs/2210.09887v1)
-- 2022-10-18, **Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention**, Yu Yuan et.al., Paper: [http://arxiv.org/abs/2210.09847v1](http://arxiv.org/abs/2210.09847v1)
+- 2022-10-18, **Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention**, Yu Yuan et.al., Paper: [http://arxiv.org/abs/2210.09847v1](http://arxiv.org/abs/2210.09847v1), Code: **[https://github.com/pandayuanyu/hcfusion](https://github.com/pandayuanyu/hcfusion)**
 - 2022-10-18, **Quarkonium polarization in low-$p_{\rm T}$ hadro-production: from past data to future opportunities**, Pietro Faccioli et.al., Paper: [http://arxiv.org/abs/2210.09845v1](http://arxiv.org/abs/2210.09845v1)
 - 2022-10-18, **Compact multi-scale periocular recognition using SAFE features**, Fernando Alonso-Fernandez et.al., Paper: [http://arxiv.org/abs/2210.09778v1](http://arxiv.org/abs/2210.09778v1)
 - 2022-10-18, **DAGAD: Data Augmentation for Graph Anomaly Detection**, Fanzhen Liu et.al., Paper: [http://arxiv.org/abs/2210.09766v1](http://arxiv.org/abs/2210.09766v1), Code: **[https://github.com/fanzhenliu/dagad](https://github.com/fanzhenliu/dagad)**
