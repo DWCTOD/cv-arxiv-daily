@@ -1,10 +1,10 @@
-## Updated on 2022.10.19
+## Updated on 2022.10.20
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-18**|**From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**|Zichen Jeff Cui et.al.|[2210.10047v1](http://arxiv.org/abs/2210.10047v1)|null|
+|**2022-10-19**|**From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**|Zichen Jeff Cui et.al.|[2210.10047v2](http://arxiv.org/abs/2210.10047v2)|null|
 |**2022-10-18**|**Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**|Zipeng Fu et.al.|[2210.10044v1](http://arxiv.org/abs/2210.10044v1)|null|
 |**2022-10-18**|**How Would The Viewer Feel? Estimating Wellbeing From Video Scenarios**|Mantas Mazeika et.al.|[2210.10039v1](http://arxiv.org/abs/2210.10039v1)|**[link](https://github.com/hendrycks/emodiversity)**|
 |**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
