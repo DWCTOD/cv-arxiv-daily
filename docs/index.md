@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-20**|**G2NetPL: Generic Game-Theoretic Network for Partial-Label Image Classification**|Rabab Abdelfattah et.al.|[2210.11469v1](http://arxiv.org/abs/2210.11469v1)|null|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
+|**2022-10-20**|**Closed-loop Control of Catalytic Janus Microrobots**|Max Sokolich et.al.|[2210.11460v1](http://arxiv.org/abs/2210.11460v1)|null|
+|**2022-10-20**|**On homogeneous 3-dimensional spacetimes: focus on plane waves**|Souheib Allout et.al.|[2210.11439v1](http://arxiv.org/abs/2210.11439v1)|null|
+|**2022-10-20**|**Learning and Retrieval from Prior Data for Skill-based Imitation Learning**|Soroush Nasiriany et.al.|[2210.11435v1](http://arxiv.org/abs/2210.11435v1)|null|
+|**2022-10-20**|**Solving Reasoning Tasks with a Slot Transformer**|Ryan Faulkner et.al.|[2210.11394v1](http://arxiv.org/abs/2210.11394v1)|null|
+|**2022-10-20**|**TTTFlow: Unsupervised Test-Time Training with Normalizing Flow**|David Osowiechi et.al.|[2210.11389v1](http://arxiv.org/abs/2210.11389v1)|**[link](https://github.com/gustavovargashakim/tttflow)**|
+|**2022-10-20**|**Physics-informed deep diffusion MRI reconstruction: break the bottleneck of training data in artificial intelligence**|Chen Qian et.al.|[2210.11388v1](http://arxiv.org/abs/2210.11388v1)|null|
+|**2022-10-20**|**Meeting Decision Tracker: Making Meeting Minutes with De-Contextualized Utterances**|Shumpei Inoue et.al.|[2210.11374v1](http://arxiv.org/abs/2210.11374v1)|null|
+|**2022-10-20**|**Numerical Methods for Large-Scale Optimal Transport**|Nazarii Tupitsa et.al.|[2210.11368v1](http://arxiv.org/abs/2210.11368v1)|null|
 |**2022-10-19**|**TabLLM: Few-shot Classification of Tabular Data with Large Language Models**|Stefan Hegselmann et.al.|[2210.10723v1](http://arxiv.org/abs/2210.10723v1)|null|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**BPS Dendroscopy on Local $\mathbb{P}^2$**|Pierrick Bousseau et.al.|[2210.10712v1](http://arxiv.org/abs/2210.10712v1)|null|
@@ -953,6 +963,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-20**|**Sensor interoperability and fusion in signature verification: A case study using tablet PC**|Fernando Alonso-Fernandez et.al.|[2210.11139v1](http://arxiv.org/abs/2210.11139v1)|null|
+|**2022-10-20**|**Co-Training an Observer and an Evading Target**|André Brandenburger et.al.|[2210.11126v1](http://arxiv.org/abs/2210.11126v1)|null|
+|**2022-10-20**|**Infrared and visible image fusion via dual-domain adversarial learning**|Xiaowen Liu et.al.|[2210.11018v1](http://arxiv.org/abs/2210.11018v1)|null|
+|**2022-10-20**|**Semi-supervised object detection based on single-stage detector for thighbone fracture localization**|Jinman Wei et.al.|[2210.10998v1](http://arxiv.org/abs/2210.10998v1)|null|
+|**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
+|**2022-10-19**|**The constraint of plasma power balance on runaway avoidance**|Christopher J. McDevitt et.al.|[2210.10925v1](http://arxiv.org/abs/2210.10925v1)|null|
+|**2022-10-19**|**The Neoplasia as embryological phenomenon and its implication in the animal evolution and the origin of cancer. III. The role of flagellated cell fusion in the formation of the first animal and evolutionary clues to the Warburg effect**|Jaime Cofre et.al.|[2210.10911v1](http://arxiv.org/abs/2210.10911v1)|null|
+|**2022-10-19**|**Control Design under Actuator Saturation and Multi-Rate Sampling**|Francesco Ferrante et.al.|[2210.10868v1](http://arxiv.org/abs/2210.10868v1)|null|
+|**2022-10-19**|**Cluster and Aggregate: Face Recognition with Large Probe Set**|Minchul Kim et.al.|[2210.10864v1](http://arxiv.org/abs/2210.10864v1)|**[link](https://github.com/mk-minchul/caface)**|
+|**2022-10-19**|**MMRNet: Improving Reliability for Multimodal Computer Vision for Bin Picking via Multimodal Redundancy**|Yuhao Chen et.al.|[2210.10842v1](http://arxiv.org/abs/2210.10842v1)|null|
 |**2022-10-19**|**Integrated Decision and Control for High-Level Automated Vehicles by Mixed Policy Gradient and Its Experiment Verification**|Yang Guan et.al.|[2210.10613v1](http://arxiv.org/abs/2210.10613v1)|null|
 |**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|**[link](https://github.com/opencalib/lidar2camera_self-check)**|
 |**2022-10-19**|**Audio Tampering Detection Based on Shallow and Deep Feature Representation Learning**|Zhifeng Wang et.al.|[2210.10506v1](http://arxiv.org/abs/2210.10506v1)|null|
