@@ -971,7 +971,7 @@ layout: default
 |**2022-10-19**|**The constraint of plasma power balance on runaway avoidance**|Christopher J. McDevitt et.al.|[2210.10925v1](http://arxiv.org/abs/2210.10925v1)|null|
 |**2022-10-19**|**The Neoplasia as embryological phenomenon and its implication in the animal evolution and the origin of cancer. III. The role of flagellated cell fusion in the formation of the first animal and evolutionary clues to the Warburg effect**|Jaime Cofre et.al.|[2210.10911v1](http://arxiv.org/abs/2210.10911v1)|null|
 |**2022-10-19**|**Control Design under Actuator Saturation and Multi-Rate Sampling**|Francesco Ferrante et.al.|[2210.10868v1](http://arxiv.org/abs/2210.10868v1)|null|
-|**2022-10-19**|**Cluster and Aggregate: Face Recognition with Large Probe Set**|Minchul Kim et.al.|[2210.10864v1](http://arxiv.org/abs/2210.10864v1)|**[link](https://github.com/mk-minchul/caface)**|
+|**2022-10-19**|**Cluster and Aggregate: Face Recognition with Large Probe Set**|Minchul Kim et.al.|[2210.10864v1](http://arxiv.org/abs/2210.10864v1)|null|
 |**2022-10-19**|**MMRNet: Improving Reliability for Multimodal Computer Vision for Bin Picking via Multimodal Redundancy**|Yuhao Chen et.al.|[2210.10842v1](http://arxiv.org/abs/2210.10842v1)|null|
 |**2022-10-19**|**Integrated Decision and Control for High-Level Automated Vehicles by Mixed Policy Gradient and Its Experiment Verification**|Yang Guan et.al.|[2210.10613v1](http://arxiv.org/abs/2210.10613v1)|null|
 |**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|**[link](https://github.com/opencalib/lidar2camera_self-check)**|
