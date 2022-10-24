@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-21**|**Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns**|Laurynas Karazija et.al.|[2210.12148v1](http://arxiv.org/abs/2210.12148v1)|null|
+|**2022-10-21**|**Target Aware Poisson-Gaussian Noise Parameters Estimation from Noisy Images**|Étienne Objois et.al.|[2210.12142v1](http://arxiv.org/abs/2210.12142v1)|null|
+|**2022-10-21**|**Audio-to-Intent Using Acoustic-Textual Subword Representations from End-to-End ASR**|Pranay Dighe et.al.|[2210.12134v1](http://arxiv.org/abs/2210.12134v1)|null|
+|**2022-10-21**|**Graph Few-shot Learning with Task-specific Structures**|Song Wang et.al.|[2210.12130v1](http://arxiv.org/abs/2210.12130v1)|null|
+|**2022-10-21**|**Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report**|Pouria Rouzrokh et.al.|[2210.12113v1](http://arxiv.org/abs/2210.12113v1)|**[link](https://github.com/mayo-radiology-informatics-lab/mbti)**|
+|**2022-10-21**|**Towards transparent ANN wind turbine power curve models**|Simon Letzgus et.al.|[2210.12104v1](http://arxiv.org/abs/2210.12104v1)|null|
+|**2022-10-21**|**A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation**|Mario Alfonso Prado-Romero et.al.|[2210.12089v1](http://arxiv.org/abs/2210.12089v1)|null|
+|**2022-10-21**|**Experiencer-Specific Emotion and Appraisal Prediction**|Maximilian Wegge et.al.|[2210.12078v1](http://arxiv.org/abs/2210.12078v1)|null|
+|**2022-10-21**|**BlanketGen -- A synthetic blanket occlusion augmentation pipeline for MoCap datasets**|João Carmona et.al.|[2210.12035v1](http://arxiv.org/abs/2210.12035v1)|null|
+|**2022-10-21**|**Adversarial Transformer for Repairing Human Airway Segmentation**|Zeyu Tang et.al.|[2210.12029v1](http://arxiv.org/abs/2210.12029v1)|null|
 |**2022-10-20**|**G2NetPL: Generic Game-Theoretic Network for Partial-Label Image Classification**|Rabab Abdelfattah et.al.|[2210.11469v1](http://arxiv.org/abs/2210.11469v1)|null|
 |**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
 |**2022-10-20**|**Closed-loop Control of Catalytic Janus Microrobots**|Max Sokolich et.al.|[2210.11460v1](http://arxiv.org/abs/2210.11460v1)|null|
@@ -959,6 +969,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-21**|**Exact Holographic Tensor Networks -- Constructing CFT$_D$ from TQFT$_{D+1}$**|Lin Chen et.al.|[2210.12127v1](http://arxiv.org/abs/2210.12127v1)|null|
+|**2022-10-21**|**An Analysis of Fusion Functions for Hybrid Retrieval**|Sebastian Bruch et.al.|[2210.11934v1](http://arxiv.org/abs/2210.11934v1)|null|
+|**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
+|**2022-10-21**|**Predictions of improved confinement in SPARC via energetic particle turbulence stabilization**|A. Di Siena et.al.|[2210.11816v1](http://arxiv.org/abs/2210.11816v1)|null|
+|**2022-10-21**|**Adaptive re-calibration of channel-wise features for Adversarial Audio Classification**|Vardhan Dongre et.al.|[2210.11722v1](http://arxiv.org/abs/2210.11722v1)|null|
+|**2022-10-20**|**Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement**|Jinha Kim et.al.|[2210.11511v1](http://arxiv.org/abs/2210.11511v1)|null|
 |**2022-10-20**|**Sensor interoperability and fusion in signature verification: A case study using tablet PC**|Fernando Alonso-Fernandez et.al.|[2210.11139v1](http://arxiv.org/abs/2210.11139v1)|null|
 |**2022-10-20**|**Co-Training an Observer and an Evading Target**|André Brandenburger et.al.|[2210.11126v1](http://arxiv.org/abs/2210.11126v1)|null|
 |**2022-10-20**|**Infrared and visible image fusion via dual-domain adversarial learning**|Xiaowen Liu et.al.|[2210.11018v1](http://arxiv.org/abs/2210.11018v1)|null|
