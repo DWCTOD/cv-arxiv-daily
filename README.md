@@ -1,4 +1,4 @@
-## Updated on 2022.10.24
+## Updated on 2022.10.25
 
 ## Video_Classification
 
@@ -977,7 +977,7 @@
 |**2022-10-20**|**Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement**|Jinha Kim et.al.|[2210.11511v1](http://arxiv.org/abs/2210.11511v1)|null|
 |**2022-10-20**|**Sensor interoperability and fusion in signature verification: A case study using tablet PC**|Fernando Alonso-Fernandez et.al.|[2210.11139v1](http://arxiv.org/abs/2210.11139v1)|null|
 |**2022-10-20**|**Co-Training an Observer and an Evading Target**|André Brandenburger et.al.|[2210.11126v1](http://arxiv.org/abs/2210.11126v1)|null|
-|**2022-10-20**|**Infrared and visible image fusion via dual-domain adversarial learning**|Xiaowen Liu et.al.|[2210.11018v1](http://arxiv.org/abs/2210.11018v1)|null|
+|**2022-10-24**|**An Attention-Guided and Wavelet-Constrained Generative Adversarial Network for Infrared and Visible Image Fusion**|Xiaowen Liu et.al.|[2210.11018v2](http://arxiv.org/abs/2210.11018v2)|null|
 |**2022-10-20**|**Semi-supervised object detection based on single-stage detector for thighbone fracture localization**|Jinman Wei et.al.|[2210.10998v1](http://arxiv.org/abs/2210.10998v1)|null|
 |**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
 |**2022-10-19**|**The constraint of plasma power balance on runaway avoidance**|Christopher J. McDevitt et.al.|[2210.10925v1](http://arxiv.org/abs/2210.10925v1)|null|
