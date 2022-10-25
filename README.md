@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**Monocular Dynamic View Synthesis: A Reality Check**|Hang Gao et.al.|[2210.13445v1](http://arxiv.org/abs/2210.13445v1)|**[link](https://github.com/kair-bair/dycheck)**|
+|**2022-10-24**|**Evaluation of Position and Velocity Based Forward Dynamics Compliance Control (FDCC) for Robotic Interactions in Position Controlled Robots**|Mohatashem Reyaz Makhdoomi et.al.|[2210.13421v1](http://arxiv.org/abs/2210.13421v1)|null|
+|**2022-10-24**|**Avalon: A Benchmark for RL Generalization Using Procedurally Generated Worlds**|Joshua Albrecht et.al.|[2210.13417v1](http://arxiv.org/abs/2210.13417v1)|null|
+|**2022-10-24**|**Deep Learning Approach for Dynamic Sampling for Multichannel Mass Spectrometry Imaging**|David Helminiak et.al.|[2210.13415v1](http://arxiv.org/abs/2210.13415v1)|null|
+|**2022-10-24**|**Explaining Translationese: why are Neural Classifiers Better and what do they Learn?**|Kwabena Amponsah-Kaakyire et.al.|[2210.13391v1](http://arxiv.org/abs/2210.13391v1)|null|
+|**2022-10-24**|**Large Batch and Patch Size Training for Medical Image Segmentation**|Junya Sato et.al.|[2210.13364v1](http://arxiv.org/abs/2210.13364v1)|null|
+|**2022-10-24**|**Augmenting Task-Oriented Dialogue Systems with Relation Extraction**|Andrew Lee et.al.|[2210.13344v1](http://arxiv.org/abs/2210.13344v1)|null|
+|**2022-10-24**|**Confirmation of the star J004229.87+410551.8 in M31 as a B[e] supergiant**|Sarkisyan A. et.al.|[2210.13342v1](http://arxiv.org/abs/2210.13342v1)|null|
+|**2022-10-24**|**Competition between energy and dynamics in memory formation**|Varda F. Hagh et.al.|[2210.13341v1](http://arxiv.org/abs/2210.13341v1)|null|
+|**2022-10-24**|**Brain Tumor Segmentation using Enhanced U-Net Model with Empirical Analysis**|MD Abdullah Al Nasim et.al.|[2210.13336v1](http://arxiv.org/abs/2210.13336v1)|null|
 |**2022-10-21**|**Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns**|Laurynas Karazija et.al.|[2210.12148v1](http://arxiv.org/abs/2210.12148v1)|null|
 |**2022-10-21**|**Target Aware Poisson-Gaussian Noise Parameters Estimation from Noisy Images**|Étienne Objois et.al.|[2210.12142v1](http://arxiv.org/abs/2210.12142v1)|null|
 |**2022-10-21**|**Audio-to-Intent Using Acoustic-Textual Subword Representations from End-to-End ASR**|Pranay Dighe et.al.|[2210.12134v1](http://arxiv.org/abs/2210.12134v1)|null|
@@ -969,6 +979,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**Green laser powder bed fusion based fabrication and rate-dependent mechanical properties of copper lattices**|Sung-Gyu Kang et.al.|[2210.13087v1](http://arxiv.org/abs/2210.13087v1)|null|
+|**2022-10-24**|**Towards Unifying Reference Expression Generation and Comprehension**|Duo Zheng et.al.|[2210.13076v1](http://arxiv.org/abs/2210.13076v1)|null|
+|**2022-10-24**|**PARAFAC2-based Coupled Matrix and Tensor Factorizations**|Carla Schenker et.al.|[2210.13054v1](http://arxiv.org/abs/2210.13054v1)|null|
+|**2022-10-24**|**Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers**|Zhiwei Lin et.al.|[2210.13053v1](http://arxiv.org/abs/2210.13053v1)|null|
+|**2022-10-24**|**An Empirical Revisiting of Linguistic Knowledge Fusion in Language Understanding Tasks**|Changlong Yu et.al.|[2210.13002v1](http://arxiv.org/abs/2210.13002v1)|**[link](https://github.com/hkust-knowcomp/revisit-nlu-linguistic-knowledge)**|
+|**2022-10-24**|**Investigating Neuron Disturbing in Fusing Heterogeneous Neural Networks**|Biao Zhang et.al.|[2210.12974v1](http://arxiv.org/abs/2210.12974v1)|null|
+|**2022-10-23**|**Neutron Emission Spectrometer To Measure Ion Temperature On The Fusion Demonstration Plant**|P. J. F. Carle et.al.|[2210.12831v1](http://arxiv.org/abs/2210.12831v1)|null|
+|**2022-10-23**|**Holistic Interaction Transformer Network for Action Detection**|Gueter Josmy Faure et.al.|[2210.12686v1](http://arxiv.org/abs/2210.12686v1)|**[link](https://github.com/joslefaure/hit)**|
+|**2022-10-23**|**Improving Chinese Named Entity Recognition by Search Engine Augmentation**|Qinghua Mao et.al.|[2210.12662v1](http://arxiv.org/abs/2210.12662v1)|null|
+|**2022-10-23**|**Anticipative Feature Fusion Transformer for Multi-Modal Action Anticipation**|Zeyun Zhong et.al.|[2210.12649v1](http://arxiv.org/abs/2210.12649v1)|**[link](https://github.com/zeyun-zhong/afft)**|
 |**2022-10-21**|**Exact Holographic Tensor Networks -- Constructing CFT$_D$ from TQFT$_{D+1}$**|Lin Chen et.al.|[2210.12127v1](http://arxiv.org/abs/2210.12127v1)|null|
 |**2022-10-21**|**An Analysis of Fusion Functions for Hybrid Retrieval**|Sebastian Bruch et.al.|[2210.11934v1](http://arxiv.org/abs/2210.11934v1)|null|
 |**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
