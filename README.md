@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-25**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v1](http://arxiv.org/abs/2210.14169v1)|null|
+|**2022-10-25**|**An approach to the Gaussian RBF kernels via Fock spaces**|Daniel Alpay et.al.|[2210.14167v1](http://arxiv.org/abs/2210.14167v1)|null|
+|**2022-10-25**|**Detection of Single-base Mismatches in DNA Sequences by using Electrochemically-gated Graphene Microwave Waveguides**|Patrik Gubeljak et.al.|[2210.14118v1](http://arxiv.org/abs/2210.14118v1)|null|
+|**2022-10-25**|**Specialization of Run-time Configuration Space at Compile-time: An Exploratory Study**|Xhevahire Tërnava et.al.|[2210.14082v1](http://arxiv.org/abs/2210.14082v1)|null|
+|**2022-10-25**|**Revisiting Softmax for Uncertainty Approximation in Text Classification**|Andreas Nugaard Holm et.al.|[2210.14037v1](http://arxiv.org/abs/2210.14037v1)|null|
+|**2022-10-25**|**SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication**|Marco Bornstein et.al.|[2210.14026v1](http://arxiv.org/abs/2210.14026v1)|null|
+|**2022-10-25**|**MEW-UNet: Multi-axis representation learning in frequency domain for medical image segmentation**|Jiacheng Ruan et.al.|[2210.14007v1](http://arxiv.org/abs/2210.14007v1)|null|
+|**2022-10-25**|**Parametric PDF for Goodness of Fit**|Natan Katz et.al.|[2210.14005v1](http://arxiv.org/abs/2210.14005v1)|null|
+|**2022-10-25**|**Unsupervised domain-adaptive person re-identification with multi-camera constraints**|S. Takeuchi et.al.|[2210.13999v1](http://arxiv.org/abs/2210.13999v1)|null|
+|**2022-10-25**|**CoLoC: Conditioned Localizer and Classifier for Sound Event Localization and Detection**|Sławomir Kapka et.al.|[2210.13932v1](http://arxiv.org/abs/2210.13932v1)|null|
 |**2022-10-24**|**Monocular Dynamic View Synthesis: A Reality Check**|Hang Gao et.al.|[2210.13445v1](http://arxiv.org/abs/2210.13445v1)|**[link](https://github.com/kair-bair/dycheck)**|
 |**2022-10-24**|**Evaluation of Position and Velocity Based Forward Dynamics Compliance Control (FDCC) for Robotic Interactions in Position Controlled Robots**|Mohatashem Reyaz Makhdoomi et.al.|[2210.13421v1](http://arxiv.org/abs/2210.13421v1)|null|
 |**2022-10-24**|**Avalon: A Benchmark for RL Generalization Using Procedurally Generated Worlds**|Joshua Albrecht et.al.|[2210.13417v1](http://arxiv.org/abs/2210.13417v1)|null|
@@ -979,6 +989,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-25**|**Plasma sheath studies using a physical treatment of electron emission from a dielectric wall**|Kolter Bradshaw et.al.|[2210.14117v1](http://arxiv.org/abs/2210.14117v1)|null|
+|**2022-10-25**|**Structure constants, Isaacs property and Extended-Haagerup fusion categories**|Sebastian Burciu et.al.|[2210.13936v1](http://arxiv.org/abs/2210.13936v1)|null|
+|**2022-10-25**|**A Comparative Attention Framework for Better Few-Shot Object Detection on Aerial Images**|Pierre Le Jeune et.al.|[2210.13923v1](http://arxiv.org/abs/2210.13923v1)|null|
+|**2022-10-25**|**End-to-end Transformer for Compressed Video Quality Enhancement**|Li Yu et.al.|[2210.13827v1](http://arxiv.org/abs/2210.13827v1)|null|
+|**2022-10-25**|**MetaSpeech: Speech Effects Switch Along with Environment for Metaverse**|Xulong Zhang et.al.|[2210.13811v1](http://arxiv.org/abs/2210.13811v1)|null|
 |**2022-10-24**|**Green laser powder bed fusion based fabrication and rate-dependent mechanical properties of copper lattices**|Sung-Gyu Kang et.al.|[2210.13087v1](http://arxiv.org/abs/2210.13087v1)|null|
 |**2022-10-24**|**Towards Unifying Reference Expression Generation and Comprehension**|Duo Zheng et.al.|[2210.13076v1](http://arxiv.org/abs/2210.13076v1)|null|
 |**2022-10-24**|**PARAFAC2-based Coupled Matrix and Tensor Factorizations**|Carla Schenker et.al.|[2210.13054v1](http://arxiv.org/abs/2210.13054v1)|null|
