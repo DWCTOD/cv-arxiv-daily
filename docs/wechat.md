@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-26, **Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2210.14899v1](http://arxiv.org/abs/2210.14899v1)
+- 2022-10-26, **Anisotropic multiresolution analyses for deep fake detection**, Wei Huang et.al., Paper: [http://arxiv.org/abs/2210.14874v1](http://arxiv.org/abs/2210.14874v1)
+- 2022-10-26, **Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection**, Kentaro Seki et.al., Paper: [http://arxiv.org/abs/2210.14850v1](http://arxiv.org/abs/2210.14850v1)
+- 2022-10-26, **ProVe: A Pipeline for Automated Provenance Verification of Knowledge Graphs against Textual Sources**, Gabriel Amaral et.al., Paper: [http://arxiv.org/abs/2210.14846v1](http://arxiv.org/abs/2210.14846v1)
+- 2022-10-26, **Synthetic Tumors Make AI Segment Tumors Better**, Qixin Hu et.al., Paper: [http://arxiv.org/abs/2210.14845v1](http://arxiv.org/abs/2210.14845v1), Code: **[https://github.com/mrgiovanni/synthetictumors](https://github.com/mrgiovanni/synthetictumors)**
+- 2022-10-26, **Streaming Radiance Fields for 3D Video Synthesis**, Lingzhi Li et.al., Paper: [http://arxiv.org/abs/2210.14831v1](http://arxiv.org/abs/2210.14831v1)
+- 2022-10-26, **Visual Answer Localization with Cross-modal Mutual Knowledge Transfer**, Yixuan Weng et.al., Paper: [http://arxiv.org/abs/2210.14823v1](http://arxiv.org/abs/2210.14823v1)
+- 2022-10-26, **Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**, Mozes van de Kar et.al., Paper: [http://arxiv.org/abs/2210.14803v1](http://arxiv.org/abs/2210.14803v1)
+- 2022-10-26, **Segmentation of Bruch's Membrane in retinal OCT with AMD using anatomical priors and uncertainty quantification**, Botond Fazekas et.al., Paper: [http://arxiv.org/abs/2210.14799v1](http://arxiv.org/abs/2210.14799v1)
+- 2022-10-26, **The Contribution of Human Body Capacitance/Body-Area Electric Field To Individual and Collaborative Activity Recognition**, Sizhen Bian et.al., Paper: [http://arxiv.org/abs/2210.14794v1](http://arxiv.org/abs/2210.14794v1)
 - 2022-10-26, **Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**, Maximillian Chen et.al., Paper: [http://arxiv.org/abs/2210.14169v2](http://arxiv.org/abs/2210.14169v2)
 - 2022-10-25, **An approach to the Gaussian RBF kernels via Fock spaces**, Daniel Alpay et.al., Paper: [http://arxiv.org/abs/2210.14167v1](http://arxiv.org/abs/2210.14167v1)
 - 2022-10-25, **Detection of Single-base Mismatches in DNA Sequences by using Electrochemically-gated Graphene Microwave Waveguides**, Patrik Gubeljak et.al., Paper: [http://arxiv.org/abs/2210.14118v1](http://arxiv.org/abs/2210.14118v1)
@@ -985,6 +995,16 @@
 
 ## MultiModal
 
+- 2022-10-26, **Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2210.14899v1](http://arxiv.org/abs/2210.14899v1)
+- 2022-10-26, **Efficient prediction of turbulent flow quantities using a Bayesian hierarchical multifidelity model**, Saleh Rezaeiravesh et.al., Paper: [http://arxiv.org/abs/2210.14790v1](http://arxiv.org/abs/2210.14790v1)
+- 2022-10-26, **TSUP Speaker Diarization System for Conversational Short-phrase Speaker Diarization Challenge**, Bowen Pang et.al., Paper: [http://arxiv.org/abs/2210.14653v1](http://arxiv.org/abs/2210.14653v1)
+- 2022-10-26, **Super-Resolution Based Patch-Free 3D Medical Image Segmentation with Self-Supervised Guidance**, Hongyi Wang et.al., Paper: [http://arxiv.org/abs/2210.14645v1](http://arxiv.org/abs/2210.14645v1)
+- 2022-10-26, **A Late Multi-Modal Fusion Model for Detecting Hybrid Spam E-mail**, Zhibo Zhang et.al., Paper: [http://arxiv.org/abs/2210.14616v1](http://arxiv.org/abs/2210.14616v1)
+- 2022-10-26, **Multimodal Contrastive Learning via Uni-Modal Coding and Cross-Modal Prediction for Multimodal Sentiment Analysis**, Ronghao Lin et.al., Paper: [http://arxiv.org/abs/2210.14556v1](http://arxiv.org/abs/2210.14556v1)
+- 2022-10-26, **RGB-T Semantic Segmentation with Location, Activation, and Sharpening**, Gongyang Li et.al., Paper: [http://arxiv.org/abs/2210.14530v1](http://arxiv.org/abs/2210.14530v1), Code: **[https://github.com/mathlee/lasnet](https://github.com/mathlee/lasnet)**
+- 2022-10-26, **Two-stage dimensional emotion recognition by fusing predictions of acoustic and text networks using SVM**, Bagus Tris Atmaja et.al., Paper: [http://arxiv.org/abs/2210.14495v1](http://arxiv.org/abs/2210.14495v1)
+- 2022-10-26, **The NPU-ASLP System for The ISCSLP 2022 Magichub Code-Swiching ASR Challenge**, Yuhao Liang et.al., Paper: [http://arxiv.org/abs/2210.14448v1](http://arxiv.org/abs/2210.14448v1)
+- 2022-10-25, **Fusing Modalities by Multiplexed Graph Neural Networks for Outcome Prediction in Tuberculosis**, Niharika S. D'Souza et.al., Paper: [http://arxiv.org/abs/2210.14377v1](http://arxiv.org/abs/2210.14377v1)
 - 2022-10-25, **Plasma sheath studies using a physical treatment of electron emission from a dielectric wall**, Kolter Bradshaw et.al., Paper: [http://arxiv.org/abs/2210.14117v1](http://arxiv.org/abs/2210.14117v1)
 - 2022-10-25, **Structure constants, Isaacs property and Extended-Haagerup fusion categories**, Sebastian Burciu et.al., Paper: [http://arxiv.org/abs/2210.13936v1](http://arxiv.org/abs/2210.13936v1)
 - 2022-10-25, **A Comparative Attention Framework for Better Few-Shot Object Detection on Aerial Images**, Pierre Le Jeune et.al., Paper: [http://arxiv.org/abs/2210.13923v1](http://arxiv.org/abs/2210.13923v1)
