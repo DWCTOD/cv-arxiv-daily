@@ -1,10 +1,10 @@
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-25**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v1](http://arxiv.org/abs/2210.14169v1)|null|
+|**2022-10-26**|**Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding**|Maximillian Chen et.al.|[2210.14169v2](http://arxiv.org/abs/2210.14169v2)|null|
 |**2022-10-25**|**An approach to the Gaussian RBF kernels via Fock spaces**|Daniel Alpay et.al.|[2210.14167v1](http://arxiv.org/abs/2210.14167v1)|null|
 |**2022-10-25**|**Detection of Single-base Mismatches in DNA Sequences by using Electrochemically-gated Graphene Microwave Waveguides**|Patrik Gubeljak et.al.|[2210.14118v1](http://arxiv.org/abs/2210.14118v1)|null|
 |**2022-10-25**|**Specialization of Run-time Configuration Space at Compile-time: An Exploratory Study**|Xhevahire Tërnava et.al.|[2210.14082v1](http://arxiv.org/abs/2210.14082v1)|null|
