@@ -1,4 +1,4 @@
-> Updated on 2022.10.27
+> Updated on 2022.10.28
 
 ## Video_Classification
 
@@ -7,8 +7,8 @@
 - 2022-10-26, **Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection**, Kentaro Seki et.al., Paper: [http://arxiv.org/abs/2210.14850v1](http://arxiv.org/abs/2210.14850v1)
 - 2022-10-26, **ProVe: A Pipeline for Automated Provenance Verification of Knowledge Graphs against Textual Sources**, Gabriel Amaral et.al., Paper: [http://arxiv.org/abs/2210.14846v1](http://arxiv.org/abs/2210.14846v1)
 - 2022-10-26, **Synthetic Tumors Make AI Segment Tumors Better**, Qixin Hu et.al., Paper: [http://arxiv.org/abs/2210.14845v1](http://arxiv.org/abs/2210.14845v1), Code: **[https://github.com/mrgiovanni/synthetictumors](https://github.com/mrgiovanni/synthetictumors)**
-- 2022-10-26, **Streaming Radiance Fields for 3D Video Synthesis**, Lingzhi Li et.al., Paper: [http://arxiv.org/abs/2210.14831v1](http://arxiv.org/abs/2210.14831v1)
-- 2022-10-26, **Visual Answer Localization with Cross-modal Mutual Knowledge Transfer**, Yixuan Weng et.al., Paper: [http://arxiv.org/abs/2210.14823v1](http://arxiv.org/abs/2210.14823v1)
+- 2022-10-26, **Streaming Radiance Fields for 3D Video Synthesis**, Lingzhi Li et.al., Paper: [http://arxiv.org/abs/2210.14831v1](http://arxiv.org/abs/2210.14831v1), Code: **[https://github.com/algohunt/streamrf](https://github.com/algohunt/streamrf)**
+- 2022-10-27, **Visual Answer Localization with Cross-modal Mutual Knowledge Transfer**, Yixuan Weng et.al., Paper: [http://arxiv.org/abs/2210.14823v2](http://arxiv.org/abs/2210.14823v2)
 - 2022-10-26, **Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**, Mozes van de Kar et.al., Paper: [http://arxiv.org/abs/2210.14803v1](http://arxiv.org/abs/2210.14803v1)
 - 2022-10-26, **Segmentation of Bruch's Membrane in retinal OCT with AMD using anatomical priors and uncertainty quantification**, Botond Fazekas et.al., Paper: [http://arxiv.org/abs/2210.14799v1](http://arxiv.org/abs/2210.14799v1)
 - 2022-10-26, **The Contribution of Human Body Capacitance/Body-Area Electric Field To Individual and Collaborative Activity Recognition**, Sizhen Bian et.al., Paper: [http://arxiv.org/abs/2210.14794v1](http://arxiv.org/abs/2210.14794v1)
