@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-27**|**State of the Art in Dense Monocular Non-Rigid 3D Reconstruction**|Edith Tretschk et.al.|[2210.15664v1](http://arxiv.org/abs/2210.15664v1)|null|
+|**2022-10-27**|**All the Feels: A dexterous hand with large area sensing**|Raunaq Bhirangi et.al.|[2210.15658v1](http://arxiv.org/abs/2210.15658v1)|null|
+|**2022-10-27**|**Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**|Caiwu Ding et.al.|[2210.15632v1](http://arxiv.org/abs/2210.15632v1)|null|
+|**2022-10-27**|**Neural Networks with Quantization Constraints**|Ignacio Hounie et.al.|[2210.15623v1](http://arxiv.org/abs/2210.15623v1)|**[link](https://github.com/ihounie/pd-qat)**|
+|**2022-10-27**|**Working Alliance Transformer for Psychotherapy Dialogue Classification**|Baihan Lin et.al.|[2210.15603v1](http://arxiv.org/abs/2210.15603v1)|null|
+|**2022-10-27**|**Classification and construction of interacting fractonic higher-order topological phases**|Jian-Hao Zhang et.al.|[2210.15596v1](http://arxiv.org/abs/2210.15596v1)|null|
+|**2022-10-27**|**A deep 1.4 GHz survey of the J1030 equatorial field: a new window on radio source populations across cosmic time**|Q. D'Amato et.al.|[2210.15595v1](http://arxiv.org/abs/2210.15595v1)|null|
+|**2022-10-27**|**A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware Learning on Graphs**|Hans Hao-Hsun Hsu et.al.|[2210.15575v1](http://arxiv.org/abs/2210.15575v1)|**[link](https://github.com/hans66hsu/structured_uncertainty_metrics)**|
+|**2022-10-27**|**Multi-task Bias-Variance Trade-off Through Functional Constraints**|Juan Cervino et.al.|[2210.15573v1](http://arxiv.org/abs/2210.15573v1)|null|
+|**2022-10-27**|**Full-scale Deeply Supervised Attention Network for Segmenting COVID-19 Lesions**|Pallabi Dutta et.al.|[2210.15571v1](http://arxiv.org/abs/2210.15571v1)|null|
 |**2022-10-26**|**Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**|Zhiyuan Zhang et.al.|[2210.14899v1](http://arxiv.org/abs/2210.14899v1)|null|
 |**2022-10-26**|**Anisotropic multiresolution analyses for deep fake detection**|Wei Huang et.al.|[2210.14874v1](http://arxiv.org/abs/2210.14874v1)|null|
 |**2022-10-26**|**Text-to-speech synthesis from dark data with evaluation-in-the-loop data selection**|Kentaro Seki et.al.|[2210.14850v1](http://arxiv.org/abs/2210.14850v1)|null|
@@ -1003,6 +1013,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-27**|**LongShortNet: Exploring Temporal and Semantic Features Fusion in Streaming Perception**|Chenyang Li et.al.|[2210.15518v1](http://arxiv.org/abs/2210.15518v1)|null|
+|**2022-10-27**|**Fusion-based Few-Shot Morphing Attack Detection and Fingerprinting**|Na Zhang et.al.|[2210.15510v1](http://arxiv.org/abs/2210.15510v1)|**[link](https://github.com/nz0001na/mad_maf)**|
+|**2022-10-27**|**Make More of Your Data: Minimal Effort Data Augmentation for Automatic Speech Recognition and Translation**|Tsz Kin Lam et.al.|[2210.15398v1](http://arxiv.org/abs/2210.15398v1)|null|
+|**2022-10-27**|**MSF3DDETR: Multi-Sensor Fusion 3D Detection Transformer for Autonomous Driving**|Gopi Krishna Erabati et.al.|[2210.15316v1](http://arxiv.org/abs/2210.15316v1)|null|
+|**2022-10-27**|**Spatio-Temporal Hybrid Fusion of CAE and SWIn Transformers for Lung Cancer Malignancy Prediction**|Sadaf Khademi et.al.|[2210.15297v1](http://arxiv.org/abs/2210.15297v1)|null|
+|**2022-10-27**|**A Distributed Adaptive Algorithm for Non-Smooth Spatial Filtering Problems**|Charles Hovine et.al.|[2210.15243v1](http://arxiv.org/abs/2210.15243v1)|null|
+|**2022-10-27**|**Towards Better Text-Image Consistency in Text-to-Image Generation**|Zhaorui Tan et.al.|[2210.15235v1](http://arxiv.org/abs/2210.15235v1)|null|
+|**2022-10-27**|**Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation**|Jiepan Li et.al.|[2210.15156v1](http://arxiv.org/abs/2210.15156v1)|**[link](https://github.com/henryjiepanli/dad)**|
+|**2022-10-27**|**InGVIO: A Consistent Invariant Filter for Fast and High-Accuracy GNSS-Visual-Inertial Odometry**|Changwu Liu et.al.|[2210.15145v1](http://arxiv.org/abs/2210.15145v1)|null|
+|**2022-10-27**|**Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models**|Chaofan Ma et.al.|[2210.15138v1](http://arxiv.org/abs/2210.15138v1)|null|
 |**2022-10-26**|**Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**|Zhiyuan Zhang et.al.|[2210.14899v1](http://arxiv.org/abs/2210.14899v1)|null|
 |**2022-10-26**|**Efficient prediction of turbulent flow quantities using a Bayesian hierarchical multifidelity model**|Saleh Rezaeiravesh et.al.|[2210.14790v1](http://arxiv.org/abs/2210.14790v1)|null|
 |**2022-10-26**|**TSUP Speaker Diarization System for Conversational Short-phrase Speaker Diarization Challenge**|Bowen Pang et.al.|[2210.14653v1](http://arxiv.org/abs/2210.14653v1)|null|
