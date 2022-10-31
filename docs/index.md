@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**Multi-feature Dataset for Windows PE Malware Classification**|Muhammad Irfan Yousuf et.al.|[2210.16285v1](http://arxiv.org/abs/2210.16285v1)|null|
+|**2022-10-28**|**Boulders Identification on Small Bodies Under Varying Illumination Conditions**|Mattia Pugliatti et.al.|[2210.16283v1](http://arxiv.org/abs/2210.16283v1)|null|
+|**2022-10-28**|**Fairness Certificates for Differentially Private Classification**|Paul Mangold et.al.|[2210.16242v1](http://arxiv.org/abs/2210.16242v1)|null|
+|**2022-10-28**|**Local Model Reconstruction Attacks in Federated Learning and their Uses**|Ilias Driouich et.al.|[2210.16205v1](http://arxiv.org/abs/2210.16205v1)|null|
+|**2022-10-28**|**The MacWilliams Identity for the Skew Rank Metric**|Izzy Friedlander et.al.|[2210.16153v1](http://arxiv.org/abs/2210.16153v1)|null|
+|**2022-10-28**|**Federated Learning for Chronic Obstructive Pulmonary Disease Classification with Partial Personalized Attention Mechanism**|Yiqing Shen et.al.|[2210.16142v1](http://arxiv.org/abs/2210.16142v1)|null|
+|**2022-10-28**|**Localized Randomized Smoothing for Collective Robustness Certification**|Jan Schuchardt et.al.|[2210.16140v1](http://arxiv.org/abs/2210.16140v1)|null|
+|**2022-10-28**|**cRedAnno+: Annotation Exploitation in Self-Explanatory Lung Nodule Diagnosis**|Jiahao Lu et.al.|[2210.16097v1](http://arxiv.org/abs/2210.16097v1)|**[link](https://github.com/diku-dk/credanno)**|
+|**2022-10-28**|**ROMA: Run-Time Object Detection To Maximize Real-Time Accuracy**|JunKyu Lee et.al.|[2210.16083v1](http://arxiv.org/abs/2210.16083v1)|null|
+|**2022-10-28**|**Improving Chest X-Ray Classification by RNN-based Patient Monitoring**|David Biesner et.al.|[2210.16074v1](http://arxiv.org/abs/2210.16074v1)|null|
 |**2022-10-27**|**State of the Art in Dense Monocular Non-Rigid 3D Reconstruction**|Edith Tretschk et.al.|[2210.15664v1](http://arxiv.org/abs/2210.15664v1)|null|
 |**2022-10-27**|**All the Feels: A dexterous hand with large area sensing**|Raunaq Bhirangi et.al.|[2210.15658v1](http://arxiv.org/abs/2210.15658v1)|null|
 |**2022-10-27**|**Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**|Caiwu Ding et.al.|[2210.15632v1](http://arxiv.org/abs/2210.15632v1)|null|
@@ -1013,6 +1023,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**Constraining Lepton Flavor Violating Higgs Couplings at the HL-LHC in the Vector Boson Fusion Channel**|Rahool Kumar Barman et.al.|[2210.16287v1](http://arxiv.org/abs/2210.16287v1)|null|
+|**2022-10-28**|**Single-Image HDR Reconstruction by Multi-Exposure Generation**|Phuoc-Hieu Le et.al.|[2210.15897v1](http://arxiv.org/abs/2210.15897v1)|null|
+|**2022-10-28**|**Exploring Spatial-Temporal Features for Deepfake Detection and Localization**|Wu Haiwei et.al.|[2210.15872v1](http://arxiv.org/abs/2210.15872v1)|**[link](https://github.com/highwaywu/st-ddl)**|
+|**2022-10-28**|**Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation**|Xingrui Yang et.al.|[2210.15858v1](http://arxiv.org/abs/2210.15858v1)|**[link](https://github.com/zju3dv/vox-fusion)**|
+|**2022-10-28**|**Improving the Modality Representation with Multi-View Contrastive Learning for Multimodal Sentiment Analysis**|Peipei Liu et.al.|[2210.15824v1](http://arxiv.org/abs/2210.15824v1)|null|
+|**2022-10-28**|**Probing a $\mathrm{Z}^{\prime}$ with non-universal fermion couplings through top quark fusion, decays to bottom quarks, and machine learning techniques**|Diego Barbosa et.al.|[2210.15813v1](http://arxiv.org/abs/2210.15813v1)|null|
+|**2022-10-28**|**Hyper-Connected Transformer Network for Co-Learning Multi-Modality PET-CT Features**|Lei Bi et.al.|[2210.15808v1](http://arxiv.org/abs/2210.15808v1)|null|
 |**2022-10-27**|**LongShortNet: Exploring Temporal and Semantic Features Fusion in Streaming Perception**|Chenyang Li et.al.|[2210.15518v1](http://arxiv.org/abs/2210.15518v1)|null|
 |**2022-10-27**|**Fusion-based Few-Shot Morphing Attack Detection and Fingerprinting**|Na Zhang et.al.|[2210.15510v1](http://arxiv.org/abs/2210.15510v1)|**[link](https://github.com/nz0001na/mad_maf)**|
 |**2022-10-27**|**Make More of Your Data: Minimal Effort Data Augmentation for Automatic Speech Recognition and Translation**|Tsz Kin Lam et.al.|[2210.15398v1](http://arxiv.org/abs/2210.15398v1)|null|
