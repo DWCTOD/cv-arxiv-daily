@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-10-31, **Zero-Shot Text Classification with Self-Training**, Ariel Gera et.al., Paper: [http://arxiv.org/abs/2210.17541v1](http://arxiv.org/abs/2210.17541v1), Code: **[https://github.com/ibm/zero-shot-classification-boost-with-self-training](https://github.com/ibm/zero-shot-classification-boost-with-self-training)**
+- 2022-10-31, **Renormalization of Gauge Theories and Gravity**, David Prinz et.al., Paper: [http://arxiv.org/abs/2210.17510v1](http://arxiv.org/abs/2210.17510v1)
+- 2022-10-31, **Fast Principal Component Analysis for Cryo-EM Images**, Nicholas F. Marshall et.al., Paper: [http://arxiv.org/abs/2210.17501v1](http://arxiv.org/abs/2210.17501v1)
+- 2022-10-31, **A Fast Automatic Method for Deconvoluting Macro X-ray Fluorescence Data Collected from Easel Paintings**, Su Yan et.al., Paper: [http://arxiv.org/abs/2210.17496v1](http://arxiv.org/abs/2210.17496v1)
+- 2022-10-31, **Local aspects of the Sidorenko property for linear equations**, Daniel Altman et.al., Paper: [http://arxiv.org/abs/2210.17493v1](http://arxiv.org/abs/2210.17493v1)
+- 2022-10-31, **A Faster Approach to Spiking Deep Convolutional Neural Networks**, Shahriar Rezghi Shirsavar et.al., Paper: [http://arxiv.org/abs/2210.17442v1](http://arxiv.org/abs/2210.17442v1)
+- 2022-10-31, **Enabling the discovery of fast transients: A kilonova science module for the Fink broker**, B. Biswas et.al., Paper: [http://arxiv.org/abs/2210.17433v1](http://arxiv.org/abs/2210.17433v1)
+- 2022-10-31, **Algebraic Convolutional Filters on Lie Group Algebras**, Harshat Kumar et.al., Paper: [http://arxiv.org/abs/2210.17425v1](http://arxiv.org/abs/2210.17425v1)
+- 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
+- 2022-10-31, **Rethinking Generalization: The Impact of Annotation Style on Medical Image Segmentation**, Brennan Nichyporuk et.al., Paper: [http://arxiv.org/abs/2210.17398v1](http://arxiv.org/abs/2210.17398v1)
 - 2022-10-28, **Multi-feature Dataset for Windows PE Malware Classification**, Muhammad Irfan Yousuf et.al., Paper: [http://arxiv.org/abs/2210.16285v1](http://arxiv.org/abs/2210.16285v1), Code: **[https://github.com/da-proj/pe-malware-dataset1](https://github.com/da-proj/pe-malware-dataset1)**
 - 2022-10-28, **Boulders Identification on Small Bodies Under Varying Illumination Conditions**, Mattia Pugliatti et.al., Paper: [http://arxiv.org/abs/2210.16283v1](http://arxiv.org/abs/2210.16283v1)
 - 2022-10-28, **Fairness Certificates for Differentially Private Classification**, Paul Mangold et.al., Paper: [http://arxiv.org/abs/2210.16242v1](http://arxiv.org/abs/2210.16242v1)
@@ -1015,6 +1025,16 @@
 
 ## MultiModal
 
+- 2022-10-31, **Deterministic constant-depth preparation of the AKLT state on a quantum processor using fusion measurements**, Kevin C. Smith et.al., Paper: [http://arxiv.org/abs/2210.17548v1](http://arxiv.org/abs/2210.17548v1)
+- 2022-10-31, **Multimodal Information Bottleneck: Learning Minimal Sufficient Unimodal and Multimodal Representations**, Sijie Mai et.al., Paper: [http://arxiv.org/abs/2210.17444v1](http://arxiv.org/abs/2210.17444v1), Code: **[https://github.com/tmacmai/multimodal-information-bottleneck](https://github.com/tmacmai/multimodal-information-bottleneck)**
+- 2022-10-31, **The Fusion-by-Diffusion model as a tool to calculate cross sections for the production of superheavy nuclei**, T. Cap et.al., Paper: [http://arxiv.org/abs/2210.17214v1](http://arxiv.org/abs/2210.17214v1)
+- 2022-10-31, **Unrolled Graph Learning for Multi-Agent Collaboration**, Enpei Zhang et.al., Paper: [http://arxiv.org/abs/2210.17101v1](http://arxiv.org/abs/2210.17101v1)
+- 2022-10-31, **FusionFormer: Fusing Operations in Transformer for Efficient Streaming Speech Recognition**, Xingchen Song et.al., Paper: [http://arxiv.org/abs/2210.17079v1](http://arxiv.org/abs/2210.17079v1)
+- 2022-10-31, **Modular Hybrid Autoregressive Transducer**, Zhong Meng et.al., Paper: [http://arxiv.org/abs/2210.17049v1](http://arxiv.org/abs/2210.17049v1)
+- 2022-10-30, **A Multi-modal Deformable Land-air Robot for Complex Environments**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2210.16875v1](http://arxiv.org/abs/2210.16875v1)
+- 2022-10-30, **Grain growth competition during melt pool solidification -- Comparing phase-field and cellular automaton models**, S. M. Elahi et.al., Paper: [http://arxiv.org/abs/2210.16874v1](http://arxiv.org/abs/2210.16874v1)
+- 2022-10-30, **Production cross-sections of new superheavy elements with Z = 119-120 in fusion-evaporation reactions**, Zi-Han Wang et.al., Paper: [http://arxiv.org/abs/2210.16821v1](http://arxiv.org/abs/2210.16821v1)
+- 2022-10-29, **Multi-Scale Fusion Methodologies for Head and Neck Tumor Segmentation**, Abhishek Srivastava et.al., Paper: [http://arxiv.org/abs/2210.16704v1](http://arxiv.org/abs/2210.16704v1)
 - 2022-10-28, **Constraining Lepton Flavor Violating Higgs Couplings at the HL-LHC in the Vector Boson Fusion Channel**, Rahool Kumar Barman et.al., Paper: [http://arxiv.org/abs/2210.16287v1](http://arxiv.org/abs/2210.16287v1)
 - 2022-10-28, **Single-Image HDR Reconstruction by Multi-Exposure Generation**, Phuoc-Hieu Le et.al., Paper: [http://arxiv.org/abs/2210.15897v1](http://arxiv.org/abs/2210.15897v1)
 - 2022-10-28, **Exploring Spatial-Temporal Features for Deepfake Detection and Localization**, Wu Haiwei et.al., Paper: [http://arxiv.org/abs/2210.15872v1](http://arxiv.org/abs/2210.15872v1), Code: **[https://github.com/highwaywu/st-ddl](https://github.com/highwaywu/st-ddl)**
