@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-01, **Preserving In-Context Learning ability in Large Language Model Fine-tuning**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2211.00635v1](http://arxiv.org/abs/2211.00635v1)
+- 2022-11-01, **Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**, Alireza Aghelan et.al., Paper: [http://arxiv.org/abs/2211.00577v1](http://arxiv.org/abs/2211.00577v1)
+- 2022-11-01, **Revisiting Heterophily in Graph Convolution Networks by Learning Representations Across Topological and Feature Spaces**, Ashish Tiwari et.al., Paper: [http://arxiv.org/abs/2211.00565v1](http://arxiv.org/abs/2211.00565v1)
+- 2022-11-01, **Towards an automated data cleaning with deep learning in CRESST**, G. Angloher et.al., Paper: [http://arxiv.org/abs/2211.00564v1](http://arxiv.org/abs/2211.00564v1)
+- 2022-11-01, **Data-driven generation of 4D velocity profiles in the aneurysmal ascending aorta**, Simone Saitta et.al., Paper: [http://arxiv.org/abs/2211.00551v1](http://arxiv.org/abs/2211.00551v1)
+- 2022-11-01, **No-audio speaking status detection in crowded settings via visual pose-based filtering and wearable acceleration**, Jose Vargas-Quiros et.al., Paper: [http://arxiv.org/abs/2211.00549v1](http://arxiv.org/abs/2211.00549v1)
+- 2022-11-01, **Robustness of Deep Equilibrium Architectures to Changes in the Measurement Model**, Junhao Hu et.al., Paper: [http://arxiv.org/abs/2211.00531v1](http://arxiv.org/abs/2211.00531v1)
+- 2022-11-01, **DOLPH: Diffusion Models for Phase Retrieval**, Shirin Shoushtari et.al., Paper: [http://arxiv.org/abs/2211.00529v1](http://arxiv.org/abs/2211.00529v1)
+- 2022-11-01, **Self-Supervised Learning with Limited Labeled Data for Prostate Cancer Detection in High Frequency Ultrasound**, Paul F. R. Wilson et.al., Paper: [http://arxiv.org/abs/2211.00527v1](http://arxiv.org/abs/2211.00527v1)
+- 2022-11-01, **Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation**, Jiangbin Zheng et.al., Paper: [http://arxiv.org/abs/2211.00526v1](http://arxiv.org/abs/2211.00526v1)
 - 2022-10-31, **Zero-Shot Text Classification with Self-Training**, Ariel Gera et.al., Paper: [http://arxiv.org/abs/2210.17541v1](http://arxiv.org/abs/2210.17541v1), Code: **[https://github.com/ibm/zero-shot-classification-boost-with-self-training](https://github.com/ibm/zero-shot-classification-boost-with-self-training)**
 - 2022-10-31, **Renormalization of Gauge Theories and Gravity**, David Prinz et.al., Paper: [http://arxiv.org/abs/2210.17510v1](http://arxiv.org/abs/2210.17510v1)
 - 2022-10-31, **Fast Principal Component Analysis for Cryo-EM Images**, Nicholas F. Marshall et.al., Paper: [http://arxiv.org/abs/2210.17501v1](http://arxiv.org/abs/2210.17501v1)
@@ -1025,6 +1035,16 @@
 
 ## MultiModal
 
+- 2022-11-01, **Geo-Information Harvesting from Social Media Data**, Xiao Xiang Zhu et.al., Paper: [http://arxiv.org/abs/2211.00543v1](http://arxiv.org/abs/2211.00543v1)
+- 2022-11-01, **Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation**, Jiangbin Zheng et.al., Paper: [http://arxiv.org/abs/2211.00526v1](http://arxiv.org/abs/2211.00526v1)
+- 2022-11-01, **A Comparative Study on multichannel Speaker-attributed automatic speech recognition in Multi-party Meetings**, Mohan Shi et.al., Paper: [http://arxiv.org/abs/2211.00511v1](http://arxiv.org/abs/2211.00511v1)
+- 2022-11-01, **A new filter for dimensionality reduction and classification of hyperspectral images using GLCM features and mutual information**, Hasna Nhaila et.al., Paper: [http://arxiv.org/abs/2211.00446v1](http://arxiv.org/abs/2211.00446v1)
+- 2022-11-01, **Behavioral Intention Prediction in Driving Scenes: A Survey**, Jianwu Fang et.al., Paper: [http://arxiv.org/abs/2211.00385v1](http://arxiv.org/abs/2211.00385v1)
+- 2022-11-01, **$γ$ Columbae: the recently stripped, pulsating core of a massive star**, Andreas Irrgang et.al., Paper: [http://arxiv.org/abs/2211.00358v1](http://arxiv.org/abs/2211.00358v1)
+- 2022-11-01, **Robust Direct Learning for Causal Data Fusion**, Xinyu Li et.al., Paper: [http://arxiv.org/abs/2211.00249v1](http://arxiv.org/abs/2211.00249v1)
+- 2022-11-01, **GMF: General Multimodal Fusion Framework for Correspondence Outlier Rejection**, Xiaoshui Huang et.al., Paper: [http://arxiv.org/abs/2211.00207v1](http://arxiv.org/abs/2211.00207v1), Code: **[https://github.com/xiaoshuihuang/gmf](https://github.com/xiaoshuihuang/gmf)**
+- 2022-10-31, **Non-Abelian Floquet Spin Liquids in a Digital Rydberg Simulator**, Marcin Kalinowski et.al., Paper: [http://arxiv.org/abs/2211.00017v1](http://arxiv.org/abs/2211.00017v1)
+- 2022-10-31, **Chasing the two-Higgs doublet model in the di-Higgs production**, Syuhei Iguro et.al., Paper: [http://arxiv.org/abs/2211.00011v1](http://arxiv.org/abs/2211.00011v1)
 - 2022-10-31, **Deterministic constant-depth preparation of the AKLT state on a quantum processor using fusion measurements**, Kevin C. Smith et.al., Paper: [http://arxiv.org/abs/2210.17548v1](http://arxiv.org/abs/2210.17548v1)
 - 2022-10-31, **Multimodal Information Bottleneck: Learning Minimal Sufficient Unimodal and Multimodal Representations**, Sijie Mai et.al., Paper: [http://arxiv.org/abs/2210.17444v1](http://arxiv.org/abs/2210.17444v1), Code: **[https://github.com/tmacmai/multimodal-information-bottleneck](https://github.com/tmacmai/multimodal-information-bottleneck)**
 - 2022-10-31, **The Fusion-by-Diffusion model as a tool to calculate cross sections for the production of superheavy nuclei**, T. Cap et.al., Paper: [http://arxiv.org/abs/2210.17214v1](http://arxiv.org/abs/2210.17214v1)
