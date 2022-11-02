@@ -1,4 +1,4 @@
-## Updated on 2022.11.01
+## Updated on 2022.11.02
 
 ## Video_Classification
 
@@ -1035,7 +1035,7 @@
 |**2022-10-31**|**Unrolled Graph Learning for Multi-Agent Collaboration**|Enpei Zhang et.al.|[2210.17101v1](http://arxiv.org/abs/2210.17101v1)|null|
 |**2022-10-31**|**FusionFormer: Fusing Operations in Transformer for Efficient Streaming Speech Recognition**|Xingchen Song et.al.|[2210.17079v1](http://arxiv.org/abs/2210.17079v1)|null|
 |**2022-10-31**|**Modular Hybrid Autoregressive Transducer**|Zhong Meng et.al.|[2210.17049v1](http://arxiv.org/abs/2210.17049v1)|null|
-|**2022-10-30**|**A Multi-modal Deformable Land-air Robot for Complex Environments**|Xinyu Zhang et.al.|[2210.16875v1](http://arxiv.org/abs/2210.16875v1)|null|
+|**2022-11-01**|**A Multi-modal Deformable Land-air Robot for Complex Environments**|Xinyu Zhang et.al.|[2210.16875v2](http://arxiv.org/abs/2210.16875v2)|null|
 |**2022-10-30**|**Grain growth competition during melt pool solidification -- Comparing phase-field and cellular automaton models**|S. M. Elahi et.al.|[2210.16874v1](http://arxiv.org/abs/2210.16874v1)|null|
 |**2022-10-30**|**Production cross-sections of new superheavy elements with Z = 119-120 in fusion-evaporation reactions**|Zi-Han Wang et.al.|[2210.16821v1](http://arxiv.org/abs/2210.16821v1)|null|
 |**2022-10-29**|**Multi-Scale Fusion Methodologies for Head and Neck Tumor Segmentation**|Abhishek Srivastava et.al.|[2210.16704v1](http://arxiv.org/abs/2210.16704v1)|null|
