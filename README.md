@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**Two-Stream Network for Sign Language Recognition and Translation**|Yutong Chen et.al.|[2211.01367v1](http://arxiv.org/abs/2211.01367v1)|null|
+|**2022-11-02**|**Fourier Disentangled Multimodal Prior Knowledge Fusion for Red Nucleus Segmentation in Brain MRI**|Guanghui Fu et.al.|[2211.01353v1](http://arxiv.org/abs/2211.01353v1)|null|
+|**2022-11-02**|**Fine-grained Human Activity Recognition Using Virtual On-body Acceleration Data**|Zikang Leng et.al.|[2211.01342v1](http://arxiv.org/abs/2211.01342v1)|null|
+|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|null|
+|**2022-11-02**|**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**|Kai Packhäuser et.al.|[2211.01323v1](http://arxiv.org/abs/2211.01323v1)|null|
+|**2022-11-02**|**Low-Resource Music Genre Classification with Advanced Neural Model Reprogramming**|Yun-Ning Hung et.al.|[2211.01317v1](http://arxiv.org/abs/2211.01317v1)|null|
+|**2022-11-02**|**Distill and Collect for Semi-Supervised Temporal Action Segmentation**|Sovan Biswas et.al.|[2211.01311v1](http://arxiv.org/abs/2211.01311v1)|null|
+|**2022-11-02**|**Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen**|Simon Martin Breum et.al.|[2211.01301v1](http://arxiv.org/abs/2211.01301v1)|null|
+|**2022-11-02**|**Driver Digital Twin for Online Prediction of Personalized Lane Change Behavior**|Xishun Liao et.al.|[2211.01294v1](http://arxiv.org/abs/2211.01294v1)|null|
+|**2022-11-02**|**DC-cycleGAN: Bidirectional CT-to-MR Synthesis from Unpaired Data**|Jiayuan Wang et.al.|[2211.01293v1](http://arxiv.org/abs/2211.01293v1)|null|
 |**2022-11-01**|**Preserving In-Context Learning ability in Large Language Model Fine-tuning**|Yihan Wang et.al.|[2211.00635v1](http://arxiv.org/abs/2211.00635v1)|null|
 |**2022-11-01**|**Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**|Alireza Aghelan et.al.|[2211.00577v1](http://arxiv.org/abs/2211.00577v1)|null|
 |**2022-11-02**|**Revisiting Heterophily in Graph Convolution Networks by Learning Representations Across Topological and Feature Spaces**|Ashish Tiwari et.al.|[2211.00565v2](http://arxiv.org/abs/2211.00565v2)|null|
@@ -1039,6 +1049,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**Fourier Disentangled Multimodal Prior Knowledge Fusion for Red Nucleus Segmentation in Brain MRI**|Guanghui Fu et.al.|[2211.01353v1](http://arxiv.org/abs/2211.01353v1)|null|
+|**2022-11-02**|**Joint Data and Feature Augmentation for Self-Supervised Representation Learning on Point Clouds**|Zhuheng Lu et.al.|[2211.01184v1](http://arxiv.org/abs/2211.01184v1)|null|
+|**2022-11-02**|**I4U System Description for NIST SRE'20 CTS Challenge**|Kong Aik Lee et.al.|[2211.01091v1](http://arxiv.org/abs/2211.01091v1)|null|
+|**2022-11-02**|**Monolingual Recognizers Fusion for Code-switching Speech Recognition**|Tongtong Song et.al.|[2211.01046v1](http://arxiv.org/abs/2211.01046v1)|null|
+|**2022-11-02**|**Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces**|Sundeep Prabhakar Chepuri et.al.|[2211.01003v1](http://arxiv.org/abs/2211.01003v1)|null|
+|**2022-11-02**|**Thunderstorm nowcasting with deep learning: a multi-hazard data fusion model**|Jussi Leinonen et.al.|[2211.01001v1](http://arxiv.org/abs/2211.01001v1)|**[link](https://github.com/meteoswiss/c4dl-multi)**|
+|**2022-11-02**|**Internal Language Model Estimation based Adaptive Language Model Fusion for Domain Adaptation**|Rao Ma et.al.|[2211.00968v1](http://arxiv.org/abs/2211.00968v1)|null|
+|**2022-11-02**|**Deep Multimodal Fusion for Generalizable Person Re-identification**|Suncheng Xiang et.al.|[2211.00933v1](http://arxiv.org/abs/2211.00933v1)|**[link](https://github.com/jeremyxsc/dmf)**|
+|**2022-11-02**|**Rethinking the Metric in Few-shot Learning: From an Adaptive Multi-Distance Perspective**|Jinxiang Lai et.al.|[2211.00890v1](http://arxiv.org/abs/2211.00890v1)|null|
+|**2022-11-01**|**Measuring Air Quality via Multimodal AI and Satellite Imagery**|Andrew Rowley et.al.|[2211.00780v1](http://arxiv.org/abs/2211.00780v1)|null|
 |**2022-11-01**|**Geo-Information Harvesting from Social Media Data**|Xiao Xiang Zhu et.al.|[2211.00543v1](http://arxiv.org/abs/2211.00543v1)|null|
 |**2022-11-01**|**Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation**|Jiangbin Zheng et.al.|[2211.00526v1](http://arxiv.org/abs/2211.00526v1)|null|
 |**2022-11-01**|**A Comparative Study on multichannel Speaker-attributed automatic speech recognition in Multi-party Meetings**|Mohan Shi et.al.|[2211.00511v1](http://arxiv.org/abs/2211.00511v1)|null|
