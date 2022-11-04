@@ -1,15 +1,15 @@
-> Updated on 2022.11.03
+> Updated on 2022.11.04
 
 ## Video_Classification
 
 - 2022-11-02, **Two-Stream Network for Sign Language Recognition and Translation**, Yutong Chen et.al., Paper: [http://arxiv.org/abs/2211.01367v1](http://arxiv.org/abs/2211.01367v1)
 - 2022-11-02, **Fourier Disentangled Multimodal Prior Knowledge Fusion for Red Nucleus Segmentation in Brain MRI**, Guanghui Fu et.al., Paper: [http://arxiv.org/abs/2211.01353v1](http://arxiv.org/abs/2211.01353v1)
 - 2022-11-02, **Fine-grained Human Activity Recognition Using Virtual On-body Acceleration Data**, Zikang Leng et.al., Paper: [http://arxiv.org/abs/2211.01342v1](http://arxiv.org/abs/2211.01342v1)
-- 2022-11-02, **Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**, An Yang et.al., Paper: [http://arxiv.org/abs/2211.01335v1](http://arxiv.org/abs/2211.01335v1), Code: **[https://github.com/ofa-sys/chinese-clip](https://github.com/ofa-sys/chinese-clip)**
+- 2022-11-03, **Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**, An Yang et.al., Paper: [http://arxiv.org/abs/2211.01335v2](http://arxiv.org/abs/2211.01335v2), Code: **[https://github.com/ofa-sys/chinese-clip](https://github.com/ofa-sys/chinese-clip)**
 - 2022-11-02, **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems**, Kai Packhäuser et.al., Paper: [http://arxiv.org/abs/2211.01323v1](http://arxiv.org/abs/2211.01323v1)
 - 2022-11-02, **Low-Resource Music Genre Classification with Advanced Neural Model Reprogramming**, Yun-Ning Hung et.al., Paper: [http://arxiv.org/abs/2211.01317v1](http://arxiv.org/abs/2211.01317v1)
-- 2022-11-02, **Distill and Collect for Semi-Supervised Temporal Action Segmentation**, Sovan Biswas et.al., Paper: [http://arxiv.org/abs/2211.01311v1](http://arxiv.org/abs/2211.01311v1)
-- 2022-11-02, **Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen**, Simon Martin Breum et.al., Paper: [http://arxiv.org/abs/2211.01301v1](http://arxiv.org/abs/2211.01301v1)
+- 2022-11-03, **Distill and Collect for Semi-Supervised Temporal Action Segmentation**, Sovan Biswas et.al., Paper: [http://arxiv.org/abs/2211.01311v2](http://arxiv.org/abs/2211.01311v2)
+- 2022-11-02, **Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen**, Simon Martin Breum et.al., Paper: [http://arxiv.org/abs/2211.01301v1](http://arxiv.org/abs/2211.01301v1), Code: **[https://github.com/SimonBreum/desirelines](https://github.com/SimonBreum/desirelines)**
 - 2022-11-02, **Driver Digital Twin for Online Prediction of Personalized Lane Change Behavior**, Xishun Liao et.al., Paper: [http://arxiv.org/abs/2211.01294v1](http://arxiv.org/abs/2211.01294v1)
 - 2022-11-02, **DC-cycleGAN: Bidirectional CT-to-MR Synthesis from Unpaired Data**, Jiayuan Wang et.al., Paper: [http://arxiv.org/abs/2211.01293v1](http://arxiv.org/abs/2211.01293v1)
 - 2022-11-01, **Preserving In-Context Learning ability in Large Language Model Fine-tuning**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2211.00635v1](http://arxiv.org/abs/2211.00635v1)
