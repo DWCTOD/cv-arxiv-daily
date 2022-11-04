@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-03**|**Could Giant Pretrained Image Models Extract Universal Representations?**|Yutong Lin et.al.|[2211.02043v1](http://arxiv.org/abs/2211.02043v1)|null|
+|**2022-11-03**|**Optimal Compression for Minimizing Classification Error Probability: an Information-Theoretic Approach**|Jingchao Gao et.al.|[2211.02012v1](http://arxiv.org/abs/2211.02012v1)|null|
+|**2022-11-03**|**Single SMPC Invocation DPHelmet: Differentially Private Distributed Learning on a Large Scale**|Moritz Kirschte et.al.|[2211.02003v1](http://arxiv.org/abs/2211.02003v1)|**[link](https://github.com/kirschte/dphelmet)**|
+|**2022-11-03**|**Quantifying Model Uncertainty for Semantic Segmentation using Operators in the RKHS**|Rishabh Singh et.al.|[2211.01999v1](http://arxiv.org/abs/2211.01999v1)|null|
+|**2022-11-03**|**Driving innovation through project based learning: A pre-university STEAM for Social Good initiative**|Gayathri Manikutty et.al.|[2211.01998v1](http://arxiv.org/abs/2211.01998v1)|null|
+|**2022-11-03**|**Enhancing Patent Retrieval using Text and Knowledge Graph Embeddings: A Technical Note**|L Siddharth et.al.|[2211.01976v1](http://arxiv.org/abs/2211.01976v1)|null|
+|**2022-11-03**|**MarginNCE: Robust Sound Localization with a Negative Margin**|Sooyoung Park et.al.|[2211.01966v1](http://arxiv.org/abs/2211.01966v1)|null|
+|**2022-11-03**|**Automatic Crater Shape Retrieval using Unsupervised and Semi-Supervised Systems**|Atal Tewari et.al.|[2211.01933v1](http://arxiv.org/abs/2211.01933v1)|null|
+|**2022-11-03**|**Expanding Accurate Person Recognition to New Altitudes and Ranges: The BRIAR Dataset**|David Cornett III et.al.|[2211.01917v1](http://arxiv.org/abs/2211.01917v1)|null|
+|**2022-11-03**|**Uncertainty Quantification for Rule-Based Models**|Yusik Kim et.al.|[2211.01915v1](http://arxiv.org/abs/2211.01915v1)|null|
 |**2022-11-02**|**Two-Stream Network for Sign Language Recognition and Translation**|Yutong Chen et.al.|[2211.01367v1](http://arxiv.org/abs/2211.01367v1)|null|
 |**2022-11-02**|**Fourier Disentangled Multimodal Prior Knowledge Fusion for Red Nucleus Segmentation in Brain MRI**|Guanghui Fu et.al.|[2211.01353v1](http://arxiv.org/abs/2211.01353v1)|null|
 |**2022-11-02**|**Fine-grained Human Activity Recognition Using Virtual On-body Acceleration Data**|Zikang Leng et.al.|[2211.01342v1](http://arxiv.org/abs/2211.01342v1)|null|
@@ -1053,6 +1063,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-03**|**$^{178}$Hg and asymmetric fission of neutron-deficient pre-actinides**|A. Jhingan et.al.|[2211.01879v1](http://arxiv.org/abs/2211.01879v1)|null|
+|**2022-11-03**|**Convex Clustering through MM: An Efficient Algorithm to Perform Hierarchical Clustering**|Daniel J. W. Touw et.al.|[2211.01877v1](http://arxiv.org/abs/2211.01877v1)|**[link](https://github.com/djwtouw/ccmmpy)**|
+|**2022-11-03**|**Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs**|Emmett Wise et.al.|[2211.01871v1](http://arxiv.org/abs/2211.01871v1)|null|
+|**2022-11-03**|**Kinks Multiply Mesons**|Jarah Evslin et.al.|[2211.01794v1](http://arxiv.org/abs/2211.01794v1)|null|
+|**2022-11-03**|**MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation**|Jiacheng Ruan et.al.|[2211.01784v1](http://arxiv.org/abs/2211.01784v1)|**[link](https://github.com/jcruan519/malunet)**|
+|**2022-11-03**|**Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks**|Matthew Kowal et.al.|[2211.01783v1](http://arxiv.org/abs/2211.01783v1)|null|
+|**2022-11-03**|**PointSee: Image Enhances Point Cloud**|Lipeng Gu et.al.|[2211.01664v1](http://arxiv.org/abs/2211.01664v1)|null|
+|**2022-11-03**|**StereoPose: Category-Level 6D Transparent Object Pose Estimation from Stereo Images via Back-View NOCS**|Kai Chen et.al.|[2211.01644v1](http://arxiv.org/abs/2211.01644v1)|null|
+|**2022-11-03**|**Temporal Consistency Learning of inter-frames for Video Super-Resolution**|Meiqin Liu et.al.|[2211.01639v1](http://arxiv.org/abs/2211.01639v1)|null|
+|**2022-11-03**|**ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images**|An Zeng et.al.|[2211.01607v1](http://arxiv.org/abs/2211.01607v1)|null|
 |**2022-11-02**|**Fourier Disentangled Multimodal Prior Knowledge Fusion for Red Nucleus Segmentation in Brain MRI**|Guanghui Fu et.al.|[2211.01353v1](http://arxiv.org/abs/2211.01353v1)|null|
 |**2022-11-02**|**Joint Data and Feature Augmentation for Self-Supervised Representation Learning on Point Clouds**|Zhuheng Lu et.al.|[2211.01184v1](http://arxiv.org/abs/2211.01184v1)|null|
 |**2022-11-02**|**I4U System Description for NIST SRE'20 CTS Challenge**|Kong Aik Lee et.al.|[2211.01091v1](http://arxiv.org/abs/2211.01091v1)|null|
