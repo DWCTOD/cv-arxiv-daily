@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-04**|**HoloLens 2 Sensor Streaming**|Juan C. Dibene et.al.|[2211.02648v1](http://arxiv.org/abs/2211.02648v1)|null|
+|**2022-11-04**|**Spectral quantization for ancient asymptotically cylindrical flows**|Wenkui Du et.al.|[2211.02595v1](http://arxiv.org/abs/2211.02595v1)|null|
+|**2022-11-04**|**A Comparison of SVM against Pre-trained Language Models (PLMs) for Text Classification Tasks**|Yasmen Wahba et.al.|[2211.02563v1](http://arxiv.org/abs/2211.02563v1)|null|
+|**2022-11-04**|**Machine Learning Challenges of Biological Factors in Insect Image Data**|Nicholas Pellegrino et.al.|[2211.02537v1](http://arxiv.org/abs/2211.02537v1)|null|
+|**2022-11-04**|**Automatic classification of deformable shapes**|Hossein Dabirian et.al.|[2211.02530v1](http://arxiv.org/abs/2211.02530v1)|null|
+|**2022-11-04**|**Weisfeiler and Leman go Hyperbolic: Learning Distance Preserving Node Representations**|Giannis Nikolentzos et.al.|[2211.02501v1](http://arxiv.org/abs/2211.02501v1)|null|
+|**2022-11-04**|**Generalizability of Deep Adult Lung Segmentation Models to the Pediatric Population: A Retrospective Study**|Sivaramakrishnan Rajaraman et.al.|[2211.02475v1](http://arxiv.org/abs/2211.02475v1)|null|
+|**2022-11-04**|**PCQA-GRAPHPOINT: Efficients Deep-Based Graph Metric For Point Cloud Quality Assessment**|Marouane Tliba et.al.|[2211.02459v1](http://arxiv.org/abs/2211.02459v1)|null|
+|**2022-11-04**|**RCDPT: Radar-Camera fusion Dense Prediction Transformer**|Chen-Chou Lo et.al.|[2211.02432v1](http://arxiv.org/abs/2211.02432v1)|null|
+|**2022-11-04**|**CLSE: Corpus of Linguistically Significant Entities**|Aleksandr Chuklin et.al.|[2211.02423v1](http://arxiv.org/abs/2211.02423v1)|null|
 |**2022-11-03**|**Could Giant Pretrained Image Models Extract Universal Representations?**|Yutong Lin et.al.|[2211.02043v1](http://arxiv.org/abs/2211.02043v1)|null|
 |**2022-11-03**|**Optimal Compression for Minimizing Classification Error Probability: an Information-Theoretic Approach**|Jingchao Gao et.al.|[2211.02012v1](http://arxiv.org/abs/2211.02012v1)|null|
 |**2022-11-03**|**Single SMPC Invocation DPHelmet: Differentially Private Distributed Learning on a Large Scale**|Moritz Kirschte et.al.|[2211.02003v1](http://arxiv.org/abs/2211.02003v1)|**[link](https://github.com/kirschte/dphelmet)**|
@@ -1063,6 +1073,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-04**|**Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**|Gaurav Verma et.al.|[2211.02646v1](http://arxiv.org/abs/2211.02646v1)|null|
+|**2022-11-04**|**Near-threshold resonances in 11C and the 10B(p,α)7Be aneutronic reaction cross section**|J. Okołowicz et.al.|[2211.02555v1](http://arxiv.org/abs/2211.02555v1)|null|
+|**2022-11-04**|**Continuous Prompt Tuning Based Textual Entailment Model for E-commerce Entity Typing**|Yibo Wang et.al.|[2211.02483v1](http://arxiv.org/abs/2211.02483v1)|null|
+|**2022-11-04**|**RCDPT: Radar-Camera fusion Dense Prediction Transformer**|Chen-Chou Lo et.al.|[2211.02432v1](http://arxiv.org/abs/2211.02432v1)|null|
+|**2022-11-04**|**GARNet: Global-Aware Multi-View 3D Reconstruction Network and the Cost-Performance Tradeoff**|Zhenwei Zhu et.al.|[2211.02299v1](http://arxiv.org/abs/2211.02299v1)|null|
+|**2022-11-04**|**SDRTV-to-HDRTV Conversion via Spatial-Temporal Feature Fusion**|Kepeng Xu et.al.|[2211.02297v1](http://arxiv.org/abs/2211.02297v1)|null|
+|**2022-11-04**|**Late Fusion with Triplet Margin Objective for Multimodal Ideology Prediction and Analysis**|Changyuan Qiu et.al.|[2211.02269v1](http://arxiv.org/abs/2211.02269v1)|null|
+|**2022-11-04**|**A new scheme of negative muon beam generation with MuCF**|Yoshiharu Mori et.al.|[2211.02252v1](http://arxiv.org/abs/2211.02252v1)|null|
+|**2022-11-03**|**Zonal Flow Excitation in Electron-Scale Turbulence**|Stefan Tirkas et.al.|[2211.02140v1](http://arxiv.org/abs/2211.02140v1)|null|
+|**2022-11-03**|**Search for Dark Photons in $γγ\rightarrow e^+e^-$ at RHIC**|Isabel Xu et.al.|[2211.02132v1](http://arxiv.org/abs/2211.02132v1)|null|
 |**2022-11-03**|**$^{178}$Hg and asymmetric fission of neutron-deficient pre-actinides**|A. Jhingan et.al.|[2211.01879v1](http://arxiv.org/abs/2211.01879v1)|null|
 |**2022-11-03**|**Convex Clustering through MM: An Efficient Algorithm to Perform Hierarchical Clustering**|Daniel J. W. Touw et.al.|[2211.01877v1](http://arxiv.org/abs/2211.01877v1)|**[link](https://github.com/djwtouw/ccmmpy)**|
 |**2022-11-03**|**Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs**|Emmett Wise et.al.|[2211.01871v1](http://arxiv.org/abs/2211.01871v1)|null|
