@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Learning Visual Locomotion with Cross-Modal Supervision**|Antonio Loquercio et.al.|[2211.03785v1](http://arxiv.org/abs/2211.03785v1)|null|
+|**2022-11-07**|**CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**|Maitreya Patel et.al.|[2211.03779v1](http://arxiv.org/abs/2211.03779v1)|**[link](https://github.com/maitreyapatel/cripp-vqa)**|
+|**2022-11-07**|**Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**|Zijing Zhang et.al.|[2211.03767v1](http://arxiv.org/abs/2211.03767v1)|null|
+|**2022-11-07**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726v1](http://arxiv.org/abs/2211.03726v1)|null|
+|**2022-11-07**|**A Survey on Computer Vision based Human Analysis in the COVID-19 Era**|Fevziye Irem Eyiokur et.al.|[2211.03705v1](http://arxiv.org/abs/2211.03705v1)|null|
+|**2022-11-07**|**Scale Invariant Privacy Preserving Video via Wavelet Decomposition**|Chengkai Yu et.al.|[2211.03690v1](http://arxiv.org/abs/2211.03690v1)|null|
+|**2022-11-07**|**Learning Feature Descriptors for Pre- and Intra-operative Point Cloud Matching for Laparoscopic Liver Registration**|Zixin Yang et.al.|[2211.03688v1](http://arxiv.org/abs/2211.03688v1)|null|
+|**2022-11-07**|**On a Network Centrality Maximazation Game**|Costanza Catalano et.al.|[2211.03685v1](http://arxiv.org/abs/2211.03685v1)|null|
+|**2022-11-07**|**Application of Graph Neural Networks and graph descriptors for graph classification**|Jakub Adamczyk et.al.|[2211.03666v1](http://arxiv.org/abs/2211.03666v1)|null|
+|**2022-11-07**|**Generalizable Re-Identification from Videos with Cycle Association**|Zhongdao Wang et.al.|[2211.03663v1](http://arxiv.org/abs/2211.03663v1)|null|
 |**2022-11-04**|**HoloLens 2 Sensor Streaming**|Juan C. Dibene et.al.|[2211.02648v1](http://arxiv.org/abs/2211.02648v1)|null|
 |**2022-11-04**|**Spectral quantization for ancient asymptotically cylindrical flows**|Wenkui Du et.al.|[2211.02595v1](http://arxiv.org/abs/2211.02595v1)|null|
 |**2022-11-04**|**A Comparison of SVM against Pre-trained Language Models (PLMs) for Text Classification Tasks**|Yasmen Wahba et.al.|[2211.02563v1](http://arxiv.org/abs/2211.02563v1)|null|
@@ -1069,6 +1079,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Dualities in one-dimensional quantum lattice models: topological sectors**|Laurens Lootens et.al.|[2211.03777v1](http://arxiv.org/abs/2211.03777v1)|null|
+|**2022-11-07**|**Egocentric Audio-Visual Noise Suppression**|Roshan Sharma et.al.|[2211.03643v1](http://arxiv.org/abs/2211.03643v1)|null|
+|**2022-11-07**|**Adaptive User-Centered Multimodal Interaction towards Reliable and Trusted Automotive Interfaces**|Amr Gomaa et.al.|[2211.03539v1](http://arxiv.org/abs/2211.03539v1)|null|
+|**2022-11-07**|**Beam characterization by means of emission spectroscopy in the ELISE test facility**|M. Barbisan et.al.|[2211.03362v1](http://arxiv.org/abs/2211.03362v1)|null|
+|**2022-11-07**|**Contrastive Learning enhanced Author-Style Headline Generation**|Hui Liu et.al.|[2211.03305v1](http://arxiv.org/abs/2211.03305v1)|**[link](https://github.com/pvop/clh3g)**|
+|**2022-11-06**|**"Seeing Sound": Audio Classification with the Wigner-Wille Distribution and Convolutional Neural Networks**|Antonios Marios Christonasis et.al.|[2211.03202v1](http://arxiv.org/abs/2211.03202v1)|null|
+|**2022-11-06**|**MSMG-Net: Multi-scale Multi-grained Supervised Metworks for Multi-task Image Manipulation Detection and Localization**|Fengsheng Wang et.al.|[2211.03140v1](http://arxiv.org/abs/2211.03140v1)|null|
+|**2022-11-06**|**A Sequence Agnostic Multimodal Preprocessing for Clogged Blood Vessel Detection in Alzheimer's Diagnosis**|Partho Ghosh et.al.|[2211.03109v1](http://arxiv.org/abs/2211.03109v1)|null|
+|**2022-11-06**|**Developing Decentralised Resilience to Malicious Influence in Collective Perception Problem**|Chris Wise et.al.|[2211.03063v1](http://arxiv.org/abs/2211.03063v1)|null|
+|**2022-11-06**|**Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**|Shang Gao et.al.|[2211.03055v1](http://arxiv.org/abs/2211.03055v1)|**[link](https://github.com/shanggaog/dmtracker)**|
 |**2022-11-04**|**Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**|Gaurav Verma et.al.|[2211.02646v1](http://arxiv.org/abs/2211.02646v1)|null|
 |**2022-11-04**|**Near-threshold resonances in 11C and the 10B(p,α)7Be aneutronic reaction cross section**|J. Okołowicz et.al.|[2211.02555v1](http://arxiv.org/abs/2211.02555v1)|null|
 |**2022-11-04**|**Continuous Prompt Tuning Based Textual Entailment Model for E-commerce Entity Typing**|Yibo Wang et.al.|[2211.02483v1](http://arxiv.org/abs/2211.02483v1)|null|
