@@ -1,11 +1,11 @@
-> Updated on 2022.11.08
+> Updated on 2022.11.09
 
 ## Video_Classification
 
 - 2022-11-07, **Learning Visual Locomotion with Cross-Modal Supervision**, Antonio Loquercio et.al., Paper: [http://arxiv.org/abs/2211.03785v1](http://arxiv.org/abs/2211.03785v1)
 - 2022-11-07, **CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**, Maitreya Patel et.al., Paper: [http://arxiv.org/abs/2211.03779v1](http://arxiv.org/abs/2211.03779v1), Code: **[https://github.com/maitreyapatel/cripp-vqa](https://github.com/maitreyapatel/cripp-vqa)**
 - 2022-11-07, **Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**, Zijing Zhang et.al., Paper: [http://arxiv.org/abs/2211.03767v1](http://arxiv.org/abs/2211.03767v1)
-- 2022-11-07, **TAP-Vid: A Benchmark for Tracking Any Point in a Video**, Carl Doersch et.al., Paper: [http://arxiv.org/abs/2211.03726v1](http://arxiv.org/abs/2211.03726v1)
+- 2022-11-07, **TAP-Vid: A Benchmark for Tracking Any Point in a Video**, Carl Doersch et.al., Paper: [http://arxiv.org/abs/2211.03726v1](http://arxiv.org/abs/2211.03726v1), Code: **[https://github.com/deepmind/tapnet](https://github.com/deepmind/tapnet)**
 - 2022-11-07, **A Survey on Computer Vision based Human Analysis in the COVID-19 Era**, Fevziye Irem Eyiokur et.al., Paper: [http://arxiv.org/abs/2211.03705v1](http://arxiv.org/abs/2211.03705v1)
 - 2022-11-07, **Scale Invariant Privacy Preserving Video via Wavelet Decomposition**, Chengkai Yu et.al., Paper: [http://arxiv.org/abs/2211.03690v1](http://arxiv.org/abs/2211.03690v1)
 - 2022-11-07, **Learning Feature Descriptors for Pre- and Intra-operative Point Cloud Matching for Laparoscopic Liver Registration**, Zixin Yang et.al., Paper: [http://arxiv.org/abs/2211.03688v1](http://arxiv.org/abs/2211.03688v1)
