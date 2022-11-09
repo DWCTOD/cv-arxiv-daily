@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-08, **Hyperbolic Centroid Calculations for Text Classification**, Aydın Gerek et.al., Paper: [http://arxiv.org/abs/2211.04462v1](http://arxiv.org/abs/2211.04462v1)
+- 2022-11-08, **SLATE: A Sequence Labeling Approach for Task Extraction from Free-form Inked Content**, Apurva Gandhi et.al., Paper: [http://arxiv.org/abs/2211.04454v1](http://arxiv.org/abs/2211.04454v1), Code: **[https://github.com/slateauthors/slate](https://github.com/slateauthors/slate)**
+- 2022-11-08, **Time-efficient, High Resolution 3T Whole Brain Quantitative Relaxometry using 3D-QALAS with Wave-CAIPI Readouts**, Jaejin Cho et.al., Paper: [http://arxiv.org/abs/2211.04426v1](http://arxiv.org/abs/2211.04426v1)
+- 2022-11-08, **The Refined Humbert Invariant for Imprimitive Ternary Forms**, Harun Kir et.al., Paper: [http://arxiv.org/abs/2211.04396v1](http://arxiv.org/abs/2211.04396v1)
+- 2022-11-08, **Expressing linear equality constraints in feedforward neural networks**, Anand Rangarajan et.al., Paper: [http://arxiv.org/abs/2211.04395v1](http://arxiv.org/abs/2211.04395v1)
+- 2022-11-08, **A machine learning approach to drawing phase diagrams of topological lasing modes**, Stephan Wong et.al., Paper: [http://arxiv.org/abs/2211.04373v1](http://arxiv.org/abs/2211.04373v1)
+- 2022-11-08, **NaturalAdversaries: Can Naturalistic Adversaries Be as Effective as Artificial Adversaries?**, Saadia Gabriel et.al., Paper: [http://arxiv.org/abs/2211.04364v1](http://arxiv.org/abs/2211.04364v1)
+- 2022-11-08, **Hyperparameter optimization in deep multi-target prediction**, Dimitrios Iliadis et.al., Paper: [http://arxiv.org/abs/2211.04362v1](http://arxiv.org/abs/2211.04362v1)
+- 2022-11-08, **Classification of second harmonic generation effect in magnetic materials**, Rui-Chun Xiao et.al., Paper: [http://arxiv.org/abs/2211.04354v1](http://arxiv.org/abs/2211.04354v1)
+- 2022-11-08, **Optimal shepherding and transport of a flock**, Aditya Ranganathan et.al., Paper: [http://arxiv.org/abs/2211.04352v1](http://arxiv.org/abs/2211.04352v1)
 - 2022-11-07, **Learning Visual Locomotion with Cross-Modal Supervision**, Antonio Loquercio et.al., Paper: [http://arxiv.org/abs/2211.03785v1](http://arxiv.org/abs/2211.03785v1)
 - 2022-11-07, **CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering**, Maitreya Patel et.al., Paper: [http://arxiv.org/abs/2211.03779v1](http://arxiv.org/abs/2211.03779v1), Code: **[https://github.com/maitreyapatel/cripp-vqa](https://github.com/maitreyapatel/cripp-vqa)**
 - 2022-11-07, **Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**, Zijing Zhang et.al., Paper: [http://arxiv.org/abs/2211.03767v1](http://arxiv.org/abs/2211.03767v1)
@@ -1075,6 +1085,16 @@
 
 ## MultiModal
 
+- 2022-11-08, **Developing a data fusion concept for radar and optical ground based SST station**, Bruno Coelho et.al., Paper: [http://arxiv.org/abs/2211.04443v1](http://arxiv.org/abs/2211.04443v1)
+- 2022-11-08, **A Multimodal Approach for Dementia Detection from Spontaneous Speech with Tensor Fusion Layer**, Loukas Ilias et.al., Paper: [http://arxiv.org/abs/2211.04368v1](http://arxiv.org/abs/2211.04368v1)
+- 2022-11-08, **Multi-Stage Based Feature Fusion of Multi-Modal Data for Human Activity Recognition**, Hyeongju Choi et.al., Paper: [http://arxiv.org/abs/2211.04331v1](http://arxiv.org/abs/2211.04331v1)
+- 2022-11-08, **Clustered Federated Learning based on Nonconvex Pairwise Fusion**, Xue Yu et.al., Paper: [http://arxiv.org/abs/2211.04218v1](http://arxiv.org/abs/2211.04218v1)
+- 2022-11-08, **Coupled Modeling and Fusion Control for a Multi-modal Deformable Land-air Robot**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2211.04185v1](http://arxiv.org/abs/2211.04185v1)
+- 2022-11-08, **Detection and depth estimation for domestic waste in outdoor environments by sensors fusion**, Ignacio de L. Páez-Ubieta et.al., Paper: [http://arxiv.org/abs/2211.04085v1](http://arxiv.org/abs/2211.04085v1)
+- 2022-11-08, **Downlink and Uplink Cooperative Joint Communication and Sensing**, Xu Chen et.al., Paper: [http://arxiv.org/abs/2211.04065v1](http://arxiv.org/abs/2211.04065v1)
+- 2022-11-08, **A Toy Model for Low Energy Nuclear Fusion**, Kaanapuli Ramkumar et.al., Paper: [http://arxiv.org/abs/2211.04008v1](http://arxiv.org/abs/2211.04008v1)
+- 2022-11-08, **Alleviating Sparsity of Open Knowledge Graphs with Ternary Contrastive Learning**, Qian Li et.al., Paper: [http://arxiv.org/abs/2211.03950v1](http://arxiv.org/abs/2211.03950v1), Code: **[https://github.com/feiwangyuzhou/ternarycl](https://github.com/feiwangyuzhou/ternarycl)**
+- 2022-11-07, **Topological Quantum Computation Through the Lens of Categorical Quantum Mechanics**, Fatimah Rita Ahmadi et.al., Paper: [http://arxiv.org/abs/2211.03855v1](http://arxiv.org/abs/2211.03855v1)
 - 2022-11-07, **Dualities in one-dimensional quantum lattice models: topological sectors**, Laurens Lootens et.al., Paper: [http://arxiv.org/abs/2211.03777v1](http://arxiv.org/abs/2211.03777v1)
 - 2022-11-07, **Egocentric Audio-Visual Noise Suppression**, Roshan Sharma et.al., Paper: [http://arxiv.org/abs/2211.03643v1](http://arxiv.org/abs/2211.03643v1)
 - 2022-11-07, **Adaptive User-Centered Multimodal Interaction towards Reliable and Trusted Automotive Interfaces**, Amr Gomaa et.al., Paper: [http://arxiv.org/abs/2211.03539v1](http://arxiv.org/abs/2211.03539v1)
