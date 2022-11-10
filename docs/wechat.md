@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-09, **3D Scene Inference from Transient Histograms**, Sacha Jungerman et.al., Paper: [http://arxiv.org/abs/2211.05094v1](http://arxiv.org/abs/2211.05094v1)
+- 2022-11-09, **Clinical Contrastive Learning for Biomarker Detection**, Kiran Kokilepersaud et.al., Paper: [http://arxiv.org/abs/2211.05092v1](http://arxiv.org/abs/2211.05092v1)
+- 2022-11-09, **A Comparative Study of Data Augmentation Techniques for Deep Learning Based Emotion Recognition**, Ravi Shankar et.al., Paper: [http://arxiv.org/abs/2211.05047v1](http://arxiv.org/abs/2211.05047v1)
+- 2022-11-09, **Scalar curvatures of invariant almost Hermitian structures on flag manifolds with two and three isotropic summands**, Lino Grama et.al., Paper: [http://arxiv.org/abs/2211.05027v1](http://arxiv.org/abs/2211.05027v1)
+- 2022-11-09, **PAT-CNN: Automatic Segmentation and Quantification of Pericardial Adipose Tissue from T2-Weighted Cardiac Magnetic Resonance Images**, Zhuoyu Li et.al., Paper: [http://arxiv.org/abs/2211.04995v1](http://arxiv.org/abs/2211.04995v1)
+- 2022-11-09, **Ordered ground state configurations of the asymmetric Wigner bilayer system -- revisited: an unsupervised clustering algorithm analysis**, Benedikt Hartl et.al., Paper: [http://arxiv.org/abs/2211.04985v1](http://arxiv.org/abs/2211.04985v1)
+- 2022-11-09, **Classification of anisotropic Triebel-Lizorkin spaces**, Sarah Koppensteiner et.al., Paper: [http://arxiv.org/abs/2211.04936v1](http://arxiv.org/abs/2211.04936v1)
+- 2022-11-09, **On the Robustness of deep learning-based MRI Reconstruction to image transformations**, Jinghan Jia et.al., Paper: [http://arxiv.org/abs/2211.04930v1](http://arxiv.org/abs/2211.04930v1)
+- 2022-11-09, **From Distance to Dependency: A Paradigm Shift of Full-reference Image Quality Assessment**, Hanwei Zhu et.al., Paper: [http://arxiv.org/abs/2211.04927v1](http://arxiv.org/abs/2211.04927v1)
+- 2022-11-09, **Optimized Global Perturbation Attacks For Brain Tumour ROI Extraction From Binary Classification Models**, Sajith Rajapaksa et.al., Paper: [http://arxiv.org/abs/2211.04926v1](http://arxiv.org/abs/2211.04926v1)
 - 2022-11-08, **Hyperbolic Centroid Calculations for Text Classification**, Aydın Gerek et.al., Paper: [http://arxiv.org/abs/2211.04462v1](http://arxiv.org/abs/2211.04462v1)
 - 2022-11-08, **SLATE: A Sequence Labeling Approach for Task Extraction from Free-form Inked Content**, Apurva Gandhi et.al., Paper: [http://arxiv.org/abs/2211.04454v1](http://arxiv.org/abs/2211.04454v1), Code: **[https://github.com/slateauthors/slate](https://github.com/slateauthors/slate)**
 - 2022-11-08, **Time-efficient, High Resolution 3T Whole Brain Quantitative Relaxometry using 3D-QALAS with Wave-CAIPI Readouts**, Jaejin Cho et.al., Paper: [http://arxiv.org/abs/2211.04426v1](http://arxiv.org/abs/2211.04426v1)
@@ -1085,6 +1095,14 @@
 
 ## MultiModal
 
+- 2022-11-09, **On the Drinfeld Centers of Fusion 2-Categories**, Thibault D. Décoppet et.al., Paper: [http://arxiv.org/abs/2211.04917v1](http://arxiv.org/abs/2211.04917v1)
+- 2022-11-09, **Interactive Feature Embedding for Infrared and Visible Image Fusion**, Fan Zhao et.al., Paper: [http://arxiv.org/abs/2211.04877v1](http://arxiv.org/abs/2211.04877v1)
+- 2022-11-09, **Negative ion density in the ion source SPIDER in Cs free conditions**, M. Barbisan et.al., Paper: [http://arxiv.org/abs/2211.04791v1](http://arxiv.org/abs/2211.04791v1)
+- 2022-11-09, **Expressive-VC: Highly Expressive Voice Conversion with Attention Fusion of Bottleneck and Perturbation Features**, Ziqian Ning et.al., Paper: [http://arxiv.org/abs/2211.04710v1](http://arxiv.org/abs/2211.04710v1)
+- 2022-11-09, **FF2: A Feature Fusion Two-Stream Framework for Punctuation Restoration**, Yangjun Wu et.al., Paper: [http://arxiv.org/abs/2211.04699v1](http://arxiv.org/abs/2211.04699v1)
+- 2022-11-08, **Contour Extraction of Inertial Confinement Fusion Images By Data Augmentation**, Michael Falato et.al., Paper: [http://arxiv.org/abs/2211.04597v1](http://arxiv.org/abs/2211.04597v1)
+- 2022-11-08, **Estimation of Appearance and Occupancy Information in Birds Eye View from Surround Monocular Images**, Sarthak Sharma et.al., Paper: [http://arxiv.org/abs/2211.04557v1](http://arxiv.org/abs/2211.04557v1)
+- 2022-11-08, **Quality Control in Weather Monitoring with Dynamic Linear Models**, Joel Janek Dabrowski et.al., Paper: [http://arxiv.org/abs/2211.04528v1](http://arxiv.org/abs/2211.04528v1)
 - 2022-11-08, **Developing a data fusion concept for radar and optical ground based SST station**, Bruno Coelho et.al., Paper: [http://arxiv.org/abs/2211.04443v1](http://arxiv.org/abs/2211.04443v1)
 - 2022-11-08, **A Multimodal Approach for Dementia Detection from Spontaneous Speech with Tensor Fusion Layer**, Loukas Ilias et.al., Paper: [http://arxiv.org/abs/2211.04368v1](http://arxiv.org/abs/2211.04368v1)
 - 2022-11-08, **Multi-Stage Based Feature Fusion of Multi-Modal Data for Human Activity Recognition**, Hyeongju Choi et.al., Paper: [http://arxiv.org/abs/2211.04331v1](http://arxiv.org/abs/2211.04331v1)
