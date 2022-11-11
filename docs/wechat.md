@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-10, **Efficient brain age prediction from 3D MRI volumes using 2D projections**, Johan Jönemo et.al., Paper: [http://arxiv.org/abs/2211.05762v1](http://arxiv.org/abs/2211.05762v1)
+- 2022-11-10, **FlowDNS: Correlating Netflow and DNS Streams at Scale**, Aniss Maghsoudlou et.al., Paper: [http://arxiv.org/abs/2211.05682v1](http://arxiv.org/abs/2211.05682v1)
+- 2022-11-10, **Accelerated respiratory-resolved 4D-MRI with separable spatio-temporal neural networks**, Maarten Terpstra et.al., Paper: [http://arxiv.org/abs/2211.05678v1](http://arxiv.org/abs/2211.05678v1)
+- 2022-11-10, **Constructive Axiomatics in Spacetime Physics Part II: Constructive Axiomatics in Context**, Emily Adlam et.al., Paper: [http://arxiv.org/abs/2211.05672v1](http://arxiv.org/abs/2211.05672v1)
+- 2022-11-10, **Complexity of Chess Domination Problems**, Alexis Langlois-Rémillard et.al., Paper: [http://arxiv.org/abs/2211.05651v1](http://arxiv.org/abs/2211.05651v1)
+- 2022-11-10, **Regression as Classification: Influence of Task Formulation on Neural Network Features**, Lawrence Stewart et.al., Paper: [http://arxiv.org/abs/2211.05641v1](http://arxiv.org/abs/2211.05641v1)
+- 2022-11-10, **SETGen: Scalable and Efficient Template Generation Framework for Groupwise Medical Image Registration**, Ziyi He et.al., Paper: [http://arxiv.org/abs/2211.05622v1](http://arxiv.org/abs/2211.05622v1)
+- 2022-11-10, **Prompt Learning for Domain Adaptation in Task-Oriented Dialogue**, Makesh Narsimhan Sreedhar et.al., Paper: [http://arxiv.org/abs/2211.05596v1](http://arxiv.org/abs/2211.05596v1)
+- 2022-11-10, **Watching the News: Towards VideoQA Models that can Read**, Soumya Jahagirdar et.al., Paper: [http://arxiv.org/abs/2211.05588v1](http://arxiv.org/abs/2211.05588v1)
+- 2022-11-10, **Computer Vision on X-ray Data in Industrial Production and Security Applications: A survey**, Mehdi Rafiei et.al., Paper: [http://arxiv.org/abs/2211.05565v1](http://arxiv.org/abs/2211.05565v1)
 - 2022-11-09, **3D Scene Inference from Transient Histograms**, Sacha Jungerman et.al., Paper: [http://arxiv.org/abs/2211.05094v1](http://arxiv.org/abs/2211.05094v1)
 - 2022-11-09, **Clinical Contrastive Learning for Biomarker Detection**, Kiran Kokilepersaud et.al., Paper: [http://arxiv.org/abs/2211.05092v1](http://arxiv.org/abs/2211.05092v1)
 - 2022-11-09, **A Comparative Study of Data Augmentation Techniques for Deep Learning Based Emotion Recognition**, Ravi Shankar et.al., Paper: [http://arxiv.org/abs/2211.05047v1](http://arxiv.org/abs/2211.05047v1)
@@ -1095,6 +1105,13 @@
 
 ## MultiModal
 
+- 2022-11-09, **Resource-Aware Heterogeneous Federated Learning using Neural Architecture Search**, Sixing Yu et.al., Paper: [http://arxiv.org/abs/2211.05716v1](http://arxiv.org/abs/2211.05716v1)
+- 2022-11-09, **Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**, Siddharth Sagar Nijhawan et.al., Paper: [http://arxiv.org/abs/2211.05654v1](http://arxiv.org/abs/2211.05654v1)
+- 2022-11-10, **Near-infrared and visible-light periocular recognition with Gabor features using frequency-adaptive automatic eye detection**, Fernando Alonso-Fernandez et.al., Paper: [http://arxiv.org/abs/2211.05544v1](http://arxiv.org/abs/2211.05544v1)
+- 2022-11-10, **SWTF: Sparse Weighted Temporal Fusion for Drone-Based Activity Recognition**, Santosh Kumar Yadav et.al., Paper: [http://arxiv.org/abs/2211.05531v1](http://arxiv.org/abs/2211.05531v1)
+- 2022-11-10, **onlineFGO: Online Continuous-Time Factor Graph Optimization with Time-Centric Multi-Sensor Fusion for Robust Localization in Large-Scale Environments**, Haoming Zhang et.al., Paper: [http://arxiv.org/abs/2211.05400v1](http://arxiv.org/abs/2211.05400v1)
+- 2022-11-10, **Efficient Unsupervised Video Object Segmentation Network Based on Motion Guidance**, Chao Hu et.al., Paper: [http://arxiv.org/abs/2211.05364v1](http://arxiv.org/abs/2211.05364v1)
+- 2022-11-09, **Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion**, Yuanchao Li et.al., Paper: [http://arxiv.org/abs/2211.05163v1](http://arxiv.org/abs/2211.05163v1)
 - 2022-11-09, **On the Drinfeld Centers of Fusion 2-Categories**, Thibault D. Décoppet et.al., Paper: [http://arxiv.org/abs/2211.04917v1](http://arxiv.org/abs/2211.04917v1)
 - 2022-11-09, **Interactive Feature Embedding for Infrared and Visible Image Fusion**, Fan Zhao et.al., Paper: [http://arxiv.org/abs/2211.04877v1](http://arxiv.org/abs/2211.04877v1)
 - 2022-11-09, **Negative ion density in the ion source SPIDER in Cs free conditions**, M. Barbisan et.al., Paper: [http://arxiv.org/abs/2211.04791v1](http://arxiv.org/abs/2211.04791v1)
