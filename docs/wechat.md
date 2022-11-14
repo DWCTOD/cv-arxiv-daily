@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-11, **Frankel property and Maximum Principle at Infinity for complete minimal hypersurfaces**, José M. Espinar et.al., Paper: [http://arxiv.org/abs/2211.06392v1](http://arxiv.org/abs/2211.06392v1)
+- 2022-11-11, **A Multimodal Embedding-Based Approach to Industry Classification in Financial Markets**, Rian Dolphin et.al., Paper: [http://arxiv.org/abs/2211.06378v1](http://arxiv.org/abs/2211.06378v1)
+- 2022-11-11, **Vocal Breath Sound Based Gender Classification**, Mohammad Shaique Solanki et.al., Paper: [http://arxiv.org/abs/2211.06371v1](http://arxiv.org/abs/2211.06371v1)
+- 2022-11-11, **Rethinking Log Odds: Linear Probability Modelling and Expert Advice in Interpretable Machine Learning**, Danial Dervovic et.al., Paper: [http://arxiv.org/abs/2211.06360v1](http://arxiv.org/abs/2211.06360v1)
+- 2022-11-11, **Graph-Conditioned MLP for High-Dimensional Tabular Biomedical Data**, Andrei Margeloiu et.al., Paper: [http://arxiv.org/abs/2211.06302v1](http://arxiv.org/abs/2211.06302v1)
+- 2022-11-11, **A New Graph Node Classification Benchmark: Learning Structure from Histology Cell Graphs**, Claudia Vanea et.al., Paper: [http://arxiv.org/abs/2211.06292v1](http://arxiv.org/abs/2211.06292v1), Code: **[https://github.com/nellaker-group/placenta](https://github.com/nellaker-group/placenta)**
+- 2022-11-11, **Towards Improved Learning in Gaussian Processes: The Best of Two Worlds**, Rui Li et.al., Paper: [http://arxiv.org/abs/2211.06260v1](http://arxiv.org/abs/2211.06260v1)
+- 2022-11-11, **Ancient solutions of Ricci Flow with Type I curvature growth**, Stephen Lynch et.al., Paper: [http://arxiv.org/abs/2211.06253v1](http://arxiv.org/abs/2211.06253v1)
+- 2022-11-11, **Disentangled Uncertainty and Out of Distribution Detection in Medical Generative Models**, Kumud Lakara et.al., Paper: [http://arxiv.org/abs/2211.06250v1](http://arxiv.org/abs/2211.06250v1)
+- 2022-11-11, **Joint Deep Learning for Improved Myocardial Scar Detection from Cardiac MRI**, Jiarui Xing et.al., Paper: [http://arxiv.org/abs/2211.06247v1](http://arxiv.org/abs/2211.06247v1)
 - 2022-11-10, **Efficient brain age prediction from 3D MRI volumes using 2D projections**, Johan Jönemo et.al., Paper: [http://arxiv.org/abs/2211.05762v1](http://arxiv.org/abs/2211.05762v1), Code: **[https://github.com/emojjon/brain-projection-age](https://github.com/emojjon/brain-projection-age)**
 - 2022-11-10, **FlowDNS: Correlating Netflow and DNS Streams at Scale**, Aniss Maghsoudlou et.al., Paper: [http://arxiv.org/abs/2211.05682v1](http://arxiv.org/abs/2211.05682v1)
 - 2022-11-10, **Accelerated respiratory-resolved 4D-MRI with separable spatio-temporal neural networks**, Maarten Terpstra et.al., Paper: [http://arxiv.org/abs/2211.05678v1](http://arxiv.org/abs/2211.05678v1)
@@ -1105,6 +1115,13 @@
 
 ## MultiModal
 
+- 2022-11-11, **A numerical investigation of dimensionless numbers characterizing meltpool morphology of the laser powder bed fusion process**, Kunal Bhagat et.al., Paper: [http://arxiv.org/abs/2211.06312v1](http://arxiv.org/abs/2211.06312v1)
+- 2022-11-11, **RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**, Yanlong Yang et.al., Paper: [http://arxiv.org/abs/2211.06108v1](http://arxiv.org/abs/2211.06108v1)
+- 2022-11-11, **Interactive Context-Aware Network for RGB-T Salient Object Detection**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2211.06097v1](http://arxiv.org/abs/2211.06097v1)
+- 2022-11-11, **Multi-modal Fusion Technology based on Vehicle Information: A Survey**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2211.06080v1](http://arxiv.org/abs/2211.06080v1)
+- 2022-11-11, **Dynamics of nanosecond laser pulse propagation and of associated instabilities in a magnetized underdense plasma**, W. Yao et.al., Paper: [http://arxiv.org/abs/2211.06036v1](http://arxiv.org/abs/2211.06036v1)
+- 2022-11-11, **An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**, Yong Hong et.al., Paper: [http://arxiv.org/abs/2211.06001v1](http://arxiv.org/abs/2211.06001v1)
+- 2022-11-11, **MF2-MVQA: A Multi-stage Feature Fusion method for Medical Visual Question Answering**, Shanshan Song et.al., Paper: [http://arxiv.org/abs/2211.05991v1](http://arxiv.org/abs/2211.05991v1)
 - 2022-11-09, **Resource-Aware Heterogeneous Federated Learning using Neural Architecture Search**, Sixing Yu et.al., Paper: [http://arxiv.org/abs/2211.05716v1](http://arxiv.org/abs/2211.05716v1)
 - 2022-11-09, **Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**, Siddharth Sagar Nijhawan et.al., Paper: [http://arxiv.org/abs/2211.05654v1](http://arxiv.org/abs/2211.05654v1)
 - 2022-11-10, **Near-infrared and visible-light periocular recognition with Gabor features using frequency-adaptive automatic eye detection**, Fernando Alonso-Fernandez et.al., Paper: [http://arxiv.org/abs/2211.05544v1](http://arxiv.org/abs/2211.05544v1)
