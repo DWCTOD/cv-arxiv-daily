@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-14**|**Legged Locomotion in Challenging Terrains using Egocentric Vision**|Ananye Agarwal et.al.|[2211.07638v1](http://arxiv.org/abs/2211.07638v1)|null|
-|**2022-11-14**|**EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**|Yuxin Fang et.al.|[2211.07636v1](http://arxiv.org/abs/2211.07636v1)|null|
+|**2022-11-14**|**EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**|Yuxin Fang et.al.|[2211.07636v1](http://arxiv.org/abs/2211.07636v1)|**[link](https://github.com/baaivision/eva)**|
 |**2022-11-14**|**Language Agnostic Code-Mixing Data Augmentation by Predicting Linguistic Patterns**|Shuyue Stella Li et.al.|[2211.07628v1](http://arxiv.org/abs/2211.07628v1)|null|
 |**2022-11-14**|**PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation**|Mu Chen et.al.|[2211.07609v1](http://arxiv.org/abs/2211.07609v1)|null|
 |**2022-11-14**|**Stain-invariant self supervised learning for histopathology image analysis**|Alexandre Tiard et.al.|[2211.07590v1](http://arxiv.org/abs/2211.07590v1)|null|

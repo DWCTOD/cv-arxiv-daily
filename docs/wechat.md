@@ -3,7 +3,7 @@
 ## Video_Classification
 
 - 2022-11-14, **Legged Locomotion in Challenging Terrains using Egocentric Vision**, Ananye Agarwal et.al., Paper: [http://arxiv.org/abs/2211.07638v1](http://arxiv.org/abs/2211.07638v1)
-- 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1)
+- 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1), Code: **[https://github.com/baaivision/eva](https://github.com/baaivision/eva)**
 - 2022-11-14, **Language Agnostic Code-Mixing Data Augmentation by Predicting Linguistic Patterns**, Shuyue Stella Li et.al., Paper: [http://arxiv.org/abs/2211.07628v1](http://arxiv.org/abs/2211.07628v1)
 - 2022-11-14, **PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation**, Mu Chen et.al., Paper: [http://arxiv.org/abs/2211.07609v1](http://arxiv.org/abs/2211.07609v1)
 - 2022-11-14, **Stain-invariant self supervised learning for histopathology image analysis**, Alexandre Tiard et.al., Paper: [http://arxiv.org/abs/2211.07590v1](http://arxiv.org/abs/2211.07590v1)
