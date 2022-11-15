@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-14, **Legged Locomotion in Challenging Terrains using Egocentric Vision**, Ananye Agarwal et.al., Paper: [http://arxiv.org/abs/2211.07638v1](http://arxiv.org/abs/2211.07638v1)
+- 2022-11-14, **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**, Yuxin Fang et.al., Paper: [http://arxiv.org/abs/2211.07636v1](http://arxiv.org/abs/2211.07636v1)
+- 2022-11-14, **Language Agnostic Code-Mixing Data Augmentation by Predicting Linguistic Patterns**, Shuyue Stella Li et.al., Paper: [http://arxiv.org/abs/2211.07628v1](http://arxiv.org/abs/2211.07628v1)
+- 2022-11-14, **PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation**, Mu Chen et.al., Paper: [http://arxiv.org/abs/2211.07609v1](http://arxiv.org/abs/2211.07609v1)
+- 2022-11-14, **Stain-invariant self supervised learning for histopathology image analysis**, Alexandre Tiard et.al., Paper: [http://arxiv.org/abs/2211.07590v1](http://arxiv.org/abs/2211.07590v1)
+- 2022-11-14, **Advancing the State-of-the-Art for ECG Analysis through Structured State Space Models**, Temesgen Mehari et.al., Paper: [http://arxiv.org/abs/2211.07579v1](http://arxiv.org/abs/2211.07579v1), Code: **[https://github.com/tmehari/ssm_ecg](https://github.com/tmehari/ssm_ecg)**
+- 2022-11-14, **A Survey on Preserving Fairness Guarantees in Changing Environments**, Ainhize Barrainkua et.al., Paper: [http://arxiv.org/abs/2211.07530v1](http://arxiv.org/abs/2211.07530v1)
+- 2022-11-14, **PKCAM: Previous Knowledge Channel Attention Module**, Eslam Mohamed Bakar et.al., Paper: [http://arxiv.org/abs/2211.07521v1](http://arxiv.org/abs/2211.07521v1), Code: **[https://github.com/eslambakr/emca](https://github.com/eslambakr/emca)**
+- 2022-11-14, **High-Accuracy Machine Learning Techniques for Functional Connectome Fingerprinting and Cognitive State Decoding**, Andrew Hannum et.al., Paper: [http://arxiv.org/abs/2211.07507v1](http://arxiv.org/abs/2211.07507v1)
+- 2022-11-14, **Discovering a Variety of Objects in Spatio-Temporal Human-Object Interactions**, Yong-Lu Li et.al., Paper: [http://arxiv.org/abs/2211.07501v1](http://arxiv.org/abs/2211.07501v1), Code: **[https://github.com/dirtyharrylyl/hake-ava](https://github.com/dirtyharrylyl/hake-ava)**
 - 2022-11-11, **Frankel property and Maximum Principle at Infinity for complete minimal hypersurfaces**, José M. Espinar et.al., Paper: [http://arxiv.org/abs/2211.06392v1](http://arxiv.org/abs/2211.06392v1)
 - 2022-11-11, **A Multimodal Embedding-Based Approach to Industry Classification in Financial Markets**, Rian Dolphin et.al., Paper: [http://arxiv.org/abs/2211.06378v1](http://arxiv.org/abs/2211.06378v1)
 - 2022-11-11, **Vocal Breath Sound Based Gender Classification**, Mohammad Shaique Solanki et.al., Paper: [http://arxiv.org/abs/2211.06371v1](http://arxiv.org/abs/2211.06371v1)
@@ -1115,6 +1125,16 @@
 
 ## MultiModal
 
+- 2022-11-14, **Group-Equivariant Neural Networks with Fusion Diagrams**, Zimu Li et.al., Paper: [http://arxiv.org/abs/2211.07482v1](http://arxiv.org/abs/2211.07482v1)
+- 2022-11-14, **Attacking Face Recognition with T-shirts: Database, Vulnerability Assessment and Detection**, M. Ibsen et.al., Paper: [http://arxiv.org/abs/2211.07383v1](http://arxiv.org/abs/2211.07383v1)
+- 2022-11-14, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v1](http://arxiv.org/abs/2211.07365v1), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
+- 2022-11-14, **Generalized fusion frame in Quaternionic Hilbert spaces**, Prasenjit Ghosh et.al., Paper: [http://arxiv.org/abs/2211.07329v1](http://arxiv.org/abs/2211.07329v1)
+- 2022-11-14, **Robust Collaborative 3D Object Detection in Presence of Pose Errors**, Yifan Lu et.al., Paper: [http://arxiv.org/abs/2211.07214v1](http://arxiv.org/abs/2211.07214v1)
+- 2022-11-14, **Grafting Pre-trained Models for Multimodal Headline Generation**, Lingfeng Qiao et.al., Paper: [http://arxiv.org/abs/2211.07210v1](http://arxiv.org/abs/2211.07210v1)
+- 2022-11-14, **Unsupervised Galaxy Morphological Visual Representation with Deep Contrastive Learning**, Shoulin Wei et.al., Paper: [http://arxiv.org/abs/2211.07168v1](http://arxiv.org/abs/2211.07168v1)
+- 2022-11-14, **Knowledge Base Completion using Web-Based Question Answering and Multimodal Fusion**, Yang Peng et.al., Paper: [http://arxiv.org/abs/2211.07098v1](http://arxiv.org/abs/2211.07098v1)
+- 2022-11-14, **PMR: Prototypical Modal Rebalance for Multimodal Learning**, Yunfeng Fan et.al., Paper: [http://arxiv.org/abs/2211.07089v1](http://arxiv.org/abs/2211.07089v1)
+- 2022-11-14, **Azimuthal decorrelation for photon induced dijet production in ultra-peripheral collisions of heavy ions**, Cheng Zhang et.al., Paper: [http://arxiv.org/abs/2211.07071v1](http://arxiv.org/abs/2211.07071v1)
 - 2022-11-11, **A numerical investigation of dimensionless numbers characterizing meltpool morphology of the laser powder bed fusion process**, Kunal Bhagat et.al., Paper: [http://arxiv.org/abs/2211.06312v1](http://arxiv.org/abs/2211.06312v1)
 - 2022-11-11, **RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**, Yanlong Yang et.al., Paper: [http://arxiv.org/abs/2211.06108v1](http://arxiv.org/abs/2211.06108v1)
 - 2022-11-11, **Interactive Context-Aware Network for RGB-T Salient Object Detection**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2211.06097v1](http://arxiv.org/abs/2211.06097v1)
