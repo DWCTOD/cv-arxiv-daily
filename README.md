@@ -1,4 +1,4 @@
-## Updated on 2022.11.15
+## Updated on 2022.11.16
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 |**2022-11-14**|**EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**|Yuxin Fang et.al.|[2211.07636v1](http://arxiv.org/abs/2211.07636v1)|**[link](https://github.com/baaivision/eva)**|
 |**2022-11-14**|**Language Agnostic Code-Mixing Data Augmentation by Predicting Linguistic Patterns**|Shuyue Stella Li et.al.|[2211.07628v1](http://arxiv.org/abs/2211.07628v1)|null|
 |**2022-11-14**|**PiPa: Pixel- and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation**|Mu Chen et.al.|[2211.07609v1](http://arxiv.org/abs/2211.07609v1)|null|
-|**2022-11-14**|**Stain-invariant self supervised learning for histopathology image analysis**|Alexandre Tiard et.al.|[2211.07590v1](http://arxiv.org/abs/2211.07590v1)|null|
+|**2022-11-14**|**Stain-invariant self supervised learning for histopathology image analysis**|Alexandre Tiard et.al.|[2211.07590v1](http://arxiv.org/abs/2211.07590v1)|**[link](https://github.com/histocartography/hact-net)**|
 |**2022-11-14**|**Advancing the State-of-the-Art for ECG Analysis through Structured State Space Models**|Temesgen Mehari et.al.|[2211.07579v1](http://arxiv.org/abs/2211.07579v1)|**[link](https://github.com/tmehari/ssm_ecg)**|
 |**2022-11-14**|**A Survey on Preserving Fairness Guarantees in Changing Environments**|Ainhize Barrainkua et.al.|[2211.07530v1](http://arxiv.org/abs/2211.07530v1)|null|
 |**2022-11-14**|**PKCAM: Previous Knowledge Channel Attention Module**|Eslam Mohamed Bakar et.al.|[2211.07521v1](http://arxiv.org/abs/2211.07521v1)|**[link](https://github.com/eslambakr/emca)**|
