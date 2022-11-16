@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-15**|**Robot Learning on the Job: Human-in-the-Loop Autonomy and Learning During Deployment**|Huihan Liu et.al.|[2211.08416v1](http://arxiv.org/abs/2211.08416v1)|null|
+|**2022-11-15**|**Introducing Semantics into Speech Encoders**|Derek Xu et.al.|[2211.08402v1](http://arxiv.org/abs/2211.08402v1)|null|
+|**2022-11-15**|**Photometric identification of compact galaxies, stars and quasars using multiple neural networks**|Siddharth Chaini et.al.|[2211.08388v1](http://arxiv.org/abs/2211.08388v1)|null|
+|**2022-11-15**|**Music Instrument Classification Reprogrammed**|Hsin-Hung Chen et.al.|[2211.08379v1](http://arxiv.org/abs/2211.08379v1)|**[link](https://github.com/hchen605/ast_inst_cls)**|
+|**2022-11-15**|**Methodological proposal to identify the nationality of Twitter users through Random-Forests**|Damián Quijano et.al.|[2211.08370v1](http://arxiv.org/abs/2211.08370v1)|null|
+|**2022-11-15**|**A Survey on the Integration of Machine Learning with Sampling-based Motion Planning**|Troy McMahon et.al.|[2211.08368v1](http://arxiv.org/abs/2211.08368v1)|null|
+|**2022-11-15**|**FlowGrad: Using Motion for Visual Sound Source Localization**|Rajsuryan Singh et.al.|[2211.08367v1](http://arxiv.org/abs/2211.08367v1)|null|
+|**2022-11-15**|**Classifying text using machine learning models and determining conversation drift**|Chaitanya Chadha et.al.|[2211.08365v1](http://arxiv.org/abs/2211.08365v1)|null|
+|**2022-11-15**|**MEAL: Stable and Active Learning for Few-Shot Prompting**|Abdullatif Köksal et.al.|[2211.08358v1](http://arxiv.org/abs/2211.08358v1)|null|
+|**2022-11-15**|**Galaxy And Mass Assembly: Galaxy Morphology in the Green Valley, Prominent rings and looser Spiral Arms**|Dominic Smith et.al.|[2211.08355v1](http://arxiv.org/abs/2211.08355v1)|null|
 |**2022-11-14**|**Legged Locomotion in Challenging Terrains using Egocentric Vision**|Ananye Agarwal et.al.|[2211.07638v1](http://arxiv.org/abs/2211.07638v1)|null|
 |**2022-11-14**|**EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**|Yuxin Fang et.al.|[2211.07636v1](http://arxiv.org/abs/2211.07636v1)|**[link](https://github.com/baaivision/eva)**|
 |**2022-11-14**|**Language Agnostic Code-Mixing Data Augmentation by Predicting Linguistic Patterns**|Shuyue Stella Li et.al.|[2211.07628v1](http://arxiv.org/abs/2211.07628v1)|null|
@@ -1129,6 +1139,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-15**|**Cross-Stitched Multi-task Dual Recursive Networks for Unified Single Image Deraining and Desnowing**|Sotiris Karavarsamis et.al.|[2211.08290v1](http://arxiv.org/abs/2211.08290v1)|null|
+|**2022-11-15**|**Advances in ultrafast plasmonics**|Alemayehu Nana Koya et.al.|[2211.08241v1](http://arxiv.org/abs/2211.08241v1)|null|
+|**2022-11-15**|**Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation**|Weimin Wu et.al.|[2211.08106v1](http://arxiv.org/abs/2211.08106v1)|null|
+|**2022-11-15**|**PAI3D: Painting Adaptive Instance-Prior for 3D Object Detection**|Hao Liu et.al.|[2211.08055v1](http://arxiv.org/abs/2211.08055v1)|null|
+|**2022-11-15**|**NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction**|Yun Yi et.al.|[2211.08024v1](http://arxiv.org/abs/2211.08024v1)|null|
+|**2022-11-15**|**Auto-outlier Fusion Technique for Chest X-ray classification with Multi-head Attention Mechanism**|Yuru Jing et.al.|[2211.08006v1](http://arxiv.org/abs/2211.08006v1)|null|
+|**2022-11-15**|**High-energy betatron source driven by a 4-PW laser with applications to non-destructive imaging**|Calin Ioan Hojbota et.al.|[2211.07963v1](http://arxiv.org/abs/2211.07963v1)|null|
+|**2022-11-15**|**Intriguing Revelations from Lithium, Beryllium, and Boron**|Ann Merchant Boesgaard et.al.|[2211.07838v1](http://arxiv.org/abs/2211.07838v1)|null|
+|**2022-11-14**|**Prospects for Exotic $h\rightarrow 4 τ$ Decays in Single and Di-Higgs Production at the LHC and Future Hadron Colliders**|Amit Adhikary et.al.|[2211.07674v1](http://arxiv.org/abs/2211.07674v1)|null|
 |**2022-11-14**|**Group-Equivariant Neural Networks with Fusion Diagrams**|Zimu Li et.al.|[2211.07482v1](http://arxiv.org/abs/2211.07482v1)|null|
 |**2022-11-14**|**Attacking Face Recognition with T-shirts: Database, Vulnerability Assessment and Detection**|M. Ibsen et.al.|[2211.07383v1](http://arxiv.org/abs/2211.07383v1)|null|
 |**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
