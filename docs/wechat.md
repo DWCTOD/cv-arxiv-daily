@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-16, **AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders**, Wele Gedara Chaminda Bandara et.al., Paper: [http://arxiv.org/abs/2211.09120v1](http://arxiv.org/abs/2211.09120v1), Code: **[https://github.com/wgcban/adamae](https://github.com/wgcban/adamae)**
+- 2022-11-16, **Token Turing Machines**, Michael S. Ryoo et.al., Paper: [http://arxiv.org/abs/2211.09119v1](http://arxiv.org/abs/2211.09119v1)
+- 2022-11-16, **Robust Online Video Instance Segmentation with Track Queries**, Zitong Zhan et.al., Paper: [http://arxiv.org/abs/2211.09108v1](http://arxiv.org/abs/2211.09108v1)
+- 2022-11-16, **Interpretable Few-shot Learning with Online Attribute Selection**, Mohammad Reza Zarei et.al., Paper: [http://arxiv.org/abs/2211.09107v1](http://arxiv.org/abs/2211.09107v1)
+- 2022-11-16, **ATEAM: Knowledge Integration from Federated Datasets for Vehicle Feature Extraction using Annotation Team of Experts**, Abhijit Suprem et.al., Paper: [http://arxiv.org/abs/2211.09098v1](http://arxiv.org/abs/2211.09098v1)
+- 2022-11-16, **Four-dimensional complete gradient shrinking Ricci solitons with half positive isotropic curvature**, Huai-Dong Cao et.al., Paper: [http://arxiv.org/abs/2211.09091v1](http://arxiv.org/abs/2211.09091v1)
+- 2022-11-16, **Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter**, Yi Xiao et.al., Paper: [http://arxiv.org/abs/2211.09089v1](http://arxiv.org/abs/2211.09089v1)
+- 2022-11-16, **Where a Strong Backbone Meets Strong Features -- ActionFormer for Ego4D Moment Queries Challenge**, Fangzhou Mu et.al., Paper: [http://arxiv.org/abs/2211.09074v1](http://arxiv.org/abs/2211.09074v1), Code: **[https://github.com/happyharrycn/actionformer_release](https://github.com/happyharrycn/actionformer_release)**
+- 2022-11-16, **Ischemic Stroke Lesion Prediction using imbalanced Temporal Deep Gaussian Process (iTDGP)**, Mohsen Soltanpour et.al., Paper: [http://arxiv.org/abs/2211.09068v1](http://arxiv.org/abs/2211.09068v1)
+- 2022-11-16, **Learning Reward Functions for Robotic Manipulation by Observing Humans**, Minttu Alakuijala et.al., Paper: [http://arxiv.org/abs/2211.09019v1](http://arxiv.org/abs/2211.09019v1)
 - 2022-11-15, **Robot Learning on the Job: Human-in-the-Loop Autonomy and Learning During Deployment**, Huihan Liu et.al., Paper: [http://arxiv.org/abs/2211.08416v1](http://arxiv.org/abs/2211.08416v1)
 - 2022-11-15, **Introducing Semantics into Speech Encoders**, Derek Xu et.al., Paper: [http://arxiv.org/abs/2211.08402v1](http://arxiv.org/abs/2211.08402v1)
 - 2022-11-15, **Photometric identification of compact galaxies, stars and quasars using multiple neural networks**, Siddharth Chaini et.al., Paper: [http://arxiv.org/abs/2211.08388v1](http://arxiv.org/abs/2211.08388v1)
@@ -1135,6 +1145,16 @@
 
 ## MultiModal
 
+- 2022-11-16, **Learning Dense and Continuous Optical Flow from an Event Camera**, Zhexiong Wan et.al., Paper: [http://arxiv.org/abs/2211.09078v1](http://arxiv.org/abs/2211.09078v1), Code: **[https://github.com/danqu130/DCEIFlow](https://github.com/danqu130/DCEIFlow)**
+- 2022-11-16, **Real Estate Attribute Prediction from Multiple Visual Modalities with Missing Data**, Eric Stumpe et.al., Paper: [http://arxiv.org/abs/2211.09018v1](http://arxiv.org/abs/2211.09018v1)
+- 2022-11-16, **Fusion hierarchies, $T$-systems and $Y$-systems for the dilute $A_2^{(2)}$ loop models on a strip**, Florence Boileau et.al., Paper: [http://arxiv.org/abs/2211.09017v1](http://arxiv.org/abs/2211.09017v1)
+- 2022-11-16, **McNet: Fuse Multiple Cues for Multichannel Speech Enhancement**, Yujie Yang et.al., Paper: [http://arxiv.org/abs/2211.08872v1](http://arxiv.org/abs/2211.08872v1), Code: **[https://github.com/audio-westlakeu/mcnet](https://github.com/audio-westlakeu/mcnet)**
+- 2022-11-16, **Uncertainty-Aware Multi-Parametric Magnetic Resonance Image Information Fusion for 3D Object Segmentation**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2211.08783v1](http://arxiv.org/abs/2211.08783v1)
+- 2022-11-16, **Towards Long-Tailed 3D Detection**, Neehar Peri et.al., Paper: [http://arxiv.org/abs/2211.08691v1](http://arxiv.org/abs/2211.08691v1)
+- 2022-11-16, **Consistent Direct Time-of-Flight Video Depth Super-Resolution**, Zhanghao Sun et.al., Paper: [http://arxiv.org/abs/2211.08658v1](http://arxiv.org/abs/2211.08658v1)
+- 2022-11-16, **GLFF: Global and Local Feature Fusion for Face Forgery Detection**, Yan Ju et.al., Paper: [http://arxiv.org/abs/2211.08615v1](http://arxiv.org/abs/2211.08615v1)
+- 2022-11-16, **Asynchronous Bayesian Learning over a Network**, Kinjal Bhar et.al., Paper: [http://arxiv.org/abs/2211.08603v1](http://arxiv.org/abs/2211.08603v1)
+- 2022-11-15, **Using Auxiliary Information for Person Re-Identification -- A Tutorial Overview**, Tharindu Fernando et.al., Paper: [http://arxiv.org/abs/2211.08565v1](http://arxiv.org/abs/2211.08565v1)
 - 2022-11-15, **Cross-Stitched Multi-task Dual Recursive Networks for Unified Single Image Deraining and Desnowing**, Sotiris Karavarsamis et.al., Paper: [http://arxiv.org/abs/2211.08290v1](http://arxiv.org/abs/2211.08290v1)
 - 2022-11-15, **Advances in ultrafast plasmonics**, Alemayehu Nana Koya et.al., Paper: [http://arxiv.org/abs/2211.08241v1](http://arxiv.org/abs/2211.08241v1)
 - 2022-11-15, **Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation**, Weimin Wu et.al., Paper: [http://arxiv.org/abs/2211.08106v1](http://arxiv.org/abs/2211.08106v1)
