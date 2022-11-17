@@ -1,4 +1,4 @@
-## Updated on 2022.11.16
+## Updated on 2022.11.17
 
 ## Video_Classification
 
@@ -1144,7 +1144,7 @@
 |**2022-11-15**|**Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation**|Weimin Wu et.al.|[2211.08106v1](http://arxiv.org/abs/2211.08106v1)|null|
 |**2022-11-15**|**PAI3D: Painting Adaptive Instance-Prior for 3D Object Detection**|Hao Liu et.al.|[2211.08055v1](http://arxiv.org/abs/2211.08055v1)|null|
 |**2022-11-15**|**NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction**|Yun Yi et.al.|[2211.08024v1](http://arxiv.org/abs/2211.08024v1)|null|
-|**2022-11-15**|**Auto-outlier Fusion Technique for Chest X-ray classification with Multi-head Attention Mechanism**|Yuru Jing et.al.|[2211.08006v1](http://arxiv.org/abs/2211.08006v1)|null|
+|**2022-11-15**|**Auto-outlier Fusion Technique for Chest X-ray classification with Multi-head Attention Mechanism**|Yuru Jing et.al.|[2211.08006v1](http://arxiv.org/abs/2211.08006v1)|**[link](https://github.com/yurujing/auto-outlier-fusion-technique-for-chestxray)**|
 |**2022-11-15**|**High-energy betatron source driven by a 4-PW laser with applications to non-destructive imaging**|Calin Ioan Hojbota et.al.|[2211.07963v1](http://arxiv.org/abs/2211.07963v1)|null|
 |**2022-11-15**|**Intriguing Revelations from Lithium, Beryllium, and Boron**|Ann Merchant Boesgaard et.al.|[2211.07838v1](http://arxiv.org/abs/2211.07838v1)|null|
 |**2022-11-14**|**Prospects for Exotic $h\rightarrow 4 τ$ Decays in Single and Di-Higgs Production at the LHC and Future Hadron Colliders**|Amit Adhikary et.al.|[2211.07674v1](http://arxiv.org/abs/2211.07674v1)|null|
