@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-17**|**SPACEx: Speech-driven Portrait Animation with Controllable Expression**|Siddharth Gururani et.al.|[2211.09809v1](http://arxiv.org/abs/2211.09809v1)|null|
+|**2022-11-17**|**Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information**|Weijie Su et.al.|[2211.09807v1](http://arxiv.org/abs/2211.09807v1)|null|
+|**2022-11-17**|**Are atomic insulators distinguishable?**|Sanjib Kumar Das et.al.|[2211.09804v1](http://arxiv.org/abs/2211.09804v1)|null|
+|**2022-11-17**|**SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields**|Anthony Simeonov et.al.|[2211.09786v1](http://arxiv.org/abs/2211.09786v1)|null|
+|**2022-11-17**|**An $α'$-complete theory of cosmology and its tensionless limit**|Tomas Codina et.al.|[2211.09757v1](http://arxiv.org/abs/2211.09757v1)|null|
+|**2022-11-17**|**Heart Abnormality Detection from Heart Sound Signals using MFCC Feature and Dual Stream Attention Based Network**|Nayeeb Rashid et.al.|[2211.09751v1](http://arxiv.org/abs/2211.09751v1)|null|
+|**2022-11-17**|**Style Classification of Rabbinic Literature for Detection of Lost Midrash Tanhuma Material**|Shlomo Tannor et.al.|[2211.09710v1](http://arxiv.org/abs/2211.09710v1)|null|
+|**2022-11-17**|**Listen, denoise, action! Audio-driven motion synthesis with diffusion models**|Simon Alexanderson et.al.|[2211.09707v1](http://arxiv.org/abs/2211.09707v1)|null|
+|**2022-11-17**|**HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors**|Xiao Wang et.al.|[2211.09648v1](http://arxiv.org/abs/2211.09648v1)|null|
+|**2022-11-17**|**Optimal Constrained Task Planning as Mixed Integer Programming**|Alphonsus Adu-Bredu et.al.|[2211.09632v1](http://arxiv.org/abs/2211.09632v1)|null|
 |**2022-11-16**|**AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders**|Wele Gedara Chaminda Bandara et.al.|[2211.09120v1](http://arxiv.org/abs/2211.09120v1)|**[link](https://github.com/wgcban/adamae)**|
 |**2022-11-16**|**Token Turing Machines**|Michael S. Ryoo et.al.|[2211.09119v1](http://arxiv.org/abs/2211.09119v1)|null|
 |**2022-11-16**|**Robust Online Video Instance Segmentation with Track Queries**|Zitong Zhan et.al.|[2211.09108v1](http://arxiv.org/abs/2211.09108v1)|null|
@@ -1153,6 +1163,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-17**|**Digital simulation of non-Abelian anyons with 68 programmable superconducting qubits**|Shibo Xu et.al.|[2211.09802v1](http://arxiv.org/abs/2211.09802v1)|null|
+|**2022-11-17**|**HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors**|Xiao Wang et.al.|[2211.09648v1](http://arxiv.org/abs/2211.09648v1)|null|
+|**2022-11-17**|**Data fusion techniques for fault diagnosis of industrial machines: a survey**|Amir Eshaghi Chaleshtori et.al.|[2211.09551v1](http://arxiv.org/abs/2211.09551v1)|null|
+|**2022-11-17**|**Personalized Federated Learning for Multi-task Fault Diagnosis of Rotating Machinery**|Sheng Guo et.al.|[2211.09406v1](http://arxiv.org/abs/2211.09406v1)|null|
+|**2022-11-17**|**Hard Exudate Segmentation Supplemented by Super-Resolution with Multi-scale Attention Fusion Module**|Jiayi Zhang et.al.|[2211.09404v1](http://arxiv.org/abs/2211.09404v1)|null|
+|**2022-11-17**|**Analysis and Particle-in-Cell Simulation of Gridded ICRH Plasma Thruster**|Ishaan Mishra et.al.|[2211.09364v1](http://arxiv.org/abs/2211.09364v1)|null|
+|**2022-11-17**|**Improving Federated Learning Communication Efficiency with Global Momentum Fusion for Gradient Compression Schemes**|Chun-Chih Kuo et.al.|[2211.09320v1](http://arxiv.org/abs/2211.09320v1)|null|
+|**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
+|**2022-11-16**|**Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning**|Zhaoliang Chen et.al.|[2211.09155v1](http://arxiv.org/abs/2211.09155v1)|null|
+|**2022-11-16**|**A Unified Multimodal De- and Re-coupling Framework for RGB-D Motion Recognition**|Benjia Zhou et.al.|[2211.09146v1](http://arxiv.org/abs/2211.09146v1)|null|
 |**2022-11-16**|**Learning Dense and Continuous Optical Flow from an Event Camera**|Zhexiong Wan et.al.|[2211.09078v1](http://arxiv.org/abs/2211.09078v1)|**[link](https://github.com/danqu130/DCEIFlow)**|
 |**2022-11-16**|**Real Estate Attribute Prediction from Multiple Visual Modalities with Missing Data**|Eric Stumpe et.al.|[2211.09018v1](http://arxiv.org/abs/2211.09018v1)|null|
 |**2022-11-16**|**Fusion hierarchies, $T$-systems and $Y$-systems for the dilute $A_2^{(2)}$ loop models on a strip**|Florence Boileau et.al.|[2211.09017v1](http://arxiv.org/abs/2211.09017v1)|null|
