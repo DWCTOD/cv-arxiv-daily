@@ -1,4 +1,4 @@
-> Updated on 2022.11.21
+> Updated on 2022.11.22
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2022-11-18, **A Fair Loss Function for Network Pruning**, Robbie Meyer et.al., Paper: [http://arxiv.org/abs/2211.10285v1](http://arxiv.org/abs/2211.10285v1)
 - 2022-11-18, **Estimating more camera poses for ego-centric videos is essential for VQ3D**, Jinjie Mai et.al., Paper: [http://arxiv.org/abs/2211.10284v1](http://arxiv.org/abs/2211.10284v1)
 - 2022-11-18, **Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis**, Zhihao Du et.al., Paper: [http://arxiv.org/abs/2211.10243v1](http://arxiv.org/abs/2211.10243v1)
-- 2022-11-18, **LVOS: A Benchmark for Long-term Video Object Segmentation**, Lingyi Hong et.al., Paper: [http://arxiv.org/abs/2211.10181v1](http://arxiv.org/abs/2211.10181v1)
+- 2022-11-18, **LVOS: A Benchmark for Long-term Video Object Segmentation**, Lingyi Hong et.al., Paper: [http://arxiv.org/abs/2211.10181v1](http://arxiv.org/abs/2211.10181v1), Code: **[https://github.com/LingyiHongfd/LVOS](https://github.com/LingyiHongfd/LVOS)**
 - 2022-11-17, **SPACEx: Speech-driven Portrait Animation with Controllable Expression**, Siddharth Gururani et.al., Paper: [http://arxiv.org/abs/2211.09809v1](http://arxiv.org/abs/2211.09809v1)
 - 2022-11-17, **Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information**, Weijie Su et.al., Paper: [http://arxiv.org/abs/2211.09807v1](http://arxiv.org/abs/2211.09807v1)
 - 2022-11-17, **Are atomic insulators distinguishable?**, Sanjib Kumar Das et.al., Paper: [http://arxiv.org/abs/2211.09804v1](http://arxiv.org/abs/2211.09804v1)
@@ -1168,7 +1168,7 @@
 - 2022-11-18, **Adaptive De-noising of Photoacoustic Signal and Image based on Modified Kalman Filter**, Tianqu Hu et.al., Paper: [http://arxiv.org/abs/2211.10262v1](http://arxiv.org/abs/2211.10262v1)
 - 2022-11-18, **Leveraging Multi-stream Information Fusion for Trajectory Prediction in Low-illumination Scenarios: A Multi-channel Graph Convolutional Approach**, Hailong Gong et.al., Paper: [http://arxiv.org/abs/2211.10226v1](http://arxiv.org/abs/2211.10226v1), Code: **[https://github.com/tommygong08/msif](https://github.com/tommygong08/msif)**
 - 2022-11-18, **A Nuclear-Based Diagnostic Scheme for Nonthermal Ion Spectrum in High Energy Density Plasmas Experiments**, K. Li et.al., Paper: [http://arxiv.org/abs/2211.10175v1](http://arxiv.org/abs/2211.10175v1)
-- 2022-11-18, **FiE: Building a Global Probability Space by Leveraging Early Fusion in Encoder for Open-Domain Question Answering**, Akhil Kedia et.al., Paper: [http://arxiv.org/abs/2211.10147v1](http://arxiv.org/abs/2211.10147v1)
+- 2022-11-18, **FiE: Building a Global Probability Space by Leveraging Early Fusion in Encoder for Open-Domain Question Answering**, Akhil Kedia et.al., Paper: [http://arxiv.org/abs/2211.10147v1](http://arxiv.org/abs/2211.10147v1), Code: **[https://github.com/facebookresearch/FiD](https://github.com/facebookresearch/FiD)**
 - 2022-11-18, **Numerical study of RF power coupling in fusion-relevant single- and multi-driver H$^-$ ion sources**, Dominikus Zielke et.al., Paper: [http://arxiv.org/abs/2211.10143v1](http://arxiv.org/abs/2211.10143v1)
 - 2022-11-18, **Stereo Image Rain Removal via Dual-View Mutual Attention**, Yanyan Wei et.al., Paper: [http://arxiv.org/abs/2211.10104v1](http://arxiv.org/abs/2211.10104v1)
 - 2022-11-18, **Pedestrian Spatio-Temporal Information Fusion For Video Anomaly Detection**, Chao Hu et.al., Paper: [http://arxiv.org/abs/2211.10052v1](http://arxiv.org/abs/2211.10052v1)
