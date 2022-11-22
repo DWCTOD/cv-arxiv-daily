@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|null|
+|**2022-11-21**|**SinFusion: Training Diffusion Models on a Single Image or Video**|Yaniv Nikankin et.al.|[2211.11743v1](http://arxiv.org/abs/2211.11743v1)|null|
+|**2022-11-21**|**A Simple Parametric Classification Baseline for Generalized Category Discovery**|Xin Wen et.al.|[2211.11727v1](http://arxiv.org/abs/2211.11727v1)|**[link](https://github.com/cvmi-lab/simgcd)**|
+|**2022-11-21**|**Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention**|Zineng Tang et.al.|[2211.11701v1](http://arxiv.org/abs/2211.11701v1)|**[link](https://github.com/zinengtang/perceiver_vl)**|
+|**2022-11-21**|**Learn to explain yourself, when you can: Equipping Concept Bottleneck Models with the ability to abstain on their concept predictions**|Joshua Lockhart et.al.|[2211.11690v1](http://arxiv.org/abs/2211.11690v1)|null|
+|**2022-11-21**|**Radon-based Image Reconstruction for MPI using a continuously rotating FFL**|Stephanie Blanke et.al.|[2211.11683v1](http://arxiv.org/abs/2211.11683v1)|null|
+|**2022-11-21**|**PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning**|Xiangyang Zhu et.al.|[2211.11682v1](http://arxiv.org/abs/2211.11682v1)|**[link](https://github.com/yangyangyang127/pointclip_v2)**|
+|**2022-11-21**|**Improved Touchless Respiratory Rate Sensing**|Petro Franchuk et.al.|[2211.11630v1](http://arxiv.org/abs/2211.11630v1)|null|
+|**2022-11-21**|**Plug and Play Active Learning for Object Detection**|Chenhongyi Yang et.al.|[2211.11612v1](http://arxiv.org/abs/2211.11612v1)|**[link](https://github.com/chenhongyiyang/ppal)**|
+|**2022-11-21**|**Deformable Voxel Grids for Shape Comparisons**|Raphaël Groscot et.al.|[2211.11609v1](http://arxiv.org/abs/2211.11609v1)|null|
 |**2022-11-18**|**CNeRV: Content-adaptive Neural Representation for Visual Data**|Hao Chen et.al.|[2211.10421v1](http://arxiv.org/abs/2211.10421v1)|null|
 |**2022-11-18**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388v1](http://arxiv.org/abs/2211.10388v1)|null|
 |**2022-11-18**|**Invariant Learning via Diffusion Dreamed Distribution Shifts**|Priyatham Kattakinda et.al.|[2211.10370v1](http://arxiv.org/abs/2211.10370v1)|null|
@@ -1169,6 +1179,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**The spin Hall effect of radiofrequency waves in magnetic-fusion devices**|Yichen Fu et.al.|[2211.11705v1](http://arxiv.org/abs/2211.11705v1)|null|
+|**2022-11-21**|**Timely Target Tracking in Cognitive Radar Networks**|William W. Howard et.al.|[2211.11587v1](http://arxiv.org/abs/2211.11587v1)|null|
+|**2022-11-21**|**TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis**|Yilan Zhang et.al.|[2211.11393v1](http://arxiv.org/abs/2211.11393v1)|null|
+|**2022-11-21**|**Self adaptive global-local feature enhancement for radiology report generation**|Yuhao Wang et.al.|[2211.11380v1](http://arxiv.org/abs/2211.11380v1)|null|
+|**2022-11-21**|**ElegantSeg: End-to-End Holistic Learning for Extra-Large Image Semantic Segmentation**|Wei Chen et.al.|[2211.11316v1](http://arxiv.org/abs/2211.11316v1)|null|
+|**2022-11-21**|**FlowLens: Seeing Beyond the FoV via Flow-guided Clip-Recurrent Transformer**|Hao Shi et.al.|[2211.11293v1](http://arxiv.org/abs/2211.11293v1)|**[link](https://github.com/masterhow/flowlens)**|
+|**2022-11-21**|**Intelligent Computing: The Latest Advances, Challenges and Future**|Shiqiang Zhu et.al.|[2211.11281v1](http://arxiv.org/abs/2211.11281v1)|null|
+|**2022-11-21**|**UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition**|Guimin Hu et.al.|[2211.11256v1](http://arxiv.org/abs/2211.11256v1)|**[link](https://github.com/lemei/unimse)**|
+|**2022-11-21**|**Label Mask AutoEncoder(L-MAE): A Pure Transformer Method to Augment Semantic Segmentation Datasets**|Jiaru Jia et.al.|[2211.11242v1](http://arxiv.org/abs/2211.11242v1)|null|
+|**2022-11-20**|**Hybrid Transformer Based Feature Fusion for Self-Supervised Monocular Depth Estimation**|Snehal Singh Tomar et.al.|[2211.11066v1](http://arxiv.org/abs/2211.11066v1)|null|
 |**2022-11-18**|**Adaptive De-noising of Photoacoustic Signal and Image based on Modified Kalman Filter**|Tianqu Hu et.al.|[2211.10262v1](http://arxiv.org/abs/2211.10262v1)|null|
 |**2022-11-18**|**Leveraging Multi-stream Information Fusion for Trajectory Prediction in Low-illumination Scenarios: A Multi-channel Graph Convolutional Approach**|Hailong Gong et.al.|[2211.10226v1](http://arxiv.org/abs/2211.10226v1)|**[link](https://github.com/tommygong08/msif)**|
 |**2022-11-18**|**A Nuclear-Based Diagnostic Scheme for Nonthermal Ion Spectrum in High Energy Density Plasmas Experiments**|K. Li et.al.|[2211.10175v1](http://arxiv.org/abs/2211.10175v1)|null|
