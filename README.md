@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-22**|**Instant Volumetric Head Avatars**|Wojciech Zielonka et.al.|[2211.12499v1](http://arxiv.org/abs/2211.12499v1)|null|
+|**2022-11-22**|**Touch and Go: Learning from Human-Collected Vision and Touch**|Fengyu Yang et.al.|[2211.12498v1](http://arxiv.org/abs/2211.12498v1)|null|
+|**2022-11-22**|**Videogenic: Video Highlights via Photogenic Moments**|David Chuan-En Lin et.al.|[2211.12493v1](http://arxiv.org/abs/2211.12493v1)|null|
+|**2022-11-22**|**VideoMap: Video Editing in Latent Space**|David Chuan-En Lin et.al.|[2211.12492v1](http://arxiv.org/abs/2211.12492v1)|null|
+|**2022-11-22**|**An Incremental Tensor Train Decomposition Algorithm**|Doruk Aksoy et.al.|[2211.12487v1](http://arxiv.org/abs/2211.12487v1)|null|
+|**2022-11-22**|**Adaptive Prototypical Networks**|Manas Gogoi et.al.|[2211.12479v1](http://arxiv.org/abs/2211.12479v1)|null|
+|**2022-11-22**|**A Neural-Network-Based Convex Regularizer for Image Reconstruction**|Alexis Goujon et.al.|[2211.12461v1](http://arxiv.org/abs/2211.12461v1)|null|
+|**2022-11-22**|**ISIM: Iterative Self-Improved Model for Weakly Supervised Segmentation**|Cenk Bircanoglu et.al.|[2211.12455v1](http://arxiv.org/abs/2211.12455v1)|null|
+|**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
+|**2022-11-22**|**X$^2$-VLM: All-In-One Pre-trained Model For Vision-Language Tasks**|Yan Zeng et.al.|[2211.12402v1](http://arxiv.org/abs/2211.12402v1)|**[link](https://github.com/zengyan-97/x2-vlm)**|
 |**2022-11-21**|**Visual Dexterity: In-hand Dexterous Manipulation from Depth**|Tao Chen et.al.|[2211.11744v1](http://arxiv.org/abs/2211.11744v1)|null|
 |**2022-11-21**|**SinFusion: Training Diffusion Models on a Single Image or Video**|Yaniv Nikankin et.al.|[2211.11743v1](http://arxiv.org/abs/2211.11743v1)|null|
 |**2022-11-21**|**A Simple Parametric Classification Baseline for Generalized Category Discovery**|Xin Wen et.al.|[2211.11727v1](http://arxiv.org/abs/2211.11727v1)|**[link](https://github.com/cvmi-lab/simgcd)**|
@@ -1179,6 +1189,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-22**|**Fermionic defects of topological phases and logical gates**|Ryohei Kobayashi et.al.|[2211.12394v1](http://arxiv.org/abs/2211.12394v1)|null|
+|**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
+|**2022-11-22**|**Breaking Free from Fusion Rule: A Fully Semantic-driven Infrared and Visible Image Fusion**|Yuhui Wu et.al.|[2211.12286v1](http://arxiv.org/abs/2211.12286v1)|null|
+|**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v1](http://arxiv.org/abs/2211.12244v1)|null|
+|**2022-11-22**|**Where Will Players Move Next? Dynamic Graphs and Hierarchical Fusion for Movement Forecasting in Badminton**|Kai-Shiang Chang et.al.|[2211.12217v1](http://arxiv.org/abs/2211.12217v1)|**[link](https://github.com/wywywang/coachai-projects)**|
+|**2022-11-22**|**Role of neutron transfer in the reaction mechanism of $^9$Be+$^{169}$Tm, $^{181}$Ta, $^{187}$Re and $^{197}$Au systems**|Prasanna M. et.al.|[2211.12113v1](http://arxiv.org/abs/2211.12113v1)|null|
+|**2022-11-22**|**ViFi-Loc: Multi-modal Pedestrian Localization using GAN with Camera-Phone Correspondences**|Hansi Liu et.al.|[2211.12021v1](http://arxiv.org/abs/2211.12021v1)|null|
+|**2022-11-22**|**Multimodal Data Augmentation for Visual-Infrared Person ReID with Corrupted Data**|Arthur Josi et.al.|[2211.11925v1](http://arxiv.org/abs/2211.11925v1)|null|
+|**2022-11-21**|**Real bird dataset with imprecise and uncertain values**|Constance Thierry et.al.|[2211.11809v1](http://arxiv.org/abs/2211.11809v1)|null|
 |**2022-11-21**|**The spin Hall effect of radiofrequency waves in magnetic-fusion devices**|Yichen Fu et.al.|[2211.11705v1](http://arxiv.org/abs/2211.11705v1)|null|
 |**2022-11-21**|**Timely Target Tracking in Cognitive Radar Networks**|William W. Howard et.al.|[2211.11587v1](http://arxiv.org/abs/2211.11587v1)|null|
 |**2022-11-21**|**TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis**|Yilan Zhang et.al.|[2211.11393v1](http://arxiv.org/abs/2211.11393v1)|null|
