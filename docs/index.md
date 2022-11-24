@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-23**|**Self-Supervised Learning based on Heat Equation**|Yinpeng Chen et.al.|[2211.13228v1](http://arxiv.org/abs/2211.13228v1)|null|
+|**2022-11-23**|**Learning to Imitate Object Interactions from Internet Videos**|Austin Patel et.al.|[2211.13225v1](http://arxiv.org/abs/2211.13225v1)|null|
+|**2022-11-23**|**SVFormer: Semi-supervised Video Transformer for Action Recognition**|Zhen Xing et.al.|[2211.13222v1](http://arxiv.org/abs/2211.13222v1)|**[link](https://github.com/chenhsing/svformer)**|
+|**2022-11-23**|**Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths**|Yingqing He et.al.|[2211.13221v1](http://arxiv.org/abs/2211.13221v1)|**[link](https://github.com/yingqinghe/lvdm)**|
+|**2022-11-23**|**Theory of topological defects and textures in two-dimensional quantum orders with spontaneous symmetry breaking**|Yan-Qi Wang et.al.|[2211.13207v1](http://arxiv.org/abs/2211.13207v1)|null|
+|**2022-11-23**|**ManVatar : Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**|Yuelang Xu et.al.|[2211.13206v1](http://arxiv.org/abs/2211.13206v1)|null|
+|**2022-11-23**|**ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation**|Sara Atito et.al.|[2211.13189v1](http://arxiv.org/abs/2211.13189v1)|null|
+|**2022-11-23**|**${\cal M}_{int}$ QCD -- ("Almost") First "Contact"**|Aalok Misra et.al.|[2211.13186v1](http://arxiv.org/abs/2211.13186v1)|null|
+|**2022-11-23**|**Classification of implication-closed ideals in certain rings of jets**|Charles Fefferman et.al.|[2211.13158v1](http://arxiv.org/abs/2211.13158v1)|null|
+|**2022-11-23**|**Physics-Informed Multi-Stage Deep Learning Framework Development for Digital Twin-Centred State-Based Reactor Power Prediction**|James Daniell et.al.|[2211.13157v1](http://arxiv.org/abs/2211.13157v1)|null|
 |**2022-11-22**|**Instant Volumetric Head Avatars**|Wojciech Zielonka et.al.|[2211.12499v1](http://arxiv.org/abs/2211.12499v1)|null|
 |**2022-11-22**|**Touch and Go: Learning from Human-Collected Vision and Touch**|Fengyu Yang et.al.|[2211.12498v1](http://arxiv.org/abs/2211.12498v1)|null|
 |**2022-11-22**|**Videogenic: Video Highlights via Photogenic Moments**|David Chuan-En Lin et.al.|[2211.12493v1](http://arxiv.org/abs/2211.12493v1)|null|
@@ -1193,10 +1203,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-23**|**Theory of topological defects and textures in two-dimensional quantum orders with spontaneous symmetry breaking**|Yan-Qi Wang et.al.|[2211.13207v1](http://arxiv.org/abs/2211.13207v1)|null|
+|**2022-11-23**|**Improving Visual-textual Sentiment Analysis by Fusing Expert Features**|Junyu Chen et.al.|[2211.12981v1](http://arxiv.org/abs/2211.12981v1)|null|
+|**2022-11-23**|**MECCH: Metapath Context Convolution-based Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2211.12792v1](http://arxiv.org/abs/2211.12792v1)|**[link](https://github.com/cynricfu/mecch)**|
+|**2022-11-23**|**Research on Data Fusion Algorithm Based on Deep Learning in Target Tracking**|Huihui Wu et.al.|[2211.12776v1](http://arxiv.org/abs/2211.12776v1)|null|
+|**2022-11-22**|**A Novel Center-based Deep Contrastive Metric Learning Method for the Detection of Polymicrogyria in Pediatric Brain MRI**|Lingfeng Zhang et.al.|[2211.12565v1](http://arxiv.org/abs/2211.12565v1)|**[link](https://github.com/richardchangca/deep-contrastive-metric-learning-method-to-detect-polymicrogyria-in-pediatric-brain-mri)**|
 |**2022-11-22**|**Fermionic defects of topological phases and logical gates**|Ryohei Kobayashi et.al.|[2211.12394v1](http://arxiv.org/abs/2211.12394v1)|null|
 |**2022-11-22**|**LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors**|Xiao Han et.al.|[2211.12371v1](http://arxiv.org/abs/2211.12371v1)|null|
 |**2022-11-22**|**Breaking Free from Fusion Rule: A Fully Semantic-driven Infrared and Visible Image Fusion**|Yuhui Wu et.al.|[2211.12286v1](http://arxiv.org/abs/2211.12286v1)|null|
-|**2022-11-22**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v1](http://arxiv.org/abs/2211.12244v1)|null|
+|**2022-11-23**|**FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**|Kuanxu Hou et.al.|[2211.12244v2](http://arxiv.org/abs/2211.12244v2)|null|
 |**2022-11-22**|**Where Will Players Move Next? Dynamic Graphs and Hierarchical Fusion for Movement Forecasting in Badminton**|Kai-Shiang Chang et.al.|[2211.12217v1](http://arxiv.org/abs/2211.12217v1)|**[link](https://github.com/wywywang/coachai-projects)**|
 |**2022-11-22**|**Role of neutron transfer in the reaction mechanism of $^9$Be+$^{169}$Tm, $^{181}$Ta, $^{187}$Re and $^{197}$Au systems**|Prasanna M. et.al.|[2211.12113v1](http://arxiv.org/abs/2211.12113v1)|null|
 |**2022-11-22**|**ViFi-Loc: Multi-modal Pedestrian Localization using GAN with Camera-Phone Correspondences**|Hansi Liu et.al.|[2211.12021v1](http://arxiv.org/abs/2211.12021v1)|null|
