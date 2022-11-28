@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-25**|**Forecasting Actions and Characteristic 3D Poses**|Christian Diller et.al.|[2211.14309v1](http://arxiv.org/abs/2211.14309v1)|null|
+|**2022-11-25**|**WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction**|Guillaume Le Moing et.al.|[2211.14308v1](http://arxiv.org/abs/2211.14308v1)|null|
+|**2022-11-25**|**RUST: Latent Neural Scene Representations from Unposed Imagery**|Mehdi S. M. Sajjadi et.al.|[2211.14306v1](http://arxiv.org/abs/2211.14306v1)|null|
+|**2022-11-25**|**PIP: Positional-encoding Image Prior**|Nimrod Shabtay et.al.|[2211.14298v1](http://arxiv.org/abs/2211.14298v1)|**[link](https://github.com/nimrodshabtay/positional-encoding-image-prior)**|
+|**2022-11-25**|**Pixels Together Strong: Segmenting Unknown Regions Rejected by All**|Nazir Nayal et.al.|[2211.14293v1](http://arxiv.org/abs/2211.14293v1)|null|
+|**2022-11-25**|**Optimal plane curves of degree $q-1$ over a finite field**|Walteir de Paula Ferreira et.al.|[2211.14288v1](http://arxiv.org/abs/2211.14288v1)|null|
+|**2022-11-25**|**Domain generalization in fetal brain MRI segmentation \\with multi-reconstruction augmentation**|Priscille de Dumast et.al.|[2211.14282v1](http://arxiv.org/abs/2211.14282v1)|null|
+|**2022-11-25**|**Multiverse: Multilingual Evidence for Fake News Detection**|Daryna Dementieva et.al.|[2211.14279v1](http://arxiv.org/abs/2211.14279v1)|**[link](https://github.com/s-nlp/multilingual-fake-news)**|
+|**2022-11-25**|**Simulation-based parameter optimization for fetal brain MRI super-resolution reconstruction**|Priscille de Dumast et.al.|[2211.14274v1](http://arxiv.org/abs/2211.14274v1)|null|
+|**2022-11-25**|**Coupled CP tensor decomposition with shared and distinct components for multi-task fMRI data fusion**|Ricardo Augusto Borsoi et.al.|[2211.14253v1](http://arxiv.org/abs/2211.14253v1)|null|
 |**2022-11-23**|**Self-Supervised Learning based on Heat Equation**|Yinpeng Chen et.al.|[2211.13228v1](http://arxiv.org/abs/2211.13228v1)|null|
 |**2022-11-23**|**Learning to Imitate Object Interactions from Internet Videos**|Austin Patel et.al.|[2211.13225v1](http://arxiv.org/abs/2211.13225v1)|null|
 |**2022-11-23**|**SVFormer: Semi-supervised Video Transformer for Action Recognition**|Zhen Xing et.al.|[2211.13222v1](http://arxiv.org/abs/2211.13222v1)|**[link](https://github.com/chenhsing/svformer)**|
@@ -1199,6 +1209,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-25**|**Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**|Leif Van Holland et.al.|[2211.14310v1](http://arxiv.org/abs/2211.14310v1)|null|
+|**2022-11-25**|**Coupled CP tensor decomposition with shared and distinct components for multi-task fMRI data fusion**|Ricardo Augusto Borsoi et.al.|[2211.14253v1](http://arxiv.org/abs/2211.14253v1)|null|
+|**2022-11-25**|**DoubleU-NetPlus: A Novel Attention and Context Guided Dual U-Net with Multi-Scale Residual Feature Fusion Network for Semantic Segmentation of Medical Images**|Md. Rayhan Ahmed et.al.|[2211.14235v1](http://arxiv.org/abs/2211.14235v1)|null|
+|**2022-11-25**|**MCFFA-Net: Multi-Contextual Feature Fusion and Attention Guided Network for Apple Foliar Disease Classification**|Md. Rayhan Ahmed et.al.|[2211.14175v1](http://arxiv.org/abs/2211.14175v1)|null|
+|**2022-11-25**|**Task-Oriented Communication for Edge Video Analytics**|Jiawei Shao et.al.|[2211.14049v1](http://arxiv.org/abs/2211.14049v1)|null|
+|**2022-11-25**|**Electron acceleration at supernova remnants**|Artem Bohdan et.al.|[2211.13992v1](http://arxiv.org/abs/2211.13992v1)|null|
+|**2022-11-25**|**Mutual Guidance and Residual Integration for Image Enhancement**|Kun Zhou et.al.|[2211.13919v1](http://arxiv.org/abs/2211.13919v1)|null|
+|**2022-11-25**|**Towards Good Practices for Missing Modality Robust Action Recognition**|Sangmin Woo et.al.|[2211.13916v1](http://arxiv.org/abs/2211.13916v1)|**[link](https://github.com/sangminwoo/actionmae)**|
+|**2022-11-24**|**On the Linguistic and Computational Requirements for Creating Face-to-Face Multimodal Human-Machine Interaction**|João Ranhel et.al.|[2211.13804v1](http://arxiv.org/abs/2211.13804v1)|null|
+|**2022-11-24**|**CasFusionNet: A Cascaded Network for Point Cloud Semantic Scene Completion by Dense Feature Fusion**|Jinfeng Xu et.al.|[2211.13702v1](http://arxiv.org/abs/2211.13702v1)|**[link](https://github.com/jinfengx/casfusionnet)**|
 |**2022-11-23**|**Theory of topological defects and textures in two-dimensional quantum orders with spontaneous symmetry breaking**|Yan-Qi Wang et.al.|[2211.13207v1](http://arxiv.org/abs/2211.13207v1)|null|
 |**2022-11-23**|**Improving Visual-textual Sentiment Analysis by Fusing Expert Features**|Junyu Chen et.al.|[2211.12981v1](http://arxiv.org/abs/2211.12981v1)|null|
 |**2022-11-23**|**MECCH: Metapath Context Convolution-based Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2211.12792v1](http://arxiv.org/abs/2211.12792v1)|**[link](https://github.com/cynricfu/mecch)**|
