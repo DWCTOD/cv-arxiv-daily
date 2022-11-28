@@ -17,7 +17,7 @@ layout: default
 |**2022-11-23**|**ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation**|Sara Atito et.al.|[2211.13189v1](http://arxiv.org/abs/2211.13189v1)|null|
 |**2022-11-23**|**${\cal M}_{int}$ QCD -- ("Almost") First "Contact"**|Aalok Misra et.al.|[2211.13186v1](http://arxiv.org/abs/2211.13186v1)|null|
 |**2022-11-23**|**Classification of implication-closed ideals in certain rings of jets**|Charles Fefferman et.al.|[2211.13158v1](http://arxiv.org/abs/2211.13158v1)|null|
-|**2022-11-23**|**Physics-Informed Multi-Stage Deep Learning Framework Development for Digital Twin-Centred State-Based Reactor Power Prediction**|James Daniell et.al.|[2211.13157v1](http://arxiv.org/abs/2211.13157v1)|null|
+|**2022-11-24**|**Physics-Informed Multi-Stage Deep Learning Framework Development for Digital Twin-Centred State-Based Reactor Power Prediction**|James Daniell et.al.|[2211.13157v2](http://arxiv.org/abs/2211.13157v2)|null|
 |**2022-11-22**|**Instant Volumetric Head Avatars**|Wojciech Zielonka et.al.|[2211.12499v1](http://arxiv.org/abs/2211.12499v1)|null|
 |**2022-11-22**|**Touch and Go: Learning from Human-Collected Vision and Touch**|Fengyu Yang et.al.|[2211.12498v1](http://arxiv.org/abs/2211.12498v1)|null|
 |**2022-11-22**|**Videogenic: Video Highlights via Photogenic Moments**|David Chuan-En Lin et.al.|[2211.12493v1](http://arxiv.org/abs/2211.12493v1)|null|
