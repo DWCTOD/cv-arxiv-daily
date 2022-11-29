@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-11-28, **Separating the blue cloud and the red sequence using Otsu's method for image segmentation**, Biswajit Pandey et.al., Paper: [http://arxiv.org/abs/2211.15642v1](http://arxiv.org/abs/2211.15642v1)
+- 2022-11-28, **A Boosting Approach to Constructing an Ensemble Stack**, Zhilei Zhou et.al., Paper: [http://arxiv.org/abs/2211.15621v1](http://arxiv.org/abs/2211.15621v1)
+- 2022-11-28, **Weight Predictor Network with Feature Selection for Small Sample Tabular Biomedical Data**, Andrei Margeloiu et.al., Paper: [http://arxiv.org/abs/2211.15616v1](http://arxiv.org/abs/2211.15616v1)
+- 2022-11-28, **Mixed-dimensional moiré systems of graphitic thin films with a twisted interface**, Dacen Waters et.al., Paper: [http://arxiv.org/abs/2211.15606v1](http://arxiv.org/abs/2211.15606v1)
+- 2022-11-28, **Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation**, Sai Shashank Kalakonda et.al., Paper: [http://arxiv.org/abs/2211.15603v1](http://arxiv.org/abs/2211.15603v1)
+- 2022-11-28, **Lightning Fast Video Anomaly Detection via Adversarial Knowledge Distillation**, Nicolae-Catalin Ristea et.al., Paper: [http://arxiv.org/abs/2211.15597v1](http://arxiv.org/abs/2211.15597v1)
+- 2022-11-28, **GECAM Localization of High Energy Transients and the Systematic Error**, Yi Zhao et.al., Paper: [http://arxiv.org/abs/2211.15570v1](http://arxiv.org/abs/2211.15570v1)
+- 2022-11-28, **A Critical Analysis of Classifier Selection in Learned Bloom Filters**, Dario Malchiodi et.al., Paper: [http://arxiv.org/abs/2211.15565v1](http://arxiv.org/abs/2211.15565v1), Code: **[https://github.com/raimondid/lbf_adabf_experiment](https://github.com/raimondid/lbf_adabf_experiment)**
+- 2022-11-28, **Double Data Piling for Heterogeneous Covariance Models**, Taehyun Kim et.al., Paper: [http://arxiv.org/abs/2211.15562v1](http://arxiv.org/abs/2211.15562v1)
+- 2022-11-28, **Graph Neural Networks for Breast Cancer Data Integration**, Teodora Reu et.al., Paper: [http://arxiv.org/abs/2211.15561v1](http://arxiv.org/abs/2211.15561v1)
 - 2022-11-25, **Forecasting Actions and Characteristic 3D Poses**, Christian Diller et.al., Paper: [http://arxiv.org/abs/2211.14309v1](http://arxiv.org/abs/2211.14309v1)
 - 2022-11-25, **WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction**, Guillaume Le Moing et.al., Paper: [http://arxiv.org/abs/2211.14308v1](http://arxiv.org/abs/2211.14308v1)
 - 2022-11-25, **RUST: Latent Neural Scene Representations from Unposed Imagery**, Mehdi S. M. Sajjadi et.al., Paper: [http://arxiv.org/abs/2211.14306v1](http://arxiv.org/abs/2211.14306v1)
@@ -1205,6 +1215,16 @@
 
 ## MultiModal
 
+- 2022-11-28, **SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2211.15656v1](http://arxiv.org/abs/2211.15656v1), Code: **[https://github.com/haomo-ai/superfusion](https://github.com/haomo-ai/superfusion)**
+- 2022-11-28, **Active volume: An architecture for efficient fault-tolerant quantum computers with limited non-local connections**, Daniel Litinski et.al., Paper: [http://arxiv.org/abs/2211.15465v1](http://arxiv.org/abs/2211.15465v1)
+- 2022-11-28, **Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class-Imbalanced Semantic Segmentation**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2211.15066v1](http://arxiv.org/abs/2211.15066v1)
+- 2022-11-28, **Subgroup analysis for the functional linear model**, Yifan Sun et.al., Paper: [http://arxiv.org/abs/2211.15051v1](http://arxiv.org/abs/2211.15051v1)
+- 2022-11-28, **Renmin University of China at TRECVID 2022: Improving Video Search by Feature Fusion and Negation Understanding**, Xirong Li et.al., Paper: [http://arxiv.org/abs/2211.15039v1](http://arxiv.org/abs/2211.15039v1)
+- 2022-11-27, **Improved Quasi-Recurrent Neural Network for Hyperspectral Image Denoising**, Zeqiang Lai et.al., Paper: [http://arxiv.org/abs/2211.14811v1](http://arxiv.org/abs/2211.14811v1)
+- 2022-11-27, **Rethinking Data Augmentation for Single-source Domain Generalization in Medical Image Segmentation**, Zixian Su et.al., Paper: [http://arxiv.org/abs/2211.14805v1](http://arxiv.org/abs/2211.14805v1), Code: **[https://github.com/kaiseem/slaug](https://github.com/kaiseem/slaug)**
+- 2022-11-27, **Architecture, Protocols, and Algorithms for Location-Aware Services in Beyond 5G Networks**, Peter Hammarberg et.al., Paper: [http://arxiv.org/abs/2211.14781v1](http://arxiv.org/abs/2211.14781v1)
+- 2022-11-27, **Alignment-Enriched Tuning for Patch-Level Pre-trained Document Image Models**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2211.14777v1](http://arxiv.org/abs/2211.14777v1), Code: **[https://github.com/maehcm/aet](https://github.com/maehcm/aet)**
+- 2022-11-27, **A novel multimodal dynamic fusion network for disfluency detection in spoken utterances**, Sreyan Ghosh et.al., Paper: [http://arxiv.org/abs/2211.14700v1](http://arxiv.org/abs/2211.14700v1)
 - 2022-11-25, **Efficient 3D Reconstruction, Streaming and Visualization of Static and Dynamic Scene Parts for Multi-client Live-telepresence in Large-scale Environments**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2211.14310v1](http://arxiv.org/abs/2211.14310v1)
 - 2022-11-25, **Coupled CP tensor decomposition with shared and distinct components for multi-task fMRI data fusion**, Ricardo Augusto Borsoi et.al., Paper: [http://arxiv.org/abs/2211.14253v1](http://arxiv.org/abs/2211.14253v1)
 - 2022-11-25, **DoubleU-NetPlus: A Novel Attention and Context Guided Dual U-Net with Multi-Scale Residual Feature Fusion Network for Semantic Segmentation of Medical Images**, Md. Rayhan Ahmed et.al., Paper: [http://arxiv.org/abs/2211.14235v1](http://arxiv.org/abs/2211.14235v1)
