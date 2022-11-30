@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-29**|**Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**|Nataniel Ruiz et.al.|[2211.16499v1](http://arxiv.org/abs/2211.16499v1)|null|
+|**2022-11-29**|**TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages**|Anirudh Srinivasan et.al.|[2211.16496v1](http://arxiv.org/abs/2211.16496v1)|**[link](https://github.com/genius1237/tydip)**|
+|**2022-11-29**|**Identifying the physical origin of gamma-ray bursts with supervised machine learning**|Jia-Wei Luo et.al.|[2211.16451v1](http://arxiv.org/abs/2211.16451v1)|null|
+|**2022-11-29**|**A quantum collisional classifier driven by information reservoir**|Ufuk Korkmaz et.al.|[2211.16423v1](http://arxiv.org/abs/2211.16423v1)|null|
+|**2022-11-29**|**RGB no more: Minimally-decoded JPEG Vision Transformers**|Jeongsoo Park et.al.|[2211.16421v1](http://arxiv.org/abs/2211.16421v1)|null|
+|**2022-11-29**|**Self-Supervised Mental Disorder Classifiers via Time Reversal**|Zafar Iqbal et.al.|[2211.16398v1](http://arxiv.org/abs/2211.16398v1)|null|
+|**2022-11-29**|**POLCOVID: a multicenter multiclass chest X-ray database (Poland, 2020-2021)**|Aleksandra Suwalska et.al.|[2211.16359v1](http://arxiv.org/abs/2211.16359v1)|null|
+|**2022-11-29**|**Real-time Blind Deblurring Based on Lightweight Deep-Wiener-Network**|Runjia Li et.al.|[2211.16356v1](http://arxiv.org/abs/2211.16356v1)|null|
+|**2022-11-29**|**BARTSmiles: Generative Masked Language Models for Molecular Representations**|Gayane Chilingaryan et.al.|[2211.16349v1](http://arxiv.org/abs/2211.16349v1)|**[link](https://github.com/yerevann/bartsmiles)**|
+|**2022-11-29**|**A validation study of normoglycemia and dysglycemia indices as a diabetes risk model**|Paola Vargas et.al.|[2211.16348v1](http://arxiv.org/abs/2211.16348v1)|null|
 |**2022-11-28**|**Separating the blue cloud and the red sequence using Otsu's method for image segmentation**|Biswajit Pandey et.al.|[2211.15642v1](http://arxiv.org/abs/2211.15642v1)|null|
 |**2022-11-28**|**A Boosting Approach to Constructing an Ensemble Stack**|Zhilei Zhou et.al.|[2211.15621v1](http://arxiv.org/abs/2211.15621v1)|null|
 |**2022-11-28**|**Weight Predictor Network with Feature Selection for Small Sample Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.15616v1](http://arxiv.org/abs/2211.15616v1)|**[link](https://github.com/andreimargeloiu/wpfs)**|
@@ -1223,9 +1233,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-29**|**Effect of the build orientation on mechanical and electrical properties of pure Cu fabricated by E-PBF**|Alizée Thomas et.al.|[2211.16140v1](http://arxiv.org/abs/2211.16140v1)|null|
+|**2022-11-29**|**Dependency-aware Self-training for Entity Alignment**|Bing Liu et.al.|[2211.16101v1](http://arxiv.org/abs/2211.16101v1)|**[link](https://github.com/uqbingliu/stea)**|
+|**2022-11-29**|**A Decentralized Framework for Kernel PCA with Projection Consensus Constraints**|Fan He et.al.|[2211.15953v1](http://arxiv.org/abs/2211.15953v1)|null|
+|**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938v1](http://arxiv.org/abs/2211.15938v1)|null|
+|**2022-11-29**|**Colored Bosonic Models and Matrix Coefficients**|Daniel Bump et.al.|[2211.15850v1](http://arxiv.org/abs/2211.15850v1)|null|
 |**2022-11-28**|**SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**|Hao Dong et.al.|[2211.15656v1](http://arxiv.org/abs/2211.15656v1)|**[link](https://github.com/haomo-ai/superfusion)**|
 |**2022-11-28**|**Active volume: An architecture for efficient fault-tolerant quantum computers with limited non-local connections**|Daniel Litinski et.al.|[2211.15465v1](http://arxiv.org/abs/2211.15465v1)|null|
-|**2022-11-28**|**Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class-Imbalanced Semantic Segmentation**|Kangcheng Liu et.al.|[2211.15066v1](http://arxiv.org/abs/2211.15066v1)|null|
+|**2022-11-28**|**Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class-Imbalanced Semantic Segmentation**|Kangcheng Liu et.al.|[2211.15066v1](http://arxiv.org/abs/2211.15066v1)|**[link](https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection)**|
 |**2022-11-28**|**Subgroup analysis for the functional linear model**|Yifan Sun et.al.|[2211.15051v1](http://arxiv.org/abs/2211.15051v1)|null|
 |**2022-11-28**|**Renmin University of China at TRECVID 2022: Improving Video Search by Feature Fusion and Negation Understanding**|Xirong Li et.al.|[2211.15039v1](http://arxiv.org/abs/2211.15039v1)|null|
 |**2022-11-27**|**Improved Quasi-Recurrent Neural Network for Hyperspectral Image Denoising**|Zeqiang Lai et.al.|[2211.14811v1](http://arxiv.org/abs/2211.14811v1)|null|
