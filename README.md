@@ -1,4 +1,4 @@
-## Updated on 2022.11.29
+## Updated on 2022.11.30
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2022-11-28**|**Separating the blue cloud and the red sequence using Otsu's method for image segmentation**|Biswajit Pandey et.al.|[2211.15642v1](http://arxiv.org/abs/2211.15642v1)|null|
 |**2022-11-28**|**A Boosting Approach to Constructing an Ensemble Stack**|Zhilei Zhou et.al.|[2211.15621v1](http://arxiv.org/abs/2211.15621v1)|null|
-|**2022-11-28**|**Weight Predictor Network with Feature Selection for Small Sample Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.15616v1](http://arxiv.org/abs/2211.15616v1)|null|
+|**2022-11-28**|**Weight Predictor Network with Feature Selection for Small Sample Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.15616v1](http://arxiv.org/abs/2211.15616v1)|**[link](https://github.com/andreimargeloiu/wpfs)**|
 |**2022-11-28**|**Mixed-dimensional moiré systems of graphitic thin films with a twisted interface**|Dacen Waters et.al.|[2211.15606v1](http://arxiv.org/abs/2211.15606v1)|null|
 |**2022-11-28**|**Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation**|Sai Shashank Kalakonda et.al.|[2211.15603v1](http://arxiv.org/abs/2211.15603v1)|null|
 |**2022-11-28**|**Lightning Fast Video Anomaly Detection via Adversarial Knowledge Distillation**|Nicolae-Catalin Ristea et.al.|[2211.15597v1](http://arxiv.org/abs/2211.15597v1)|null|
