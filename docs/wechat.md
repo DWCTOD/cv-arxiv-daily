@@ -1,4 +1,4 @@
-> Updated on 2022.11.30
+> Updated on 2022.12.01
 
 ## Video_Classification
 
@@ -1233,7 +1233,7 @@
 - 2022-11-28, **SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2211.15656v1](http://arxiv.org/abs/2211.15656v1), Code: **[https://github.com/haomo-ai/superfusion](https://github.com/haomo-ai/superfusion)**
 - 2022-11-28, **Active volume: An architecture for efficient fault-tolerant quantum computers with limited non-local connections**, Daniel Litinski et.al., Paper: [http://arxiv.org/abs/2211.15465v1](http://arxiv.org/abs/2211.15465v1)
 - 2022-11-28, **Semi-Supervised Confidence-Level-based Contrastive Discrimination for Class-Imbalanced Semantic Segmentation**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2211.15066v1](http://arxiv.org/abs/2211.15066v1), Code: **[https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection](https://github.com/KangchengLiu/Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspection)**
-- 2022-11-28, **Subgroup analysis for the functional linear model**, Yifan Sun et.al., Paper: [http://arxiv.org/abs/2211.15051v1](http://arxiv.org/abs/2211.15051v1)
+- 2022-11-28, **Subgroup analysis for the functional linear model**, Yifan Sun et.al., Paper: [http://arxiv.org/abs/2211.15051v1](http://arxiv.org/abs/2211.15051v1), Code: **[https://github.com/breakerkun/flm-clustering](https://github.com/breakerkun/flm-clustering)**
 - 2022-11-28, **Renmin University of China at TRECVID 2022: Improving Video Search by Feature Fusion and Negation Understanding**, Xirong Li et.al., Paper: [http://arxiv.org/abs/2211.15039v1](http://arxiv.org/abs/2211.15039v1)
 - 2022-11-27, **Improved Quasi-Recurrent Neural Network for Hyperspectral Image Denoising**, Zeqiang Lai et.al., Paper: [http://arxiv.org/abs/2211.14811v1](http://arxiv.org/abs/2211.14811v1)
 - 2022-11-27, **Rethinking Data Augmentation for Single-source Domain Generalization in Medical Image Segmentation**, Zixian Su et.al., Paper: [http://arxiv.org/abs/2211.14805v1](http://arxiv.org/abs/2211.14805v1), Code: **[https://github.com/kaiseem/slaug](https://github.com/kaiseem/slaug)**
