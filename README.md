@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-30**|**Pex: Memory-efficient Microcontroller Deep Learning through Partial Execution**|Edgar Liberis et.al.|[2211.17246v1](http://arxiv.org/abs/2211.17246v1)|null|
+|**2022-11-30**|**Gaia Data Release 3: All-sky classification of 12.4 million variable sources into 25 classes**|Lorenzo Rimoldini et.al.|[2211.17238v1](http://arxiv.org/abs/2211.17238v1)|null|
+|**2022-11-30**|**AIO-P: Expanding Neural Performance Predictors Beyond Image Classification**|Keith G. Mills et.al.|[2211.17228v1](http://arxiv.org/abs/2211.17228v1)|**[link](https://github.com/Ascend-Research/AIO-P)**|
+|**2022-11-30**|**Topological Data Analysis for Speech Processing**|Eduard Tulchinskii et.al.|[2211.17223v1](http://arxiv.org/abs/2211.17223v1)|null|
+|**2022-11-30**|**Average Path Length: Sparsification of Nonlinearties Creates Surprisingly Shallow Networks**|Christian H. X. Ali Mehmeti-Göpel et.al.|[2211.17180v1](http://arxiv.org/abs/2211.17180v1)|null|
+|**2022-11-30**|**Optimizing Explanations by Network Canonization and Hyperparameter Search**|Frederik Pahde et.al.|[2211.17174v1](http://arxiv.org/abs/2211.17174v1)|null|
+|**2022-11-30**|**Non-principal T-duality, generalized complex geometry and blow-ups**|Gil Cavalcanti et.al.|[2211.17173v1](http://arxiv.org/abs/2211.17173v1)|null|
+|**2022-11-30**|**Misogyny classification of German newspaper forum comments**|Johann Petrak et.al.|[2211.17163v1](http://arxiv.org/abs/2211.17163v1)|null|
+|**2022-11-30**|**Bi-directional Feature Reconstruction Network for Fine-Grained Few-Shot Image Classification**|Jijie Wu et.al.|[2211.17161v1](http://arxiv.org/abs/2211.17161v1)|**[link](https://github.com/pris-cv/bi-frn)**|
+|**2022-11-30**|**Refinement of Higher-Rank Graph Reduction**|S. Joseph Lippert et.al.|[2211.17156v1](http://arxiv.org/abs/2211.17156v1)|null|
 |**2022-11-29**|**Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing**|Nataniel Ruiz et.al.|[2211.16499v1](http://arxiv.org/abs/2211.16499v1)|null|
 |**2022-11-29**|**TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages**|Anirudh Srinivasan et.al.|[2211.16496v1](http://arxiv.org/abs/2211.16496v1)|**[link](https://github.com/genius1237/tydip)**|
 |**2022-11-29**|**Identifying the physical origin of gamma-ray bursts with supervised machine learning**|Jia-Wei Luo et.al.|[2211.16451v1](http://arxiv.org/abs/2211.16451v1)|null|
@@ -1229,6 +1239,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-30**|**Wave-Supported Hybrid Fast-Thermal p-$^{11}$B Fusion**|E. J. Kolmes et.al.|[2211.17143v1](http://arxiv.org/abs/2211.17143v1)|null|
+|**2022-11-30**|**Rendezvous in Time: An Attention-based Temporal Fusion approach for Surgical Triplet Recognition**|Saurav Sharma et.al.|[2211.16963v1](http://arxiv.org/abs/2211.16963v1)|null|
+|**2022-11-30**|**Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR**|Peishan Cong et.al.|[2211.16951v1](http://arxiv.org/abs/2211.16951v1)|null|
+|**2022-11-30**|**Two-branch Multi-scale Deep Neural Network for Generalized Document Recapture Attack Detection**|Jiaxing Li et.al.|[2211.16786v1](http://arxiv.org/abs/2211.16786v1)|null|
+|**2022-11-30**|**MSV Challenge 2022: NPU-HC Speaker Verification System for Low-resource Indian Languages**|Yue Li et.al.|[2211.16694v1](http://arxiv.org/abs/2211.16694v1)|null|
+|**2022-11-30**|**Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds**|Shoujie Li et.al.|[2211.16693v1](http://arxiv.org/abs/2211.16693v1)|null|
+|**2022-11-30**|**Biomarker-guided heterogeneity analysis of genetic regulations via multivariate sparse fusion**|Sanguo Zhang et.al.|[2211.16681v1](http://arxiv.org/abs/2211.16681v1)|null|
+|**2022-11-29**|**Hierarchical Transformer for Survival Prediction Using Multimodality Whole Slide Images and Genomics**|Chunyuan Li et.al.|[2211.16632v1](http://arxiv.org/abs/2211.16632v1)|null|
+|**2022-11-29**|**DINER: Depth-aware Image-based NEural Radiance fields**|Malte Prinzler et.al.|[2211.16630v1](http://arxiv.org/abs/2211.16630v1)|null|
 |**2022-11-29**|**Effect of the build orientation on mechanical and electrical properties of pure Cu fabricated by E-PBF**|Alizée Thomas et.al.|[2211.16140v1](http://arxiv.org/abs/2211.16140v1)|null|
 |**2022-11-29**|**Dependency-aware Self-training for Entity Alignment**|Bing Liu et.al.|[2211.16101v1](http://arxiv.org/abs/2211.16101v1)|**[link](https://github.com/uqbingliu/stea)**|
 |**2022-11-29**|**A Decentralized Framework for Kernel PCA with Projection Consensus Constraints**|Fan He et.al.|[2211.15953v1](http://arxiv.org/abs/2211.15953v1)|null|
