@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-01**|**Attribute-based Representations for Accurate and Interpretable Video Anomaly Detection**|Tal Reiss et.al.|[2212.00789v1](http://arxiv.org/abs/2212.00789v1)|**[link](https://github.com/talreiss/accurate-interpretable-vad)**|
+|**2022-12-01**|**Improving Zero-Shot Models with Label Distribution Priors**|Jonathan Kahana et.al.|[2212.00784v1](http://arxiv.org/abs/2212.00784v1)|**[link](https://github.com/jonkahana/clippr)**|
+|**2022-12-01**|**ResFormer: Scaling ViTs with Multi-Resolution Training**|Rui Tian et.al.|[2212.00776v1](http://arxiv.org/abs/2212.00776v1)|null|
+|**2022-12-01**|**FakeOut: Leveraging Out-of-domain Self-supervision for Multi-modal Video Deepfake Detection**|Gil Knafo et.al.|[2212.00773v1](http://arxiv.org/abs/2212.00773v1)|**[link](https://github.com/gilikn/fakeout)**|
+|**2022-12-01**|**Nonlinear and Machine Learning Analyses on High-Density EEG data of Math Experts and Novices**|Hanna Poikonen et.al.|[2212.00712v1](http://arxiv.org/abs/2212.00712v1)|null|
+|**2022-12-01**|**High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization**|Jiahui Cheng et.al.|[2212.00700v1](http://arxiv.org/abs/2212.00700v1)|null|
+|**2022-12-01**|**3D-EPI Blip-Up/Down Acquisition (BUDA) with CAIPI and Joint Hankel Structured Low-Rank Reconstruction for Rapid Distortion-Free High-Resolution T2* Mapping**|Zhifeng Chen et.al.|[2212.00687v1](http://arxiv.org/abs/2212.00687v1)|null|
+|**2022-12-01**|**Adapted Multimodal BERT with Layer-wise Fusion for Sentiment Analysis**|Odysseas S. Chlapanis et.al.|[2212.00678v1](http://arxiv.org/abs/2212.00678v1)|null|
+|**2022-12-01**|**Signal processing with optical quadratic random sketches**|Rémi Delogne et.al.|[2212.00660v1](http://arxiv.org/abs/2212.00660v1)|null|
+|**2022-12-01**|**Hyperbolic Contrastive Learning for Visual Representations beyond Objects**|Songwei Ge et.al.|[2212.00653v1](http://arxiv.org/abs/2212.00653v1)|**[link](https://github.com/shlokk/hcl)**|
 |**2022-11-30**|**Pex: Memory-efficient Microcontroller Deep Learning through Partial Execution**|Edgar Liberis et.al.|[2211.17246v1](http://arxiv.org/abs/2211.17246v1)|null|
 |**2022-11-30**|**Gaia Data Release 3: All-sky classification of 12.4 million variable sources into 25 classes**|Lorenzo Rimoldini et.al.|[2211.17238v1](http://arxiv.org/abs/2211.17238v1)|null|
 |**2022-11-30**|**AIO-P: Expanding Neural Performance Predictors Beyond Image Classification**|Keith G. Mills et.al.|[2211.17228v1](http://arxiv.org/abs/2211.17228v1)|**[link](https://github.com/Ascend-Research/AIO-P)**|
@@ -1243,6 +1253,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-01**|**SMEFT truncation effects in Higgs boson pair production at NLO QCD**|Gudrun Heinrich et.al.|[2212.00711v1](http://arxiv.org/abs/2212.00711v1)|null|
+|**2022-12-01**|**Adapted Multimodal BERT with Layer-wise Fusion for Sentiment Analysis**|Odysseas S. Chlapanis et.al.|[2212.00678v1](http://arxiv.org/abs/2212.00678v1)|null|
+|**2022-12-01**|**Multispecies structure-preserving particle discretization of the Landau collision operator**|Filippo Zonta et.al.|[2212.00663v1](http://arxiv.org/abs/2212.00663v1)|null|
+|**2022-12-01**|**Understanding the $0^{++}$ and $2^{++}$ charmonium(-like) states near 3.9 GeV**|Teng Ji et.al.|[2212.00631v1](http://arxiv.org/abs/2212.00631v1)|null|
+|**2022-12-01**|**Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion**|Lintai Wu et.al.|[2212.00564v1](http://arxiv.org/abs/2212.00564v1)|null|
+|**2022-12-01**|**Audio-Visual Activity Guided Cross-Modal Identity Association for Active Speaker Detection**|Rahul Sharma et.al.|[2212.00539v1](http://arxiv.org/abs/2212.00539v1)|null|
+|**2022-12-01**|**The Limits of Learning and Planning: Minimal Sufficient Information Transition Systems**|Basak Sakcak et.al.|[2212.00523v1](http://arxiv.org/abs/2212.00523v1)|null|
+|**2022-12-01**|**Robust multi-outcome regression with correlated covariate blocks using fused LAD-lasso**|Jyrki Möttönen et.al.|[2212.00461v1](http://arxiv.org/abs/2212.00461v1)|null|
+|**2022-12-01**|**Process parameter sensitivity of the energy absorbing properties of additively manufactured metallic cellular materials**|M. Simoes et.al.|[2212.00438v1](http://arxiv.org/abs/2212.00438v1)|null|
+|**2022-12-01**|**Fusion systematics for weakly bound nuclei using neutron flow and collective degrees of freedom**|S. Appannababu et.al.|[2212.00397v1](http://arxiv.org/abs/2212.00397v1)|null|
 |**2022-11-30**|**Wave-Supported Hybrid Fast-Thermal p-$^{11}$B Fusion**|E. J. Kolmes et.al.|[2211.17143v1](http://arxiv.org/abs/2211.17143v1)|null|
 |**2022-11-30**|**Rendezvous in Time: An Attention-based Temporal Fusion approach for Surgical Triplet Recognition**|Saurav Sharma et.al.|[2211.16963v1](http://arxiv.org/abs/2211.16963v1)|null|
 |**2022-11-30**|**Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR**|Peishan Cong et.al.|[2211.16951v1](http://arxiv.org/abs/2211.16951v1)|null|
