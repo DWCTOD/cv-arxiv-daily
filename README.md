@@ -12,7 +12,7 @@
 |**2022-12-05**|**An iterative unbiased geometric approach to identifying crystalline order and disorder via denoising score function model**|Tim Hsu et.al.|[2212.02421v1](http://arxiv.org/abs/2212.02421v1)|**[link](https://github.com/llnl/graphite)**|
 |**2022-12-05**|**23, 381, 6242, 103268, 1743183, ...: Hilbert series for CP-violating operators in SMEFT**|Dan Kondo et.al.|[2212.02413v1](http://arxiv.org/abs/2212.02413v1)|null|
 |**2022-12-05**|**Location-Aware Self-Supervised Transformers**|Mathilde Caron et.al.|[2212.02400v1](http://arxiv.org/abs/2212.02400v1)|**[link](https://github.com/google-research/scenic)**|
-|**2022-12-05**|**Quantifying nonadiabaticity in major families of superconductors**|E. F. Talantsev et.al.|[2212.02396v1](http://arxiv.org/abs/2212.02396v1)|null|
+|**2022-12-06**|**Quantifying nonadiabaticity in major families of superconductors**|E. F. Talantsev et.al.|[2212.02396v2](http://arxiv.org/abs/2212.02396v2)|null|
 |**2022-12-05**|**Two 6-approximation Algorithms for the Stochastic Score Classification Problem**|Naifeng Liu et.al.|[2212.02370v1](http://arxiv.org/abs/2212.02370v1)|null|
 |**2022-12-01**|**Attribute-based Representations for Accurate and Interpretable Video Anomaly Detection**|Tal Reiss et.al.|[2212.00789v1](http://arxiv.org/abs/2212.00789v1)|**[link](https://github.com/talreiss/accurate-interpretable-vad)**|
 |**2022-12-01**|**Improving Zero-Shot Models with Label Distribution Priors**|Jonathan Kahana et.al.|[2212.00784v1](http://arxiv.org/abs/2212.00784v1)|**[link](https://github.com/jonkahana/clippr)**|
@@ -1260,7 +1260,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-12-05**|**SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**|Anh-Quan Cao et.al.|[2212.02501v1](http://arxiv.org/abs/2212.02501v1)|null|
-|**2022-12-05**|**Equivalence of eval-readback and eval-apply big-step evaluators by regimentation of the lambda-calculus's strategy space**|Pablo Nogueira et.al.|[2212.02494v1](http://arxiv.org/abs/2212.02494v1)|null|
+|**2022-12-06**|**Equivalence of eval-readback and eval-apply big-step evaluators by regimentation of the lambda-calculus's strategy space**|Pablo Nogueira et.al.|[2212.02494v2](http://arxiv.org/abs/2212.02494v2)|null|
 |**2022-12-05**|**Generalizable Person Re-Identification via Viewpoint Alignment and Fusion**|Bingliang Jiao et.al.|[2212.02398v1](http://arxiv.org/abs/2212.02398v1)|null|
 |**2022-12-05**|**GARF:Geometry-Aware Generalized Neural Radiance Field**|Yue Shi et.al.|[2212.02280v1](http://arxiv.org/abs/2212.02280v1)|null|
 |**2022-12-05**|**BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-based Video Colorization**|Yixin Yang et.al.|[2212.02268v1](http://arxiv.org/abs/2212.02268v1)|null|
