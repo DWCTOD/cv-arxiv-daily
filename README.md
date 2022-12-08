@@ -10,7 +10,7 @@
 |**2022-12-06**|**Switching to Discriminative Image Captioning by Relieving a Bottleneck of Reinforcement Learning**|Ukyo Honda et.al.|[2212.03230v1](http://arxiv.org/abs/2212.03230v1)|**[link](https://github.com/ukyh/switch_disc_caption)**|
 |**2022-12-06**|**Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning**|AJ Piergiovanni et.al.|[2212.03229v1](http://arxiv.org/abs/2212.03229v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
-|**2022-12-06**|**InternVideo: General Video Foundation Models via Generative and Discriminative Learning**|Yi Wang et.al.|[2212.03191v1](http://arxiv.org/abs/2212.03191v1)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2022-12-07**|**InternVideo: General Video Foundation Models via Generative and Discriminative Learning**|Yi Wang et.al.|[2212.03191v2](http://arxiv.org/abs/2212.03191v2)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2022-12-06**|**Towards Energy Efficient Mobile Eye Tracking for AR Glasses through Optical Sensor Technology**|Johannes Meyer et.al.|[2212.03189v1](http://arxiv.org/abs/2212.03189v1)|null|
 |**2022-12-06**|**Enumeration of left braces with additive group $C_2\times C_2\times C_4\times C_4$**|A. Ballester-Bolinches et.al.|[2212.03167v1](http://arxiv.org/abs/2212.03167v1)|null|
 |**2022-12-06**|**Meromorphic Cosets and the Classification of Three-Character CFT**|Arpit Das et.al.|[2212.03136v1](http://arxiv.org/abs/2212.03136v1)|null|
@@ -1270,7 +1270,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-12-06**|**Complete and Robust Magnetic Field Confinement by Superconductors in Fusion Magnets**|Natanael Bort-Soldevila et.al.|[2212.03206v1](http://arxiv.org/abs/2212.03206v1)|null|
-|**2022-12-06**|**GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds**|Honghui Yang et.al.|[2212.03010v1](http://arxiv.org/abs/2212.03010v1)|**[link](https://github.com/nightmare-n/gd-mae)**|
+|**2022-12-07**|**GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds**|Honghui Yang et.al.|[2212.03010v2](http://arxiv.org/abs/2212.03010v2)|**[link](https://github.com/nightmare-n/gd-mae)**|
 |**2022-12-06**|**The ribbon category framework for topological quantum computing**|Willie Aboumrad et.al.|[2212.02921v1](http://arxiv.org/abs/2212.02921v1)|null|
 |**2022-12-06**|**Flux dependence of helium retention in clean W(110): Experimental evidence for He self-trapping**|A. Dunand et.al.|[2212.02919v1](http://arxiv.org/abs/2212.02919v1)|null|
 |**2022-12-06**|**An advanced YOLOv3 method for small object detection**|Baokai Liu et.al.|[2212.02809v1](http://arxiv.org/abs/2212.02809v1)|null|
