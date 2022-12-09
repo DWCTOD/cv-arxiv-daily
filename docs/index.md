@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-12-07**|**Phase2vec: Dynamical systems embedding with a physics-informed convolutional network**|Matthew Ricci et.al.|[2212.03857v1](http://arxiv.org/abs/2212.03857v1)|**[link](https://github.com/nitzanlab/phase2vec)**|
-|**2022-12-07**|**NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing**|Chunyi Sun et.al.|[2212.03848v1](http://arxiv.org/abs/2212.03848v1)|null|
+|**2022-12-08**|**NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing**|Chunyi Sun et.al.|[2212.03848v2](http://arxiv.org/abs/2212.03848v2)|null|
 |**2022-12-07**|**Partial Disentanglement with Partially-Federated GANs (PaDPaF)**|Abdulla Jasem Almansoori et.al.|[2212.03836v1](http://arxiv.org/abs/2212.03836v1)|**[link](https://github.com/zeligism/fedgan)**|
 |**2022-12-07**|**Unsupervised Domain Adaptation for Semantic Segmentation using One-shot Image-to-Image Translation via Latent Representation Mixing**|Sarmad F. Ismael et.al.|[2212.03826v1](http://arxiv.org/abs/2212.03826v1)|null|
 |**2022-12-07**|**Distributed Load Orchestration for Vision Computing in Multi-Access Edge Computing**|Ricardo N. Boing et.al.|[2212.03802v1](http://arxiv.org/abs/2212.03802v1)|null|
@@ -1283,7 +1283,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-12-07**|**See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation**|Hao Li et.al.|[2212.03858v1](http://arxiv.org/abs/2212.03858v1)|null|
+|**2022-12-08**|**See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation**|Hao Li et.al.|[2212.03858v2](http://arxiv.org/abs/2212.03858v2)|null|
 |**2022-12-07**|**Direct observation of the magnetic ground state of the two smallest triangular nanographenes**|Elia Turco et.al.|[2212.03688v1](http://arxiv.org/abs/2212.03688v1)|null|
 |**2022-12-07**|**Kinetic Model Evaluation of Dynamical Properties of Nanaorod Antennas Embedded in a Polymer Carrying the Nuclei of Fusion Fuel**|István Papp et.al.|[2212.03638v1](http://arxiv.org/abs/2212.03638v1)|null|
 |**2022-12-07**|**BoxPolyp:Boost Generalized Polyp Segmentation Using Extra Coarse Bounding Box Annotations**|Jun Wei et.al.|[2212.03498v1](http://arxiv.org/abs/2212.03498v1)|null|
