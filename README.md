@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**Learning Video Representations from Large Language Models**|Yue Zhao et.al.|[2212.04501v1](http://arxiv.org/abs/2212.04501v1)|**[link](https://github.com/facebookresearch/lavila)**|
+|**2022-12-08**|**Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning**|Rui Wang et.al.|[2212.04500v1](http://arxiv.org/abs/2212.04500v1)|null|
+|**2022-12-08**|**VideoDex: Learning Dexterity from Internet Videos**|Kenneth Shaw et.al.|[2212.04498v1](http://arxiv.org/abs/2212.04498v1)|null|
+|**2022-12-08**|**MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis**|Rishabh Dabral et.al.|[2212.04495v1](http://arxiv.org/abs/2212.04495v1)|null|
+|**2022-12-08**|**DP-RAFT: A Differentially Private Recipe for Accelerated Fine-Tuning**|Ashwinee Panda et.al.|[2212.04486v1](http://arxiv.org/abs/2212.04486v1)|null|
+|**2022-12-08**|**Investigation of Minerals Using Hyperspectral Satellite Imagery in Bangladesh**|Nazmul Hasan et.al.|[2212.04468v1](http://arxiv.org/abs/2212.04468v1)|null|
+|**2022-12-08**|**OFASys: A Multi-Modal Multi-Task Learning System for Building Generalist Models**|Jinze Bai et.al.|[2212.04408v1](http://arxiv.org/abs/2212.04408v1)|**[link](https://github.com/ofa-sys/ofasys)**|
+|**2022-12-08**|**Models Developed for Spiking Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2212.04377v1](http://arxiv.org/abs/2212.04377v1)|null|
+|**2022-12-08**|**Alleviating neighbor bias: augmenting graph self-supervise learning with structural equivalent positive samples**|Jiawei Zhu et.al.|[2212.04365v1](http://arxiv.org/abs/2212.04365v1)|null|
+|**2022-12-08**|**Linear and group perfect codes over skew fields and quasi skew fields**|Sergei A. Malyugin et.al.|[2212.04361v1](http://arxiv.org/abs/2212.04361v1)|null|
 |**2022-12-07**|**Phase2vec: Dynamical systems embedding with a physics-informed convolutional network**|Matthew Ricci et.al.|[2212.03857v1](http://arxiv.org/abs/2212.03857v1)|**[link](https://github.com/nitzanlab/phase2vec)**|
 |**2022-12-08**|**NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing**|Chunyi Sun et.al.|[2212.03848v2](http://arxiv.org/abs/2212.03848v2)|null|
 |**2022-12-07**|**Partial Disentanglement with Partially-Federated GANs (PaDPaF)**|Abdulla Jasem Almansoori et.al.|[2212.03836v1](http://arxiv.org/abs/2212.03836v1)|**[link](https://github.com/zeligism/fedgan)**|
@@ -1279,6 +1289,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**Scientific Paper Extractive Summarization Enhanced by Citation Graphs**|Xiuying Chen et.al.|[2212.04214v1](http://arxiv.org/abs/2212.04214v1)|null|
+|**2022-12-07**|**Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Face Anti-spoofing**|Kaicheng Li et.al.|[2212.03943v1](http://arxiv.org/abs/2212.03943v1)|null|
 |**2022-12-08**|**See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation**|Hao Li et.al.|[2212.03858v2](http://arxiv.org/abs/2212.03858v2)|null|
 |**2022-12-07**|**Direct observation of the magnetic ground state of the two smallest triangular nanographenes**|Elia Turco et.al.|[2212.03688v1](http://arxiv.org/abs/2212.03688v1)|null|
 |**2022-12-07**|**Kinetic Model Evaluation of Dynamical Properties of Nanaorod Antennas Embedded in a Polymer Carrying the Nuclei of Fusion Fuel**|István Papp et.al.|[2212.03638v1](http://arxiv.org/abs/2212.03638v1)|null|
