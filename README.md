@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**VindLU: A Recipe for Effective Video-and-Language Pretraining**|Feng Cheng et.al.|[2212.05051v1](http://arxiv.org/abs/2212.05051v1)|**[link](https://github.com/klauscc/vindlu)**|
+|**2022-12-09**|**Incorporating Emotions into Health Mention Classification Task on Social Media**|Olanrewaju Tahir Aduragba et.al.|[2212.05039v1](http://arxiv.org/abs/2212.05039v1)|**[link](https://github.com/tahirlanre/emotion_phm)**|
+|**2022-12-09**|**Detailed analysis of the variable star population in the globular cluster NGC 7006**|A. Arellano Ferro et.al.|[2212.05021v1](http://arxiv.org/abs/2212.05021v1)|null|
+|**2022-12-09**|**Memories are One-to-Many Mapping Alleviators in Talking Face Generation**|Anni Tang et.al.|[2212.05005v1](http://arxiv.org/abs/2212.05005v1)|null|
+|**2022-12-09**|**Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning**|Jishnu Mukhoti et.al.|[2212.04994v1](http://arxiv.org/abs/2212.04994v1)|null|
+|**2022-12-09**|**Evaluation of methods for the determination of tortuosity of Li-ion battery separators**|Wei Sun et.al.|[2212.04988v1](http://arxiv.org/abs/2212.04988v1)|null|
+|**2022-12-09**|**Adversarial Weight Perturbation Improves Generalization in Graph Neural Network**|Yihan Wu et.al.|[2212.04983v1](http://arxiv.org/abs/2212.04983v1)|null|
+|**2022-12-09**|**Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners**|Shen Yan et.al.|[2212.04979v1](http://arxiv.org/abs/2212.04979v1)|null|
+|**2022-12-09**|**PACMAN: a framework for pulse oximeter digit detection and reading in a low-resource setting**|Chiraphat Boonnag et.al.|[2212.04964v1](http://arxiv.org/abs/2212.04964v1)|null|
+|**2022-12-09**|**HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding**|Shi Wang et.al.|[2212.04891v1](http://arxiv.org/abs/2212.04891v1)|null|
 |**2022-12-08**|**Learning Video Representations from Large Language Models**|Yue Zhao et.al.|[2212.04501v1](http://arxiv.org/abs/2212.04501v1)|**[link](https://github.com/facebookresearch/lavila)**|
 |**2022-12-08**|**Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning**|Rui Wang et.al.|[2212.04500v1](http://arxiv.org/abs/2212.04500v1)|null|
 |**2022-12-08**|**VideoDex: Learning Dexterity from Internet Videos**|Kenneth Shaw et.al.|[2212.04498v1](http://arxiv.org/abs/2212.04498v1)|null|
@@ -1289,6 +1299,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**Quantum Computing for Fusion Energy Science Applications**|I. Joseph et.al.|[2212.05054v1](http://arxiv.org/abs/2212.05054v1)|null|
+|**2022-12-09**|**VindLU: A Recipe for Effective Video-and-Language Pretraining**|Feng Cheng et.al.|[2212.05051v1](http://arxiv.org/abs/2212.05051v1)|**[link](https://github.com/klauscc/vindlu)**|
+|**2022-12-09**|**Incorporating Emotions into Health Mention Classification Task on Social Media**|Olanrewaju Tahir Aduragba et.al.|[2212.05039v1](http://arxiv.org/abs/2212.05039v1)|**[link](https://github.com/tahirlanre/emotion_phm)**|
+|**2022-12-09**|**Video-Text Modeling with Zero-Shot Transfer from Contrastive Captioners**|Shen Yan et.al.|[2212.04979v1](http://arxiv.org/abs/2212.04979v1)|null|
+|**2022-12-09**|**Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers**|Yasheng Sun et.al.|[2212.04970v1](http://arxiv.org/abs/2212.04970v1)|null|
+|**2022-12-09**|**Optimising graph codes for measurement-based loss tolerance**|Tom J. Bell et.al.|[2212.04834v1](http://arxiv.org/abs/2212.04834v1)|null|
+|**2022-12-09**|**Noise2Contrast: Multi-Contrast Fusion Enables Self-Supervised Tomographic Image Denoising**|Fabian Wagner et.al.|[2212.04832v1](http://arxiv.org/abs/2212.04832v1)|null|
+|**2022-12-09**|**ViMA -- the spinning rotor gauge to measure the viscosity of tritium between 77 and 300 K**|Johanna Wydra et.al.|[2212.04770v1](http://arxiv.org/abs/2212.04770v1)|null|
+|**2022-12-09**|**SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection**|Qi Jiang et.al.|[2212.04675v1](http://arxiv.org/abs/2212.04675v1)|null|
+|**2022-12-09**|**An Attention-based Multi-Scale Feature Learning Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2212.04661v1](http://arxiv.org/abs/2212.04661v1)|**[link](https://github.com/simonZhou86/dilran)**|
 |**2022-12-08**|**Scientific Paper Extractive Summarization Enhanced by Citation Graphs**|Xiuying Chen et.al.|[2212.04214v1](http://arxiv.org/abs/2212.04214v1)|null|
 |**2022-12-07**|**Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Face Anti-spoofing**|Kaicheng Li et.al.|[2212.03943v1](http://arxiv.org/abs/2212.03943v1)|null|
 |**2022-12-08**|**See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation**|Hao Li et.al.|[2212.03858v2](http://arxiv.org/abs/2212.03858v2)|null|
