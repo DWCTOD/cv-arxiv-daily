@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-12**|**CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet**|Xiaoyi Dong et.al.|[2212.06138v1](http://arxiv.org/abs/2212.06138v1)|null|
+|**2022-12-12**|**Siamese Neural Networks for Skin Cancer Classification and New Class Detection using Clinical and Dermoscopic Image Datasets**|Michael Luke Battle et.al.|[2212.06130v1](http://arxiv.org/abs/2212.06130v1)|null|
+|**2022-12-12**|**Where To Start? Transferring Simple Skills to Complex Environments**|Vitalis Vosylius et.al.|[2212.06111v1](http://arxiv.org/abs/2212.06111v1)|null|
+|**2022-12-12**|**HACA3: A Unified Approach for Multi-site MR Image Harmonization**|Lianrui Zuo et.al.|[2212.06065v1](http://arxiv.org/abs/2212.06065v1)|null|
+|**2022-12-12**|**On Finite Difference Jacobian Computation in Deformable Image Registration**|Yihao Liu et.al.|[2212.06060v1](http://arxiv.org/abs/2212.06060v1)|null|
+|**2022-12-12**|**PERFEX: Classifier Performance Explanations for Trustworthy AI Systems**|Erwin Walraven et.al.|[2212.06045v1](http://arxiv.org/abs/2212.06045v1)|null|
+|**2022-12-12**|**Video Prediction by Efficient Transformers**|Xi Ye et.al.|[2212.06026v1](http://arxiv.org/abs/2212.06026v1)|**[link](https://github.com/xiye20/vptr)**|
+|**2022-12-12**|**Reconstructing Humpty Dumpty: Multi-feature Graph Autoencoder for Open Set Action Recognition**|Dawei Du et.al.|[2212.06023v1](http://arxiv.org/abs/2212.06023v1)|null|
+|**2022-12-12**|**A novel feature-scrambling approach reveals the capacity of convolutional neural networks to learn spatial relations**|Amr Farahat et.al.|[2212.06021v1](http://arxiv.org/abs/2212.06021v1)|null|
+|**2022-12-12**|**A Neural ODE Interpretation of Transformer Layers**|Yaofeng Desmond Zhong et.al.|[2212.06011v1](http://arxiv.org/abs/2212.06011v1)|null|
 |**2022-12-09**|**VindLU: A Recipe for Effective Video-and-Language Pretraining**|Feng Cheng et.al.|[2212.05051v1](http://arxiv.org/abs/2212.05051v1)|**[link](https://github.com/klauscc/vindlu)**|
 |**2022-12-09**|**Incorporating Emotions into Health Mention Classification Task on Social Media**|Olanrewaju Tahir Aduragba et.al.|[2212.05039v1](http://arxiv.org/abs/2212.05039v1)|**[link](https://github.com/tahirlanre/emotion_phm)**|
 |**2022-12-09**|**Detailed analysis of the variable star population in the globular cluster NGC 7006**|A. Arellano Ferro et.al.|[2212.05021v1](http://arxiv.org/abs/2212.05021v1)|null|
@@ -1303,6 +1313,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-12**|**HACA3: A Unified Approach for Multi-site MR Image Harmonization**|Lianrui Zuo et.al.|[2212.06065v1](http://arxiv.org/abs/2212.06065v1)|null|
+|**2022-12-12**|**Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models**|Jiabao Lei et.al.|[2212.05993v1](http://arxiv.org/abs/2212.05993v1)|null|
+|**2022-12-12**|**Continuous pulse advances in the negative ion source NIO1**|M. Barbisan et.al.|[2212.05801v1](http://arxiv.org/abs/2212.05801v1)|null|
+|**2022-12-12**|**CTT-Net: A Multi-view Cross-token Transformer for Cataract Postoperative Visual Acuity Prediction**|Jinhong Wang et.al.|[2212.05794v1](http://arxiv.org/abs/2212.05794v1)|null|
+|**2022-12-12**|**ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation**|Daitao Xing et.al.|[2212.05729v1](http://arxiv.org/abs/2212.05729v1)|null|
+|**2022-12-12**|**MMNet: Multi-modal Fusion with Mutual Learning Network for Fake News Detection**|Linmei Hu et.al.|[2212.05699v1](http://arxiv.org/abs/2212.05699v1)|null|
+|**2022-12-12**|**CircleNet: Reciprocating Feature Adaptation for Robust Pedestrian Detection**|Tianliang Zhang et.al.|[2212.05691v1](http://arxiv.org/abs/2212.05691v1)|null|
+|**2022-12-12**|**Spatial-temporal traffic modeling with a fusion graph reconstructed by tensor decomposition**|Qin Li et.al.|[2212.05653v1](http://arxiv.org/abs/2212.05653v1)|null|
+|**2022-12-11**|**Mutimodal Ranking Optimization for Heterogeneous Face Re-identification**|Hui Hu et.al.|[2212.05510v1](http://arxiv.org/abs/2212.05510v1)|null|
+|**2022-12-11**|**Mul-GAD: a semi-supervised graph anomaly detection framework via aggregating multi-view information**|Zhiyuan Liu et.al.|[2212.05478v1](http://arxiv.org/abs/2212.05478v1)|**[link](https://github.com/liuyishoua/mul-graph-fusion)**|
 |**2022-12-09**|**Quantum Computing for Fusion Energy Science Applications**|I. Joseph et.al.|[2212.05054v1](http://arxiv.org/abs/2212.05054v1)|null|
 |**2022-12-09**|**VindLU: A Recipe for Effective Video-and-Language Pretraining**|Feng Cheng et.al.|[2212.05051v1](http://arxiv.org/abs/2212.05051v1)|**[link](https://github.com/klauscc/vindlu)**|
 |**2022-12-09**|**Incorporating Emotions into Health Mention Classification Task on Social Media**|Olanrewaju Tahir Aduragba et.al.|[2212.05039v1](http://arxiv.org/abs/2212.05039v1)|**[link](https://github.com/tahirlanre/emotion_phm)**|
