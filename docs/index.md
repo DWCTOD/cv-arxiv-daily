@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
+|**2022-12-13**|**Adversarial Attacks and Defences for Skin Cancer Classification**|Vinay Jogani et.al.|[2212.06822v1](http://arxiv.org/abs/2212.06822v1)|null|
+|**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona et.al.|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
+|**2022-12-13**|**RT-1: Robotics Transformer for Real-World Control at Scale**|Anthony Brohan et.al.|[2212.06817v1](http://arxiv.org/abs/2212.06817v1)|null|
+|**2022-12-13**|**Real-Time Artificial Intelligence Assistance for Safe Laparoscopic Cholecystectomy: Early-Stage Clinical Evaluation**|Pietro Mascagni et.al.|[2212.06809v1](http://arxiv.org/abs/2212.06809v1)|null|
+|**2022-12-13**|**Can a face tell us anything about an NBA prospect? -- A Deep Learning approach**|Andreas Gavros et.al.|[2212.06804v1](http://arxiv.org/abs/2212.06804v1)|null|
+|**2022-12-13**|**GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation**|Chenhongyi Yang et.al.|[2212.06795v1](http://arxiv.org/abs/2212.06795v1)|**[link](https://github.com/chenhongyiyang/gpvit)**|
+|**2022-12-13**|**Unfolding Local Growth Rate Estimates for (Almost) Perfect Adversarial Detection**|Peter Lorenz et.al.|[2212.06776v1](http://arxiv.org/abs/2212.06776v1)|**[link](https://github.com/adverml/multilid)**|
+|**2022-12-13**|**POPNASv3: a Pareto-Optimal Neural Architecture Search Solution for Image and Time Series Classification**|Andrea Falanti et.al.|[2212.06735v1](http://arxiv.org/abs/2212.06735v1)|null|
+|**2022-12-13**|**Predicting Knowledge Gain for MOOC Video Consumption**|Christian Otto et.al.|[2212.06679v1](http://arxiv.org/abs/2212.06679v1)|**[link](https://github.com/tibhannover/mooc_knowledge_gain)**|
 |**2022-12-12**|**CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet**|Xiaoyi Dong et.al.|[2212.06138v1](http://arxiv.org/abs/2212.06138v1)|**[link](https://github.com/lightdxy/ft-clip)**|
 |**2022-12-12**|**Siamese Neural Networks for Skin Cancer Classification and New Class Detection using Clinical and Dermoscopic Image Datasets**|Michael Luke Battle et.al.|[2212.06130v1](http://arxiv.org/abs/2212.06130v1)|null|
 |**2022-12-12**|**Where To Start? Transferring Simple Skills to Complex Environments**|Vitalis Vosylius et.al.|[2212.06111v1](http://arxiv.org/abs/2212.06111v1)|null|
@@ -1313,6 +1323,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
+|**2022-12-13**|**High-threshold quantum computing by fusing one-dimensional cluster states**|Stefano Paesani et.al.|[2212.06775v1](http://arxiv.org/abs/2212.06775v1)|null|
+|**2022-12-13**|**A Robust Data-Driven Fault Diagnosis scheme based on Recursive Dempster-Shafer Combination Rule ***|Cartocci N. et.al.|[2212.06689v1](http://arxiv.org/abs/2212.06689v1)|null|
+|**2022-12-13**|**Towards Deeper and Better Multi-view Feature Fusion for 3D Semantic Segmentation**|Chaolong Yang et.al.|[2212.06682v1](http://arxiv.org/abs/2212.06682v1)|null|
+|**2022-12-13**|**DELS-MVS: Deep Epipolar Line Search for Multi-View Stereo**|Christian Sormann et.al.|[2212.06626v1](http://arxiv.org/abs/2212.06626v1)|null|
+|**2022-12-13**|**A fast and Accurate Sketch Method for Estimating User Similarities over Trajectory Data**|Hua Wang et.al.|[2212.06601v1](http://arxiv.org/abs/2212.06601v1)|null|
+|**2022-12-13**|**Trajectory Privacy Protection Mechanism based on Social Attributes**|Hua Wang et.al.|[2212.06600v1](http://arxiv.org/abs/2212.06600v1)|null|
+|**2022-12-13**|**SST: Real-time End-to-end Monocular 3D Reconstruction via Sparse Spatial-Temporal Guidance**|Chenyangguang Zhang et.al.|[2212.06524v1](http://arxiv.org/abs/2212.06524v1)|null|
+|**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
+|**2022-12-13**|**HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping**|Qinghe Wang et.al.|[2212.06458v1](http://arxiv.org/abs/2212.06458v1)|null|
 |**2022-12-12**|**HACA3: A Unified Approach for Multi-site MR Image Harmonization**|Lianrui Zuo et.al.|[2212.06065v1](http://arxiv.org/abs/2212.06065v1)|null|
 |**2022-12-12**|**Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models**|Jiabao Lei et.al.|[2212.05993v1](http://arxiv.org/abs/2212.05993v1)|null|
 |**2022-12-12**|**Continuous pulse advances in the negative ion source NIO1**|M. Barbisan et.al.|[2212.05801v1](http://arxiv.org/abs/2212.05801v1)|null|
