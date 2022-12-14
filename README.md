@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-12**|**CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet**|Xiaoyi Dong et.al.|[2212.06138v1](http://arxiv.org/abs/2212.06138v1)|null|
+|**2022-12-12**|**CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet**|Xiaoyi Dong et.al.|[2212.06138v1](http://arxiv.org/abs/2212.06138v1)|**[link](https://github.com/lightdxy/ft-clip)**|
 |**2022-12-12**|**Siamese Neural Networks for Skin Cancer Classification and New Class Detection using Clinical and Dermoscopic Image Datasets**|Michael Luke Battle et.al.|[2212.06130v1](http://arxiv.org/abs/2212.06130v1)|null|
 |**2022-12-12**|**Where To Start? Transferring Simple Skills to Complex Environments**|Vitalis Vosylius et.al.|[2212.06111v1](http://arxiv.org/abs/2212.06111v1)|null|
 |**2022-12-12**|**HACA3: A Unified Approach for Multi-site MR Image Harmonization**|Lianrui Zuo et.al.|[2212.06065v1](http://arxiv.org/abs/2212.06065v1)|null|
