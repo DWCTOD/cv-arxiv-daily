@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**Towards Smooth Video Composition**|Qihang Zhang et.al.|[2212.07413v1](http://arxiv.org/abs/2212.07413v1)|null|
+|**2022-12-14**|**Cross-Domain Transfer via Semantic Skill Imitation**|Karl Pertsch et.al.|[2212.07407v1](http://arxiv.org/abs/2212.07407v1)|null|
+|**2022-12-14**|**BKinD-3D: Self-Supervised 3D Keypoint Discovery from Multi-View Videos**|Jennifer J. Sun et.al.|[2212.07401v1](http://arxiv.org/abs/2212.07401v1)|null|
+|**2022-12-14**|**Hierarchical Strategies for Cooperative Multi-Agent Reinforcement Learning**|Majd Ibrahim et.al.|[2212.07397v1](http://arxiv.org/abs/2212.07397v1)|null|
+|**2022-12-14**|**Objective quality assessment of medical images and videos: Review and challenges**|Rafael Rodrigues et.al.|[2212.07396v1](http://arxiv.org/abs/2212.07396v1)|null|
+|**2022-12-14**|**Quantum Methods for Neural Networks and Application to Medical Image Classification**|Jonas Landman et.al.|[2212.07389v1](http://arxiv.org/abs/2212.07389v1)|null|
+|**2022-12-14**|**Image Compression with Product Quantized Masked Image Modeling**|Alaaeldin El-Nouby et.al.|[2212.07372v1](http://arxiv.org/abs/2212.07372v1)|null|
+|**2022-12-14**|**Post-hoc Uncertainty Learning using a Dirichlet Meta-Model**|Maohao Shen et.al.|[2212.07359v1](http://arxiv.org/abs/2212.07359v1)|null|
+|**2022-12-14**|**New Short-Period Delta Scuti Stars in OGLE-IV Fields toward the Galactic Bulge**|P. Pietrukowicz et.al.|[2212.07355v1](http://arxiv.org/abs/2212.07355v1)|null|
+|**2022-12-14**|**Lorentz Group Equivariant Autoencoders**|Zichun Hao et.al.|[2212.07347v1](http://arxiv.org/abs/2212.07347v1)|null|
 |**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
 |**2022-12-13**|**Adversarial Attacks and Defences for Skin Cancer Classification**|Vinay Jogani et.al.|[2212.06822v1](http://arxiv.org/abs/2212.06822v1)|null|
 |**2022-12-13**|**Structured 3D Features for Reconstructing Relightable and Animatable Avatars**|Enric Corona et.al.|[2212.06820v1](http://arxiv.org/abs/2212.06820v1)|null|
@@ -1319,6 +1329,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**Non-invertible Symmetries and Higher Representation Theory II**|Thomas Bartsch et.al.|[2212.07393v1](http://arxiv.org/abs/2212.07393v1)|null|
+|**2022-12-14**|**Trust, but Verify: Cross-Modality Fusion for HD Map Change Detection**|John Lambert et.al.|[2212.07312v1](http://arxiv.org/abs/2212.07312v1)|**[link](https://github.com/argoai/av2-api)**|
+|**2022-12-14**|**Bayesian data fusion with shared priors**|Peng Wu et.al.|[2212.07311v1](http://arxiv.org/abs/2212.07311v1)|null|
+|**2022-12-14**|**Gaussian Process Mapping of Uncertain Building Models with GMM as Prior**|Qianqian Zou et.al.|[2212.07271v1](http://arxiv.org/abs/2212.07271v1)|null|
+|**2022-12-14**|**Sufficient conditions for local tabularity of a polymodal logic**|Ilya B. Shapirovsky et.al.|[2212.07213v1](http://arxiv.org/abs/2212.07213v1)|null|
+|**2022-12-14**|**Mitigating Negative Style Transfer in Hybrid Dialogue System**|Shimin Li et.al.|[2212.07183v1](http://arxiv.org/abs/2212.07183v1)|**[link](https://github.com/whatissimondoing/his-dialog)**|
+|**2022-12-14**|**Multi-Scale Feature Fusion Transformer Network for End-to-End Single Channel Speech Separation**|Yinhao Xu et.al.|[2212.07163v1](http://arxiv.org/abs/2212.07163v1)|null|
+|**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
+|**2022-12-14**|**Resilient Terrain Navigation with a 5 DOF Metal Detector Drone**|Patrick Pfreundschuh et.al.|[2212.07132v1](http://arxiv.org/abs/2212.07132v1)|null|
+|**2022-12-14**|**Fully Complex-valued Fully Convolutional Multi-feature Fusion Network (FC2MFN) for Building Segmentation of InSAR images**|Aniruddh Sikdar et.al.|[2212.07084v1](http://arxiv.org/abs/2212.07084v1)|null|
 |**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
 |**2022-12-13**|**High-threshold quantum computing by fusing one-dimensional cluster states**|Stefano Paesani et.al.|[2212.06775v1](http://arxiv.org/abs/2212.06775v1)|null|
 |**2022-12-13**|**A Robust Data-Driven Fault Diagnosis scheme based on Recursive Dempster-Shafer Combination Rule ***|Cartocci N. et.al.|[2212.06689v1](http://arxiv.org/abs/2212.06689v1)|null|
