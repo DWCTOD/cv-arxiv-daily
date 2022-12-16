@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**MAViL: Masked Audio-Video Learners**|Po-Yao Huang et.al.|[2212.08071v1](http://arxiv.org/abs/2212.08071v1)|null|
+|**2022-12-15**|**Learning a Fast 3D Spectral Approach to Object Segmentation and Tracking over Space and Time**|Elena Burceanu et.al.|[2212.08058v1](http://arxiv.org/abs/2212.08058v1)|null|
+|**2022-12-15**|**Image-and-Language Understanding from Pixels Only**|Michael Tschannen et.al.|[2212.08045v1](http://arxiv.org/abs/2212.08045v1)|null|
+|**2022-12-15**|**Hamming Distributions of Popular Perceptual Hashing Techniques**|Sean McKeown et.al.|[2212.08035v1](http://arxiv.org/abs/2212.08035v1)|null|
+|**2022-12-15**|**Generating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model**|Wei Peng et.al.|[2212.08034v1](http://arxiv.org/abs/2212.08034v1)|null|
+|**2022-12-15**|**Demonstration of machine-learning-enhanced Bayesian quantum state estimation**|Sanjaya Lohani et.al.|[2212.08032v1](http://arxiv.org/abs/2212.08032v1)|null|
+|**2022-12-15**|**FlexiViT: One Model for All Patch Sizes**|Lucas Beyer et.al.|[2212.08013v1](http://arxiv.org/abs/2212.08013v1)|**[link](https://github.com/google-research/big_vision)**|
+|**2022-12-15**|**Beyond the Metaverse: XV (eXtended meta/uni/Verse)**|Steve Mann et.al.|[2212.07960v1](http://arxiv.org/abs/2212.07960v1)|null|
+|**2022-12-15**|**Direct computation of period polynomials and classification of K3-fibred Calabi--Yau threefolds**|Yuichi Enoki et.al.|[2212.07948v1](http://arxiv.org/abs/2212.07948v1)|null|
+|**2022-12-15**|**Automatic vehicle trajectory data reconstruction at scale**|Yanbing Wang et.al.|[2212.07907v1](http://arxiv.org/abs/2212.07907v1)|null|
 |**2022-12-14**|**Towards Smooth Video Composition**|Qihang Zhang et.al.|[2212.07413v1](http://arxiv.org/abs/2212.07413v1)|null|
 |**2022-12-14**|**Cross-Domain Transfer via Semantic Skill Imitation**|Karl Pertsch et.al.|[2212.07407v1](http://arxiv.org/abs/2212.07407v1)|null|
 |**2022-12-14**|**BKinD-3D: Self-Supervised 3D Keypoint Discovery from Multi-View Videos**|Jennifer J. Sun et.al.|[2212.07401v1](http://arxiv.org/abs/2212.07401v1)|null|
@@ -1329,6 +1339,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention**|Zhipeng Luo et.al.|[2212.07849v1](http://arxiv.org/abs/2212.07849v1)|null|
+|**2022-12-15**|**The operator algebra of cyclic orbifolds**|Benoit Estienne et.al.|[2212.07678v1](http://arxiv.org/abs/2212.07678v1)|null|
+|**2022-12-15**|**Multi-task Fusion for Efficient Panoptic-Part Segmentation**|Sravan Kumar Jagadeesh et.al.|[2212.07671v1](http://arxiv.org/abs/2212.07671v1)|null|
+|**2022-12-15**|**SBSS: Stacking-Based Semantic Segmentation Framework for Very High Resolution Remote Sensing Image**|Yuanzhi Cai et.al.|[2212.07623v1](http://arxiv.org/abs/2212.07623v1)|null|
+|**2022-12-15**|**Multi-level and multi-modal feature fusion for accurate 3D object detection in Connected and Automated Vehicles**|Yiming Hou et.al.|[2212.07560v1](http://arxiv.org/abs/2212.07560v1)|null|
 |**2022-12-14**|**Non-invertible Symmetries and Higher Representation Theory II**|Thomas Bartsch et.al.|[2212.07393v1](http://arxiv.org/abs/2212.07393v1)|null|
 |**2022-12-14**|**Trust, but Verify: Cross-Modality Fusion for HD Map Change Detection**|John Lambert et.al.|[2212.07312v1](http://arxiv.org/abs/2212.07312v1)|**[link](https://github.com/argoai/av2-api)**|
 |**2022-12-14**|**Bayesian data fusion with shared priors**|Peng Wu et.al.|[2212.07311v1](http://arxiv.org/abs/2212.07311v1)|null|
