@@ -1336,12 +1336,12 @@ layout: default
 |**2022-12-14**|**Non-invertible Symmetries and Higher Representation Theory II**|Thomas Bartsch et.al.|[2212.07393v1](http://arxiv.org/abs/2212.07393v1)|null|
 |**2022-12-14**|**Trust, but Verify: Cross-Modality Fusion for HD Map Change Detection**|John Lambert et.al.|[2212.07312v1](http://arxiv.org/abs/2212.07312v1)|**[link](https://github.com/argoai/av2-api)**|
 |**2022-12-14**|**Bayesian data fusion with shared priors**|Peng Wu et.al.|[2212.07311v1](http://arxiv.org/abs/2212.07311v1)|null|
-|**2022-12-14**|**Gaussian Process Mapping of Uncertain Building Models with GMM as Prior**|Qianqian Zou et.al.|[2212.07271v1](http://arxiv.org/abs/2212.07271v1)|null|
+|**2022-12-15**|**Gaussian Process Mapping of Uncertain Building Models with GMM as Prior**|Qianqian Zou et.al.|[2212.07271v2](http://arxiv.org/abs/2212.07271v2)|null|
 |**2022-12-14**|**Sufficient conditions for local tabularity of a polymodal logic**|Ilya B. Shapirovsky et.al.|[2212.07213v1](http://arxiv.org/abs/2212.07213v1)|null|
 |**2022-12-14**|**Mitigating Negative Style Transfer in Hybrid Dialogue System**|Shimin Li et.al.|[2212.07183v1](http://arxiv.org/abs/2212.07183v1)|**[link](https://github.com/whatissimondoing/his-dialog)**|
 |**2022-12-14**|**Multi-Scale Feature Fusion Transformer Network for End-to-End Single Channel Speech Separation**|Yinhao Xu et.al.|[2212.07163v1](http://arxiv.org/abs/2212.07163v1)|null|
 |**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
-|**2022-12-14**|**Resilient Terrain Navigation with a 5 DOF Metal Detector Drone**|Patrick Pfreundschuh et.al.|[2212.07132v1](http://arxiv.org/abs/2212.07132v1)|null|
+|**2022-12-15**|**Resilient Terrain Navigation with a 5 DOF Metal Detector Drone**|Patrick Pfreundschuh et.al.|[2212.07132v2](http://arxiv.org/abs/2212.07132v2)|null|
 |**2022-12-14**|**Fully Complex-valued Fully Convolutional Multi-feature Fusion Network (FC2MFN) for Building Segmentation of InSAR images**|Aniruddh Sikdar et.al.|[2212.07084v1](http://arxiv.org/abs/2212.07084v1)|null|
 |**2022-12-13**|**Look Before You Match: Instance Understanding Matters in Video Object Segmentation**|Junke Wang et.al.|[2212.06826v1](http://arxiv.org/abs/2212.06826v1)|null|
 |**2022-12-13**|**High-threshold quantum computing by fusing one-dimensional cluster states**|Stefano Paesani et.al.|[2212.06775v1](http://arxiv.org/abs/2212.06775v1)|null|
