@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-16**|**Attentive Mask CLIP**|Yifan Yang et.al.|[2212.08653v1](http://arxiv.org/abs/2212.08653v1)|null|
+|**2022-12-16**|**Better May Not Be Fairer: Can Data Augmentation Mitigate Subgroup Degradation?**|Ming-Chang Chiu et.al.|[2212.08649v1](http://arxiv.org/abs/2212.08649v1)|null|
+|**2022-12-16**|**Development of A Real-time POCUS Image Quality Assessment and Acquisition Guidance System**|Zhenge Jia et.al.|[2212.08624v1](http://arxiv.org/abs/2212.08624v1)|null|
+|**2022-12-16**|**De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**|Huseyin Tuna Erdinc et.al.|[2212.08596v1](http://arxiv.org/abs/2212.08596v1)|null|
+|**2022-12-16**|**Rethinking Cooking State Recognition with Vision Transformers**|Akib Mohammed Khan et.al.|[2212.08586v1](http://arxiv.org/abs/2212.08586v1)|null|
+|**2022-12-16**|**Penalised regression with multiple sources of prior effects**|Armin Rauschenberger et.al.|[2212.08581v1](http://arxiv.org/abs/2212.08581v1)|**[link](https://github.com/lcsb-bds/transreg)**|
+|**2022-12-16**|**Fine-grained Czech News Article Dataset: An Interdisciplinary Approach to Trustworthiness Analysis**|Matyáš Boháček et.al.|[2212.08550v1](http://arxiv.org/abs/2212.08550v1)|null|
+|**2022-12-16**|**Detection-aware multi-object tracking evaluation**|Juan C. SanMiguel et.al.|[2212.08536v1](http://arxiv.org/abs/2212.08536v1)|null|
+|**2022-12-16**|**Semantic Sensing and Communications for Ultimate Extended Reality**|Bowen Zhang et.al.|[2212.08533v1](http://arxiv.org/abs/2212.08533v1)|null|
+|**2022-12-16**|**The TRAPUM L-band survey for pulsars in Fermi-LAT gamma-ray sources**|C. J. Clark et.al.|[2212.08528v1](http://arxiv.org/abs/2212.08528v1)|null|
 |**2022-12-15**|**MAViL: Masked Audio-Video Learners**|Po-Yao Huang et.al.|[2212.08071v1](http://arxiv.org/abs/2212.08071v1)|null|
 |**2022-12-15**|**Learning a Fast 3D Spectral Approach to Object Segmentation and Tracking over Space and Time**|Elena Burceanu et.al.|[2212.08058v1](http://arxiv.org/abs/2212.08058v1)|null|
 |**2022-12-15**|**Image-and-Language Understanding from Pixels Only**|Michael Tschannen et.al.|[2212.08045v1](http://arxiv.org/abs/2212.08045v1)|**[link](https://github.com/google-research/big_vision)**|
@@ -1343,6 +1353,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-16**|**Non-Invertible Defects in Nonlinear Sigma Models and Coupling to Topological Orders**|Po-Shen Hsin et.al.|[2212.08608v1](http://arxiv.org/abs/2212.08608v1)|null|
+|**2022-12-16**|**Electronic Density Response of Warm Dense Matter**|Tobias Dornheim et.al.|[2212.08326v1](http://arxiv.org/abs/2212.08326v1)|null|
+|**2022-12-16**|**Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication**|Jinlong Li et.al.|[2212.08273v1](http://arxiv.org/abs/2212.08273v1)|null|
+|**2022-12-16**|**Proton Imaging of High-Energy-Density Laboratory Plasmas**|Derek B. Schaeffer et.al.|[2212.08252v1](http://arxiv.org/abs/2212.08252v1)|null|
+|**2022-12-16**|**On the synergy between easier plasma operation and affordable coil-set requirements enabled by Negative Triangularity in the prospective ARC fusion reactor**|Nicolai de Boucaud et.al.|[2212.08218v1](http://arxiv.org/abs/2212.08218v1)|null|
+|**2022-12-15**|**FiDO: Fusion-in-Decoder optimized for stronger performance and faster inference**|Michiel de Jong et.al.|[2212.08153v1](http://arxiv.org/abs/2212.08153v1)|null|
 |**2022-12-15**|**DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention**|Zhipeng Luo et.al.|[2212.07849v1](http://arxiv.org/abs/2212.07849v1)|null|
 |**2022-12-15**|**The operator algebra of cyclic orbifolds**|Benoit Estienne et.al.|[2212.07678v1](http://arxiv.org/abs/2212.07678v1)|null|
 |**2022-12-15**|**Multi-task Fusion for Efficient Panoptic-Part Segmentation**|Sravan Kumar Jagadeesh et.al.|[2212.07671v1](http://arxiv.org/abs/2212.07671v1)|null|
