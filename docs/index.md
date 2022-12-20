@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|null|
+|**2022-12-19**|**One Embedder, Any Task: Instruction-Finetuned Text Embeddings**|Hongjin Su et.al.|[2212.09741v1](http://arxiv.org/abs/2212.09741v1)|null|
+|**2022-12-19**|**A Survey of Vectorization Methods in Topological Data Analysis**|Dashti Ali et.al.|[2212.09703v1](http://arxiv.org/abs/2212.09703v1)|null|
+|**2022-12-19**|**Multilingual Sequence-to-Sequence Models for Hebrew NLP**|Matan Eyal et.al.|[2212.09682v1](http://arxiv.org/abs/2212.09682v1)|null|
+|**2022-12-19**|**Task-Oriented Communications for NextG: End-to-End Deep Learning and AI Security Aspects**|Yalin E. Sagduyu et.al.|[2212.09668v1](http://arxiv.org/abs/2212.09668v1)|null|
+|**2022-12-19**|**Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI**|Alex Mei et.al.|[2212.09667v1](http://arxiv.org/abs/2212.09667v1)|null|
+|**2022-12-19**|**Fast Low Rank column-wise Compressive Sensing for Accelerated Dynamic MRI**|Silpa Babu et.al.|[2212.09664v1](http://arxiv.org/abs/2212.09664v1)|null|
+|**2022-12-19**|**A Global Constraint to Improve CT Reconstruction Under Non-Ideal Conditions**|Ziyu Shu et.al.|[2212.09654v1](http://arxiv.org/abs/2212.09654v1)|null|
+|**2022-12-19**|**Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages**|Ercong Nie et.al.|[2212.09651v1](http://arxiv.org/abs/2212.09651v1)|null|
+|**2022-12-19**|**Learning Latent Representations to Co-Adapt to Humans**|Sagar Parekh et.al.|[2212.09586v1](http://arxiv.org/abs/2212.09586v1)|null|
 |**2022-12-16**|**Attentive Mask CLIP**|Yifan Yang et.al.|[2212.08653v1](http://arxiv.org/abs/2212.08653v1)|null|
 |**2022-12-16**|**Better May Not Be Fairer: Can Data Augmentation Mitigate Subgroup Degradation?**|Ming-Chang Chiu et.al.|[2212.08649v1](http://arxiv.org/abs/2212.08649v1)|null|
 |**2022-12-19**|**Development of A Real-time POCUS Image Quality Assessment and Acquisition Guidance System**|Zhenge Jia et.al.|[2212.08624v2](http://arxiv.org/abs/2212.08624v2)|null|
@@ -1353,6 +1363,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-19**|**Top Down Approach to Topological Duality Defects**|Jonathan J. Heckman et.al.|[2212.09743v1](http://arxiv.org/abs/2212.09743v1)|null|
+|**2022-12-19**|**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**|Vardaan Pahuja et.al.|[2212.09724v1](http://arxiv.org/abs/2212.09724v1)|null|
+|**2022-12-19**|**Algebraic Bethe ansatz for the open XXZ spin chain with non-diagonal boundary terms via $U_q\mathfrak{sl}_2$ symmetry**|Dmitry Chernyak et.al.|[2212.09696v1](http://arxiv.org/abs/2212.09696v1)|null|
+|**2022-12-19**|**"Zoology'' of non-invertible duality defects: the view from class $\mathcal{S}$**|Andrea Antinucci et.al.|[2212.09549v1](http://arxiv.org/abs/2212.09549v1)|null|
+|**2022-12-19**|**An Efficient Drug-Drug Interactions Prediction Technology for Molecularly Intelligent Manufacturing**|Peng Gao et.al.|[2212.09400v1](http://arxiv.org/abs/2212.09400v1)|null|
+|**2022-12-19**|**Cognitive Accident Prediction in Driving Scenes: A Multimodality Benchmark**|Jianwu Fang et.al.|[2212.09381v1](http://arxiv.org/abs/2212.09381v1)|**[link](https://github.com/jwfanggit/lotvs-cap)**|
+|**2022-12-18**|**Automated Optical Inspection of FAST's Reflector Surface using Drones and Computer Vision**|Jianan Li et.al.|[2212.09039v1](http://arxiv.org/abs/2212.09039v1)|null|
+|**2022-12-18**|**Fast FullSubNet: Accelerate Full-band and Sub-band Fusion Model for Single-channel Speech Enhancement**|Xiang Hao et.al.|[2212.09019v1](http://arxiv.org/abs/2212.09019v1)|null|
+|**2022-12-18**|**Efficient Image Captioning for Edge Devices**|Ning Wang et.al.|[2212.08985v1](http://arxiv.org/abs/2212.08985v1)|null|
+|**2022-12-17**|**ProNet: Adaptive Process Noise Estimation for INS/DVL Fusion**|Barak Or et.al.|[2212.08882v1](http://arxiv.org/abs/2212.08882v1)|null|
 |**2022-12-16**|**Non-Invertible Defects in Nonlinear Sigma Models and Coupling to Topological Orders**|Po-Shen Hsin et.al.|[2212.08608v1](http://arxiv.org/abs/2212.08608v1)|null|
 |**2022-12-19**|**Electronic Density Response of Warm Dense Matter**|Tobias Dornheim et.al.|[2212.08326v2](http://arxiv.org/abs/2212.08326v2)|null|
 |**2022-12-16**|**Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication**|Jinlong Li et.al.|[2212.08273v1](http://arxiv.org/abs/2212.08273v1)|null|
