@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-12-20, **Does unsupervised grammar induction need pixels?**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2212.10564v1](http://arxiv.org/abs/2212.10564v1)
+- 2022-12-20, **On-the-fly Denoising for Data Augmentation in Natural Language Understanding**, Tianqing Fang et.al., Paper: [http://arxiv.org/abs/2212.10558v1](http://arxiv.org/abs/2212.10558v1)
+- 2022-12-20, **Unleashing the Power of Visual Prompting At the Pixel Level**, Junyang Wu et.al., Paper: [http://arxiv.org/abs/2212.10556v1](http://arxiv.org/abs/2212.10556v1), Code: **[https://github.com/ucsc-vlaa/evp](https://github.com/ucsc-vlaa/evp)**
+- 2022-12-20, **InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds**, Tianjian Jiang et.al., Paper: [http://arxiv.org/abs/2212.10550v1](http://arxiv.org/abs/2212.10550v1)
+- 2022-12-20, **UNO-QA: An Unsupervised Anomaly-Aware Framework with Test-Time Clustering for OCTA Image Quality Assessment**, Juntao Chen et.al., Paper: [http://arxiv.org/abs/2212.10541v1](http://arxiv.org/abs/2212.10541v1)
+- 2022-12-20, **SLUE Phase-2: A Benchmark Suite of Diverse Spoken Language Understanding Tasks**, Suwon Shon et.al., Paper: [http://arxiv.org/abs/2212.10525v1](http://arxiv.org/abs/2212.10525v1)
+- 2022-12-20, **Perplexed by Quality: A Perplexity-based Method for Adult and Harmful Content Detection in Multilingual Heterogeneous Web Data**, Tim Jansen et.al., Paper: [http://arxiv.org/abs/2212.10440v1](http://arxiv.org/abs/2212.10440v1)
+- 2022-12-20, **QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity**, Siyu Huang et.al., Paper: [http://arxiv.org/abs/2212.10431v1](http://arxiv.org/abs/2212.10431v1)
+- 2022-12-20, **Walking Noise: Understanding Implications of Noisy Computations on Classification Tasks**, Hendrik Borras et.al., Paper: [http://arxiv.org/abs/2212.10430v1](http://arxiv.org/abs/2212.10430v1)
+- 2022-12-20, **Scene Change Detection Using Multiscale Cascade Residual Convolutional Neural Networks**, Daniel F. S. Santos et.al., Paper: [http://arxiv.org/abs/2212.10417v1](http://arxiv.org/abs/2212.10417v1)
 - 2022-12-19, **Scalable Diffusion Models with Transformers**, William Peebles et.al., Paper: [http://arxiv.org/abs/2212.09748v1](http://arxiv.org/abs/2212.09748v1)
 - 2022-12-20, **One Embedder, Any Task: Instruction-Finetuned Text Embeddings**, Hongjin Su et.al., Paper: [http://arxiv.org/abs/2212.09741v2](http://arxiv.org/abs/2212.09741v2)
 - 2022-12-19, **A Survey of Vectorization Methods in Topological Data Analysis**, Dashti Ali et.al., Paper: [http://arxiv.org/abs/2212.09703v1](http://arxiv.org/abs/2212.09703v1)
@@ -1355,6 +1365,15 @@
 
 ## MultiModal
 
+- 2022-12-20, **Temperature analysis of X-ray Thomson scattering data**, Tobias Dornheim et.al., Paper: [http://arxiv.org/abs/2212.10510v1](http://arxiv.org/abs/2212.10510v1)
+- 2022-12-20, **Factorization at Next-to-Leading Power and Endpoint Divergences in $gg\to h$ Production**, Ze Long Liu et.al., Paper: [http://arxiv.org/abs/2212.10447v1](http://arxiv.org/abs/2212.10447v1)
+- 2022-12-20, **ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**, Ben Fei et.al., Paper: [http://arxiv.org/abs/2212.10390v1](http://arxiv.org/abs/2212.10390v1), Code: **[https://github.com/fayeben/adas](https://github.com/fayeben/adas)**
+- 2022-12-20, **ParallelNet: Multi-mode Trajectory Prediction by Multi-mode Trajectory Fusion**, Fei Wu et.al., Paper: [http://arxiv.org/abs/2212.10203v1](http://arxiv.org/abs/2212.10203v1)
+- 2022-12-20, **Exploring Effective Fusion Algorithms for Speech Based Self-Supervised Learning Models**, Changli Tang et.al., Paper: [http://arxiv.org/abs/2212.10092v1](http://arxiv.org/abs/2212.10092v1)
+- 2022-12-20, **Simultaneous Factors Selection and Fusion of Their Levels in Penalized Logistic Regression**, Lea Kaufmann et.al., Paper: [http://arxiv.org/abs/2212.10073v1](http://arxiv.org/abs/2212.10073v1)
+- 2022-12-20, **InterMulti:Multi-view Multimodal Interactions with Text-dominated Hierarchical High-order Fusion for Emotion Analysis**, Feng Qiu et.al., Paper: [http://arxiv.org/abs/2212.10030v1](http://arxiv.org/abs/2212.10030v1)
+- 2022-12-20, **Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**, Ke Zhao et.al., Paper: [http://arxiv.org/abs/2212.09988v1](http://arxiv.org/abs/2212.09988v1)
+- 2022-12-19, **Dataless Knowledge Fusion by Merging Weights of Language Models**, Xisen Jin et.al., Paper: [http://arxiv.org/abs/2212.09849v1](http://arxiv.org/abs/2212.09849v1)
 - 2022-12-19, **Top Down Approach to Topological Duality Defects**, Jonathan J. Heckman et.al., Paper: [http://arxiv.org/abs/2212.09743v1](http://arxiv.org/abs/2212.09743v1)
 - 2022-12-19, **A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**, Vardaan Pahuja et.al., Paper: [http://arxiv.org/abs/2212.09724v1](http://arxiv.org/abs/2212.09724v1)
 - 2022-12-19, **Algebraic Bethe ansatz for the open XXZ spin chain with non-diagonal boundary terms via $U_q\mathfrak{sl}_2$ symmetry**, Dmitry Chernyak et.al., Paper: [http://arxiv.org/abs/2212.09696v1](http://arxiv.org/abs/2212.09696v1)
