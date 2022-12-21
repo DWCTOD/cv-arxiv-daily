@@ -3,7 +3,7 @@
 ## Video_Classification
 
 - 2022-12-19, **Scalable Diffusion Models with Transformers**, William Peebles et.al., Paper: [http://arxiv.org/abs/2212.09748v1](http://arxiv.org/abs/2212.09748v1)
-- 2022-12-19, **One Embedder, Any Task: Instruction-Finetuned Text Embeddings**, Hongjin Su et.al., Paper: [http://arxiv.org/abs/2212.09741v1](http://arxiv.org/abs/2212.09741v1)
+- 2022-12-20, **One Embedder, Any Task: Instruction-Finetuned Text Embeddings**, Hongjin Su et.al., Paper: [http://arxiv.org/abs/2212.09741v2](http://arxiv.org/abs/2212.09741v2)
 - 2022-12-19, **A Survey of Vectorization Methods in Topological Data Analysis**, Dashti Ali et.al., Paper: [http://arxiv.org/abs/2212.09703v1](http://arxiv.org/abs/2212.09703v1)
 - 2022-12-19, **Multilingual Sequence-to-Sequence Models for Hebrew NLP**, Matan Eyal et.al., Paper: [http://arxiv.org/abs/2212.09682v1](http://arxiv.org/abs/2212.09682v1)
 - 2022-12-19, **Task-Oriented Communications for NextG: End-to-End Deep Learning and AI Security Aspects**, Yalin E. Sagduyu et.al., Paper: [http://arxiv.org/abs/2212.09668v1](http://arxiv.org/abs/2212.09668v1)
