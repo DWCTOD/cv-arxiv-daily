@@ -1367,7 +1367,7 @@
 
 - 2022-12-20, **Temperature analysis of X-ray Thomson scattering data**, Tobias Dornheim et.al., Paper: [http://arxiv.org/abs/2212.10510v1](http://arxiv.org/abs/2212.10510v1)
 - 2022-12-20, **Factorization at Next-to-Leading Power and Endpoint Divergences in $gg\to h$ Production**, Ze Long Liu et.al., Paper: [http://arxiv.org/abs/2212.10447v1](http://arxiv.org/abs/2212.10447v1)
-- 2022-12-20, **ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**, Ben Fei et.al., Paper: [http://arxiv.org/abs/2212.10390v1](http://arxiv.org/abs/2212.10390v1), Code: **[https://github.com/fayeben/adas](https://github.com/fayeben/adas)**
+- 2022-12-21, **ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**, Ben Fei et.al., Paper: [http://arxiv.org/abs/2212.10390v2](http://arxiv.org/abs/2212.10390v2), Code: **[https://github.com/fayeben/adas](https://github.com/fayeben/adas)**
 - 2022-12-20, **ParallelNet: Multi-mode Trajectory Prediction by Multi-mode Trajectory Fusion**, Fei Wu et.al., Paper: [http://arxiv.org/abs/2212.10203v1](http://arxiv.org/abs/2212.10203v1)
 - 2022-12-20, **Exploring Effective Fusion Algorithms for Speech Based Self-Supervised Learning Models**, Changli Tang et.al., Paper: [http://arxiv.org/abs/2212.10092v1](http://arxiv.org/abs/2212.10092v1)
 - 2022-12-20, **Simultaneous Factors Selection and Fusion of Their Levels in Penalized Logistic Regression**, Lea Kaufmann et.al., Paper: [http://arxiv.org/abs/2212.10073v1](http://arxiv.org/abs/2212.10073v1)
