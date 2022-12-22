@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Large FOV short-wave infrared meta-lens for scanning fiber endoscopy**|Ningzhi Xie et.al.|[2212.11272v1](http://arxiv.org/abs/2212.11272v1)|null|
+|**2022-12-21**|**Generalized Decoding for Pixel, Image, and Language**|Xueyan Zou et.al.|[2212.11270v1](http://arxiv.org/abs/2212.11270v1)|**[link](https://github.com/microsoft/X-Decoder)**|
+|**2022-12-21**|**A Classification of Modular Functors via Factorization Homology**|Adrien Brochier et.al.|[2212.11259v1](http://arxiv.org/abs/2212.11259v1)|null|
+|**2022-12-21**|**Properties of Flare-Imminent versus Flare-Quiet Active Regions from the Chromosphere through the Corona II: NonParametric Discriminant Analysis Results from the NWRA Classification Infrastructure (NCI)**|KD Leka et.al.|[2212.11255v1](http://arxiv.org/abs/2212.11255v1)|null|
+|**2022-12-21**|**Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning**|Julien Denize et.al.|[2212.11187v1](http://arxiv.org/abs/2212.11187v1)|null|
+|**2022-12-21**|**A recurrent CNN for online object detection on raw radar frames**|Colin Decourt et.al.|[2212.11172v1](http://arxiv.org/abs/2212.11172v1)|null|
+|**2022-12-21**|**Lifelong Reinforcement Learning with Modulating Masks**|Eseoghene Ben-Iwhiwhu et.al.|[2212.11110v1](http://arxiv.org/abs/2212.11110v1)|null|
+|**2022-12-21**|**CNN waste classification project report**|Fei Wu et.al.|[2212.11050v1](http://arxiv.org/abs/2212.11050v1)|null|
+|**2022-12-21**|**Deep set conditioned latent representations for action recognition**|Akash Singh et.al.|[2212.11030v1](http://arxiv.org/abs/2212.11030v1)|null|
+|**2022-12-21**|**Object detection-based inspection of power line insulators: Incipient fault detection in the low data-regime**|Laya Das et.al.|[2212.11017v1](http://arxiv.org/abs/2212.11017v1)|null|
 |**2022-12-20**|**Does unsupervised grammar induction need pixels?**|Boyi Li et.al.|[2212.10564v1](http://arxiv.org/abs/2212.10564v1)|null|
 |**2022-12-20**|**On-the-fly Denoising for Data Augmentation in Natural Language Understanding**|Tianqing Fang et.al.|[2212.10558v1](http://arxiv.org/abs/2212.10558v1)|null|
 |**2022-12-20**|**Unleashing the Power of Visual Prompting At the Pixel Level**|Junyang Wu et.al.|[2212.10556v1](http://arxiv.org/abs/2212.10556v1)|**[link](https://github.com/ucsc-vlaa/evp)**|
@@ -1369,6 +1379,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Sensitivity to Triple Higgs Couplings via Di-Higgs Production in the 2HDM at the (HL-)LHC**|F. Arco et.al.|[2212.11242v1](http://arxiv.org/abs/2212.11242v1)|null|
+|**2022-12-21**|**Top Yukawa Coupling at the Muon Collider**|Miranda Chen et.al.|[2212.11067v1](http://arxiv.org/abs/2212.11067v1)|null|
+|**2022-12-21**|**TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization**|Fabrizio Guillaro et.al.|[2212.10957v1](http://arxiv.org/abs/2212.10957v1)|null|
+|**2022-12-21**|**Scalable Hybrid Learning Techniques for Scientific Data Compression**|Tania Banerjee et.al.|[2212.10733v1](http://arxiv.org/abs/2212.10733v1)|null|
 |**2022-12-20**|**Temperature analysis of X-ray Thomson scattering data**|Tobias Dornheim et.al.|[2212.10510v1](http://arxiv.org/abs/2212.10510v1)|null|
 |**2022-12-20**|**Factorization at Next-to-Leading Power and Endpoint Divergences in $gg\to h$ Production**|Ze Long Liu et.al.|[2212.10447v1](http://arxiv.org/abs/2212.10447v1)|null|
 |**2022-12-21**|**ADAS: A Simple Active-and-Adaptive Baseline for Cross-Domain 3D Semantic Segmentation**|Ben Fei et.al.|[2212.10390v2](http://arxiv.org/abs/2212.10390v2)|**[link](https://github.com/fayeben/adas)**|
