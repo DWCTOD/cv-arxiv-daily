@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.23
+## Updated on 2022.12.24
 
 ## Video_Classification
 
