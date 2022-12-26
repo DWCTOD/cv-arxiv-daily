@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-12-23, **A Privacy-Preserving Model based on Differential Approach for Sensitive Data in Cloud Environment**, Ashutosh Kumar Singh et.al., Paper: [http://arxiv.org/abs/2212.12534v1](http://arxiv.org/abs/2212.12534v1)
+- 2022-12-23, **Generalization Bounds for Transfer Learning with Pretrained Classifiers**, Tomer Galanti et.al., Paper: [http://arxiv.org/abs/2212.12532v1](http://arxiv.org/abs/2212.12532v1)
+- 2022-12-23, **Content Rating Classification for Fan Fiction**, Yu Qiao et.al., Paper: [http://arxiv.org/abs/2212.12496v1](http://arxiv.org/abs/2212.12496v1)
+- 2022-12-23, **Image Classification with Small Datasets: Overview and Benchmark**, L. Brigato et.al., Paper: [http://arxiv.org/abs/2212.12478v1](http://arxiv.org/abs/2212.12478v1), Code: **[https://github.com/lorenzobrigato/gem](https://github.com/lorenzobrigato/gem)**
+- 2022-12-23, **Generalizable Natural Language Processing Framework for Migraine Reporting from Social Media**, Yuting Guo et.al., Paper: [http://arxiv.org/abs/2212.12454v1](http://arxiv.org/abs/2212.12454v1)
+- 2022-12-23, **Liouville classification of integrable geodesic flows on a projective plane in a potential field**, E. I. Antonov et.al., Paper: [http://arxiv.org/abs/2212.12449v1](http://arxiv.org/abs/2212.12449v1)
+- 2022-12-23, **SRGe2149+6736 -- the new candidate to AM~Her type variables discovered by eROSITA telescope on "Spectrum--Roentgen--Gamma" orbital observatory**, I. F. Bikmaev et.al., Paper: [http://arxiv.org/abs/2212.12425v1](http://arxiv.org/abs/2212.12425v1)
+- 2022-12-23, **Delay Analysis of IEEE 802.11be\\Multi-link Operation under Finite Load**, Boris Bellalta et.al., Paper: [http://arxiv.org/abs/2212.12420v1](http://arxiv.org/abs/2212.12420v1)
+- 2022-12-23, **Benchmark for Uncertainty & Robustness in Self-Supervised Learning**, Ha Manh Bui et.al., Paper: [http://arxiv.org/abs/2212.12411v1](http://arxiv.org/abs/2212.12411v1), Code: **[https://github.com/hamanhbui/reliable_ssl_baselines](https://github.com/hamanhbui/reliable_ssl_baselines)**
+- 2022-12-23, **Detecting Objects with Graph Priors and Graph Refinement**, Aritra Bhowmik et.al., Paper: [http://arxiv.org/abs/2212.12395v1](http://arxiv.org/abs/2212.12395v1)
 - 2022-12-22, **Scalable Adaptive Computation for Iterative Generation**, Allan Jabri et.al., Paper: [http://arxiv.org/abs/2212.11972v1](http://arxiv.org/abs/2212.11972v1)
 - 2022-12-22, **Efficient Induction of Language Models Via Probabilistic Concept Formation**, Christopher J. MacLellan et.al., Paper: [http://arxiv.org/abs/2212.11937v1](http://arxiv.org/abs/2212.11937v1)
 - 2022-12-22, **Beyond SOT: It's Time to Track Multiple Generic Objects at Once**, Christoph Mayer et.al., Paper: [http://arxiv.org/abs/2212.11920v1](http://arxiv.org/abs/2212.11920v1)
@@ -1385,6 +1395,7 @@
 
 ## MultiModal
 
+- 2022-12-23, **Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360° Omnidirectional Image**, Runmin Cong et.al., Paper: [http://arxiv.org/abs/2212.12378v1](http://arxiv.org/abs/2212.12378v1)
 - 2022-12-22, **Electroweak corrections to $g+g\to H_{l,h}$ and $H_{l,h}\toγ+γ$ in the Higgs-singlet extension of the Standard model**, Christian Sturm et.al., Paper: [http://arxiv.org/abs/2212.11835v1](http://arxiv.org/abs/2212.11835v1)
 - 2022-12-22, **Multi muon/anti-muon signals via productions of gauge and scalar bosons in a $U(1)_{L_μ-L_τ}$ model at muonic colliders**, Arindam Das et.al., Paper: [http://arxiv.org/abs/2212.11674v1](http://arxiv.org/abs/2212.11674v1)
 - 2022-12-22, **Set-Transformer BeamsNet for AUV Velocity Forecasting in Complete DVL Outage Scenarios**, Nadav Cohen et.al., Paper: [http://arxiv.org/abs/2212.11671v1](http://arxiv.org/abs/2212.11671v1)
