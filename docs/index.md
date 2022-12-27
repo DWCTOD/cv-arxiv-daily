@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-26**|**Codes for Load Balancing in TCAMs: Size Analysis**|Yaniv Sadeh et.al.|[2212.13256v1](http://arxiv.org/abs/2212.13256v1)|null|
+|**2022-12-26**|**Learned Lossless Image Compression Through Interpolation With Low Complexity**|Fatih Kamisli et.al.|[2212.13243v1](http://arxiv.org/abs/2212.13243v1)|null|
+|**2022-12-26**|**Saliency-Augmented Memory Completion for Continual Learning**|Guangji Bai et.al.|[2212.13242v1](http://arxiv.org/abs/2212.13242v1)|**[link](https://github.com/baithebest/samc)**|
+|**2022-12-26**|**Group classification and exact solutions of a class of nonlinear waves**|J. C. Ndogmo et.al.|[2212.13238v1](http://arxiv.org/abs/2212.13238v1)|null|
+|**2022-12-26**|**DEQ-MPI: A Deep Equilibrium Reconstruction with Learned Consistency for Magnetic Particle Imaging**|Alper Güngör et.al.|[2212.13233v1](http://arxiv.org/abs/2212.13233v1)|null|
+|**2022-12-26**|**Integrable classes of a family of evolution equations**|J. C. Ndogmo et.al.|[2212.13230v1](http://arxiv.org/abs/2212.13230v1)|null|
+|**2022-12-26**|**IBIS soluble linear groups**|Andrea Lucchini et.al.|[2212.13219v1](http://arxiv.org/abs/2212.13219v1)|null|
+|**2022-12-26**|**2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance**|Andrea Cavallo et.al.|[2212.13202v1](http://arxiv.org/abs/2212.13202v1)|null|
+|**2022-12-26**|**A new combinatorial invariant caracterizing Anosov flows on 3-manifolds**|Ioannis Iakovoglou et.al.|[2212.13177v1](http://arxiv.org/abs/2212.13177v1)|null|
+|**2022-12-26**|**Higher order organizational features can distinguish protein interaction networks of disease classes: a case study of neoplasms and neurological diseases**|Vikram Singh et.al.|[2212.13171v1](http://arxiv.org/abs/2212.13171v1)|null|
 |**2022-12-23**|**A Privacy-Preserving Model based on Differential Approach for Sensitive Data in Cloud Environment**|Ashutosh Kumar Singh et.al.|[2212.12534v1](http://arxiv.org/abs/2212.12534v1)|null|
 |**2022-12-23**|**Generalization Bounds for Transfer Learning with Pretrained Classifiers**|Tomer Galanti et.al.|[2212.12532v1](http://arxiv.org/abs/2212.12532v1)|null|
 |**2022-12-23**|**Content Rating Classification for Fan Fiction**|Yu Qiao et.al.|[2212.12496v1](http://arxiv.org/abs/2212.12496v1)|null|
@@ -1403,6 +1413,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-26**|**Multisensor Data Fusion for Reliable Obstacle Avoidance**|Thanh Nguyen Canh et.al.|[2212.13218v1](http://arxiv.org/abs/2212.13218v1)|null|
+|**2022-12-26**|**A Level-Depth Correspondence between Verlinde Rings and Subfactors**|Jun Yang et.al.|[2212.13214v1](http://arxiv.org/abs/2212.13214v1)|null|
+|**2022-12-25**|**High current ionic flows via ultra-fast lasers for fusion applications**|Hartmut Ruhl et.al.|[2212.12941v1](http://arxiv.org/abs/2212.12941v1)|null|
+|**2022-12-25**|**Robust Linear Hybrid Beamforming Designs Relying on Imperfect CSI in mmWave MIMO IoT Networks**|Kunwar Pritiraj Rajput et.al.|[2212.12917v1](http://arxiv.org/abs/2212.12917v1)|null|
+|**2022-12-24**|**A Comprehensive Review on Autonomous Navigation**|Saeid Nahavandi et.al.|[2212.12808v1](http://arxiv.org/abs/2212.12808v1)|null|
+|**2022-12-24**|**Towards Blind Watermarking: Combining Invertible and Non-invertible Mechanisms**|Rui Ma et.al.|[2212.12678v1](http://arxiv.org/abs/2212.12678v1)|**[link](https://github.com/rm1110/cin)**|
+|**2022-12-23**|**Equi-isoclinic subspaces, covers of the complete graph, and complex conference matrices**|Matthew Fickus et.al.|[2212.12617v1](http://arxiv.org/abs/2212.12617v1)|null|
 |**2022-12-23**|**Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360° Omnidirectional Image**|Runmin Cong et.al.|[2212.12378v1](http://arxiv.org/abs/2212.12378v1)|null|
 |**2022-12-22**|**Electroweak corrections to $g+g\to H_{l,h}$ and $H_{l,h}\toγ+γ$ in the Higgs-singlet extension of the Standard model**|Christian Sturm et.al.|[2212.11835v1](http://arxiv.org/abs/2212.11835v1)|null|
 |**2022-12-22**|**Multi muon/anti-muon signals via productions of gauge and scalar bosons in a $U(1)_{L_μ-L_τ}$ model at muonic colliders**|Arindam Das et.al.|[2212.11674v1](http://arxiv.org/abs/2212.11674v1)|null|
