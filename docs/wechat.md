@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2022-12-28, **Bootstrapping Multi-Field Inflation: non-Gaussianities from light scalars revisited**, Dong-Gang Wang et.al., Paper: [http://arxiv.org/abs/2212.14035v1](http://arxiv.org/abs/2212.14035v1)
+- 2022-12-28, **How Do Deepfakes Move? Motion Magnification for Deepfake Source Detection**, Umur Aybars Ciftci et.al., Paper: [http://arxiv.org/abs/2212.14033v1](http://arxiv.org/abs/2212.14033v1)
+- 2022-12-28, **Relation between metallicities and spectral energy distributions of Herbig Ae/Be stars. A potential link with planet formation**, J. Guzman-Diaz et.al., Paper: [http://arxiv.org/abs/2212.14022v1](http://arxiv.org/abs/2212.14022v1)
+- 2022-12-28, **Anxolotl, an Anxiety Companion App -- Stress Detection**, Nuno Gomes et.al., Paper: [http://arxiv.org/abs/2212.14006v1](http://arxiv.org/abs/2212.14006v1), Code: **[https://github.com/matpato/cfp-workshop-and-challenge-wellbeing](https://github.com/matpato/cfp-workshop-and-challenge-wellbeing)**
+- 2022-12-28, **Lung-Net: A deep learning framework for lung tissue segmentation in three-dimensional thoracic CT images**, Niloufar Delfan et.al., Paper: [http://arxiv.org/abs/2212.13971v1](http://arxiv.org/abs/2212.13971v1)
+- 2022-12-28, **Data Augmentation using Transformers and Similarity Measures for Improving Arabic Text Classification**, Dania Refai et.al., Paper: [http://arxiv.org/abs/2212.13939v1](http://arxiv.org/abs/2212.13939v1)
+- 2022-12-28, **Evaluating Generalizability of Deep Learning Models Using Indian-COVID-19 CT Dataset**, Suba S et.al., Paper: [http://arxiv.org/abs/2212.13929v1](http://arxiv.org/abs/2212.13929v1), Code: **[https://github.com/aleesuss/c19](https://github.com/aleesuss/c19)**
+- 2022-12-28, **On toric Fano fibrations**, Florin Ambro et.al., Paper: [http://arxiv.org/abs/2212.13862v1](http://arxiv.org/abs/2212.13862v1)
+- 2022-12-28, **Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain**, Chengzhi Zhang et.al., Paper: [http://arxiv.org/abs/2212.13860v1](http://arxiv.org/abs/2212.13860v1), Code: **[https://github.com/xiangyi-njust/FWS](https://github.com/xiangyi-njust/FWS)**
+- 2022-12-28, **Multi-Realism Image Compression with a Conditional Generator**, Eirikur Agustsson et.al., Paper: [http://arxiv.org/abs/2212.13824v1](http://arxiv.org/abs/2212.13824v1)
 - 2022-12-26, **Codes for Load Balancing in TCAMs: Size Analysis**, Yaniv Sadeh et.al., Paper: [http://arxiv.org/abs/2212.13256v1](http://arxiv.org/abs/2212.13256v1)
 - 2022-12-26, **Learned Lossless Image Compression Through Interpolation With Low Complexity**, Fatih Kamisli et.al., Paper: [http://arxiv.org/abs/2212.13243v1](http://arxiv.org/abs/2212.13243v1)
 - 2022-12-26, **Saliency-Augmented Memory Completion for Continual Learning**, Guangji Bai et.al., Paper: [http://arxiv.org/abs/2212.13242v1](http://arxiv.org/abs/2212.13242v1), Code: **[https://github.com/baithebest/samc](https://github.com/baithebest/samc)**
@@ -1405,6 +1415,14 @@
 
 ## MultiModal
 
+- 2022-12-28, **Irrational braided generalized near-groups**, Andrew Schopieray et.al., Paper: [http://arxiv.org/abs/2212.14009v1](http://arxiv.org/abs/2212.14009v1)
+- 2022-12-26, **A Novel Self-Supervised Learning-Based Anomaly Node Detection Method Based on an Autoencoder in Wireless Sensor Networks**, Miao Ye et.al., Paper: [http://arxiv.org/abs/2212.13904v1](http://arxiv.org/abs/2212.13904v1), Code: **[https://github.com/guetye/anomaly_detection](https://github.com/guetye/anomaly_detection)**
+- 2022-12-28, **A Clustering-guided Contrastive Fusion for Multi-view Representation Learning**, Guanzhou Ke et.al., Paper: [http://arxiv.org/abs/2212.13726v1](http://arxiv.org/abs/2212.13726v1), Code: **[https://github.com/guanzhou-ke/cloven](https://github.com/guanzhou-ke/cloven)**
+- 2022-12-28, **Circular Accessible Depth: A Robust Traversability Representation for UGV Navigation**, Shikuan Xie et.al., Paper: [http://arxiv.org/abs/2212.13676v1](http://arxiv.org/abs/2212.13676v1)
+- 2022-12-28, **Large-scale single-photon imaging**, Liheng Bian et.al., Paper: [http://arxiv.org/abs/2212.13654v1](http://arxiv.org/abs/2212.13654v1)
+- 2022-12-27, **Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**, Eugene Lee et.al., Paper: [http://arxiv.org/abs/2212.13525v1](http://arxiv.org/abs/2212.13525v1), Code: **[https://github.com/eugenelet/crfp](https://github.com/eugenelet/crfp)**
+- 2022-12-27, **TegFormer: Topic-to-Essay Generation with Good Topic Coverage and High Text Coherence**, Wang Qi et.al., Paper: [http://arxiv.org/abs/2212.13456v1](http://arxiv.org/abs/2212.13456v1)
+- 2022-12-26, **Dynamics of Social Networks: Multi-agent Information Fusion, Anticipatory Decision Making and Polling**, Vikram Krishnamurthy et.al., Paper: [http://arxiv.org/abs/2212.13323v1](http://arxiv.org/abs/2212.13323v1)
 - 2022-12-26, **Multisensor Data Fusion for Reliable Obstacle Avoidance**, Thanh Nguyen Canh et.al., Paper: [http://arxiv.org/abs/2212.13218v1](http://arxiv.org/abs/2212.13218v1)
 - 2022-12-26, **A Level-Depth Correspondence between Verlinde Rings and Subfactors**, Jun Yang et.al., Paper: [http://arxiv.org/abs/2212.13214v1](http://arxiv.org/abs/2212.13214v1)
 - 2022-12-25, **High current ionic flows via ultra-fast lasers for fusion applications**, Hartmut Ruhl et.al., Paper: [http://arxiv.org/abs/2212.12941v1](http://arxiv.org/abs/2212.12941v1)
