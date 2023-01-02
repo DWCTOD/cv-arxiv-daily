@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-30**|**All maximal gauged supergravities with uplift**|Falk Hassler et.al.|[2212.14886v1](http://arxiv.org/abs/2212.14886v1)|null|
+|**2022-12-30**|**Informing selection of performance metrics for medical image segmentation evaluation using configurable synthetic errors**|Shuyue Guan et.al.|[2212.14828v1](http://arxiv.org/abs/2212.14828v1)|null|
+|**2022-12-30**|**On the Interpretability of Attention Networks**|Lakshmi Narayan Pandey et.al.|[2212.14776v1](http://arxiv.org/abs/2212.14776v1)|null|
+|**2022-12-30**|**Holonomic Poisson geometry of Hilbert schemes**|Mykola Matviichuk et.al.|[2212.14763v1](http://arxiv.org/abs/2212.14763v1)|null|
+|**2022-12-30**|**Critically fixed Thurston maps: classification, recognition, and twisting**|Mikhail Hlushchanka et.al.|[2212.14759v1](http://arxiv.org/abs/2212.14759v1)|null|
+|**2022-12-30**|**A Comparison Study of Deep CNN Architecture in Detecting of Pneumonia**|Al Mohidur Rahman Porag et.al.|[2212.14744v1](http://arxiv.org/abs/2212.14744v1)|null|
+|**2022-12-30**|**Machine Learning and Thermography Applied to the Detection and Classification of Cracks in Building**|Angela Busheska et.al.|[2212.14730v1](http://arxiv.org/abs/2212.14730v1)|null|
+|**2022-12-30**|**Detection of Malfunctioning Modules in Photovoltaic Power Plants using Unsupervised Feature Clustering Segmentation Algorithm**|Divyanshi Dwivedi et.al.|[2212.14653v1](http://arxiv.org/abs/2212.14653v1)|null|
+|**2022-12-30**|**Domain-specific transfer learning in the automated scoring of tumor-stroma ratio from histopathological images of colorectal cancer**|Liisa Petäinen et.al.|[2212.14652v1](http://arxiv.org/abs/2212.14652v1)|null|
+|**2022-12-30**|**Distant Reading of the German Coalition Deal: Recognizing Policy Positions with BERT-based Text Classification**|Michael Zylla et.al.|[2212.14648v1](http://arxiv.org/abs/2212.14648v1)|null|
 |**2022-12-28**|**Bootstrapping Multi-Field Inflation: non-Gaussianities from light scalars revisited**|Dong-Gang Wang et.al.|[2212.14035v1](http://arxiv.org/abs/2212.14035v1)|null|
 |**2022-12-28**|**How Do Deepfakes Move? Motion Magnification for Deepfake Source Detection**|Umur Aybars Ciftci et.al.|[2212.14033v1](http://arxiv.org/abs/2212.14033v1)|null|
 |**2022-12-28**|**Relation between metallicities and spectral energy distributions of Herbig Ae/Be stars. A potential link with planet formation**|J. Guzman-Diaz et.al.|[2212.14022v1](http://arxiv.org/abs/2212.14022v1)|null|
@@ -1423,6 +1433,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-30**|**Secure Fusion Estimation Against FDI Sensor Attacks in Cyber-Physical Systems**|Bo Chen et.al.|[2212.14755v1](http://arxiv.org/abs/2212.14755v1)|null|
+|**2022-12-28**|**Continuous relay fusion frame in Hilbert spaces**|Fakhr-dine Nhari et.al.|[2212.14708v1](http://arxiv.org/abs/2212.14708v1)|null|
+|**2022-12-30**|**Axial algebras of Monster type $(2η, η)$ for $D$ diagrams. I**|Andrey Mamontov et.al.|[2212.14608v1](http://arxiv.org/abs/2212.14608v1)|null|
+|**2022-12-29**|**MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid**|Zhuo Chen et.al.|[2212.14454v1](http://arxiv.org/abs/2212.14454v1)|null|
+|**2022-12-29**|**Linear analysis and crossphase dynamics in the $\nabla T_e$-driven CTEM fluid model**|M. Leconte et.al.|[2212.14210v1](http://arxiv.org/abs/2212.14210v1)|null|
+|**2022-12-29**|**QPanda: high-performance quantum computing framework for multiple application scenarios**|Menghan Dou et.al.|[2212.14201v1](http://arxiv.org/abs/2212.14201v1)|null|
+|**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
 |**2022-12-28**|**Irrational braided generalized near-groups**|Andrew Schopieray et.al.|[2212.14009v1](http://arxiv.org/abs/2212.14009v1)|null|
 |**2022-12-26**|**A Novel Self-Supervised Learning-Based Anomaly Node Detection Method Based on an Autoencoder in Wireless Sensor Networks**|Miao Ye et.al.|[2212.13904v1](http://arxiv.org/abs/2212.13904v1)|**[link](https://github.com/guetye/anomaly_detection)**|
 |**2022-12-28**|**A Clustering-guided Contrastive Fusion for Multi-view Representation Learning**|Guanzhou Ke et.al.|[2212.13726v1](http://arxiv.org/abs/2212.13726v1)|**[link](https://github.com/guanzhou-ke/cloven)**|
