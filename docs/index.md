@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-02**|**ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders**|Sanghyun Woo et.al.|[2301.00808v1](http://arxiv.org/abs/2301.00808v1)|**[link](https://github.com/facebookresearch/convnext-v2)**|
+|**2023-01-02**|**STEPs: Self-Supervised Key Step Extraction from Unlabeled Procedural Videos**|Anshul Shah et.al.|[2301.00794v1](http://arxiv.org/abs/2301.00794v1)|null|
+|**2023-01-02**|**CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**|Jie Liu et.al.|[2301.00785v1](http://arxiv.org/abs/2301.00785v1)|**[link](https://github.com/ljwztc/clip-driven-universal-model)**|
+|**2023-01-02**|**Segmentation based tracking of cells in 2D+time microscopy images of macrophages**|Seol Ah Park et.al.|[2301.00765v1](http://arxiv.org/abs/2301.00765v1)|null|
+|**2023-01-02**|**Point Cloud-based Proactive Link Quality Prediction for Millimeter-wave Communications**|Shoki Ohta et.al.|[2301.00752v1](http://arxiv.org/abs/2301.00752v1)|null|
+|**2023-01-02**|**Interactive Control over Temporal-consistency while Stylizing Video Streams**|Sumit Shekhar et.al.|[2301.00750v1](http://arxiv.org/abs/2301.00750v1)|null|
+|**2023-01-02**|**NaQ: Leveraging Narrations as Queries to Supervise Episodic Memory**|Santhosh Kumar Ramakrishnan et.al.|[2301.00746v1](http://arxiv.org/abs/2301.00746v1)|null|
+|**2023-01-02**|**P3DC-Shot: Prior-Driven Discrete Data Calibration for Nearest-Neighbor Few-Shot Classification**|Shuangmei Wang et.al.|[2301.00740v1](http://arxiv.org/abs/2301.00740v1)|**[link](https://github.com/breakaway7/p3dc-shot)**|
+|**2023-01-02**|**Tsetlin Machine Embedding: Representing Words Using Logical Expressions**|Bimal Bhattarai et.al.|[2301.00709v1](http://arxiv.org/abs/2301.00709v1)|null|
+|**2023-01-02**|**Using Active Learning Methods to Strategically Select Essays for Automated Scoring**|Tahereh Firoozi et.al.|[2301.00628v1](http://arxiv.org/abs/2301.00628v1)|null|
 |**2022-12-30**|**All maximal gauged supergravities with uplift**|Falk Hassler et.al.|[2212.14886v1](http://arxiv.org/abs/2212.14886v1)|null|
 |**2022-12-30**|**Informing selection of performance metrics for medical image segmentation evaluation using configurable synthetic errors**|Shuyue Guan et.al.|[2212.14828v1](http://arxiv.org/abs/2212.14828v1)|null|
 |**2022-12-30**|**On the Interpretability of Attention Networks**|Lakshmi Narayan Pandey et.al.|[2212.14776v1](http://arxiv.org/abs/2212.14776v1)|null|
@@ -1433,6 +1443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-02**|**Fusing Models for Prognostics and Health Management of Lithium-Ion Batteries Based on Physics-Informed Neural Networks**|Pengfei Wen et.al.|[2301.00776v1](http://arxiv.org/abs/2301.00776v1)|**[link](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)**|
+|**2023-01-02**|**Credible Remote Sensing Scene Classification Using Evidential Fusion on Aerial-Ground Dual-view Images**|Kun Zhao et.al.|[2301.00622v1](http://arxiv.org/abs/2301.00622v1)|**[link](https://github.com/gaopiaoliang/Evidential)**|
+|**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
+|**2023-01-01**|**Phase behaviour of coarse-grained fluids**|Vlad P Sokhan et.al.|[2301.00465v1](http://arxiv.org/abs/2301.00465v1)|null|
+|**2023-01-01**|**Refraction beats attenuation in breast CT**|Michał Rawlik et.al.|[2301.00455v1](http://arxiv.org/abs/2301.00455v1)|null|
+|**2023-01-01**|**Robust Domain Adaptive Object Detection with Unified Multi-Granularity Alignment**|Libo Zhang et.al.|[2301.00371v1](http://arxiv.org/abs/2301.00371v1)|null|
+|**2022-12-31**|**Depression Diagnosis and Analysis via Multimodal Multi-order Factor Fusion**|Chengbo Yuan et.al.|[2301.00254v1](http://arxiv.org/abs/2301.00254v1)|null|
+|**2022-12-31**|**Attentional Graph Convolutional Network for Structure-aware Audio-Visual Scene Classification**|Liguang Zhou et.al.|[2301.00145v1](http://arxiv.org/abs/2301.00145v1)|null|
+|**2022-12-30**|**Morphology-based non-rigid registration of coronary computed tomography and intravascular images through virtual catheter path optimization**|Karim Kadry et.al.|[2301.00060v1](http://arxiv.org/abs/2301.00060v1)|null|
+|**2022-12-30**|**Tailoring fusion-based error correction for high thresholds to biased fusion failures**|Kaavya Sahay et.al.|[2301.00019v1](http://arxiv.org/abs/2301.00019v1)|null|
 |**2022-12-30**|**Secure Fusion Estimation Against FDI Sensor Attacks in Cyber-Physical Systems**|Bo Chen et.al.|[2212.14755v1](http://arxiv.org/abs/2212.14755v1)|null|
 |**2022-12-28**|**Continuous relay fusion frame in Hilbert spaces**|Fakhr-dine Nhari et.al.|[2212.14708v1](http://arxiv.org/abs/2212.14708v1)|null|
 |**2022-12-30**|**Axial algebras of Monster type $(2η, η)$ for $D$ diagrams. I**|Andrey Mamontov et.al.|[2212.14608v1](http://arxiv.org/abs/2212.14608v1)|null|
