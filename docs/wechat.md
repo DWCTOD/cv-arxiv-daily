@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-01-03, **TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2301.01296v1](http://arxiv.org/abs/2301.01296v1), Code: **[https://github.com/oliverrensu/tinymim](https://github.com/oliverrensu/tinymim)**
+- 2023-01-03, **Frequency-aware Learned Image Compression for Quality Scalability**, Hyomin Choi et.al., Paper: [http://arxiv.org/abs/2301.01290v1](http://arxiv.org/abs/2301.01290v1)
+- 2023-01-03, **Introducing Variational Inference in Undergraduate Statistics and Data Science Curriculum**, Vojtech Kejzlar et.al., Paper: [http://arxiv.org/abs/2301.01251v1](http://arxiv.org/abs/2301.01251v1)
+- 2023-01-03, **Developing and deploying deep learning models in brain MRI: a review**, Kunal Aggarwal et.al., Paper: [http://arxiv.org/abs/2301.01241v1](http://arxiv.org/abs/2301.01241v1)
+- 2023-01-03, **Sample efficient graph classification using binary Gaussian boson sampling**, Amanuel Anteneh et.al., Paper: [http://arxiv.org/abs/2301.01232v1](http://arxiv.org/abs/2301.01232v1)
+- 2023-01-03, **Caustic spin wave beams in soft, thin films: properties and classification**, Alexis Wartelle et.al., Paper: [http://arxiv.org/abs/2301.01220v1](http://arxiv.org/abs/2301.01220v1)
+- 2023-01-03, **Translating Video Recordings of Complex Mobile App UI Gestures into Replayable Scenarios**, Carlos Bernal-Cárdenas et.al., Paper: [http://arxiv.org/abs/2301.01191v1](http://arxiv.org/abs/2301.01191v1)
+- 2023-01-03, **PMT-IQA: Progressive Multi-task Learning for Blind Image Quality Assessment**, Qingyi Pan et.al., Paper: [http://arxiv.org/abs/2301.01182v1](http://arxiv.org/abs/2301.01182v1), Code: **[https://github.com/pqy000/PMT-IQA](https://github.com/pqy000/PMT-IQA)**
+- 2023-01-03, **GRB minimum variability timescale with Insight-HXMT and Swift: implications for progenitor models, dissipation physics and GRB classifications**, A. E. Camisasca et.al., Paper: [http://arxiv.org/abs/2301.01176v1](http://arxiv.org/abs/2301.01176v1)
+- 2023-01-03, **Towards retrospective motion correction and reconstruction for clinical 3D brain MRI protocols with a reference contrast**, Gabrio Rizzuti et.al., Paper: [http://arxiv.org/abs/2301.01106v1](http://arxiv.org/abs/2301.01106v1)
 - 2023-01-02, **ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders**, Sanghyun Woo et.al., Paper: [http://arxiv.org/abs/2301.00808v1](http://arxiv.org/abs/2301.00808v1), Code: **[https://github.com/facebookresearch/convnext-v2](https://github.com/facebookresearch/convnext-v2)**
 - 2023-01-02, **STEPs: Self-Supervised Key Step Extraction from Unlabeled Procedural Videos**, Anshul Shah et.al., Paper: [http://arxiv.org/abs/2301.00794v1](http://arxiv.org/abs/2301.00794v1)
 - 2023-01-02, **CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection**, Jie Liu et.al., Paper: [http://arxiv.org/abs/2301.00785v1](http://arxiv.org/abs/2301.00785v1), Code: **[https://github.com/ljwztc/clip-driven-universal-model](https://github.com/ljwztc/clip-driven-universal-model)**
@@ -1435,6 +1445,10 @@
 
 ## MultiModal
 
+- 2023-01-03, **Higher categorical symmetries and gauging in two-dimensional spin systems**, Clement Delcamp et.al., Paper: [http://arxiv.org/abs/2301.01259v1](http://arxiv.org/abs/2301.01259v1)
+- 2023-01-03, **El elixir de la energía eterna**, José Manuel Quesada Molina et.al., Paper: [http://arxiv.org/abs/2301.01238v1](http://arxiv.org/abs/2301.01238v1)
+- 2023-01-03, **Plasma heating and particle acceleration in collisionless shocks through astrophysical observations**, Marco Miceli et.al., Paper: [http://arxiv.org/abs/2301.01183v1](http://arxiv.org/abs/2301.01183v1)
+- 2023-01-03, **Production and spectroscopic investigation of Mercury and Radon isotopes produced in complete fusion reaction and multi-nucleon transfer reaction at MASHA facility**, R. Pandey et.al., Paper: [http://arxiv.org/abs/2301.00952v1](http://arxiv.org/abs/2301.00952v1)
 - 2023-01-02, **Fusing Models for Prognostics and Health Management of Lithium-Ion Batteries Based on Physics-Informed Neural Networks**, Pengfei Wen et.al., Paper: [http://arxiv.org/abs/2301.00776v1](http://arxiv.org/abs/2301.00776v1), Code: **[https://github.com/WenPengfei0823/PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)**
 - 2023-01-02, **Credible Remote Sensing Scene Classification Using Evidential Fusion on Aerial-Ground Dual-view Images**, Kun Zhao et.al., Paper: [http://arxiv.org/abs/2301.00622v1](http://arxiv.org/abs/2301.00622v1), Code: **[https://github.com/gaopiaoliang/Evidential](https://github.com/gaopiaoliang/Evidential)**
 - 2023-01-02, **In-situ monitoring additive manufacturing process with AI edge computing**, Wenkang Zhu et.al., Paper: [http://arxiv.org/abs/2301.00554v1](http://arxiv.org/abs/2301.00554v1)
