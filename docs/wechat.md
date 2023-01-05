@@ -1446,7 +1446,7 @@
 ## MultiModal
 
 - 2023-01-03, **Higher categorical symmetries and gauging in two-dimensional spin systems**, Clement Delcamp et.al., Paper: [http://arxiv.org/abs/2301.01259v1](http://arxiv.org/abs/2301.01259v1)
-- 2023-01-03, **El elixir de la energía eterna**, José Manuel Quesada Molina et.al., Paper: [http://arxiv.org/abs/2301.01238v1](http://arxiv.org/abs/2301.01238v1)
+- 2023-01-04, **El elixir de la energía eterna**, José Manuel Quesada Molina et.al., Paper: [http://arxiv.org/abs/2301.01238v2](http://arxiv.org/abs/2301.01238v2)
 - 2023-01-03, **Plasma heating and particle acceleration in collisionless shocks through astrophysical observations**, Marco Miceli et.al., Paper: [http://arxiv.org/abs/2301.01183v1](http://arxiv.org/abs/2301.01183v1)
 - 2023-01-03, **Production and spectroscopic investigation of Mercury and Radon isotopes produced in complete fusion reaction and multi-nucleon transfer reaction at MASHA facility**, R. Pandey et.al., Paper: [http://arxiv.org/abs/2301.00952v1](http://arxiv.org/abs/2301.00952v1)
 - 2023-01-02, **Fusing Models for Prognostics and Health Management of Lithium-Ion Batteries Based on Physics-Informed Neural Networks**, Pengfei Wen et.al., Paper: [http://arxiv.org/abs/2301.00776v1](http://arxiv.org/abs/2301.00776v1), Code: **[https://github.com/WenPengfei0823/PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)**
