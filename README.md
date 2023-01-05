@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-04**|**Self-Supervised Video Forensics by Audio-Visual Anomaly Detection**|Chao Feng et.al.|[2301.01767v1](http://arxiv.org/abs/2301.01767v1)|null|
+|**2023-01-04**|**Cost-Sensitive Stacking: an Empirical Evaluation**|Natalie Lawrance et.al.|[2301.01748v1](http://arxiv.org/abs/2301.01748v1)|null|
+|**2023-01-04**|**UNAEN: Unsupervised Abnomality Extraction Network for MRI Motion Artifact Reduction**|Yusheng Zhou et.al.|[2301.01732v1](http://arxiv.org/abs/2301.01732v1)|null|
+|**2023-01-04**|**GUAP: Graph Universal Attack Through Adversarial Patching**|Xiao Zang et.al.|[2301.01731v1](http://arxiv.org/abs/2301.01731v1)|null|
+|**2023-01-04**|**COVID-Net USPro: An Open-Source Explainable Few-Shot Deep Prototypical Network to Monitor and Detect COVID-19 Infection from Point-of-Care Ultrasound Images**|Jessy Song et.al.|[2301.01679v1](http://arxiv.org/abs/2301.01679v1)|null|
+|**2023-01-04**|**Text sampling strategies for predicting missing bibliographic links**|F. V. Krasnova et.al.|[2301.01673v1](http://arxiv.org/abs/2301.01673v1)|null|
+|**2023-01-04**|**StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-based 3D Object Detection**|Zhe Liu et.al.|[2301.01615v1](http://arxiv.org/abs/2301.01615v1)|null|
+|**2023-01-04**|**Validity in Music Information Research Experiments**|Bob L. T. Sturm et.al.|[2301.01578v1](http://arxiv.org/abs/2301.01578v1)|null|
+|**2023-01-04**|**Multi-Task Learning with Prior Information**|Mengyuan Zhang et.al.|[2301.01572v1](http://arxiv.org/abs/2301.01572v1)|null|
+|**2023-01-04**|**MoBYv2AL: Self-supervised Active Learning for Image Classification**|Razvan Caramalau et.al.|[2301.01531v1](http://arxiv.org/abs/2301.01531v1)|**[link](https://github.com/razvancaramalau/mobyv2al)**|
 |**2023-01-03**|**TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models**|Sucheng Ren et.al.|[2301.01296v1](http://arxiv.org/abs/2301.01296v1)|**[link](https://github.com/oliverrensu/tinymim)**|
 |**2023-01-03**|**Frequency-aware Learned Image Compression for Quality Scalability**|Hyomin Choi et.al.|[2301.01290v1](http://arxiv.org/abs/2301.01290v1)|null|
 |**2023-01-03**|**Introducing Variational Inference in Undergraduate Statistics and Data Science Curriculum**|Vojtech Kejzlar et.al.|[2301.01251v1](http://arxiv.org/abs/2301.01251v1)|null|
@@ -1449,6 +1459,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-04**|**Modeling Sequential Recommendation as Missing Information Imputation**|Yujie Lin et.al.|[2301.01762v1](http://arxiv.org/abs/2301.01762v1)|**[link](https://github.com/tempsdu/miir)**|
+|**2023-01-04**|**Rapidity-only TMD factorization at one loop**|Ian Balitsky et.al.|[2301.01717v1](http://arxiv.org/abs/2301.01717v1)|null|
+|**2023-01-04**|**Special behavior of alkali beam emission spectroscopy in low-ion-temperature plasma**|P. Balázs et.al.|[2301.01691v1](http://arxiv.org/abs/2301.01691v1)|null|
+|**2023-01-04**|**The Langevin approach for fission of heavy and super-heavy nuclei**|F. A. Ivanyuk et.al.|[2301.01500v1](http://arxiv.org/abs/2301.01500v1)|null|
+|**2023-01-04**|**Low-frequency shear Alfvén waves at DIII-D: theoretical interpretation of experimental observations**|Ruirui Ma et.al.|[2301.01464v1](http://arxiv.org/abs/2301.01464v1)|null|
+|**2023-01-04**|**On the minimum transport required to passively suppress runaway electrons in SPARC disruptions**|R. A. Tinguely et.al.|[2301.01435v1](http://arxiv.org/abs/2301.01435v1)|null|
+|**2023-01-03**|**oneDNN Graph Compiler: A Hybrid Approach for High-Performance Deep Learning Compilation**|Jianhui Li et.al.|[2301.01333v1](http://arxiv.org/abs/2301.01333v1)|null|
 |**2023-01-03**|**Higher categorical symmetries and gauging in two-dimensional spin systems**|Clement Delcamp et.al.|[2301.01259v1](http://arxiv.org/abs/2301.01259v1)|null|
 |**2023-01-04**|**El elixir de la energía eterna**|José Manuel Quesada Molina et.al.|[2301.01238v2](http://arxiv.org/abs/2301.01238v2)|null|
 |**2023-01-03**|**Plasma heating and particle acceleration in collisionless shocks through astrophysical observations**|Marco Miceli et.al.|[2301.01183v1](http://arxiv.org/abs/2301.01183v1)|null|
