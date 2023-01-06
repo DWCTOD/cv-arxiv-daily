@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-01-05, **Skip-Attention: Improving Vision Transformers by Paying Less Attention**, Shashanka Venkataramanan et.al., Paper: [http://arxiv.org/abs/2301.02240v1](http://arxiv.org/abs/2301.02240v1)
+- 2023-01-05, **Robust Dynamic Radiance Fields**, Yu-Lun Liu et.al., Paper: [http://arxiv.org/abs/2301.02239v1](http://arxiv.org/abs/2301.02239v1)
+- 2023-01-05, **HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**, Benjamin Attal et.al., Paper: [http://arxiv.org/abs/2301.02238v1](http://arxiv.org/abs/2301.02238v1)
+- 2023-01-05, **MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**, Chaoyi Wu et.al., Paper: [http://arxiv.org/abs/2301.02228v1](http://arxiv.org/abs/2301.02228v1)
+- 2023-01-05, **Computing nonsurjective primes associated to Galois representations of genus $2$ curves**, Barinder S. Banwait et.al., Paper: [http://arxiv.org/abs/2301.02222v1](http://arxiv.org/abs/2301.02222v1)
+- 2023-01-05, **EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding**, Shuhan Tan et.al., Paper: [http://arxiv.org/abs/2301.02217v1](http://arxiv.org/abs/2301.02217v1)
+- 2023-01-05, **Automatic Sound Event Detection and Classification of Great Ape Calls Using Neural Networks**, Zifan Jiang et.al., Paper: [http://arxiv.org/abs/2301.02214v1](http://arxiv.org/abs/2301.02214v1)
+- 2023-01-05, **Domain Generalization via Ensemble Stacking for Face Presentation Attack Detection**, Usman Muhammad et.al., Paper: [http://arxiv.org/abs/2301.02145v1](http://arxiv.org/abs/2301.02145v1)
+- 2023-01-05, **Anaphora Resolution in Dialogue: System Description (CODI-CRAC 2022 Shared Task)**, Tatiana Anikina et.al., Paper: [http://arxiv.org/abs/2301.02113v1](http://arxiv.org/abs/2301.02113v1)
+- 2023-01-05, **Test of Time: Instilling Video-Language Models with a Sense of Time**, Piyush Bagad et.al., Paper: [http://arxiv.org/abs/2301.02074v1](http://arxiv.org/abs/2301.02074v1)
 - 2023-01-04, **Self-Supervised Video Forensics by Audio-Visual Anomaly Detection**, Chao Feng et.al., Paper: [http://arxiv.org/abs/2301.01767v1](http://arxiv.org/abs/2301.01767v1)
 - 2023-01-04, **Cost-Sensitive Stacking: an Empirical Evaluation**, Natalie Lawrance et.al., Paper: [http://arxiv.org/abs/2301.01748v1](http://arxiv.org/abs/2301.01748v1)
 - 2023-01-04, **UNAEN: Unsupervised Abnomality Extraction Network for MRI Motion Artifact Reduction**, Yusheng Zhou et.al., Paper: [http://arxiv.org/abs/2301.01732v1](http://arxiv.org/abs/2301.01732v1)
@@ -1455,6 +1465,9 @@
 
 ## MultiModal
 
+- 2023-01-05, **MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**, Chaoyi Wu et.al., Paper: [http://arxiv.org/abs/2301.02228v1](http://arxiv.org/abs/2301.02228v1)
+- 2023-01-05, **Simultaneously Transmitting and Reflecting (STAR) RIS Assisted Over-the-Air Computation Systems**, Xiongfei Zhai et.al., Paper: [http://arxiv.org/abs/2301.02044v1](http://arxiv.org/abs/2301.02044v1)
+- 2023-01-05, **Small Moving Object Detection Algorithm Based on Motion Information**, Ziwei Sun et.al., Paper: [http://arxiv.org/abs/2301.01917v1](http://arxiv.org/abs/2301.01917v1)
 - 2023-01-04, **Modeling Sequential Recommendation as Missing Information Imputation**, Yujie Lin et.al., Paper: [http://arxiv.org/abs/2301.01762v1](http://arxiv.org/abs/2301.01762v1), Code: **[https://github.com/tempsdu/miir](https://github.com/tempsdu/miir)**
 - 2023-01-04, **Rapidity-only TMD factorization at one loop**, Ian Balitsky et.al., Paper: [http://arxiv.org/abs/2301.01717v1](http://arxiv.org/abs/2301.01717v1)
 - 2023-01-04, **Special behavior of alkali beam emission spectroscopy in low-ion-temperature plasma**, P. Balázs et.al., Paper: [http://arxiv.org/abs/2301.01691v1](http://arxiv.org/abs/2301.01691v1)
