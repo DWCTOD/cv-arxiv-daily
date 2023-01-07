@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-01-05**|**Skip-Attention: Improving Vision Transformers by Paying Less Attention**|Shashanka Venkataramanan et.al.|[2301.02240v1](http://arxiv.org/abs/2301.02240v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
-|**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|null|
+|**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|**[link](https://github.com/facebookresearch/hyperreel)**|
 |**2023-01-05**|**MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**|Chaoyi Wu et.al.|[2301.02228v1](http://arxiv.org/abs/2301.02228v1)|null|
 |**2023-01-05**|**Computing nonsurjective primes associated to Galois representations of genus $2$ curves**|Barinder S. Banwait et.al.|[2301.02222v1](http://arxiv.org/abs/2301.02222v1)|null|
 |**2023-01-05**|**EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding**|Shuhan Tan et.al.|[2301.02217v1](http://arxiv.org/abs/2301.02217v1)|null|
