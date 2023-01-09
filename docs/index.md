@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-06**|**TarViS: A Unified Approach for Target-based Video Segmentation**|Ali Athar et.al.|[2301.02657v1](http://arxiv.org/abs/2301.02657v1)|null|
+|**2023-01-06**|**Universal adaptive optics for microscopy through embedded neural network control**|Qi Hu et.al.|[2301.02647v1](http://arxiv.org/abs/2301.02647v1)|null|
+|**2023-01-06**|**Triple-stream Deep Metric Learning of Great Ape Behavioural Actions**|Otto Brookes et.al.|[2301.02642v1](http://arxiv.org/abs/2301.02642v1)|null|
+|**2023-01-06**|**Counterexamples to a divergence lower bound for the covariant derivative of skew-symmetric 2-tensor fields**|Stefano Borghini et.al.|[2301.02633v1](http://arxiv.org/abs/2301.02633v1)|null|
+|**2023-01-06**|**Learning Deep MRI Reconstruction Models from Scratch in Low-Data Regimes**|Salman UH Dar et.al.|[2301.02613v1](http://arxiv.org/abs/2301.02613v1)|null|
+|**2023-01-06**|**A CAD System for Colorectal Cancer from WSI: A Clinically Validated Interpretable ML-based Prototype**|Pedro C. Neto et.al.|[2301.02608v1](http://arxiv.org/abs/2301.02608v1)|null|
+|**2023-01-06**|**SEQUENT: Towards Traceable Quantum Machine Learning using Sequential Quantum Enhanced Training**|Philipp Altmann et.al.|[2301.02601v1](http://arxiv.org/abs/2301.02601v1)|**[link](https://github.com/philippaltmann/sequent)**|
+|**2023-01-06**|**Online Fusion of Multi-resolution Multispectral Images with Weakly Supervised Temporal Dynamics**|Haoqing Li et.al.|[2301.02598v1](http://arxiv.org/abs/2301.02598v1)|null|
+|**2023-01-06**|**Differential forms on universal K3 surfaces**|Shouhei Ma et.al.|[2301.02550v1](http://arxiv.org/abs/2301.02550v1)|null|
+|**2023-01-06**|**Tackling Data Bias in Painting Classification with Style Transfer**|Mridula Vijendran et.al.|[2301.02524v1](http://arxiv.org/abs/2301.02524v1)|**[link](https://github.com/41enthusiast/st-saclf)**|
 |**2023-01-05**|**Skip-Attention: Improving Vision Transformers by Paying Less Attention**|Shashanka Venkataramanan et.al.|[2301.02240v1](http://arxiv.org/abs/2301.02240v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
 |**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|**[link](https://github.com/facebookresearch/hyperreel)**|
@@ -1473,6 +1483,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-06**|**Triple-stream Deep Metric Learning of Great Ape Behavioural Actions**|Otto Brookes et.al.|[2301.02642v1](http://arxiv.org/abs/2301.02642v1)|null|
+|**2023-01-06**|**Learning Deep MRI Reconstruction Models from Scratch in Low-Data Regimes**|Salman UH Dar et.al.|[2301.02613v1](http://arxiv.org/abs/2301.02613v1)|null|
+|**2023-01-06**|**Online Fusion of Multi-resolution Multispectral Images with Weakly Supervised Temporal Dynamics**|Haoqing Li et.al.|[2301.02598v1](http://arxiv.org/abs/2301.02598v1)|null|
+|**2023-01-06**|**IMKGA-SM: Interpretable Multimodal Knowledge Graph Answer Prediction via Sequence Modeling**|Yilin Wen et.al.|[2301.02445v1](http://arxiv.org/abs/2301.02445v1)|null|
+|**2023-01-06**|**Graph Convolution Based Cross-Network Multi-Scale Feature Fusion for Deep Vessel Segmentation**|Gangming Zhao et.al.|[2301.02393v1](http://arxiv.org/abs/2301.02393v1)|null|
+|**2023-01-06**|**MR Elastography with Optimization-Based Phase Unwrapping and Traveling Wave Expansion-based Neural Network (TWENN)**|Shengyuan Ma et.al.|[2301.02367v1](http://arxiv.org/abs/2301.02367v1)|null|
 |**2023-01-05**|**MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**|Chaoyi Wu et.al.|[2301.02228v1](http://arxiv.org/abs/2301.02228v1)|null|
 |**2023-01-05**|**Simultaneously Transmitting and Reflecting (STAR) RIS Assisted Over-the-Air Computation Systems**|Xiongfei Zhai et.al.|[2301.02044v1](http://arxiv.org/abs/2301.02044v1)|null|
 |**2023-01-05**|**Small Moving Object Detection Algorithm Based on Motion Information**|Ziwei Sun et.al.|[2301.01917v1](http://arxiv.org/abs/2301.01917v1)|null|
