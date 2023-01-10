@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-09**|**Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**|Armin Danesh Pazho et.al.|[2301.03561v1](http://arxiv.org/abs/2301.03561v1)|null|
+|**2023-01-09**|**A systematic literature review of capstone courses in software engineering**|Saara Tenhunen et.al.|[2301.03554v1](http://arxiv.org/abs/2301.03554v1)|null|
+|**2023-01-09**|**SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural Networks**|Thomas Monninger et.al.|[2301.03512v1](http://arxiv.org/abs/2301.03512v1)|null|
+|**2023-01-09**|**Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review**|Reza Azad et.al.|[2301.03505v1](http://arxiv.org/abs/2301.03505v1)|null|
+|**2023-01-09**|**Radial pulsations, moment of inertia and tidal deformability of dark energy stars**|Juan M. Z. Pretel et.al.|[2301.03504v1](http://arxiv.org/abs/2301.03504v1)|null|
+|**2023-01-09**|**On the challenges to learn from Natural Data Streams**|Guido Borghi et.al.|[2301.03495v1](http://arxiv.org/abs/2301.03495v1)|null|
+|**2023-01-09**|**L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging**|Huy Phan et.al.|[2301.03441v1](http://arxiv.org/abs/2301.03441v1)|null|
+|**2023-01-09**|**MUSE crowded field 3D spectroscopy in NGC 300 : IV. Planetary nebula luminosity function**|Azlizan A. Soemitro et.al.|[2301.03437v1](http://arxiv.org/abs/2301.03437v1)|null|
+|**2023-01-09**|**End-to-end Unsupervised Learning of Long-Term 3D Stable objects**|Ibrahim Hroob et.al.|[2301.03426v1](http://arxiv.org/abs/2301.03426v1)|null|
+|**2023-01-09**|**Evaluation of image registration for measuring deformation fields in soft tissue mechanics**|Ondřej Lisický et.al.|[2301.03419v1](http://arxiv.org/abs/2301.03419v1)|null|
 |**2023-01-06**|**TarViS: A Unified Approach for Target-based Video Segmentation**|Ali Athar et.al.|[2301.02657v1](http://arxiv.org/abs/2301.02657v1)|null|
 |**2023-01-06**|**Universal adaptive optics for microscopy through embedded neural network control**|Qi Hu et.al.|[2301.02647v1](http://arxiv.org/abs/2301.02647v1)|null|
 |**2023-01-06**|**Triple-stream Deep Metric Learning of Great Ape Behavioural Actions**|Otto Brookes et.al.|[2301.02642v1](http://arxiv.org/abs/2301.02642v1)|null|
@@ -1483,6 +1493,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-09**|**The role of field correlations on turbulent dissipation**|Annick Pouquet et.al.|[2301.03492v1](http://arxiv.org/abs/2301.03492v1)|null|
+|**2023-01-09**|**High-Resolution Cloud Removal with Multi-Modal and Multi-Resolution Data Fusion: A New Baseline and Benchmark**|Fang Xu et.al.|[2301.03432v1](http://arxiv.org/abs/2301.03432v1)|**[link](https://github.com/zhu-xlab/planet-cr)**|
+|**2023-01-09**|**Search for nonresonant pair production of Higgs bosons in the $b\bar{b}b\bar{b}$ final state in $pp$ collisions at $\sqrt{s}= 13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2301.03212v1](http://arxiv.org/abs/2301.03212v1)|null|
+|**2023-01-08**|**Large-scale Global Low-rank Optimization for Computational Compressed Imaging**|Daoyu Li et.al.|[2301.03047v1](http://arxiv.org/abs/2301.03047v1)|null|
+|**2023-01-08**|**HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection**|Bin Tang et.al.|[2301.03036v1](http://arxiv.org/abs/2301.03036v1)|**[link](https://github.com/liuzywen/hrtransnet)**|
+|**2023-01-08**|**RGB-T Multi-Modal Crowd Counting Based on Transformer**|Zhengyi Liu et.al.|[2301.03033v1](http://arxiv.org/abs/2301.03033v1)|**[link](https://github.com/liuzywen/rgbtcc)**|
+|**2023-01-07**|**Towards early prediction of neurodevelopmental disorders: Computational model for Face Touch and Self-adaptors in Infants**|Bruno Tafur et.al.|[2301.02911v1](http://arxiv.org/abs/2301.02911v1)|null|
+|**2023-01-07**|**A Greedy-optimized Framework for Heart Rate Variability Monitoring during Daily Activities using Wearable Photoplethysmography**|Luffina C. Huang et.al.|[2301.02906v1](http://arxiv.org/abs/2301.02906v1)|null|
+|**2023-01-07**|**Sensitivity analysis for transportability in multi-study, multi-outcome settings**|Ngoc Q. Duong et.al.|[2301.02904v1](http://arxiv.org/abs/2301.02904v1)|null|
+|**2023-01-07**|**CGI-Stereo: Accurate and Real-Time Stereo Matching via Context and Geometry Interaction**|Gangwei Xu et.al.|[2301.02789v1](http://arxiv.org/abs/2301.02789v1)|null|
 |**2023-01-06**|**Triple-stream Deep Metric Learning of Great Ape Behavioural Actions**|Otto Brookes et.al.|[2301.02642v1](http://arxiv.org/abs/2301.02642v1)|null|
 |**2023-01-06**|**Learning Deep MRI Reconstruction Models from Scratch in Low-Data Regimes**|Salman UH Dar et.al.|[2301.02613v1](http://arxiv.org/abs/2301.02613v1)|null|
 |**2023-01-06**|**Online Fusion of Multi-resolution Multispectral Images with Weakly Supervised Temporal Dynamics**|Haoqing Li et.al.|[2301.02598v1](http://arxiv.org/abs/2301.02598v1)|null|
