@@ -1482,7 +1482,7 @@
 |**2023-01-06**|**Triple-stream Deep Metric Learning of Great Ape Behavioural Actions**|Otto Brookes et.al.|[2301.02642v1](http://arxiv.org/abs/2301.02642v1)|null|
 |**2023-01-06**|**Learning Deep MRI Reconstruction Models from Scratch in Low-Data Regimes**|Salman UH Dar et.al.|[2301.02613v1](http://arxiv.org/abs/2301.02613v1)|null|
 |**2023-01-06**|**Online Fusion of Multi-resolution Multispectral Images with Weakly Supervised Temporal Dynamics**|Haoqing Li et.al.|[2301.02598v1](http://arxiv.org/abs/2301.02598v1)|null|
-|**2023-01-06**|**IMKGA-SM: Interpretable Multimodal Knowledge Graph Answer Prediction via Sequence Modeling**|Yilin Wen et.al.|[2301.02445v1](http://arxiv.org/abs/2301.02445v1)|null|
+|**2023-01-09**|**IMKGA-SM: Interpretable Multimodal Knowledge Graph Answer Prediction via Sequence Modeling**|Yilin Wen et.al.|[2301.02445v2](http://arxiv.org/abs/2301.02445v2)|null|
 |**2023-01-06**|**Graph Convolution Based Cross-Network Multi-Scale Feature Fusion for Deep Vessel Segmentation**|Gangming Zhao et.al.|[2301.02393v1](http://arxiv.org/abs/2301.02393v1)|null|
 |**2023-01-06**|**MR Elastography with Optimization-Based Phase Unwrapping and Traveling Wave Expansion-based Neural Network (TWENN)**|Shengyuan Ma et.al.|[2301.02367v1](http://arxiv.org/abs/2301.02367v1)|null|
 |**2023-01-05**|**MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**|Chaoyi Wu et.al.|[2301.02228v1](http://arxiv.org/abs/2301.02228v1)|null|
