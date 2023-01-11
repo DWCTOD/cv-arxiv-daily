@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-01-10, **Adaptive and Scalable Compression of Multispectral Images using VVC**, Philipp Seltsam et.al., Paper: [http://arxiv.org/abs/2301.04117v1](http://arxiv.org/abs/2301.04117v1)
+- 2023-01-10, **Rethinking Voxelization and Classification for 3D Object Detection**, Youshaa Murhij et.al., Paper: [http://arxiv.org/abs/2301.04058v1](http://arxiv.org/abs/2301.04058v1), Code: **[https://github.com/youshaamurhij/rvcdet](https://github.com/youshaamurhij/rvcdet)**
+- 2023-01-10, **Imbalanced Classification In Faulty Turbine Data: New Proximal Policy Optimization**, Mohammad Hossein Modirrousta et.al., Paper: [http://arxiv.org/abs/2301.04049v1](http://arxiv.org/abs/2301.04049v1)
+- 2023-01-10, **ROBUSfT: Robust Real-Time Shape-from-Template, a C++ Library**, Mohammadreza Shetab-Bushehri et.al., Paper: [http://arxiv.org/abs/2301.04037v1](http://arxiv.org/abs/2301.04037v1), Code: **[https://github.com/mrshetab/robusft](https://github.com/mrshetab/robusft)**
+- 2023-01-10, **Does image resolution impact chest X-ray based fine-grained Tuberculosis-consistent lesion segmentation?**, Sivaramakrishnan Rajaraman et.al., Paper: [http://arxiv.org/abs/2301.04032v1](http://arxiv.org/abs/2301.04032v1)
+- 2023-01-10, **A Q-operator for open spin chains II: boundary factorization**, Alec Cooper et.al., Paper: [http://arxiv.org/abs/2301.03997v1](http://arxiv.org/abs/2301.03997v1)
+- 2023-01-10, **Collaborative Semantic Communication at the Edge**, Wing Fei Lo et.al., Paper: [http://arxiv.org/abs/2301.03996v1](http://arxiv.org/abs/2301.03996v1)
+- 2023-01-10, **Semi-Supervised Learning with Pseudo-Negative Labels for Image Classification**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2301.03976v1](http://arxiv.org/abs/2301.03976v1)
+- 2023-01-10, **A Unified Theory of Diversity in Ensemble Learning**, Danny Wood et.al., Paper: [http://arxiv.org/abs/2301.03962v1](http://arxiv.org/abs/2301.03962v1)
+- 2023-01-10, **AI based approach to Trailer Generation for Online Educational Courses**, Prakhar Mishra et.al., Paper: [http://arxiv.org/abs/2301.03957v1](http://arxiv.org/abs/2301.03957v1)
 - 2023-01-09, **Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**, Armin Danesh Pazho et.al., Paper: [http://arxiv.org/abs/2301.03561v1](http://arxiv.org/abs/2301.03561v1)
 - 2023-01-09, **A systematic literature review of capstone courses in software engineering**, Saara Tenhunen et.al., Paper: [http://arxiv.org/abs/2301.03554v1](http://arxiv.org/abs/2301.03554v1)
 - 2023-01-09, **SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural Networks**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2301.03512v1](http://arxiv.org/abs/2301.03512v1)
@@ -1485,6 +1495,8 @@
 
 ## MultiModal
 
+- 2023-01-09, **Distributed Sparse Linear Regression under Communication Constraints**, Rodney Fonseca et.al., Paper: [http://arxiv.org/abs/2301.04022v1](http://arxiv.org/abs/2301.04022v1)
+- 2023-01-10, **Video Semantic Segmentation with Inter-Frame Feature Fusion and Inner-Frame Feature Refinement**, Jiafan Zhuang et.al., Paper: [http://arxiv.org/abs/2301.03832v1](http://arxiv.org/abs/2301.03832v1), Code: **[https://github.com/jfzhuang/st_memory](https://github.com/jfzhuang/st_memory)**
 - 2023-01-09, **The role of field correlations on turbulent dissipation**, Annick Pouquet et.al., Paper: [http://arxiv.org/abs/2301.03492v1](http://arxiv.org/abs/2301.03492v1)
 - 2023-01-09, **High-Resolution Cloud Removal with Multi-Modal and Multi-Resolution Data Fusion: A New Baseline and Benchmark**, Fang Xu et.al., Paper: [http://arxiv.org/abs/2301.03432v1](http://arxiv.org/abs/2301.03432v1), Code: **[https://github.com/zhu-xlab/planet-cr](https://github.com/zhu-xlab/planet-cr)**
 - 2023-01-09, **Search for nonresonant pair production of Higgs bosons in the $b\bar{b}b\bar{b}$ final state in $pp$ collisions at $\sqrt{s}= 13$ TeV with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2301.03212v1](http://arxiv.org/abs/2301.03212v1)
