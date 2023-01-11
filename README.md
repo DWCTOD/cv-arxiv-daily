@@ -7,7 +7,7 @@
 |**2023-01-09**|**Ancilia: Scalable Intelligent Video Surveillance for the Artificial Intelligence of Things**|Armin Danesh Pazho et.al.|[2301.03561v1](http://arxiv.org/abs/2301.03561v1)|null|
 |**2023-01-09**|**A systematic literature review of capstone courses in software engineering**|Saara Tenhunen et.al.|[2301.03554v1](http://arxiv.org/abs/2301.03554v1)|null|
 |**2023-01-09**|**SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural Networks**|Thomas Monninger et.al.|[2301.03512v1](http://arxiv.org/abs/2301.03512v1)|null|
-|**2023-01-09**|**Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review**|Reza Azad et.al.|[2301.03505v1](http://arxiv.org/abs/2301.03505v1)|null|
+|**2023-01-10**|**Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review**|Reza Azad et.al.|[2301.03505v2](http://arxiv.org/abs/2301.03505v2)|**[link](https://github.com/mindflow-institue/awesome-transformer)**|
 |**2023-01-09**|**Radial pulsations, moment of inertia and tidal deformability of dark energy stars**|Juan M. Z. Pretel et.al.|[2301.03504v1](http://arxiv.org/abs/2301.03504v1)|null|
 |**2023-01-09**|**On the challenges to learn from Natural Data Streams**|Guido Borghi et.al.|[2301.03495v1](http://arxiv.org/abs/2301.03495v1)|null|
 |**2023-01-09**|**L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging**|Huy Phan et.al.|[2301.03441v1](http://arxiv.org/abs/2301.03441v1)|null|
