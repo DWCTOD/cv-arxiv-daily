@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Does progress on ImageNet transfer to real-world datasets?**|Alex Fang et.al.|[2301.04644v1](http://arxiv.org/abs/2301.04644v1)|null|
+|**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
+|**2023-01-11**|**Deep Axial Hypercomplex Networks**|Nazmul Shahadat et.al.|[2301.04626v1](http://arxiv.org/abs/2301.04626v1)|null|
+|**2023-01-11**|**Enhancing ResNet Image Classification Performance by using Parameterized Hypercomplex Multiplication**|Nazmul Shahadat et.al.|[2301.04623v1](http://arxiv.org/abs/2301.04623v1)|null|
+|**2023-01-11**|**TinyHD: Efficient Video Saliency Prediction with Heterogeneous Decoders using Hierarchical Maps Distillation**|Feiyan Hu et.al.|[2301.04619v1](http://arxiv.org/abs/2301.04619v1)|**[link](https://github.com/feiyanhu/tinyhd)**|
+|**2023-01-11**|**Generative-Contrastive Learning for Self-Supervised Latent Representations of 3D Shapes from Multi-Modal Euclidean Input**|Chengzhi Wu et.al.|[2301.04612v1](http://arxiv.org/abs/2301.04612v1)|null|
+|**2023-01-11**|**Padding Module: Learning the Padding in Deep Neural Networks**|Fahad Alrasheedi et.al.|[2301.04608v1](http://arxiv.org/abs/2301.04608v1)|null|
+|**2023-01-11**|**Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing**|Shruthi Bannur et.al.|[2301.04558v1](http://arxiv.org/abs/2301.04558v1)|null|
+|**2023-01-11**|**Universal Detection of Backdoor Attacks via Density-based Clustering and Centroids Analysis**|Wei Guo et.al.|[2301.04554v1](http://arxiv.org/abs/2301.04554v1)|null|
+|**2023-01-11**|**Few-shot Learning for Cross-Target Stance Detection by Aggregating Multimodal Embeddings**|Parisa Jamadi Khiabani et.al.|[2301.04535v1](http://arxiv.org/abs/2301.04535v1)|null|
 |**2023-01-10**|**Adaptive and Scalable Compression of Multispectral Images using VVC**|Philipp Seltsam et.al.|[2301.04117v1](http://arxiv.org/abs/2301.04117v1)|null|
 |**2023-01-10**|**Rethinking Voxelization and Classification for 3D Object Detection**|Youshaa Murhij et.al.|[2301.04058v1](http://arxiv.org/abs/2301.04058v1)|**[link](https://github.com/youshaamurhij/rvcdet)**|
 |**2023-01-10**|**Imbalanced Classification In Faulty Turbine Data: New Proximal Policy Optimization**|Mohammad Hossein Modirrousta et.al.|[2301.04049v1](http://arxiv.org/abs/2301.04049v1)|null|
@@ -1499,6 +1509,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Multimodal Inverse Cloze Task for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2301.04366v1](http://arxiv.org/abs/2301.04366v1)|**[link](https://github.com/paullerner/viquae)**|
+|**2023-01-11**|**Systematic study of the effect of individual rotational energy levels on the fusion cross-section of \texorpdfstring{$^{16}O$}--based reactions of range $480 \le {Z_PZ_T} \le 592$**|Nishu Jain et.al.|[2301.04363v1](http://arxiv.org/abs/2301.04363v1)|null|
+|**2023-01-10**|**Robust Human Identity Anonymization using Pose Estimation**|Hengyuan Zhang et.al.|[2301.04243v1](http://arxiv.org/abs/2301.04243v1)|**[link](https://github.com/autonomousvehiclelaboratory/anonymization)**|
+|**2023-01-10**|**Topological defects as lagrangian correspondences**|Alex S. Arvanitakis et.al.|[2301.04143v1](http://arxiv.org/abs/2301.04143v1)|null|
 |**2023-01-09**|**Distributed Sparse Linear Regression under Communication Constraints**|Rodney Fonseca et.al.|[2301.04022v1](http://arxiv.org/abs/2301.04022v1)|null|
 |**2023-01-10**|**Video Semantic Segmentation with Inter-Frame Feature Fusion and Inner-Frame Feature Refinement**|Jiafan Zhuang et.al.|[2301.03832v1](http://arxiv.org/abs/2301.03832v1)|**[link](https://github.com/jfzhuang/st_memory)**|
 |**2023-01-09**|**The role of field correlations on turbulent dissipation**|Annick Pouquet et.al.|[2301.03492v1](http://arxiv.org/abs/2301.03492v1)|null|
