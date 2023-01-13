@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-12**|**Learning to Summarize Videos by Contrasting Clips**|Ivan Sosnovik et.al.|[2301.05213v1](http://arxiv.org/abs/2301.05213v1)|null|
+|**2023-01-12**|**Data-Driven Selection and Spectral Classification of White Dwarf Stars**|Olivier Vincent et.al.|[2301.05209v1](http://arxiv.org/abs/2301.05209v1)|null|
+|**2023-01-12**|**Event-Based Frame Interpolation with Ad-hoc Deblurring**|Lei Sun et.al.|[2301.05191v1](http://arxiv.org/abs/2301.05191v1)|null|
+|**2023-01-12**|**Effective Decision Boundary Learning for Class Incremental Learning**|Kunchi Li et.al.|[2301.05180v1](http://arxiv.org/abs/2301.05180v1)|null|
+|**2023-01-12**|**Scene-Aware 3D Multi-Human Motion Capture from a Single Camera**|Diogo Luvizon et.al.|[2301.05175v1](http://arxiv.org/abs/2301.05175v1)|null|
+|**2023-01-12**|**Abortion Misinformation on TikTok: Rampant Content, Lax Moderation, and Vivid User Experiences**|Filipo Sharevski et.al.|[2301.05128v1](http://arxiv.org/abs/2301.05128v1)|null|
+|**2023-01-12**|**ITA-ELECTION-2022: A multi-platform dataset of social media conversations around the 2022 Italian general election**|Francesco Pierri et.al.|[2301.05119v1](http://arxiv.org/abs/2301.05119v1)|null|
+|**2023-01-12**|**Counterfactual Explanations for Concepts in $\mathcal{ELH}$**|Leonie Nora Sieger et.al.|[2301.05109v1](http://arxiv.org/abs/2301.05109v1)|null|
+|**2023-01-12**|**Local consistency as a reduction between constraint satisfaction problems**|Victor Dalmau et.al.|[2301.05084v1](http://arxiv.org/abs/2301.05084v1)|null|
+|**2023-01-12**|**Hierarchical multinomial processing tree models for meta-analysis of diagnostic accuracy studies**|Annamaria Guolo et.al.|[2301.04985v1](http://arxiv.org/abs/2301.04985v1)|null|
 |**2023-01-11**|**Does progress on ImageNet transfer to real-world datasets?**|Alex Fang et.al.|[2301.04644v1](http://arxiv.org/abs/2301.04644v1)|null|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
 |**2023-01-11**|**Deep Axial Hypercomplex Networks**|Nazmul Shahadat et.al.|[2301.04626v1](http://arxiv.org/abs/2301.04626v1)|null|
@@ -1509,6 +1519,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-12**|**Searching for Heavy Neutral Leptons at A Future Muon Collider**|Tsz Hong Kwok et.al.|[2301.05177v1](http://arxiv.org/abs/2301.05177v1)|null|
+|**2023-01-12**|**Discovering and Explaining Driver Behaviour under HoS Regulations**|Ignacio Vellido et.al.|[2301.05082v1](http://arxiv.org/abs/2301.05082v1)|null|
+|**2023-01-12**|**Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks**|Xinsong Zhang et.al.|[2301.05065v1](http://arxiv.org/abs/2301.05065v1)|null|
+|**2023-01-12**|**Fusion of two stable elastic structures resulting in an unstable system**|Marco Rossi et.al.|[2301.04957v1](http://arxiv.org/abs/2301.04957v1)|null|
+|**2023-01-12**|**Self-Supervised Correction Learning for Semi-Supervised Biomedical Image Segmentation**|Ruifei Zhang et.al.|[2301.04866v1](http://arxiv.org/abs/2301.04866v1)|**[link](https://github.com/reafly/semimedseg)**|
+|**2023-01-12**|**DEA-Net: Single image dehazing based on detail-enhanced convolution and content-guided attention**|Zixuan Chen et.al.|[2301.04805v1](http://arxiv.org/abs/2301.04805v1)|**[link](https://github.com/cecret3350/DEA-Net)**|
 |**2023-01-11**|**Multimodal Inverse Cloze Task for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2301.04366v1](http://arxiv.org/abs/2301.04366v1)|**[link](https://github.com/paullerner/viquae)**|
 |**2023-01-11**|**Systematic study of the effect of individual rotational energy levels on the fusion cross-section of \texorpdfstring{$^{16}O$}--based reactions of range $480 \le {Z_PZ_T} \le 592$**|Nishu Jain et.al.|[2301.04363v1](http://arxiv.org/abs/2301.04363v1)|null|
 |**2023-01-10**|**Robust Human Identity Anonymization using Pose Estimation**|Hengyuan Zhang et.al.|[2301.04243v1](http://arxiv.org/abs/2301.04243v1)|**[link](https://github.com/autonomousvehiclelaboratory/anonymization)**|
