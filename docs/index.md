@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-13**|**Structural phase transitions in perovskite BaCeO3 revisited by data mining-cum-first-principles theoretical approaches**|Farha Naaz et.al.|[2301.05691v1](http://arxiv.org/abs/2301.05691v1)|null|
+|**2023-01-13**|**CANE: A Cascade-Control Approach for Network-Assisted Video QoE Management**|Mehdi Hosseinzadeh et.al.|[2301.05688v1](http://arxiv.org/abs/2301.05688v1)|null|
+|**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|null|
+|**2023-01-13**|**Motion Classification Based on Harmonic Micro-Doppler Signatures Using a Convolutional Neural Network**|Cory Hilton et.al.|[2301.05652v1](http://arxiv.org/abs/2301.05652v1)|null|
+|**2023-01-13**|**Investigating the Combination of Planning-Based and Data-Driven Methods for Goal Recognition**|Nils Wilken et.al.|[2301.05608v1](http://arxiv.org/abs/2301.05608v1)|null|
+|**2023-01-13**|**Mott insulators with boundary zeros**|Niklas Wagner et.al.|[2301.05588v1](http://arxiv.org/abs/2301.05588v1)|null|
+|**2023-01-13**|**A survey and taxonomy of loss functions in machine learning**|Lorenzo Ciampiconi et.al.|[2301.05579v1](http://arxiv.org/abs/2301.05579v1)|null|
+|**2023-01-13**|**Deep learning-based approaches for human motion decoding in smart walkers for rehabilitation**|Carolina Gonçalves et.al.|[2301.05575v1](http://arxiv.org/abs/2301.05575v1)|null|
+|**2023-01-13**|**The quasiprimitive almost elusive groups**|Emily V. Hall et.al.|[2301.05569v1](http://arxiv.org/abs/2301.05569v1)|null|
+|**2023-01-13**|**Classification of Cross-cultural News Events**|Abdul Sittar et.al.|[2301.05543v1](http://arxiv.org/abs/2301.05543v1)|null|
 |**2023-01-13**|**Learning to Summarize Videos by Contrasting Clips**|Ivan Sosnovik et.al.|[2301.05213v2](http://arxiv.org/abs/2301.05213v2)|null|
 |**2023-01-12**|**Data-Driven Selection and Spectral Classification of White Dwarf Stars**|Olivier Vincent et.al.|[2301.05209v1](http://arxiv.org/abs/2301.05209v1)|null|
 |**2023-01-12**|**Event-Based Frame Interpolation with Ad-hoc Deblurring**|Lei Sun et.al.|[2301.05191v1](http://arxiv.org/abs/2301.05191v1)|null|
@@ -1523,6 +1533,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-13**|**Multilingual Detection of Check-Worthy Claims using World Languages and Adapter Fusion**|Ipek Baris Schlicht et.al.|[2301.05494v1](http://arxiv.org/abs/2301.05494v1)|null|
 |**2023-01-12**|**Searching for Heavy Neutral Leptons at A Future Muon Collider**|Tsz Hong Kwok et.al.|[2301.05177v1](http://arxiv.org/abs/2301.05177v1)|null|
 |**2023-01-12**|**Discovering and Explaining Driver Behaviour under HoS Regulations**|Ignacio Vellido et.al.|[2301.05082v1](http://arxiv.org/abs/2301.05082v1)|null|
 |**2023-01-12**|**Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks**|Xinsong Zhang et.al.|[2301.05065v1](http://arxiv.org/abs/2301.05065v1)|null|
