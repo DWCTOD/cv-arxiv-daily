@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-01-12**|**Learning to Summarize Videos by Contrasting Clips**|Ivan Sosnovik et.al.|[2301.05213v1](http://arxiv.org/abs/2301.05213v1)|null|
+|**2023-01-13**|**Learning to Summarize Videos by Contrasting Clips**|Ivan Sosnovik et.al.|[2301.05213v2](http://arxiv.org/abs/2301.05213v2)|null|
 |**2023-01-12**|**Data-Driven Selection and Spectral Classification of White Dwarf Stars**|Olivier Vincent et.al.|[2301.05209v1](http://arxiv.org/abs/2301.05209v1)|null|
 |**2023-01-12**|**Event-Based Frame Interpolation with Ad-hoc Deblurring**|Lei Sun et.al.|[2301.05191v1](http://arxiv.org/abs/2301.05191v1)|null|
 |**2023-01-12**|**Effective Decision Boundary Learning for Class Incremental Learning**|Kunchi Li et.al.|[2301.05180v1](http://arxiv.org/abs/2301.05180v1)|null|
@@ -1526,7 +1526,7 @@ layout: default
 |**2023-01-12**|**Searching for Heavy Neutral Leptons at A Future Muon Collider**|Tsz Hong Kwok et.al.|[2301.05177v1](http://arxiv.org/abs/2301.05177v1)|null|
 |**2023-01-12**|**Discovering and Explaining Driver Behaviour under HoS Regulations**|Ignacio Vellido et.al.|[2301.05082v1](http://arxiv.org/abs/2301.05082v1)|null|
 |**2023-01-12**|**Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks**|Xinsong Zhang et.al.|[2301.05065v1](http://arxiv.org/abs/2301.05065v1)|null|
-|**2023-01-12**|**Fusion of two stable elastic structures resulting in an unstable system**|Marco Rossi et.al.|[2301.04957v1](http://arxiv.org/abs/2301.04957v1)|null|
+|**2023-01-13**|**Fusion of two stable elastic structures resulting in an unstable system**|Marco Rossi et.al.|[2301.04957v2](http://arxiv.org/abs/2301.04957v2)|null|
 |**2023-01-12**|**Self-Supervised Correction Learning for Semi-Supervised Biomedical Image Segmentation**|Ruifei Zhang et.al.|[2301.04866v1](http://arxiv.org/abs/2301.04866v1)|**[link](https://github.com/reafly/semimedseg)**|
 |**2023-01-12**|**DEA-Net: Single image dehazing based on detail-enhanced convolution and content-guided attention**|Zixuan Chen et.al.|[2301.04805v1](http://arxiv.org/abs/2301.04805v1)|**[link](https://github.com/cecret3350/DEA-Net)**|
 |**2023-01-11**|**Multimodal Inverse Cloze Task for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2301.04366v1](http://arxiv.org/abs/2301.04366v1)|**[link](https://github.com/paullerner/viquae)**|
