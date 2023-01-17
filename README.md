@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-01-13**|**Structural phase transitions in perovskite BaCeO3 revisited by data mining-cum-first-principles theoretical approaches**|Farha Naaz et.al.|[2301.05691v1](http://arxiv.org/abs/2301.05691v1)|null|
 |**2023-01-13**|**CANE: A Cascade-Control Approach for Network-Assisted Video QoE Management**|Mehdi Hosseinzadeh et.al.|[2301.05688v1](http://arxiv.org/abs/2301.05688v1)|null|
-|**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|null|
+|**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|**[link](https://github.com/aviationnlp/nlp_aviation_safety)**|
 |**2023-01-13**|**Motion Classification Based on Harmonic Micro-Doppler Signatures Using a Convolutional Neural Network**|Cory Hilton et.al.|[2301.05652v1](http://arxiv.org/abs/2301.05652v1)|null|
 |**2023-01-13**|**Investigating the Combination of Planning-Based and Data-Driven Methods for Goal Recognition**|Nils Wilken et.al.|[2301.05608v1](http://arxiv.org/abs/2301.05608v1)|null|
 |**2023-01-13**|**Mott insulators with boundary zeros**|Niklas Wagner et.al.|[2301.05588v1](http://arxiv.org/abs/2301.05588v1)|null|
