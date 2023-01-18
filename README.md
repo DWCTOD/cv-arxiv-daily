@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Learning Customized Visual Models with Retrieval-Augmented Knowledge**|Haotian Liu et.al.|[2301.07094v1](http://arxiv.org/abs/2301.07094v1)|null|
+|**2023-01-17**|**Kostant's problem for parabolic Verma modules**|Volodymyr Mazorchuk et.al.|[2301.07090v1](http://arxiv.org/abs/2301.07090v1)|null|
+|**2023-01-17**|**Preserving Privacy in Surgical Video Analysis Using Artificial Intelligence: A Deep Learning Classifier to Identify Out-of-Body Scenes in Endoscopic Videos**|Joël L. Lavanchy et.al.|[2301.07053v1](http://arxiv.org/abs/2301.07053v1)|null|
+|**2023-01-17**|**An Energy-Efficient Reconfigurable Autoencoder Implementation on FPGA**|Murat Isik et.al.|[2301.07050v1](http://arxiv.org/abs/2301.07050v1)|null|
+|**2023-01-17**|**Simplistic Collection and Labeling Practices Limit the Utility of Benchmark Datasets for Twitter Bot Detection**|Chris Hays et.al.|[2301.07015v1](http://arxiv.org/abs/2301.07015v1)|null|
+|**2023-01-17**|**Round fold maps on $3$-dimensional manifolds and their integral and rational cohomology rings**|Naoki Kitazawa et.al.|[2301.07008v1](http://arxiv.org/abs/2301.07008v1)|null|
+|**2023-01-17**|**Which Model Shall I Choose? Cost/Quality Trade-offs for Text Classification Tasks**|Shi Zong et.al.|[2301.07006v1](http://arxiv.org/abs/2301.07006v1)|null|
+|**2023-01-17**|**Opti-CAM: Optimizing saliency maps for interpretability**|Hanwei Zhang et.al.|[2301.07002v1](http://arxiv.org/abs/2301.07002v1)|null|
+|**2023-01-17**|**Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers**|Emma Bouton--Bessac et.al.|[2301.06993v1](http://arxiv.org/abs/2301.06993v1)|null|
+|**2023-01-17**|**Vision Based Machine Learning Algorithms for Out-of-Distribution Generalisation**|Hamza Riaz et.al.|[2301.06975v1](http://arxiv.org/abs/2301.06975v1)|null|
 |**2023-01-13**|**Structural phase transitions in perovskite BaCeO3 revisited by data mining-cum-first-principles theoretical approaches**|Farha Naaz et.al.|[2301.05691v1](http://arxiv.org/abs/2301.05691v1)|null|
 |**2023-01-13**|**CANE: A Cascade-Control Approach for Network-Assisted Video QoE Management**|Mehdi Hosseinzadeh et.al.|[2301.05688v1](http://arxiv.org/abs/2301.05688v1)|null|
 |**2023-01-13**|**Natural Language Processing of Aviation Occurrence Reports for Safety Management**|Patrick Jonk et.al.|[2301.05663v1](http://arxiv.org/abs/2301.05663v1)|**[link](https://github.com/aviationnlp/nlp_aviation_safety)**|
@@ -1529,6 +1539,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Cooperation Learning Enhanced Colonic Polyp Segmentation Based on Transformer-CNN Fusion**|Yuanyuan Wang et.al.|[2301.06892v1](http://arxiv.org/abs/2301.06892v1)|null|
+|**2023-01-17**|**Multi-Biometric Fuzzy Vault based on Face and Fingerprints**|Christian Rathgeb et.al.|[2301.06882v1](http://arxiv.org/abs/2301.06882v1)|null|
+|**2023-01-17**|**Measurements of differential cross sections of Higgs boson production through gluon fusion in the $H\to WW^{\ast}\to eνμν$ final state at $\sqrt{s} = 13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2301.06822v1](http://arxiv.org/abs/2301.06822v1)|null|
+|**2023-01-17**|**FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs**|Peng Tu et.al.|[2301.06719v1](http://arxiv.org/abs/2301.06719v1)|null|
+|**2023-01-17**|**Rethinking Lightweight Salient Object Detection via Network Depth-Width Tradeoff**|Jia Li et.al.|[2301.06679v1](http://arxiv.org/abs/2301.06679v1)|null|
+|**2023-01-16**|**Extending the planar theory of anyons to quantum wire networks**|Tomasz Maciazek et.al.|[2301.06590v1](http://arxiv.org/abs/2301.06590v1)|null|
+|**2023-01-16**|**Building 1D lattice models with $G$-graded fusion category**|Shang-Qiang Ning et.al.|[2301.06416v1](http://arxiv.org/abs/2301.06416v1)|null|
+|**2023-01-16**|**Closed-Loop Magnetic Manipulation for Robotic Transesophageal Echocardiography**|Keyu Li et.al.|[2301.06388v1](http://arxiv.org/abs/2301.06388v1)|null|
+|**2023-01-16**|**Representation Learning for Tablet and Paper Domain Adaptation in Favor of Online Handwriting Recognition**|Felix Ott et.al.|[2301.06293v1](http://arxiv.org/abs/2301.06293v1)|null|
+|**2023-01-16**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v1](http://arxiv.org/abs/2301.06284v1)|null|
 |**2023-01-13**|**Multilingual Detection of Check-Worthy Claims using World Languages and Adapter Fusion**|Ipek Baris Schlicht et.al.|[2301.05494v1](http://arxiv.org/abs/2301.05494v1)|null|
 |**2023-01-12**|**Searching for Heavy Neutral Leptons at A Future Muon Collider**|Tsz Hong Kwok et.al.|[2301.05177v1](http://arxiv.org/abs/2301.05177v1)|null|
 |**2023-01-12**|**Discovering and Explaining Driver Behaviour under HoS Regulations**|Ignacio Vellido et.al.|[2301.05082v1](http://arxiv.org/abs/2301.05082v1)|null|
