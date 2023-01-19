@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**Attention2Minority: A salient instance inference-based multiple instance learning for classifying small lesions in whole slide images**|Ziyu Su et.al.|[2301.07700v1](http://arxiv.org/abs/2301.07700v1)|**[link](https://github.com/joesu666/siimil)**|
+|**2023-01-18**|**Reduced-Reference Quality Assessment of Point Clouds via Content-Oriented Saliency Projection**|Wei Zhou et.al.|[2301.07681v1](http://arxiv.org/abs/2301.07681v1)|null|
+|**2023-01-18**|**Active learning for medical image segmentation with stochastic batches**|Mélanie Gaillochet et.al.|[2301.07670v1](http://arxiv.org/abs/2301.07670v1)|null|
+|**2023-01-18**|**Real-Time Viewport-Aware Optical Flow Estimation in 360-degree Videos for Visually-Induced Motion Sickness Mitigation**|Zekun Cao et.al.|[2301.07669v1](http://arxiv.org/abs/2301.07669v1)|null|
+|**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|[2301.07668v1](http://arxiv.org/abs/2301.07668v1)|null|
+|**2023-01-18**|**Finite local principal ideal rings**|Matthé van der Lee et.al.|[2301.07664v1](http://arxiv.org/abs/2301.07664v1)|null|
+|**2023-01-18**|**An Analysis of Loss Functions for Binary Classification and Regression**|Jeffrey Buzas et.al.|[2301.07638v1](http://arxiv.org/abs/2301.07638v1)|null|
+|**2023-01-18**|**A novel dataset and a two-stage mitosis nuclei detection method based on hybrid anchor branch**|Huadeng Wang et.al.|[2301.07627v1](http://arxiv.org/abs/2301.07627v1)|null|
+|**2023-01-18**|**A Survey of Advanced Computer Vision Techniques for Sports**|Tiago Mendes-Neves et.al.|[2301.07583v1](http://arxiv.org/abs/2301.07583v1)|**[link](https://github.com/nvsclub/shotspeedestimation)**|
+|**2023-01-18**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525v1](http://arxiv.org/abs/2301.07525v1)|null|
 |**2023-01-17**|**Learning Customized Visual Models with Retrieval-Augmented Knowledge**|Haotian Liu et.al.|[2301.07094v1](http://arxiv.org/abs/2301.07094v1)|null|
 |**2023-01-17**|**Kostant's problem for parabolic Verma modules**|Volodymyr Mazorchuk et.al.|[2301.07090v1](http://arxiv.org/abs/2301.07090v1)|null|
 |**2023-01-17**|**Preserving Privacy in Surgical Video Analysis Using Artificial Intelligence: A Deep Learning Classifier to Identify Out-of-Body Scenes in Endoscopic Videos**|Joël L. Lavanchy et.al.|[2301.07053v1](http://arxiv.org/abs/2301.07053v1)|null|
@@ -1539,6 +1549,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**MHD simulations of formation, sustainment and loss of Quiescent H-mode in the all-tungsten ASDEX Upgrade**|Lorenz Meier et.al.|[2301.07607v1](http://arxiv.org/abs/2301.07607v1)|null|
+|**2023-01-18**|**The impact of fusion-born alpha particles on runaway electron dynamics in ITER disruptions**|Andrej Lier et.al.|[2301.07470v1](http://arxiv.org/abs/2301.07470v1)|null|
+|**2023-01-18**|**TAME: Attention Mechanism Based Feature Fusion for Generating Explanation Maps of Convolutional Neural Networks**|Mariano Ntrougkas et.al.|[2301.07407v1](http://arxiv.org/abs/2301.07407v1)|**[link](https://github.com/bmezaris/tame)**|
+|**2023-01-18**|**HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness**|Zongwei Wu et.al.|[2301.07405v1](http://arxiv.org/abs/2301.07405v1)|null|
+|**2023-01-18**|**HLC2: a highly efficient cross-matching framework for large astronomical catalogues on heterogeneous computing environments**|Yajie Zhang et.al.|[2301.07331v1](http://arxiv.org/abs/2301.07331v1)|null|
+|**2023-01-18**|**HSTFormer: Hierarchical Spatial-Temporal Transformers for 3D Human Pose Estimation**|Xiaoye Qian et.al.|[2301.07322v1](http://arxiv.org/abs/2301.07322v1)|null|
+|**2023-01-18**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wan et.al.|[2301.07301v1](http://arxiv.org/abs/2301.07301v1)|null|
+|**2023-01-18**|**Meta variance reduction for Monte Carlo estimation of energetic particle confinement during stellarator optimization**|Frederick Law et.al.|[2301.07280v1](http://arxiv.org/abs/2301.07280v1)|null|
+|**2023-01-18**|**Revealing the origin of neutrino masses through the Type II Seesaw mechanism at high-energy muon colliders**|Tong Li et.al.|[2301.07274v1](http://arxiv.org/abs/2301.07274v1)|null|
 |**2023-01-17**|**Cooperation Learning Enhanced Colonic Polyp Segmentation Based on Transformer-CNN Fusion**|Yuanyuan Wang et.al.|[2301.06892v1](http://arxiv.org/abs/2301.06892v1)|null|
 |**2023-01-17**|**Multi-Biometric Fuzzy Vault based on Face and Fingerprints**|Christian Rathgeb et.al.|[2301.06882v1](http://arxiv.org/abs/2301.06882v1)|null|
 |**2023-01-17**|**Measurements of differential cross sections of Higgs boson production through gluon fusion in the $H\to WW^{\ast}\to eνμν$ final state at $\sqrt{s} = 13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2301.06822v1](http://arxiv.org/abs/2301.06822v1)|null|
