@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
+|**2023-01-19**|**Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture**|Mahmoud Assran et.al.|[2301.08243v1](http://arxiv.org/abs/2301.08243v1)|null|
+|**2023-01-19**|**LoCoNet: Long-Short Context Network for Active Speaker Detection**|Xizi Wang et.al.|[2301.08237v1](http://arxiv.org/abs/2301.08237v1)|null|
+|**2023-01-19**|**Estimating Remaining Lifespan from the Face**|Amir Fekrazad et.al.|[2301.08229v1](http://arxiv.org/abs/2301.08229v1)|null|
+|**2023-01-19**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
+|**2023-01-19**|**An XMM-Newton view of the Symbiotic Stars HM Sge, NQ Gem, and PU Vul**|J. A. Toalá et.al.|[2301.08191v1](http://arxiv.org/abs/2301.08191v1)|null|
+|**2023-01-19**|**Building Concise Logical Patterns by Constraining Tsetlin Machine Clause Size**|K. Darshana Abeyrathna et.al.|[2301.08190v1](http://arxiv.org/abs/2301.08190v1)|null|
+|**2023-01-19**|**Benchmarking YOLOv5 and YOLOv7 models with DeepSORT for droplet tracking applications**|Mihir Durve et.al.|[2301.08189v1](http://arxiv.org/abs/2301.08189v1)|null|
+|**2023-01-19**|**SoftEnNet: Symbiotic Monocular Depth Estimation and Lumen Segmentation for Colonoscopy Endorobots**|Alwyn Mathew et.al.|[2301.08157v1](http://arxiv.org/abs/2301.08157v1)|null|
+|**2023-01-19**|**Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification**|Conghao Xiong et.al.|[2301.08125v1](http://arxiv.org/abs/2301.08125v1)|null|
 |**2023-01-18**|**Attention2Minority: A salient instance inference-based multiple instance learning for classifying small lesions in whole slide images**|Ziyu Su et.al.|[2301.07700v1](http://arxiv.org/abs/2301.07700v1)|**[link](https://github.com/joesu666/siimil)**|
 |**2023-01-18**|**Reduced-Reference Quality Assessment of Point Clouds via Content-Oriented Saliency Projection**|Wei Zhou et.al.|[2301.07681v1](http://arxiv.org/abs/2301.07681v1)|null|
 |**2023-01-18**|**Active learning for medical image segmentation with stochastic batches**|Mélanie Gaillochet et.al.|[2301.07670v1](http://arxiv.org/abs/2301.07670v1)|null|
@@ -1549,6 +1559,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-19**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
+|**2023-01-19**|**Dif-Fusion: Towards High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models**|Jun Yue et.al.|[2301.08072v1](http://arxiv.org/abs/2301.08072v1)|null|
+|**2023-01-19**|**Analytic insights into nonlocal energy transport: Steady State Fokker Planck theory in arbitrary Z plasmas**|Wallace Manheimer et.al.|[2301.08020v1](http://arxiv.org/abs/2301.08020v1)|null|
+|**2023-01-19**|**Liouville conformal blocks and Stokes phenomena**|Xia Gu et.al.|[2301.07957v1](http://arxiv.org/abs/2301.07957v1)|null|
+|**2023-01-19**|**Revisiting the Spatial and Temporal Modeling for Few-shot Action Recognition**|Jiazheng Xing et.al.|[2301.07944v1](http://arxiv.org/abs/2301.07944v1)|null|
+|**2023-01-19**|**Exploiting Style Transfer-based Task Augmentation for Cross-Domain Few-Shot Learning**|Shuzhen Rao et.al.|[2301.07927v1](http://arxiv.org/abs/2301.07927v1)|null|
+|**2023-01-19**|**Discriminating Higgs production mechanisms via jet charge at the LHC**|Hai Tao Li et.al.|[2301.07914v1](http://arxiv.org/abs/2301.07914v1)|null|
+|**2023-01-19**|**Non-Invertible Duality Transformation Between SPT and SSB Phases**|Linhao Li et.al.|[2301.07899v1](http://arxiv.org/abs/2301.07899v1)|null|
+|**2023-01-19**|**Fast-BEV: Towards Real-time On-vehicle Bird's-Eye View Perception**|Bin Huang et.al.|[2301.07870v1](http://arxiv.org/abs/2301.07870v1)|null|
+|**2023-01-18**|**Human-Machine Collaboration for Smart Decision Making: Current Trends and Future Opportunities**|Baocheng Geng et.al.|[2301.07766v1](http://arxiv.org/abs/2301.07766v1)|null|
 |**2023-01-18**|**MHD simulations of formation, sustainment and loss of Quiescent H-mode in the all-tungsten ASDEX Upgrade**|Lorenz Meier et.al.|[2301.07607v1](http://arxiv.org/abs/2301.07607v1)|null|
 |**2023-01-18**|**The impact of fusion-born alpha particles on runaway electron dynamics in ITER disruptions**|Andrej Lier et.al.|[2301.07470v1](http://arxiv.org/abs/2301.07470v1)|null|
 |**2023-01-18**|**TAME: Attention Mechanism Based Feature Fusion for Generating Explanation Maps of Convolutional Neural Networks**|Mariano Ntrougkas et.al.|[2301.07407v1](http://arxiv.org/abs/2301.07407v1)|**[link](https://github.com/bmezaris/tame)**|
