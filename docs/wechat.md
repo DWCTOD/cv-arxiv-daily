@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-01-20, **Novel-View Acoustic Synthesis**, Changan Chen et.al., Paper: [http://arxiv.org/abs/2301.08730v1](http://arxiv.org/abs/2301.08730v1)
+- 2023-01-20, **The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**, A Badano et.al., Paper: [http://arxiv.org/abs/2301.08719v1](http://arxiv.org/abs/2301.08719v1)
+- 2023-01-20, **Blind Spots: Automatically detecting ignored program inputs**, Henrik Brodin et.al., Paper: [http://arxiv.org/abs/2301.08700v1](http://arxiv.org/abs/2301.08700v1)
+- 2023-01-20, **A classification of metacyclic groups by group invariants**, Àngel García-Blázquez et.al., Paper: [http://arxiv.org/abs/2301.08683v1](http://arxiv.org/abs/2301.08683v1)
+- 2023-01-20, **AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics**, Tingting Yuan et.al., Paper: [http://arxiv.org/abs/2301.08664v1](http://arxiv.org/abs/2301.08664v1)
+- 2023-01-20, **A Big-Data Driven Framework to Estimating Vehicle Volume based on Mobile Device Location Data**, Mofeng Yang et.al., Paper: [http://arxiv.org/abs/2301.08660v1](http://arxiv.org/abs/2301.08660v1)
+- 2023-01-20, **A Deep Learning Approach for SAR Tomographic Imaging of Forested Areas**, Zoé Berenger et.al., Paper: [http://arxiv.org/abs/2301.08605v1](http://arxiv.org/abs/2301.08605v1)
+- 2023-01-20, **Deep Learning for scalp High Frequency Oscillations Identification**, Gaëlle Milon-Harnois et.al., Paper: [http://arxiv.org/abs/2301.08600v1](http://arxiv.org/abs/2301.08600v1)
+- 2023-01-20, **Transforming Unstructured Text into Data with Context Rule Assisted Machine Learning (CRAML)**, Stephen Meisenbacher et.al., Paper: [http://arxiv.org/abs/2301.08549v1](http://arxiv.org/abs/2301.08549v1)
+- 2023-01-20, **Prodromal Diagnosis of Lewy Body Diseases Based on the Assessment of Graphomotor and Handwriting Difficulties**, Zoltan Galaz et.al., Paper: [http://arxiv.org/abs/2301.08534v1](http://arxiv.org/abs/2301.08534v1)
 - 2023-01-19, **Multiview Compressive Coding for 3D Reconstruction**, Chao-Yuan Wu et.al., Paper: [http://arxiv.org/abs/2301.08247v1](http://arxiv.org/abs/2301.08247v1), Code: **[https://github.com/facebookresearch/mcc](https://github.com/facebookresearch/mcc)**
 - 2023-01-19, **Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture**, Mahmoud Assran et.al., Paper: [http://arxiv.org/abs/2301.08243v1](http://arxiv.org/abs/2301.08243v1)
 - 2023-01-19, **LoCoNet: Long-Short Context Network for Active Speaker Detection**, Xizi Wang et.al., Paper: [http://arxiv.org/abs/2301.08237v1](http://arxiv.org/abs/2301.08237v1)
@@ -1555,6 +1565,8 @@
 
 ## MultiModal
 
+- 2023-01-20, **Lepton Flavor Specific Extended Higgs Model**, B. L. Gonçalves et.al., Paper: [http://arxiv.org/abs/2301.08641v1](http://arxiv.org/abs/2301.08641v1)
+- 2023-01-20, **Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**, Shansi Zhang et.al., Paper: [http://arxiv.org/abs/2301.08433v1](http://arxiv.org/abs/2301.08433v1)
 - 2023-01-19, **GIPA++: A General Information Propagation Algorithm for Graph Learning**, Houyi Li et.al., Paper: [http://arxiv.org/abs/2301.08209v1](http://arxiv.org/abs/2301.08209v1)
 - 2023-01-19, **Dif-Fusion: Towards High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models**, Jun Yue et.al., Paper: [http://arxiv.org/abs/2301.08072v1](http://arxiv.org/abs/2301.08072v1)
 - 2023-01-19, **Analytic insights into nonlocal energy transport: Steady State Fokker Planck theory in arbitrary Z plasmas**, Wallace Manheimer et.al., Paper: [http://arxiv.org/abs/2301.08020v1](http://arxiv.org/abs/2301.08020v1)
