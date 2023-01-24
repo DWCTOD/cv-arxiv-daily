@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**Feature construction using explanations of individual predictions**|Boštjan Vouk et.al.|[2301.09631v1](http://arxiv.org/abs/2301.09631v1)|null|
+|**2023-01-23**|**Maximum Mean Discrepancy Kernels for Predictive and Prognostic Modeling of Whole Slide Images**|Piotr Keller et.al.|[2301.09624v1](http://arxiv.org/abs/2301.09624v1)|**[link](https://github.com/engrodawood/hist-mmd)**|
+|**2023-01-23**|**Adapting the Hypersphere Loss Function from Anomaly Detection to Anomaly Segmentation**|Joao P. C. Bertoldo et.al.|[2301.09602v1](http://arxiv.org/abs/2301.09602v1)|null|
+|**2023-01-23**|**A New Mid-Infrared and X-ray Machine Learning Algorithm to Discover Compton-thick AGN**|Ross Silver et.al.|[2301.09598v1](http://arxiv.org/abs/2301.09598v1)|null|
+|**2023-01-23**|**Zorro: the masked multimodal transformer**|Adrià Recasens et.al.|[2301.09595v1](http://arxiv.org/abs/2301.09595v1)|null|
+|**2023-01-23**|**Network topology of interlocked chiral particles**|Paul A. Monderkamp et.al.|[2301.09541v1](http://arxiv.org/abs/2301.09541v1)|null|
+|**2023-01-23**|**DeepFEL: Deep Fastfood Ensemble Learning for Histopathology Image Analysis**|Nima Hatami et.al.|[2301.09525v1](http://arxiv.org/abs/2301.09525v1)|null|
+|**2023-01-23**|**WDC Products: A Multi-Dimensional Entity Matching Benchmark**|Ralph Peeters et.al.|[2301.09521v1](http://arxiv.org/abs/2301.09521v1)|null|
+|**2023-01-23**|**OvarNet: Towards Open-vocabulary Object Attribute Recognition**|Keyan Chen et.al.|[2301.09506v1](http://arxiv.org/abs/2301.09506v1)|null|
+|**2023-01-23**|**Contracting Skeletal Kinematic Embeddings for Anomaly Detection**|Alessandro Flaborea et.al.|[2301.09489v1](http://arxiv.org/abs/2301.09489v1)|null|
 |**2023-01-23**|**Novel-View Acoustic Synthesis**|Changan Chen et.al.|[2301.08730v2](http://arxiv.org/abs/2301.08730v2)|null|
 |**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|null|
 |**2023-01-20**|**Blind Spots: Automatically detecting ignored program inputs**|Henrik Brodin et.al.|[2301.08700v1](http://arxiv.org/abs/2301.08700v1)|**[link](https://github.com/trailofbits/polytracker)**|
@@ -1569,6 +1579,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|null|
+|**2023-01-23**|**Zorro: the masked multimodal transformer**|Adrià Recasens et.al.|[2301.09595v1](http://arxiv.org/abs/2301.09595v1)|null|
+|**2023-01-23**|**HRVQA: A Visual Question Answering Benchmark for High-Resolution Aerial Images**|Kun Li et.al.|[2301.09460v1](http://arxiv.org/abs/2301.09460v1)|null|
+|**2023-01-23**|**Direct Microstability Optimization of Stellarator Devices**|R. Jorge et.al.|[2301.09356v1](http://arxiv.org/abs/2301.09356v1)|null|
+|**2023-01-22**|**Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction**|Razvan-George Pasca et.al.|[2301.09209v1](http://arxiv.org/abs/2301.09209v1)|null|
+|**2023-01-22**|**MATT: Multimodal Attention Level Estimation for e-learning Platforms**|Roberto Daza et.al.|[2301.09174v1](http://arxiv.org/abs/2301.09174v1)|null|
+|**2023-01-22**|**Causality-based Dual-Contrastive Learning Framework for Domain Generalization**|Zining Chen et.al.|[2301.09120v1](http://arxiv.org/abs/2301.09120v1)|null|
+|**2023-01-22**|**Bidirectional Propagation for Cross-Modal 3D Object Detection**|Yifan Zhang et.al.|[2301.09077v1](http://arxiv.org/abs/2301.09077v1)|**[link](https://github.com/eaphan/biprodet)**|
+|**2023-01-22**|**DASTSiam: Spatio-Temporal Fusion and Discriminative Augmentation for Improved Siamese Tracking**|Yucheng Huang et.al.|[2301.09063v1](http://arxiv.org/abs/2301.09063v1)|null|
+|**2023-01-22**|**Continuous-Time Ultra-Wideband-Inertial Fusion**|Kailai Li et.al.|[2301.09033v1](http://arxiv.org/abs/2301.09033v1)|null|
 |**2023-01-20**|**Lepton Flavor Specific Extended Higgs Model**|B. L. Gonçalves et.al.|[2301.08641v1](http://arxiv.org/abs/2301.08641v1)|null|
 |**2023-01-20**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433v1](http://arxiv.org/abs/2301.08433v1)|null|
 |**2023-01-19**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
