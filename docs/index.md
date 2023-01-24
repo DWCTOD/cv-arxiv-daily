@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-01-20**|**Novel-View Acoustic Synthesis**|Changan Chen et.al.|[2301.08730v1](http://arxiv.org/abs/2301.08730v1)|null|
+|**2023-01-23**|**Novel-View Acoustic Synthesis**|Changan Chen et.al.|[2301.08730v2](http://arxiv.org/abs/2301.08730v2)|null|
 |**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|null|
 |**2023-01-20**|**Blind Spots: Automatically detecting ignored program inputs**|Henrik Brodin et.al.|[2301.08700v1](http://arxiv.org/abs/2301.08700v1)|**[link](https://github.com/trailofbits/polytracker)**|
 |**2023-01-20**|**A classification of metacyclic groups by group invariants**|Àngel García-Blázquez et.al.|[2301.08683v1](http://arxiv.org/abs/2301.08683v1)|null|
