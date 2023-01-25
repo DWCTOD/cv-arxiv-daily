@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**K-Planes: Explicit Radiance Fields in Space, Time, and Appearance**|Sara Fridovich-Keil et.al.|[2301.10241v1](http://arxiv.org/abs/2301.10241v1)|**[link](https://github.com/sarafridov/k-planes)**|
+|**2023-01-24**|**Detecting and measuring human gastric peristalsis using magnetically controlled capsule endoscope**|Xueshen Li et.al.|[2301.10218v1](http://arxiv.org/abs/2301.10218v1)|null|
+|**2023-01-24**|**Topology of Toric Gravitational Instantons**|Gustav Nilsson et.al.|[2301.10212v1](http://arxiv.org/abs/2301.10212v1)|null|
+|**2023-01-24**|**A Simple Adaptive Unfolding Network for Hyperspectral Image Reconstruction**|Junyu Wang et.al.|[2301.10208v1](http://arxiv.org/abs/2301.10208v1)|**[link](https://github.com/hustvl/saunet)**|
+|**2023-01-24**|**Neuronal architecture extracts statistical temporal patterns**|Sandra Nestler et.al.|[2301.10203v1](http://arxiv.org/abs/2301.10203v1)|null|
+|**2023-01-24**|**WEASEL 2.0 -- A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification**|Patrick Schäfer et.al.|[2301.10194v1](http://arxiv.org/abs/2301.10194v1)|**[link](https://github.com/patrickzib/dictionary)**|
+|**2023-01-24**|**Enhanced Sharp-GAN For Histopathology Image Synthesis**|Sujata Butte et.al.|[2301.10187v1](http://arxiv.org/abs/2301.10187v1)|null|
+|**2023-01-24**|**ViHOS: Hate Speech Spans Detection for Vietnamese**|Phu Gia Hoang et.al.|[2301.10186v1](http://arxiv.org/abs/2301.10186v1)|null|
+|**2023-01-24**|**When does the student surpass the teacher? Federated Semi-supervised Learning with Teacher-Student EMA**|Jessica Zhao et.al.|[2301.10114v1](http://arxiv.org/abs/2301.10114v1)|null|
+|**2023-01-24**|**Explainable Data-Driven Optimization: From Context to Decision and Back Again**|Alexandre Forel et.al.|[2301.10074v1](http://arxiv.org/abs/2301.10074v1)|null|
 |**2023-01-23**|**Feature construction using explanations of individual predictions**|Boštjan Vouk et.al.|[2301.09631v1](http://arxiv.org/abs/2301.09631v1)|null|
 |**2023-01-23**|**Maximum Mean Discrepancy Kernels for Predictive and Prognostic Modeling of Whole Slide Images**|Piotr Keller et.al.|[2301.09624v1](http://arxiv.org/abs/2301.09624v1)|**[link](https://github.com/engrodawood/hist-mmd)**|
 |**2023-01-23**|**Adapting the Hypersphere Loss Function from Anomaly Detection to Anomaly Segmentation**|Joao P. C. Bertoldo et.al.|[2301.09602v1](http://arxiv.org/abs/2301.09602v1)|null|
@@ -1579,6 +1589,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2301.10100v1](http://arxiv.org/abs/2301.10100v1)|**[link](https://github.com/valeoai/waffleiron)**|
+|**2023-01-23**|**GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning**|Haipeng Li et.al.|[2301.10018v1](http://arxiv.org/abs/2301.10018v1)|null|
+|**2023-01-24**|**Validation and traceability of multi-parameter miniaturized radiosondes for environmental observations**|Shahbozbek Abdunabiev et.al.|[2301.09928v1](http://arxiv.org/abs/2301.09928v1)|null|
 |**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|null|
 |**2023-01-23**|**Zorro: the masked multimodal transformer**|Adrià Recasens et.al.|[2301.09595v1](http://arxiv.org/abs/2301.09595v1)|null|
 |**2023-01-23**|**HRVQA: A Visual Question Answering Benchmark for High-Resolution Aerial Images**|Kun Li et.al.|[2301.09460v1](http://arxiv.org/abs/2301.09460v1)|null|
