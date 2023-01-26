@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
+|**2023-01-25**|**Memory-Aware Social Learning under Partial Information Sharing**|Michele Cirillo et.al.|[2301.10688v1](http://arxiv.org/abs/2301.10688v1)|null|
+|**2023-01-25**|**Self-Supervised Curricular Deep Learning for Chest X-Ray Image Classification**|Iván de Andrés Tamé et.al.|[2301.10687v1](http://arxiv.org/abs/2301.10687v1)|null|
+|**2023-01-25**|**Implicit Shape Model Trees: Recognition of 3-D Indoor Scenes and Prediction of Object Poses for Mobile Robots**|Pascal Meißner et.al.|[2301.10672v1](http://arxiv.org/abs/2301.10672v1)|null|
+|**2023-01-25**|**Toward Realistic Evaluation of Deep Active Learning Algorithms in Image Classification**|Carsten T. Lüth et.al.|[2301.10625v1](http://arxiv.org/abs/2301.10625v1)|null|
+|**2023-01-25**|**Hubble Space Telescope imaging of the compact elliptical galaxy M32 reveals a dearth of carbon stars**|O. C. Jones et.al.|[2301.10613v1](http://arxiv.org/abs/2301.10613v1)|null|
+|**2023-01-25**|**Consensus Algorithm For Calculation Of Protein Binding Affinity Using Multiple Models**|Ayşenaz Ezgi Ergin et.al.|[2301.10612v1](http://arxiv.org/abs/2301.10612v1)|null|
+|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v1](http://arxiv.org/abs/2301.10611v1)|null|
+|**2023-01-25**|**Connecting metrics for shape-texture knowledge in computer vision**|Tiago Oliveira et.al.|[2301.10608v1](http://arxiv.org/abs/2301.10608v1)|null|
+|**2023-01-25**|**Evaluation of the syllables pronunciation quality in speech rehabilitation through the solution of the classification problem**|Evgeny Kostyuchenko et.al.|[2301.10585v1](http://arxiv.org/abs/2301.10585v1)|null|
 |**2023-01-24**|**K-Planes: Explicit Radiance Fields in Space, Time, and Appearance**|Sara Fridovich-Keil et.al.|[2301.10241v1](http://arxiv.org/abs/2301.10241v1)|**[link](https://github.com/sarafridov/k-planes)**|
 |**2023-01-24**|**Detecting and measuring human gastric peristalsis using magnetically controlled capsule endoscope**|Xueshen Li et.al.|[2301.10218v1](http://arxiv.org/abs/2301.10218v1)|null|
 |**2023-01-24**|**Topology of Toric Gravitational Instantons**|Gustav Nilsson et.al.|[2301.10212v1](http://arxiv.org/abs/2301.10212v1)|null|
@@ -1589,6 +1599,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Minimization of the edge modes and near fields of a Travelling Wave Array antenna for WEST**|V. Maquet et.al.|[2301.10754v1](http://arxiv.org/abs/2301.10754v1)|null|
+|**2023-01-25**|**International Centre for the Advancement of Multidisciplinary Studies on Socio-Economic Systems**|Suchismita Banerjee et.al.|[2301.10549v1](http://arxiv.org/abs/2301.10549v1)|null|
+|**2023-01-25**|**Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute**|Michiel de Jong et.al.|[2301.10448v1](http://arxiv.org/abs/2301.10448v1)|null|
+|**2023-01-24**|**Determination of diffractive PDFs from global QCD analysis of inclusive diffractive DIS and dijet cross-section measurements at HERA**|Maral Salajegheh et.al.|[2301.10284v1](http://arxiv.org/abs/2301.10284v1)|null|
 |**2023-01-24**|**Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2301.10100v1](http://arxiv.org/abs/2301.10100v1)|**[link](https://github.com/valeoai/waffleiron)**|
 |**2023-01-23**|**GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning**|Haipeng Li et.al.|[2301.10018v1](http://arxiv.org/abs/2301.10018v1)|null|
 |**2023-01-24**|**Validation and traceability of multi-parameter miniaturized radiosondes for environmental observations**|Shahbozbek Abdunabiev et.al.|[2301.09928v1](http://arxiv.org/abs/2301.09928v1)|null|
