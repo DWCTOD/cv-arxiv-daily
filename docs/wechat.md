@@ -1,4 +1,4 @@
-> Updated on 2023.01.25
+> Updated on 2023.01.26
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 - 2023-01-24, **Neuronal architecture extracts statistical temporal patterns**, Sandra Nestler et.al., Paper: [http://arxiv.org/abs/2301.10203v1](http://arxiv.org/abs/2301.10203v1)
 - 2023-01-24, **WEASEL 2.0 -- A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification**, Patrick Schäfer et.al., Paper: [http://arxiv.org/abs/2301.10194v1](http://arxiv.org/abs/2301.10194v1), Code: **[https://github.com/patrickzib/dictionary](https://github.com/patrickzib/dictionary)**
 - 2023-01-24, **Enhanced Sharp-GAN For Histopathology Image Synthesis**, Sujata Butte et.al., Paper: [http://arxiv.org/abs/2301.10187v1](http://arxiv.org/abs/2301.10187v1)
-- 2023-01-24, **ViHOS: Hate Speech Spans Detection for Vietnamese**, Phu Gia Hoang et.al., Paper: [http://arxiv.org/abs/2301.10186v1](http://arxiv.org/abs/2301.10186v1)
+- 2023-01-24, **ViHOS: Hate Speech Spans Detection for Vietnamese**, Phu Gia Hoang et.al., Paper: [http://arxiv.org/abs/2301.10186v1](http://arxiv.org/abs/2301.10186v1), Code: **[https://github.com/phusroyal/vihos](https://github.com/phusroyal/vihos)**
 - 2023-01-24, **When does the student surpass the teacher? Federated Semi-supervised Learning with Teacher-Student EMA**, Jessica Zhao et.al., Paper: [http://arxiv.org/abs/2301.10114v1](http://arxiv.org/abs/2301.10114v1)
 - 2023-01-24, **Explainable Data-Driven Optimization: From Context to Decision and Back Again**, Alexandre Forel et.al., Paper: [http://arxiv.org/abs/2301.10074v1](http://arxiv.org/abs/2301.10074v1)
 - 2023-01-23, **Feature construction using explanations of individual predictions**, Boštjan Vouk et.al., Paper: [http://arxiv.org/abs/2301.09631v1](http://arxiv.org/abs/2301.09631v1)
