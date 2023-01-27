@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|null|
+|**2023-01-26**|**Unsupervised Volumetric Animation**|Aliaksandr Siarohin et.al.|[2301.11326v1](http://arxiv.org/abs/2301.11326v1)|null|
+|**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-01-26**|**SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification**|Pranjal Aggarwal et.al.|[2301.11309v1](http://arxiv.org/abs/2301.11309v1)|null|
+|**2023-01-26**|**ZiCo: Zero-shot NAS via Inverse Coefficient of Variation on Gradients**|Guihong Li et.al.|[2301.11300v1](http://arxiv.org/abs/2301.11300v1)|null|
+|**2023-01-26**|**An operator-algebraic formulation of self-testing**|Connor Paddock et.al.|[2301.11291v1](http://arxiv.org/abs/2301.11291v1)|null|
+|**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
+|**2023-01-26**|**Self-Supervised RGB-T Tracking with Cross-Input Consistency**|Xingchen Zhang et.al.|[2301.11274v1](http://arxiv.org/abs/2301.11274v1)|null|
+|**2023-01-26**|**I-24 MOTION: An instrument for freeway traffic science**|Derek Gloudemans et.al.|[2301.11198v1](http://arxiv.org/abs/2301.11198v1)|null|
+|**2023-01-26**|**Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models**|Matthew J. Muckley et.al.|[2301.11189v1](http://arxiv.org/abs/2301.11189v1)|null|
 |**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
 |**2023-01-25**|**Memory-Aware Social Learning under Partial Information Sharing**|Michele Cirillo et.al.|[2301.10688v1](http://arxiv.org/abs/2301.10688v1)|null|
 |**2023-01-25**|**Self-Supervised Curricular Deep Learning for Chest X-Ray Image Classification**|Iván de Andrés Tamé et.al.|[2301.10687v1](http://arxiv.org/abs/2301.10687v1)|null|
@@ -1599,6 +1609,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Location-based Activity Behavior Deviation Detection for Nursing Home using IoT Devices**|Billy Pik Lik Lau et.al.|[2301.11272v1](http://arxiv.org/abs/2301.11272v1)|null|
+|**2023-01-26**|**Multitemporal and multispectral data fusion for super-resolution of Sentinel-2 images**|Tomasz Tarasiewicz et.al.|[2301.11154v1](http://arxiv.org/abs/2301.11154v1)|null|
+|**2023-01-25**|**Generalized multifractality in 2D disordered systems of chiral symmetry classes**|Jonas F. Karcher et.al.|[2301.10851v1](http://arxiv.org/abs/2301.10851v1)|null|
+|**2023-01-25**|**Enhancing Medical Image Segmentation with TransCeption: A Multi-Scale Feature Fusion Approach**|Reza Azad et.al.|[2301.10847v1](http://arxiv.org/abs/2301.10847v1)|**[link](https://github.com/mindflow-institue/transception)**|
+|**2023-01-25**|**TranSOP: Transformer-based Multimodal Classification for Stroke Treatment Outcome Prediction**|Zeynel A. Samak et.al.|[2301.10829v1](http://arxiv.org/abs/2301.10829v1)|null|
 |**2023-01-25**|**Minimization of the edge modes and near fields of a Travelling Wave Array antenna for WEST**|V. Maquet et.al.|[2301.10754v1](http://arxiv.org/abs/2301.10754v1)|null|
 |**2023-01-25**|**International Centre for the Advancement of Multidisciplinary Studies on Socio-Economic Systems**|Suchismita Banerjee et.al.|[2301.10549v1](http://arxiv.org/abs/2301.10549v1)|null|
 |**2023-01-25**|**Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute**|Michiel de Jong et.al.|[2301.10448v1](http://arxiv.org/abs/2301.10448v1)|null|
