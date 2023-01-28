@@ -1,4 +1,4 @@
-## Updated on 2023.01.27
+## Updated on 2023.01.28
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 |**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|null|
 |**2023-01-26**|**Unsupervised Volumetric Animation**|Aliaksandr Siarohin et.al.|[2301.11326v1](http://arxiv.org/abs/2301.11326v1)|null|
 |**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
-|**2023-01-26**|**SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification**|Pranjal Aggarwal et.al.|[2301.11309v1](http://arxiv.org/abs/2301.11309v1)|null|
+|**2023-01-26**|**SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification**|Pranjal Aggarwal et.al.|[2301.11309v1](http://arxiv.org/abs/2301.11309v1)|**[link](https://github.com/princeton-nlp/semsup-xc)**|
 |**2023-01-26**|**ZiCo: Zero-shot NAS via Inverse Coefficient of Variation on Gradients**|Guihong Li et.al.|[2301.11300v1](http://arxiv.org/abs/2301.11300v1)|null|
 |**2023-01-26**|**An operator-algebraic formulation of self-testing**|Connor Paddock et.al.|[2301.11291v1](http://arxiv.org/abs/2301.11291v1)|null|
 |**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
