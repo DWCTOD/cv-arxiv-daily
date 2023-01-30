@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-01-27, **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**, Xinyi Wang et.al., Paper: [http://arxiv.org/abs/2301.11916v1](http://arxiv.org/abs/2301.11916v1)
+- 2023-01-27, **Reversibility and Real Adjoint Orbits of Linear Maps**, Krishnendu Gongopadhyay et.al., Paper: [http://arxiv.org/abs/2301.11910v1](http://arxiv.org/abs/2301.11910v1)
+- 2023-01-27, **Optical Flow Estimation in 360$^\circ$ Videos: Dataset, Model and Application**, Bin Duan et.al., Paper: [http://arxiv.org/abs/2301.11880v1](http://arxiv.org/abs/2301.11880v1)
+- 2023-01-27, **Case-Based Reasoning with Language Models for Classification of Logical Fallacies**, Zhivar Sourati et.al., Paper: [http://arxiv.org/abs/2301.11879v1](http://arxiv.org/abs/2301.11879v1)
+- 2023-01-27, **Ultrafast CMOS image sensors and data-enabled super-resolution for multimodal radiographic imaging and tomography**, Xin Yue et.al., Paper: [http://arxiv.org/abs/2301.11865v1](http://arxiv.org/abs/2301.11865v1)
+- 2023-01-27, **A Comparative Study of Pretrained Language Models for Long Clinical Text**, Yikuan Li et.al., Paper: [http://arxiv.org/abs/2301.11847v1](http://arxiv.org/abs/2301.11847v1), Code: **[https://github.com/luoyuanlab/clinical-longformer](https://github.com/luoyuanlab/clinical-longformer)**
+- 2023-01-27, **Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking**, Mubashara Akhtar et.al., Paper: [http://arxiv.org/abs/2301.11843v1](http://arxiv.org/abs/2301.11843v1)
+- 2023-01-27, **PECAN: A Deterministic Certified Defense Against Backdoor Attacks**, Yuhao Zhang et.al., Paper: [http://arxiv.org/abs/2301.11824v1](http://arxiv.org/abs/2301.11824v1)
+- 2023-01-27, **PCV: A Point Cloud-Based Network Verifier**, Arup Kumar Sarker et.al., Paper: [http://arxiv.org/abs/2301.11806v1](http://arxiv.org/abs/2301.11806v1)
+- 2023-01-27, **Inter-View Depth Consistency Testing in Depth Difference Subspace**, Pravin Kumar Rana et.al., Paper: [http://arxiv.org/abs/2301.11752v1](http://arxiv.org/abs/2301.11752v1)
 - 2023-01-26, **Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**, Malte Hoffmann et.al., Paper: [http://arxiv.org/abs/2301.11329v1](http://arxiv.org/abs/2301.11329v1)
 - 2023-01-26, **Unsupervised Volumetric Animation**, Aliaksandr Siarohin et.al., Paper: [http://arxiv.org/abs/2301.11326v1](http://arxiv.org/abs/2301.11326v1)
 - 2023-01-26, **Cut and Learn for Unsupervised Object Detection and Instance Segmentation**, Xudong Wang et.al., Paper: [http://arxiv.org/abs/2301.11320v1](http://arxiv.org/abs/2301.11320v1), Code: **[https://github.com/facebookresearch/cutler](https://github.com/facebookresearch/cutler)**
@@ -1605,6 +1615,14 @@
 
 ## MultiModal
 
+- 2023-01-27, **Refining the GENEVA method for Higgs boson production via gluon fusion**, Simone Alioli et.al., Paper: [http://arxiv.org/abs/2301.11875v1](http://arxiv.org/abs/2301.11875v1)
+- 2023-01-27, **Khaos: The Impact of Inter-procedural Code Obfuscation on Binary Diffing Techniques**, Peihua Zhang et.al., Paper: [http://arxiv.org/abs/2301.11586v1](http://arxiv.org/abs/2301.11586v1)
+- 2023-01-27, **A Ray-tracing and Deep Learning Fusion Super-resolution Modeling Method for Wireless Mobile Channel**, Zhao Zhang et.al., Paper: [http://arxiv.org/abs/2301.11557v1](http://arxiv.org/abs/2301.11557v1)
+- 2023-01-27, **Bayesian neural network for plasma equilibria in the Korea Superconducting Tokamak Advanced Research**, Semin Joung et.al., Paper: [http://arxiv.org/abs/2301.11555v1](http://arxiv.org/abs/2301.11555v1)
+- 2023-01-27, **Learning Informative Representation for Fairness-aware Multivariate Time-series Forecasting: A Group-based Perspective**, Hui He et.al., Paper: [http://arxiv.org/abs/2301.11535v1](http://arxiv.org/abs/2301.11535v1)
+- 2023-01-27, **Semi-Parametric Video-Grounded Text Generation**, Sungdong Kim et.al., Paper: [http://arxiv.org/abs/2301.11507v1](http://arxiv.org/abs/2301.11507v1)
+- 2023-01-26, **Improving Cross-modal Alignment for Text-Guided Image Inpainting**, Yucheng Zhou et.al., Paper: [http://arxiv.org/abs/2301.11362v1](http://arxiv.org/abs/2301.11362v1)
+- 2023-01-26, **Multimodal Event Transformer for Image-guided Story Ending Generation**, Yucheng Zhou et.al., Paper: [http://arxiv.org/abs/2301.11357v1](http://arxiv.org/abs/2301.11357v1)
 - 2023-01-25, **Location-based Activity Behavior Deviation Detection for Nursing Home using IoT Devices**, Billy Pik Lik Lau et.al., Paper: [http://arxiv.org/abs/2301.11272v1](http://arxiv.org/abs/2301.11272v1)
 - 2023-01-26, **Multitemporal and multispectral data fusion for super-resolution of Sentinel-2 images**, Tomasz Tarasiewicz et.al., Paper: [http://arxiv.org/abs/2301.11154v1](http://arxiv.org/abs/2301.11154v1)
 - 2023-01-25, **Generalized multifractality in 2D disordered systems of chiral symmetry classes**, Jonas F. Karcher et.al., Paper: [http://arxiv.org/abs/2301.10851v1](http://arxiv.org/abs/2301.10851v1)
