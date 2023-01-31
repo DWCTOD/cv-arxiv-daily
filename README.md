@@ -12,7 +12,7 @@
 |**2023-01-27**|**A Comparative Study of Pretrained Language Models for Long Clinical Text**|Yikuan Li et.al.|[2301.11847v1](http://arxiv.org/abs/2301.11847v1)|**[link](https://github.com/luoyuanlab/clinical-longformer)**|
 |**2023-01-27**|**Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking**|Mubashara Akhtar et.al.|[2301.11843v1](http://arxiv.org/abs/2301.11843v1)|null|
 |**2023-01-27**|**PECAN: A Deterministic Certified Defense Against Backdoor Attacks**|Yuhao Zhang et.al.|[2301.11824v1](http://arxiv.org/abs/2301.11824v1)|null|
-|**2023-01-27**|**PCV: A Point Cloud-Based Network Verifier**|Arup Kumar Sarker et.al.|[2301.11806v1](http://arxiv.org/abs/2301.11806v1)|null|
+|**2023-01-30**|**PCV: A Point Cloud-Based Network Verifier**|Arup Kumar Sarker et.al.|[2301.11806v2](http://arxiv.org/abs/2301.11806v2)|null|
 |**2023-01-27**|**Inter-View Depth Consistency Testing in Depth Difference Subspace**|Pravin Kumar Rana et.al.|[2301.11752v1](http://arxiv.org/abs/2301.11752v1)|null|
 |**2023-01-26**|**Anatomy-aware and acquisition-agnostic joint registration with SynthMorph**|Malte Hoffmann et.al.|[2301.11329v1](http://arxiv.org/abs/2301.11329v1)|null|
 |**2023-01-26**|**Unsupervised Volumetric Animation**|Aliaksandr Siarohin et.al.|[2301.11326v1](http://arxiv.org/abs/2301.11326v1)|null|
