@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-01-30, **Transport across interfaces in symmetric orbifolds**, Saba Asif Baig et.al., Paper: [http://arxiv.org/abs/2301.13198v1](http://arxiv.org/abs/2301.13198v1)
+- 2023-01-30, **Unlocking Slot Attention by Changing Optimal Transport Costs**, Yan Zhang et.al., Paper: [http://arxiv.org/abs/2301.13197v1](http://arxiv.org/abs/2301.13197v1), Code: **[https://github.com/davzha/mesh](https://github.com/davzha/mesh)**
+- 2023-01-30, **Audio-Visual Segmentation with Semantics**, Jinxing Zhou et.al., Paper: [http://arxiv.org/abs/2301.13190v1](http://arxiv.org/abs/2301.13190v1), Code: **[https://github.com/opennlplab/avsbench](https://github.com/opennlplab/avsbench)**
+- 2023-01-30, **Partitioned Matching Games for International Kidney Exchange**, Márton Benedek et.al., Paper: [http://arxiv.org/abs/2301.13181v1](http://arxiv.org/abs/2301.13181v1)
+- 2023-01-30, **Shape-aware Text-driven Layered Video Editing**, Yao-Chih Lee et.al., Paper: [http://arxiv.org/abs/2301.13173v1](http://arxiv.org/abs/2301.13173v1)
+- 2023-01-30, **A complete classification of categoricity spectra of accessible categories with directed colimits**, Christian Espindola et.al., Paper: [http://arxiv.org/abs/2301.13167v1](http://arxiv.org/abs/2301.13167v1)
+- 2023-01-30, **SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation**, Qiang Wan et.al., Paper: [http://arxiv.org/abs/2301.13156v1](http://arxiv.org/abs/2301.13156v1), Code: **[https://github.com/fudan-zvg/seaformer](https://github.com/fudan-zvg/seaformer)**
+- 2023-01-30, **Convolutional Neural Network-Based Automatic Classification of Colorectal and Prostate Tumor Biopsies Using Multispectral Imagery: System Development Study**, Remy Peyret et.al., Paper: [http://arxiv.org/abs/2301.13151v1](http://arxiv.org/abs/2301.13151v1)
+- 2023-01-30, **Standardized CycleGAN training for unsupervised stain adaptation in invasive carcinoma classification for breast histopathology**, Nicolas Nerrienet et.al., Paper: [http://arxiv.org/abs/2301.13128v1](http://arxiv.org/abs/2301.13128v1)
+- 2023-01-30, **Towards Adversarial Realism and Robust Learning for IoT Intrusion Detection and Classification**, João Vitorino et.al., Paper: [http://arxiv.org/abs/2301.13122v1](http://arxiv.org/abs/2301.13122v1)
 - 2023-01-27, **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**, Xinyi Wang et.al., Paper: [http://arxiv.org/abs/2301.11916v1](http://arxiv.org/abs/2301.11916v1)
 - 2023-01-27, **Reversibility and Real Adjoint Orbits of Linear Maps**, Krishnendu Gongopadhyay et.al., Paper: [http://arxiv.org/abs/2301.11910v1](http://arxiv.org/abs/2301.11910v1)
 - 2023-01-27, **Optical Flow Estimation in 360$^\circ$ Videos: Dataset, Model and Application**, Bin Duan et.al., Paper: [http://arxiv.org/abs/2301.11880v1](http://arxiv.org/abs/2301.11880v1)
@@ -1615,6 +1625,16 @@
 
 ## MultiModal
 
+- 2023-01-30, **Operator Fusion in XLA: Analysis and Evaluation**, Daniel Snider et.al., Paper: [http://arxiv.org/abs/2301.13062v1](http://arxiv.org/abs/2301.13062v1)
+- 2023-01-30, **Introducing tools to test Higgs interactions via $WW$ scattering II: the coupled channel formalism and scalar resonances**, Iñigo Asiáin et.al., Paper: [http://arxiv.org/abs/2301.13030v1](http://arxiv.org/abs/2301.13030v1)
+- 2023-01-30, **Drift of ablated material after pellet injection in a tokamak**, O. Vallhagen et.al., Paper: [http://arxiv.org/abs/2301.12911v1](http://arxiv.org/abs/2301.12911v1)
+- 2023-01-30, **Long Short-Term Memory Neural Network for Temperature Prediction in Laser Powder Bed Additive Manufacturing**, Ashkan Mansouri Yarahmadi et.al., Paper: [http://arxiv.org/abs/2301.12904v1](http://arxiv.org/abs/2301.12904v1)
+- 2023-01-30, **M3FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System**, Chenqi Kong et.al., Paper: [http://arxiv.org/abs/2301.12831v1](http://arxiv.org/abs/2301.12831v1)
+- 2023-01-30, **TrFedDis: Trusted Federated Disentangling Network for Non-IID Domain Feature**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2301.12798v1](http://arxiv.org/abs/2301.12798v1), Code: **[https://github.com/looking9218/trfeddis](https://github.com/looking9218/trfeddis)**
+- 2023-01-30, **On the intensity of focused waves near turning points**, N. A. Lopez et.al., Paper: [http://arxiv.org/abs/2301.12788v1](http://arxiv.org/abs/2301.12788v1)
+- 2023-01-30, **A new dynamical mechanism of incomplete fusion in heavy-ion collision**, A. K. Nasirov et.al., Paper: [http://arxiv.org/abs/2301.12691v1](http://arxiv.org/abs/2301.12691v1)
+- 2023-01-30, **MAKE: Product Retrieval with Vision-Language Pre-training in Taobao Search**, Xiaoyang Zheng et.al., Paper: [http://arxiv.org/abs/2301.12646v1](http://arxiv.org/abs/2301.12646v1)
+- 2023-01-30, **Multi-View Ensemble Learning With Missing Data: Computational Framework and Evaluations using Novel Data from the Safe Autonomous Driving Domain**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2301.12592v1](http://arxiv.org/abs/2301.12592v1)
 - 2023-01-27, **Refining the GENEVA method for Higgs boson production via gluon fusion**, Simone Alioli et.al., Paper: [http://arxiv.org/abs/2301.11875v1](http://arxiv.org/abs/2301.11875v1)
 - 2023-01-27, **Khaos: The Impact of Inter-procedural Code Obfuscation on Binary Diffing Techniques**, Peihua Zhang et.al., Paper: [http://arxiv.org/abs/2301.11586v1](http://arxiv.org/abs/2301.11586v1)
 - 2023-01-27, **A Ray-tracing and Deep Learning Fusion Super-resolution Modeling Method for Wireless Mobile Channel**, Zhao Zhang et.al., Paper: [http://arxiv.org/abs/2301.11557v1](http://arxiv.org/abs/2301.11557v1)
