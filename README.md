@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v1](http://arxiv.org/abs/2301.13869v1)|null|
+|**2023-01-31**|**Simplex Random Features**|Isaac Reid et.al.|[2301.13856v1](http://arxiv.org/abs/2301.13856v1)|null|
+|**2023-01-31**|**Classifications of simultaneous dilations via approximants and polynomial bounds**|Raj Dahya et.al.|[2301.13834v1](http://arxiv.org/abs/2301.13834v1)|null|
+|**2023-01-31**|**Classification of charge-conserving loop braid representations**|Paul Martin et.al.|[2301.13831v1](http://arxiv.org/abs/2301.13831v1)|null|
+|**2023-01-31**|**Deep learning-based lung segmentation and automatic regional template in chest X-ray images for pediatric tuberculosis**|Daniel Capellán-Martín et.al.|[2301.13786v1](http://arxiv.org/abs/2301.13786v1)|**[link](https://github.com/dani-capellan/ptb_lungregionextractor)**|
+|**2023-01-31**|**The Touché23-ValueEval Dataset for Identifying Human Values behind Arguments**|Nailia Mirzakhmedova et.al.|[2301.13771v1](http://arxiv.org/abs/2301.13771v1)|null|
+|**2023-01-31**|**Semi-Supervised Classification with Graph Convolutional Kernel Machines**|Sonny Achten et.al.|[2301.13764v1](http://arxiv.org/abs/2301.13764v1)|null|
+|**2023-01-31**|**Combining the CLAUDS & HSC-SSP surveys: U+grizy(+YJHKs) photometry and photometric redshifts for 18M galaxies in the 20 deg2 of the HSC-SSP Deep and ultraDeep fields**|G. Desprez et.al.|[2301.13750v1](http://arxiv.org/abs/2301.13750v1)|null|
+|**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
+|**2023-01-31**|**A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser**|Samuel Hurault et.al.|[2301.13731v1](http://arxiv.org/abs/2301.13731v1)|null|
 |**2023-01-30**|**Transport across interfaces in symmetric orbifolds**|Saba Asif Baig et.al.|[2301.13198v1](http://arxiv.org/abs/2301.13198v1)|null|
 |**2023-01-30**|**Unlocking Slot Attention by Changing Optimal Transport Costs**|Yan Zhang et.al.|[2301.13197v1](http://arxiv.org/abs/2301.13197v1)|**[link](https://github.com/davzha/mesh)**|
 |**2023-01-30**|**Audio-Visual Segmentation with Semantics**|Jinxing Zhou et.al.|[2301.13190v1](http://arxiv.org/abs/2301.13190v1)|**[link](https://github.com/opennlplab/avsbench)**|
@@ -1629,6 +1639,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Multi Feature Data Fusion-Based Load Forecasting of Electric Vehicle Charging Stations Using a Deep Learning Model**|Prince Aduama et.al.|[2301.13774v1](http://arxiv.org/abs/2301.13774v1)|null|
+|**2023-01-31**|**H- Beam formation simulation in negative ion source for CERN's Linac4 accelerator**|Anna Vnuchenko et.al.|[2301.13717v1](http://arxiv.org/abs/2301.13717v1)|null|
+|**2023-01-31**|**View fusion vis-à-vis a Bayesian interpretation of Black-Litterman for portfolio allocation**|Trent Spears et.al.|[2301.13594v1](http://arxiv.org/abs/2301.13594v1)|null|
+|**2023-01-31**|**Higgs production at next generation $e^+e^-$ colliders**|Deniz Yilmaz et.al.|[2301.13463v1](http://arxiv.org/abs/2301.13463v1)|null|
+|**2023-01-31**|**A fast algebraic multigrid solver and accurate discretization for highly anisotropic heat flux I: open field lines**|Golo A. Wimmer et.al.|[2301.13351v1](http://arxiv.org/abs/2301.13351v1)|null|
+|**2023-01-30**|**Probabilistic Neural Data Fusion for Learning from an Arbitrary Number of Multi-fidelity Data Sets**|Carlos Mora et.al.|[2301.13271v1](http://arxiv.org/abs/2301.13271v1)|null|
+|**2023-01-30**|**A platform for trapped cryogenic electrons, anions and cations for fundamental physics and chemical studies**|Levi O. A. Azevedo et.al.|[2301.13248v1](http://arxiv.org/abs/2301.13248v1)|null|
+|**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-30**|**Operator Fusion in XLA: Analysis and Evaluation**|Daniel Snider et.al.|[2301.13062v1](http://arxiv.org/abs/2301.13062v1)|null|
 |**2023-01-30**|**Introducing tools to test Higgs interactions via $WW$ scattering II: the coupled channel formalism and scalar resonances**|Iñigo Asiáin et.al.|[2301.13030v1](http://arxiv.org/abs/2301.13030v1)|null|
 |**2023-01-30**|**Drift of ablated material after pellet injection in a tokamak**|O. Vallhagen et.al.|[2301.12911v1](http://arxiv.org/abs/2301.12911v1)|null|
