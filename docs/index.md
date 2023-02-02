@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**ADAPT: Action-aware Driving Caption Transformer**|Bu Jin et.al.|[2302.00673v1](http://arxiv.org/abs/2302.00673v1)|**[link](https://github.com/jxbbb/adapt)**|
+|**2023-02-01**|**Efficient Multi-Task Reinforcement Learning via Selective Behavior Sharing**|Grace Zhang et.al.|[2302.00671v1](http://arxiv.org/abs/2302.00671v1)|null|
+|**2023-02-01**|**Detecting Histologic Glioblastoma Regions of Prognostic Relevance**|Bhakti Baheti et.al.|[2302.00669v1](http://arxiv.org/abs/2302.00669v1)|null|
+|**2023-02-01**|**Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning**|Adhrit Ravichandran et.al.|[2302.00666v1](http://arxiv.org/abs/2302.00666v1)|null|
+|**2023-02-01**|**On the Auerbach bases of $l^{n}_p$ spaces**|Arun Maiti et.al.|[2302.00664v1](http://arxiv.org/abs/2302.00664v1)|null|
+|**2023-02-01**|**Graph Neural Operators for Classification of Spatial Transcriptomics Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|null|
+|**2023-02-01**|**Early water delivery to terrestrial planet regions during the stages of Jupiter's formation and migration in the Grand Tack model**|Masahiro Ogihara et.al.|[2302.00649v1](http://arxiv.org/abs/2302.00649v1)|null|
+|**2023-02-01**|**Image-Based Vehicle Classification by Synergizing Features from Supervised and Self-Supervised Learning Paradigms**|Shihan Ma et.al.|[2302.00648v1](http://arxiv.org/abs/2302.00648v1)|null|
+|**2023-02-01**|**Epic-Sounds: A Large-scale Dataset of Actions That Sound**|Jaesung Huh et.al.|[2302.00646v1](http://arxiv.org/abs/2302.00646v1)|null|
+|**2023-02-01**|**Deep Dependency Networks for Multi-Label Classification**|Shivvrat Arya et.al.|[2302.00633v1](http://arxiv.org/abs/2302.00633v1)|null|
 |**2023-02-01**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v2](http://arxiv.org/abs/2301.13869v2)|null|
 |**2023-01-31**|**Simplex Random Features**|Isaac Reid et.al.|[2301.13856v1](http://arxiv.org/abs/2301.13856v1)|null|
 |**2023-01-31**|**Classifications of simultaneous dilations via approximants and polynomial bounds**|Raj Dahya et.al.|[2301.13834v1](http://arxiv.org/abs/2301.13834v1)|null|
@@ -1643,12 +1653,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Extrinsic Calibration of 2D mm-Wavelength Radar Pairs Using Ego-Velocity Estimates**|Qilong Cheng et.al.|[2302.00660v1](http://arxiv.org/abs/2302.00660v1)|null|
+|**2023-02-01**|**Multispectral Pedestrian Detection via Reference Box Constrained Cross Attention and Modality Balanced Optimization**|Yinghui Xing et.al.|[2302.00290v1](http://arxiv.org/abs/2302.00290v1)|null|
+|**2023-02-01**|**Human Fall Detection- Multimodality Approach**|Xi Wang et.al.|[2302.00224v1](http://arxiv.org/abs/2302.00224v1)|null|
+|**2023-02-01**|**EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry**|Bingqi Shen et.al.|[2302.00216v1](http://arxiv.org/abs/2302.00216v1)|null|
 |**2023-01-31**|**Multi Feature Data Fusion-Based Load Forecasting of Electric Vehicle Charging Stations Using a Deep Learning Model**|Prince Aduama et.al.|[2301.13774v1](http://arxiv.org/abs/2301.13774v1)|null|
 |**2023-01-31**|**H- Beam formation simulation in negative ion source for CERN's Linac4 accelerator**|Anna Vnuchenko et.al.|[2301.13717v1](http://arxiv.org/abs/2301.13717v1)|null|
 |**2023-01-31**|**View fusion vis-à-vis a Bayesian interpretation of Black-Litterman for portfolio allocation**|Trent Spears et.al.|[2301.13594v1](http://arxiv.org/abs/2301.13594v1)|null|
 |**2023-01-31**|**Higgs production at next generation $e^+e^-$ colliders**|Deniz Yilmaz et.al.|[2301.13463v1](http://arxiv.org/abs/2301.13463v1)|null|
 |**2023-01-31**|**A fast algebraic multigrid solver and accurate discretization for highly anisotropic heat flux I: open field lines**|Golo A. Wimmer et.al.|[2301.13351v1](http://arxiv.org/abs/2301.13351v1)|null|
-|**2023-01-30**|**Probabilistic Neural Data Fusion for Learning from an Arbitrary Number of Multi-fidelity Data Sets**|Carlos Mora et.al.|[2301.13271v1](http://arxiv.org/abs/2301.13271v1)|null|
+|**2023-01-30**|**Probabilistic Neural Data Fusion for Learning from an Arbitrary Number of Multi-fidelity Data Sets**|Carlos Mora et.al.|[2301.13271v1](http://arxiv.org/abs/2301.13271v1)|**[link](https://gitlab.com/tammeruci/pro-ndf)**|
 |**2023-01-30**|**A platform for trapped cryogenic electrons, anions and cations for fundamental physics and chemical studies**|Levi O. A. Azevedo et.al.|[2301.13248v1](http://arxiv.org/abs/2301.13248v1)|null|
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-30**|**Operator Fusion in XLA: Analysis and Evaluation**|Daniel Snider et.al.|[2301.13062v1](http://arxiv.org/abs/2301.13062v1)|null|
