@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-01-31**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v1](http://arxiv.org/abs/2301.13869v1)|null|
+|**2023-02-01**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v2](http://arxiv.org/abs/2301.13869v2)|null|
 |**2023-01-31**|**Simplex Random Features**|Isaac Reid et.al.|[2301.13856v1](http://arxiv.org/abs/2301.13856v1)|null|
 |**2023-01-31**|**Classifications of simultaneous dilations via approximants and polynomial bounds**|Raj Dahya et.al.|[2301.13834v1](http://arxiv.org/abs/2301.13834v1)|null|
 |**2023-01-31**|**Classification of charge-conserving loop braid representations**|Paul Martin et.al.|[2301.13831v1](http://arxiv.org/abs/2301.13831v1)|null|
