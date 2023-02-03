@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329v1](http://arxiv.org/abs/2302.01329v1)|null|
+|**2023-02-02**|**The impact of frame quantization on the dynamic range of a one-bit image sensor**|Lucas J. Koerner et.al.|[2302.01323v1](http://arxiv.org/abs/2302.01323v1)|null|
+|**2023-02-02**|**A classification of the Wadge hierarchies on zero-dimensional Polish spaces**|Raphaël Carroy et.al.|[2302.01319v1](http://arxiv.org/abs/2302.01319v1)|null|
+|**2023-02-02**|**GA4QCO: Genetic Algorithm for Quantum Circuit Optimization**|Leo Sünkel et.al.|[2302.01303v1](http://arxiv.org/abs/2302.01303v1)|null|
+|**2023-02-02**|**Bayesian Inference on Binary Spiking Networks Leveraging Nanoscale Device Stochasticity**|Prabodh Katti et.al.|[2302.01302v1](http://arxiv.org/abs/2302.01302v1)|null|
+|**2023-02-02**|**Multi-scale Feature Alignment for Continual Learning of Unlabeled Domains**|Kevin Thandiackal et.al.|[2302.01287v1](http://arxiv.org/abs/2302.01287v1)|null|
+|**2023-02-02**|**Human not in the loop: objective sample difficulty measures for Curriculum Learning**|Zhengbo Zhou et.al.|[2302.01243v1](http://arxiv.org/abs/2302.01243v1)|null|
+|**2023-02-02**|**SB-property on metric structures**|Camilo Argoty et.al.|[2302.01220v1](http://arxiv.org/abs/2302.01220v1)|null|
+|**2023-02-02**|**Laser-Induced Cavitation for Controlling Crystallization from Solution**|Nagaraj Nagalingam et.al.|[2302.01218v1](http://arxiv.org/abs/2302.01218v1)|null|
+|**2023-02-02**|**Automated classification of eclipsing binary systems in the VVV Survey**|I. V. Daza-Perilla et.al.|[2302.01200v1](http://arxiv.org/abs/2302.01200v1)|null|
 |**2023-02-01**|**ADAPT: Action-aware Driving Caption Transformer**|Bu Jin et.al.|[2302.00673v1](http://arxiv.org/abs/2302.00673v1)|**[link](https://github.com/jxbbb/adapt)**|
 |**2023-02-01**|**Efficient Multi-Task Reinforcement Learning via Selective Behavior Sharing**|Grace Zhang et.al.|[2302.00671v1](http://arxiv.org/abs/2302.00671v1)|null|
 |**2023-02-01**|**Detecting Histologic Glioblastoma Regions of Prognostic Relevance**|Bhakti Baheti et.al.|[2302.00669v1](http://arxiv.org/abs/2302.00669v1)|null|
@@ -1653,6 +1663,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-02**|**Quantal effects on thermonuclear reactions**|Iain Lee et.al.|[2302.01272v1](http://arxiv.org/abs/2302.01272v1)|null|
+|**2023-02-02**|**Temporal fusion transformer using variational mode decomposition for wind power forecasting**|Meiyu Jiang et.al.|[2302.01222v1](http://arxiv.org/abs/2302.01222v1)|null|
+|**2023-02-02**|**CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**|Zhiren Xun et.al.|[2302.01036v1](http://arxiv.org/abs/2302.01036v1)|null|
+|**2023-02-02**|**DPCIPI: A pre-trained deep learning model for estimation of cross-immunity between drifted strains of Influenza A/H3N2**|Yiming Du et.al.|[2302.00926v1](http://arxiv.org/abs/2302.00926v1)|null|
 |**2023-02-01**|**Extrinsic Calibration of 2D mm-Wavelength Radar Pairs Using Ego-Velocity Estimates**|Qilong Cheng et.al.|[2302.00660v1](http://arxiv.org/abs/2302.00660v1)|null|
 |**2023-02-01**|**Multispectral Pedestrian Detection via Reference Box Constrained Cross Attention and Modality Balanced Optimization**|Yinghui Xing et.al.|[2302.00290v1](http://arxiv.org/abs/2302.00290v1)|null|
 |**2023-02-01**|**Human Fall Detection- Multimodality Approach**|Xi Wang et.al.|[2302.00224v1](http://arxiv.org/abs/2302.00224v1)|null|
