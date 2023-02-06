@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-03, **Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers**, Krzysztof Marcin Choromanski et.al., Paper: [http://arxiv.org/abs/2302.01925v1](http://arxiv.org/abs/2302.01925v1)
+- 2023-02-03, **Egocentric Video Task Translation @ Ego4D Challenge 2022**, Zihui Xue et.al., Paper: [http://arxiv.org/abs/2302.01891v1](http://arxiv.org/abs/2302.01891v1)
+- 2023-02-03, **MOSE: A New Dataset for Video Object Segmentation in Complex Scenes**, Henghui Ding et.al., Paper: [http://arxiv.org/abs/2302.01872v1](http://arxiv.org/abs/2302.01872v1)
+- 2023-02-03, **Investigating Stylistic Profiles for the Task of Empathy Classification in Medical Narrative Essays**, Priyanka Dey et.al., Paper: [http://arxiv.org/abs/2302.01839v1](http://arxiv.org/abs/2302.01839v1)
+- 2023-02-03, **Graph Embedding for Mapping Interdisciplinary Research Networks**, Eoghan Cunningham et.al., Paper: [http://arxiv.org/abs/2302.01826v1](http://arxiv.org/abs/2302.01826v1)
+- 2023-02-03, **Locally conformally product structures on solvmanifolds**, Adrián Andrada et.al., Paper: [http://arxiv.org/abs/2302.01801v1](http://arxiv.org/abs/2302.01801v1)
+- 2023-02-03, **Self-Supervised In-Domain Representation Learning for Remote Sensing Image Scene Classification**, Ali Ghanbarzade et.al., Paper: [http://arxiv.org/abs/2302.01793v1](http://arxiv.org/abs/2302.01793v1)
+- 2023-02-03, **DilateFormer: Multi-Scale Dilated Transformer for Visual Recognition**, Jiayu Jiao et.al., Paper: [http://arxiv.org/abs/2302.01791v1](http://arxiv.org/abs/2302.01791v1), Code: **[https://github.com/jiaojiayuasd/dilateformer](https://github.com/jiaojiayuasd/dilateformer)**
+- 2023-02-03, **IMPORTANT-Net: Integrated MRI Multi-Parameter Reinforcement Fusion Generator with Attention Network for Synthesizing Absent Data**, Tianyu Zhang et.al., Paper: [http://arxiv.org/abs/2302.01788v1](http://arxiv.org/abs/2302.01788v1)
+- 2023-02-03, **A Systematic Evaluation of Backdoor Trigger Characteristics in Image Classification**, Gorka Abad et.al., Paper: [http://arxiv.org/abs/2302.01740v1](http://arxiv.org/abs/2302.01740v1)
 - 2023-02-02, **Dreamix: Video Diffusion Models are General Video Editors**, Eyal Molad et.al., Paper: [http://arxiv.org/abs/2302.01329v1](http://arxiv.org/abs/2302.01329v1)
 - 2023-02-02, **The impact of frame quantization on the dynamic range of a one-bit image sensor**, Lucas J. Koerner et.al., Paper: [http://arxiv.org/abs/2302.01323v1](http://arxiv.org/abs/2302.01323v1)
 - 2023-02-02, **A classification of the Wadge hierarchies on zero-dimensional Polish spaces**, Raphaël Carroy et.al., Paper: [http://arxiv.org/abs/2302.01319v1](http://arxiv.org/abs/2302.01319v1)
@@ -1655,6 +1665,16 @@
 
 ## MultiModal
 
+- 2023-02-03, **Coxeter quiver representations in fusion categories and Gabriel's theorem**, Edmund Heng et.al., Paper: [http://arxiv.org/abs/2302.01866v1](http://arxiv.org/abs/2302.01866v1)
+- 2023-02-03, **Bulk-to-boundary anyon fusion from microscopic models**, Julio C. Magdalena de la Fuente et.al., Paper: [http://arxiv.org/abs/2302.01835v1](http://arxiv.org/abs/2302.01835v1)
+- 2023-02-03, **Monitoring of Underwater Critical Infrastructures: the Nord Stream and Other Recent Case Studies**, Giovanni Soldi et.al., Paper: [http://arxiv.org/abs/2302.01817v1](http://arxiv.org/abs/2302.01817v1)
+- 2023-02-03, **IMPORTANT-Net: Integrated MRI Multi-Parameter Reinforcement Fusion Generator with Attention Network for Synthesizing Absent Data**, Tianyu Zhang et.al., Paper: [http://arxiv.org/abs/2302.01788v1](http://arxiv.org/abs/2302.01788v1)
+- 2023-02-03, **DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry**, Fuzhang~Han et.al., Paper: [http://arxiv.org/abs/2302.01703v1](http://arxiv.org/abs/2302.01703v1)
+- 2023-02-03, **Game Networking and its Evolution towards Supporting Metaverse through the 6G Wireless Systems**, Van-Phuc Bui et.al., Paper: [http://arxiv.org/abs/2302.01672v1](http://arxiv.org/abs/2302.01672v1)
+- 2023-02-03, **Rate-limiting recovery processes in neurotransmission under sustained stimulation**, Ariane Ernst et.al., Paper: [http://arxiv.org/abs/2302.01635v1](http://arxiv.org/abs/2302.01635v1)
+- 2023-02-03, **Comments to "High current ionic flows via ultra-fast lasers for fusion applications" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**, Karl Lackner et.al., Paper: [http://arxiv.org/abs/2302.01628v1](http://arxiv.org/abs/2302.01628v1)
+- 2023-02-03, **Classification of modular data of integral modular fusion categories up to rank 11**, Max A. Alekseyev et.al., Paper: [http://arxiv.org/abs/2302.01613v1](http://arxiv.org/abs/2302.01613v1)
+- 2023-02-03, **CFFT-GAN: Cross-domain Feature Fusion Transformer for Exemplar-based Image Translation**, Tianxiang Ma et.al., Paper: [http://arxiv.org/abs/2302.01608v1](http://arxiv.org/abs/2302.01608v1)
 - 2023-02-02, **Quantal effects on thermonuclear reactions**, Iain Lee et.al., Paper: [http://arxiv.org/abs/2302.01272v1](http://arxiv.org/abs/2302.01272v1)
 - 2023-02-02, **Temporal fusion transformer using variational mode decomposition for wind power forecasting**, Meiyu Jiang et.al., Paper: [http://arxiv.org/abs/2302.01222v1](http://arxiv.org/abs/2302.01222v1)
 - 2023-02-02, **CREPES: Cooperative RElative Pose EStimation towards Real-World Multi-Robot Systems**, Zhiren Xun et.al., Paper: [http://arxiv.org/abs/2302.01036v1](http://arxiv.org/abs/2302.01036v1)
