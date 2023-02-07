@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-06, **AIM: Adapting Image Models for Efficient Video Action Recognition**, Taojiannan Yang et.al., Paper: [http://arxiv.org/abs/2302.03024v1](http://arxiv.org/abs/2302.03024v1)
+- 2023-02-06, **SurgT: Soft-Tissue Tracking for Robotic Surgery, Benchmark and Challenge**, Joao Cartucho et.al., Paper: [http://arxiv.org/abs/2302.03022v1](http://arxiv.org/abs/2302.03022v1)
+- 2023-02-06, **Geometry of contact: contact planning for multi-legged robots via spin models duality**, Baxi Chong et.al., Paper: [http://arxiv.org/abs/2302.03019v1](http://arxiv.org/abs/2302.03019v1)
+- 2023-02-06, **DDM$^2$: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models**, Tiange Xiang et.al., Paper: [http://arxiv.org/abs/2302.03018v1](http://arxiv.org/abs/2302.03018v1)
+- 2023-02-06, **Detection and Localization of Melanoma Skin Cancer in Histopathological Whole Slide Images**, Neel Kanwal et.al., Paper: [http://arxiv.org/abs/2302.03014v1](http://arxiv.org/abs/2302.03014v1)
+- 2023-02-06, **Structure and Content-Guided Video Synthesis with Diffusion Models**, Patrick Esser et.al., Paper: [http://arxiv.org/abs/2302.03011v1](http://arxiv.org/abs/2302.03011v1)
+- 2023-02-06, **LAVA: Granular Neuron-Level Explainable AI for Alzheimer's Disease Assessment from Fundus Images**, Nooshin Yousefzadeh et.al., Paper: [http://arxiv.org/abs/2302.03008v1](http://arxiv.org/abs/2302.03008v1)
+- 2023-02-06, **Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning**, Yibo Yang et.al., Paper: [http://arxiv.org/abs/2302.03004v1](http://arxiv.org/abs/2302.03004v1), Code: **[https://github.com/NeuralCollapseApplications/FSCIL](https://github.com/NeuralCollapseApplications/FSCIL)**
+- 2023-02-06, **OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing**, Wenhui Zhu et.al., Paper: [http://arxiv.org/abs/2302.03003v1](http://arxiv.org/abs/2302.03003v1)
+- 2023-02-06, **A Multi-Class SWAP-Test Classifier**, S M Pillay et.al., Paper: [http://arxiv.org/abs/2302.02994v1](http://arxiv.org/abs/2302.02994v1)
 - 2023-02-03, **Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers**, Krzysztof Marcin Choromanski et.al., Paper: [http://arxiv.org/abs/2302.01925v1](http://arxiv.org/abs/2302.01925v1)
 - 2023-02-03, **Egocentric Video Task Translation @ Ego4D Challenge 2022**, Zihui Xue et.al., Paper: [http://arxiv.org/abs/2302.01891v1](http://arxiv.org/abs/2302.01891v1)
 - 2023-02-03, **MOSE: A New Dataset for Video Object Segmentation in Complex Scenes**, Henghui Ding et.al., Paper: [http://arxiv.org/abs/2302.01872v1](http://arxiv.org/abs/2302.01872v1)
@@ -1665,6 +1675,16 @@
 
 ## MultiModal
 
+- 2023-02-06, **Band-of-Interest-based Channel Impulse Response Fusion for Breathing Rate Estimation with UWB**, Sitian Li et.al., Paper: [http://arxiv.org/abs/2302.02917v1](http://arxiv.org/abs/2302.02917v1)
+- 2023-02-06, **TR3D: Towards Real-Time Indoor 3D Object Detection**, Danila Rukhovich et.al., Paper: [http://arxiv.org/abs/2302.02858v1](http://arxiv.org/abs/2302.02858v1), Code: **[https://github.com/samsunglabs/tr3d](https://github.com/samsunglabs/tr3d)**
+- 2023-02-06, **Fine-Grained Action Detection with RGB and Pose Information using Two Stream Convolutional Networks**, Leonard Hacker et.al., Paper: [http://arxiv.org/abs/2302.02755v1](http://arxiv.org/abs/2302.02755v1)
+- 2023-02-06, **Cross-Fusion Rule for Personalized Federated Learning**, Wangzhuo Yang et.al., Paper: [http://arxiv.org/abs/2302.02531v1](http://arxiv.org/abs/2302.02531v1)
+- 2023-02-05, **cross-modal fusion techniques for utterance-level emotion recognition from text and speech**, Jiachen Luo et.al., Paper: [http://arxiv.org/abs/2302.02447v1](http://arxiv.org/abs/2302.02447v1)
+- 2023-02-05, **Towards the precise description of Composite Higgs models at colliders**, Diogo Buarque Franzosi et.al., Paper: [http://arxiv.org/abs/2302.02422v1](http://arxiv.org/abs/2302.02422v1)
+- 2023-02-04, **Saturated Fusion Systems on Sylow $p$-subgroups of Rank $2$ Simple Groups of Lie Type**, Martin van Beek et.al., Paper: [http://arxiv.org/abs/2302.02222v1](http://arxiv.org/abs/2302.02222v1)
+- 2023-02-04, **Tailoring magnetic hysteresis of Fe-Ni permalloy by additive manufacturing: Multiphysics-multiscale simulations of process-property relationships**, Yangyiwei Yang et.al., Paper: [http://arxiv.org/abs/2302.02217v1](http://arxiv.org/abs/2302.02217v1)
+- 2023-02-04, **LipFormer: Learning to Lipread Unseen Speakers based on Visual-Landmark Transformers**, Feng Xue et.al., Paper: [http://arxiv.org/abs/2302.02141v1](http://arxiv.org/abs/2302.02141v1)
+- 2023-02-04, **Improving Prediction Backward-Compatiblility in NLP Model Upgrade with Gated Fusion**, Yi-An Lai et.al., Paper: [http://arxiv.org/abs/2302.02080v1](http://arxiv.org/abs/2302.02080v1)
 - 2023-02-03, **Coxeter quiver representations in fusion categories and Gabriel's theorem**, Edmund Heng et.al., Paper: [http://arxiv.org/abs/2302.01866v1](http://arxiv.org/abs/2302.01866v1)
 - 2023-02-03, **Bulk-to-boundary anyon fusion from microscopic models**, Julio C. Magdalena de la Fuente et.al., Paper: [http://arxiv.org/abs/2302.01835v1](http://arxiv.org/abs/2302.01835v1)
 - 2023-02-03, **Monitoring of Underwater Critical Infrastructures: the Nord Stream and Other Recent Case Studies**, Giovanni Soldi et.al., Paper: [http://arxiv.org/abs/2302.01817v1](http://arxiv.org/abs/2302.01817v1)
