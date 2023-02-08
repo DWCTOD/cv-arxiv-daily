@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-07, **Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**, Yuxin Wen et.al., Paper: [http://arxiv.org/abs/2302.03668v1](http://arxiv.org/abs/2302.03668v1), Code: **[https://github.com/YuxinWenRick/hard-prompts-made-easy](https://github.com/YuxinWenRick/hard-prompts-made-easy)**
+- 2023-02-07, **Deep Class-Incremental Learning: A Survey**, Da-Wei Zhou et.al., Paper: [http://arxiv.org/abs/2302.03648v1](http://arxiv.org/abs/2302.03648v1), Code: **[https://github.com/zhoudw-zdw/cil_survey](https://github.com/zhoudw-zdw/cil_survey)**
+- 2023-02-07, **A CCD Search for Variable Stars in the Open Cluster NGC 6611**, G. Michalska et.al., Paper: [http://arxiv.org/abs/2302.03628v1](http://arxiv.org/abs/2302.03628v1)
+- 2023-02-07, **In-the-wild Material Appearance Editing using Perceptual Attributes**, J. Daniel Subias et.al., Paper: [http://arxiv.org/abs/2302.03619v1](http://arxiv.org/abs/2302.03619v1)
+- 2023-02-07, **NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**, Zihan Zhu et.al., Paper: [http://arxiv.org/abs/2302.03594v1](http://arxiv.org/abs/2302.03594v1)
+- 2023-02-07, **NodeCoder: a graph-based machine learning platform to predict active sites of modeled protein structures**, Nasim Abdollahi et.al., Paper: [http://arxiv.org/abs/2302.03590v1](http://arxiv.org/abs/2302.03590v1)
+- 2023-02-07, **Towards a Deeper Understanding of Concept Bottleneck Models Through End-to-End Explanation**, Jack Furby et.al., Paper: [http://arxiv.org/abs/2302.03578v1](http://arxiv.org/abs/2302.03578v1), Code: **[https://github.com/JackFurby/explainable-concept-bottleneck-models](https://github.com/JackFurby/explainable-concept-bottleneck-models)**
+- 2023-02-07, **A Deep Learning-based in silico Framework for Optimization on Retinal Prosthetic Stimulation**, Yuli Wu et.al., Paper: [http://arxiv.org/abs/2302.03570v1](http://arxiv.org/abs/2302.03570v1)
+- 2023-02-07, **An Information Bottleneck Approach to Secrecy-Preserving Gaussian Mixture Classification**, Yi Song et.al., Paper: [http://arxiv.org/abs/2302.03549v1](http://arxiv.org/abs/2302.03549v1)
+- 2023-02-07, **PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer**, Zitong Yu et.al., Paper: [http://arxiv.org/abs/2302.03548v1](http://arxiv.org/abs/2302.03548v1)
 - 2023-02-06, **AIM: Adapting Image Models for Efficient Video Action Recognition**, Taojiannan Yang et.al., Paper: [http://arxiv.org/abs/2302.03024v1](http://arxiv.org/abs/2302.03024v1)
 - 2023-02-06, **SurgT: Soft-Tissue Tracking for Robotic Surgery, Benchmark and Challenge**, Joao Cartucho et.al., Paper: [http://arxiv.org/abs/2302.03022v1](http://arxiv.org/abs/2302.03022v1)
 - 2023-02-07, **Geometry of contact: contact planning for multi-legged robots via spin models duality**, Baxi Chong et.al., Paper: [http://arxiv.org/abs/2302.03019v2](http://arxiv.org/abs/2302.03019v2)
@@ -1675,6 +1685,14 @@
 
 ## MultiModal
 
+- 2023-02-07, **ConsRec: Learning Consensus Behind Interactions for Group Recommendation**, Xixi Wu et.al., Paper: [http://arxiv.org/abs/2302.03555v1](http://arxiv.org/abs/2302.03555v1)
+- 2023-02-07, **Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation**, Wangbin Ding et.al., Paper: [http://arxiv.org/abs/2302.03537v1](http://arxiv.org/abs/2302.03537v1)
+- 2023-02-07, **Revisiting Pre-training in Audio-Visual Learning**, Ruoxuan Feng et.al., Paper: [http://arxiv.org/abs/2302.03533v1](http://arxiv.org/abs/2302.03533v1)
+- 2023-02-07, **Phase-Field Study of Polycrystalline Growth and Texture Selection During Melt Pool Solidification**, Rouhollah Tavakoli et.al., Paper: [http://arxiv.org/abs/2302.03437v1](http://arxiv.org/abs/2302.03437v1)
+- 2023-02-07, **Deconstructing squark contributions to di-Higgs production at the LHC**, Stefano Moretti et.al., Paper: [http://arxiv.org/abs/2302.03401v1](http://arxiv.org/abs/2302.03401v1)
+- 2023-02-06, **Combining Synchrotron X-ray Diffraction, Mechanistic Modeling, and Machine Learning for In Situ Subsurface Temperature Quantification during Additive Manufacturing**, Rachel E. Lim et.al., Paper: [http://arxiv.org/abs/2302.03146v1](http://arxiv.org/abs/2302.03146v1)
+- 2023-02-06, **Decentralized Zero-Trust Framework for Digital Twin-based 6G**, Ismaeel Al Ridhawi et.al., Paper: [http://arxiv.org/abs/2302.03107v1](http://arxiv.org/abs/2302.03107v1)
+- 2023-02-06, **High threshold codes for neutral atom qubits with biased erasure errors**, Kaavya Sahay et.al., Paper: [http://arxiv.org/abs/2302.03063v1](http://arxiv.org/abs/2302.03063v1)
 - 2023-02-06, **Band-of-Interest-based Channel Impulse Response Fusion for Breathing Rate Estimation with UWB**, Sitian Li et.al., Paper: [http://arxiv.org/abs/2302.02917v1](http://arxiv.org/abs/2302.02917v1)
 - 2023-02-06, **TR3D: Towards Real-Time Indoor 3D Object Detection**, Danila Rukhovich et.al., Paper: [http://arxiv.org/abs/2302.02858v1](http://arxiv.org/abs/2302.02858v1), Code: **[https://github.com/samsunglabs/tr3d](https://github.com/samsunglabs/tr3d)**
 - 2023-02-06, **Fine-Grained Action Detection with RGB and Pose Information using Two Stream Convolutional Networks**, Leonard Hacker et.al., Paper: [http://arxiv.org/abs/2302.02755v1](http://arxiv.org/abs/2302.02755v1), Code: **[https://github.com/fidsinn/sporttaskme22](https://github.com/fidsinn/sporttaskme22)**
