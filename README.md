@@ -6,13 +6,13 @@
 |---|---|---|---|---|
 |**2023-02-06**|**AIM: Adapting Image Models for Efficient Video Action Recognition**|Taojiannan Yang et.al.|[2302.03024v1](http://arxiv.org/abs/2302.03024v1)|null|
 |**2023-02-06**|**SurgT: Soft-Tissue Tracking for Robotic Surgery, Benchmark and Challenge**|Joao Cartucho et.al.|[2302.03022v1](http://arxiv.org/abs/2302.03022v1)|null|
-|**2023-02-06**|**Geometry of contact: contact planning for multi-legged robots via spin models duality**|Baxi Chong et.al.|[2302.03019v1](http://arxiv.org/abs/2302.03019v1)|null|
+|**2023-02-07**|**Geometry of contact: contact planning for multi-legged robots via spin models duality**|Baxi Chong et.al.|[2302.03019v2](http://arxiv.org/abs/2302.03019v2)|null|
 |**2023-02-06**|**DDM$^2$: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models**|Tiange Xiang et.al.|[2302.03018v1](http://arxiv.org/abs/2302.03018v1)|null|
 |**2023-02-06**|**Detection and Localization of Melanoma Skin Cancer in Histopathological Whole Slide Images**|Neel Kanwal et.al.|[2302.03014v1](http://arxiv.org/abs/2302.03014v1)|**[link](https://github.com/RogerAmundsen/Melanoma-Diagnosis-and-Localization-from-Whole-Slide-Images-using-Convolutional-Neural-Networks)**|
 |**2023-02-06**|**Structure and Content-Guided Video Synthesis with Diffusion Models**|Patrick Esser et.al.|[2302.03011v1](http://arxiv.org/abs/2302.03011v1)|null|
 |**2023-02-06**|**LAVA: Granular Neuron-Level Explainable AI for Alzheimer's Disease Assessment from Fundus Images**|Nooshin Yousefzadeh et.al.|[2302.03008v1](http://arxiv.org/abs/2302.03008v1)|null|
 |**2023-02-06**|**Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning**|Yibo Yang et.al.|[2302.03004v1](http://arxiv.org/abs/2302.03004v1)|**[link](https://github.com/NeuralCollapseApplications/FSCIL)**|
-|**2023-02-06**|**OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing**|Wenhui Zhu et.al.|[2302.03003v1](http://arxiv.org/abs/2302.03003v1)|null|
+|**2023-02-07**|**OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing**|Wenhui Zhu et.al.|[2302.03003v2](http://arxiv.org/abs/2302.03003v2)|null|
 |**2023-02-06**|**A Multi-Class SWAP-Test Classifier**|S M Pillay et.al.|[2302.02994v1](http://arxiv.org/abs/2302.02994v1)|null|
 |**2023-02-03**|**Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers**|Krzysztof Marcin Choromanski et.al.|[2302.01925v1](http://arxiv.org/abs/2302.01925v1)|null|
 |**2023-02-03**|**Egocentric Video Task Translation @ Ego4D Challenge 2022**|Zihui Xue et.al.|[2302.01891v1](http://arxiv.org/abs/2302.01891v1)|null|
