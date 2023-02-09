@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-08, **Nerfstudio: A Modular Framework for Neural Radiance Field Development**, Matthew Tancik et.al., Paper: [http://arxiv.org/abs/2302.04264v1](http://arxiv.org/abs/2302.04264v1)
+- 2023-02-08, **Algorithmic Collective Action in Machine Learning**, Moritz Hardt et.al., Paper: [http://arxiv.org/abs/2302.04262v1](http://arxiv.org/abs/2302.04262v1)
+- 2023-02-08, **SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping Using Monocular Frontal View Images**, Nikhil Gosala et.al., Paper: [http://arxiv.org/abs/2302.04233v1](http://arxiv.org/abs/2302.04233v1)
+- 2023-02-08, **Data Poisoning Attacks on EEG Signal-based Risk Assessment Systems**, Zhibo Zhang et.al., Paper: [http://arxiv.org/abs/2302.04224v1](http://arxiv.org/abs/2302.04224v1)
+- 2023-02-08, **Combining Variational Autoencoders and Physical Bias for Improved Microscopy Data Analysis**, Arpan Biswas et.al., Paper: [http://arxiv.org/abs/2302.04216v1](http://arxiv.org/abs/2302.04216v1), Code: **[https://github.com/arpanbiswas52/papernotebooks](https://github.com/arpanbiswas52/papernotebooks)**
+- 2023-02-08, **On the Complexity of Computing Gödel Numbers**, Vasco Brattka et.al., Paper: [http://arxiv.org/abs/2302.04213v1](http://arxiv.org/abs/2302.04213v1)
+- 2023-02-08, **A Survey of Feature detection methods for localisation of plain sections of Axial Brain Magnetic Resonance Imaging**, Jiří Martinů et.al., Paper: [http://arxiv.org/abs/2302.04173v1](http://arxiv.org/abs/2302.04173v1)
+- 2023-02-08, **Prompting for Multimodal Hateful Meme Classification**, Rui Cao et.al., Paper: [http://arxiv.org/abs/2302.04156v1](http://arxiv.org/abs/2302.04156v1)
+- 2023-02-08, **Predicting Thrombectomy Recanalization from CT Imaging Using Deep Learning Models**, Haoyue Zhang et.al., Paper: [http://arxiv.org/abs/2302.04143v1](http://arxiv.org/abs/2302.04143v1)
+- 2023-02-08, **Hyperspectral Image Compression Using Implicit Neural Representation**, Shima Rezasoltani et.al., Paper: [http://arxiv.org/abs/2302.04129v1](http://arxiv.org/abs/2302.04129v1)
 - 2023-02-07, **Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**, Yuxin Wen et.al., Paper: [http://arxiv.org/abs/2302.03668v1](http://arxiv.org/abs/2302.03668v1), Code: **[https://github.com/YuxinWenRick/hard-prompts-made-easy](https://github.com/YuxinWenRick/hard-prompts-made-easy)**
 - 2023-02-07, **Deep Class-Incremental Learning: A Survey**, Da-Wei Zhou et.al., Paper: [http://arxiv.org/abs/2302.03648v1](http://arxiv.org/abs/2302.03648v1), Code: **[https://github.com/zhoudw-zdw/cil_survey](https://github.com/zhoudw-zdw/cil_survey)**
 - 2023-02-07, **A CCD Search for Variable Stars in the Open Cluster NGC 6611**, G. Michalska et.al., Paper: [http://arxiv.org/abs/2302.03628v1](http://arxiv.org/abs/2302.03628v1)
@@ -1685,6 +1695,12 @@
 
 ## MultiModal
 
+- 2023-02-08, **The earliest DT nuclear fusion discoveries**, M. B. Chadwick et.al., Paper: [http://arxiv.org/abs/2302.04206v1](http://arxiv.org/abs/2302.04206v1)
+- 2023-02-08, **WF-UNet: Weather Fusion UNet for Precipitation Nowcasting**, Christos Kaparakis et.al., Paper: [http://arxiv.org/abs/2302.04102v1](http://arxiv.org/abs/2302.04102v1)
+- 2023-02-08, **InMyFace: Inertial and Mechanomyography-Based Sensor Fusion for Wearable Facial Activity Recognition**, Hymalai Bello et.al., Paper: [http://arxiv.org/abs/2302.04024v1](http://arxiv.org/abs/2302.04024v1)
+- 2023-02-08, **Diffusionless relaxation of half-skyrmion liquid, hexatic, and crystalline states in a chiral molecular crystal**, Kyohei Takae et.al., Paper: [http://arxiv.org/abs/2302.04021v1](http://arxiv.org/abs/2302.04021v1)
+- 2023-02-08, **On Cosmological Low Entropy After the Big Bang: Universal Expansion and Nucleosynthesis**, Charlie F. Sharpe et.al., Paper: [http://arxiv.org/abs/2302.03988v1](http://arxiv.org/abs/2302.03988v1)
+- 2023-02-08, **DDeMON: Ontology-based function prediction by Deep Learning from Dynamic Multiplex Networks**, Jan Kralj et.al., Paper: [http://arxiv.org/abs/2302.03907v1](http://arxiv.org/abs/2302.03907v1)
 - 2023-02-07, **ConsRec: Learning Consensus Behind Interactions for Group Recommendation**, Xixi Wu et.al., Paper: [http://arxiv.org/abs/2302.03555v1](http://arxiv.org/abs/2302.03555v1)
 - 2023-02-07, **Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation**, Wangbin Ding et.al., Paper: [http://arxiv.org/abs/2302.03537v1](http://arxiv.org/abs/2302.03537v1)
 - 2023-02-07, **Revisiting Pre-training in Audio-Visual Learning**, Ruoxuan Feng et.al., Paper: [http://arxiv.org/abs/2302.03533v1](http://arxiv.org/abs/2302.03533v1)
