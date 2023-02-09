@@ -1698,7 +1698,7 @@
 |**2023-02-06**|**Decentralized Zero-Trust Framework for Digital Twin-based 6G**|Ismaeel Al Ridhawi et.al.|[2302.03107v1](http://arxiv.org/abs/2302.03107v1)|null|
 |**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063v1](http://arxiv.org/abs/2302.03063v1)|null|
 |**2023-02-06**|**Band-of-Interest-based Channel Impulse Response Fusion for Breathing Rate Estimation with UWB**|Sitian Li et.al.|[2302.02917v1](http://arxiv.org/abs/2302.02917v1)|null|
-|**2023-02-06**|**TR3D: Towards Real-Time Indoor 3D Object Detection**|Danila Rukhovich et.al.|[2302.02858v1](http://arxiv.org/abs/2302.02858v1)|**[link](https://github.com/samsunglabs/tr3d)**|
+|**2023-02-08**|**TR3D: Towards Real-Time Indoor 3D Object Detection**|Danila Rukhovich et.al.|[2302.02858v2](http://arxiv.org/abs/2302.02858v2)|**[link](https://github.com/samsunglabs/tr3d)**|
 |**2023-02-06**|**Fine-Grained Action Detection with RGB and Pose Information using Two Stream Convolutional Networks**|Leonard Hacker et.al.|[2302.02755v1](http://arxiv.org/abs/2302.02755v1)|**[link](https://github.com/fidsinn/sporttaskme22)**|
 |**2023-02-06**|**Cross-Fusion Rule for Personalized Federated Learning**|Wangzhuo Yang et.al.|[2302.02531v1](http://arxiv.org/abs/2302.02531v1)|null|
 |**2023-02-05**|**cross-modal fusion techniques for utterance-level emotion recognition from text and speech**|Jiachen Luo et.al.|[2302.02447v1](http://arxiv.org/abs/2302.02447v1)|null|
