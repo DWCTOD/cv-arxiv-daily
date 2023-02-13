@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-10**|**Q-Match: Self-supervised Learning by Matching Distributions Induced by a Queue**|Thomas Mulc et.al.|[2302.05444v1](http://arxiv.org/abs/2302.05444v1)|null|
+|**2023-02-10**|**Scaling Vision Transformers to 22 Billion Parameters**|Mostafa Dehghani et.al.|[2302.05442v1](http://arxiv.org/abs/2302.05442v1)|null|
+|**2023-02-10**|**Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features**|Annie S. Chen et.al.|[2302.05441v1](http://arxiv.org/abs/2302.05441v1)|null|
+|**2023-02-10**|**Deep Learning on Implicit Neural Representations of Shapes**|Luca De Luigi et.al.|[2302.05438v1](http://arxiv.org/abs/2302.05438v1)|null|
+|**2023-02-10**|**A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks**|Ahmad Ali Rafiee et.al.|[2302.05435v1](http://arxiv.org/abs/2302.05435v1)|**[link](https://github.com/AliRafiee7/SeConvNet)**|
+|**2023-02-10**|**Tackling Bias in the Dice Similarity Coefficient: Introducing nDSC for White Matter Lesion Segmentation**|Vatsal Raina et.al.|[2302.05432v1](http://arxiv.org/abs/2302.05432v1)|**[link](https://github.com/nataliiamolch/ndsc)**|
+|**2023-02-10**|**DNArch: Learning Convolutional Neural Architectures by Backpropagation**|David W. Romero et.al.|[2302.05400v1](http://arxiv.org/abs/2302.05400v1)|null|
+|**2023-02-10**|**GTR-CTRL: Instrument and Genre Conditioning for Guitar-Focused Music Generation with Transformers**|Pedro Sarmento et.al.|[2302.05393v1](http://arxiv.org/abs/2302.05393v1)|null|
+|**2023-02-10**|**A CT-based deep learning system for automatic assessment of aortic root morphology for TAVI planning**|Simone Saitta et.al.|[2302.05378v1](http://arxiv.org/abs/2302.05378v1)|null|
+|**2023-02-10**|**LCDnet: A Lightweight Crowd Density Estimation Model for Real-time Video Surveillance**|Muhammad Asif Khan et.al.|[2302.05374v1](http://arxiv.org/abs/2302.05374v1)|null|
 |**2023-02-09**|**In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition**|Yiran Xu et.al.|[2302.04871v1](http://arxiv.org/abs/2302.04871v1)|null|
 |**2023-02-09**|**Reversible Vision Transformers**|Karttikeya Mangalam et.al.|[2302.04869v1](http://arxiv.org/abs/2302.04869v1)|**[link](https://github.com/facebookresearch/mvit)**|
 |**2023-02-09**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843v1](http://arxiv.org/abs/2302.04843v1)|null|
@@ -1709,6 +1719,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-10**|**Proving a conjecture for fusion systems on a class of groups**|Patrick Serwene et.al.|[2302.05203v1](http://arxiv.org/abs/2302.05203v1)|null|
+|**2023-02-10**|**A highly efficient computational framework for fast scan-resolved simulations of metal additive manufacturing processes on the scale of real parts**|Sebastian D. Proell et.al.|[2302.05164v1](http://arxiv.org/abs/2302.05164v1)|null|
+|**2023-02-10**|**Adjacent-level Feature Cross-Fusion with 3D CNN for Remote Sensing Image Change Detection**|Yuanxin Ye et.al.|[2302.05109v1](http://arxiv.org/abs/2302.05109v1)|**[link](https://github.com/wm-githuber/afcf3d-net)**|
+|**2023-02-10**|**PATCorrect: Non-autoregressive Phoneme-augmented Transformer for ASR Error Correction**|Ziji Zhang et.al.|[2302.05040v1](http://arxiv.org/abs/2302.05040v1)|null|
+|**2023-02-10**|**Deep Seam Prediction for Image Stitching Based on Selection Consistency Loss**|Senmao Cheng et.al.|[2302.05027v1](http://arxiv.org/abs/2302.05027v1)|null|
+|**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019v1](http://arxiv.org/abs/2302.05019v1)|null|
 |**2023-02-09**|**The tt*-Toda equations of A_n type**|Martin A. Guest et.al.|[2302.04597v1](http://arxiv.org/abs/2302.04597v1)|null|
 |**2023-02-08**|**Neonatal Face and Facial Landmark Detection from Video Recordings**|Ethan Grooby et.al.|[2302.04341v1](http://arxiv.org/abs/2302.04341v1)|null|
 |**2023-02-08**|**The earliest DT nuclear fusion discoveries**|M. B. Chadwick et.al.|[2302.04206v1](http://arxiv.org/abs/2302.04206v1)|null|
