@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-13**|**UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling**|Haoyu Lu et.al.|[2302.06605v1](http://arxiv.org/abs/2302.06605v1)|**[link](https://github.com/rerv/uniadapter)**|
+|**2023-02-13**|**Stitchable Neural Networks**|Zizheng Pan et.al.|[2302.06586v1](http://arxiv.org/abs/2302.06586v1)|null|
+|**2023-02-13**|**Characterizing the VPN Ecosystem in the Wild**|Aniss Maghsoudlou et.al.|[2302.06566v1](http://arxiv.org/abs/2302.06566v1)|null|
+|**2023-02-13**|**A Domain Decomposition-Based CNN-DNN Architecture for Model Parallel Training Applied to Image Recognition Problems**|Axel Klawonn et.al.|[2302.06564v1](http://arxiv.org/abs/2302.06564v1)|null|
+|**2023-02-13**|**Between Generating Noise and Generating Images: Noise in the Correct Frequency Improves the Quality of Synthetic Histopathology Images for Digital Pathology**|Nati Daniel et.al.|[2302.06549v1](http://arxiv.org/abs/2302.06549v1)|null|
+|**2023-02-13**|**Probabilistic Circuits That Know What They Don't Know**|Fabrizio Ventola et.al.|[2302.06544v1](http://arxiv.org/abs/2302.06544v1)|**[link](https://github.com/ml-research/tractable-dropout-inference)**|
+|**2023-02-13**|**Towards Agile Text Classifiers for Everyone**|Maximilian Mozes et.al.|[2302.06541v1](http://arxiv.org/abs/2302.06541v1)|null|
+|**2023-02-13**|**Reanalysis of the spin direction distribution of Galaxy Zoo SDSS spiral galaxies**|Darius McAdam et.al.|[2302.06530v1](http://arxiv.org/abs/2302.06530v1)|null|
+|**2023-02-13**|**DEPAS: De-novo Pathology Semantic Masks using a Generative Model**|Ariel Larey et.al.|[2302.06513v1](http://arxiv.org/abs/2302.06513v1)|null|
+|**2023-02-13**|**Divide and Save: Splitting Workload Among Containers in an Edge Device to Save Energy and Time**|Aria Khoshsirat et.al.|[2302.06478v1](http://arxiv.org/abs/2302.06478v1)|null|
 |**2023-02-10**|**Q-Match: Self-supervised Learning by Matching Distributions Induced by a Queue**|Thomas Mulc et.al.|[2302.05444v1](http://arxiv.org/abs/2302.05444v1)|null|
 |**2023-02-10**|**Scaling Vision Transformers to 22 Billion Parameters**|Mostafa Dehghani et.al.|[2302.05442v1](http://arxiv.org/abs/2302.05442v1)|null|
 |**2023-02-10**|**Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features**|Annie S. Chen et.al.|[2302.05441v1](http://arxiv.org/abs/2302.05441v1)|null|
@@ -1723,6 +1733,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-13**|**Low $Q$ nuclear fusion in a volume heated mixed fuel reactor**|Hartmut Ruhl et.al.|[2302.06562v1](http://arxiv.org/abs/2302.06562v1)|null|
+|**2023-02-13**|**Fourier Neural Operator for Plasma Modelling**|Vignesh Gopakumar et.al.|[2302.06542v1](http://arxiv.org/abs/2302.06542v1)|null|
+|**2023-02-13**|**A Deep Learning-based Global and Segmentation-based Semantic Feature Fusion Approach for Indoor Scene Classification**|Ricardo Pereira et.al.|[2302.06432v1](http://arxiv.org/abs/2302.06432v1)|null|
+|**2023-02-13**|**"Push-Grasp-Suction"Integrated Network for Ambidextrous Robot Picking**|Chenlin Zhou et.al.|[2302.06431v1](http://arxiv.org/abs/2302.06431v1)|null|
+|**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama et.al.|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
+|**2023-02-13**|**Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance**|Zeqiang Lai et.al.|[2302.06298v1](http://arxiv.org/abs/2302.06298v1)|null|
+|**2023-02-13**|**Time-dependent charged particle stopping in quantum plasmas: testing the G1-G2 scheme for quasi-one-dimensional systems**|C. Makait et.al.|[2302.06216v1](http://arxiv.org/abs/2302.06216v1)|null|
+|**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|null|
+|**2023-02-13**|**Towards Local Visual Modeling for Image Captioning**|Yiwei Ma et.al.|[2302.06098v1](http://arxiv.org/abs/2302.06098v1)|**[link](https://github.com/xmu-xiaoma666/lstnet)**|
+|**2023-02-13**|**CFNet: Cascade Fusion Network for Dense Prediction**|Gang Zhang et.al.|[2302.06052v1](http://arxiv.org/abs/2302.06052v1)|**[link](https://github.com/zhanggang001/cfnet)**|
 |**2023-02-10**|**Proving a conjecture for fusion systems on a class of groups**|Patrick Serwene et.al.|[2302.05203v1](http://arxiv.org/abs/2302.05203v1)|null|
 |**2023-02-10**|**A highly efficient computational framework for fast scan-resolved simulations of metal additive manufacturing processes on the scale of real parts**|Sebastian D. Proell et.al.|[2302.05164v1](http://arxiv.org/abs/2302.05164v1)|null|
 |**2023-02-10**|**Adjacent-level Feature Cross-Fusion with 3D CNN for Remote Sensing Image Change Detection**|Yuanxin Ye et.al.|[2302.05109v1](http://arxiv.org/abs/2302.05109v1)|**[link](https://github.com/wm-githuber/afcf3d-net)**|
