@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-02-14**|**ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models**|Sheng Wang et.al.|[2302.07257v1](http://arxiv.org/abs/2302.07257v1)|null|
 |**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
-|**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v1](http://arxiv.org/abs/2302.07241v1)|null|
+|**2023-02-15**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
 |**2023-02-14**|**Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask**|Shangzhan Zhang et.al.|[2302.07224v1](http://arxiv.org/abs/2302.07224v1)|null|
 |**2023-02-14**|**Randomization for adversarial robustness: the Good, the Bad and the Ugly**|Lucas Gnecco-Heredia et.al.|[2302.07221v1](http://arxiv.org/abs/2302.07221v1)|null|
 |**2023-02-14**|**Complex $S_3$-symmetric 3HDM**|A. Kunčinas et.al.|[2302.07210v1](http://arxiv.org/abs/2302.07210v1)|null|
@@ -1739,7 +1739,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v1](http://arxiv.org/abs/2302.07241v1)|null|
+|**2023-02-15**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
 |**2023-02-14**|**Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks**|Konrad Zuchniak et.al.|[2302.07215v1](http://arxiv.org/abs/2302.07215v1)|null|
 |**2023-02-14**|**Central exclusive diffractive production of single photon in high-energy proton-proton collisions within the tensor-pomeron approach**|Piotr Lebiedowicz et.al.|[2302.07192v1](http://arxiv.org/abs/2302.07192v1)|null|
 |**2023-02-14**|**Bilateral-Fuser: A Novel Multi-cue Fusion Architecture with Anatomical-aware Tokens for Fovea Localization**|Sifan Song et.al.|[2302.06961v1](http://arxiv.org/abs/2302.06961v1)|null|
@@ -1747,7 +1747,7 @@
 |**2023-02-14**|**First-Order Statistical Framework for Multi-Channel Passive Detection**|Todd McWhorter et.al.|[2302.06816v1](http://arxiv.org/abs/2302.06816v1)|null|
 |**2023-02-13**|**Vision-RADAR fusion for Robotics BEV Detections: A Survey**|Apoorv Singh et.al.|[2302.06643v1](http://arxiv.org/abs/2302.06643v1)|null|
 |**2023-02-13**|**Two-loop bottom mass effects on the Higgs transverse momentum spectrum in top-induced gluon fusion**|Piotr Pietrulewicz et.al.|[2302.06623v1](http://arxiv.org/abs/2302.06623v1)|null|
-|**2023-02-13**|**Low $Q$ nuclear fusion in a volume heated mixed fuel reactor**|Hartmut Ruhl et.al.|[2302.06562v1](http://arxiv.org/abs/2302.06562v1)|null|
+|**2023-02-14**|**Volume ignition of mixed fuel**|Hartmut Ruhl et.al.|[2302.06562v2](http://arxiv.org/abs/2302.06562v2)|null|
 |**2023-02-13**|**Fourier Neural Operator for Plasma Modelling**|Vignesh Gopakumar et.al.|[2302.06542v1](http://arxiv.org/abs/2302.06542v1)|null|
 |**2023-02-13**|**A Deep Learning-based Global and Segmentation-based Semantic Feature Fusion Approach for Indoor Scene Classification**|Ricardo Pereira et.al.|[2302.06432v1](http://arxiv.org/abs/2302.06432v1)|null|
 |**2023-02-13**|**"Push-Grasp-Suction"Integrated Network for Ambidextrous Robot Picking**|Chenlin Zhou et.al.|[2302.06431v1](http://arxiv.org/abs/2302.06431v1)|null|
