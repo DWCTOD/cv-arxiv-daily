@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Improved Online Conformal Prediction via Strongly Adaptive Online Learning**|Aadyot Bhatnagar et.al.|[2302.07869v1](http://arxiv.org/abs/2302.07869v1)|null|
+|**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
+|**2023-02-15**|**One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2**|Trevine Oorloff et.al.|[2302.07848v1](http://arxiv.org/abs/2302.07848v1)|null|
+|**2023-02-15**|**Deep Learning for Detection and Localization of B-Lines in Lung Ultrasound**|Ruben T. Lucassen et.al.|[2302.07844v1](http://arxiv.org/abs/2302.07844v1)|null|
+|**2023-02-15**|**Assessing enactment of content regulation policies: A post hoc crowd-sourced audit of election misinformation on YouTube**|Prerna Juneja et.al.|[2302.07836v1](http://arxiv.org/abs/2302.07836v1)|null|
+|**2023-02-15**|**Deep Anomaly Detection under Labeling Budget Constraints**|Aodong Li et.al.|[2302.07832v1](http://arxiv.org/abs/2302.07832v1)|null|
+|**2023-02-15**|**AI pipeline for accurate retinal layer segmentation using OCT 3D images**|Mayank Goswami et.al.|[2302.07806v1](http://arxiv.org/abs/2302.07806v1)|null|
+|**2023-02-15**|**'Aariz: A Benchmark Dataset for Automatic Cephalometric Landmark Detection and CVM Stage Classification**|Muhammad Anwaar Khalid et.al.|[2302.07797v1](http://arxiv.org/abs/2302.07797v1)|null|
+|**2023-02-15**|**Streamlining models with explanations in the learning loop**|Francesco Lomuscio et.al.|[2302.07760v1](http://arxiv.org/abs/2302.07760v1)|null|
+|**2023-02-15**|**TFormer: A Transmission-Friendly ViT Model for IoT Devices**|Zhichao Lu et.al.|[2302.07734v1](http://arxiv.org/abs/2302.07734v1)|null|
 |**2023-02-14**|**ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models**|Sheng Wang et.al.|[2302.07257v1](http://arxiv.org/abs/2302.07257v1)|null|
 |**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
 |**2023-02-15**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
@@ -1739,6 +1749,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Measurement of the non-prompt D-meson fraction as a function of multiplicity in proton$-$proton collisions at $\sqrt{s} = 13$ TeV**|ALICE Collaboration et.al.|[2302.07783v1](http://arxiv.org/abs/2302.07783v1)|null|
+|**2023-02-15**|**A Burnside type result for fusion rings**|Sebastian Burciu et.al.|[2302.07604v1](http://arxiv.org/abs/2302.07604v1)|null|
+|**2023-02-15**|**Automated Movement Detection with Dirichlet Process Mixture Models and Electromyography**|Navin Cooray et.al.|[2302.07509v1](http://arxiv.org/abs/2302.07509v1)|null|
+|**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|null|
+|**2023-02-14**|**Prospects for ditauonium discovery at colliders**|David d'Enterria et.al.|[2302.07365v1](http://arxiv.org/abs/2302.07365v1)|null|
+|**2023-02-14**|**Searching for Low-Mass Resonances Decaying into $W$ Bosons**|Guglielmo Coloretti et.al.|[2302.07276v1](http://arxiv.org/abs/2302.07276v1)|null|
 |**2023-02-15**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v2](http://arxiv.org/abs/2302.07241v2)|null|
 |**2023-02-14**|**Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks**|Konrad Zuchniak et.al.|[2302.07215v1](http://arxiv.org/abs/2302.07215v1)|null|
 |**2023-02-14**|**Central exclusive diffractive production of single photon in high-energy proton-proton collisions within the tensor-pomeron approach**|Piotr Lebiedowicz et.al.|[2302.07192v1](http://arxiv.org/abs/2302.07192v1)|null|
