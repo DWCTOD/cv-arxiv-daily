@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-16, **FOSI: Hybrid First and Second Order Optimization**, Hadar Sivan et.al., Paper: [http://arxiv.org/abs/2302.08484v1](http://arxiv.org/abs/2302.08484v1)
+- 2023-02-16, **Kernelized Back-Projection Networksfor Blind Super Resolution**, Tomoki Yoshida et.al., Paper: [http://arxiv.org/abs/2302.08478v1](http://arxiv.org/abs/2302.08478v1)
+- 2023-02-16, **The tilted CHSH games: an operator algebraic classification**, Alexander Frei et.al., Paper: [http://arxiv.org/abs/2302.08475v1](http://arxiv.org/abs/2302.08475v1)
+- 2023-02-16, **Emergent spinor fields from exotic spin structures**, J. M. Hoff da Silva et.al., Paper: [http://arxiv.org/abs/2302.08473v1](http://arxiv.org/abs/2302.08473v1)
+- 2023-02-16, **Learning a Meta-Controller for Dynamic Grasping**, Yinsen Jia et.al., Paper: [http://arxiv.org/abs/2302.08463v1](http://arxiv.org/abs/2302.08463v1)
+- 2023-02-16, **ST-MFNet Mini: Knowledge Distillation-Driven Frame Interpolation**, Crispian Morris et.al., Paper: [http://arxiv.org/abs/2302.08455v1](http://arxiv.org/abs/2302.08455v1)
+- 2023-02-16, **Learning to diagnose cirrhosis from radiological and histological labels with joint self and weakly-supervised pretraining strategies**, Emma Sarfati et.al., Paper: [http://arxiv.org/abs/2302.08427v1](http://arxiv.org/abs/2302.08427v1)
+- 2023-02-16, **Classification Schemes for the Radar Reference Window: Design and Comparisons**, Chaoran Yin et.al., Paper: [http://arxiv.org/abs/2302.08384v1](http://arxiv.org/abs/2302.08384v1)
+- 2023-02-16, **Efficiency 360: Efficient Vision Transformers**, Badri N. Patro et.al., Paper: [http://arxiv.org/abs/2302.08374v1](http://arxiv.org/abs/2302.08374v1)
+- 2023-02-16, **Defect Transfer GAN: Diverse Defect Synthesis for Data Augmentation**, Ruyu Wang et.al., Paper: [http://arxiv.org/abs/2302.08366v1](http://arxiv.org/abs/2302.08366v1)
 - 2023-02-15, **Improved Online Conformal Prediction via Strongly Adaptive Online Learning**, Aadyot Bhatnagar et.al., Paper: [http://arxiv.org/abs/2302.07869v1](http://arxiv.org/abs/2302.07869v1)
 - 2023-02-15, **Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**, Hshmat Sahak et.al., Paper: [http://arxiv.org/abs/2302.07864v1](http://arxiv.org/abs/2302.07864v1)
 - 2023-02-15, **One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2**, Trevine Oorloff et.al., Paper: [http://arxiv.org/abs/2302.07848v1](http://arxiv.org/abs/2302.07848v1)
@@ -1745,6 +1755,16 @@
 
 ## MultiModal
 
+- 2023-02-16, **Local-to-Global Information Communication for Real-Time Semantic Segmentation Network Search**, Guangliang Cheng et.al., Paper: [http://arxiv.org/abs/2302.08481v1](http://arxiv.org/abs/2302.08481v1)
+- 2023-02-16, **Emergent spinor fields from exotic spin structures**, J. M. Hoff da Silva et.al., Paper: [http://arxiv.org/abs/2302.08473v1](http://arxiv.org/abs/2302.08473v1)
+- 2023-02-16, **On Reconstructing Finite Gauge Group from Fusion Rules**, Rajath Radhakrishnan et.al., Paper: [http://arxiv.org/abs/2302.08419v1](http://arxiv.org/abs/2302.08419v1)
+- 2023-02-16, **Generative AI-empowered Simulation for Autonomous Driving in Vehicular Mixed Reality Metaverses**, Minrui Xu et.al., Paper: [http://arxiv.org/abs/2302.08418v1](http://arxiv.org/abs/2302.08418v1)
+- 2023-02-16, **Towards Additively Manufactured Metamaterials with Powder Inclusions for Controllable Dissipation: The Critical Influence of Packing Density**, Patrick M. Praegla et.al., Paper: [http://arxiv.org/abs/2302.08371v1](http://arxiv.org/abs/2302.08371v1)
+- 2023-02-16, **NUAA-QMUL-AIIT at Memotion 3: Multi-modal Fusion with Squeeze-and-Excitation for Internet Meme Emotion Analysis**, Xiaoyu Guo et.al., Paper: [http://arxiv.org/abs/2302.08326v1](http://arxiv.org/abs/2302.08326v1), Code: **[https://github.com/xxxxxxxxy/memotion3-SEFusion](https://github.com/xxxxxxxxy/memotion3-SEFusion)**
+- 2023-02-16, **Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**, Mohammad Mahdi Azarbeik et.al., Paper: [http://arxiv.org/abs/2302.08294v1](http://arxiv.org/abs/2302.08294v1)
+- 2023-02-16, **On the BSM reach of four top production at the LHC**, Anisha et.al., Paper: [http://arxiv.org/abs/2302.08281v1](http://arxiv.org/abs/2302.08281v1)
+- 2023-02-16, **LiQuiD-MIMO Radar: Distributed MIMO Radar with Low-Bit Quantization**, Yikun Xiang et.al., Paper: [http://arxiv.org/abs/2302.08271v1](http://arxiv.org/abs/2302.08271v1)
+- 2023-02-16, **Global and local characterization of rock classification by Gabor and DCT filters with a color texture descriptor**, J. Wognin Vangah et.al., Paper: [http://arxiv.org/abs/2302.08219v1](http://arxiv.org/abs/2302.08219v1)
 - 2023-02-15, **Measurement of the non-prompt D-meson fraction as a function of multiplicity in proton$-$proton collisions at $\sqrt{s} = 13$ TeV**, ALICE Collaboration et.al., Paper: [http://arxiv.org/abs/2302.07783v1](http://arxiv.org/abs/2302.07783v1)
 - 2023-02-15, **A Burnside type result for fusion rings**, Sebastian Burciu et.al., Paper: [http://arxiv.org/abs/2302.07604v1](http://arxiv.org/abs/2302.07604v1)
 - 2023-02-15, **Automated Movement Detection with Dirichlet Process Mixture Models and Electromyography**, Navin Cooray et.al., Paper: [http://arxiv.org/abs/2302.07509v1](http://arxiv.org/abs/2302.07509v1)
