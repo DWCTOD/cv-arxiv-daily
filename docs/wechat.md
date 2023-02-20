@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-17, **Automated Graph Genetic Algorithm based Puzzle Validation for Faster Game Desig**, Karine Levonyan et.al., Paper: [http://arxiv.org/abs/2302.09040v1](http://arxiv.org/abs/2302.09040v1)
+- 2023-02-17, **Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences**, Yujie Zhou et.al., Paper: [http://arxiv.org/abs/2302.09018v1](http://arxiv.org/abs/2302.09018v1)
+- 2023-02-17, **The asymptotic topology of the multineighbor complex of a random graph**, Wojciech Matysiak et.al., Paper: [http://arxiv.org/abs/2302.09017v1](http://arxiv.org/abs/2302.09017v1)
+- 2023-02-17, **Automated classification of Chandra X-ray point sources using machine learning methods**, Shivam Kumaran et.al., Paper: [http://arxiv.org/abs/2302.09008v1](http://arxiv.org/abs/2302.09008v1)
+- 2023-02-17, **Towards Fine-Grained Information: Identifying the Type and Location of Translation Errors**, Keqin Bao et.al., Paper: [http://arxiv.org/abs/2302.08975v1](http://arxiv.org/abs/2302.08975v1)
+- 2023-02-17, **sMRI-PatchNet: A novel explainable patch-based deep learning network for Alzheimer's disease diagnosis and discriminative atrophy localisation with Structural MRI**, Xin Zhang et.al., Paper: [http://arxiv.org/abs/2302.08967v1](http://arxiv.org/abs/2302.08967v1)
+- 2023-02-17, **Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**, Zhihong Chen et.al., Paper: [http://arxiv.org/abs/2302.08958v1](http://arxiv.org/abs/2302.08958v1), Code: **[https://github.com/zhjohnchan/ptunifier](https://github.com/zhjohnchan/ptunifier)**
+- 2023-02-17, **Like a Good Nearest Neighbor: Practical Content Moderation with Sentence Transformers**, Luke Bates et.al., Paper: [http://arxiv.org/abs/2302.08957v1](http://arxiv.org/abs/2302.08957v1), Code: **[https://github.com/ukplab/lagonn](https://github.com/ukplab/lagonn)**
+- 2023-02-17, **AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages**, Shamsuddeen Hassan Muhammad et.al., Paper: [http://arxiv.org/abs/2302.08956v1](http://arxiv.org/abs/2302.08956v1)
+- 2023-02-17, **Tropical Feynman integration in the Minkowski regime**, Michael Borinsky et.al., Paper: [http://arxiv.org/abs/2302.08955v1](http://arxiv.org/abs/2302.08955v1)
 - 2023-02-16, **FOSI: Hybrid First and Second Order Optimization**, Hadar Sivan et.al., Paper: [http://arxiv.org/abs/2302.08484v1](http://arxiv.org/abs/2302.08484v1)
 - 2023-02-16, **Kernelized Back-Projection Networksfor Blind Super Resolution**, Tomoki Yoshida et.al., Paper: [http://arxiv.org/abs/2302.08478v1](http://arxiv.org/abs/2302.08478v1)
 - 2023-02-16, **The tilted CHSH games: an operator algebraic classification**, Alexander Frei et.al., Paper: [http://arxiv.org/abs/2302.08475v1](http://arxiv.org/abs/2302.08475v1)
@@ -1755,6 +1765,16 @@
 
 ## MultiModal
 
+- 2023-02-17, **Fusion systems in representation theory**, Benjamin Sambale et.al., Paper: [http://arxiv.org/abs/2302.09016v1](http://arxiv.org/abs/2302.09016v1)
+- 2023-02-17, **Enabling a Multi-Purpose High-Energy Neutron Source Based on High-Current Compact Cyclotrons**, Lance L Snead et.al., Paper: [http://arxiv.org/abs/2302.09011v1](http://arxiv.org/abs/2302.09011v1)
+- 2023-02-17, **Two-loop amplitudes in massless QCD for diphoton-plus-jet production via gluon fusion at hadron colliders**, Ryan Moodie et.al., Paper: [http://arxiv.org/abs/2302.08999v1](http://arxiv.org/abs/2302.08999v1)
+- 2023-02-17, **Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**, Zhihong Chen et.al., Paper: [http://arxiv.org/abs/2302.08958v1](http://arxiv.org/abs/2302.08958v1), Code: **[https://github.com/zhjohnchan/ptunifier](https://github.com/zhjohnchan/ptunifier)**
+- 2023-02-17, **Massively Multilingual Shallow Fusion with Large Language Models**, Ke Hu et.al., Paper: [http://arxiv.org/abs/2302.08917v1](http://arxiv.org/abs/2302.08917v1)
+- 2023-02-17, **Multimodal Federated Learning via Contrastive Representation Ensemble**, Qiying Yu et.al., Paper: [http://arxiv.org/abs/2302.08888v1](http://arxiv.org/abs/2302.08888v1)
+- 2023-02-17, **Deep comparisons of Neural Networks from the EEGNet family**, Csaba Márton Köllőd et.al., Paper: [http://arxiv.org/abs/2302.08797v1](http://arxiv.org/abs/2302.08797v1), Code: **[https://github.com/kolcs/bionic_apps](https://github.com/kolcs/bionic_apps)**
+- 2023-02-17, **Tensorized Optical Multimodal Fusion Network**, Yequan Zhao et.al., Paper: [http://arxiv.org/abs/2302.08744v1](http://arxiv.org/abs/2302.08744v1)
+- 2023-02-17, **Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis**, Haoran Sun et.al., Paper: [http://arxiv.org/abs/2302.08706v1](http://arxiv.org/abs/2302.08706v1), Code: **[https://github.com/haoranhfut/ff-gan](https://github.com/haoranhfut/ff-gan)**
+- 2023-02-17, **Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition**, Shengqin Wang et.al., Paper: [http://arxiv.org/abs/2302.08689v1](http://arxiv.org/abs/2302.08689v1)
 - 2023-02-16, **Local-to-Global Information Communication for Real-Time Semantic Segmentation Network Search**, Guangliang Cheng et.al., Paper: [http://arxiv.org/abs/2302.08481v1](http://arxiv.org/abs/2302.08481v1)
 - 2023-02-16, **Emergent spinor fields from exotic spin structures**, J. M. Hoff da Silva et.al., Paper: [http://arxiv.org/abs/2302.08473v1](http://arxiv.org/abs/2302.08473v1)
 - 2023-02-16, **On Reconstructing Finite Gauge Group from Fusion Rules**, Rajath Radhakrishnan et.al., Paper: [http://arxiv.org/abs/2302.08419v1](http://arxiv.org/abs/2302.08419v1)
