@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
+|**2023-02-20**|**Hashtag-Guided Low-Resource Tweet Classification**|Shizhe Diao et.al.|[2302.10143v1](http://arxiv.org/abs/2302.10143v1)|**[link](https://github.com/shizhediao/hashtation)**|
+|**2023-02-20**|**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**|Xiao Wang et.al.|[2302.10035v1](http://arxiv.org/abs/2302.10035v1)|**[link](https://github.com/wangxiao5791509/multimodal_bigmodels_survey)**|
+|**2023-02-20**|**Hunting for C-rich long-period variable stars in the Milky Way's bar-bulge using unsupervised classification of Gaia BP/RP spectra**|Jason L. Sanders et.al.|[2302.10022v1](http://arxiv.org/abs/2302.10022v1)|null|
+|**2023-02-20**|**Boosting classification reliability of NLP transformer models in the long run**|Zoltán Kmetty et.al.|[2302.10016v1](http://arxiv.org/abs/2302.10016v1)|null|
+|**2023-02-20**|**Simulating analogue film damage to analyse and improve artefact restoration on high-resolution scans**|Daniela Ivanova et.al.|[2302.10004v1](http://arxiv.org/abs/2302.10004v1)|null|
+|**2023-02-20**|**STB-VMM: Swin Transformer Based Video Motion Magnification**|Ricard Lado-Roigé et.al.|[2302.10001v1](http://arxiv.org/abs/2302.10001v1)|null|
+|**2023-02-20**|**Observation of near room temperature thin film superconductivity of atmospherically stable Ag-Au mesoscopic thin film**|Sobhan Hazra et.al.|[2302.09974v1](http://arxiv.org/abs/2302.09974v1)|null|
+|**2023-02-20**|**Social4Rec: Distilling User Preference from Social Graph for Video Recommendation in Tencent**|Xuanji Xiao et.al.|[2302.09971v1](http://arxiv.org/abs/2302.09971v1)|null|
+|**2023-02-20**|**Why is the prediction wrong? Towards underfitting case explanation via meta-classification**|Sheng Zhou et.al.|[2302.09952v1](http://arxiv.org/abs/2302.09952v1)|null|
 |**2023-02-17**|**Automated Graph Genetic Algorithm based Puzzle Validation for Faster Game Desig**|Karine Levonyan et.al.|[2302.09040v1](http://arxiv.org/abs/2302.09040v1)|null|
 |**2023-02-17**|**Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences**|Yujie Zhou et.al.|[2302.09018v1](http://arxiv.org/abs/2302.09018v1)|null|
 |**2023-02-17**|**The asymptotic topology of the multineighbor complex of a random graph**|Wojciech Matysiak et.al.|[2302.09017v1](http://arxiv.org/abs/2302.09017v1)|null|
@@ -1769,6 +1779,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**Revisiting the Gamow Factor Reactions on Light Nuclei**|Eunseok Hwang et.al.|[2302.10102v1](http://arxiv.org/abs/2302.10102v1)|null|
+|**2023-02-20**|**Medical Face Masks and Emotion Recognition from the Body: Insights from a Deep Learning Perspective**|Nikolaos Kegkeroglou et.al.|[2302.10021v1](http://arxiv.org/abs/2302.10021v1)|null|
+|**2023-02-20**|**Gesture Recognition with Keypoint and Radar Stream Fusion for Automated Vehicles**|Adrian Holzbock et.al.|[2302.09998v1](http://arxiv.org/abs/2302.09998v1)|null|
+|**2023-02-20**|**GlocalFuse-Depth: Fusing Transformers and CNNs for All-day Self-supervised Monocular Depth Estimation**|Zezheng Zhang et.al.|[2302.09884v1](http://arxiv.org/abs/2302.09884v1)|null|
+|**2023-02-20**|**Knowledge-aware Bayesian Co-attention for Multimodal Emotion Recognition**|Zihan Zhao et.al.|[2302.09856v1](http://arxiv.org/abs/2302.09856v1)|null|
+|**2023-02-20**|**Explainable Human-centered Traits from Head Motion and Facial Expression Dynamics**|Surbhi Madan et.al.|[2302.09817v1](http://arxiv.org/abs/2302.09817v1)|null|
+|**2023-02-20**|**A Simple and Fast Approach for Computing the Fusion Reactivities with Arbitrary Ion Velocity Distributions**|Huasheng Xie et.al.|[2302.09753v1](http://arxiv.org/abs/2302.09753v1)|null|
+|**2023-02-19**|**An efficient numerical method for charged particle transport based on hybrid collision model and machine learning**|Chang Liu et.al.|[2302.09644v1](http://arxiv.org/abs/2302.09644v1)|null|
+|**2023-02-19**|**FusionMotion: Multi-Sensor Asynchronous Fusion for Continuous Occupancy Prediction via Neural-ODE**|Yining Shi et.al.|[2302.09585v1](http://arxiv.org/abs/2302.09585v1)|null|
+|**2023-02-19**|**Optimizing YOLOv7 for Semiconductor Defect Detection**|Enrique Dehaerne et.al.|[2302.09565v1](http://arxiv.org/abs/2302.09565v1)|null|
 |**2023-02-17**|**Fusion systems in representation theory**|Benjamin Sambale et.al.|[2302.09016v1](http://arxiv.org/abs/2302.09016v1)|null|
 |**2023-02-17**|**Enabling a Multi-Purpose High-Energy Neutron Source Based on High-Current Compact Cyclotrons**|Lance L Snead et.al.|[2302.09011v1](http://arxiv.org/abs/2302.09011v1)|null|
 |**2023-02-17**|**Two-loop amplitudes in massless QCD for diphoton-plus-jet production via gluon fusion at hadron colliders**|Ryan Moodie et.al.|[2302.08999v1](http://arxiv.org/abs/2302.08999v1)|null|
