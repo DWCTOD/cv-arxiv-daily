@@ -1779,7 +1779,7 @@
 - 2023-02-20, **Medical Face Masks and Emotion Recognition from the Body: Insights from a Deep Learning Perspective**, Nikolaos Kegkeroglou et.al., Paper: [http://arxiv.org/abs/2302.10021v1](http://arxiv.org/abs/2302.10021v1)
 - 2023-02-20, **Gesture Recognition with Keypoint and Radar Stream Fusion for Automated Vehicles**, Adrian Holzbock et.al., Paper: [http://arxiv.org/abs/2302.09998v1](http://arxiv.org/abs/2302.09998v1)
 - 2023-02-20, **GlocalFuse-Depth: Fusing Transformers and CNNs for All-day Self-supervised Monocular Depth Estimation**, Zezheng Zhang et.al., Paper: [http://arxiv.org/abs/2302.09884v1](http://arxiv.org/abs/2302.09884v1)
-- 2023-02-20, **Knowledge-aware Bayesian Co-attention for Multimodal Emotion Recognition**, Zihan Zhao et.al., Paper: [http://arxiv.org/abs/2302.09856v1](http://arxiv.org/abs/2302.09856v1)
+- 2023-02-21, **Knowledge-aware Bayesian Co-attention for Multimodal Emotion Recognition**, Zihan Zhao et.al., Paper: [http://arxiv.org/abs/2302.09856v2](http://arxiv.org/abs/2302.09856v2)
 - 2023-02-20, **Explainable Human-centered Traits from Head Motion and Facial Expression Dynamics**, Surbhi Madan et.al., Paper: [http://arxiv.org/abs/2302.09817v1](http://arxiv.org/abs/2302.09817v1)
 - 2023-02-20, **A Simple and Fast Approach for Computing the Fusion Reactivities with Arbitrary Ion Velocity Distributions**, Huasheng Xie et.al., Paper: [http://arxiv.org/abs/2302.09753v1](http://arxiv.org/abs/2302.09753v1)
 - 2023-02-19, **An efficient numerical method for charged particle transport based on hybrid collision model and machine learning**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2302.09644v1](http://arxiv.org/abs/2302.09644v1)
