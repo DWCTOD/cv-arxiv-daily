@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-21, **Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**, Biao Zhang et.al., Paper: [http://arxiv.org/abs/2302.10871v1](http://arxiv.org/abs/2302.10871v1)
+- 2023-02-21, **SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**, Rafsanjany Kushol et.al., Paper: [http://arxiv.org/abs/2302.10859v1](http://arxiv.org/abs/2302.10859v1)
+- 2023-02-21, **There Are No Post-Quantum Weakly Pseudo-Free Families in Any Nontrivial Variety of Expanded Groups**, Mikhail Anokhin et.al., Paper: [http://arxiv.org/abs/2302.10847v1](http://arxiv.org/abs/2302.10847v1)
+- 2023-02-21, **Performant feature extraction for photometric time series**, Anastasia Lavrukhina et.al., Paper: [http://arxiv.org/abs/2302.10837v1](http://arxiv.org/abs/2302.10837v1)
+- 2023-02-21, **Weakly Supervised Temporal Convolutional Networks for Fine-grained Surgical Activity Recognition**, Sanat Ramesh et.al., Paper: [http://arxiv.org/abs/2302.10834v1](http://arxiv.org/abs/2302.10834v1)
+- 2023-02-21, **A Local Machine Learning Approach for Fingerprint-based Indoor Localization**, Nora Agah et.al., Paper: [http://arxiv.org/abs/2302.10810v1](http://arxiv.org/abs/2302.10810v1)
+- 2023-02-21, **Learning 3D Photography Videos via Self-supervised Diffusion on Single Images**, Xiaodong Wang et.al., Paper: [http://arxiv.org/abs/2302.10781v1](http://arxiv.org/abs/2302.10781v1)
+- 2023-02-21, **Quantifying Jump Height Using Markerless Motion Capture with a Single Smartphone**, Timilehin B. Aderinola et.al., Paper: [http://arxiv.org/abs/2302.10749v1](http://arxiv.org/abs/2302.10749v1)
+- 2023-02-21, **MalProtect: Stateful Defense Against Adversarial Query Attacks in ML-based Malware Detection**, Aqib Rashid et.al., Paper: [http://arxiv.org/abs/2302.10739v1](http://arxiv.org/abs/2302.10739v1)
+- 2023-02-21, **Depth Estimation and Image Restoration by Deep Learning from Defocused Images**, Saqib Nazir et.al., Paper: [http://arxiv.org/abs/2302.10730v1](http://arxiv.org/abs/2302.10730v1)
 - 2023-02-20, **Towards Universal Fake Image Detectors that Generalize Across Generative Models**, Utkarsh Ojha et.al., Paper: [http://arxiv.org/abs/2302.10174v1](http://arxiv.org/abs/2302.10174v1)
 - 2023-02-20, **Hashtag-Guided Low-Resource Tweet Classification**, Shizhe Diao et.al., Paper: [http://arxiv.org/abs/2302.10143v1](http://arxiv.org/abs/2302.10143v1), Code: **[https://github.com/shizhediao/hashtation](https://github.com/shizhediao/hashtation)**
 - 2023-02-20, **Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2302.10035v1](http://arxiv.org/abs/2302.10035v1), Code: **[https://github.com/wangxiao5791509/multimodal_bigmodels_survey](https://github.com/wangxiao5791509/multimodal_bigmodels_survey)**
@@ -1775,8 +1785,13 @@
 
 ## MultiModal
 
+- 2023-02-21, **SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**, Rafsanjany Kushol et.al., Paper: [http://arxiv.org/abs/2302.10859v1](http://arxiv.org/abs/2302.10859v1)
+- 2023-02-21, **A Framework for UAV-based Distributed Sensing Under Half-Duplex Operation**, Xavier A. Flores Cabezas et.al., Paper: [http://arxiv.org/abs/2302.10673v1](http://arxiv.org/abs/2302.10673v1)
+- 2023-02-21, **Co-Driven Recognition of Semantic Consistency via the Fusion of Transformer and HowNet Sememes Knowledge**, Fan Chen et.al., Paper: [http://arxiv.org/abs/2302.10570v1](http://arxiv.org/abs/2302.10570v1), Code: **[https://github.com/platanus-hy/sememes_codriven_text_matching](https://github.com/platanus-hy/sememes_codriven_text_matching)**
+- 2023-02-21, **Multi-instrument analysis of 67P/Churyumov-Gerasimenko coma particles: COPS-GIADA data fusion**, Boris Pestoni et.al., Paper: [http://arxiv.org/abs/2302.10535v1](http://arxiv.org/abs/2302.10535v1)
+- 2023-02-21, **MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**, Zizhang Wu et.al., Paper: [http://arxiv.org/abs/2302.10511v1](http://arxiv.org/abs/2302.10511v1)
 - 2023-02-20, **Revisiting the Gamow Factor Reactions on Light Nuclei**, Eunseok Hwang et.al., Paper: [http://arxiv.org/abs/2302.10102v1](http://arxiv.org/abs/2302.10102v1)
-- 2023-02-20, **Medical Face Masks and Emotion Recognition from the Body: Insights from a Deep Learning Perspective**, Nikolaos Kegkeroglou et.al., Paper: [http://arxiv.org/abs/2302.10021v1](http://arxiv.org/abs/2302.10021v1)
+- 2023-02-20, **Medical Face Masks and Emotion Recognition from the Body: Insights from a Deep Learning Perspective**, Nikolaos Kegkeroglou et.al., Paper: [http://arxiv.org/abs/2302.10021v1](http://arxiv.org/abs/2302.10021v1), Code: **[https://github.com/nkegke/deep-affective-bodily-expression-recognition](https://github.com/nkegke/deep-affective-bodily-expression-recognition)**
 - 2023-02-20, **Gesture Recognition with Keypoint and Radar Stream Fusion for Automated Vehicles**, Adrian Holzbock et.al., Paper: [http://arxiv.org/abs/2302.09998v1](http://arxiv.org/abs/2302.09998v1)
 - 2023-02-20, **GlocalFuse-Depth: Fusing Transformers and CNNs for All-day Self-supervised Monocular Depth Estimation**, Zezheng Zhang et.al., Paper: [http://arxiv.org/abs/2302.09884v1](http://arxiv.org/abs/2302.09884v1)
 - 2023-02-21, **Knowledge-aware Bayesian Co-attention for Multimodal Emotion Recognition**, Zihan Zhao et.al., Paper: [http://arxiv.org/abs/2302.09856v2](http://arxiv.org/abs/2302.09856v2)
