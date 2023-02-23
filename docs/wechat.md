@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-22, **Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes**, Fan Bu et.al., Paper: [http://arxiv.org/abs/2302.11567v1](http://arxiv.org/abs/2302.11567v1)
+- 2023-02-22, **Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition**, Chen Guo et.al., Paper: [http://arxiv.org/abs/2302.11566v1](http://arxiv.org/abs/2302.11566v1)
+- 2023-02-22, **Scaling Robot Learning with Semantically Imagined Experience**, Tianhe Yu et.al., Paper: [http://arxiv.org/abs/2302.11550v1](http://arxiv.org/abs/2302.11550v1)
+- 2023-02-22, **Slim U-Net: Efficient Anatomical Feature Preserving U-net Architecture for Ultrasound Image Segmentation**, Deepak Raina et.al., Paper: [http://arxiv.org/abs/2302.11524v1](http://arxiv.org/abs/2302.11524v1)
+- 2023-02-22, **Evaluation of Extra Pixel Interpolation with Mask Processing for Medical Image Segmentation with Deep Learning**, Olivier Rukundo et.al., Paper: [http://arxiv.org/abs/2302.11522v1](http://arxiv.org/abs/2302.11522v1)
+- 2023-02-22, **A Global and Patch-wise Contrastive Loss for Accurate Automated Exudate Detection**, Wei Tang et.al., Paper: [http://arxiv.org/abs/2302.11517v1](http://arxiv.org/abs/2302.11517v1)
+- 2023-02-22, **S3I-PointHop: SO(3)-Invariant PointHop for 3D Point Cloud Classification**, Pranav Kadam et.al., Paper: [http://arxiv.org/abs/2302.11506v1](http://arxiv.org/abs/2302.11506v1)
+- 2023-02-22, **On The Role of Alias and Band-Shift for Sentinel-2 Super-Resolution**, Ngoc Long Nguyen et.al., Paper: [http://arxiv.org/abs/2302.11494v1](http://arxiv.org/abs/2302.11494v1)
+- 2023-02-22, **Magnification Invariant Medical Image Analysis: A Comparison of Convolutional Networks, Vision Transformers, and Token Mixers**, Pranav Jeevan et.al., Paper: [http://arxiv.org/abs/2302.11488v1](http://arxiv.org/abs/2302.11488v1)
+- 2023-02-22, **Improving Model Choice in Classification: An Approach Based on Clustering of Covariance Matrices**, David Rodríguez-Vítores et.al., Paper: [http://arxiv.org/abs/2302.11487v1](http://arxiv.org/abs/2302.11487v1)
 - 2023-02-21, **Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**, Biao Zhang et.al., Paper: [http://arxiv.org/abs/2302.10871v1](http://arxiv.org/abs/2302.10871v1)
 - 2023-02-21, **SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**, Rafsanjany Kushol et.al., Paper: [http://arxiv.org/abs/2302.10859v1](http://arxiv.org/abs/2302.10859v1)
 - 2023-02-21, **There Are No Post-Quantum Weakly Pseudo-Free Families in Any Nontrivial Variety of Expanded Groups**, Mikhail Anokhin et.al., Paper: [http://arxiv.org/abs/2302.10847v1](http://arxiv.org/abs/2302.10847v1)
@@ -1785,6 +1795,16 @@
 
 ## MultiModal
 
+- 2023-02-22, **K-Diag: Knowledge-enhanced Disease Diagnosis in Radiographic Imaging**, Chaoyi Wu et.al., Paper: [http://arxiv.org/abs/2302.11557v1](http://arxiv.org/abs/2302.11557v1)
+- 2023-02-22, **Transformer-Based Sensor Fusion for Autonomous Driving: A Survey**, Apoorv Singh et.al., Paper: [http://arxiv.org/abs/2302.11481v1](http://arxiv.org/abs/2302.11481v1)
+- 2023-02-22, **Distilling Calibrated Student from an Uncalibrated Teacher**, Ishan Mishra et.al., Paper: [http://arxiv.org/abs/2302.11472v1](http://arxiv.org/abs/2302.11472v1)
+- 2023-02-22, **View Consistency Aware Holistic Triangulation for 3D Human Pose Estimation**, Xiaoyue Wan et.al., Paper: [http://arxiv.org/abs/2302.11301v1](http://arxiv.org/abs/2302.11301v1)
+- 2023-02-22, **Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways**, Yu Guo et.al., Paper: [http://arxiv.org/abs/2302.11283v1](http://arxiv.org/abs/2302.11283v1), Code: **[https://github.com/gy65896/fvessel](https://github.com/gy65896/fvessel)**
+- 2023-02-22, **Cross-modal Audio-visual Co-learning for Text-independent Speaker Verification**, Meng Liu et.al., Paper: [http://arxiv.org/abs/2302.11254v1](http://arxiv.org/abs/2302.11254v1), Code: **[https://github.com/danielmengliu/audiovisuallip](https://github.com/danielmengliu/audiovisuallip)**
+- 2023-02-22, **Prediction of single well production rate in water-flooding oil fields driven by the fusion of static, temporal and spatial information**, Chao Min et.al., Paper: [http://arxiv.org/abs/2302.11195v1](http://arxiv.org/abs/2302.11195v1)
+- 2023-02-22, **A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**, Jin Zhu et.al., Paper: [http://arxiv.org/abs/2302.11184v1](http://arxiv.org/abs/2302.11184v1)
+- 2023-02-22, **Multi-Head Feature Pyramid Networks for Breast Mass Detection**, Hexiang Zhang et.al., Paper: [http://arxiv.org/abs/2302.11106v1](http://arxiv.org/abs/2302.11106v1)
+- 2023-02-22, **A Multi-Modal Neural Geometric Solver with Textual Clauses Parsed from Diagram**, Ming-Liang Zhang et.al., Paper: [http://arxiv.org/abs/2302.11097v1](http://arxiv.org/abs/2302.11097v1)
 - 2023-02-21, **SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**, Rafsanjany Kushol et.al., Paper: [http://arxiv.org/abs/2302.10859v1](http://arxiv.org/abs/2302.10859v1)
 - 2023-02-21, **A Framework for UAV-based Distributed Sensing Under Half-Duplex Operation**, Xavier A. Flores Cabezas et.al., Paper: [http://arxiv.org/abs/2302.10673v1](http://arxiv.org/abs/2302.10673v1)
 - 2023-02-21, **Co-Driven Recognition of Semantic Consistency via the Fusion of Transformer and HowNet Sememes Knowledge**, Fan Chen et.al., Paper: [http://arxiv.org/abs/2302.10570v1](http://arxiv.org/abs/2302.10570v1), Code: **[https://github.com/platanus-hy/sememes_codriven_text_matching](https://github.com/platanus-hy/sememes_codriven_text_matching)**
