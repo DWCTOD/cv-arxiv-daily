@@ -1798,7 +1798,7 @@ layout: default
 |**2023-02-21**|**Co-Driven Recognition of Semantic Consistency via the Fusion of Transformer and HowNet Sememes Knowledge**|Fan Chen et.al.|[2302.10570v1](http://arxiv.org/abs/2302.10570v1)|**[link](https://github.com/platanus-hy/sememes_codriven_text_matching)**|
 |**2023-02-21**|**Multi-instrument analysis of 67P/Churyumov-Gerasimenko coma particles: COPS-GIADA data fusion**|Boris Pestoni et.al.|[2302.10535v1](http://arxiv.org/abs/2302.10535v1)|null|
 |**2023-02-21**|**MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**|Zizhang Wu et.al.|[2302.10511v1](http://arxiv.org/abs/2302.10511v1)|null|
-|**2023-02-20**|**Revisiting the Gamow Factor Reactions on Light Nuclei**|Eunseok Hwang et.al.|[2302.10102v1](http://arxiv.org/abs/2302.10102v1)|null|
+|**2023-02-22**|**Revisiting the Gamow Factor of Reactions on Light Nuclei**|Eunseok Hwang et.al.|[2302.10102v2](http://arxiv.org/abs/2302.10102v2)|null|
 |**2023-02-20**|**Medical Face Masks and Emotion Recognition from the Body: Insights from a Deep Learning Perspective**|Nikolaos Kegkeroglou et.al.|[2302.10021v1](http://arxiv.org/abs/2302.10021v1)|**[link](https://github.com/nkegke/deep-affective-bodily-expression-recognition)**|
 |**2023-02-20**|**Gesture Recognition with Keypoint and Radar Stream Fusion for Automated Vehicles**|Adrian Holzbock et.al.|[2302.09998v1](http://arxiv.org/abs/2302.09998v1)|null|
 |**2023-02-20**|**GlocalFuse-Depth: Fusing Transformers and CNNs for All-day Self-supervised Monocular Depth Estimation**|Zezheng Zhang et.al.|[2302.09884v1](http://arxiv.org/abs/2302.09884v1)|null|
