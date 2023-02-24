@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**Boosting Adversarial Transferability using Dynamic Cues**|Muzammal Naseer et.al.|[2302.12252v1](http://arxiv.org/abs/2302.12252v1)|null|
+|**2023-02-23**|**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**|Christian Reiser et.al.|[2302.12249v1](http://arxiv.org/abs/2302.12249v1)|null|
+|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|null|
+|**2023-02-23**|**RSFDM-Net: Real-time Spatial and Frequency Domains Modulation Network for Underwater Image Enhancement**|Jingxia Jiang et.al.|[2302.12186v1](http://arxiv.org/abs/2302.12186v1)|null|
+|**2023-02-23**|**Unified Chest X-ray and Radiology Report Generation Model with Multi-view Chest X-rays**|Hyungyung Lee et.al.|[2302.12172v1](http://arxiv.org/abs/2302.12172v1)|null|
+|**2023-02-23**|**Automated Statement Extraction]{Automated Statement Extraction from Press Briefings**|Jüri Keller et.al.|[2302.12131v1](http://arxiv.org/abs/2302.12131v1)|null|
+|**2023-02-23**|**Local and Global Explainability Metrics for Machine Learning Predictions**|Cristian Munoz et.al.|[2302.12094v1](http://arxiv.org/abs/2302.12094v1)|null|
+|**2023-02-23**|**Deep learning model for Mongolian Citizens Feedback Analysis using Word Vector Embeddings**|Zolzaya Dashdorj et.al.|[2302.12069v1](http://arxiv.org/abs/2302.12069v1)|null|
+|**2023-02-23**|**Teaching CLIP to Count to Ten**|Roni Paiss et.al.|[2302.12066v1](http://arxiv.org/abs/2302.12066v1)|null|
+|**2023-02-23**|**Attention Mechanism for Contrastive Learning in GAN-based Image-to-Image Translation**|Hanzhen Zhang et.al.|[2302.12052v1](http://arxiv.org/abs/2302.12052v1)|null|
 |**2023-02-22**|**Inferring HIV Transmission Patterns from Viral Deep-Sequence Data via Latent Typed Point Processes**|Fan Bu et.al.|[2302.11567v1](http://arxiv.org/abs/2302.11567v1)|null|
 |**2023-02-22**|**Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition**|Chen Guo et.al.|[2302.11566v1](http://arxiv.org/abs/2302.11566v1)|null|
 |**2023-02-22**|**Scaling Robot Learning with Semantically Imagined Experience**|Tianhe Yu et.al.|[2302.11550v1](http://arxiv.org/abs/2302.11550v1)|null|
@@ -1799,6 +1809,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**Measure of negative ion density in a large negative ion source using Langmuir probes**|Carlo Poggi et.al.|[2302.12116v1](http://arxiv.org/abs/2302.12116v1)|null|
+|**2023-02-23**|**A Constraints Fusion-induced Symmetric Nonnegative Matrix Factorization Approach for Community Detection**|Zhigang Liu et.al.|[2302.12114v1](http://arxiv.org/abs/2302.12114v1)|null|
+|**2023-02-23**|**High Accuracy Protein Identification: Fusion of solid-state nanopore sensing and machine learning**|Shankar Dutt et.al.|[2302.12098v1](http://arxiv.org/abs/2302.12098v1)|null|
+|**2023-02-23**|**Category-level Shape Estimation for Densely Cluttered Objects**|Zhenyu Wu et.al.|[2302.11983v1](http://arxiv.org/abs/2302.11983v1)|null|
+|**2023-02-23**|**FedIL: Federated Incremental Learning from Decentralized Unlabeled Data with Convergence Analysis**|Nan Yang et.al.|[2302.11823v1](http://arxiv.org/abs/2302.11823v1)|null|
+|**2023-02-23**|**EfficientFace: An Efficient Deep Network with Feature Enhancement for Accurate Face Detection**|Guangtao Wang et.al.|[2302.11816v1](http://arxiv.org/abs/2302.11816v1)|null|
+|**2023-02-23**|**PLU-Net: Extraction of multi-scale feature fusion**|Weihu Song et.al.|[2302.11806v1](http://arxiv.org/abs/2302.11806v1)|null|
+|**2023-02-23**|**Efficient Context Integration through Factorized Pyramidal Learning for Ultra-Lightweight Semantic Segmentation**|Nadeem Atif et.al.|[2302.11785v1](http://arxiv.org/abs/2302.11785v1)|null|
 |**2023-02-22**|**K-Diag: Knowledge-enhanced Disease Diagnosis in Radiographic Imaging**|Chaoyi Wu et.al.|[2302.11557v1](http://arxiv.org/abs/2302.11557v1)|null|
 |**2023-02-22**|**Transformer-Based Sensor Fusion for Autonomous Driving: A Survey**|Apoorv Singh et.al.|[2302.11481v1](http://arxiv.org/abs/2302.11481v1)|null|
 |**2023-02-22**|**Distilling Calibrated Student from an Uncalibrated Teacher**|Ishan Mishra et.al.|[2302.11472v1](http://arxiv.org/abs/2302.11472v1)|null|
