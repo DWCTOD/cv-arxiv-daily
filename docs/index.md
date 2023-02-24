@@ -1806,7 +1806,7 @@ layout: default
 |**2023-02-22**|**K-Diag: Knowledge-enhanced Disease Diagnosis in Radiographic Imaging**|Chaoyi Wu et.al.|[2302.11557v1](http://arxiv.org/abs/2302.11557v1)|null|
 |**2023-02-22**|**Transformer-Based Sensor Fusion for Autonomous Driving: A Survey**|Apoorv Singh et.al.|[2302.11481v1](http://arxiv.org/abs/2302.11481v1)|null|
 |**2023-02-22**|**Distilling Calibrated Student from an Uncalibrated Teacher**|Ishan Mishra et.al.|[2302.11472v1](http://arxiv.org/abs/2302.11472v1)|null|
-|**2023-02-22**|**View Consistency Aware Holistic Triangulation for 3D Human Pose Estimation**|Xiaoyue Wan et.al.|[2302.11301v1](http://arxiv.org/abs/2302.11301v1)|null|
+|**2023-02-23**|**View Consistency Aware Holistic Triangulation for 3D Human Pose Estimation**|Xiaoyue Wan et.al.|[2302.11301v2](http://arxiv.org/abs/2302.11301v2)|null|
 |**2023-02-22**|**Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways**|Yu Guo et.al.|[2302.11283v1](http://arxiv.org/abs/2302.11283v1)|**[link](https://github.com/gy65896/fvessel)**|
 |**2023-02-22**|**Cross-modal Audio-visual Co-learning for Text-independent Speaker Verification**|Meng Liu et.al.|[2302.11254v1](http://arxiv.org/abs/2302.11254v1)|**[link](https://github.com/danielmengliu/audiovisuallip)**|
 |**2023-02-22**|**Prediction of single well production rate in water-flooding oil fields driven by the fusion of static, temporal and spatial information**|Chao Min et.al.|[2302.11195v1](http://arxiv.org/abs/2302.11195v1)|null|
