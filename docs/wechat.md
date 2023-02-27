@@ -4,10 +4,10 @@
 
 - 2023-02-23, **Boosting Adversarial Transferability using Dynamic Cues**, Muzammal Naseer et.al., Paper: [http://arxiv.org/abs/2302.12252v1](http://arxiv.org/abs/2302.12252v1)
 - 2023-02-23, **MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**, Christian Reiser et.al., Paper: [http://arxiv.org/abs/2302.12249v1](http://arxiv.org/abs/2302.12249v1)
-- 2023-02-23, **Learning Neural Volumetric Representations of Dynamic Humans in Minutes**, Chen Geng et.al., Paper: [http://arxiv.org/abs/2302.12237v1](http://arxiv.org/abs/2302.12237v1)
+- 2023-02-24, **Learning Neural Volumetric Representations of Dynamic Humans in Minutes**, Chen Geng et.al., Paper: [http://arxiv.org/abs/2302.12237v2](http://arxiv.org/abs/2302.12237v2)
 - 2023-02-23, **RSFDM-Net: Real-time Spatial and Frequency Domains Modulation Network for Underwater Image Enhancement**, Jingxia Jiang et.al., Paper: [http://arxiv.org/abs/2302.12186v1](http://arxiv.org/abs/2302.12186v1)
 - 2023-02-23, **Unified Chest X-ray and Radiology Report Generation Model with Multi-view Chest X-rays**, Hyungyung Lee et.al., Paper: [http://arxiv.org/abs/2302.12172v1](http://arxiv.org/abs/2302.12172v1)
-- 2023-02-23, **Automated Statement Extraction]{Automated Statement Extraction from Press Briefings**, Jüri Keller et.al., Paper: [http://arxiv.org/abs/2302.12131v1](http://arxiv.org/abs/2302.12131v1)
+- 2023-02-24, **Automated Statement Extraction from Press Briefings**, Jüri Keller et.al., Paper: [http://arxiv.org/abs/2302.12131v2](http://arxiv.org/abs/2302.12131v2), Code: **[https://github.com/jueri/statement_extractor](https://github.com/jueri/statement_extractor)**
 - 2023-02-23, **Local and Global Explainability Metrics for Machine Learning Predictions**, Cristian Munoz et.al., Paper: [http://arxiv.org/abs/2302.12094v1](http://arxiv.org/abs/2302.12094v1)
 - 2023-02-23, **Deep learning model for Mongolian Citizens Feedback Analysis using Word Vector Embeddings**, Zolzaya Dashdorj et.al., Paper: [http://arxiv.org/abs/2302.12069v1](http://arxiv.org/abs/2302.12069v1)
 - 2023-02-23, **Teaching CLIP to Count to Ten**, Roni Paiss et.al., Paper: [http://arxiv.org/abs/2302.12066v1](http://arxiv.org/abs/2302.12066v1)
