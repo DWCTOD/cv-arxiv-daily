@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-02-24, **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**, William Chen et.al., Paper: [http://arxiv.org/abs/2302.12829v1](http://arxiv.org/abs/2302.12829v1), Code: **[https://github.com/espnet/espnet](https://github.com/espnet/espnet)**
+- 2023-02-24, **Decoupling Human and Camera Motion from Videos in the Wild**, Vickie Ye et.al., Paper: [http://arxiv.org/abs/2302.12827v1](http://arxiv.org/abs/2302.12827v1)
+- 2023-02-24, **GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**, Mengting Zhou et.al., Paper: [http://arxiv.org/abs/2302.12814v1](http://arxiv.org/abs/2302.12814v1)
+- 2023-02-24, **STA: Self-controlled Text Augmentation for Improving Text Classifications**, Congcong Wang et.al., Paper: [http://arxiv.org/abs/2302.12784v1](http://arxiv.org/abs/2302.12784v1), Code: **[https://github.com/wangcongcong123/sta](https://github.com/wangcongcong123/sta)**
+- 2023-02-24, **Language-Driven Representation Learning for Robotics**, Siddharth Karamcheti et.al., Paper: [http://arxiv.org/abs/2302.12766v1](http://arxiv.org/abs/2302.12766v1), Code: **[https://github.com/siddk/voltron-robotics](https://github.com/siddk/voltron-robotics)**
+- 2023-02-24, **Definition and Classification of Fermi Surface Anomalies**, Da-Chuan Lu et.al., Paper: [http://arxiv.org/abs/2302.12731v1](http://arxiv.org/abs/2302.12731v1)
+- 2023-02-24, **LightTS: Lightweight Time Series Classification with Adaptive Ensemble Distillation -- Extended Version**, David Campos et.al., Paper: [http://arxiv.org/abs/2302.12721v1](http://arxiv.org/abs/2302.12721v1)
+- 2023-02-24, **Designing and simulating realistic spatial frequency domain imaging systems using open-source 3D rendering software**, Jane Crowley et.al., Paper: [http://arxiv.org/abs/2302.12705v1](http://arxiv.org/abs/2302.12705v1)
+- 2023-02-24, **Reflexive polytopes and discrete polymatroids**, Jürgen Herzog et.al., Paper: [http://arxiv.org/abs/2302.12703v1](http://arxiv.org/abs/2302.12703v1)
+- 2023-02-24, **Video4MRI: An Empirical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks**, Yuxuan Zhang et.al., Paper: [http://arxiv.org/abs/2302.12688v1](http://arxiv.org/abs/2302.12688v1)
 - 2023-02-23, **Boosting Adversarial Transferability using Dynamic Cues**, Muzammal Naseer et.al., Paper: [http://arxiv.org/abs/2302.12252v1](http://arxiv.org/abs/2302.12252v1)
 - 2023-02-23, **MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**, Christian Reiser et.al., Paper: [http://arxiv.org/abs/2302.12249v1](http://arxiv.org/abs/2302.12249v1)
 - 2023-02-24, **Learning Neural Volumetric Representations of Dynamic Humans in Minutes**, Chen Geng et.al., Paper: [http://arxiv.org/abs/2302.12237v2](http://arxiv.org/abs/2302.12237v2)
@@ -1805,6 +1815,15 @@
 
 ## MultiModal
 
+- 2023-02-24, **Video4MRI: An Empirical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks**, Yuxuan Zhang et.al., Paper: [http://arxiv.org/abs/2302.12688v1](http://arxiv.org/abs/2302.12688v1)
+- 2023-02-24, **Streamlining Multimodal Data Fusion in Wireless Communication and Sensor Networks**, Mohammud J. Bocus et.al., Paper: [http://arxiv.org/abs/2302.12636v1](http://arxiv.org/abs/2302.12636v1)
+- 2023-02-24, **Dynamic Graph Convolution Network with Spatio-Temporal Attention Fusion for Traffic Flow Prediction**, Xunlian Luo et.al., Paper: [http://arxiv.org/abs/2302.12598v1](http://arxiv.org/abs/2302.12598v1)
+- 2023-02-24, **Revisiting Modality Imbalance In Multimodal Pedestrian Detection**, Arindam Das et.al., Paper: [http://arxiv.org/abs/2302.12589v1](http://arxiv.org/abs/2302.12589v1)
+- 2023-02-24, **Time-aware Multiway Adaptive Fusion Network for Temporal Knowledge Graph Question Answering**, Yonghao Liu et.al., Paper: [http://arxiv.org/abs/2302.12529v1](http://arxiv.org/abs/2302.12529v1)
+- 2023-02-24, **Data fusion of satellite imagery for generation of daily cloud free images at high resolution level**, Natalya Ivanchuk et.al., Paper: [http://arxiv.org/abs/2302.12495v1](http://arxiv.org/abs/2302.12495v1)
+- 2023-02-24, **Decoupling the All-Reduce Primitive for Accelerating Distributed Deep Learning**, Lin Zhang et.al., Paper: [http://arxiv.org/abs/2302.12445v1](http://arxiv.org/abs/2302.12445v1)
+- 2023-02-23, **Confinement Time and Ambipolar Potential in a Relativistic Mirror-Confined Plasma**, I. E. Ochs et.al., Paper: [http://arxiv.org/abs/2302.12346v1](http://arxiv.org/abs/2302.12346v1)
+- 2023-02-23, **Tracking axion-like particles at the LHC**, Gonzalo Alonso-Álvarez et.al., Paper: [http://arxiv.org/abs/2302.12262v1](http://arxiv.org/abs/2302.12262v1)
 - 2023-02-23, **Measure of negative ion density in a large negative ion source using Langmuir probes**, Carlo Poggi et.al., Paper: [http://arxiv.org/abs/2302.12116v1](http://arxiv.org/abs/2302.12116v1)
 - 2023-02-23, **A Constraints Fusion-induced Symmetric Nonnegative Matrix Factorization Approach for Community Detection**, Zhigang Liu et.al., Paper: [http://arxiv.org/abs/2302.12114v1](http://arxiv.org/abs/2302.12114v1)
 - 2023-02-23, **High Accuracy Protein Identification: Fusion of solid-state nanopore sensing and machine learning**, Shankar Dutt et.al., Paper: [http://arxiv.org/abs/2302.12098v1](http://arxiv.org/abs/2302.12098v1)
