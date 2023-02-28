@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-24**|**Improving Massively Multilingual ASR With Auxiliary CTC Objectives**|William Chen et.al.|[2302.12829v1](http://arxiv.org/abs/2302.12829v1)|**[link](https://github.com/espnet/espnet)**|
+|**2023-02-27**|**Improving Massively Multilingual ASR With Auxiliary CTC Objectives**|William Chen et.al.|[2302.12829v2](http://arxiv.org/abs/2302.12829v2)|**[link](https://github.com/espnet/espnet)**|
 |**2023-02-24**|**Decoupling Human and Camera Motion from Videos in the Wild**|Vickie Ye et.al.|[2302.12827v1](http://arxiv.org/abs/2302.12827v1)|null|
 |**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
 |**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|

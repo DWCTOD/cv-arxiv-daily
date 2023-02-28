@@ -2,7 +2,7 @@
 
 ## Video_Classification
 
-- 2023-02-24, **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**, William Chen et.al., Paper: [http://arxiv.org/abs/2302.12829v1](http://arxiv.org/abs/2302.12829v1), Code: **[https://github.com/espnet/espnet](https://github.com/espnet/espnet)**
+- 2023-02-27, **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**, William Chen et.al., Paper: [http://arxiv.org/abs/2302.12829v2](http://arxiv.org/abs/2302.12829v2), Code: **[https://github.com/espnet/espnet](https://github.com/espnet/espnet)**
 - 2023-02-24, **Decoupling Human and Camera Motion from Videos in the Wild**, Vickie Ye et.al., Paper: [http://arxiv.org/abs/2302.12827v1](http://arxiv.org/abs/2302.12827v1)
 - 2023-02-24, **GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**, Mengting Zhou et.al., Paper: [http://arxiv.org/abs/2302.12814v1](http://arxiv.org/abs/2302.12814v1)
 - 2023-02-24, **STA: Self-controlled Text Augmentation for Improving Text Classifications**, Congcong Wang et.al., Paper: [http://arxiv.org/abs/2302.12784v1](http://arxiv.org/abs/2302.12784v1), Code: **[https://github.com/wangcongcong123/sta](https://github.com/wangcongcong123/sta)**
