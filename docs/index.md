@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.27
+## Updated on 2023.02.28
 
 ## Video_Classification
 
@@ -14,7 +14,7 @@ layout: default
 |**2023-02-24**|**STA: Self-controlled Text Augmentation for Improving Text Classifications**|Congcong Wang et.al.|[2302.12784v1](http://arxiv.org/abs/2302.12784v1)|**[link](https://github.com/wangcongcong123/sta)**|
 |**2023-02-24**|**Language-Driven Representation Learning for Robotics**|Siddharth Karamcheti et.al.|[2302.12766v1](http://arxiv.org/abs/2302.12766v1)|**[link](https://github.com/siddk/voltron-robotics)**|
 |**2023-02-24**|**Definition and Classification of Fermi Surface Anomalies**|Da-Chuan Lu et.al.|[2302.12731v1](http://arxiv.org/abs/2302.12731v1)|null|
-|**2023-02-24**|**LightTS: Lightweight Time Series Classification with Adaptive Ensemble Distillation -- Extended Version**|David Campos et.al.|[2302.12721v1](http://arxiv.org/abs/2302.12721v1)|null|
+|**2023-02-24**|**LightTS: Lightweight Time Series Classification with Adaptive Ensemble Distillation -- Extended Version**|David Campos et.al.|[2302.12721v1](http://arxiv.org/abs/2302.12721v1)|**[link](https://github.com/d-gcc/distiller)**|
 |**2023-02-24**|**Designing and simulating realistic spatial frequency domain imaging systems using open-source 3D rendering software**|Jane Crowley et.al.|[2302.12705v1](http://arxiv.org/abs/2302.12705v1)|null|
 |**2023-02-24**|**Reflexive polytopes and discrete polymatroids**|Jürgen Herzog et.al.|[2302.12703v1](http://arxiv.org/abs/2302.12703v1)|null|
 |**2023-02-24**|**Video4MRI: An Empirical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks**|Yuxuan Zhang et.al.|[2302.12688v1](http://arxiv.org/abs/2302.12688v1)|null|
