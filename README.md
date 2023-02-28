@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-27**|**Internet Explorer: Targeted Representation Learning on the Open Web**|Alexander C. Li et.al.|[2302.14051v1](http://arxiv.org/abs/2302.14051v1)|**[link](https://github.com/internet-explorer-ssl/internet-explorer)**|
+|**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
+|**2023-02-27**|**Learning to Generalize towards Unseen Domains via a Content-Aware Style Invariant Framework for Disease Detection from Chest X-rays**|Mohammad Zunaed et.al.|[2302.13991v1](http://arxiv.org/abs/2302.13991v1)|**[link](https://github.com/rafizunaed/domain_agnostic_content_aware_style_invariant)**|
+|**2023-02-27**|**UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction**|Zhenwei Zhu et.al.|[2302.13987v1](http://arxiv.org/abs/2302.13987v1)|null|
+|**2023-02-27**|**Rotating hematite cube chains**|Mārtiņš Brics et.al.|[2302.13978v1](http://arxiv.org/abs/2302.13978v1)|null|
+|**2023-02-27**|**Exploring the influence of different velocity fields on Wolf-Rayet star spectra**|Roel R. Lefever et.al.|[2302.13964v1](http://arxiv.org/abs/2302.13964v1)|null|
+|**2023-02-27**|**Make Every Example Count: On Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets**|Irina Bejan et.al.|[2302.13959v1](http://arxiv.org/abs/2302.13959v1)|null|
+|**2023-02-27**|**Supervised topological data analysis for MALDI imaging applications**|Gideon Klaila et.al.|[2302.13948v1](http://arxiv.org/abs/2302.13948v1)|null|
+|**2023-02-27**|**Inseq: An Interpretability Toolkit for Sequence Generation Models**|Gabriele Sarti et.al.|[2302.13942v1](http://arxiv.org/abs/2302.13942v1)|**[link](https://github.com/inseq-team/inseq)**|
+|**2023-02-27**|**Data re-uploading with a single qudit**|Noah L. Wach et.al.|[2302.13932v1](http://arxiv.org/abs/2302.13932v1)|null|
 |**2023-02-27**|**Improving Massively Multilingual ASR With Auxiliary CTC Objectives**|William Chen et.al.|[2302.12829v2](http://arxiv.org/abs/2302.12829v2)|**[link](https://github.com/espnet/espnet)**|
 |**2023-02-24**|**Decoupling Human and Camera Motion from Videos in the Wild**|Vickie Ye et.al.|[2302.12827v1](http://arxiv.org/abs/2302.12827v1)|null|
 |**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
@@ -1819,6 +1829,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-27**|**Language identification as improvement for lip-based biometric visual systems**|Lucia Cascone et.al.|[2302.13902v1](http://arxiv.org/abs/2302.13902v1)|null|
+|**2023-02-27**|**Bootstrapping Non-invertible Symmetries**|Ying-Hsuan Lin et.al.|[2302.13900v1](http://arxiv.org/abs/2302.13900v1)|null|
+|**2023-02-27**|**Iterated Filters for Nonlinear Transition Models**|Anton Kullberg et.al.|[2302.13871v1](http://arxiv.org/abs/2302.13871v1)|null|
+|**2023-02-27**|**Target-Aware Tracking with Long-term Context Attention**|Kaijie He et.al.|[2302.13840v1](http://arxiv.org/abs/2302.13840v1)|**[link](https://github.com/hekaijie123/TATrack)**|
+|**2023-02-27**|**Combining Slow and Fast: Complementary Filtering for Dynamics Learning**|Katharina Ensinger et.al.|[2302.13754v1](http://arxiv.org/abs/2302.13754v1)|null|
+|**2023-02-27**|**Using Auxiliary Tasks In Multimodal Fusion Of Wav2vec 2.0 And BERT For Multimodal Emotion Recognition**|Dekai Sun et.al.|[2302.13661v1](http://arxiv.org/abs/2302.13661v1)|null|
+|**2023-02-27**|**Leveraging Video Coding Knowledge for Deep Video Enhancement**|Thong Bach et.al.|[2302.13594v1](http://arxiv.org/abs/2302.13594v1)|null|
+|**2023-02-27**|**Visuo-Tactile-Based Slip Detection Using A Multi-Scale Temporal Convolution Network**|Junli Gao et.al.|[2302.13564v1](http://arxiv.org/abs/2302.13564v1)|null|
+|**2023-02-27**|**Age Minimization with Energy and Distortion Constraints**|Guidan Yao et.al.|[2302.13479v1](http://arxiv.org/abs/2302.13479v1)|null|
+|**2023-02-26**|**MDF-Net: Multimodal Dual-Fusion Network for Abnormality Detection using CXR Images and Clinical Data**|Chihcheng Hsieh et.al.|[2302.13390v1](http://arxiv.org/abs/2302.13390v1)|**[link](https://github.com/chihchenghsieh/multimodal-abnormalities-detection)**|
 |**2023-02-24**|**Video4MRI: An Empirical Study on Brain Magnetic Resonance Image Analytics with CNN-based Video Classification Frameworks**|Yuxuan Zhang et.al.|[2302.12688v1](http://arxiv.org/abs/2302.12688v1)|null|
 |**2023-02-24**|**Streamlining Multimodal Data Fusion in Wireless Communication and Sensor Networks**|Mohammud J. Bocus et.al.|[2302.12636v1](http://arxiv.org/abs/2302.12636v1)|null|
 |**2023-02-24**|**Dynamic Graph Convolution Network with Spatio-Temporal Attention Fusion for Traffic Flow Prediction**|Xunlian Luo et.al.|[2302.12598v1](http://arxiv.org/abs/2302.12598v1)|null|
