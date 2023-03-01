@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis**|Lior Yariv et.al.|[2302.14859v1](http://arxiv.org/abs/2302.14859v1)|null|
+|**2023-02-28**|**Automatic Scoring of Dream Reports' Emotional Content with Large Language Models**|Lorenzo Bertolini et.al.|[2302.14828v1](http://arxiv.org/abs/2302.14828v1)|null|
+|**2023-02-28**|**Incremental Learning of Acoustic Scenes and Sound Events**|Manjunath Mulimani et.al.|[2302.14815v1](http://arxiv.org/abs/2302.14815v1)|null|
+|**2023-02-28**|**Opto-UNet: Optimized UNet for Segmentation of Varicose Veins in Optical Coherence Tomography**|Maryam Viqar et.al.|[2302.14808v1](http://arxiv.org/abs/2302.14808v1)|null|
+|**2023-02-28**|**Framelet Message Passing**|Xinliang Liu et.al.|[2302.14806v1](http://arxiv.org/abs/2302.14806v1)|null|
+|**2023-02-28**|**Generic-to-Specific Distillation of Masked Autoencoders**|Wei Huang et.al.|[2302.14771v1](http://arxiv.org/abs/2302.14771v1)|null|
+|**2023-02-28**|**The Classification of Short and Long-term Driving Behavior for an Advanced Driver Assistance System by Analyzing Bidirectional Driving Features**|Mudasser Seraj et.al.|[2302.14743v1](http://arxiv.org/abs/2302.14743v1)|null|
+|**2023-02-28**|**IMU-based online multi-lidar calibration without lidar odometry**|Sandipan Das et.al.|[2302.14735v1](http://arxiv.org/abs/2302.14735v1)|null|
+|**2023-02-28**|**Automatically Classifying Emotions based on Text: A Comparative Exploration of Different Datasets**|Anna Koufakou et.al.|[2302.14727v1](http://arxiv.org/abs/2302.14727v1)|null|
+|**2023-02-28**|**IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF**|Bo Peng et.al.|[2302.14683v1](http://arxiv.org/abs/2302.14683v1)|null|
 |**2023-02-27**|**Internet Explorer: Targeted Representation Learning on the Open Web**|Alexander C. Li et.al.|[2302.14051v1](http://arxiv.org/abs/2302.14051v1)|**[link](https://github.com/internet-explorer-ssl/internet-explorer)**|
 |**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
 |**2023-02-27**|**Learning to Generalize towards Unseen Domains via a Content-Aware Style Invariant Framework for Disease Detection from Chest X-rays**|Mohammad Zunaed et.al.|[2302.13991v1](http://arxiv.org/abs/2302.13991v1)|**[link](https://github.com/rafizunaed/domain_agnostic_content_aware_style_invariant)**|
@@ -1829,6 +1839,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**|Mohamed Nagy et.al.|[2302.14807v1](http://arxiv.org/abs/2302.14807v1)|null|
+|**2023-02-28**|**Fusion of ML with numerical simulation for optimized propeller design**|Harsh Vardhan et.al.|[2302.14740v1](http://arxiv.org/abs/2302.14740v1)|null|
+|**2023-02-28**|**Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition**|Shujie Hu et.al.|[2302.14564v1](http://arxiv.org/abs/2302.14564v1)|null|
+|**2023-02-28**|**AdaptiveShape: Solving Shape Variability for 3D Object Detection with Geometry Aware Anchor Distributions**|Benjamin Sick et.al.|[2302.14522v1](http://arxiv.org/abs/2302.14522v1)|null|
+|**2023-02-28**|**Enhancing Classification with Hierarchical Scalable Query on Fusion Transformer**|Sudeep Kumar Sahoo et.al.|[2302.14487v1](http://arxiv.org/abs/2302.14487v1)|null|
+|**2023-02-28**|**Video Quality Assessment with Texture Information Fusion for Streaming Applications**|Vignesh V Menon et.al.|[2302.14465v1](http://arxiv.org/abs/2302.14465v1)|null|
+|**2023-02-28**|**Numerical and experimental investigations of a microwave interferometer for the negative ion source SPIDER**|R. Agnello et.al.|[2302.14424v1](http://arxiv.org/abs/2302.14424v1)|null|
+|**2023-02-28**|**RemoteTouch: Enhancing Immersive 3D Video Communication with Hand Touch**|Yizhong Zhang et.al.|[2302.14365v1](http://arxiv.org/abs/2302.14365v1)|null|
+|**2023-02-28**|**DC-Former: Diverse and Compact Transformer for Person Re-Identification**|Wen Li et.al.|[2302.14335v1](http://arxiv.org/abs/2302.14335v1)|null|
+|**2023-02-28**|**RGB-D Grasp Detection via Depth Guided Learning with Cross-modal Attention**|Ran Qin et.al.|[2302.14264v1](http://arxiv.org/abs/2302.14264v1)|null|
 |**2023-02-27**|**Language identification as improvement for lip-based biometric visual systems**|Lucia Cascone et.al.|[2302.13902v1](http://arxiv.org/abs/2302.13902v1)|null|
 |**2023-02-27**|**Bootstrapping Non-invertible Symmetries**|Ying-Hsuan Lin et.al.|[2302.13900v1](http://arxiv.org/abs/2302.13900v1)|null|
 |**2023-02-27**|**Iterated Filters for Nonlinear Transition Models**|Anton Kullberg et.al.|[2302.13871v1](http://arxiv.org/abs/2302.13871v1)|null|
