@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**|Renrui Zhang et.al.|[2303.02151v1](http://arxiv.org/abs/2303.02151v1)|**[link](https://github.com/zrrskywalker/cafo)**|
+|**2023-03-03**|**Quantum utility -- definition and assessment of a practical quantum advantage**|Nils Herrmann et.al.|[2303.02138v1](http://arxiv.org/abs/2303.02138v1)|null|
+|**2023-03-03**|**TRUSformer: Improving Prostate Cancer Detection from Micro-Ultrasound Using Attention and Self-Supervision**|Mahdi Gilany et.al.|[2303.02128v1](http://arxiv.org/abs/2303.02128v1)|**[link](https://github.com/med-i-lab/trusformer)**|
+|**2023-03-03**|**Dispersed, condensed and self-limiting states of geometrically frustrated assembly**|Nicholas W. Hackney et.al.|[2303.02121v1](http://arxiv.org/abs/2303.02121v1)|null|
+|**2023-03-03**|**Need for Objective Task-based Evaluation of Deep Learning-Based Denoising Methods: A Study in the Context of Myocardial Perfusion SPECT**|Zitong Yu et.al.|[2303.02110v1](http://arxiv.org/abs/2303.02110v1)|null|
+|**2023-03-03**|**Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion**|Shaheer U. Saeed et.al.|[2303.02094v1](http://arxiv.org/abs/2303.02094v1)|null|
+|**2023-03-03**|**Unsupervised Deep Digital Staining For Microscopic Cell Images Via Knowledge Distillation**|Ziwang Xu et.al.|[2303.02057v1](http://arxiv.org/abs/2303.02057v1)|null|
+|**2023-03-03**|**On the complexity of PAC learning in Hilbert spaces**|Sergei Chubanov et.al.|[2303.02047v1](http://arxiv.org/abs/2303.02047v1)|null|
+|**2023-03-03**|**Uncertainty Estimation by Fisher Information-based Evidential Deep Learning**|Danruo Deng et.al.|[2303.02045v1](http://arxiv.org/abs/2303.02045v1)|null|
+|**2023-03-03**|**Single-photon Image Super-resolution via Self-supervised Learning**|Yiwei Chen et.al.|[2303.02033v1](http://arxiv.org/abs/2303.02033v1)|null|
 |**2023-03-02**|**ABAW: Valence-Arousal Estimation, Expression Recognition, Action Unit Detection & Emotional Reaction Intensity Estimation Challenges**|Dimitrios Kollias et.al.|[2303.01498v1](http://arxiv.org/abs/2303.01498v1)|null|
 |**2023-03-02**|**Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**|Siddhant Haldar et.al.|[2303.01497v1](http://arxiv.org/abs/2303.01497v1)|null|
 |**2023-03-02**|**Transferring Models Trained on Natural Images to 3D MRI via Position Encoded Slice Models**|Umang Gupta et.al.|[2303.01491v1](http://arxiv.org/abs/2303.01491v1)|**[link](https://github.com/umgupta/2d-slice-set-networks)**|
@@ -1859,6 +1869,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Structure of pressure-gradient-driven current singularity in ideal magnetohydrodynamic equilibrium**|Yi-Min Huang et.al.|[2303.02107v1](http://arxiv.org/abs/2303.02107v1)|null|
+|**2023-03-03**|**New spatial models for integrating standardized detection-nondetection and opportunistic presence-only data: application to estimating risk factors associated to powerline-induced death of birds**|Jorge Sicacha-Parada et.al.|[2303.02088v1](http://arxiv.org/abs/2303.02088v1)|null|
+|**2023-03-03**|**Adaptive Spatial Sampling Design for Environmental Field Prediction using Low-Cost Sensing Technologies**|Eun-Hye Yoo et.al.|[2303.02050v1](http://arxiv.org/abs/2303.02050v1)|null|
+|**2023-03-03**|**BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap**|You Shen et.al.|[2303.02000v1](http://arxiv.org/abs/2303.02000v1)|**[link](https://github.com/mystorm16/bsh-det3d)**|
+|**2023-03-03**|**Cosmic Radioactivity and Galactic Chemical Evolution**|Roland Diehl et.al.|[2303.01825v1](http://arxiv.org/abs/2303.01825v1)|null|
+|**2023-03-03**|**Quantized Radio Map Estimation Using Tensor and Deep Generative Models**|Subash Timilsina et.al.|[2303.01770v1](http://arxiv.org/abs/2303.01770v1)|null|
+|**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
+|**2023-03-02**|**Quantum Engineering for Energy Applications**|Florian Metzler et.al.|[2303.01632v1](http://arxiv.org/abs/2303.01632v1)|null|
 |**2023-03-02**|**Delivering Arbitrary-Modal Semantic Segmentation**|Jiaming Zhang et.al.|[2303.01480v1](http://arxiv.org/abs/2303.01480v1)|**[link](https://github.com/jamycheung/DELIVER)**|
 |**2023-03-02**|**Robust, High-Precision GNSS Carrier-Phase Positioning with Visual-Inertial Fusion**|Erqun Dong et.al.|[2303.01291v1](http://arxiv.org/abs/2303.01291v1)|null|
 |**2023-03-02**|**Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review**|Yining Shi et.al.|[2303.01212v1](http://arxiv.org/abs/2303.01212v1)|null|
