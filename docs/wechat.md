@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-06, **Simultaneous Tactile Estimation and Control of Extrinsic Contact**, Sangwoon Kim et.al., Paper: [http://arxiv.org/abs/2303.03385v1](http://arxiv.org/abs/2303.03385v1)
+- 2023-03-06, **Referring Multi-Object Tracking**, Dongming Wu et.al., Paper: [http://arxiv.org/abs/2303.03366v1](http://arxiv.org/abs/2303.03366v1), Code: **[https://github.com/wudongming97/rmot](https://github.com/wudongming97/rmot)**
+- 2023-03-06, **Keep It Simple: CNN Model Complexity Studies for Interference Classification Tasks**, Taiwo Oyedare et.al., Paper: [http://arxiv.org/abs/2303.03326v1](http://arxiv.org/abs/2303.03326v1)
+- 2023-03-06, **Robust Immersive Telepresence and Mobile Telemanipulation: NimbRo wins ANA Avatar XPRIZE Finals**, Max Schwarz et.al., Paper: [http://arxiv.org/abs/2303.03297v1](http://arxiv.org/abs/2303.03297v1)
+- 2023-03-06, **Liouville Theorem for semilinear elliptic inequalities with the fractional Hardy operators**, Huyuan Chen et.al., Paper: [http://arxiv.org/abs/2303.03246v1](http://arxiv.org/abs/2303.03246v1)
+- 2023-03-06, **Evaluating the Fairness of Deep Learning Uncertainty Estimates in Medical Image Analysis**, Raghav Mehta et.al., Paper: [http://arxiv.org/abs/2303.03242v1](http://arxiv.org/abs/2303.03242v1)
+- 2023-03-06, **Stargazer: An Interactive Camera Robot for Capturing How-To Videos Based on Subtle Instructor Cues**, Jiannan Li et.al., Paper: [http://arxiv.org/abs/2303.03221v1](http://arxiv.org/abs/2303.03221v1)
+- 2023-03-06, **Combination of Single and Multi-frame Image Super-resolution: An Analytical Perspective**, Mohammad Mahdi Afrasiabi et.al., Paper: [http://arxiv.org/abs/2303.03212v1](http://arxiv.org/abs/2303.03212v1)
+- 2023-03-06, **Continuous Sign Language Recognition with Correlation Network**, Lianyu Hu et.al., Paper: [http://arxiv.org/abs/2303.03202v1](http://arxiv.org/abs/2303.03202v1)
+- 2023-03-06, **A Unified Algebraic Perspective on Lipschitz Neural Networks**, Alexandre Araujo et.al., Paper: [http://arxiv.org/abs/2303.03169v1](http://arxiv.org/abs/2303.03169v1), Code: **[https://github.com/araujoalexandre/lipschitz-sll-networks](https://github.com/araujoalexandre/lipschitz-sll-networks)**
 - 2023-03-03, **Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**, Renrui Zhang et.al., Paper: [http://arxiv.org/abs/2303.02151v1](http://arxiv.org/abs/2303.02151v1), Code: **[https://github.com/zrrskywalker/cafo](https://github.com/zrrskywalker/cafo)**
 - 2023-03-03, **Quantum utility -- definition and assessment of a practical quantum advantage**, Nils Herrmann et.al., Paper: [http://arxiv.org/abs/2303.02138v1](http://arxiv.org/abs/2303.02138v1)
 - 2023-03-03, **TRUSformer: Improving Prostate Cancer Detection from Micro-Ultrasound Using Attention and Self-Supervision**, Mahdi Gilany et.al., Paper: [http://arxiv.org/abs/2303.02128v1](http://arxiv.org/abs/2303.02128v1), Code: **[https://github.com/med-i-lab/trusformer](https://github.com/med-i-lab/trusformer)**
@@ -1865,6 +1875,16 @@
 
 ## MultiModal
 
+- 2023-03-06, **Fusion Product Modules for current algebra of type $A_2$**, Tanusree Khandai et.al., Paper: [http://arxiv.org/abs/2303.03337v1](http://arxiv.org/abs/2303.03337v1)
+- 2023-03-06, **Construction of factorizable Hopf algebras**, Kun Zhou et.al., Paper: [http://arxiv.org/abs/2303.03213v1](http://arxiv.org/abs/2303.03213v1)
+- 2023-03-06, **Existence of global symmetries of divergence-free fields with first integrals**, David Perrella et.al., Paper: [http://arxiv.org/abs/2303.03191v1](http://arxiv.org/abs/2303.03191v1)
+- 2023-03-06, **Head-on collision of large-scale high density plasmas jets: a first-principle kinetic simulation approach**, D. Wu et.al., Paper: [http://arxiv.org/abs/2303.03011v1](http://arxiv.org/abs/2303.03011v1)
+- 2023-03-06, **HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention**, Shijie Geng et.al., Paper: [http://arxiv.org/abs/2303.02995v1](http://arxiv.org/abs/2303.02995v1), Code: **[https://github.com/jeykigung/hiclip](https://github.com/jeykigung/hiclip)**
+- 2023-03-06, **Butterfly: Multiple Reference Frames Feature Propagation Mechanism for Neural Video Compression**, Feng Wang et.al., Paper: [http://arxiv.org/abs/2303.02959v1](http://arxiv.org/abs/2303.02959v1)
+- 2023-03-06, **KBNet: Kernel Basis Network for Image Restoration**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2303.02881v1](http://arxiv.org/abs/2303.02881v1), Code: **[https://github.com/zhangyi-3/kbnet](https://github.com/zhangyi-3/kbnet)**
+- 2023-03-05, **A Contracting Hierarchical Observer for Pose-Inertial Fusion**, Brett T. Lopez et.al., Paper: [http://arxiv.org/abs/2303.02777v1](http://arxiv.org/abs/2303.02777v1)
+- 2023-03-04, **The DKU Post-Challenge Audio-Visual Wake Word Spotting System for the 2021 MISP Challenge: Deep Analysis**, Haoxu Wang et.al., Paper: [http://arxiv.org/abs/2303.02348v1](http://arxiv.org/abs/2303.02348v1)
+- 2023-03-04, **Virtual Sparse Convolution for Multimodal 3D Object Detection**, Hai Wu et.al., Paper: [http://arxiv.org/abs/2303.02314v1](http://arxiv.org/abs/2303.02314v1), Code: **[https://github.com/hailanyi/virconv](https://github.com/hailanyi/virconv)**
 - 2023-03-03, **Structure of pressure-gradient-driven current singularity in ideal magnetohydrodynamic equilibrium**, Yi-Min Huang et.al., Paper: [http://arxiv.org/abs/2303.02107v1](http://arxiv.org/abs/2303.02107v1)
 - 2023-03-03, **New spatial models for integrating standardized detection-nondetection and opportunistic presence-only data: application to estimating risk factors associated to powerline-induced death of birds**, Jorge Sicacha-Parada et.al., Paper: [http://arxiv.org/abs/2303.02088v1](http://arxiv.org/abs/2303.02088v1)
 - 2023-03-03, **Adaptive Spatial Sampling Design for Environmental Field Prediction using Low-Cost Sensing Technologies**, Eun-Hye Yoo et.al., Paper: [http://arxiv.org/abs/2303.02050v1](http://arxiv.org/abs/2303.02050v1)
