@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-07**|**From Copilot to Pilot: Towards AI Supported Software Development**|Rohith Pudari et.al.|[2303.04142v1](http://arxiv.org/abs/2303.04142v1)|null|
+|**2023-03-07**|**Predicted Embedding Power Regression for Large-Scale Out-of-Distribution Detection**|Hong Yang et.al.|[2303.04115v1](http://arxiv.org/abs/2303.04115v1)|null|
+|**2023-03-07**|**Introspective Cross-Attention Probing for Lightweight Transfer of Pre-trained Models**|Yonatan Dukler et.al.|[2303.04105v1](http://arxiv.org/abs/2303.04105v1)|null|
+|**2023-03-07**|**VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building**|Maureen Daum et.al.|[2303.04068v1](http://arxiv.org/abs/2303.04068v1)|null|
+|**2023-03-07**|**Describe me an Aucklet: Generating Grounded Perceptual Category Descriptions**|Bill Noble et.al.|[2303.04053v1](http://arxiv.org/abs/2303.04053v1)|null|
+|**2023-03-07**|**DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video**|Zhimeng Zhang et.al.|[2303.03988v1](http://arxiv.org/abs/2303.03988v1)|null|
+|**2023-03-07**|**Comparing 3D deformations between longitudinal daily CBCT acquisitions using CNN for head and neck radiotherapy toxicity prediction**|William Trung Le et.al.|[2303.03965v1](http://arxiv.org/abs/2303.03965v1)|null|
+|**2023-03-07**|**On the connectedness of multistationarity regions of small reaction networks**|Allison Dennis et.al.|[2303.03960v1](http://arxiv.org/abs/2303.03960v1)|null|
+|**2023-03-07**|**ChatGPT: Beginning of an End of Manual Annotation? Use Case of Automatic Genre Identification**|Taja Kuzman et.al.|[2303.03953v1](http://arxiv.org/abs/2303.03953v1)|null|
+|**2023-03-07**|**A survey on automated detection and classification of acute leukemia and WBCs in microscopic blood cells**|Mohammad Zolfaghari et.al.|[2303.03916v1](http://arxiv.org/abs/2303.03916v1)|null|
 |**2023-03-06**|**Simultaneous Tactile Estimation and Control of Extrinsic Contact**|Sangwoon Kim et.al.|[2303.03385v1](http://arxiv.org/abs/2303.03385v1)|null|
 |**2023-03-06**|**Referring Multi-Object Tracking**|Dongming Wu et.al.|[2303.03366v1](http://arxiv.org/abs/2303.03366v1)|**[link](https://github.com/wudongming97/rmot)**|
 |**2023-03-06**|**Keep It Simple: CNN Model Complexity Studies for Interference Classification Tasks**|Taiwo Oyedare et.al.|[2303.03326v1](http://arxiv.org/abs/2303.03326v1)|null|
@@ -1883,6 +1893,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-07**|**Exploiting Trust for Resilient Hypothesis Testing with Malicious Robots (evolved version)**|Matthew Cavorsi et.al.|[2303.04075v1](http://arxiv.org/abs/2303.04075v1)|null|
+|**2023-03-07**|**InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data**|Neng Wang et.al.|[2303.03909v1](http://arxiv.org/abs/2303.03909v1)|null|
+|**2023-03-07**|**Quasi-free states on a class of algebras of multicomponent commutation relations**|Eugene Lytvynov et.al.|[2303.03828v1](http://arxiv.org/abs/2303.03828v1)|null|
+|**2023-03-07**|**Deep Learning for Inertial Positioning: A Survey**|Changhao Chen et.al.|[2303.03757v1](http://arxiv.org/abs/2303.03757v1)|null|
+|**2023-03-07**|**CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis**|Md Awsafur Rahman et.al.|[2303.03672v1](http://arxiv.org/abs/2303.03672v1)|null|
+|**2023-03-07**|**LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**|Xin Li et.al.|[2303.03595v1](http://arxiv.org/abs/2303.03595v1)|null|
+|**2023-03-07**|**Calibration-free BEV Representation for Infrastructure Perception**|Siqi Fan et.al.|[2303.03583v1](http://arxiv.org/abs/2303.03583v1)|null|
+|**2023-03-06**|**Securing Autonomous Vehicles Under Partial-Information Cyber Attacks on LiDAR Data**|R. Spencer Hallyburton et.al.|[2303.03470v1](http://arxiv.org/abs/2303.03470v1)|null|
 |**2023-03-06**|**Fusion Product Modules for current algebra of type $A_2$**|Tanusree Khandai et.al.|[2303.03337v1](http://arxiv.org/abs/2303.03337v1)|null|
 |**2023-03-06**|**Construction of factorizable Hopf algebras**|Kun Zhou et.al.|[2303.03213v1](http://arxiv.org/abs/2303.03213v1)|null|
 |**2023-03-06**|**Existence of global symmetries of divergence-free fields with first integrals**|David Perrella et.al.|[2303.03191v1](http://arxiv.org/abs/2303.03191v1)|null|
