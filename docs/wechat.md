@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-08, **Automatic Debiased Learning from Positive, Unlabeled, and Exposure Data**, Masahiro Kato et.al., Paper: [http://arxiv.org/abs/2303.04797v1](http://arxiv.org/abs/2303.04797v1)
+- 2023-03-08, **Video-P2P: Video Editing with Cross-attention Control**, Shaoteng Liu et.al., Paper: [http://arxiv.org/abs/2303.04761v1](http://arxiv.org/abs/2303.04761v1)
+- 2023-03-08, **Multimodal Parameter-Efficient Few-Shot Class Incremental Learning**, Marco D'Alessandro et.al., Paper: [http://arxiv.org/abs/2303.04751v1](http://arxiv.org/abs/2303.04751v1)
+- 2023-03-08, **A General Theory of Correct, Incorrect, and Extrinsic Equivariance**, Dian Wang et.al., Paper: [http://arxiv.org/abs/2303.04745v1](http://arxiv.org/abs/2303.04745v1)
+- 2023-03-08, **Model Predictive Control with Gaussian-Process-Supported Dynamical Constraints for Autonomous Vehicles**, Johanna Bethge et.al., Paper: [http://arxiv.org/abs/2303.04725v1](http://arxiv.org/abs/2303.04725v1)
+- 2023-03-08, **A lattice model for condensation in Levin-Wen systems**, Jessica Christian et.al., Paper: [http://arxiv.org/abs/2303.04711v1](http://arxiv.org/abs/2303.04711v1)
+- 2023-03-08, **VOLTA: an Environment-Aware Contrastive Cell Representation Learning for Histopathology**, Ramin Nakhli et.al., Paper: [http://arxiv.org/abs/2303.04696v1](http://arxiv.org/abs/2303.04696v1)
+- 2023-03-08, **STPDnet: Spatial-temporal convolutional primal dual network for dynamic PET image reconstruction**, Rui Hu et.al., Paper: [http://arxiv.org/abs/2303.04667v1](http://arxiv.org/abs/2303.04667v1)
+- 2023-03-08, **Centroid-centered Modeling for Efficient Vision Transformer Pre-training**, Xin Yan et.al., Paper: [http://arxiv.org/abs/2303.04664v1](http://arxiv.org/abs/2303.04664v1)
+- 2023-03-08, **DULDA: Dual-domain Unsupervised Learned Descent Algorithm for PET image reconstruction**, Rui Hu et.al., Paper: [http://arxiv.org/abs/2303.04661v1](http://arxiv.org/abs/2303.04661v1)
 - 2023-03-07, **From Copilot to Pilot: Towards AI Supported Software Development**, Rohith Pudari et.al., Paper: [http://arxiv.org/abs/2303.04142v1](http://arxiv.org/abs/2303.04142v1)
 - 2023-03-07, **Predicted Embedding Power Regression for Large-Scale Out-of-Distribution Detection**, Hong Yang et.al., Paper: [http://arxiv.org/abs/2303.04115v1](http://arxiv.org/abs/2303.04115v1)
 - 2023-03-07, **Introspective Cross-Attention Probing for Lightweight Transfer of Pre-trained Models**, Yonatan Dukler et.al., Paper: [http://arxiv.org/abs/2303.04105v1](http://arxiv.org/abs/2303.04105v1)
@@ -1885,6 +1895,16 @@
 
 ## MultiModal
 
+- 2023-03-08, **A lattice model for condensation in Levin-Wen systems**, Jessica Christian et.al., Paper: [http://arxiv.org/abs/2303.04711v1](http://arxiv.org/abs/2303.04711v1)
+- 2023-03-08, **Robust Multimodal Fusion for Human Activity Recognition**, Sanju Xaviar et.al., Paper: [http://arxiv.org/abs/2303.04636v1](http://arxiv.org/abs/2303.04636v1)
+- 2023-03-08, **FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**, Seunghwan Lee et.al., Paper: [http://arxiv.org/abs/2303.04508v1](http://arxiv.org/abs/2303.04508v1)
+- 2023-03-08, **Modeling the evolution of representative dislocation structures under high thermo-mechanical conditions during Additive Manufacturing of Alloys**, Markus Sudmanns et.al., Paper: [http://arxiv.org/abs/2303.04476v1](http://arxiv.org/abs/2303.04476v1)
+- 2023-03-08, **Intermediate and Future Frame Prediction of Geostationary Satellite Imagery With Warp and Refine Network**, Minseok Seo et.al., Paper: [http://arxiv.org/abs/2303.04405v1](http://arxiv.org/abs/2303.04405v1)
+- 2023-03-08, **TSANET: Temporal and Scale Alignment for Unsupervised Video Object Segmentation**, Seunghoon Lee et.al., Paper: [http://arxiv.org/abs/2303.04376v1](http://arxiv.org/abs/2303.04376v1)
+- 2023-03-08, **SANDFORMER: CNN and Transformer under Gated Fusion for Sand Dust Image Restoration**, Jun Shi et.al., Paper: [http://arxiv.org/abs/2303.04365v1](http://arxiv.org/abs/2303.04365v1)
+- 2023-03-08, **Camera-Radar Perception for Autonomous Vehicles and ADAS: Concepts, Datasets and Metrics**, Felipe Manfio Barbosa et.al., Paper: [http://arxiv.org/abs/2303.04302v1](http://arxiv.org/abs/2303.04302v1)
+- 2023-03-07, **ERUDITE: Human-in-the-Loop IoT for an Adaptive Personalized Learning System**, Mojtaba Taherisadr et.al., Paper: [http://arxiv.org/abs/2303.04292v1](http://arxiv.org/abs/2303.04292v1)
+- 2023-03-07, **A Computer Vision Enabled damage detection model with improved YOLOv5 based on Transformer Prediction Head**, Arunabha M. Roy et.al., Paper: [http://arxiv.org/abs/2303.04275v1](http://arxiv.org/abs/2303.04275v1)
 - 2023-03-07, **Exploiting Trust for Resilient Hypothesis Testing with Malicious Robots (evolved version)**, Matthew Cavorsi et.al., Paper: [http://arxiv.org/abs/2303.04075v1](http://arxiv.org/abs/2303.04075v1)
 - 2023-03-07, **InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data**, Neng Wang et.al., Paper: [http://arxiv.org/abs/2303.03909v1](http://arxiv.org/abs/2303.03909v1)
 - 2023-03-07, **Quasi-free states on a class of algebras of multicomponent commutation relations**, Eugene Lytvynov et.al., Paper: [http://arxiv.org/abs/2303.03828v1](http://arxiv.org/abs/2303.03828v1)
