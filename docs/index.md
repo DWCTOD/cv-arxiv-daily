@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|null|
+|**2023-03-09**|**Cherry-Picking with Reinforcement Learning**|Yunchu Zhang et.al.|[2303.05508v1](http://arxiv.org/abs/2303.05508v1)|null|
+|**2023-03-09**|**Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators**|Yuntao Ma et.al.|[2303.05486v1](http://arxiv.org/abs/2303.05486v1)|null|
+|**2023-03-09**|**Spawrious: A Benchmark for Fine Control of Spurious Correlation Biases**|Aengus Lynch et.al.|[2303.05470v1](http://arxiv.org/abs/2303.05470v1)|**[link](https://github.com/aengusl/spawrious)**|
+|**2023-03-09**|**Resolving quantitative MRI model degeneracy with machine learning via training data distribution design**|Michele Guerreri et.al.|[2303.05464v1](http://arxiv.org/abs/2303.05464v1)|null|
+|**2023-03-09**|**Understanding the Challenges and Opportunities of Pose-based Anomaly Detection**|Ghazal Alinezhad Noghre et.al.|[2303.05463v1](http://arxiv.org/abs/2303.05463v1)|null|
+|**2023-03-09**|**Presentation Attack Detection with Advanced CNN Models for Noncontact-based Fingerprint Systems**|Sandip Purnapatra et.al.|[2303.05459v1](http://arxiv.org/abs/2303.05459v1)|null|
+|**2023-03-09**|**The Impact of Feature Selection and Transformation on Machine Learning Methods in Determining the Credit Scoring**|Oguz Koc et.al.|[2303.05427v1](http://arxiv.org/abs/2303.05427v1)|null|
+|**2023-03-09**|**FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning**|Kazi Injamamul Haque et.al.|[2303.05416v1](http://arxiv.org/abs/2303.05416v1)|**[link](https://github.com/galib360/facexhubert)**|
+|**2023-03-09**|**Deep Equilibrium Learning of Explicit Regularizers for Imaging Inverse Problems**|Zihao Zou et.al.|[2303.05386v1](http://arxiv.org/abs/2303.05386v1)|null|
 |**2023-03-08**|**Automatic Debiased Learning from Positive, Unlabeled, and Exposure Data**|Masahiro Kato et.al.|[2303.04797v1](http://arxiv.org/abs/2303.04797v1)|null|
 |**2023-03-08**|**Video-P2P: Video Editing with Cross-attention Control**|Shaoteng Liu et.al.|[2303.04761v1](http://arxiv.org/abs/2303.04761v1)|null|
 |**2023-03-08**|**Multimodal Parameter-Efficient Few-Shot Class Incremental Learning**|Marco D'Alessandro et.al.|[2303.04751v1](http://arxiv.org/abs/2303.04751v1)|null|
@@ -1903,6 +1913,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v1](http://arxiv.org/abs/2303.05499v1)|null|
+|**2023-03-09**|**Rethinking Range View Representation for LiDAR Segmentation**|Lingdong Kong et.al.|[2303.05367v1](http://arxiv.org/abs/2303.05367v1)|null|
+|**2023-03-09**|**MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**|Ruize Xu et.al.|[2303.05338v1](http://arxiv.org/abs/2303.05338v1)|null|
+|**2023-03-09**|**Tucker Bilinear Attention Network for Multi-scale Remote Sensing Object Detection**|Tao Chen et.al.|[2303.05329v1](http://arxiv.org/abs/2303.05329v1)|null|
+|**2023-03-09**|**RMMDet: Road-Side Multitype and Multigroup Sensor Detection System for Autonomous Driving**|Xiuyu Yang et.al.|[2303.05203v1](http://arxiv.org/abs/2303.05203v1)|**[link](https://github.com/OrangeSodahub/RMMDet)**|
+|**2023-03-09**|**Partial groups, pregroups and realisability of fusion systems**|Nicolas Lemoine et.al.|[2303.05157v1](http://arxiv.org/abs/2303.05157v1)|null|
+|**2023-03-09**|**Design of Efficient Point-Mass Filter with Application in Terrain Aided Navigation**|J. Matoušek et.al.|[2303.05100v1](http://arxiv.org/abs/2303.05100v1)|null|
+|**2023-03-09**|**Dynamic Multi-View Fusion Mechanism For Chinese Relation Extraction**|Jing Yang et.al.|[2303.05082v1](http://arxiv.org/abs/2303.05082v1)|null|
+|**2023-03-09**|**Text-Visual Prompting for Efficient 2D Temporal Video Grounding**|Yimeng Zhang et.al.|[2303.04995v1](http://arxiv.org/abs/2303.04995v1)|null|
+|**2023-03-09**|**Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation**|Qichen Fu et.al.|[2303.04991v1](http://arxiv.org/abs/2303.04991v1)|null|
 |**2023-03-08**|**A lattice model for condensation in Levin-Wen systems**|Jessica Christian et.al.|[2303.04711v1](http://arxiv.org/abs/2303.04711v1)|null|
 |**2023-03-08**|**Robust Multimodal Fusion for Human Activity Recognition**|Sanju Xaviar et.al.|[2303.04636v1](http://arxiv.org/abs/2303.04636v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|null|
