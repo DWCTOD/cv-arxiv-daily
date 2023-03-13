@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-10, **Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**, Yunzhong Hou et.al., Paper: [http://arxiv.org/abs/2303.06145v1](http://arxiv.org/abs/2303.06145v1), Code: **[https://github.com/hou-yz/mvselect](https://github.com/hou-yz/mvselect)**
+- 2023-03-10, **Warm-Starting and Quantum Computing: A Systematic Mapping Study**, Felix Truger et.al., Paper: [http://arxiv.org/abs/2303.06133v1](http://arxiv.org/abs/2303.06133v1)
+- 2023-03-10, **Supersolid phases of bosonic particles in a bubble trap**, Matteo Ciardi et.al., Paper: [http://arxiv.org/abs/2303.06113v1](http://arxiv.org/abs/2303.06113v1)
+- 2023-03-10, **Statistical Study of the Correlation between Solar Energetic Particles and Properties of Active Regions**, Russell D. Marroquin et.al., Paper: [http://arxiv.org/abs/2303.06100v1](http://arxiv.org/abs/2303.06100v1)
+- 2023-03-10, **Communication-Critical Planning via Multi-Agent Trajectory Exchange**, Nathaniel Moore Glaser et.al., Paper: [http://arxiv.org/abs/2303.06080v1](http://arxiv.org/abs/2303.06080v1)
+- 2023-03-10, **Long-tailed Classification from a Bayesian-decision-theory Perspective**, Bolian Li et.al., Paper: [http://arxiv.org/abs/2303.06075v1](http://arxiv.org/abs/2303.06075v1)
+- 2023-03-10, **MVImgNet: A Large-scale Dataset of Multi-view Images**, Xianggang Yu et.al., Paper: [http://arxiv.org/abs/2303.06042v1](http://arxiv.org/abs/2303.06042v1)
+- 2023-03-10, **Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation**, Yunguan Fu et.al., Paper: [http://arxiv.org/abs/2303.06040v1](http://arxiv.org/abs/2303.06040v1), Code: **[https://github.com/mathpluscode/imgx-diffseg](https://github.com/mathpluscode/imgx-diffseg)**
+- 2023-03-10, **Tactile-Filter: Interactive Tactile Perception for Part Mating**, Kei Ota et.al., Paper: [http://arxiv.org/abs/2303.06034v1](http://arxiv.org/abs/2303.06034v1)
+- 2023-03-10, **Material Identification From Radiographs Without Energy Resolution**, Michael T. McCann et.al., Paper: [http://arxiv.org/abs/2303.06005v1](http://arxiv.org/abs/2303.06005v1)
 - 2023-03-09, **PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**, Xuan Li et.al., Paper: [http://arxiv.org/abs/2303.05512v1](http://arxiv.org/abs/2303.05512v1)
 - 2023-03-09, **Cherry-Picking with Reinforcement Learning**, Yunchu Zhang et.al., Paper: [http://arxiv.org/abs/2303.05508v1](http://arxiv.org/abs/2303.05508v1)
 - 2023-03-09, **Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators**, Yuntao Ma et.al., Paper: [http://arxiv.org/abs/2303.05486v1](http://arxiv.org/abs/2303.05486v1)
@@ -1905,6 +1915,12 @@
 
 ## MultiModal
 
+- 2023-03-10, **On the Fusion Strategies for Federated Decision Making**, Mert Kayaalp et.al., Paper: [http://arxiv.org/abs/2303.06109v1](http://arxiv.org/abs/2303.06109v1)
+- 2023-03-10, **Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception**, Chunrui Han et.al., Paper: [http://arxiv.org/abs/2303.05970v1](http://arxiv.org/abs/2303.05970v1)
+- 2023-03-10, **Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**, Qian Jiang et.al., Paper: [http://arxiv.org/abs/2303.05952v1](http://arxiv.org/abs/2303.05952v1)
+- 2023-03-10, **Handheld Burst Super-Resolution Meets Multi-Exposure Satellite Imagery**, Jamy Lafenetre et.al., Paper: [http://arxiv.org/abs/2303.05879v1](http://arxiv.org/abs/2303.05879v1)
+- 2023-03-10, **On Hybrid Radar Fusion for Integrated Sensing and Communication**, Akhileswar Chowdary et.al., Paper: [http://arxiv.org/abs/2303.05722v1](http://arxiv.org/abs/2303.05722v1)
+- 2023-03-10, **MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**, Jiaqi Xu et.al., Paper: [http://arxiv.org/abs/2303.05707v1](http://arxiv.org/abs/2303.05707v1)
 - 2023-03-10, **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**, Shilong Liu et.al., Paper: [http://arxiv.org/abs/2303.05499v2](http://arxiv.org/abs/2303.05499v2), Code: **[https://github.com/idea-research/groundingdino](https://github.com/idea-research/groundingdino)**
 - 2023-03-09, **Rethinking Range View Representation for LiDAR Segmentation**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2303.05367v1](http://arxiv.org/abs/2303.05367v1)
 - 2023-03-09, **MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**, Ruize Xu et.al., Paper: [http://arxiv.org/abs/2303.05338v1](http://arxiv.org/abs/2303.05338v1)
