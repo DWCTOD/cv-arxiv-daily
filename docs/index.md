@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.12
+## Updated on 2023.03.13
 
 ## Video_Classification
 
@@ -1913,11 +1913,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v1](http://arxiv.org/abs/2303.05499v1)|null|
+|**2023-03-10**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v2](http://arxiv.org/abs/2303.05499v2)|**[link](https://github.com/idea-research/groundingdino)**|
 |**2023-03-09**|**Rethinking Range View Representation for LiDAR Segmentation**|Lingdong Kong et.al.|[2303.05367v1](http://arxiv.org/abs/2303.05367v1)|null|
 |**2023-03-09**|**MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**|Ruize Xu et.al.|[2303.05338v1](http://arxiv.org/abs/2303.05338v1)|null|
 |**2023-03-09**|**Tucker Bilinear Attention Network for Multi-scale Remote Sensing Object Detection**|Tao Chen et.al.|[2303.05329v1](http://arxiv.org/abs/2303.05329v1)|null|
-|**2023-03-09**|**RMMDet: Road-Side Multitype and Multigroup Sensor Detection System for Autonomous Driving**|Xiuyu Yang et.al.|[2303.05203v1](http://arxiv.org/abs/2303.05203v1)|**[link](https://github.com/OrangeSodahub/RMMDet)**|
+|**2023-03-10**|**RMMDet: Road-Side Multitype and Multigroup Sensor Detection System for Autonomous Driving**|Xiuyu Yang et.al.|[2303.05203v2](http://arxiv.org/abs/2303.05203v2)|**[link](https://github.com/OrangeSodahub/RMMDet)**|
 |**2023-03-09**|**Partial groups, pregroups and realisability of fusion systems**|Nicolas Lemoine et.al.|[2303.05157v1](http://arxiv.org/abs/2303.05157v1)|null|
 |**2023-03-09**|**Design of Efficient Point-Mass Filter with Application in Terrain Aided Navigation**|J. Matoušek et.al.|[2303.05100v1](http://arxiv.org/abs/2303.05100v1)|null|
 |**2023-03-09**|**Dynamic Multi-View Fusion Mechanism For Chinese Relation Extraction**|Jing Yang et.al.|[2303.05082v1](http://arxiv.org/abs/2303.05082v1)|null|
