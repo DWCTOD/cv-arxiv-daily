@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-13, **TriDet: Temporal Action Detection with Relative Boundary Modeling**, Dingfeng Shi et.al., Paper: [http://arxiv.org/abs/2303.07347v1](http://arxiv.org/abs/2303.07347v1), Code: **[https://github.com/sssste/tridet](https://github.com/sssste/tridet)**
+- 2023-03-13, **Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**, Cong Cao et.al., Paper: [http://arxiv.org/abs/2303.07327v1](http://arxiv.org/abs/2303.07327v1)
+- 2023-03-13, **Collision Cross-entropy and EM Algorithm for Self-labeled Classification**, Zhongwen Zhang et.al., Paper: [http://arxiv.org/abs/2303.07321v1](http://arxiv.org/abs/2303.07321v1)
+- 2023-03-13, **Model-tuning Via Prompts Makes NLP Models Adversarially Robust**, Mrigank Raman et.al., Paper: [http://arxiv.org/abs/2303.07320v1](http://arxiv.org/abs/2303.07320v1)
+- 2023-03-13, **Nearest-Neighbor Inter-Intra Contrastive Learning from Unlabeled Videos**, David Fan et.al., Paper: [http://arxiv.org/abs/2303.07317v1](http://arxiv.org/abs/2303.07317v1)
+- 2023-03-13, **Transformer Models for Acute Brain Dysfunction Prediction**, Brandon Silva et.al., Paper: [http://arxiv.org/abs/2303.07305v1](http://arxiv.org/abs/2303.07305v1)
+- 2023-03-13, **One-form symmetries in $\mathcal{N} = 3$ $S$-folds**, Antonio Amariti et.al., Paper: [http://arxiv.org/abs/2303.07299v1](http://arxiv.org/abs/2303.07299v1)
+- 2023-03-13, **Transformer-based approaches to Sentiment Detection**, Olumide Ebenezer Ojo et.al., Paper: [http://arxiv.org/abs/2303.07292v1](http://arxiv.org/abs/2303.07292v1)
+- 2023-03-13, **Align and Attend: Multimodal Summarization with Dual Contrastive Losses**, Bo He et.al., Paper: [http://arxiv.org/abs/2303.07284v1](http://arxiv.org/abs/2303.07284v1)
+- 2023-03-13, **Vision-Language Models as Success Detectors**, Yuqing Du et.al., Paper: [http://arxiv.org/abs/2303.07280v1](http://arxiv.org/abs/2303.07280v1)
 - 2023-03-10, **Learning to Select Camera Views: Efficient Multiview Understanding at Few Glances**, Yunzhong Hou et.al., Paper: [http://arxiv.org/abs/2303.06145v1](http://arxiv.org/abs/2303.06145v1), Code: **[https://github.com/hou-yz/mvselect](https://github.com/hou-yz/mvselect)**
 - 2023-03-10, **Warm-Starting and Quantum Computing: A Systematic Mapping Study**, Felix Truger et.al., Paper: [http://arxiv.org/abs/2303.06133v1](http://arxiv.org/abs/2303.06133v1)
 - 2023-03-10, **Supersolid phases of bosonic particles in a bubble trap**, Matteo Ciardi et.al., Paper: [http://arxiv.org/abs/2303.06113v1](http://arxiv.org/abs/2303.06113v1)
@@ -1915,6 +1925,16 @@
 
 ## MultiModal
 
+- 2023-03-13, **Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**, Feng Li et.al., Paper: [http://arxiv.org/abs/2303.07335v1](http://arxiv.org/abs/2303.07335v1)
+- 2023-03-13, **Constraint of the Nuclear Dissipation Coefficient in Fission of Hypernuclei**, J. L. Rodríguez-Sánchez et.al., Paper: [http://arxiv.org/abs/2303.07323v1](http://arxiv.org/abs/2303.07323v1)
+- 2023-03-13, **Anyon condensation in the string-net models**, Chien-Hung Lin et.al., Paper: [http://arxiv.org/abs/2303.07291v1](http://arxiv.org/abs/2303.07291v1)
+- 2023-03-13, **Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos**, Yubin Hu et.al., Paper: [http://arxiv.org/abs/2303.07224v1](http://arxiv.org/abs/2303.07224v1), Code: **[https://github.com/thu-lyj-lab/ar-seg](https://github.com/thu-lyj-lab/ar-seg)**
+- 2023-03-13, **Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View- and Category-Aware Transformers**, Chengliang Liu et.al., Paper: [http://arxiv.org/abs/2303.07180v1](http://arxiv.org/abs/2303.07180v1)
+- 2023-03-13, **Mirror U-Net: Marrying Multimodal Fission with Multi-task Learning for Semantic Segmentation in Medical Imaging**, Zdravko Marinov et.al., Paper: [http://arxiv.org/abs/2303.07126v1](http://arxiv.org/abs/2303.07126v1)
+- 2023-03-13, **Measuring Multi-Source Redundancy in Factor Graphs**, Jesse Milzman et.al., Paper: [http://arxiv.org/abs/2303.07105v1](http://arxiv.org/abs/2303.07105v1)
+- 2023-03-13, **Nonlinear heat transfer in tokamak fusion reactors**, F. Michael Russell et.al., Paper: [http://arxiv.org/abs/2303.07087v1](http://arxiv.org/abs/2303.07087v1)
+- 2023-03-13, **A Generalized Multi-Modal Fusion Detection Framework**, Leichao Cui et.al., Paper: [http://arxiv.org/abs/2303.07064v1](http://arxiv.org/abs/2303.07064v1)
+- 2023-03-13, **Real-Time Audio-Visual End-to-End Speech Enhancement**, Zirun Zhu et.al., Paper: [http://arxiv.org/abs/2303.07005v1](http://arxiv.org/abs/2303.07005v1)
 - 2023-03-10, **On the Fusion Strategies for Federated Decision Making**, Mert Kayaalp et.al., Paper: [http://arxiv.org/abs/2303.06109v1](http://arxiv.org/abs/2303.06109v1)
 - 2023-03-13, **Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception**, Chunrui Han et.al., Paper: [http://arxiv.org/abs/2303.05970v2](http://arxiv.org/abs/2303.05970v2)
 - 2023-03-10, **Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**, Qian Jiang et.al., Paper: [http://arxiv.org/abs/2303.05952v1](http://arxiv.org/abs/2303.05952v1)
