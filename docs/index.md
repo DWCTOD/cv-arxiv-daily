@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.14
+## Updated on 2023.03.15
 
 ## Video_Classification
 
@@ -1933,8 +1933,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|null|
-|**2023-03-13**|**Constraint of the Nuclear Dissipation Coefficient in Fission of Hypernuclei**|J. L. Rodríguez-Sánchez et.al.|[2303.07323v1](http://arxiv.org/abs/2303.07323v1)|null|
+|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|**[link](https://github.com/idea-research/lite-detr)**|
+|**2023-03-14**|**Constraint of the Nuclear Dissipation Coefficient in Fission of Hypernuclei**|J. L. Rodríguez-Sánchez et.al.|[2303.07323v2](http://arxiv.org/abs/2303.07323v2)|null|
 |**2023-03-13**|**Anyon condensation in the string-net models**|Chien-Hung Lin et.al.|[2303.07291v1](http://arxiv.org/abs/2303.07291v1)|null|
 |**2023-03-13**|**Efficient Semantic Segmentation by Altering Resolutions for Compressed Videos**|Yubin Hu et.al.|[2303.07224v1](http://arxiv.org/abs/2303.07224v1)|**[link](https://github.com/thu-lyj-lab/ar-seg)**|
 |**2023-03-13**|**Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View- and Category-Aware Transformers**|Chengliang Liu et.al.|[2303.07180v1](http://arxiv.org/abs/2303.07180v1)|null|
