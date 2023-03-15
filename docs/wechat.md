@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-14, **Manipulate by Seeing: Creating Manipulation Controllers**, Jianren Wang et.al., Paper: [http://arxiv.org/abs/2303.08135v1](http://arxiv.org/abs/2303.08135v1)
+- 2023-03-14, **InstMove: Instance Motion for Object-centric Video Segmentation**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2303.08132v1](http://arxiv.org/abs/2303.08132v1), Code: **[https://github.com/wjf5203/vnext](https://github.com/wjf5203/vnext)**
+- 2023-03-14, **Blind Video Deflickering by Neural Filtering with a Flawed Atlas**, Chenyang Lei et.al., Paper: [http://arxiv.org/abs/2303.08120v1](http://arxiv.org/abs/2303.08120v1), Code: **[https://github.com/chenyanglei/all-in-one-deflicker](https://github.com/chenyanglei/all-in-one-deflicker)**
+- 2023-03-14, **Homeomorphic Image Registration via Conformal-Invariant Hyperelastic Regularisation**, Jing Zou et.al., Paper: [http://arxiv.org/abs/2303.08113v1](http://arxiv.org/abs/2303.08113v1)
+- 2023-03-14, **Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations**, Hagay Michaeli et.al., Paper: [http://arxiv.org/abs/2303.08085v1](http://arxiv.org/abs/2303.08085v1), Code: **[https://github.com/hmichaeli/alias_free_convnets](https://github.com/hmichaeli/alias_free_convnets)**
+- 2023-03-14, **Point Cloud Diffusion Models for Automatic Implant Generation**, Paul Friedrich et.al., Paper: [http://arxiv.org/abs/2303.08061v1](http://arxiv.org/abs/2303.08061v1)
+- 2023-03-14, **Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2303.08050v1](http://arxiv.org/abs/2303.08050v1)
+- 2023-03-14, **BODEGA: Benchmark for Adversarial Example Generation in Credibility Assessment**, Piotr Przybyła et.al., Paper: [http://arxiv.org/abs/2303.08032v1](http://arxiv.org/abs/2303.08032v1)
+- 2023-03-14, **Optimizing Deep Learning Model Parameters with the Bees Algorithm for Improved Medical Text Classification**, Mai A. Shaaban et.al., Paper: [http://arxiv.org/abs/2303.08021v1](http://arxiv.org/abs/2303.08021v1), Code: **[https://github.com/mai-cs/ml701-ailmentclassification](https://github.com/mai-cs/ml701-ailmentclassification)**
+- 2023-03-14, **Leveraging Pretrained Representations with Task-related Keywords for Alzheimer's Disease Detection**, Jinchao Li et.al., Paper: [http://arxiv.org/abs/2303.08019v1](http://arxiv.org/abs/2303.08019v1)
 - 2023-03-13, **TriDet: Temporal Action Detection with Relative Boundary Modeling**, Dingfeng Shi et.al., Paper: [http://arxiv.org/abs/2303.07347v1](http://arxiv.org/abs/2303.07347v1), Code: **[https://github.com/sssste/tridet](https://github.com/sssste/tridet)**
 - 2023-03-13, **Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**, Cong Cao et.al., Paper: [http://arxiv.org/abs/2303.07327v1](http://arxiv.org/abs/2303.07327v1)
 - 2023-03-13, **Collision Cross-entropy and EM Algorithm for Self-labeled Classification**, Zhongwen Zhang et.al., Paper: [http://arxiv.org/abs/2303.07321v1](http://arxiv.org/abs/2303.07321v1)
@@ -1925,6 +1935,16 @@
 
 ## MultiModal
 
+- 2023-03-14, **Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2303.08050v1](http://arxiv.org/abs/2303.08050v1)
+- 2023-03-14, **You Can Ground Earlier than See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in Compressed Videos**, Xiang Fang et.al., Paper: [http://arxiv.org/abs/2303.07863v1](http://arxiv.org/abs/2303.07863v1)
+- 2023-03-14, **Precise Facial Landmark Detection by Reference Heatmap Transformer**, Jun Wan et.al., Paper: [http://arxiv.org/abs/2303.07840v1](http://arxiv.org/abs/2303.07840v1)
+- 2023-03-14, **Robust Fusion for Bayesian Semantic Mapping**, David Morilla-Cabello et.al., Paper: [http://arxiv.org/abs/2303.07836v1](http://arxiv.org/abs/2303.07836v1)
+- 2023-03-14, **LoG-CAN: local-global Class-aware Network for semantic segmentation of remote sensing images**, Xiaowen Ma et.al., Paper: [http://arxiv.org/abs/2303.07747v1](http://arxiv.org/abs/2303.07747v1)
+- 2023-03-14, **HALOS: Hallucination-free Organ Segmentation after Organ Resection Surgery**, Anne-Marie Rickmann et.al., Paper: [http://arxiv.org/abs/2303.07717v1](http://arxiv.org/abs/2303.07717v1)
+- 2023-03-14, **Freehand 2D Ultrasound Probe Calibration for Image Fusion with 3D MRI/CT**, Yogesh Langhe et.al., Paper: [http://arxiv.org/abs/2303.07714v1](http://arxiv.org/abs/2303.07714v1)
+- 2023-03-14, **3D Face Arbitrary Style Transfer**, Xiangwen Deng et.al., Paper: [http://arxiv.org/abs/2303.07709v1](http://arxiv.org/abs/2303.07709v1)
+- 2023-03-14, **PIEKF-VIWO: Visual-Inertial-Wheel Odometry using Partial Invariant Extended Kalman Filter**, Tong Hua et.al., Paper: [http://arxiv.org/abs/2303.07668v1](http://arxiv.org/abs/2303.07668v1)
+- 2023-03-13, **SuperMask: Generating High-resolution object masks from multi-view, unaligned low-resolution MRIs**, Hanxue Gu et.al., Paper: [http://arxiv.org/abs/2303.07517v1](http://arxiv.org/abs/2303.07517v1)
 - 2023-03-13, **Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**, Feng Li et.al., Paper: [http://arxiv.org/abs/2303.07335v1](http://arxiv.org/abs/2303.07335v1), Code: **[https://github.com/idea-research/lite-detr](https://github.com/idea-research/lite-detr)**
 - 2023-03-14, **Constraint of the Nuclear Dissipation Coefficient in Fission of Hypernuclei**, J. L. Rodríguez-Sánchez et.al., Paper: [http://arxiv.org/abs/2303.07323v2](http://arxiv.org/abs/2303.07323v2)
 - 2023-03-13, **Anyon condensation in the string-net models**, Chien-Hung Lin et.al., Paper: [http://arxiv.org/abs/2303.07291v1](http://arxiv.org/abs/2303.07291v1)
