@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-15**|**DeepMIM: Deep Supervision for Masked Image Modeling**|Sucheng Ren et.al.|[2303.08817v1](http://arxiv.org/abs/2303.08817v1)|null|
+|**2023-03-15**|**BiFormer: Vision Transformer with Bi-Level Routing Attention**|Lei Zhu et.al.|[2303.08810v1](http://arxiv.org/abs/2303.08810v1)|null|
+|**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808v1](http://arxiv.org/abs/2303.08808v1)|null|
+|**2023-03-15**|**Building an Effective Email Spam Classification Model with spaCy**|Kazem Taghandiki et.al.|[2303.08792v1](http://arxiv.org/abs/2303.08792v1)|null|
+|**2023-03-15**|**PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining**|Garrett Thomas et.al.|[2303.08789v1](http://arxiv.org/abs/2303.08789v1)|null|
+|**2023-03-15**|**Exploiting 4D CT Perfusion for segmenting infarcted areas in patients with suspected acute ischemic stroke**|Luca Tomasetti et.al.|[2303.08757v1](http://arxiv.org/abs/2303.08757v1)|null|
+|**2023-03-15**|**2D and 3D CNN-Based Fusion Approach for COVID-19 Severity Prediction from 3D CT-Scans**|Fares Bougourzi et.al.|[2303.08740v1](http://arxiv.org/abs/2303.08740v1)|null|
+|**2023-03-15**|**Evaluating gesture-generation in a large-scale open challenge: The GENEA Challenge 2022**|Taras Kucherenko et.al.|[2303.08737v1](http://arxiv.org/abs/2303.08737v1)|null|
+|**2023-03-15**|**A machine-learning approach to thunderstorm forecasting through post-processing of simulation data**|Kianusch Vahid Yousefnia et.al.|[2303.08736v1](http://arxiv.org/abs/2303.08736v1)|null|
+|**2023-03-15**|**UniCT DMI Solution for 3rd COV19D Competition on COVID-19 Detection trough attention deep learning for CT Scan**|Alessia Rondinella et.al.|[2303.08728v1](http://arxiv.org/abs/2303.08728v1)|null|
 |**2023-03-15**|**Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations**|Jianren Wang et.al.|[2303.08135v2](http://arxiv.org/abs/2303.08135v2)|null|
 |**2023-03-14**|**InstMove: Instance Motion for Object-centric Video Segmentation**|Qihao Liu et.al.|[2303.08132v1](http://arxiv.org/abs/2303.08132v1)|**[link](https://github.com/wjf5203/vnext)**|
 |**2023-03-14**|**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**|Chenyang Lei et.al.|[2303.08120v1](http://arxiv.org/abs/2303.08120v1)|**[link](https://github.com/chenyanglei/all-in-one-deflicker)**|
@@ -1943,6 +1953,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-15**|**Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch**|Aditay Tripathi et.al.|[2303.08784v1](http://arxiv.org/abs/2303.08784v1)|null|
+|**2023-03-15**|**2D and 3D CNN-Based Fusion Approach for COVID-19 Severity Prediction from 3D CT-Scans**|Fares Bougourzi et.al.|[2303.08740v1](http://arxiv.org/abs/2303.08740v1)|null|
+|**2023-03-15**|**Multi-Exposure HDR Composition by Gated Swin Transformer**|Rui Zhou et.al.|[2303.08704v1](http://arxiv.org/abs/2303.08704v1)|null|
+|**2023-03-15**|**SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation**|Siqi Fan et.al.|[2303.08692v1](http://arxiv.org/abs/2303.08692v1)|null|
+|**2023-03-15**|**MSeg3D: Multi-modal 3D Semantic Segmentation for Autonomous Driving**|Jiale Li et.al.|[2303.08600v1](http://arxiv.org/abs/2303.08600v1)|null|
+|**2023-03-15**|**Observation of Periodic Systems: Bridge Centralized Kalman Filtering and Consensus-Based Distributed Filtering**|Jiachen Qian et.al.|[2303.08575v1](http://arxiv.org/abs/2303.08575v1)|null|
+|**2023-03-15**|**UMS-VINS: United Monocular-Stereo Features for Visual-Inertial Tightly Coupled Odometry**|Chaoyang Jiang et.al.|[2303.08550v1](http://arxiv.org/abs/2303.08550v1)|null|
+|**2023-03-15**|**Local Region Perception and Relationship Learning Combined with Feature Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v1](http://arxiv.org/abs/2303.08545v1)|null|
+|**2023-03-15**|**Multi-Modal Facial Expression Recognition with Transformer-Based Fusion Networks and Dynamic Sampling**|Jun-Hwa Kim et.al.|[2303.08419v1](http://arxiv.org/abs/2303.08419v1)|null|
+|**2023-03-15**|**DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification**|Chengliang Liu et.al.|[2303.08358v1](http://arxiv.org/abs/2303.08358v1)|null|
 |**2023-03-14**|**Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images**|Zicheng Zhang et.al.|[2303.08050v1](http://arxiv.org/abs/2303.08050v1)|null|
 |**2023-03-14**|**You Can Ground Earlier than See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in Compressed Videos**|Xiang Fang et.al.|[2303.07863v1](http://arxiv.org/abs/2303.07863v1)|null|
 |**2023-03-14**|**Precise Facial Landmark Detection by Reference Heatmap Transformer**|Jun Wan et.al.|[2303.07840v1](http://arxiv.org/abs/2303.07840v1)|null|
