@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**Toward Super-Resolution for Appearance-Based Gaze Estimation**|Galen O'Shea et.al.|[2303.10151v1](http://arxiv.org/abs/2303.10151v1)|null|
+|**2023-03-17**|**Spectrum-inspired Low-light Image Translation for Saliency Detection**|Kitty Varghese et.al.|[2303.10145v1](http://arxiv.org/abs/2303.10145v1)|null|
+|**2023-03-17**|**GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models**|Tyna Eloundou et.al.|[2303.10130v1](http://arxiv.org/abs/2303.10130v1)|null|
+|**2023-03-17**|**Retrieving false claims on Twitter during the Russia-Ukraine conflict**|Valerio La Gatta et.al.|[2303.10121v1](http://arxiv.org/abs/2303.10121v1)|null|
+|**2023-03-17**|**Causal Discovery from Temporal Data: An Overview and New Perspectives**|Chang Gong et.al.|[2303.10112v1](http://arxiv.org/abs/2303.10112v1)|null|
+|**2023-03-17**|**Unified Mask Embedding and Correspondence Learning for Self-Supervised Video Segmentation**|Liulei Li et.al.|[2303.10100v1](http://arxiv.org/abs/2303.10100v1)|null|
+|**2023-03-17**|**Efficient Neural Generation of 4K Masks for Homogeneous Diffusion Inpainting**|Karl Schrader et.al.|[2303.10096v1](http://arxiv.org/abs/2303.10096v1)|null|
+|**2023-03-17**|**Posterior Estimation Using Deep Learning: A Simulation Study of Compartmental Modeling in Dynamic PET**|Xiaofeng Liu et.al.|[2303.10057v1](http://arxiv.org/abs/2303.10057v1)|null|
+|**2023-03-17**|**Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation**|Kai Ren et.al.|[2303.10049v1](http://arxiv.org/abs/2303.10049v1)|null|
+|**2023-03-17**|**Multi-modal Expression Recognition with Ensemble Method**|Chuanhe Liu et.al.|[2303.10033v1](http://arxiv.org/abs/2303.10033v1)|null|
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|**[link](https://github.com/wgcban/metric-cd)**|
 |**2023-03-17**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
 |**2023-03-16**|**Fast 3D Volumetric Image Reconstruction from 2D MRI Slices by Parallel Processing**|Somoballi Ghoshal et.al.|[2303.09523v1](http://arxiv.org/abs/2303.09523v1)|null|
@@ -1963,6 +1973,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**Refinement for Absolute Pose Regression with Neural Feature Synthesis**|Shuai Chen et.al.|[2303.10087v1](http://arxiv.org/abs/2303.10087v1)|null|
+|**2023-03-17**|**Comments on "Low Q nuclear fusion in a volume heated mixed fuel reactor" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**|K. Lackner et.al.|[2303.10017v1](http://arxiv.org/abs/2303.10017v1)|null|
+|**2023-03-17**|**Reliability of Tumour Classification from Multi-Dimensional DCE-MRI Variables using Data Transformations**|S. V. Notley et.al.|[2303.10014v1](http://arxiv.org/abs/2303.10014v1)|null|
+|**2023-03-17**|**Accreting neutron stars: composition of the upper layers of the inner crust**|Nikolay N. Shchechilin et.al.|[2303.10003v1](http://arxiv.org/abs/2303.10003v1)|null|
+|**2023-03-17**|**On decidable extensions of Propositional Dynamic Logic with Converse**|Daniel Rogozin et.al.|[2303.09948v1](http://arxiv.org/abs/2303.09948v1)|null|
+|**2023-03-17**|**LCE-Calib: Automatic LiDAR-Frame/Event Camera Extrinsic Calibration With A Globally Optimal Solution**|Jianhao Jiao et.al.|[2303.09825v1](http://arxiv.org/abs/2303.09825v1)|**[link](https://github.com/hkustgz-iadc/lcecalib)**|
+|**2023-03-17**|**Adaptive Graph Convolution Module for Salient Object Detection**|Yongwoo Lee et.al.|[2303.09801v1](http://arxiv.org/abs/2303.09801v1)|null|
+|**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
+|**2023-03-17**|**Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions**|Ke Zou et.al.|[2303.09790v1](http://arxiv.org/abs/2303.09790v1)|null|
+|**2023-03-17**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
 |**2023-03-16**|**Fast fusion in a two-dimensional coagulation model**|Iulia Cristian et.al.|[2303.09475v1](http://arxiv.org/abs/2303.09475v1)|null|
 |**2023-03-16**|**Data Roaming and Early Fusion for Composed Image Retrieval**|Matan Levy et.al.|[2303.09429v1](http://arxiv.org/abs/2303.09429v1)|null|
 |**2023-03-16**|**Depth Super-Resolution from Explicit and Implicit High-Frequency Features**|Xin Qiao et.al.|[2303.09307v1](http://arxiv.org/abs/2303.09307v1)|null|
