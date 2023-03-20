@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.03.19
+## Updated on 2023.03.20
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|**[link](https://github.com/wgcban/metric-cd)**|
-|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v1](http://arxiv.org/abs/2303.09535v1)|**[link](https://github.com/chenyangqiqi/fatezero)**|
+|**2023-03-17**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
 |**2023-03-16**|**Fast 3D Volumetric Image Reconstruction from 2D MRI Slices by Parallel Processing**|Somoballi Ghoshal et.al.|[2303.09523v1](http://arxiv.org/abs/2303.09523v1)|null|
 |**2023-03-16**|**MATIS: Masked-Attention Transformers for Surgical Instrument Segmentation**|Nicolás Ayobi et.al.|[2303.09514v1](http://arxiv.org/abs/2303.09514v1)|null|
 |**2023-03-16**|**LDMVFI: Video Frame Interpolation with Latent Diffusion Models**|Duolikun Danier et.al.|[2303.09508v1](http://arxiv.org/abs/2303.09508v1)|null|
