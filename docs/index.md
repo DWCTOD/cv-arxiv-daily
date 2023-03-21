@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion**|Xuxin Cheng et.al.|[2303.11330v1](http://arxiv.org/abs/2303.11330v1)|null|
+|**2023-03-20**|**Over-the-Air Federated Edge Learning with Error-Feedback One-Bit Quantization and Power Control**|Yuding Liu et.al.|[2303.11319v1](http://arxiv.org/abs/2303.11319v1)|null|
+|**2023-03-20**|**Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning**|Weixuan Sun et.al.|[2303.11302v1](http://arxiv.org/abs/2303.11302v1)|null|
+|**2023-03-20**|**Reliability in Semantic Segmentation: Are We on the Right Track?**|Pau de Jorge et.al.|[2303.11298v1](http://arxiv.org/abs/2303.11298v1)|**[link](https://github.com/naver/relis)**|
+|**2023-03-20**|**Resource Saving via Ensemble Techniques for Quantum Neural Networks**|Massimiliano Incudini et.al.|[2303.11283v1](http://arxiv.org/abs/2303.11283v1)|null|
+|**2023-03-20**|**Cascading Hierarchical Networks with Multi-task Balanced Loss for Fine-grained hashing**|Xianxian Zeng et.al.|[2303.11274v1](http://arxiv.org/abs/2303.11274v1)|**[link](https://github.com/kaiba007/fg-cnet)**|
+|**2023-03-20**|**Rethinking the backbone architecture for tiny object detection**|Jinlai Ning et.al.|[2303.11267v1](http://arxiv.org/abs/2303.11267v1)|null|
+|**2023-03-20**|**Robust Imaging of Speed-of-Sound Using Virtual Source Transmission**|Dieter Schweizer et.al.|[2303.11262v1](http://arxiv.org/abs/2303.11262v1)|null|
+|**2023-03-20**|**Bronchoscopic video synchronization for interactive multimodal inspection of bronchial lesions**|Qi Chang et.al.|[2303.11258v1](http://arxiv.org/abs/2303.11258v1)|null|
+|**2023-03-20**|**Towards End-to-End Generative Modeling of Long Videos with Memory-Efficient Bidirectional Transformers**|Jaehoon Yoo et.al.|[2303.11251v1](http://arxiv.org/abs/2303.11251v1)|**[link](https://github.com/Ugness/MeBT)**|
 |**2023-03-17**|**Toward Super-Resolution for Appearance-Based Gaze Estimation**|Galen O'Shea et.al.|[2303.10151v1](http://arxiv.org/abs/2303.10151v1)|null|
 |**2023-03-17**|**Spectrum-inspired Low-light Image Translation for Saliency Detection**|Kitty Varghese et.al.|[2303.10145v1](http://arxiv.org/abs/2303.10145v1)|null|
 |**2023-03-20**|**GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models**|Tyna Eloundou et.al.|[2303.10130v2](http://arxiv.org/abs/2303.10130v2)|null|
@@ -1973,6 +1983,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Scene Graph Based Fusion Network For Image-Text Retrieval**|Guoliang Wang et.al.|[2303.11090v1](http://arxiv.org/abs/2303.11090v1)|null|
+|**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089v1](http://arxiv.org/abs/2303.11089v1)|null|
+|**2023-03-20**|**Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving**|Yinpeng Dong et.al.|[2303.11040v1](http://arxiv.org/abs/2303.11040v1)|null|
+|**2023-03-20**|**A Dual-branch Self-supervised Representation Learning Framework for Tumour Segmentation in Whole Slide Images**|Hao Wang et.al.|[2303.11019v1](http://arxiv.org/abs/2303.11019v1)|null|
+|**2023-03-20**|**Learning Multi-Stage Multi-Grained Semantic Embeddings for E-Commerce Search**|Binbin Wang et.al.|[2303.11009v1](http://arxiv.org/abs/2303.11009v1)|null|
+|**2023-03-20**|**Late Meta-learning Fusion Using Representation Learning for Time Series Forecasting**|Terence L. van Zyl et.al.|[2303.11000v1](http://arxiv.org/abs/2303.11000v1)|null|
+|**2023-03-20**|**VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection**|Zhe Wang et.al.|[2303.10975v1](http://arxiv.org/abs/2303.10975v1)|**[link](https://github.com/bosszhe/vimi)**|
+|**2023-03-20**|**On-the-fly Text Retrieval for End-to-End ASR Adaptation**|Bolaji Yusuf et.al.|[2303.10942v1](http://arxiv.org/abs/2303.10942v1)|null|
+|**2023-03-20**|**Boosting Weakly Supervised Object Detection using Fusion and Priors from Hallucinated Depth**|Cagri Gungor et.al.|[2303.10937v1](http://arxiv.org/abs/2303.10937v1)|null|
+|**2023-03-20**|**Facial Affective Analysis based on MAE and Multi-modal Information for 5th ABAW Competition**|Wei Zhang et.al.|[2303.10849v1](http://arxiv.org/abs/2303.10849v1)|null|
 |**2023-03-17**|**Refinement for Absolute Pose Regression with Neural Feature Synthesis**|Shuai Chen et.al.|[2303.10087v1](http://arxiv.org/abs/2303.10087v1)|null|
 |**2023-03-17**|**Comments on "Low Q nuclear fusion in a volume heated mixed fuel reactor" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**|K. Lackner et.al.|[2303.10017v1](http://arxiv.org/abs/2303.10017v1)|null|
 |**2023-03-17**|**Reliability of Tumour Classification from Multi-Dimensional DCE-MRI Variables using Data Transformations**|S. V. Notley et.al.|[2303.10014v1](http://arxiv.org/abs/2303.10014v1)|null|
