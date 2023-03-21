@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.20
+## Updated on 2023.03.21
 
 ## Video_Classification
 
@@ -10,13 +10,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-17**|**Toward Super-Resolution for Appearance-Based Gaze Estimation**|Galen O'Shea et.al.|[2303.10151v1](http://arxiv.org/abs/2303.10151v1)|null|
 |**2023-03-17**|**Spectrum-inspired Low-light Image Translation for Saliency Detection**|Kitty Varghese et.al.|[2303.10145v1](http://arxiv.org/abs/2303.10145v1)|null|
-|**2023-03-17**|**GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models**|Tyna Eloundou et.al.|[2303.10130v1](http://arxiv.org/abs/2303.10130v1)|null|
+|**2023-03-20**|**GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models**|Tyna Eloundou et.al.|[2303.10130v2](http://arxiv.org/abs/2303.10130v2)|null|
 |**2023-03-17**|**Retrieving false claims on Twitter during the Russia-Ukraine conflict**|Valerio La Gatta et.al.|[2303.10121v1](http://arxiv.org/abs/2303.10121v1)|null|
 |**2023-03-17**|**Causal Discovery from Temporal Data: An Overview and New Perspectives**|Chang Gong et.al.|[2303.10112v1](http://arxiv.org/abs/2303.10112v1)|null|
 |**2023-03-17**|**Unified Mask Embedding and Correspondence Learning for Self-Supervised Video Segmentation**|Liulei Li et.al.|[2303.10100v1](http://arxiv.org/abs/2303.10100v1)|null|
 |**2023-03-17**|**Efficient Neural Generation of 4K Masks for Homogeneous Diffusion Inpainting**|Karl Schrader et.al.|[2303.10096v1](http://arxiv.org/abs/2303.10096v1)|null|
 |**2023-03-17**|**Posterior Estimation Using Deep Learning: A Simulation Study of Compartmental Modeling in Dynamic PET**|Xiaofeng Liu et.al.|[2303.10057v1](http://arxiv.org/abs/2303.10057v1)|null|
-|**2023-03-17**|**Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation**|Kai Ren et.al.|[2303.10049v1](http://arxiv.org/abs/2303.10049v1)|null|
+|**2023-03-20**|**Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation**|Kai Ren et.al.|[2303.10049v2](http://arxiv.org/abs/2303.10049v2)|null|
 |**2023-03-17**|**Multi-modal Expression Recognition with Ensemble Method**|Chuanhe Liu et.al.|[2303.10033v1](http://arxiv.org/abs/2303.10033v1)|null|
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|**[link](https://github.com/wgcban/metric-cd)**|
 |**2023-03-17**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
