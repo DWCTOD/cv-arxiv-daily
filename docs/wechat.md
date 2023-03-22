@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-21, **Natural Language-Assisted Sign Language Recognition**, Ronglai Zuo et.al., Paper: [http://arxiv.org/abs/2303.12080v1](http://arxiv.org/abs/2303.12080v1), Code: **[https://github.com/FangyunWei/SLRT](https://github.com/FangyunWei/SLRT)**
+- 2023-03-21, **OmniTracker: Unifying Object Tracking by Tracking-with-Detection**, Junke Wang et.al., Paper: [http://arxiv.org/abs/2303.12079v1](http://arxiv.org/abs/2303.12079v1)
+- 2023-03-21, **Two-shot Video Object Segmentation**, Kun Yan et.al., Paper: [http://arxiv.org/abs/2303.12078v1](http://arxiv.org/abs/2303.12078v1)
+- 2023-03-21, **Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play**, Irmak Guzey et.al., Paper: [http://arxiv.org/abs/2303.12076v1](http://arxiv.org/abs/2303.12076v1)
+- 2023-03-21, **3D Mitochondria Instance Segmentation with Spatio-Temporal Transformers**, Omkar Thawakar et.al., Paper: [http://arxiv.org/abs/2303.12073v1](http://arxiv.org/abs/2303.12073v1)
+- 2023-03-21, **Machine Learning for Brain Disorders: Transformers and Visual Transformers**, Robin Courant et.al., Paper: [http://arxiv.org/abs/2303.12068v1](http://arxiv.org/abs/2303.12068v1)
+- 2023-03-21, **VideoXum: Cross-modal Visual and Textural Summarization of Videos**, Jingyang Lin et.al., Paper: [http://arxiv.org/abs/2303.12060v1](http://arxiv.org/abs/2303.12060v1)
+- 2023-03-21, **Motion Matters: Neural Motion Transfer for Better Camera Physiological Sensing**, Akshay Paruchuri et.al., Paper: [http://arxiv.org/abs/2303.12059v1](http://arxiv.org/abs/2303.12059v1)
+- 2023-03-21, **Influencer Backdoor Attack on Semantic Segmentation**, Haoheng Lan et.al., Paper: [http://arxiv.org/abs/2303.12054v1](http://arxiv.org/abs/2303.12054v1)
+- 2023-03-21, **Calibration of the convective parameters in stellar pulsation hydrocodes**, Gábor B. Kovács et.al., Paper: [http://arxiv.org/abs/2303.12049v1](http://arxiv.org/abs/2303.12049v1)
 - 2023-03-20, **Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion**, Xuxin Cheng et.al., Paper: [http://arxiv.org/abs/2303.11330v1](http://arxiv.org/abs/2303.11330v1)
 - 2023-03-20, **Over-the-Air Federated Edge Learning with Error-Feedback One-Bit Quantization and Power Control**, Yuding Liu et.al., Paper: [http://arxiv.org/abs/2303.11319v1](http://arxiv.org/abs/2303.11319v1)
 - 2023-03-20, **Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning**, Weixuan Sun et.al., Paper: [http://arxiv.org/abs/2303.11302v1](http://arxiv.org/abs/2303.11302v1)
@@ -1975,6 +1985,14 @@
 
 ## MultiModal
 
+- 2023-03-21, **Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion**, Haisong Liu et.al., Paper: [http://arxiv.org/abs/2303.12017v1](http://arxiv.org/abs/2303.12017v1), Code: **[https://github.com/mcg-nju/camliflow](https://github.com/mcg-nju/camliflow)**
+- 2023-03-21, **Pieri formulas, higher level Demazure crystals and numerical multiplicities of excellent filtrations**, Deniz Kus et.al., Paper: [http://arxiv.org/abs/2303.11999v1](http://arxiv.org/abs/2303.11999v1)
+- 2023-03-21, **Penalty-Based Imitation Learning With Cross Semantics Generation Sensor Fusion for Autonomous Driving**, Hongkuan Zhou et.al., Paper: [http://arxiv.org/abs/2303.11888v1](http://arxiv.org/abs/2303.11888v1)
+- 2023-03-21, **Frobenius algebras associated with the $α$-induction for equivariantly braided tensor categories**, Mizuki Oikawa et.al., Paper: [http://arxiv.org/abs/2303.11845v1](http://arxiv.org/abs/2303.11845v1)
+- 2023-03-21, **A High-Frequency Focused Network for Lightweight Single Image Super-Resolution**, Xiaotian Weng et.al., Paper: [http://arxiv.org/abs/2303.11701v1](http://arxiv.org/abs/2303.11701v1)
+- 2023-03-21, **Mitigating climate and health impact of small-scale kiln industry using multi-spectral classifier and deep learning**, Usman Nazir et.al., Paper: [http://arxiv.org/abs/2303.11654v1](http://arxiv.org/abs/2303.11654v1)
+- 2023-03-20, **Temperature Separation under Compression of Two-Temperature Plasma**, H. Fetsch et.al., Paper: [http://arxiv.org/abs/2303.11415v1](http://arxiv.org/abs/2303.11415v1)
+- 2023-03-20, **Embedded surface invariants via the Broda-Petit construction**, Ik Jae Lee et.al., Paper: [http://arxiv.org/abs/2303.11380v1](http://arxiv.org/abs/2303.11380v1)
 - 2023-03-20, **Scene Graph Based Fusion Network For Image-Text Retrieval**, Guoliang Wang et.al., Paper: [http://arxiv.org/abs/2303.11090v1](http://arxiv.org/abs/2303.11090v1)
 - 2023-03-20, **EmoTalk: Speech-driven emotional disentanglement for 3D face animation**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2303.11089v1](http://arxiv.org/abs/2303.11089v1)
 - 2023-03-20, **Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving**, Yinpeng Dong et.al., Paper: [http://arxiv.org/abs/2303.11040v1](http://arxiv.org/abs/2303.11040v1)
