@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**|Yiting Cheng et.al.|[2303.12793v1](http://arxiv.org/abs/2303.12793v1)|**[link](https://github.com/FangyunWei/SLRT)**|
+|**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
+|**2023-03-22**|**Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation**|Xiangtai Li et.al.|[2303.12782v1](http://arxiv.org/abs/2303.12782v1)|**[link](https://github.com/lxtgh/tube-link)**|
+|**2023-03-22**|**Active particles with delayed attractions form quaking crystallites**|Pin-Chuan Chen et.al.|[2303.12780v1](http://arxiv.org/abs/2303.12780v1)|null|
+|**2023-03-22**|**LSTM-based Video Quality Prediction Accounting for Temporal Distortions in Videoconferencing Calls**|Gabriel Mittag et.al.|[2303.12761v1](http://arxiv.org/abs/2303.12761v1)|**[link](https://github.com/microsoft/video_call_mos)**|
+|**2023-03-22**|**Uncertainty Aware Active Learning for Reconfiguration of Pre-trained Deep Object-Detection Networks for New Target Domains**|Jiaming Na et.al.|[2303.12760v1](http://arxiv.org/abs/2303.12760v1)|null|
+|**2023-03-22**|**Multiscale Relevance of Natural Images**|Samy Lakhal et.al.|[2303.12717v1](http://arxiv.org/abs/2303.12717v1)|null|
+|**2023-03-22**|**Automatic Identification of Crystal Structures and Interfaces via Artificial-Intelligence-based Electron Microscopy**|Andreas Leitherer et.al.|[2303.12702v1](http://arxiv.org/abs/2303.12702v1)|null|
+|**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688v1](http://arxiv.org/abs/2303.12688v1)|null|
+|**2023-03-22**|**The miniJPAS survey quasar selection III: Classification with artificial neural networks and hybridisation**|G. Martínez-Solaeche et.al.|[2303.12684v1](http://arxiv.org/abs/2303.12684v1)|null|
 |**2023-03-21**|**Natural Language-Assisted Sign Language Recognition**|Ronglai Zuo et.al.|[2303.12080v1](http://arxiv.org/abs/2303.12080v1)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2023-03-21**|**OmniTracker: Unifying Object Tracking by Tracking-with-Detection**|Junke Wang et.al.|[2303.12079v1](http://arxiv.org/abs/2303.12079v1)|null|
 |**2023-03-21**|**Two-shot Video Object Segmentation**|Kun Yan et.al.|[2303.12078v1](http://arxiv.org/abs/2303.12078v1)|null|
@@ -1989,6 +1999,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
+|**2023-03-22**|**Uni-Fusion: Universal Continuous Mapping**|Yijun Yuan et.al.|[2303.12678v1](http://arxiv.org/abs/2303.12678v1)|null|
+|**2023-03-22**|**Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding**|Ziyang Yuan et.al.|[2303.12326v1](http://arxiv.org/abs/2303.12326v1)|null|
+|**2023-03-22**|**Exploring Turkish Speech Recognition via Hybrid CTC/Attention Architecture and Multi-feature Fusion Network**|Zeyu Ren et.al.|[2303.12300v1](http://arxiv.org/abs/2303.12300v1)|null|
+|**2023-03-21**|**Neutron Skin Thickness Dependence of Astrophysical $S$-factor**|T. Ghosh et.al.|[2303.12156v1](http://arxiv.org/abs/2303.12156v1)|null|
 |**2023-03-21**|**Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion**|Haisong Liu et.al.|[2303.12017v1](http://arxiv.org/abs/2303.12017v1)|**[link](https://github.com/mcg-nju/camliflow)**|
 |**2023-03-21**|**Pieri formulas, higher level Demazure crystals and numerical multiplicities of excellent filtrations**|Deniz Kus et.al.|[2303.11999v1](http://arxiv.org/abs/2303.11999v1)|null|
 |**2023-03-21**|**Penalty-Based Imitation Learning With Cross Semantics Generation Sensor Fusion for Autonomous Driving**|Hongkuan Zhou et.al.|[2303.11888v1](http://arxiv.org/abs/2303.11888v1)|null|
