@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-23, **Learning and Verification of Task Structure in Instructional Videos**, Medhini Narasimhan et.al., Paper: [http://arxiv.org/abs/2303.13519v1](http://arxiv.org/abs/2303.13519v1)
+- 2023-03-23, **DreamBooth3D: Subject-Driven Text-to-3D Generation**, Amit Raj et.al., Paper: [http://arxiv.org/abs/2303.13508v1](http://arxiv.org/abs/2303.13508v1)
+- 2023-03-23, **A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition**, Andong Deng et.al., Paper: [http://arxiv.org/abs/2303.13505v1](http://arxiv.org/abs/2303.13505v1), Code: **[https://github.com/andongdeng/bear](https://github.com/andongdeng/bear)**
+- 2023-03-23, **ReBotNet: Fast Real-time Video Enhancement**, Jeya Maria Jose Valanarasu et.al., Paper: [http://arxiv.org/abs/2303.13504v1](http://arxiv.org/abs/2303.13504v1)
+- 2023-03-23, **TriPlaneNet: An Encoder for EG3D Inversion**, Ananta R. Bhattarai et.al., Paper: [http://arxiv.org/abs/2303.13497v1](http://arxiv.org/abs/2303.13497v1)
+- 2023-03-23, **The effectiveness of MAE pre-pretraining for billion-scale pretraining**, Mannat Singh et.al., Paper: [http://arxiv.org/abs/2303.13496v1](http://arxiv.org/abs/2303.13496v1)
+- 2023-03-23, **The strength of a simplex is the key to a continuous isometry classification of Euclidean clouds of unlabelled points**, Vitaliy Kurlin et.al., Paper: [http://arxiv.org/abs/2303.13486v1](http://arxiv.org/abs/2303.13486v1)
+- 2023-03-23, **TactoFind: A Tactile Only System for Object Retrieval**, Sameer Pai et.al., Paper: [http://arxiv.org/abs/2303.13482v1](http://arxiv.org/abs/2303.13482v1)
+- 2023-03-23, **Plotting Behind the Scenes: Towards Learnable Game Engines**, Willi Menapace et.al., Paper: [http://arxiv.org/abs/2303.13472v1](http://arxiv.org/abs/2303.13472v1)
+- 2023-03-23, **Egocentric Audio-Visual Object Localization**, Chao Huang et.al., Paper: [http://arxiv.org/abs/2303.13471v1](http://arxiv.org/abs/2303.13471v1), Code: **[https://github.com/wikichao/ego-av-loc](https://github.com/wikichao/ego-av-loc)**
 - 2023-03-22, **CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**, Yiting Cheng et.al., Paper: [http://arxiv.org/abs/2303.12793v1](http://arxiv.org/abs/2303.12793v1), Code: **[https://github.com/FangyunWei/SLRT](https://github.com/FangyunWei/SLRT)**
 - 2023-03-22, **SHERF: Generalizable Human NeRF from a Single Image**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2303.12791v1](http://arxiv.org/abs/2303.12791v1), Code: **[https://github.com/skhu101/sherf](https://github.com/skhu101/sherf)**
 - 2023-03-22, **Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation**, Xiangtai Li et.al., Paper: [http://arxiv.org/abs/2303.12782v1](http://arxiv.org/abs/2303.12782v1), Code: **[https://github.com/lxtgh/tube-link](https://github.com/lxtgh/tube-link)**
@@ -1995,6 +2005,12 @@
 
 ## MultiModal
 
+- 2023-03-23, **Pyramid Multi-branch Fusion DCNN with Multi-Head Self-Attention for Mandarin Speech Recognition**, Kai Liu et.al., Paper: [http://arxiv.org/abs/2303.13243v1](http://arxiv.org/abs/2303.13243v1)
+- 2023-03-23, **Characterization of the breakup channel in the asymmetric systems $^{40,48}$Ca+$^{12}$C at 25 and 40 MeV/nucleon**, S. Piantelli et.al., Paper: [http://arxiv.org/abs/2303.13215v1](http://arxiv.org/abs/2303.13215v1)
+- 2023-03-23, **Examination of promising reactions with $^{241}$Am and $^{244}$Cm targets for the synthesis of new superheavy elements within the dinuclear system model with a dynamical potential energy surface**, Xiang-Quan Deng et.al., Paper: [http://arxiv.org/abs/2303.13107v1](http://arxiv.org/abs/2303.13107v1)
+- 2023-03-23, **SIEDOB: Semantic Image Editing by Disentangling Object and Background**, Wuyang Luo et.al., Paper: [http://arxiv.org/abs/2303.13062v1](http://arxiv.org/abs/2303.13062v1), Code: **[https://github.com/wuyangluo/siedob](https://github.com/wuyangluo/siedob)**
+- 2023-03-23, **NVAutoNet: Fast and Accurate 360$^{\circ}$ 3D Perception For Self Driving**, Trung Pham et.al., Paper: [http://arxiv.org/abs/2303.12976v1](http://arxiv.org/abs/2303.12976v1)
+- 2023-03-22, **Construction of 2-local finite groups of a type studied by Solomon and Benson: Correction**, Bob Oliver et.al., Paper: [http://arxiv.org/abs/2303.12844v1](http://arxiv.org/abs/2303.12844v1)
 - 2023-03-22, **SHERF: Generalizable Human NeRF from a Single Image**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2303.12791v1](http://arxiv.org/abs/2303.12791v1), Code: **[https://github.com/skhu101/sherf](https://github.com/skhu101/sherf)**
 - 2023-03-22, **Uni-Fusion: Universal Continuous Mapping**, Yijun Yuan et.al., Paper: [http://arxiv.org/abs/2303.12678v1](http://arxiv.org/abs/2303.12678v1)
 - 2023-03-22, **Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding**, Ziyang Yuan et.al., Paper: [http://arxiv.org/abs/2303.12326v1](http://arxiv.org/abs/2303.12326v1)
