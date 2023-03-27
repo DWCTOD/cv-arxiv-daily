@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization**|Pavan Kumar Anasosalu Vasu et.al.|[2303.14189v1](http://arxiv.org/abs/2303.14189v1)|null|
+|**2023-03-24**|**BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects**|Bowen Wen et.al.|[2303.14158v1](http://arxiv.org/abs/2303.14158v1)|null|
+|**2023-03-24**|**Adversarial Attack and Defense for Medical Image Analysis: Methods and Applications**|Junhao Dong et.al.|[2303.14133v1](http://arxiv.org/abs/2303.14133v1)|null|
+|**2023-03-24**|**CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images**|Jordan J. Bird et.al.|[2303.14126v1](http://arxiv.org/abs/2303.14126v1)|null|
+|**2023-03-24**|**Towards Scalable Neural Representation for Diverse Videos**|Bo He et.al.|[2303.14124v1](http://arxiv.org/abs/2303.14124v1)|null|
+|**2023-03-24**|**Prediction of the morphological evolution of a splashing drop using an encoder-decoder**|Jingzu Yee et.al.|[2303.14109v1](http://arxiv.org/abs/2303.14109v1)|null|
+|**2023-03-24**|**Parallel and totally umbilical hypersurfaces of the four-dimensional Thurston geometry $\text{Sol}^4_0$**|Marie D'haene et.al.|[2303.14105v1](http://arxiv.org/abs/2303.14105v1)|null|
+|**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095v1](http://arxiv.org/abs/2303.14095v1)|**[link](https://github.com/zafirshi/panovpr)**|
+|**2023-03-24**|**CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis**|Lan Jiang et.al.|[2303.14081v1](http://arxiv.org/abs/2303.14081v1)|null|
+|**2023-03-24**|**The ImSPOC snapshot imaging spectrometer: image formation model and device characterization**|Daniele Picone et.al.|[2303.14076v1](http://arxiv.org/abs/2303.14076v1)|null|
 |**2023-03-23**|**Learning and Verification of Task Structure in Instructional Videos**|Medhini Narasimhan et.al.|[2303.13519v1](http://arxiv.org/abs/2303.13519v1)|null|
 |**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v1](http://arxiv.org/abs/2303.13508v1)|null|
 |**2023-03-23**|**A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition**|Andong Deng et.al.|[2303.13505v1](http://arxiv.org/abs/2303.13505v1)|**[link](https://github.com/andongdeng/bear)**|
@@ -2013,6 +2023,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**CF-Font: Content Fusion for Few-shot Font Generation**|Chi Wang et.al.|[2303.14017v1](http://arxiv.org/abs/2303.14017v1)|**[link](https://github.com/wangchi95/cf-font)**|
+|**2023-03-24**|**Knowledge Graphs: Opportunities and Challenges**|Ciyuan Peng et.al.|[2303.13948v1](http://arxiv.org/abs/2303.13948v1)|null|
+|**2023-03-24**|**Multimodal Adaptive Fusion of Face and Gait Features using Keyless attention based Deep Neural Networks for Human Identification**|Ashwin Prakash et.al.|[2303.13814v1](http://arxiv.org/abs/2303.13814v1)|null|
+|**2023-03-24**|**Evidence-aware multi-modal data fusion and its application to total knee replacement prediction**|Xinwen Liu et.al.|[2303.13810v1](http://arxiv.org/abs/2303.13810v1)|null|
+|**2023-03-24**|**PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution**|Hansheng Guo et.al.|[2303.13807v1](http://arxiv.org/abs/2303.13807v1)|null|
+|**2023-03-24**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v1](http://arxiv.org/abs/2303.13767v1)|null|
+|**2023-03-23**|**Search for heavy long-lived multi-charged particles in the full LHC Run 2 $pp$ collision data at $\sqrt{s}$ = 13 TeV using the ATLAS detector**|ATLAS Collaboration et.al.|[2303.13613v1](http://arxiv.org/abs/2303.13613v1)|null|
 |**2023-03-23**|**Pyramid Multi-branch Fusion DCNN with Multi-Head Self-Attention for Mandarin Speech Recognition**|Kai Liu et.al.|[2303.13243v1](http://arxiv.org/abs/2303.13243v1)|null|
 |**2023-03-23**|**Characterization of the breakup channel in the asymmetric systems $^{40,48}$Ca+$^{12}$C at 25 and 40 MeV/nucleon**|S. Piantelli et.al.|[2303.13215v1](http://arxiv.org/abs/2303.13215v1)|null|
 |**2023-03-23**|**Examination of promising reactions with $^{241}$Am and $^{244}$Cm targets for the synthesis of new superheavy elements within the dinuclear system model with a dynamical potential energy surface**|Xiang-Quan Deng et.al.|[2303.13107v1](http://arxiv.org/abs/2303.13107v1)|null|
