@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-03-27, **GeoNet: Benchmarking Unsupervised Adaptation across Geographies**, Tarun Kalluri et.al., Paper: [http://arxiv.org/abs/2303.15443v1](http://arxiv.org/abs/2303.15443v1)
+- 2023-03-27, **Zero-shot Model Diagnosis**, Jinqi Luo et.al., Paper: [http://arxiv.org/abs/2303.15441v1](http://arxiv.org/abs/2303.15441v1)
+- 2023-03-27, **TextMI: Textualize Multimodal Information for Integrating Non-verbal Cues in Pre-trained Language Models**, Md Kamrul Hasan et.al., Paper: [http://arxiv.org/abs/2303.15430v1](http://arxiv.org/abs/2303.15430v1)
+- 2023-03-27, **JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2303.15427v1](http://arxiv.org/abs/2303.15427v1)
+- 2023-03-27, **ACAT: Adversarial Counterfactual Attention for Classification and Detection in Medical Imaging**, Alessandro Fontanella et.al., Paper: [http://arxiv.org/abs/2303.15421v1](http://arxiv.org/abs/2303.15421v1)
+- 2023-03-27, **3D Video Object Detection with Learnable Object-Centric Global Optimization**, Jiawei He et.al., Paper: [http://arxiv.org/abs/2303.15416v1](http://arxiv.org/abs/2303.15416v1), Code: **[https://github.com/jiaweihe1996/ba-det](https://github.com/jiaweihe1996/ba-det)**
+- 2023-03-27, **Classifier Robustness Enhancement Via Test-Time Transformation**, Tsachi Blau et.al., Paper: [http://arxiv.org/abs/2303.15409v1](http://arxiv.org/abs/2303.15409v1)
+- 2023-03-27, **Generalizable Neural Voxels for Fast Human Radiance Fields**, Taoran Yi et.al., Paper: [http://arxiv.org/abs/2303.15387v1](http://arxiv.org/abs/2303.15387v1)
+- 2023-03-27, **List Online Classification**, Shay Moran et.al., Paper: [http://arxiv.org/abs/2303.15383v1](http://arxiv.org/abs/2303.15383v1)
+- 2023-03-27, **Quantum-inspired classification based on quantum state discrimination**, Emmanuel Zambrini Cruzeiro et.al., Paper: [http://arxiv.org/abs/2303.15353v1](http://arxiv.org/abs/2303.15353v1)
 - 2023-03-24, **FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization**, Pavan Kumar Anasosalu Vasu et.al., Paper: [http://arxiv.org/abs/2303.14189v1](http://arxiv.org/abs/2303.14189v1)
 - 2023-03-24, **BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects**, Bowen Wen et.al., Paper: [http://arxiv.org/abs/2303.14158v1](http://arxiv.org/abs/2303.14158v1)
 - 2023-03-24, **Adversarial Attack and Defense for Medical Image Analysis: Methods and Applications**, Junhao Dong et.al., Paper: [http://arxiv.org/abs/2303.14133v1](http://arxiv.org/abs/2303.14133v1)
@@ -2015,6 +2025,16 @@
 
 ## MultiModal
 
+- 2023-03-27, **D-Mag: a laboratory for studying plasma physics and diagnostics in strong magnetic fields**, Bartholomaeaus Jagielski et.al., Paper: [http://arxiv.org/abs/2303.15174v1](http://arxiv.org/abs/2303.15174v1)
+- 2023-03-27, **On the relation of the frame-related operators of fusion frame systems**, Lukas Köhldorfer et.al., Paper: [http://arxiv.org/abs/2303.15129v1](http://arxiv.org/abs/2303.15129v1)
+- 2023-03-27, **Automatic breach detection during spine pedicle drilling based on vibroacoustic sensing**, Aidana Massalimova et.al., Paper: [http://arxiv.org/abs/2303.15114v1](http://arxiv.org/abs/2303.15114v1)
+- 2023-03-27, **UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View**, Shengchao Zhou et.al., Paper: [http://arxiv.org/abs/2303.15083v1](http://arxiv.org/abs/2303.15083v1), Code: **[https://github.com/megvii-research/cvpr2023-unidistill](https://github.com/megvii-research/cvpr2023-unidistill)**
+- 2023-03-26, **On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks**, HyunJun Jung et.al., Paper: [http://arxiv.org/abs/2303.14840v1](http://arxiv.org/abs/2303.14840v1)
+- 2023-03-26, **SEM-POS: Grammatically and Semantically Correct Video Captioning**, Asmar Nadeem et.al., Paper: [http://arxiv.org/abs/2303.14829v1](http://arxiv.org/abs/2303.14829v1)
+- 2023-03-26, **RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning**, Yabin Zhu et.al., Paper: [http://arxiv.org/abs/2303.14778v1](http://arxiv.org/abs/2303.14778v1)
+- 2023-03-26, **Exploring Multimodal Sentiment Analysis via CBAM Attention and Double-layer BiLSTM Architecture**, Huiru Wang et.al., Paper: [http://arxiv.org/abs/2303.14708v1](http://arxiv.org/abs/2303.14708v1)
+- 2023-03-26, **Control of synaptic plasticity via the fusion of reinforcement learning and unsupervised learning in neural networks**, Mohammad Modiri et.al., Paper: [http://arxiv.org/abs/2303.14705v1](http://arxiv.org/abs/2303.14705v1)
+- 2023-03-26, **Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation**, Tianli Zhang et.al., Paper: [http://arxiv.org/abs/2303.14666v1](http://arxiv.org/abs/2303.14666v1)
 - 2023-03-24, **CF-Font: Content Fusion for Few-shot Font Generation**, Chi Wang et.al., Paper: [http://arxiv.org/abs/2303.14017v1](http://arxiv.org/abs/2303.14017v1), Code: **[https://github.com/wangchi95/cf-font](https://github.com/wangchi95/cf-font)**
 - 2023-03-24, **Knowledge Graphs: Opportunities and Challenges**, Ciyuan Peng et.al., Paper: [http://arxiv.org/abs/2303.13948v1](http://arxiv.org/abs/2303.13948v1)
 - 2023-03-24, **Multimodal Adaptive Fusion of Face and Gait Features using Keyless attention based Deep Neural Networks for Human Identification**, Ashwin Prakash et.al., Paper: [http://arxiv.org/abs/2303.13814v1](http://arxiv.org/abs/2303.13814v1)
