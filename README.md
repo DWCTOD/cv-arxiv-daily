@@ -1,4 +1,4 @@
-## Updated on 2023.03.27
+## Updated on 2023.03.28
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@
 |**2023-03-24**|**Parallel and totally umbilical hypersurfaces of the four-dimensional Thurston geometry $\text{Sol}^4_0$**|Marie D'haene et.al.|[2303.14105v1](http://arxiv.org/abs/2303.14105v1)|null|
 |**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095v1](http://arxiv.org/abs/2303.14095v1)|**[link](https://github.com/zafirshi/panovpr)**|
 |**2023-03-24**|**CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis**|Lan Jiang et.al.|[2303.14081v1](http://arxiv.org/abs/2303.14081v1)|null|
-|**2023-03-24**|**The ImSPOC snapshot imaging spectrometer: image formation model and device characterization**|Daniele Picone et.al.|[2303.14076v1](http://arxiv.org/abs/2303.14076v1)|null|
+|**2023-03-27**|**The ImSPOC snapshot imaging spectrometer: image formation model and device characterization**|Daniele Picone et.al.|[2303.14076v2](http://arxiv.org/abs/2303.14076v2)|**[link](https://github.com/danaroth83/irca)**|
 |**2023-03-23**|**Learning and Verification of Task Structure in Instructional Videos**|Medhini Narasimhan et.al.|[2303.13519v1](http://arxiv.org/abs/2303.13519v1)|null|
 |**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v1](http://arxiv.org/abs/2303.13508v1)|null|
 |**2023-03-23**|**A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition**|Andong Deng et.al.|[2303.13505v1](http://arxiv.org/abs/2303.13505v1)|**[link](https://github.com/andongdeng/bear)**|
