@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**Natural Selection Favors AIs over Humans**|Dan Hendrycks et.al.|[2303.16200v1](http://arxiv.org/abs/2303.16200v1)|null|
+|**2023-03-28**|**Forecasting localized weather impacts on vegetation as seen from space with meteo-guided video prediction**|Vitus Benson et.al.|[2303.16198v1](http://arxiv.org/abs/2303.16198v1)|**[link](https://github.com/earthnet2021/earthnet-models-pytorch)**|
+|**2023-03-28**|**Automorphisms of del Pezzo surfaces in odd characteristic**|Igor Dolgachev et.al.|[2303.16170v1](http://arxiv.org/abs/2303.16170v1)|null|
+|**2023-03-28**|**Comparison of HDR quality metrics in Per-Clip Lagrangian multiplier optimisation with AV1**|Vibhoothi et.al.|[2303.16163v1](http://arxiv.org/abs/2303.16163v1)|**[link](https://gitlab.com/mindfreeze/icme2023)**|
+|**2023-03-28**|**A Comparative Study of Federated Learning Models for COVID-19 Detection**|Erfan Darzidehkalani et.al.|[2303.16141v1](http://arxiv.org/abs/2303.16141v1)|null|
+|**2023-03-28**|**XRBcats: Galactic High Mass X-ray Binary Catalogue**|Marvin Neumann et.al.|[2303.16137v1](http://arxiv.org/abs/2303.16137v1)|null|
+|**2023-03-28**|**Transformer and Snowball Graph Convolution Learning for Biomedical Graph Classification**|Jinlong Hu et.al.|[2303.16132v1](http://arxiv.org/abs/2303.16132v1)|null|
+|**2023-03-28**|**Evaluating the Effectiveness of 2D and 3D Features for Predicting Tumor Response to Chemotherapy**|Neman Abdoli et.al.|[2303.16123v1](http://arxiv.org/abs/2303.16123v1)|null|
+|**2023-03-28**|**CycleACR: Cycle Modeling of Actor-Context Relations for Video Action Detection**|Lei Chen et.al.|[2303.16118v1](http://arxiv.org/abs/2303.16118v1)|null|
 |**2023-03-27**|**GeoNet: Benchmarking Unsupervised Adaptation across Geographies**|Tarun Kalluri et.al.|[2303.15443v1](http://arxiv.org/abs/2303.15443v1)|null|
 |**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|null|
 |**2023-03-27**|**TextMI: Textualize Multimodal Information for Integrating Non-verbal Cues in Pre-trained Language Models**|Md Kamrul Hasan et.al.|[2303.15430v1](http://arxiv.org/abs/2303.15430v1)|null|
@@ -2033,6 +2043,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer**|Jing Lin et.al.|[2303.16160v1](http://arxiv.org/abs/2303.16160v1)|null|
+|**2023-03-28**|**Increasing error tolerance in quantum computers with dynamic bias arrangement**|Hector Bombín et.al.|[2303.16122v1](http://arxiv.org/abs/2303.16122v1)|null|
+|**2023-03-28**|**Multimodal and multicontrast image fusion via deep generative models**|Giovanna Maria Dimitri et.al.|[2303.15963v1](http://arxiv.org/abs/2303.15963v1)|null|
+|**2023-03-28**|**Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks**|Mingjian Liang et.al.|[2303.15710v1](http://arxiv.org/abs/2303.15710v1)|**[link](https://github.com/freeformrobotics/eaefnet)**|
+|**2023-03-28**|**Model and Evaluation: Towards Fairness in Multilingual Text Classification**|Nankai Lin et.al.|[2303.15697v1](http://arxiv.org/abs/2303.15697v1)|null|
+|**2023-03-28**|**Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment**|Jiaqi Jin et.al.|[2303.15689v1](http://arxiv.org/abs/2303.15689v1)|null|
+|**2023-03-28**|**A framework for experimental-data-driven assessment of Magnetized Liner Inertial Fusion stagnation image metrics**|William E. Lewis et.al.|[2303.15680v1](http://arxiv.org/abs/2303.15680v1)|null|
+|**2023-03-28**|**Predicting Thermoelectric Power Factor of Bismuth Telluride During Laser Powder Bed Fusion Additive Manufacturing**|Ankita Agarwal et.al.|[2303.15663v1](http://arxiv.org/abs/2303.15663v1)|null|
 |**2023-03-27**|**D-Mag: a laboratory for studying plasma physics and diagnostics in strong magnetic fields**|Bartholomaeaus Jagielski et.al.|[2303.15174v1](http://arxiv.org/abs/2303.15174v1)|null|
 |**2023-03-27**|**On the relation of the frame-related operators of fusion frame systems**|Lukas Köhldorfer et.al.|[2303.15129v1](http://arxiv.org/abs/2303.15129v1)|null|
 |**2023-03-27**|**Automatic breach detection during spine pedicle drilling based on vibroacoustic sensing**|Aidana Massalimova et.al.|[2303.15114v1](http://arxiv.org/abs/2303.15114v1)|null|
