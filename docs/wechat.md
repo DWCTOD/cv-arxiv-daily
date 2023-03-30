@@ -1,8 +1,8 @@
-> Updated on 2023.03.29
+> Updated on 2023.03.30
 
 ## Video_Classification
 
-- 2023-03-28, **Your Diffusion Model is Secretly a Zero-Shot Classifier**, Alexander C. Li et.al., Paper: [http://arxiv.org/abs/2303.16203v1](http://arxiv.org/abs/2303.16203v1), Code: **[https://github.com/diffusion-classifier/diffusion-classifier](https://github.com/diffusion-classifier/diffusion-classifier)**
+- 2023-03-29, **Your Diffusion Model is Secretly a Zero-Shot Classifier**, Alexander C. Li et.al., Paper: [http://arxiv.org/abs/2303.16203v2](http://arxiv.org/abs/2303.16203v2), Code: **[https://github.com/diffusion-classifier/diffusion-classifier](https://github.com/diffusion-classifier/diffusion-classifier)**
 - 2023-03-28, **Natural Selection Favors AIs over Humans**, Dan Hendrycks et.al., Paper: [http://arxiv.org/abs/2303.16200v1](http://arxiv.org/abs/2303.16200v1)
 - 2023-03-28, **Forecasting localized weather impacts on vegetation as seen from space with meteo-guided video prediction**, Vitus Benson et.al., Paper: [http://arxiv.org/abs/2303.16198v1](http://arxiv.org/abs/2303.16198v1), Code: **[https://github.com/earthnet2021/earthnet-models-pytorch](https://github.com/earthnet2021/earthnet-models-pytorch)**
 - 2023-03-28, **Automorphisms of del Pezzo surfaces in odd characteristic**, Igor Dolgachev et.al., Paper: [http://arxiv.org/abs/2303.16170v1](http://arxiv.org/abs/2303.16170v1)
@@ -2035,7 +2035,7 @@
 
 ## MultiModal
 
-- 2023-03-28, **One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer**, Jing Lin et.al., Paper: [http://arxiv.org/abs/2303.16160v1](http://arxiv.org/abs/2303.16160v1)
+- 2023-03-28, **One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer**, Jing Lin et.al., Paper: [http://arxiv.org/abs/2303.16160v1](http://arxiv.org/abs/2303.16160v1), Code: **[https://github.com/IDEA-Research/OSX](https://github.com/IDEA-Research/OSX)**
 - 2023-03-28, **Increasing error tolerance in quantum computers with dynamic bias arrangement**, Hector Bombín et.al., Paper: [http://arxiv.org/abs/2303.16122v1](http://arxiv.org/abs/2303.16122v1)
 - 2023-03-28, **Multimodal and multicontrast image fusion via deep generative models**, Giovanna Maria Dimitri et.al., Paper: [http://arxiv.org/abs/2303.15963v1](http://arxiv.org/abs/2303.15963v1)
 - 2023-03-28, **Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks**, Mingjian Liang et.al., Paper: [http://arxiv.org/abs/2303.15710v1](http://arxiv.org/abs/2303.15710v1), Code: **[https://github.com/freeformrobotics/eaefnet](https://github.com/freeformrobotics/eaefnet)**
