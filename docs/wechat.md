@@ -2046,7 +2046,7 @@
 ## MultiModal
 
 - 2023-03-29, **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2303.16894v1](http://arxiv.org/abs/2303.16894v1), Code: **[https://github.com/ziyuguo99/viewrefer3d](https://github.com/ziyuguo99/viewrefer3d)**
-- 2023-03-30, **BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**, Haimei Zhao et.al., Paper: [http://arxiv.org/abs/2303.16818v2](http://arxiv.org/abs/2303.16818v2)
+- 2023-03-30, **BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**, Haimei Zhao et.al., Paper: [http://arxiv.org/abs/2303.16818v2](http://arxiv.org/abs/2303.16818v2), Code: **[https://github.com/vitae-transformer/bevsimdet](https://github.com/vitae-transformer/bevsimdet)**
 - 2023-03-29, **GRAF: Graph Attention-aware Fusion Networks**, Ziynet Nesibe Kesimoglu et.al., Paper: [http://arxiv.org/abs/2303.16781v1](http://arxiv.org/abs/2303.16781v1)
 - 2023-03-30, **On Communication-Efficient Multisensor Track Association via Measurement Transformation (Extended Version)**, Haiqi Liu et.al., Paper: [http://arxiv.org/abs/2303.16555v2](http://arxiv.org/abs/2303.16555v2)
 - 2023-03-29, **Ab initio calculated dynamic structure factor and optical properties of beryllium along the Hugoniot**, Wei-Jie Li et.al., Paper: [http://arxiv.org/abs/2303.16546v1](http://arxiv.org/abs/2303.16546v1)
