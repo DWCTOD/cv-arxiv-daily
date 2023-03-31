@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**|Wen Wang et.al.|[2303.17599v1](http://arxiv.org/abs/2303.17599v1)|**[link](https://github.com/baaivision/vid2vid-zero)**|
+|**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598v1](http://arxiv.org/abs/2303.17598v1)|null|
+|**2023-03-30**|**MobileInst: Video Instance Segmentation on the Mobile**|Renhong Zhang et.al.|[2303.17594v1](http://arxiv.org/abs/2303.17594v1)|null|
+|**2023-03-30**|**Anatomically aware dual-hop learning for pulmonary embolism detection in CT pulmonary angiograms**|Florin Condrea et.al.|[2303.17593v1](http://arxiv.org/abs/2303.17593v1)|null|
+|**2023-03-30**|**SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger**|Yuting Gao et.al.|[2303.17561v1](http://arxiv.org/abs/2303.17561v1)|null|
+|**2023-03-30**|**DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**|Chenpng Du et.al.|[2303.17550v1](http://arxiv.org/abs/2303.17550v1)|null|
+|**2023-03-30**|**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**|Kim Sung-Bin et.al.|[2303.17490v1](http://arxiv.org/abs/2303.17490v1)|null|
+|**2023-03-30**|**PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation**|Qitao Zhao et.al.|[2303.17472v1](http://arxiv.org/abs/2303.17472v1)|**[link](https://github.com/qitaozhao/poseformerv2)**|
+|**2023-03-30**|**NN-Copula-CD: A Copula-Guided Interpretable Neural Network for Change Detection in Heterogeneous Remote Sensing Images**|Weiming Li et.al.|[2303.17448v1](http://arxiv.org/abs/2303.17448v1)|null|
+|**2023-03-30**|**Steered Mixture of Experts Regression for Image Denoising with Multi-Model-Inference**|Aytac Özkan et.al.|[2303.17409v1](http://arxiv.org/abs/2303.17409v1)|null|
 |**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897v1](http://arxiv.org/abs/2303.16897v1)|null|
 |**2023-03-29**|**Towards Understanding the Effect of Pretraining Label Granularity**|Guan Zhe Hong et.al.|[2303.16887v1](http://arxiv.org/abs/2303.16887v1)|null|
 |**2023-03-29**|**End-to-End $n$-ary Relation Extraction for Combination Drug Therapies**|Yuhang Jiang et.al.|[2303.16886v1](http://arxiv.org/abs/2303.16886v1)|**[link](https://github.com/bionlproc/end-to-end-combdrugext)**|
@@ -2053,6 +2063,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**Secure State Estimation with Asynchronous Measurements against Malicious Measurement-data and Time-stamp Manipulation**|Zishuo Li et.al.|[2303.17514v1](http://arxiv.org/abs/2303.17514v1)|null|
+|**2023-03-30**|**Complementary Random Masking for RGB-Thermal Semantic Segmentation**|Ukcheol Shin et.al.|[2303.17386v1](http://arxiv.org/abs/2303.17386v1)|**[link](https://github.com/UkcheolShin/CRM_RGBTSeg)**|
+|**2023-03-30**|**Conceptual design of the Gas Injection and Vacuum System for DTT NBI**|P. Agostinetti et.al.|[2303.17339v1](http://arxiv.org/abs/2303.17339v1)|null|
+|**2023-03-30**|**Understanding the Robustness of 3D Object Detection with Bird's-Eye-View Representations in Autonomous Driving**|Zijian Zhu et.al.|[2303.17297v1](http://arxiv.org/abs/2303.17297v1)|null|
+|**2023-03-30**|**Decomposed Cross-modal Distillation for RGB-based Temporal Action Detection**|Pilhyeon Lee et.al.|[2303.17285v1](http://arxiv.org/abs/2303.17285v1)|null|
+|**2023-03-30**|**HDR Imaging with Spatially Varying Signal-to-Noise Ratios**|Yiheng Chi et.al.|[2303.17253v1](http://arxiv.org/abs/2303.17253v1)|null|
+|**2023-03-30**|**A Joint Model and Data Driven Method for Distributed Estimation**|Meng He et.al.|[2303.17241v1](http://arxiv.org/abs/2303.17241v1)|null|
+|**2023-03-30**|**Production of cumulative pions and percolation of strings**|M. A. Braun et.al.|[2303.17208v1](http://arxiv.org/abs/2303.17208v1)|null|
+|**2023-03-30**|**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**|Guangcong Zheng et.al.|[2303.17189v1](http://arxiv.org/abs/2303.17189v1)|**[link](https://github.com/zgctroy/layoutdiffusion)**|
+|**2023-03-30**|**TLAG: An Informative Trigger and Label-Aware Knowledge Guided Model for Dialogue-based Relation Extraction**|Hao An et.al.|[2303.17119v1](http://arxiv.org/abs/2303.17119v1)|null|
 |**2023-03-29**|**ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance**|Ziyu Guo et.al.|[2303.16894v1](http://arxiv.org/abs/2303.16894v1)|**[link](https://github.com/ziyuguo99/viewrefer3d)**|
 |**2023-03-30**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v2](http://arxiv.org/abs/2303.16818v2)|**[link](https://github.com/vitae-transformer/bevsimdet)**|
 |**2023-03-29**|**GRAF: Graph Attention-aware Fusion Networks**|Ziynet Nesibe Kesimoglu et.al.|[2303.16781v1](http://arxiv.org/abs/2303.16781v1)|null|
