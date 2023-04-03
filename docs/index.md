@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**|Arjun Majumdar et.al.|[2303.18240v1](http://arxiv.org/abs/2303.18240v1)|null|
+|**2023-03-31**|**DIME-FM: DIstilling Multimodal and Efficient Foundation Models**|Ximeng Sun et.al.|[2303.18232v1](http://arxiv.org/abs/2303.18232v1)|null|
+|**2023-03-31**|**Procedure-Aware Pretraining for Instructional Video Understanding**|Honglu Zhou et.al.|[2303.18230v1](http://arxiv.org/abs/2303.18230v1)|**[link](https://github.com/salesforce/paprika)**|
+|**2023-03-31**|**A Closer Look at Few-Shot 3D Point Cloud Classification**|Chuangguan Ye et.al.|[2303.18210v1](http://arxiv.org/abs/2303.18210v1)|null|
+|**2023-03-31**|**SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting**|Xiaochen Zheng et.al.|[2303.18205v1](http://arxiv.org/abs/2303.18205v1)|null|
+|**2023-03-31**|**Towards a Classification of Charge-3 Monopoles with Symmetry**|H. W. Braden et.al.|[2303.18189v1](http://arxiv.org/abs/2303.18189v1)|null|
+|**2023-03-31**|**Three-dimensional coherent diffraction snapshot imaging using extreme ultraviolet radiation from a free electron laser**|Danny Fainozzi et.al.|[2303.18166v1](http://arxiv.org/abs/2303.18166v1)|null|
+|**2023-03-31**|**Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction**|Delin Qu et.al.|[2303.18125v1](http://arxiv.org/abs/2303.18125v1)|null|
+|**2023-03-31**|**BERTino: an Italian DistilBERT model**|Matteo Muffo et.al.|[2303.18121v1](http://arxiv.org/abs/2303.18121v1)|**[link](https://github.com/indigo-ai/bertino)**|
+|**2023-03-31**|**A two-head loss function for deep Average-K classification**|Camille Garcin et.al.|[2303.18118v1](http://arxiv.org/abs/2303.18118v1)|null|
 |**2023-03-30**|**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**|Wen Wang et.al.|[2303.17599v1](http://arxiv.org/abs/2303.17599v1)|**[link](https://github.com/baaivision/vid2vid-zero)**|
 |**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598v1](http://arxiv.org/abs/2303.17598v1)|null|
 |**2023-03-30**|**MobileInst: Video Instance Segmentation on the Mobile**|Renhong Zhang et.al.|[2303.17594v1](http://arxiv.org/abs/2303.17594v1)|null|
@@ -2063,6 +2073,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**A Closer Look at Few-Shot 3D Point Cloud Classification**|Chuangguan Ye et.al.|[2303.18210v1](http://arxiv.org/abs/2303.18210v1)|null|
+|**2023-03-31**|**UKP-SQuARE v3: A Platform for Multi-Agent QA Research**|Haritz Puerto et.al.|[2303.18120v1](http://arxiv.org/abs/2303.18120v1)|null|
+|**2023-03-31**|**Synergistic Graph Fusion via Encoder Embedding**|Cencheng Shen et.al.|[2303.18051v1](http://arxiv.org/abs/2303.18051v1)|null|
+|**2023-03-31**|**EA-BEV: Edge-aware Bird' s-Eye-View Projector for 3D Object Detection**|Haotian et.al.|[2303.17895v1](http://arxiv.org/abs/2303.17895v1)|null|
+|**2023-03-31**|**MapFormer: Boosting Change Detection by Using Pre-change Information**|Maximilian Bernhard et.al.|[2303.17859v1](http://arxiv.org/abs/2303.17859v1)|null|
+|**2023-03-31**|**WSense: A Robust Feature Learning Module for Lightweight Human Activity Recognition**|Ayokunle Olalekan Ige et.al.|[2303.17845v1](http://arxiv.org/abs/2303.17845v1)|null|
+|**2023-03-31**|**Tambara-Yamagami Categories over the Reals: The Non-Split Case**|Julia Plavnik et.al.|[2303.17843v1](http://arxiv.org/abs/2303.17843v1)|null|
+|**2023-03-30**|**Topological Quantum Teleportation and Superdense Coding Without Braiding**|Sachin J. Valera et.al.|[2303.17700v1](http://arxiv.org/abs/2303.17700v1)|null|
+|**2023-03-30**|**On the coupling of axion-like particles to the top quark**|Fabian Esser et.al.|[2303.17634v1](http://arxiv.org/abs/2303.17634v1)|null|
 |**2023-03-30**|**Secure State Estimation with Asynchronous Measurements against Malicious Measurement-data and Time-stamp Manipulation**|Zishuo Li et.al.|[2303.17514v1](http://arxiv.org/abs/2303.17514v1)|null|
 |**2023-03-30**|**Complementary Random Masking for RGB-Thermal Semantic Segmentation**|Ukcheol Shin et.al.|[2303.17386v1](http://arxiv.org/abs/2303.17386v1)|**[link](https://github.com/UkcheolShin/CRM_RGBTSeg)**|
 |**2023-03-30**|**Conceptual design of the Gas Injection and Vacuum System for DTT NBI**|P. Agostinetti et.al.|[2303.17339v1](http://arxiv.org/abs/2303.17339v1)|null|
