@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
+|**2023-04-04**|**EGC: Image Generation and Classification via a Single Energy-Based Model**|Qiushan Guo et.al.|[2304.02012v1](http://arxiv.org/abs/2304.02012v1)|**[link](https://github.com/guoqiushan/egc)**|
+|**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011v1](http://arxiv.org/abs/2304.02011v1)|**[link](https://gitlab.com/deepet/faket)**|
+|**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
+|**2023-04-04**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian Moser et.al.|[2304.01994v1](http://arxiv.org/abs/2304.01994v1)|null|
+|**2023-04-04**|**Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification**|Amandeep Kumar et.al.|[2304.01992v1](http://arxiv.org/abs/2304.01992v1)|**[link](https://github.com/virobo-15/xm-gan)**|
+|**2023-04-04**|**Side Channel-Assisted Inference Leakage from Machine Learning-based ECG Classification**|Jialin Liu et.al.|[2304.01990v1](http://arxiv.org/abs/2304.01990v1)|null|
+|**2023-04-04**|**Kinetic relaxation and Bose-star formation in multicomponent dark matter- I**|Mudit Jain et.al.|[2304.01985v1](http://arxiv.org/abs/2304.01985v1)|null|
+|**2023-04-04**|**Reactive Multi-agent Coordination using Auction-based Task Allocation and Behavior Trees**|Niklas Dahlquist et.al.|[2304.01976v1](http://arxiv.org/abs/2304.01976v1)|null|
+|**2023-04-04**|**MEGClass: Text Classification with Extremely Weak Supervision via Mutually-Enhancing Text Granularities**|Priyanka Kargupta et.al.|[2304.01969v1](http://arxiv.org/abs/2304.01969v1)|**[link](https://github.com/pkargupta/MEGClass)**|
 |**2023-04-03**|**Neural Volumetric Memory for Visual Locomotion Control**|Ruihan Yang et.al.|[2304.01201v1](http://arxiv.org/abs/2304.01201v1)|null|
 |**2023-04-03**|**Video Instance Segmentation in an Open-World**|Omkar Thawakar et.al.|[2304.01200v1](http://arxiv.org/abs/2304.01200v1)|**[link](https://github.com/omkarthawakar/owvisformer)**|
 |**2023-04-03**|**Zero-Shot Semantic Segmentation with Decoupled One-Pass Network**|Cong Han et.al.|[2304.01198v1](http://arxiv.org/abs/2304.01198v1)|null|
@@ -2083,6 +2093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification**|Amandeep Kumar et.al.|[2304.01992v1](http://arxiv.org/abs/2304.01992v1)|**[link](https://github.com/virobo-15/xm-gan)**|
+|**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
+|**2023-04-04**|**Effective Field Theory descriptions of Higgs boson pair production**|Lina Alasfar et.al.|[2304.01968v1](http://arxiv.org/abs/2304.01968v1)|null|
+|**2023-04-04**|**Exact solution of the $q$-deformed $D^{(1)}_3$ vertex model with open boundaries**|Guang-Liang Li et.al.|[2304.01935v1](http://arxiv.org/abs/2304.01935v1)|null|
+|**2023-04-04**|**Functional Optimization for a Beam Driven Plasma Neutralizer in DEMO Neutral Beam Injector**|Fabio Veronese et.al.|[2304.01788v1](http://arxiv.org/abs/2304.01788v1)|null|
+|**2023-04-04**|**Lessons learned after three years of SPIDER operation and the first MITICA integrated tests**|D. Marcuzzi et.al.|[2304.01692v1](http://arxiv.org/abs/2304.01692v1)|null|
+|**2023-04-04**|**Sensing Performance of Cooperative Joint Sensing-Communication UAV Network**|Xu Chen et.al.|[2304.01509v1](http://arxiv.org/abs/2304.01509v1)|null|
+|**2023-04-04**|**MCTrans++: A 0-D Model for Centrifugal Mirrors**|Nick R. Schwartz et.al.|[2304.01496v1](http://arxiv.org/abs/2304.01496v1)|null|
+|**2023-04-04**|**Suppression of Bremsstrahlung losses from relativistic plasma with energy cutoff**|Vadim R. Munirov et.al.|[2304.01476v1](http://arxiv.org/abs/2304.01476v1)|null|
+|**2023-04-04**|**Time-space-frequency feature Fusion for 3-channel motor imagery classification**|Zhengqing Miao et.al.|[2304.01461v1](http://arxiv.org/abs/2304.01461v1)|**[link](https://github.com/miaozhengqing/tsff)**|
 |**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
 |**2023-04-03**|**FMGNN: Fused Manifold Graph Neural Network**|Cheng Deng et.al.|[2304.01081v1](http://arxiv.org/abs/2304.01081v1)|null|
 |**2023-04-03**|**HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion**|Sijie Wang et.al.|[2304.00932v1](http://arxiv.org/abs/2304.00932v1)|**[link](https://github.com/sijieaaa/hypliloc)**|
