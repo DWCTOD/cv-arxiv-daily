@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-04-05, **Self-Distillation for Gaussian Process Regression and Classification**, Kenneth Borup et.al., Paper: [http://arxiv.org/abs/2304.02641v1](http://arxiv.org/abs/2304.02641v1), Code: **[https://github.com/kennethborup/gaussian_process_self_distillation](https://github.com/kennethborup/gaussian_process_self_distillation)**
+- 2023-04-05, **HNeRV: A Hybrid Neural Representation for Videos**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2304.02633v1](http://arxiv.org/abs/2304.02633v1), Code: **[https://github.com/haochen-rye/hnerv](https://github.com/haochen-rye/hnerv)**
+- 2023-04-05, **High-fidelity Pseudo-labels for Boosting Weakly-Supervised Segmentation**, Arvi Jonnarth et.al., Paper: [http://arxiv.org/abs/2304.02621v1](http://arxiv.org/abs/2304.02621v1)
+- 2023-04-05, **A note on the classification of positive solutions to the critical p-Laplace equation in $\mathbb{R}^n$**, Jérôme Vétois et.al., Paper: [http://arxiv.org/abs/2304.02600v1](http://arxiv.org/abs/2304.02600v1)
+- 2023-04-05, **ECG Feature Importance Rankings: Cardiologists vs. Algorithms**, Temesgen Mehari et.al., Paper: [http://arxiv.org/abs/2304.02577v1](http://arxiv.org/abs/2304.02577v1)
+- 2023-04-05, **Deep learning estimation of modified Zernike coefficients for image point spread functions**, Abu Bucker Siddik et.al., Paper: [http://arxiv.org/abs/2304.02576v1](http://arxiv.org/abs/2304.02576v1)
+- 2023-04-05, **VicTR: Video-conditioned Text Representations for Activity Recognition**, Kumara Kahatapitiya et.al., Paper: [http://arxiv.org/abs/2304.02560v1](http://arxiv.org/abs/2304.02560v1)
+- 2023-04-05, **Detecting and Grounding Multi-Modal Media Manipulation**, Rui Shao et.al., Paper: [http://arxiv.org/abs/2304.02556v1](http://arxiv.org/abs/2304.02556v1), Code: **[https://github.com/rshaojimmy/multimodal-deepfake](https://github.com/rshaojimmy/multimodal-deepfake)**
+- 2023-04-05, **Self-Supervised Siamese Autoencoders**, Friederike Baier et.al., Paper: [http://arxiv.org/abs/2304.02549v1](http://arxiv.org/abs/2304.02549v1)
+- 2023-04-05, **Multi-annotator Deep Learning: A Probabilistic Framework for Classification**, Marek Herde et.al., Paper: [http://arxiv.org/abs/2304.02539v1](http://arxiv.org/abs/2304.02539v1), Code: **[https://github.com/ies-research/multi-annotator-deep-learning](https://github.com/ies-research/multi-annotator-deep-learning)**
 - 2023-04-04, **NPC: Neural Point Characters from Video**, Shih-Yang Su et.al., Paper: [http://arxiv.org/abs/2304.02013v1](http://arxiv.org/abs/2304.02013v1)
 - 2023-04-04, **EGC: Image Generation and Classification via a Single Energy-Based Model**, Qiushan Guo et.al., Paper: [http://arxiv.org/abs/2304.02012v1](http://arxiv.org/abs/2304.02012v1), Code: **[https://github.com/guoqiushan/egc](https://github.com/guoqiushan/egc)**
 - 2023-04-04, **FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**, Pavol Harar et.al., Paper: [http://arxiv.org/abs/2304.02011v1](http://arxiv.org/abs/2304.02011v1), Code: **[https://gitlab.com/deepet/faket](https://gitlab.com/deepet/faket)**
@@ -2085,6 +2095,16 @@
 
 ## MultiModal
 
+- 2023-04-05, **DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2304.02569v1](http://arxiv.org/abs/2304.02569v1)
+- 2023-04-05, **The Generation and Analysis of Tritium-substituted Methane**, Deseada Díaz Barrero et.al., Paper: [http://arxiv.org/abs/2304.02495v1](http://arxiv.org/abs/2304.02495v1)
+- 2023-04-05, **MS3D: Leveraging Multiple Detectors for Unsupervised Domain Adaptation in 3D Object Detection**, Darren Tsai et.al., Paper: [http://arxiv.org/abs/2304.02431v1](http://arxiv.org/abs/2304.02431v1), Code: **[https://github.com/darrenjkt/ms3d](https://github.com/darrenjkt/ms3d)**
+- 2023-04-05, **On Hopf algebras whose coradical is a cocentral abelian cleft extension**, Gaston Andres Garcia et.al., Paper: [http://arxiv.org/abs/2304.02427v1](http://arxiv.org/abs/2304.02427v1)
+- 2023-04-05, **Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping**, Burak Ekim et.al., Paper: [http://arxiv.org/abs/2304.02407v1](http://arxiv.org/abs/2304.02407v1)
+- 2023-04-05, **Partial Discharges detection in 1 MV power supplies in MITICA experiment, the ITER Heating Neutral Beam Injector prototype**, Marco Boldrin et.al., Paper: [http://arxiv.org/abs/2304.02397v1](http://arxiv.org/abs/2304.02397v1)
+- 2023-04-05, **Overview on electrical issues faced during the SPIDER experimental campaigns**, Alberto Maistrello et.al., Paper: [http://arxiv.org/abs/2304.02294v1](http://arxiv.org/abs/2304.02294v1)
+- 2023-04-05, **A Diffusion-based Method for Multi-turn Compositional Image Generation**, Chao Wang et.al., Paper: [http://arxiv.org/abs/2304.02192v1](http://arxiv.org/abs/2304.02192v1)
+- 2023-04-04, **A Data Fusion Framework for Multi-Domain Morality Learning**, Siyi Guo et.al., Paper: [http://arxiv.org/abs/2304.02144v1](http://arxiv.org/abs/2304.02144v1)
+- 2023-04-04, **Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search**, Qijie Shen et.al., Paper: [http://arxiv.org/abs/2304.02089v1](http://arxiv.org/abs/2304.02089v1)
 - 2023-04-04, **Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification**, Amandeep Kumar et.al., Paper: [http://arxiv.org/abs/2304.01992v1](http://arxiv.org/abs/2304.01992v1), Code: **[https://github.com/virobo-15/xm-gan](https://github.com/virobo-15/xm-gan)**
 - 2023-04-04, **USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**, Ziming Wang et.al., Paper: [http://arxiv.org/abs/2304.01986v1](http://arxiv.org/abs/2304.01986v1)
 - 2023-04-04, **Effective Field Theory descriptions of Higgs boson pair production**, Lina Alasfar et.al., Paper: [http://arxiv.org/abs/2304.01968v1](http://arxiv.org/abs/2304.01968v1)
