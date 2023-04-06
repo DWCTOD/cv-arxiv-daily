@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-04-04**|**EGC: Image Generation and Classification via a Single Energy-Based Model**|Qiushan Guo et.al.|[2304.02012v1](http://arxiv.org/abs/2304.02012v1)|**[link](https://github.com/guoqiushan/egc)**|
 |**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011v1](http://arxiv.org/abs/2304.02011v1)|**[link](https://gitlab.com/deepet/faket)**|
 |**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
-|**2023-04-04**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian Moser et.al.|[2304.01994v1](http://arxiv.org/abs/2304.01994v1)|null|
+|**2023-04-05**|**Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution**|Brian Moser et.al.|[2304.01994v2](http://arxiv.org/abs/2304.01994v2)|null|
 |**2023-04-04**|**Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification**|Amandeep Kumar et.al.|[2304.01992v1](http://arxiv.org/abs/2304.01992v1)|**[link](https://github.com/virobo-15/xm-gan)**|
 |**2023-04-04**|**Side Channel-Assisted Inference Leakage from Machine Learning-based ECG Classification**|Jialin Liu et.al.|[2304.01990v1](http://arxiv.org/abs/2304.01990v1)|null|
 |**2023-04-04**|**Kinetic relaxation and Bose-star formation in multicomponent dark matter- I**|Mudit Jain et.al.|[2304.01985v1](http://arxiv.org/abs/2304.01985v1)|null|
