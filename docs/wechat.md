@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-04-06, **SegGPT: Segmenting Everything In Context**, Xinlong Wang et.al., Paper: [http://arxiv.org/abs/2304.03284v1](http://arxiv.org/abs/2304.03284v1), Code: **[https://github.com/baaivision/painter](https://github.com/baaivision/painter)**
+- 2023-04-06, **Diffusion Models as Masked Autoencoders**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2304.03283v1](http://arxiv.org/abs/2304.03283v1)
+- 2023-04-06, **That's What I Said: Fully-Controllable Talking Face Generation**, Youngjoon Jang et.al., Paper: [http://arxiv.org/abs/2304.03275v1](http://arxiv.org/abs/2304.03275v1)
+- 2023-04-06, **ImageEye: Batch Image Processing Using Program Synthesis**, Celeste Barnaby et.al., Paper: [http://arxiv.org/abs/2304.03253v1](http://arxiv.org/abs/2304.03253v1)
+- 2023-04-06, **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**, Chenyu You et.al., Paper: [http://arxiv.org/abs/2304.03209v1](http://arxiv.org/abs/2304.03209v1)
+- 2023-04-06, **Face Animation with an Attribute-Guided Diffusion Model**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2304.03199v1](http://arxiv.org/abs/2304.03199v1)
+- 2023-04-06, **RFAConv: Innovating Spatital Attention and Standard Convolutional Operation**, Xin Zhang et.al., Paper: [http://arxiv.org/abs/2304.03198v1](http://arxiv.org/abs/2304.03198v1), Code: **[https://github.com/liuchen1997/rfaconv](https://github.com/liuchen1997/rfaconv)**
+- 2023-04-06, **Micron-BERT: BERT-based Facial Micro-Expression Recognition**, Xuan-Bac Nguyen et.al., Paper: [http://arxiv.org/abs/2304.03195v1](http://arxiv.org/abs/2304.03195v1), Code: **[https://github.com/uark-cviu/micron-bert](https://github.com/uark-cviu/micron-bert)**
+- 2023-04-06, **Improving automatic endoscopic stone recognition using a multi-view fusion approach enhanced with two-step transfer learning**, Francisco Lopez-Tiro et.al., Paper: [http://arxiv.org/abs/2304.03193v1](http://arxiv.org/abs/2304.03193v1)
+- 2023-04-06, **The Concept of Forward-Forward Learning Applied to a Multi Output Perceptron**, K. Fredrik Karlsson et.al., Paper: [http://arxiv.org/abs/2304.03189v1](http://arxiv.org/abs/2304.03189v1), Code: **[https://github.com/kfkarlsson/ffperceptron](https://github.com/kfkarlsson/ffperceptron)**
 - 2023-04-05, **Self-Distillation for Gaussian Process Regression and Classification**, Kenneth Borup et.al., Paper: [http://arxiv.org/abs/2304.02641v1](http://arxiv.org/abs/2304.02641v1), Code: **[https://github.com/kennethborup/gaussian_process_self_distillation](https://github.com/kennethborup/gaussian_process_self_distillation)**
 - 2023-04-05, **HNeRV: A Hybrid Neural Representation for Videos**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2304.02633v1](http://arxiv.org/abs/2304.02633v1), Code: **[https://github.com/haochen-rye/hnerv](https://github.com/haochen-rye/hnerv)**
 - 2023-04-05, **High-fidelity Pseudo-labels for Boosting Weakly-Supervised Segmentation**, Arvi Jonnarth et.al., Paper: [http://arxiv.org/abs/2304.02621v1](http://arxiv.org/abs/2304.02621v1)
@@ -2095,6 +2105,16 @@
 
 ## MultiModal
 
+- 2023-04-06, **Improving automatic endoscopic stone recognition using a multi-view fusion approach enhanced with two-step transfer learning**, Francisco Lopez-Tiro et.al., Paper: [http://arxiv.org/abs/2304.03193v1](http://arxiv.org/abs/2304.03193v1)
+- 2023-04-06, **Simplifying Content-Based Neural News Recommendation: On User Modeling and Training Objectives**, Andreea Iana et.al., Paper: [http://arxiv.org/abs/2304.03112v1](http://arxiv.org/abs/2304.03112v1), Code: **[https://github.com/andreeaiana/simplifying_nnr](https://github.com/andreeaiana/simplifying_nnr)**
+- 2023-04-06, **Fast QTMT Partition for VVC Intra Coding Using U-Net Framework**, Zhao Zan et.al., Paper: [http://arxiv.org/abs/2304.03076v1](http://arxiv.org/abs/2304.03076v1)
+- 2023-04-06, **Fiducial and differential cross-section measurements for the vector-boson-fusion production of the Higgs boson in the $H \rightarrow WW^{\ast} \rightarrow eνμν$ decay channel at 13 $\text{TeV}$ with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2304.03053v1](http://arxiv.org/abs/2304.03053v1)
+- 2023-04-06, **First results from beam emission spectroscopy in SPIDER negative ion source**, M. Barbisan et.al., Paper: [http://arxiv.org/abs/2304.03036v1](http://arxiv.org/abs/2304.03036v1)
+- 2023-04-06, **HGCC: Enhancing Hyperbolic Graph Convolution Networks on Heterogeneous Collaborative Graph for Recommendation**, Lu Zhang et.al., Paper: [http://arxiv.org/abs/2304.02961v1](http://arxiv.org/abs/2304.02961v1)
+- 2023-04-06, **FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2304.02948v1](http://arxiv.org/abs/2304.02948v1)
+- 2023-04-06, **Super-Resolving Face Image by Facial Parsing Information**, Chenyang Wang et.al., Paper: [http://arxiv.org/abs/2304.02923v1](http://arxiv.org/abs/2304.02923v1), Code: **[https://github.com/wcy-cs/fishfsrnet](https://github.com/wcy-cs/fishfsrnet)**
+- 2023-04-06, **MemeFier: Dual-stage Modality Fusion for Image Meme Classification**, Christos Koutlis et.al., Paper: [http://arxiv.org/abs/2304.02906v1](http://arxiv.org/abs/2304.02906v1), Code: **[https://github.com/ckoutlis/memefier](https://github.com/ckoutlis/memefier)**
+- 2023-04-06, **SpanRE: Entities and Overlapping Relations Extraction Based on Spans and Entity Attention**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2304.02901v1](http://arxiv.org/abs/2304.02901v1)
 - 2023-04-05, **DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2304.02569v1](http://arxiv.org/abs/2304.02569v1)
 - 2023-04-05, **The Generation and Analysis of Tritium-substituted Methane**, Deseada Díaz Barrero et.al., Paper: [http://arxiv.org/abs/2304.02495v1](http://arxiv.org/abs/2304.02495v1)
 - 2023-04-05, **MS3D: Leveraging Multiple Detectors for Unsupervised Domain Adaptation in 3D Object Detection**, Darren Tsai et.al., Paper: [http://arxiv.org/abs/2304.02431v1](http://arxiv.org/abs/2304.02431v1), Code: **[https://github.com/darrenjkt/ms3d](https://github.com/darrenjkt/ms3d)**
