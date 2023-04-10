@@ -1,4 +1,4 @@
-> Updated on 2023.04.09
+> Updated on 2023.04.10
 
 ## Video_Classification
 
@@ -2113,7 +2113,7 @@
 - 2023-04-06, **HGCC: Enhancing Hyperbolic Graph Convolution Networks on Heterogeneous Collaborative Graph for Recommendation**, Lu Zhang et.al., Paper: [http://arxiv.org/abs/2304.02961v1](http://arxiv.org/abs/2304.02961v1)
 - 2023-04-06, **FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2304.02948v1](http://arxiv.org/abs/2304.02948v1)
 - 2023-04-06, **Super-Resolving Face Image by Facial Parsing Information**, Chenyang Wang et.al., Paper: [http://arxiv.org/abs/2304.02923v1](http://arxiv.org/abs/2304.02923v1), Code: **[https://github.com/wcy-cs/fishfsrnet](https://github.com/wcy-cs/fishfsrnet)**
-- 2023-04-06, **MemeFier: Dual-stage Modality Fusion for Image Meme Classification**, Christos Koutlis et.al., Paper: [http://arxiv.org/abs/2304.02906v1](http://arxiv.org/abs/2304.02906v1), Code: **[https://github.com/ckoutlis/memefier](https://github.com/ckoutlis/memefier)**
+- 2023-04-07, **MemeFier: Dual-stage Modality Fusion for Image Meme Classification**, Christos Koutlis et.al., Paper: [http://arxiv.org/abs/2304.02906v2](http://arxiv.org/abs/2304.02906v2), Code: **[https://github.com/ckoutlis/memefier](https://github.com/ckoutlis/memefier)**
 - 2023-04-06, **SpanRE: Entities and Overlapping Relations Extraction Based on Spans and Entity Attention**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2304.02901v1](http://arxiv.org/abs/2304.02901v1)
 - 2023-04-05, **DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2304.02569v1](http://arxiv.org/abs/2304.02569v1)
 - 2023-04-05, **The Generation and Analysis of Tritium-substituted Methane**, Deseada Díaz Barrero et.al., Paper: [http://arxiv.org/abs/2304.02495v1](http://arxiv.org/abs/2304.02495v1)
