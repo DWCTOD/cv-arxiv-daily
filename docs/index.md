@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**Detection Transformer with Stable Matching**|Shilong Liu et.al.|[2304.04742v1](http://arxiv.org/abs/2304.04742v1)|**[link](https://github.com/idea-research/stable-dino)**|
+|**2023-04-10**|**Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool**|Sovesh Mohapatra et.al.|[2304.04738v1](http://arxiv.org/abs/2304.04738v1)|null|
+|**2023-04-10**|**Artifact magnification on deepfake videos increases human detection and subjective confidence**|Emilie Josephs et.al.|[2304.04733v1](http://arxiv.org/abs/2304.04733v1)|null|
+|**2023-04-10**|**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**|Shuhuai Ren et.al.|[2304.04704v1](http://arxiv.org/abs/2304.04704v1)|**[link](https://github.com/amazon-science/prompt-pretraining)**|
+|**2023-04-10**|**Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation**|Inkyu Shin et.al.|[2304.04694v1](http://arxiv.org/abs/2304.04694v1)|null|
+|**2023-04-10**|**Interaction-Aware Prompting for Zero-Shot Spatio-Temporal Action Detection**|Wei-Jhe Huang et.al.|[2304.04688v1](http://arxiv.org/abs/2304.04688v1)|null|
+|**2023-04-10**|**Learning to Detect Touches on Cluttered Tables**|Norberto Adrian Goussies et.al.|[2304.04687v1](http://arxiv.org/abs/2304.04687v1)|null|
+|**2023-04-10**|**ECG-CL: A Comprehensive Electrocardiogram Interpretation Method Based on Continual Learning**|Hongxiang Gao et.al.|[2304.04646v1](http://arxiv.org/abs/2304.04646v1)|null|
+|**2023-04-10**|**Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance**|Yueheng Li et.al.|[2304.04637v1](http://arxiv.org/abs/2304.04637v1)|null|
+|**2023-04-10**|**VARS: Video Assistant Referee System for Automated Soccer Decision Making from Multiple Views**|Jan Held et.al.|[2304.04617v1](http://arxiv.org/abs/2304.04617v1)|null|
 |**2023-04-07**|**SparseFormer: Sparse Visual Recognition via Limited Latent Tokens**|Ziteng Gao et.al.|[2304.03768v1](http://arxiv.org/abs/2304.03768v1)|null|
 |**2023-04-07**|**Zero-shot CT Field-of-view Completion with Unconditional Generative Diffusion Prior**|Kaiwen Xu et.al.|[2304.03760v1](http://arxiv.org/abs/2304.03760v1)|null|
 |**2023-04-07**|**An unsupervised segmentation of vocal breath sounds**|Shivani Yadav et.al.|[2304.03758v1](http://arxiv.org/abs/2304.03758v1)|null|
@@ -2123,6 +2133,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**Exploring Effective Factors for Improving Visual In-Context Learning**|Yanpeng Sun et.al.|[2304.04748v1](http://arxiv.org/abs/2304.04748v1)|**[link](https://github.com/syp2ysy/prompt-self)**|
+|**2023-04-10**|**HST-MRF: Heterogeneous Swin Transformer with Multi-Receptive Field for Medical Image Segmentation**|Xiaofei Huang et.al.|[2304.04614v1](http://arxiv.org/abs/2304.04614v1)|null|
+|**2023-04-10**|**PoseFusion: Robust Object-in-Hand Pose Estimation with SelectLSTM**|Yuyang Tu et.al.|[2304.04523v1](http://arxiv.org/abs/2304.04523v1)|null|
+|**2023-04-10**|**HybridFusion: LiDAR and Vision Cross-Source Point Cloud Fusion**|Yu Wang et.al.|[2304.04508v1](http://arxiv.org/abs/2304.04508v1)|null|
+|**2023-04-10**|**Exposure Fusion for Hand-held Camera Inputs with Optical Flow and PatchMatch**|Ru Li et.al.|[2304.04464v1](http://arxiv.org/abs/2304.04464v1)|null|
+|**2023-04-10**|**Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition**|Zhijun Zhai et.al.|[2304.04420v1](http://arxiv.org/abs/2304.04420v1)|null|
+|**2023-04-10**|**Testing CP-violation in a Heavy Higgs Sector at CLIC**|Kingman Cheung et.al.|[2304.04390v1](http://arxiv.org/abs/2304.04390v1)|null|
+|**2023-04-09**|**RGB-T Tracking Based on Mixed Attention**|Yang Luo et.al.|[2304.04264v1](http://arxiv.org/abs/2304.04264v1)|null|
+|**2023-04-09**|**BEVStereo++: Accurate Depth Estimation in Multi-view 3D Object Detection via Dynamic Temporal Stereo**|Yinhao Li et.al.|[2304.04185v1](http://arxiv.org/abs/2304.04185v1)|null|
+|**2023-04-09**|**Sparse Dense Fusion for 3D Object Detection**|Yulu Gao et.al.|[2304.04179v1](http://arxiv.org/abs/2304.04179v1)|null|
 |**2023-04-07**|**A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for inferring Bird's-Eye-View Semantic Segmentation**|Naiyu Fang et.al.|[2304.03650v1](http://arxiv.org/abs/2304.03650v1)|null|
 |**2023-04-07**|**On the Stochasticity of Reanalysis Outputs of 4D-Var**|Xiaoqing Chen et.al.|[2304.03648v1](http://arxiv.org/abs/2304.03648v1)|null|
 |**2023-04-07**|**Combined Registration and Fusion of Evidential Occupancy Grid Maps for Live Digital Twins of Traffic**|Raphael van Kempen et.al.|[2304.03578v1](http://arxiv.org/abs/2304.03578v1)|null|
