@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@ layout: default
 |**2023-04-10**|**Artifact magnification on deepfake videos increases human detection and subjective confidence**|Emilie Josephs et.al.|[2304.04733v1](http://arxiv.org/abs/2304.04733v1)|null|
 |**2023-04-10**|**Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition**|Shuhuai Ren et.al.|[2304.04704v1](http://arxiv.org/abs/2304.04704v1)|**[link](https://github.com/amazon-science/prompt-pretraining)**|
 |**2023-04-10**|**Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation**|Inkyu Shin et.al.|[2304.04694v1](http://arxiv.org/abs/2304.04694v1)|null|
-|**2023-04-10**|**Interaction-Aware Prompting for Zero-Shot Spatio-Temporal Action Detection**|Wei-Jhe Huang et.al.|[2304.04688v1](http://arxiv.org/abs/2304.04688v1)|null|
+|**2023-04-11**|**Interaction-Aware Prompting for Zero-Shot Spatio-Temporal Action Detection**|Wei-Jhe Huang et.al.|[2304.04688v2](http://arxiv.org/abs/2304.04688v2)|null|
 |**2023-04-10**|**Learning to Detect Touches on Cluttered Tables**|Norberto Adrian Goussies et.al.|[2304.04687v1](http://arxiv.org/abs/2304.04687v1)|null|
 |**2023-04-10**|**ECG-CL: A Comprehensive Electrocardiogram Interpretation Method Based on Continual Learning**|Hongxiang Gao et.al.|[2304.04646v1](http://arxiv.org/abs/2304.04646v1)|null|
 |**2023-04-10**|**Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance**|Yueheng Li et.al.|[2304.04637v1](http://arxiv.org/abs/2304.04637v1)|null|
@@ -2140,7 +2140,7 @@ layout: default
 |**2023-04-10**|**Exposure Fusion for Hand-held Camera Inputs with Optical Flow and PatchMatch**|Ru Li et.al.|[2304.04464v1](http://arxiv.org/abs/2304.04464v1)|null|
 |**2023-04-10**|**Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition**|Zhijun Zhai et.al.|[2304.04420v1](http://arxiv.org/abs/2304.04420v1)|null|
 |**2023-04-10**|**Testing CP-violation in a Heavy Higgs Sector at CLIC**|Kingman Cheung et.al.|[2304.04390v1](http://arxiv.org/abs/2304.04390v1)|null|
-|**2023-04-09**|**RGB-T Tracking Based on Mixed Attention**|Yang Luo et.al.|[2304.04264v1](http://arxiv.org/abs/2304.04264v1)|null|
+|**2023-04-11**|**RGB-T Tracking Based on Mixed Attention**|Yang Luo et.al.|[2304.04264v2](http://arxiv.org/abs/2304.04264v2)|null|
 |**2023-04-09**|**BEVStereo++: Accurate Depth Estimation in Multi-view 3D Object Detection via Dynamic Temporal Stereo**|Yinhao Li et.al.|[2304.04185v1](http://arxiv.org/abs/2304.04185v1)|null|
 |**2023-04-09**|**Sparse Dense Fusion for 3D Object Detection**|Yulu Gao et.al.|[2304.04179v1](http://arxiv.org/abs/2304.04179v1)|null|
 |**2023-04-07**|**A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for inferring Bird's-Eye-View Semantic Segmentation**|Naiyu Fang et.al.|[2304.03650v1](http://arxiv.org/abs/2304.03650v1)|null|
