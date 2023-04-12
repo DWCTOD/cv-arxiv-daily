@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**Discrete pre-Tannakian categories**|Nate Harman et.al.|[2304.05375v1](http://arxiv.org/abs/2304.05375v1)|null|
+|**2023-04-11**|**A comparative study between paired and unpaired Image Quality Assessment in Low-Dose CT Denoising**|Francesco Di Feola et.al.|[2304.05359v1](http://arxiv.org/abs/2304.05359v1)|null|
+|**2023-04-11**|**On Elliott's conjecture and applications**|Oleksiy Klurman et.al.|[2304.05344v1](http://arxiv.org/abs/2304.05344v1)|null|
+|**2023-04-11**|**Bayesian Optimization of Catalysts With In-context Learning**|Mayk Caldas Ramos et.al.|[2304.05341v1](http://arxiv.org/abs/2304.05341v1)|**[link](https://github.com/ur-whitelab/bo-lift)**|
+|**2023-04-11**|**Unified Multi-Modal Image Synthesis for Missing Modality Imputation**|Yue Zhang et.al.|[2304.05340v1](http://arxiv.org/abs/2304.05340v1)|null|
+|**2023-04-11**|**Deep-learning assisted detection and quantification of (oo)cysts of Giardia and Cryptosporidium on smartphone microscopy images**|Suprim Nakarmi et.al.|[2304.05339v1](http://arxiv.org/abs/2304.05339v1)|null|
+|**2023-04-11**|**Neural Delay Differential Equations: System Reconstruction and Image Classification**|Qunxi Zhu et.al.|[2304.05310v1](http://arxiv.org/abs/2304.05310v1)|null|
+|**2023-04-11**|**A Comprehensive Study on Object Detection Techniques in Unconstrained Environments**|Hrishitva Patel et.al.|[2304.05295v1](http://arxiv.org/abs/2304.05295v1)|null|
+|**2023-04-11**|**MC-ViViT: Multi-branch Classifier-ViViT to Detect Mild Cognitive Impairment in Older Adults using Facial Videos**|Jian Sun et.al.|[2304.05292v1](http://arxiv.org/abs/2304.05292v1)|null|
+|**2023-04-11**|**YouNICon: YouTube's CommuNIty of Conspiracy Videos**|Shaoyi Liaw et.al.|[2304.05274v1](http://arxiv.org/abs/2304.05274v1)|null|
 |**2023-04-10**|**Detection Transformer with Stable Matching**|Shilong Liu et.al.|[2304.04742v1](http://arxiv.org/abs/2304.04742v1)|**[link](https://github.com/idea-research/stable-dino)**|
 |**2023-04-10**|**Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool**|Sovesh Mohapatra et.al.|[2304.04738v1](http://arxiv.org/abs/2304.04738v1)|null|
 |**2023-04-10**|**Artifact magnification on deepfake videos increases human detection and subjective confidence**|Emilie Josephs et.al.|[2304.04733v1](http://arxiv.org/abs/2304.04733v1)|null|
@@ -2129,6 +2139,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**Unveiling the non-Abelian statistics of $D(S_3)$ anyons via photonic simulation**|Suraj Goel et.al.|[2304.05286v1](http://arxiv.org/abs/2304.05286v1)|null|
+|**2023-04-11**|**flap: A Deterministic Parser with Fused Lexing**|Neel Krishnaswami et.al.|[2304.05276v1](http://arxiv.org/abs/2304.05276v1)|null|
+|**2023-04-11**|**Multi-scale Fusion Fault Diagnosis Method Based on Two-Dimensionaliztion Sequence in Complex Scenarios**|Weiyang Jin et.al.|[2304.05198v1](http://arxiv.org/abs/2304.05198v1)|null|
+|**2023-04-11**|**LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images**|Hui Li et.al.|[2304.05172v1](http://arxiv.org/abs/2304.05172v1)|null|
+|**2023-04-11**|**Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification**|Mengyao Xie et.al.|[2304.05165v1](http://arxiv.org/abs/2304.05165v1)|null|
+|**2023-04-11**|**Real time enhancement of operator's ergonomics in physical human - robot collaboration scenarios using a multi-stereo camera system**|Gerasimos Arvanitis et.al.|[2304.05120v1](http://arxiv.org/abs/2304.05120v1)|null|
+|**2023-04-11**|**Investigating Imbalances Between SAR and Optical Utilization for Multi-Modal Urban Mapping**|Sebastian Hafner et.al.|[2304.05080v1](http://arxiv.org/abs/2304.05080v1)|null|
+|**2023-04-11**|**Modeling inductive radio frequency coupling in powerful negative hydrogen ion sources: optimizing the RF coupling**|Dominikus Zielke et.al.|[2304.05006v1](http://arxiv.org/abs/2304.05006v1)|null|
+|**2023-04-11**|**Wav2code: Restore Clean Speech Representations via Codebook Lookup for Noise-Robust ASR**|Yuchen Hu et.al.|[2304.04974v1](http://arxiv.org/abs/2304.04974v1)|null|
+|**2023-04-11**|**AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations**|Danwei Li et.al.|[2304.04959v1](http://arxiv.org/abs/2304.04959v1)|null|
 |**2023-04-10**|**Exploring Effective Factors for Improving Visual In-Context Learning**|Yanpeng Sun et.al.|[2304.04748v1](http://arxiv.org/abs/2304.04748v1)|**[link](https://github.com/syp2ysy/prompt-self)**|
 |**2023-04-10**|**HST-MRF: Heterogeneous Swin Transformer with Multi-Receptive Field for Medical Image Segmentation**|Xiaofei Huang et.al.|[2304.04614v1](http://arxiv.org/abs/2304.04614v1)|null|
 |**2023-04-10**|**PoseFusion: Robust Object-in-Hand Pose Estimation with SelectLSTM**|Yuyang Tu et.al.|[2304.04523v1](http://arxiv.org/abs/2304.04523v1)|null|
