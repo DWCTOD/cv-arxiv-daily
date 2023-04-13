@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**Fluctuation based interpretable analysis scheme for quantum many-body snapshots**|Henning Schlömer et.al.|[2304.06029v1](http://arxiv.org/abs/2304.06029v1)|null|
+|**2023-04-12**|**RECLIP: Resource-efficient CLIP by Training with Small Images**|Runze Li et.al.|[2304.06028v1](http://arxiv.org/abs/2304.06028v1)|null|
+|**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027v1](http://arxiv.org/abs/2304.06027v1)|null|
+|**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v1](http://arxiv.org/abs/2304.06025v1)|null|
+|**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020v1](http://arxiv.org/abs/2304.06020v1)|null|
+|**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019v1](http://arxiv.org/abs/2304.06019v1)|**[link](https://github.com/jnjaby/alignformer)**|
+|**2023-04-12**|**Adaptive Human Matting for Dynamic Videos**|Chung-Ching Lin et.al.|[2304.06018v1](http://arxiv.org/abs/2304.06018v1)|null|
+|**2023-04-12**|**Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators**|Hongye Xu et.al.|[2304.06017v1](http://arxiv.org/abs/2304.06017v1)|null|
+|**2023-04-12**|**An Improved Heart Disease Prediction Using Stacked Ensemble Method**|Md. Maidul Islam et.al.|[2304.06015v1](http://arxiv.org/abs/2304.06015v1)|null|
+|**2023-04-12**|**Rigidly-rotating scalar fields: between real divergence and imaginary fractalization**|Victor E. Ambruş et.al.|[2304.05998v1](http://arxiv.org/abs/2304.05998v1)|null|
 |**2023-04-11**|**Discrete pre-Tannakian categories**|Nate Harman et.al.|[2304.05375v1](http://arxiv.org/abs/2304.05375v1)|null|
 |**2023-04-11**|**A comparative study between paired and unpaired Image Quality Assessment in Low-Dose CT Denoising**|Francesco Di Feola et.al.|[2304.05359v1](http://arxiv.org/abs/2304.05359v1)|**[link](https://github.com/francescodifeola/iqa-denosing)**|
 |**2023-04-11**|**On Elliott's conjecture and applications**|Oleksiy Klurman et.al.|[2304.05344v1](http://arxiv.org/abs/2304.05344v1)|null|
@@ -2143,6 +2153,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973v1](http://arxiv.org/abs/2304.05973v1)|null|
+|**2023-04-12**|**RESET: Revisiting Trajectory Sets for Conditional Behavior Prediction**|Julian Schmidt et.al.|[2304.05856v1](http://arxiv.org/abs/2304.05856v1)|null|
+|**2023-04-12**|**DUFormer: A Novel Architecture for Power Line Segmentation of Aerial Images**|Deyu An et.al.|[2304.05821v1](http://arxiv.org/abs/2304.05821v1)|null|
+|**2023-04-12**|**The Generalized Plasma Focus Problem and its Application to Space Propulsion**|S K H Auluck et.al.|[2304.05780v1](http://arxiv.org/abs/2304.05780v1)|null|
+|**2023-04-12**|**Multisensor fusion-based digital twin in additive manufacturing for in-situ quality monitoring and defect correction**|Lequn Chen et.al.|[2304.05685v1](http://arxiv.org/abs/2304.05685v1)|null|
+|**2023-04-11**|**SceneCalib: Automatic Targetless Calibration of Cameras and Lidars in Autonomous Driving**|Ayon Sen et.al.|[2304.05530v1](http://arxiv.org/abs/2304.05530v1)|null|
+|**2023-04-11**|**Training Large Language Models Efficiently with Sparsity and Dataflow**|Venkat Srinivasan et.al.|[2304.05511v1](http://arxiv.org/abs/2304.05511v1)|null|
 |**2023-04-11**|**Unveiling the non-Abelian statistics of $D(S_3)$ anyons via photonic simulation**|Suraj Goel et.al.|[2304.05286v1](http://arxiv.org/abs/2304.05286v1)|null|
 |**2023-04-11**|**flap: A Deterministic Parser with Fused Lexing**|Neel Krishnaswami et.al.|[2304.05276v1](http://arxiv.org/abs/2304.05276v1)|null|
 |**2023-04-11**|**Multi-scale Fusion Fault Diagnosis Method Based on Two-Dimensionaliztion Sequence in Complex Scenarios**|Weiyang Jin et.al.|[2304.05198v1](http://arxiv.org/abs/2304.05198v1)|null|
