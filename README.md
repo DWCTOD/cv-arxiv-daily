@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Representing Volumetric Videos as Dynamic MLP Maps**|Sida Peng et.al.|[2304.06717v1](http://arxiv.org/abs/2304.06717v1)|null|
+|**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
+|**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711v1](http://arxiv.org/abs/2304.06711v1)|null|
+|**2023-04-13**|**Remote Sensing Change Detection With Transformers Trained from Scratch**|Mubashir Noman et.al.|[2304.06710v1](http://arxiv.org/abs/2304.06710v1)|**[link](https://github.com/mustansarfiaz/scratchformer)**|
+|**2023-04-13**|**Verbs in Action: Improving verb understanding in video-language models**|Liliane Momeni et.al.|[2304.06708v1](http://arxiv.org/abs/2304.06708v1)|null|
+|**2023-04-13**|**How Will It Drape Like? Capturing Fabric Mechanics from Depth Images**|Carlos Rodriguez-Pardo et.al.|[2304.06704v1](http://arxiv.org/abs/2304.06704v1)|null|
+|**2023-04-13**|**Learning Controllable 3D Diffusion Models from Single-view Images**|Jiatao Gu et.al.|[2304.06700v1](http://arxiv.org/abs/2304.06700v1)|null|
+|**2023-04-13**|**Improving novelty detection with generative adversarial networks on hand gesture data**|Miguel Simão et.al.|[2304.06696v1](http://arxiv.org/abs/2304.06696v1)|null|
+|**2023-04-13**|**LSFSL: Leveraging Shape Information in Few-shot Learning**|Deepan Chakravarthi Padmanabhan et.al.|[2304.06672v1](http://arxiv.org/abs/2304.06672v1)|null|
+|**2023-04-13**|**Do deep neural networks have an inbuilt Occam's razor?**|Chris Mingard et.al.|[2304.06670v1](http://arxiv.org/abs/2304.06670v1)|null|
 |**2023-04-12**|**Fluctuation based interpretable analysis scheme for quantum many-body snapshots**|Henning Schlömer et.al.|[2304.06029v1](http://arxiv.org/abs/2304.06029v1)|null|
 |**2023-04-12**|**RECLIP: Resource-efficient CLIP by Training with Small Images**|Runze Li et.al.|[2304.06028v1](http://arxiv.org/abs/2304.06028v1)|null|
 |**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027v1](http://arxiv.org/abs/2304.06027v1)|null|
@@ -2149,6 +2159,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Remote Sensing Change Detection With Transformers Trained from Scratch**|Mubashir Noman et.al.|[2304.06710v1](http://arxiv.org/abs/2304.06710v1)|**[link](https://github.com/mustansarfiaz/scratchformer)**|
+|**2023-04-13**|**DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos**|Qi Zhao et.al.|[2304.06544v1](http://arxiv.org/abs/2304.06544v1)|null|
+|**2023-04-13**|**Robust Multiview Multimodal Driver Monitoring System Using Masked Multi-Head Self-Attention**|Yiming Ma et.al.|[2304.06370v1](http://arxiv.org/abs/2304.06370v1)|**[link](https://github.com/yiming-m/mhsa)**|
+|**2023-04-13**|**Application of fusion technique to the solution of Harrington problem and its generalizations to Baire and measurable functions, part I**|Sławomir Kusiński et.al.|[2304.06361v1](http://arxiv.org/abs/2304.06361v1)|null|
+|**2023-04-13**|**Deep Metric Multi-View Hashing for Multimedia Retrieval**|Jian Zhu et.al.|[2304.06358v1](http://arxiv.org/abs/2304.06358v1)|null|
+|**2023-04-13**|**RoSI: Recovering 3D Shape Interiors from Few Articulation Images**|Akshay Gadi Patil et.al.|[2304.06342v1](http://arxiv.org/abs/2304.06342v1)|null|
+|**2023-04-13**|**Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs**|Zhaoliang Chen et.al.|[2304.06336v1](http://arxiv.org/abs/2304.06336v1)|null|
+|**2023-04-13**|**Survey on LiDAR Perception in Adverse Weather Conditions**|Mariella Dreissig et.al.|[2304.06312v1](http://arxiv.org/abs/2304.06312v1)|null|
+|**2023-04-13**|**Efficient Multimodal Fusion via Interactive Prompting**|Yaowei Li et.al.|[2304.06306v1](http://arxiv.org/abs/2304.06306v1)|null|
+|**2023-04-13**|**BotMoE: Twitter Bot Detection with Community-Aware Mixtures of Modal-Specific Experts**|Yuhan Liu et.al.|[2304.06280v1](http://arxiv.org/abs/2304.06280v1)|null|
 |**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973v1](http://arxiv.org/abs/2304.05973v1)|null|
 |**2023-04-12**|**RESET: Revisiting Trajectory Sets for Conditional Behavior Prediction**|Julian Schmidt et.al.|[2304.05856v1](http://arxiv.org/abs/2304.05856v1)|null|
 |**2023-04-12**|**DUFormer: A Novel Architecture for Power Line Segmentation of Aerial Images**|Deyu An et.al.|[2304.05821v1](http://arxiv.org/abs/2304.05821v1)|null|
