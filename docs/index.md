@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline**|Alessia Gerbasi et.al.|[2304.07277v1](http://arxiv.org/abs/2304.07277v1)|null|
+|**2023-04-14**|**Genus Comparisons in the Topological Analysis of RNA Structures**|Nicolò Cangiotti et.al.|[2304.07273v1](http://arxiv.org/abs/2304.07273v1)|null|
+|**2023-04-14**|**Phantom Embeddings: Using Embedding Space for Model Regularization in Deep Neural Networks**|Mofassir ul Islam Arif et.al.|[2304.07262v1](http://arxiv.org/abs/2304.07262v1)|null|
+|**2023-04-14**|**The University of California San Francisco, Brain Metastases Stereotactic Radiosurgery (UCSF-BMSR) MRI Dataset**|Jeffrey D. Rudie et.al.|[2304.07248v1](http://arxiv.org/abs/2304.07248v1)|null|
+|**2023-04-14**|**Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph**|Cheng Deng et.al.|[2304.07242v1](http://arxiv.org/abs/2304.07242v1)|null|
+|**2023-04-14**|**PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition**|Xinwen Fan et.al.|[2304.07230v1](http://arxiv.org/abs/2304.07230v1)|**[link](https://github.com/xwf199/parformer)**|
+|**2023-04-14**|**Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models**|Yaohua Zha et.al.|[2304.07221v1](http://arxiv.org/abs/2304.07221v1)|**[link](https://github.com/zyh16143998882/IDPT)**|
+|**2023-04-14**|**Emergency Resource Layout with Multiple Objectives under Complex Disaster Scenarios**|Changwei Yuan et.al.|[2304.07216v1](http://arxiv.org/abs/2304.07216v1)|null|
+|**2023-04-14**|**Radio Galaxy Zoo EMU: Towards a Semantic Radio Galaxy Morphology Taxonomy**|Micah Bowles et.al.|[2304.07171v1](http://arxiv.org/abs/2304.07171v1)|null|
+|**2023-04-14**|**Robust thalamic nuclei segmentation from T1-weighted MRI**|Julie P. Vidal et.al.|[2304.07167v1](http://arxiv.org/abs/2304.07167v1)|null|
 |**2023-04-13**|**Representing Volumetric Videos as Dynamic MLP Maps**|Sida Peng et.al.|[2304.06717v1](http://arxiv.org/abs/2304.06717v1)|null|
 |**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711v1](http://arxiv.org/abs/2304.06711v1)|null|
@@ -2163,6 +2173,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250v1](http://arxiv.org/abs/2304.07250v1)|null|
+|**2023-04-14**|**A Byte Sequence is Worth an Image: CNN for File Fragment Classification Using Bit Shift and n-Gram Embeddings**|Wenyang Liu et.al.|[2304.06983v1](http://arxiv.org/abs/2304.06983v1)|**[link](https://github.com/wenyang001/byte2image)**|
+|**2023-04-14**|**Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**|Wenyang Liu et.al.|[2304.06976v1](http://arxiv.org/abs/2304.06976v1)|**[link](https://github.com/wenyang001/two-acir)**|
+|**2023-04-14**|**A Unified HDR Imaging Method with Pixel and Patch Level**|Qingsen Yan et.al.|[2304.06943v1](http://arxiv.org/abs/2304.06943v1)|null|
 |**2023-04-13**|**Remote Sensing Change Detection With Transformers Trained from Scratch**|Mubashir Noman et.al.|[2304.06710v1](http://arxiv.org/abs/2304.06710v1)|**[link](https://github.com/mustansarfiaz/scratchformer)**|
 |**2023-04-13**|**DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos**|Qi Zhao et.al.|[2304.06544v1](http://arxiv.org/abs/2304.06544v1)|null|
 |**2023-04-13**|**Robust Multiview Multimodal Driver Monitoring System Using Masked Multi-Head Self-Attention**|Yiming Ma et.al.|[2304.06370v1](http://arxiv.org/abs/2304.06370v1)|**[link](https://github.com/yiming-m/mhsa)**|
