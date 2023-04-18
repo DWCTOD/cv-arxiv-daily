@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-04-17, **Conditional Generation of Audio from Video via Foley Analogies**, Yuexi Du et.al., Paper: [http://arxiv.org/abs/2304.08490v1](http://arxiv.org/abs/2304.08490v1), Code: **[https://github.com/XYPB/CondFoleyGen](https://github.com/XYPB/CondFoleyGen)**
+- 2023-04-17, **Affordances from Human Videos as a Versatile Representation for Robotics**, Shikhar Bahl et.al., Paper: [http://arxiv.org/abs/2304.08488v1](http://arxiv.org/abs/2304.08488v1)
+- 2023-04-17, **Text2Performer: Text-Driven Human Video Generation**, Yuming Jiang et.al., Paper: [http://arxiv.org/abs/2304.08483v1](http://arxiv.org/abs/2304.08483v1), Code: **[https://github.com/yumingj/text2performer](https://github.com/yumingj/text2performer)**
+- 2023-04-17, **Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**, Jie An et.al., Paper: [http://arxiv.org/abs/2304.08477v1](http://arxiv.org/abs/2304.08477v1)
+- 2023-04-17, **Synthetic Data from Diffusion Models Improves ImageNet Classification**, Shekoofeh Azizi et.al., Paper: [http://arxiv.org/abs/2304.08466v1](http://arxiv.org/abs/2304.08466v1)
+- 2023-04-17, **Efficient Video Action Detection with Token Dropout and Context Refinement**, Lei Chen et.al., Paper: [http://arxiv.org/abs/2304.08451v1](http://arxiv.org/abs/2304.08451v1)
+- 2023-04-17, **Morph-SSL: Self-Supervision with Longitudinal Morphing to Predict AMD Progression from OCT**, Arunava Chakravarty et.al., Paper: [http://arxiv.org/abs/2304.08439v1](http://arxiv.org/abs/2304.08439v1)
+- 2023-04-17, **CAViaR: Context Aware Video Recommendations**, Khushhall Chandra Mahajan et.al., Paper: [http://arxiv.org/abs/2304.08435v1](http://arxiv.org/abs/2304.08435v1)
+- 2023-04-17, **Tame symmetric algebras of period four**, Karin Erdmann et.al., Paper: [http://arxiv.org/abs/2304.08414v1](http://arxiv.org/abs/2304.08414v1)
+- 2023-04-17, **OVTrack: Open-Vocabulary Multiple Object Tracking**, Siyuan Li et.al., Paper: [http://arxiv.org/abs/2304.08408v1](http://arxiv.org/abs/2304.08408v1)
 - 2023-04-14, **CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline**, Alessia Gerbasi et.al., Paper: [http://arxiv.org/abs/2304.07277v1](http://arxiv.org/abs/2304.07277v1)
 - 2023-04-14, **Genus Comparisons in the Topological Analysis of RNA Structures**, Nicolò Cangiotti et.al., Paper: [http://arxiv.org/abs/2304.07273v1](http://arxiv.org/abs/2304.07273v1)
 - 2023-04-14, **Phantom Embeddings: Using Embedding Space for Model Regularization in Deep Neural Networks**, Mofassir ul Islam Arif et.al., Paper: [http://arxiv.org/abs/2304.07262v1](http://arxiv.org/abs/2304.07262v1)
@@ -2165,6 +2175,16 @@
 
 ## MultiModal
 
+- 2023-04-17, **Neural Map Prior for Autonomous Driving**, Xuan Xiong et.al., Paper: [http://arxiv.org/abs/2304.08481v1](http://arxiv.org/abs/2304.08481v1)
+- 2023-04-17, **Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2304.08475v1](http://arxiv.org/abs/2304.08475v1)
+- 2023-04-17, **Simulation of the TAEs saturation phase in Large Helical Device device: MHD burst**, J. Varela et.al., Paper: [http://arxiv.org/abs/2304.08416v1](http://arxiv.org/abs/2304.08416v1)
+- 2023-04-17, **Theoretical study of the Alfven Eigenmode stability in CFETR steady state discharges**, J. Varela et.al., Paper: [http://arxiv.org/abs/2304.08412v1](http://arxiv.org/abs/2304.08412v1)
+- 2023-04-17, **Multimodal Short Video Rumor Detection System Based on Contrastive Learning**, Yuxing Yang et.al., Paper: [http://arxiv.org/abs/2304.08401v1](http://arxiv.org/abs/2304.08401v1)
+- 2023-04-17, **A high-efficiency proton-boron fusion scheme taking into account the effects of quantum degeneracy**, S. J. Liu et.al., Paper: [http://arxiv.org/abs/2304.08357v1](http://arxiv.org/abs/2304.08357v1)
+- 2023-04-17, **SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection**, Binglu Ren et.al., Paper: [http://arxiv.org/abs/2304.08304v1](http://arxiv.org/abs/2304.08304v1)
+- 2023-04-17, **Statute-enhanced lexical retrieval of court cases for COLIEE 2022**, Tobias Fink et.al., Paper: [http://arxiv.org/abs/2304.08188v1](http://arxiv.org/abs/2304.08188v1)
+- 2023-04-17, **Tackling Face Verification Edge Cases: In-Depth Analysis and Human-Machine Fusion Approach**, Martin Knoche et.al., Paper: [http://arxiv.org/abs/2304.08134v1](http://arxiv.org/abs/2304.08134v1)
+- 2023-04-17, **Spider Ion Source and Extraction Power Supplies -- An update of the design after four years of operation**, A. Shepherd et.al., Paper: [http://arxiv.org/abs/2304.08124v1](http://arxiv.org/abs/2304.08124v1)
 - 2023-04-14, **Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**, Felix Ott et.al., Paper: [http://arxiv.org/abs/2304.07250v1](http://arxiv.org/abs/2304.07250v1)
 - 2023-04-14, **A Byte Sequence is Worth an Image: CNN for File Fragment Classification Using Bit Shift and n-Gram Embeddings**, Wenyang Liu et.al., Paper: [http://arxiv.org/abs/2304.06983v1](http://arxiv.org/abs/2304.06983v1), Code: **[https://github.com/wenyang001/byte2image](https://github.com/wenyang001/byte2image)**
 - 2023-04-14, **Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**, Wenyang Liu et.al., Paper: [http://arxiv.org/abs/2304.06976v1](http://arxiv.org/abs/2304.06976v1), Code: **[https://github.com/wenyang001/two-acir](https://github.com/wenyang001/two-acir)**
