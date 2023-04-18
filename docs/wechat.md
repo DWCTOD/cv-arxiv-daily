@@ -1,4 +1,4 @@
-> Updated on 2023.04.17
+> Updated on 2023.04.18
 
 ## Video_Classification
 
@@ -2168,7 +2168,7 @@
 - 2023-04-14, **Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**, Felix Ott et.al., Paper: [http://arxiv.org/abs/2304.07250v1](http://arxiv.org/abs/2304.07250v1)
 - 2023-04-14, **A Byte Sequence is Worth an Image: CNN for File Fragment Classification Using Bit Shift and n-Gram Embeddings**, Wenyang Liu et.al., Paper: [http://arxiv.org/abs/2304.06983v1](http://arxiv.org/abs/2304.06983v1), Code: **[https://github.com/wenyang001/byte2image](https://github.com/wenyang001/byte2image)**
 - 2023-04-14, **Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**, Wenyang Liu et.al., Paper: [http://arxiv.org/abs/2304.06976v1](http://arxiv.org/abs/2304.06976v1), Code: **[https://github.com/wenyang001/two-acir](https://github.com/wenyang001/two-acir)**
-- 2023-04-14, **A Unified HDR Imaging Method with Pixel and Patch Level**, Qingsen Yan et.al., Paper: [http://arxiv.org/abs/2304.06943v1](http://arxiv.org/abs/2304.06943v1)
+- 2023-04-17, **A Unified HDR Imaging Method with Pixel and Patch Level**, Qingsen Yan et.al., Paper: [http://arxiv.org/abs/2304.06943v2](http://arxiv.org/abs/2304.06943v2)
 - 2023-04-13, **Remote Sensing Change Detection With Transformers Trained from Scratch**, Mubashir Noman et.al., Paper: [http://arxiv.org/abs/2304.06710v1](http://arxiv.org/abs/2304.06710v1), Code: **[https://github.com/mustansarfiaz/scratchformer](https://github.com/mustansarfiaz/scratchformer)**
 - 2023-04-13, **DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos**, Qi Zhao et.al., Paper: [http://arxiv.org/abs/2304.06544v1](http://arxiv.org/abs/2304.06544v1)
 - 2023-04-13, **Robust Multiview Multimodal Driver Monitoring System Using Masked Multi-Head Self-Attention**, Yiming Ma et.al., Paper: [http://arxiv.org/abs/2304.06370v1](http://arxiv.org/abs/2304.06370v1), Code: **[https://github.com/yiming-m/mhsa](https://github.com/yiming-m/mhsa)**
