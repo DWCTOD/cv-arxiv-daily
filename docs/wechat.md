@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-04-18, **Hyperbolic Image-Text Representations**, Karan Desai et.al., Paper: [http://arxiv.org/abs/2304.09172v1](http://arxiv.org/abs/2304.09172v1)
+- 2023-04-18, **Optimal PAC Bounds Without Uniform Convergence**, Ishaq Aden-Ali et.al., Paper: [http://arxiv.org/abs/2304.09167v1](http://arxiv.org/abs/2304.09167v1)
+- 2023-04-18, **Structure Preserving Cycle-GAN for Unsupervised Medical Image Domain Adaptation**, Paolo Iacono et.al., Paper: [http://arxiv.org/abs/2304.09164v1](http://arxiv.org/abs/2304.09164v1)
+- 2023-04-18, **Detection and Classification of Glioblastoma Brain Tumor**, Utkarsh Maurya et.al., Paper: [http://arxiv.org/abs/2304.09133v1](http://arxiv.org/abs/2304.09133v1)
+- 2023-04-18, **Variational Relational Point Completion Network for Robust 3D Classification**, Liang Pan et.al., Paper: [http://arxiv.org/abs/2304.09131v1](http://arxiv.org/abs/2304.09131v1)
+- 2023-04-18, **Safety Guaranteed Manipulation Based on Reinforcement Learning Planner and Model Predictive Control Actor**, Zhenshan Bing et.al., Paper: [http://arxiv.org/abs/2304.09119v1](http://arxiv.org/abs/2304.09119v1)
+- 2023-04-18, **Sliced Optimal Transport on the Sphere**, Michael Quellmalz et.al., Paper: [http://arxiv.org/abs/2304.09092v1](http://arxiv.org/abs/2304.09092v1)
+- 2023-04-18, **A general review on the NLS equation with point-concentrated nonlinearity**, Lorenzo Tentarelli et.al., Paper: [http://arxiv.org/abs/2304.09086v1](http://arxiv.org/abs/2304.09086v1)
+- 2023-04-18, **Performance of GAN-based augmentation for deep learning COVID-19 image classification**, Oleksandr Fedoruk et.al., Paper: [http://arxiv.org/abs/2304.09067v1](http://arxiv.org/abs/2304.09067v1)
+- 2023-04-18, **KSB stability is automatic in codimension 3**, János Kollár et.al., Paper: [http://arxiv.org/abs/2304.09009v1](http://arxiv.org/abs/2304.09009v1)
 - 2023-04-17, **Conditional Generation of Audio from Video via Foley Analogies**, Yuexi Du et.al., Paper: [http://arxiv.org/abs/2304.08490v1](http://arxiv.org/abs/2304.08490v1), Code: **[https://github.com/XYPB/CondFoleyGen](https://github.com/XYPB/CondFoleyGen)**
 - 2023-04-17, **Affordances from Human Videos as a Versatile Representation for Robotics**, Shikhar Bahl et.al., Paper: [http://arxiv.org/abs/2304.08488v1](http://arxiv.org/abs/2304.08488v1)
 - 2023-04-17, **Text2Performer: Text-Driven Human Video Generation**, Yuming Jiang et.al., Paper: [http://arxiv.org/abs/2304.08483v1](http://arxiv.org/abs/2304.08483v1), Code: **[https://github.com/yumingj/text2performer](https://github.com/yumingj/text2performer)**
@@ -2175,6 +2185,16 @@
 
 ## MultiModal
 
+- 2023-04-18, **Obtaining high resolution excitation functions with an active thick-target approach and validating them with mirror nuclei**, S. Hudan et.al., Paper: [http://arxiv.org/abs/2304.09117v1](http://arxiv.org/abs/2304.09117v1)
+- 2023-04-18, **CDFI: Cross Domain Feature Interaction for Robust Bronchi Lumen Detection**, Jiasheng Xu et.al., Paper: [http://arxiv.org/abs/2304.09115v1](http://arxiv.org/abs/2304.09115v1)
+- 2023-04-18, **Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmentation**, Chunyan Wang et.al., Paper: [http://arxiv.org/abs/2304.09059v1](http://arxiv.org/abs/2304.09059v1)
+- 2023-04-18, **Continuous-Time Range-Only Pose Estimation**, Abhishek Goudar et.al., Paper: [http://arxiv.org/abs/2304.09043v1](http://arxiv.org/abs/2304.09043v1)
+- 2023-04-18, **Learning to Fuse Monocular and Multi-view Cues for Multi-frame Depth Estimation in Dynamic Scenes**, Rui Li et.al., Paper: [http://arxiv.org/abs/2304.08993v1](http://arxiv.org/abs/2304.08993v1)
+- 2023-04-18, **SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**, Yiming Gao et.al., Paper: [http://arxiv.org/abs/2304.08971v1](http://arxiv.org/abs/2304.08971v1)
+- 2023-04-18, **Towards Zero-Shot Personalized Table-to-Text Generation with Contrastive Persona Distillation**, Haolan Zhan et.al., Paper: [http://arxiv.org/abs/2304.08911v1](http://arxiv.org/abs/2304.08911v1)
+- 2023-04-18, **Event Camera and LiDAR based Human Tracking for Adverse Lighting Conditions in Subterranean Environments**, Mario A. V. Saucedo et.al., Paper: [http://arxiv.org/abs/2304.08908v1](http://arxiv.org/abs/2304.08908v1)
+- 2023-04-18, **Integration studies of RF solid-state generators in the electrical system of NBTF experiments and ITER HNB**, R. Casagrande et.al., Paper: [http://arxiv.org/abs/2304.08825v1](http://arxiv.org/abs/2304.08825v1)
+- 2023-04-18, **Analysis of the ECH effect on the EPM/AEs stability in Heliotron J plasma using a Landau closure model**, J. Varela et.al., Paper: [http://arxiv.org/abs/2304.08773v1](http://arxiv.org/abs/2304.08773v1)
 - 2023-04-17, **Neural Map Prior for Autonomous Driving**, Xuan Xiong et.al., Paper: [http://arxiv.org/abs/2304.08481v1](http://arxiv.org/abs/2304.08481v1)
 - 2023-04-17, **Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2304.08475v1](http://arxiv.org/abs/2304.08475v1)
 - 2023-04-17, **Simulation of the TAEs saturation phase in Large Helical Device device: MHD burst**, J. Varela et.al., Paper: [http://arxiv.org/abs/2304.08416v1](http://arxiv.org/abs/2304.08416v1)
