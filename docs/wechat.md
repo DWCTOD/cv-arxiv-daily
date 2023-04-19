@@ -1,11 +1,11 @@
-> Updated on 2023.04.18
+> Updated on 2023.04.19
 
 ## Video_Classification
 
 - 2023-04-17, **Conditional Generation of Audio from Video via Foley Analogies**, Yuexi Du et.al., Paper: [http://arxiv.org/abs/2304.08490v1](http://arxiv.org/abs/2304.08490v1), Code: **[https://github.com/XYPB/CondFoleyGen](https://github.com/XYPB/CondFoleyGen)**
 - 2023-04-17, **Affordances from Human Videos as a Versatile Representation for Robotics**, Shikhar Bahl et.al., Paper: [http://arxiv.org/abs/2304.08488v1](http://arxiv.org/abs/2304.08488v1)
 - 2023-04-17, **Text2Performer: Text-Driven Human Video Generation**, Yuming Jiang et.al., Paper: [http://arxiv.org/abs/2304.08483v1](http://arxiv.org/abs/2304.08483v1), Code: **[https://github.com/yumingj/text2performer](https://github.com/yumingj/text2performer)**
-- 2023-04-17, **Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**, Jie An et.al., Paper: [http://arxiv.org/abs/2304.08477v1](http://arxiv.org/abs/2304.08477v1)
+- 2023-04-18, **Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**, Jie An et.al., Paper: [http://arxiv.org/abs/2304.08477v2](http://arxiv.org/abs/2304.08477v2)
 - 2023-04-17, **Synthetic Data from Diffusion Models Improves ImageNet Classification**, Shekoofeh Azizi et.al., Paper: [http://arxiv.org/abs/2304.08466v1](http://arxiv.org/abs/2304.08466v1)
 - 2023-04-17, **Efficient Video Action Detection with Token Dropout and Context Refinement**, Lei Chen et.al., Paper: [http://arxiv.org/abs/2304.08451v1](http://arxiv.org/abs/2304.08451v1)
 - 2023-04-17, **Morph-SSL: Self-Supervision with Longitudinal Morphing to Predict AMD Progression from OCT**, Arunava Chakravarty et.al., Paper: [http://arxiv.org/abs/2304.08439v1](http://arxiv.org/abs/2304.08439v1)
@@ -2179,11 +2179,11 @@
 - 2023-04-17, **Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2304.08475v1](http://arxiv.org/abs/2304.08475v1)
 - 2023-04-17, **Simulation of the TAEs saturation phase in Large Helical Device device: MHD burst**, J. Varela et.al., Paper: [http://arxiv.org/abs/2304.08416v1](http://arxiv.org/abs/2304.08416v1)
 - 2023-04-17, **Theoretical study of the Alfven Eigenmode stability in CFETR steady state discharges**, J. Varela et.al., Paper: [http://arxiv.org/abs/2304.08412v1](http://arxiv.org/abs/2304.08412v1)
-- 2023-04-17, **Multimodal Short Video Rumor Detection System Based on Contrastive Learning**, Yuxing Yang et.al., Paper: [http://arxiv.org/abs/2304.08401v1](http://arxiv.org/abs/2304.08401v1)
+- 2023-04-18, **Multimodal Short Video Rumor Detection System Based on Contrastive Learning**, Yuxing Yang et.al., Paper: [http://arxiv.org/abs/2304.08401v2](http://arxiv.org/abs/2304.08401v2)
 - 2023-04-17, **A high-efficiency proton-boron fusion scheme taking into account the effects of quantum degeneracy**, S. J. Liu et.al., Paper: [http://arxiv.org/abs/2304.08357v1](http://arxiv.org/abs/2304.08357v1)
 - 2023-04-17, **SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection**, Binglu Ren et.al., Paper: [http://arxiv.org/abs/2304.08304v1](http://arxiv.org/abs/2304.08304v1)
 - 2023-04-17, **Statute-enhanced lexical retrieval of court cases for COLIEE 2022**, Tobias Fink et.al., Paper: [http://arxiv.org/abs/2304.08188v1](http://arxiv.org/abs/2304.08188v1)
-- 2023-04-17, **Tackling Face Verification Edge Cases: In-Depth Analysis and Human-Machine Fusion Approach**, Martin Knoche et.al., Paper: [http://arxiv.org/abs/2304.08134v1](http://arxiv.org/abs/2304.08134v1)
+- 2023-04-18, **Tackling Face Verification Edge Cases: In-Depth Analysis and Human-Machine Fusion Approach**, Martin Knoche et.al., Paper: [http://arxiv.org/abs/2304.08134v2](http://arxiv.org/abs/2304.08134v2)
 - 2023-04-17, **Spider Ion Source and Extraction Power Supplies -- An update of the design after four years of operation**, A. Shepherd et.al., Paper: [http://arxiv.org/abs/2304.08124v1](http://arxiv.org/abs/2304.08124v1)
 - 2023-04-14, **Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**, Felix Ott et.al., Paper: [http://arxiv.org/abs/2304.07250v1](http://arxiv.org/abs/2304.07250v1)
 - 2023-04-14, **A Byte Sequence is Worth an Image: CNN for File Fragment Classification Using Bit Shift and n-Gram Embeddings**, Wenyang Liu et.al., Paper: [http://arxiv.org/abs/2304.06983v1](http://arxiv.org/abs/2304.06983v1), Code: **[https://github.com/wenyang001/byte2image](https://github.com/wenyang001/byte2image)**
