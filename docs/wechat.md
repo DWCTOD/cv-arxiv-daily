@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-04-20, **Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**, Stamatios Lefkimmiatis et.al., Paper: [http://arxiv.org/abs/2304.10536v1](http://arxiv.org/abs/2304.10536v1)
+- 2023-04-20, **Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion**, Tomas Jakab et.al., Paper: [http://arxiv.org/abs/2304.10535v1](http://arxiv.org/abs/2304.10535v1)
+- 2023-04-20, **Multidimensional Uncertainty Quantification for Deep Neural Networks**, Xujiang Zhao et.al., Paper: [http://arxiv.org/abs/2304.10527v1](http://arxiv.org/abs/2304.10527v1)
+- 2023-04-20, **Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget**, Johannes Lehner et.al., Paper: [http://arxiv.org/abs/2304.10520v1](http://arxiv.org/abs/2304.10520v1), Code: **[https://github.com/ml-jku/mae-ct](https://github.com/ml-jku/mae-ct)**
+- 2023-04-20, **"Can We Detect Substance Use Disorder?": Knowledge and Time Aware Classification on Social Media from Darkweb**, Usha Lokala et.al., Paper: [http://arxiv.org/abs/2304.10512v1](http://arxiv.org/abs/2304.10512v1)
+- 2023-04-20, **Reconstructing Signing Avatars From Video Using Linguistic Priors**, Maria-Paola Forte et.al., Paper: [http://arxiv.org/abs/2304.10482v1](http://arxiv.org/abs/2304.10482v1)
+- 2023-04-20, **Implicit Temporal Modeling with Learnable Alignment for Video Recognition**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2304.10465v1](http://arxiv.org/abs/2304.10465v1), Code: **[https://github.com/francis-rings/ila](https://github.com/francis-rings/ila)**
+- 2023-04-20, **Angle based dynamic learning rate for gradient descent**, Neel Mishra et.al., Paper: [http://arxiv.org/abs/2304.10457v1](http://arxiv.org/abs/2304.10457v1), Code: **[https://github.com/misterpawan/dycent](https://github.com/misterpawan/dycent)**
+- 2023-04-20, **On the classification of singular cubic threefolds**, Sasha Viktorova et.al., Paper: [http://arxiv.org/abs/2304.10452v1](http://arxiv.org/abs/2304.10452v1)
+- 2023-04-20, **Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health**, Shaoxiong Ji et.al., Paper: [http://arxiv.org/abs/2304.10447v1](http://arxiv.org/abs/2304.10447v1)
 - 2023-04-19, **Transformer-Based Visual Segmentation: A Survey**, Xiangtai Li et.al., Paper: [http://arxiv.org/abs/2304.09854v1](http://arxiv.org/abs/2304.09854v1), Code: **[https://github.com/lxtgh/awesome-segmenation-with-transformer](https://github.com/lxtgh/awesome-segmenation-with-transformer)**
 - 2023-04-19, **AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**, Zhen Li et.al., Paper: [http://arxiv.org/abs/2304.09790v1](http://arxiv.org/abs/2304.09790v1), Code: **[https://github.com/mcg-nku/amt](https://github.com/mcg-nku/amt)**
 - 2023-04-19, **Automatic Interaction and Activity Recognition from Videos of Human Manual Demonstrations with Application to Anomaly Detection**, Elena Merlo et.al., Paper: [http://arxiv.org/abs/2304.09789v1](http://arxiv.org/abs/2304.09789v1)
@@ -2195,6 +2205,16 @@
 
 ## MultiModal
 
+- 2023-04-20, **Multidimensional Uncertainty Quantification for Deep Neural Networks**, Xujiang Zhao et.al., Paper: [http://arxiv.org/abs/2304.10527v1](http://arxiv.org/abs/2304.10527v1)
+- 2023-04-20, **Creation and annihilation operators for 2D non-abelian anyons**, Nicetu Tibau Vidal et.al., Paper: [http://arxiv.org/abs/2304.10462v1](http://arxiv.org/abs/2304.10462v1)
+- 2023-04-20, **Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review**, Shanliang Yao et.al., Paper: [http://arxiv.org/abs/2304.10410v1](http://arxiv.org/abs/2304.10410v1)
+- 2023-04-20, **SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning**, Lingyuan Meng et.al., Paper: [http://arxiv.org/abs/2304.10297v1](http://arxiv.org/abs/2304.10297v1)
+- 2023-04-20, **Fusion of conformal defects in interacting theories**, Alexander Söderberg Rousu et.al., Paper: [http://arxiv.org/abs/2304.10239v1](http://arxiv.org/abs/2304.10239v1)
+- 2023-04-20, **Multi-view Vision-Prompt Fusion Network: Can 2D Pre-trained Model Boost 3D Point Cloud Data-scarce Learning?**, Haoyang Peng et.al., Paper: [http://arxiv.org/abs/2304.10224v1](http://arxiv.org/abs/2304.10224v1)
+- 2023-04-20, **Row-Column duality and combinatorial topological strings**, Adrian Padellaro et.al., Paper: [http://arxiv.org/abs/2304.10217v1](http://arxiv.org/abs/2304.10217v1)
+- 2023-04-20, **The impact of the AI revolution on asset management**, Michael Kopp et.al., Paper: [http://arxiv.org/abs/2304.10212v1](http://arxiv.org/abs/2304.10212v1)
+- 2023-04-20, **SCoDA: Domain Adaptive Shape Completion for Real Scans**, Yushuang Wu et.al., Paper: [http://arxiv.org/abs/2304.10179v1](http://arxiv.org/abs/2304.10179v1)
+- 2023-04-20, **Scene Style Text Editing**, Tonghua Su et.al., Paper: [http://arxiv.org/abs/2304.10097v1](http://arxiv.org/abs/2304.10097v1)
 - 2023-04-20, **Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**, Songhua Liu et.al., Paper: [http://arxiv.org/abs/2304.09728v2](http://arxiv.org/abs/2304.09728v2), Code: **[https://github.com/huage001/transfer-any-style](https://github.com/huage001/transfer-any-style)**
 - 2023-04-19, **UniCal: a Single-Branch Transformer-Based Model for Camera-to-LiDAR Calibration and Validation**, Mathieu Cocheteux et.al., Paper: [http://arxiv.org/abs/2304.09715v1](http://arxiv.org/abs/2304.09715v1)
 - 2023-04-19, **CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**, Yang Yang et.al., Paper: [http://arxiv.org/abs/2304.09694v1](http://arxiv.org/abs/2304.09694v1)
