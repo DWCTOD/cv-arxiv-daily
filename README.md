@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Implicit Neural Head Synthesis via Controllable Local Deformation Fields**|Chuhan Chen et.al.|[2304.11113v1](http://arxiv.org/abs/2304.11113v1)|null|
+|**2023-04-21**|**A Convolutional Spiking Network for Gesture Recognition in Brain-Computer Interfaces**|Yiming Ai et.al.|[2304.11106v1](http://arxiv.org/abs/2304.11106v1)|null|
+|**2023-04-21**|**Classification of solutions to Hardy-Sobolev Doubly Critical Systems**|Francesco Esposito et.al.|[2304.11066v1](http://arxiv.org/abs/2304.11066v1)|null|
+|**2023-04-21**|**CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**|Shangda Wu et.al.|[2304.11029v1](http://arxiv.org/abs/2304.11029v1)|**[link](https://github.com/microsoft/muzic/tree/main/clamp)**|
+|**2023-04-21**|**3d mirror symmetry of braided tensor categories**|Andrew Ballin et.al.|[2304.11001v1](http://arxiv.org/abs/2304.11001v1)|null|
+|**2023-04-21**|**Information Extraction from Documents: Question Answering vs Token Classification in real-world setups**|Laurent Lam et.al.|[2304.10994v1](http://arxiv.org/abs/2304.10994v1)|null|
+|**2023-04-21**|**LEIA: Linguistic Embeddings for the Identification of Affect**|Segun Taofeek Aroyehun et.al.|[2304.10973v1](http://arxiv.org/abs/2304.10973v1)|null|
+|**2023-04-21**|**Factored Neural Representation for Scene Understanding**|Yu-Shiang Wong et.al.|[2304.10950v1](http://arxiv.org/abs/2304.10950v1)|null|
+|**2023-04-21**|**A combined approach to analyze and classify families of classical spin liquids**|Naïmo Davier et.al.|[2304.10906v1](http://arxiv.org/abs/2304.10906v1)|null|
+|**2023-04-21**|**AMP in the wild: Learning robust, agile, natural legged locomotion skills**|Yikai Wang et.al.|[2304.10888v1](http://arxiv.org/abs/2304.10888v1)|null|
 |**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
 |**2023-04-20**|**Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion**|Tomas Jakab et.al.|[2304.10535v1](http://arxiv.org/abs/2304.10535v1)|null|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
@@ -2209,6 +2219,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Using Mobile Data and Deep Models to Assess Auditory Verbal Hallucinations**|Shayan Mirjafari et.al.|[2304.11049v1](http://arxiv.org/abs/2304.11049v1)|null|
+|**2023-04-21**|**Visualizing Ultrafast Kinetic Instabilities in Laser-Driven Solids using X-ray Scattering**|Paweł Ordyna et.al.|[2304.11011v1](http://arxiv.org/abs/2304.11011v1)|null|
+|**2023-04-21**|**Missing Modality Robustness in Semi-Supervised Multi-Modal Semantic Segmentation**|Harsh Maheshwari et.al.|[2304.10756v1](http://arxiv.org/abs/2304.10756v1)|**[link](https://github.com/harshm121/m3l)**|
+|**2023-04-21**|**Multi-Modal Deep Learning for Credit Rating Prediction Using Text and Numerical Data Streams**|Mahsa Tavakoli et.al.|[2304.10740v1](http://arxiv.org/abs/2304.10740v1)|null|
+|**2023-04-21**|**VisFusion: Visibility-aware Online 3D Scene Reconstruction from Videos**|Huiyu Gao et.al.|[2304.10687v1](http://arxiv.org/abs/2304.10687v1)|**[link](https://github.com/huiyu-gao/visfusion)**|
+|**2023-04-20**|**ULEEN: A Novel Architecture for Ultra Low-Energy Edge Neural Networks**|Zachary Susskind et.al.|[2304.10618v1](http://arxiv.org/abs/2304.10618v1)|null|
+|**2023-04-20**|**Enhancing Artificial intelligence Policies with Fusion and Forecasting: Insights from Indian Patents Using Network Analysis**|Akhil Kuniyil et.al.|[2304.10596v1](http://arxiv.org/abs/2304.10596v1)|null|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527v1](http://arxiv.org/abs/2304.10527v1)|null|
 |**2023-04-21**|**Creation and annihilation operators for 2D non-abelian anyons**|Nicetu Tibau Vidal et.al.|[2304.10462v2](http://arxiv.org/abs/2304.10462v2)|null|
 |**2023-04-20**|**Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review**|Shanliang Yao et.al.|[2304.10410v1](http://arxiv.org/abs/2304.10410v1)|null|
