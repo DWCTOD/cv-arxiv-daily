@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis**|Chonghyuk Song et.al.|[2304.12317v1](http://arxiv.org/abs/2304.12317v1)|null|
+|**2023-04-24**|**Segment Anything in Medical Images**|Jun Ma et.al.|[2304.12306v1](http://arxiv.org/abs/2304.12306v1)|**[link](https://github.com/bowang-lab/medsam)**|
+|**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301v1](http://arxiv.org/abs/2304.12301v1)|null|
+|**2023-04-24**|**Large-capacity and Flexible Video Steganography via Invertible Neural Network**|Chong Mou et.al.|[2304.12300v1](http://arxiv.org/abs/2304.12300v1)|**[link](https://github.com/mc-e/lf-vsn)**|
+|**2023-04-24**|**On local delta invariant of del Pezzo surfaces**|Erroxe Etxabarri Alberdi et.al.|[2304.12286v1](http://arxiv.org/abs/2304.12286v1)|null|
+|**2023-04-24**|**HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video**|Jia-Wei Liu et.al.|[2304.12281v1](http://arxiv.org/abs/2304.12281v1)|null|
+|**2023-04-24**|**Dynamic generation and attribution of revenues in a video platform**|Francisco Lopez-Navarrete et.al.|[2304.12268v1](http://arxiv.org/abs/2304.12268v1)|null|
+|**2023-04-24**|**Pre-Training Strategies Using Contrastive Learning and Playlist Information for Music Classification and Similarity**|Pablo Alonso-Jiménez et.al.|[2304.12257v1](http://arxiv.org/abs/2304.12257v1)|null|
+|**2023-04-24**|**Ordinal time series analysis with the R package otsfeatures**|Ángel López Oriona et.al.|[2304.12251v1](http://arxiv.org/abs/2304.12251v1)|null|
+|**2023-04-24**|**Classification of regular subalgebras of injective type III factors**|Soham Chakraborty et.al.|[2304.12243v1](http://arxiv.org/abs/2304.12243v1)|null|
 |**2023-04-21**|**Implicit Neural Head Synthesis via Controllable Local Deformation Fields**|Chuhan Chen et.al.|[2304.11113v1](http://arxiv.org/abs/2304.11113v1)|null|
 |**2023-04-21**|**A Convolutional Spiking Network for Gesture Recognition in Brain-Computer Interfaces**|Yiming Ai et.al.|[2304.11106v1](http://arxiv.org/abs/2304.11106v1)|null|
 |**2023-04-21**|**Classification of solutions to Hardy-Sobolev Doubly Critical Systems**|Francesco Esposito et.al.|[2304.11066v1](http://arxiv.org/abs/2304.11066v1)|null|
@@ -2219,6 +2229,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Li et.al.|[2304.12310v1](http://arxiv.org/abs/2304.12310v1)|**[link](https://github.com/bravegroup/fullysparsefusion)**|
+|**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301v1](http://arxiv.org/abs/2304.12301v1)|null|
+|**2023-04-24**|**Imaging 3D Chemistry at 1 nm Resolution with Fused Multi-Modal Electron Tomography**|Jonathan Schwartz et.al.|[2304.12259v1](http://arxiv.org/abs/2304.12259v1)|null|
+|**2023-04-24**|**Anserini Gets Dense Retrieval: Integration of Lucene's HNSW Indexes**|Xueguang Ma et.al.|[2304.12139v1](http://arxiv.org/abs/2304.12139v1)|null|
+|**2023-04-24**|**Deep Audio-Visual Singing Voice Transcription based on Self-Supervised Learning Models**|Xiangming Gu et.al.|[2304.12082v1](http://arxiv.org/abs/2304.12082v1)|null|
+|**2023-04-24**|**A Spatial Calibration Method for Robust Cooperative Perception**|Zhiying Song et.al.|[2304.12033v1](http://arxiv.org/abs/2304.12033v1)|null|
+|**2023-04-24**|**MMC: Multi-Modal Colorization of Images using Textual Descriptions**|Subhankar Ghosh et.al.|[2304.11993v1](http://arxiv.org/abs/2304.11993v1)|null|
+|**2023-04-24**|**Graph-theoretical optimization of fusion-based graph state generation**|Seok-Hyung Lee et.al.|[2304.11988v1](http://arxiv.org/abs/2304.11988v1)|null|
+|**2023-04-24**|**Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation**|Yan Zhou et.al.|[2304.11979v1](http://arxiv.org/abs/2304.11979v1)|null|
+|**2023-04-24**|**Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving**|Manuel Schwonberg et.al.|[2304.11928v1](http://arxiv.org/abs/2304.11928v1)|null|
 |**2023-04-20**|**Using Mobile Data and Deep Models to Assess Auditory Verbal Hallucinations**|Shayan Mirjafari et.al.|[2304.11049v1](http://arxiv.org/abs/2304.11049v1)|null|
 |**2023-04-21**|**Visualizing Ultrafast Kinetic Instabilities in Laser-Driven Solids using X-ray Scattering**|Paweł Ordyna et.al.|[2304.11011v1](http://arxiv.org/abs/2304.11011v1)|null|
 |**2023-04-21**|**Missing Modality Robustness in Semi-Supervised Multi-Modal Semantic Segmentation**|Harsh Maheshwari et.al.|[2304.10756v1](http://arxiv.org/abs/2304.10756v1)|**[link](https://github.com/harshm121/m3l)**|
