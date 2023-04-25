@@ -1,11 +1,11 @@
-> Updated on 2023.04.24
+> Updated on 2023.04.25
 
 ## Video_Classification
 
 - 2023-04-21, **Implicit Neural Head Synthesis via Controllable Local Deformation Fields**, Chuhan Chen et.al., Paper: [http://arxiv.org/abs/2304.11113v1](http://arxiv.org/abs/2304.11113v1)
 - 2023-04-21, **A Convolutional Spiking Network for Gesture Recognition in Brain-Computer Interfaces**, Yiming Ai et.al., Paper: [http://arxiv.org/abs/2304.11106v1](http://arxiv.org/abs/2304.11106v1)
 - 2023-04-21, **Classification of solutions to Hardy-Sobolev Doubly Critical Systems**, Francesco Esposito et.al., Paper: [http://arxiv.org/abs/2304.11066v1](http://arxiv.org/abs/2304.11066v1)
-- 2023-04-21, **CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**, Shangda Wu et.al., Paper: [http://arxiv.org/abs/2304.11029v1](http://arxiv.org/abs/2304.11029v1), Code: **[https://github.com/microsoft/muzic/tree/main/clamp](https://github.com/microsoft/muzic/tree/main/clamp)**
+- 2023-04-24, **CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**, Shangda Wu et.al., Paper: [http://arxiv.org/abs/2304.11029v2](http://arxiv.org/abs/2304.11029v2), Code: **[https://github.com/microsoft/muzic/tree/main/clamp](https://github.com/microsoft/muzic/tree/main/clamp)**
 - 2023-04-21, **3d mirror symmetry of braided tensor categories**, Andrew Ballin et.al., Paper: [http://arxiv.org/abs/2304.11001v1](http://arxiv.org/abs/2304.11001v1)
 - 2023-04-21, **Information Extraction from Documents: Question Answering vs Token Classification in real-world setups**, Laurent Lam et.al., Paper: [http://arxiv.org/abs/2304.10994v1](http://arxiv.org/abs/2304.10994v1)
 - 2023-04-21, **LEIA: Linguistic Embeddings for the Identification of Affect**, Segun Taofeek Aroyehun et.al., Paper: [http://arxiv.org/abs/2304.10973v1](http://arxiv.org/abs/2304.10973v1)
