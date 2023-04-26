@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**Bake off redux: a review and experimental evaluation of recent time series classification algorithms**|Matthew Middlehurst et.al.|[2304.13029v1](http://arxiv.org/abs/2304.13029v1)|null|
+|**2023-04-25**|**Flickr-PAD: New Face High-Resolution Presentation Attack Detection Database**|Diego Pasmino et.al.|[2304.13015v1](http://arxiv.org/abs/2304.13015v1)|**[link](https://github.com/jedota/flickr-pad)**|
+|**2023-04-25**|**Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art**|Tobias Rueckert et.al.|[2304.13014v1](http://arxiv.org/abs/2304.13014v1)|null|
+|**2023-04-25**|**The Potential of Visual ChatGPT For Remote Sensing**|Lucas Prado Osco et.al.|[2304.13009v1](http://arxiv.org/abs/2304.13009v1)|null|
+|**2023-04-25**|**PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling**|Zhe Li et.al.|[2304.13006v1](http://arxiv.org/abs/2304.13006v1)|**[link](https://github.com/lizhe00/posevocab)**|
+|**2023-04-25**|**Segment anything, from space?**|Simiao Ren et.al.|[2304.13000v1](http://arxiv.org/abs/2304.13000v1)|null|
+|**2023-04-25**|**Multi-Scale Feature Fusion using Parallel-Attention Block for COVID-19 Chest X-ray Diagnosis**|Xiao Qi et.al.|[2304.12988v1](http://arxiv.org/abs/2304.12988v1)|null|
+|**2023-04-25**|**Quantifying the Effect of Image Similarity on Diabetic Foot Ulcer Classification**|Imran Chowdhury Dipto et.al.|[2304.12987v1](http://arxiv.org/abs/2304.12987v1)|null|
+|**2023-04-25**|**How to account for behavioural states in step-selection analysis: a model comparison**|Jennifer Pohle et.al.|[2304.12964v1](http://arxiv.org/abs/2304.12964v1)|null|
+|**2023-04-25**|**Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**|Jussi Leinonen et.al.|[2304.12891v1](http://arxiv.org/abs/2304.12891v1)|null|
 |**2023-04-24**|**Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis**|Chonghyuk Song et.al.|[2304.12317v1](http://arxiv.org/abs/2304.12317v1)|null|
 |**2023-04-24**|**Segment Anything in Medical Images**|Jun Ma et.al.|[2304.12306v1](http://arxiv.org/abs/2304.12306v1)|**[link](https://github.com/bowang-lab/medsam)**|
 |**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301v1](http://arxiv.org/abs/2304.12301v1)|null|
@@ -2233,6 +2243,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**Bibliometric Data Fusion for Biomedical Information Retrieval**|Timo Breuer et.al.|[2304.13012v1](http://arxiv.org/abs/2304.13012v1)|null|
+|**2023-04-25**|**Multi-Scale Feature Fusion using Parallel-Attention Block for COVID-19 Chest X-ray Diagnosis**|Xiao Qi et.al.|[2304.12988v1](http://arxiv.org/abs/2304.12988v1)|null|
+|**2023-04-25**|**Effect of triangularity on plasma turbulence and the SOL-width scaling in L-mode diverted tokamak configurations**|Kyungtak Lim et.al.|[2304.12736v1](http://arxiv.org/abs/2304.12736v1)|null|
+|**2023-04-25**|**Change detection needs change information: improving deep 3D point cloud change detection**|Iris de Gélis et.al.|[2304.12639v1](http://arxiv.org/abs/2304.12639v1)|null|
+|**2023-04-25**|**MMRDN: Consistent Representation for Multi-View Manipulation Relationship Detection in Object-Stacked Scenes**|Han Wang et.al.|[2304.12592v1](http://arxiv.org/abs/2304.12592v1)|null|
+|**2023-04-25**|**A Two-part Transformer Network for Controllable Motion Synthesis**|Shuaiying Hou et.al.|[2304.12571v1](http://arxiv.org/abs/2304.12571v1)|null|
+|**2023-04-25**|**SwinFSR: Stereo Image Super-Resolution using SwinIR and Frequency Domain Knowledge**|Ke Chen et.al.|[2304.12556v1](http://arxiv.org/abs/2304.12556v1)|null|
 |**2023-04-25**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Li et.al.|[2304.12310v2](http://arxiv.org/abs/2304.12310v2)|**[link](https://github.com/bravegroup/fullysparsefusion)**|
 |**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301v1](http://arxiv.org/abs/2304.12301v1)|null|
 |**2023-04-24**|**Imaging 3D Chemistry at 1 nm Resolution with Fused Multi-Modal Electron Tomography**|Jonathan Schwartz et.al.|[2304.12259v1](http://arxiv.org/abs/2304.12259v1)|null|
