@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 
 ## Video_Classification
 
@@ -2233,14 +2233,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-24**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Li et.al.|[2304.12310v1](http://arxiv.org/abs/2304.12310v1)|**[link](https://github.com/bravegroup/fullysparsefusion)**|
+|**2023-04-25**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Li et.al.|[2304.12310v2](http://arxiv.org/abs/2304.12310v2)|**[link](https://github.com/bravegroup/fullysparsefusion)**|
 |**2023-04-24**|**AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation**|Takehiko Ohkawa et.al.|[2304.12301v1](http://arxiv.org/abs/2304.12301v1)|null|
 |**2023-04-24**|**Imaging 3D Chemistry at 1 nm Resolution with Fused Multi-Modal Electron Tomography**|Jonathan Schwartz et.al.|[2304.12259v1](http://arxiv.org/abs/2304.12259v1)|null|
 |**2023-04-24**|**Anserini Gets Dense Retrieval: Integration of Lucene's HNSW Indexes**|Xueguang Ma et.al.|[2304.12139v1](http://arxiv.org/abs/2304.12139v1)|null|
 |**2023-04-24**|**Deep Audio-Visual Singing Voice Transcription based on Self-Supervised Learning Models**|Xiangming Gu et.al.|[2304.12082v1](http://arxiv.org/abs/2304.12082v1)|null|
-|**2023-04-24**|**A Spatial Calibration Method for Robust Cooperative Perception**|Zhiying Song et.al.|[2304.12033v1](http://arxiv.org/abs/2304.12033v1)|null|
-|**2023-04-24**|**MMC: Multi-Modal Colorization of Images using Textual Descriptions**|Subhankar Ghosh et.al.|[2304.11993v1](http://arxiv.org/abs/2304.11993v1)|null|
-|**2023-04-24**|**Graph-theoretical optimization of fusion-based graph state generation**|Seok-Hyung Lee et.al.|[2304.11988v1](http://arxiv.org/abs/2304.11988v1)|null|
+|**2023-04-25**|**A Spatial Calibration Method for Robust Cooperative Perception**|Zhiying Song et.al.|[2304.12033v2](http://arxiv.org/abs/2304.12033v2)|null|
+|**2023-04-25**|**MMC: Multi-Modal Colorization of Images using Textual Descriptions**|Subhankar Ghosh et.al.|[2304.11993v2](http://arxiv.org/abs/2304.11993v2)|null|
+|**2023-04-25**|**Graph-theoretical optimization of fusion-based graph state generation**|Seok-Hyung Lee et.al.|[2304.11988v2](http://arxiv.org/abs/2304.11988v2)|null|
 |**2023-04-24**|**Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation**|Yan Zhou et.al.|[2304.11979v1](http://arxiv.org/abs/2304.11979v1)|null|
 |**2023-04-24**|**Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving**|Manuel Schwonberg et.al.|[2304.11928v1](http://arxiv.org/abs/2304.11928v1)|null|
 |**2023-04-20**|**Using Mobile Data and Deep Models to Assess Auditory Verbal Hallucinations**|Shayan Mirjafari et.al.|[2304.11049v1](http://arxiv.org/abs/2304.11049v1)|null|
