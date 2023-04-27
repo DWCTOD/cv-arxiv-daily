@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-04-26, **A Control-Centric Benchmark for Video Prediction**, Stephen Tian et.al., Paper: [http://arxiv.org/abs/2304.13723v1](http://arxiv.org/abs/2304.13723v1), Code: **[https://github.com/s-tian/vp2](https://github.com/s-tian/vp2)**
+- 2023-04-26, **Association Rules Mining with Auto-Encoders**, Théophile Berteloot et.al., Paper: [http://arxiv.org/abs/2304.13717v1](http://arxiv.org/abs/2304.13717v1)
+- 2023-04-26, **Random Additive Polynomials**, Lior Bary-Soroker et.al., Paper: [http://arxiv.org/abs/2304.13709v1](http://arxiv.org/abs/2304.13709v1)
+- 2023-04-26, **Rigidity, Generators and Homology of Interval Exchange Groups**, Owen Tanner et.al., Paper: [http://arxiv.org/abs/2304.13691v1](http://arxiv.org/abs/2304.13691v1)
+- 2023-04-26, **Pseudo-periodic map and classification of theories with eight supercharges**, Dan Xie et.al., Paper: [http://arxiv.org/abs/2304.13663v1](http://arxiv.org/abs/2304.13663v1)
+- 2023-04-26, **PVP: Pre-trained Visual Parameter-Efficient Tuning**, Zhao Song et.al., Paper: [http://arxiv.org/abs/2304.13639v1](http://arxiv.org/abs/2304.13639v1)
+- 2023-04-26, **HausaNLP at SemEval-2023 Task 12: Leveraging African Low Resource TweetData for Sentiment Analysis**, Saheed Abdullahi Salahudeen et.al., Paper: [http://arxiv.org/abs/2304.13634v1](http://arxiv.org/abs/2304.13634v1), Code: **[https://github.com/ahmadmwali/semeval-afrisenti](https://github.com/ahmadmwali/semeval-afrisenti)**
+- 2023-04-26, **HDR-VDP-3: A multi-metric for predicting image differences, quality and contrast distortions in high dynamic range and regular content**, Rafal K. Mantiuk et.al., Paper: [http://arxiv.org/abs/2304.13625v1](http://arxiv.org/abs/2304.13625v1)
+- 2023-04-26, **Shades of meaning: Uncovering the geometry of ambiguous word representations through contextualised language models**, Benedetta Cevoli et.al., Paper: [http://arxiv.org/abs/2304.13597v1](http://arxiv.org/abs/2304.13597v1)
+- 2023-04-26, **Video Frame Interpolation with Densely Queried Bilateral Correlation**, Chang Zhou et.al., Paper: [http://arxiv.org/abs/2304.13596v1](http://arxiv.org/abs/2304.13596v1), Code: **[https://github.com/kinoud/DQBC](https://github.com/kinoud/DQBC)**
 - 2023-04-25, **Bake off redux: a review and experimental evaluation of recent time series classification algorithms**, Matthew Middlehurst et.al., Paper: [http://arxiv.org/abs/2304.13029v1](http://arxiv.org/abs/2304.13029v1)
 - 2023-04-25, **Flickr-PAD: New Face High-Resolution Presentation Attack Detection Database**, Diego Pasmino et.al., Paper: [http://arxiv.org/abs/2304.13015v1](http://arxiv.org/abs/2304.13015v1), Code: **[https://github.com/jedota/flickr-pad](https://github.com/jedota/flickr-pad)**
 - 2023-04-25, **Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art**, Tobias Rueckert et.al., Paper: [http://arxiv.org/abs/2304.13014v1](http://arxiv.org/abs/2304.13014v1)
@@ -2235,6 +2245,14 @@
 
 ## MultiModal
 
+- 2023-04-26, **A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**, Alireza Salemi et.al., Paper: [http://arxiv.org/abs/2304.13649v1](http://arxiv.org/abs/2304.13649v1)
+- 2023-04-26, **Zeta functions for table algebras and fusion rings**, Angelica Babei et.al., Paper: [http://arxiv.org/abs/2304.13602v1](http://arxiv.org/abs/2304.13602v1)
+- 2023-04-26, **On Sequential Single-Pion Production in Double-Pionic Fusion**, M. Bashkanov et.al., Paper: [http://arxiv.org/abs/2304.13489v1](http://arxiv.org/abs/2304.13489v1)
+- 2023-04-26, **OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution**, Xiaopeng Sun et.al., Paper: [http://arxiv.org/abs/2304.13471v1](http://arxiv.org/abs/2304.13471v1)
+- 2023-04-26, **Q-system Completion of 2-functors**, Mainak Ghosh et.al., Paper: [http://arxiv.org/abs/2304.13470v1](http://arxiv.org/abs/2304.13470v1)
+- 2023-04-26, **Group Equivariant BEV for 3D Object Detection**, Hongwei Liu et.al., Paper: [http://arxiv.org/abs/2304.13390v1](http://arxiv.org/abs/2304.13390v1)
+- 2023-04-26, **Cross-beam energy transfer in conditions relevant to direct-drive implosions on OMEGA**, K. L. Nguyen et.al., Paper: [http://arxiv.org/abs/2304.13268v1](http://arxiv.org/abs/2304.13268v1)
+- 2023-04-25, **Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**, Marcus Abate et.al., Paper: [http://arxiv.org/abs/2304.13182v1](http://arxiv.org/abs/2304.13182v1)
 - 2023-04-25, **Bibliometric Data Fusion for Biomedical Information Retrieval**, Timo Breuer et.al., Paper: [http://arxiv.org/abs/2304.13012v1](http://arxiv.org/abs/2304.13012v1)
 - 2023-04-25, **Multi-Scale Feature Fusion using Parallel-Attention Block for COVID-19 Chest X-ray Diagnosis**, Xiao Qi et.al., Paper: [http://arxiv.org/abs/2304.12988v1](http://arxiv.org/abs/2304.12988v1)
 - 2023-04-25, **Effect of triangularity on plasma turbulence and the SOL-width scaling in L-mode diverted tokamak configurations**, Kyungtak Lim et.al., Paper: [http://arxiv.org/abs/2304.12736v1](http://arxiv.org/abs/2304.12736v1)
