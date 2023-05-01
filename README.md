@@ -1,4 +1,4 @@
-## Updated on 2023.04.30
+## Updated on 2023.05.01
 
 ## Video_Classification
 
@@ -2261,7 +2261,7 @@
 |---|---|---|---|---|
 |**2023-04-27**|**SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**|Yichen Xie et.al.|[2304.14340v1](http://arxiv.org/abs/2304.14340v1)|**[link](https://github.com/yichen928/sparsefusion)**|
 |**2023-04-27**|**Person Re-ID through Unsupervised Hypergraph Rank Selection and Fusion**|Lucas Pascotti Valem et.al.|[2304.14321v1](http://arxiv.org/abs/2304.14321v1)|null|
-|**2023-04-27**|**Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels**|Z. P. Fu et.al.|[2304.14086v1](http://arxiv.org/abs/2304.14086v1)|null|
+|**2023-04-28**|**Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels**|Z. P. Fu et.al.|[2304.14086v2](http://arxiv.org/abs/2304.14086v2)|null|
 |**2023-04-27**|**Attacks on Robust Distributed Learning Schemes via Sensitivity Curve Maximization**|Christian A. Schroth et.al.|[2304.14024v1](http://arxiv.org/abs/2304.14024v1)|null|
 |**2023-04-27**|**Adaptive-Mask Fusion Network for Segmentation of Drivable Road and Negative Obstacle With Untrustworthy Features**|Zhen Feng et.al.|[2304.13979v1](http://arxiv.org/abs/2304.13979v1)|null|
 |**2023-04-26**|**Confining and escaping magnetic field lines in Tokamaks: Analysis via symplectic map**|Matheus S. Palmero et.al.|[2304.13810v1](http://arxiv.org/abs/2304.13810v1)|null|
