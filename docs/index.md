@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
+|**2023-05-01**|**Probabilistic 3D segmentation for aleatoric uncertainty quantification in full 3D medical data**|Christiaan G. A. Viviers et.al.|[2305.00950v1](http://arxiv.org/abs/2305.00950v1)|null|
+|**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942v1](http://arxiv.org/abs/2305.00942v1)|null|
+|**2023-05-01**|**Early Detection of Alzheimer's Disease using Bottleneck Transformers**|Arunima Jaiswal et.al.|[2305.00923v1](http://arxiv.org/abs/2305.00923v1)|null|
+|**2023-05-01**|**A Novel Low-Rank Tensor Method for Undersampling Artifact Removal in Respiratory Motion-Resolved Multi-Echo 3D Cones MRI**|Seongho Jeong et.al.|[2305.00892v1](http://arxiv.org/abs/2305.00892v1)|null|
+|**2023-05-01**|**Estimating the Density Ratio between Distributions with High Discrepancy using Multinomial Logistic Regression**|Akash Srivastava et.al.|[2305.00869v1](http://arxiv.org/abs/2305.00869v1)|null|
+|**2023-05-01**|**Automated Paper Screening for Clinical Reviews Using Large Language Models**|Eddie Guo et.al.|[2305.00844v1](http://arxiv.org/abs/2305.00844v1)|null|
+|**2023-05-01**|**LCAUnet: A skin lesion segmentation network with enhanced edge and body fusion**|Qisen Ma et.al.|[2305.00837v1](http://arxiv.org/abs/2305.00837v1)|null|
+|**2023-05-01**|**Performance and Energy Consumption of Parallel Machine Learning Algorithms**|Xidong Wu et.al.|[2305.00798v1](http://arxiv.org/abs/2305.00798v1)|null|
+|**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787v1](http://arxiv.org/abs/2305.00787v1)|null|
 |**2023-04-28**|**Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs**|George Pu et.al.|[2304.14999v1](http://arxiv.org/abs/2304.14999v1)|null|
 |**2023-04-28**|**Topology of critical points in boundary matrix duals**|Pavan Kumar Yerra et.al.|[2304.14988v1](http://arxiv.org/abs/2304.14988v1)|null|
 |**2023-04-28**|**Quality-Adaptive Split-Federated Learning for Segmenting Medical Images with Inaccurate Annotations**|Zahra Hafezi Kafshgari et.al.|[2304.14976v1](http://arxiv.org/abs/2304.14976v1)|null|
@@ -2273,6 +2283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**The high-energy QCD dynamics from Higgs-plus-jet correlations at the FCC**|Francesco Giovanni Celiberto et.al.|[2305.00962v1](http://arxiv.org/abs/2305.00962v1)|null|
+|**2023-05-01**|**Fusing Trial Data for Treatment Comparisons: Single versus Multi-Span Bridging**|Bonnie E. Shook-Sa et.al.|[2305.00845v1](http://arxiv.org/abs/2305.00845v1)|null|
+|**2023-05-01**|**LCAUnet: A skin lesion segmentation network with enhanced edge and body fusion**|Qisen Ma et.al.|[2305.00837v1](http://arxiv.org/abs/2305.00837v1)|null|
+|**2023-05-01**|**Invisible Decays of a Non-SM-like $H_2$ to Dark Matter in the N2HDM and the NMSSM**|Maien Binjonaid et.al.|[2305.00779v1](http://arxiv.org/abs/2305.00779v1)|null|
+|**2023-05-01**|**Enhanced Multi-level Features for Very High Resolution Remote Sensing Scene Classification**|Chiranjibi Sitaula et.al.|[2305.00679v1](http://arxiv.org/abs/2305.00679v1)|null|
+|**2023-05-01**|**DT fusion through the $^5$He $3/2+$ "Bretscher state" accounts for $\ge 25\%$ of our existence via nucleosynthesis and for the possibility of fusion energy**|Mark B. Chadwick et.al.|[2305.00647v1](http://arxiv.org/abs/2305.00647v1)|null|
+|**2023-05-01**|**Inferring the past: a combined CNN-LSTM deep learning framework to fuse satellites for historical inundation mapping**|Jonathan Giezendanner et.al.|[2305.00640v1](http://arxiv.org/abs/2305.00640v1)|null|
+|**2023-04-30**|**Optimized Machine Learning for CHD Detection using 3D CNN-based Segmentation, Transfer Learning and Adagrad Optimization**|R. Selvaraj et.al.|[2305.00411v1](http://arxiv.org/abs/2305.00411v1)|null|
+|**2023-04-30**|**TransCAR: Transformer-based Camera-And-Radar Fusion for 3D Object Detection**|Su Pang et.al.|[2305.00397v1](http://arxiv.org/abs/2305.00397v1)|null|
+|**2023-04-29**|**Fusion for Visual-Infrared Person ReID in Real-World Surveillance Using Corrupted Multimodal Data**|Arthur Josi et.al.|[2305.00320v1](http://arxiv.org/abs/2305.00320v1)|**[link](https://github.com/art2611/mreid-ucd-ccd)**|
 |**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-04-28**|**Making the Invisible Visible: Toward High-Quality Terahertz Tomographic Imaging via Physics-Guided Restoration**|Weng-Tai Su et.al.|[2304.14894v1](http://arxiv.org/abs/2304.14894v1)|null|
 |**2023-04-28**|**Effect of non-local transport of hot electrons on the laser-target ablation**|Z. H. Chen et.al.|[2304.14851v1](http://arxiv.org/abs/2304.14851v1)|null|
