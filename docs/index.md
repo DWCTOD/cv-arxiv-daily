@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
+|**2023-05-02**|**A Technical Report on Image Classification using AWS**|Balakrishnaphani Kommanaboina et.al.|[2305.01634v1](http://arxiv.org/abs/2305.01634v1)|null|
+|**2023-05-02**|**AutoColor: Learned Light Power Control for Multi-Color Holograms**|Yicheng Zhan et.al.|[2305.01611v1](http://arxiv.org/abs/2305.01611v1)|null|
+|**2023-05-02**|**On the Impact of Data Quality on Image Classification Fairness**|Aki Barry et.al.|[2305.01595v1](http://arxiv.org/abs/2305.01595v1)|null|
+|**2023-05-02**|**On cubic-line arrangements with simple singularities**|Przemysław Talar et.al.|[2305.01530v1](http://arxiv.org/abs/2305.01530v1)|null|
+|**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
+|**2023-05-02**|**Scalable Mask Annotation for Video Text Spotting**|Haibin He et.al.|[2305.01443v1](http://arxiv.org/abs/2305.01443v1)|**[link](https://github.com/vitae-transformer/samtext)**|
+|**2023-05-02**|**Unsupervised Feature Based Algorithms for Time Series Extrinsic Regression**|David Guijo-Rubio et.al.|[2305.01429v1](http://arxiv.org/abs/2305.01429v1)|null|
+|**2023-05-02**|**Are demographically invariant models and representations in medical imaging fair?**|Eike Petersen et.al.|[2305.01397v1](http://arxiv.org/abs/2305.01397v1)|null|
+|**2023-05-02**|**Self-supervised arbitrary scale super-resolution framework for anisotropic MRI**|Haonan Zhang et.al.|[2305.01360v1](http://arxiv.org/abs/2305.01360v1)|null|
 |**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957v1](http://arxiv.org/abs/2305.00957v1)|null|
 |**2023-05-01**|**Probabilistic 3D segmentation for aleatoric uncertainty quantification in full 3D medical data**|Christiaan G. A. Viviers et.al.|[2305.00950v1](http://arxiv.org/abs/2305.00950v1)|null|
 |**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942v1](http://arxiv.org/abs/2305.00942v1)|null|
@@ -2283,6 +2293,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-02**|**OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01561v1](http://arxiv.org/abs/2305.01561v1)|null|
+|**2023-05-02**|**Comments on "Volume ignition of mixed fuel" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**|Karl Lackner et.al.|[2305.01382v1](http://arxiv.org/abs/2305.01382v1)|null|
+|**2023-05-02**|**Exploring vision transformer layer choosing for semantic segmentation**|Fangjian Lin et.al.|[2305.01279v1](http://arxiv.org/abs/2305.01279v1)|null|
+|**2023-05-02**|**Lipid exchange promotes fusion of model protocells**|Ziyan Fan et.al.|[2305.01271v1](http://arxiv.org/abs/2305.01271v1)|null|
+|**2023-05-02**|**On Uni-Modal Feature Learning in Supervised Multi-Modal Learning**|Chenzhuang Du et.al.|[2305.01233v1](http://arxiv.org/abs/2305.01233v1)|**[link](https://github.com/gewu-lab/ogm-ge_cvpr2022)**|
+|**2023-05-01**|**Local and Global Contextual Features Fusion for Pedestrian Intention Prediction**|Mohsen Azarmi et.al.|[2305.01111v1](http://arxiv.org/abs/2305.01111v1)|null|
+|**2023-05-01**|**Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs**|Shixun Wu et.al.|[2305.01024v1](http://arxiv.org/abs/2305.01024v1)|null|
+|**2023-05-01**|**Higgs to $b\bar{b}$ from Vector Boson Fusion for High-Scale Physics**|Tao Han et.al.|[2305.01010v1](http://arxiv.org/abs/2305.01010v1)|null|
 |**2023-05-01**|**The high-energy QCD dynamics from Higgs-plus-jet correlations at the FCC**|Francesco Giovanni Celiberto et.al.|[2305.00962v1](http://arxiv.org/abs/2305.00962v1)|null|
 |**2023-05-01**|**Fusing Trial Data for Treatment Comparisons: Single versus Multi-Span Bridging**|Bonnie E. Shook-Sa et.al.|[2305.00845v1](http://arxiv.org/abs/2305.00845v1)|null|
 |**2023-05-01**|**LCAUnet: A skin lesion segmentation network with enhanced edge and body fusion**|Qisen Ma et.al.|[2305.00837v1](http://arxiv.org/abs/2305.00837v1)|null|
