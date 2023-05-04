@@ -1,9 +1,9 @@
-> Updated on 2023.05.03
+> Updated on 2023.05.04
 
 ## Video_Classification
 
 - 2023-05-02, **Sequence Modeling with Multiresolution Convolutional Memory**, Jiaxin Shi et.al., Paper: [http://arxiv.org/abs/2305.01638v1](http://arxiv.org/abs/2305.01638v1)
-- 2023-05-02, **A Technical Report on Image Classification using AWS**, Balakrishnaphani Kommanaboina et.al., Paper: [http://arxiv.org/abs/2305.01634v1](http://arxiv.org/abs/2305.01634v1)
+- 2023-05-03, **A Technical Report on Image Classification using AWS**, Balakrishna Phani Kommanaboina et.al., Paper: [http://arxiv.org/abs/2305.01634v2](http://arxiv.org/abs/2305.01634v2)
 - 2023-05-02, **AutoColor: Learned Light Power Control for Multi-Color Holograms**, Yicheng Zhan et.al., Paper: [http://arxiv.org/abs/2305.01611v1](http://arxiv.org/abs/2305.01611v1)
 - 2023-05-02, **On the Impact of Data Quality on Image Classification Fairness**, Aki Barry et.al., Paper: [http://arxiv.org/abs/2305.01595v1](http://arxiv.org/abs/2305.01595v1)
 - 2023-05-02, **On cubic-line arrangements with simple singularities**, Przemysław Talar et.al., Paper: [http://arxiv.org/abs/2305.01530v1](http://arxiv.org/abs/2305.01530v1)
@@ -2289,7 +2289,7 @@
 - 2023-05-02, **Comments on "Volume ignition of mixed fuel" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**, Karl Lackner et.al., Paper: [http://arxiv.org/abs/2305.01382v1](http://arxiv.org/abs/2305.01382v1)
 - 2023-05-02, **Exploring vision transformer layer choosing for semantic segmentation**, Fangjian Lin et.al., Paper: [http://arxiv.org/abs/2305.01279v1](http://arxiv.org/abs/2305.01279v1)
 - 2023-05-02, **Lipid exchange promotes fusion of model protocells**, Ziyan Fan et.al., Paper: [http://arxiv.org/abs/2305.01271v1](http://arxiv.org/abs/2305.01271v1)
-- 2023-05-02, **On Uni-Modal Feature Learning in Supervised Multi-Modal Learning**, Chenzhuang Du et.al., Paper: [http://arxiv.org/abs/2305.01233v1](http://arxiv.org/abs/2305.01233v1), Code: **[https://github.com/gewu-lab/ogm-ge_cvpr2022](https://github.com/gewu-lab/ogm-ge_cvpr2022)**
+- 2023-05-03, **On Uni-Modal Feature Learning in Supervised Multi-Modal Learning**, Chenzhuang Du et.al., Paper: [http://arxiv.org/abs/2305.01233v2](http://arxiv.org/abs/2305.01233v2), Code: **[https://github.com/gewu-lab/ogm-ge_cvpr2022](https://github.com/gewu-lab/ogm-ge_cvpr2022)**
 - 2023-05-01, **Local and Global Contextual Features Fusion for Pedestrian Intention Prediction**, Mohsen Azarmi et.al., Paper: [http://arxiv.org/abs/2305.01111v1](http://arxiv.org/abs/2305.01111v1)
 - 2023-05-01, **Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs**, Shixun Wu et.al., Paper: [http://arxiv.org/abs/2305.01024v1](http://arxiv.org/abs/2305.01024v1)
 - 2023-05-01, **Higgs to $b\bar{b}$ from Vector Boson Fusion for High-Scale Physics**, Tao Han et.al., Paper: [http://arxiv.org/abs/2305.01010v1](http://arxiv.org/abs/2305.01010v1)
