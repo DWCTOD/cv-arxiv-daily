@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Descent in tensor triangular geometry**|Tobias Barthel et.al.|[2305.02308v1](http://arxiv.org/abs/2305.02308v1)|null|
+|**2023-05-03**|**New Equivalences Between Interpolation and SVMs: Kernels and Structured Features**|Chiraag Kaushik et.al.|[2305.02304v1](http://arxiv.org/abs/2305.02304v1)|null|
+|**2023-05-03**|**Making the Most of What You Have: Adapting Pre-trained Visual Language Models in the Low-data Regime**|Chuhan Zhang et.al.|[2305.02297v1](http://arxiv.org/abs/2305.02297v1)|null|
+|**2023-05-03**|**DynamicStereo: Consistent Dynamic Depth from Stereo Videos**|Nikita Karaev et.al.|[2305.02296v1](http://arxiv.org/abs/2305.02296v1)|null|
+|**2023-05-03**|**Iranian License Plate Recognition Using a Reliable Deep Learning Approach**|Soheila Hatami et.al.|[2305.02292v1](http://arxiv.org/abs/2305.02292v1)|null|
+|**2023-05-03**|**Evaluating BERT-based Scientific Relation Classifiers for Scholarly Knowledge Graph Construction on Digital Library Collections**|Ming Jiang et.al.|[2305.02291v1](http://arxiv.org/abs/2305.02291v1)|null|
+|**2023-05-03**|**Multi-dimensional Signal Recovery using Low-rank Deconvolution**|David Reixach et.al.|[2305.02264v1](http://arxiv.org/abs/2305.02264v1)|null|
+|**2023-05-03**|**Standardized Benchmark Dataset for Localized Exposure to a Realistic Source at 10$-$90 GHz**|Ante Kapetanovic et.al.|[2305.02260v1](http://arxiv.org/abs/2305.02260v1)|null|
+|**2023-05-03**|**Thermally-driven Multilevel Non-volatile Memory with Monolayer MoS2 for Neuro-inspired Artificial Learning**|Sameer Kumar Mallik et.al.|[2305.02259v1](http://arxiv.org/abs/2305.02259v1)|null|
+|**2023-05-03**|**The Benefits of Label-Description Training for Zero-Shot Text Classification**|Lingyu Gao et.al.|[2305.02239v1](http://arxiv.org/abs/2305.02239v1)|**[link](https://github.com/lingyugao/labeldesctraining)**|
 |**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
 |**2023-05-03**|**A Technical Report on Image Classification using AWS**|Balakrishna Phani Kommanaboina et.al.|[2305.01634v2](http://arxiv.org/abs/2305.01634v2)|null|
 |**2023-05-02**|**AutoColor: Learned Light Power Control for Multi-Color Holograms**|Yicheng Zhan et.al.|[2305.01611v1](http://arxiv.org/abs/2305.01611v1)|null|
@@ -2293,6 +2303,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**On procedural urban digital twin generation and visualization of large scale data**|Sanjay Somanath et.al.|[2305.02242v1](http://arxiv.org/abs/2305.02242v1)|null|
+|**2023-05-03**|**Attention Based Feature Fusion For Multi-Agent Collaborative Perception**|Ahmed N. Ahmed et.al.|[2305.02061v1](http://arxiv.org/abs/2305.02061v1)|null|
+|**2023-05-03**|**Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution**|Josiah Smith et.al.|[2305.02017v1](http://arxiv.org/abs/2305.02017v1)|null|
+|**2023-05-03**|**Zenseact Open Dataset: A large-scale and diverse multimodal dataset for autonomous driving**|Mina Alibeigi et.al.|[2305.02008v1](http://arxiv.org/abs/2305.02008v1)|**[link](https://github.com/zenseact/zod)**|
+|**2023-05-03**|**LHS-spectral sequences for regular extensions of categories**|Ergun Yalcin et.al.|[2305.02000v1](http://arxiv.org/abs/2305.02000v1)|null|
+|**2023-05-03**|**Affine Pieri rule for periodic Macdonald spherical functions and fusion rings**|Jan Felipe van Diejen et.al.|[2305.01931v1](http://arxiv.org/abs/2305.01931v1)|null|
+|**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836v1](http://arxiv.org/abs/2305.01836v1)|null|
 |**2023-05-02**|**OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01561v1](http://arxiv.org/abs/2305.01561v1)|null|
 |**2023-05-02**|**Comments on "Volume ignition of mixed fuel" by H. Ruhl and G. Korn (Marvel Fusion, Munich)**|Karl Lackner et.al.|[2305.01382v1](http://arxiv.org/abs/2305.01382v1)|null|
 |**2023-05-02**|**Exploring vision transformer layer choosing for semantic segmentation**|Fangjian Lin et.al.|[2305.01279v1](http://arxiv.org/abs/2305.01279v1)|null|
