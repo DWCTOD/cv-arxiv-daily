@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Tracking through Containers and Occluders in the Wild**|Basile Van Hoorick et.al.|[2305.03052v1](http://arxiv.org/abs/2305.03052v1)|null|
+|**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
+|**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
+|**2023-05-04**|**Learning Hand-Held Object Reconstruction from In-The-Wild Videos**|Aditya Prakash et.al.|[2305.03036v1](http://arxiv.org/abs/2305.03036v1)|null|
+|**2023-05-04**|**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads**|Tobias Kirschstein et.al.|[2305.03027v1](http://arxiv.org/abs/2305.03027v1)|null|
+|**2023-05-04**|**The Polynomial Connection between Morphological Dilation and Discrete Convolution**|Vivek Sridhar et.al.|[2305.03018v1](http://arxiv.org/abs/2305.03018v1)|null|
+|**2023-05-04**|**Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence**|Haoran Li et.al.|[2305.03010v1](http://arxiv.org/abs/2305.03010v1)|**[link](https://github.com/hkust-knowcomp/geia)**|
+|**2023-05-04**|**NatCS: Eliciting Natural Customer Support Dialogues**|James Gung et.al.|[2305.03007v1](http://arxiv.org/abs/2305.03007v1)|null|
+|**2023-05-04**|**Hybrid quantum learning with data re-uploading on a small-scale superconducting quantum simulator**|Aleksei Tolstobrov et.al.|[2305.02956v1](http://arxiv.org/abs/2305.02956v1)|null|
+|**2023-05-04**|**A study on the composition of elementary cellular automata**|Alonso Castillo-Ramirez et.al.|[2305.02947v1](http://arxiv.org/abs/2305.02947v1)|null|
 |**2023-05-03**|**Descent in tensor triangular geometry**|Tobias Barthel et.al.|[2305.02308v1](http://arxiv.org/abs/2305.02308v1)|null|
 |**2023-05-03**|**New Equivalences Between Interpolation and SVMs: Kernels and Structured Features**|Chiraag Kaushik et.al.|[2305.02304v1](http://arxiv.org/abs/2305.02304v1)|null|
 |**2023-05-03**|**Making the Most of What You Have: Adapting Pre-trained Visual Language Models in the Low-data Regime**|Chuhan Zhang et.al.|[2305.02297v1](http://arxiv.org/abs/2305.02297v1)|null|
@@ -2303,6 +2313,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Laser Powder Bed Fusion of anisotropic Nd-Fe-B bonded magnets utilizing an in situ mechanical alignment approach**|Kilian Schäfer et.al.|[2305.02867v1](http://arxiv.org/abs/2305.02867v1)|null|
+|**2023-05-04**|**MEDIC: A Multimodal Empathy Dataset in Counseling**|Zhou'an_Zhu et.al.|[2305.02842v1](http://arxiv.org/abs/2305.02842v1)|null|
+|**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
+|**2023-05-04**|**Multi-Modality Deep Network for JPEG Artifacts Reduction**|Xuhao Jiang et.al.|[2305.02760v1](http://arxiv.org/abs/2305.02760v1)|null|
+|**2023-05-04**|**Local stiffness tailoring of magneto-active composites produced by laser powder bed fusion**|Kilian Schäfer et.al.|[2305.02643v1](http://arxiv.org/abs/2305.02643v1)|null|
+|**2023-05-04**|**A Cross-direction Task Decoupling Network for Small Logo Detection**|Hou et.al.|[2305.02503v1](http://arxiv.org/abs/2305.02503v1)|null|
+|**2023-05-03**|**Primary Neutron Spectra in Ion Vlasov-Fokker-Planck Simulations**|B. D. Appelbe et.al.|[2305.02403v1](http://arxiv.org/abs/2305.02403v1)|null|
 |**2023-05-03**|**On procedural urban digital twin generation and visualization of large scale data**|Sanjay Somanath et.al.|[2305.02242v1](http://arxiv.org/abs/2305.02242v1)|null|
 |**2023-05-03**|**Attention Based Feature Fusion For Multi-Agent Collaborative Perception**|Ahmed N. Ahmed et.al.|[2305.02061v1](http://arxiv.org/abs/2305.02061v1)|null|
 |**2023-05-03**|**Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution**|Josiah Smith et.al.|[2305.02017v1](http://arxiv.org/abs/2305.02017v1)|null|
