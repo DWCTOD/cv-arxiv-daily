@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-05-05, **Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**, Ekta Prashnani et.al., Paper: [http://arxiv.org/abs/2305.03713v1](http://arxiv.org/abs/2305.03713v1)
+- 2023-05-05, **Fine-Grained Product Classification on Leaflet Advertisements**, Daniel Ladwig et.al., Paper: [http://arxiv.org/abs/2305.03706v1](http://arxiv.org/abs/2305.03706v1), Code: **[https://github.com/ladwigd/leaflet-product-classification](https://github.com/ladwigd/leaflet-product-classification)**
+- 2023-05-05, **How Segment Anything Model (SAM) Boost Medical Image Segmentation?**, Yichi Zhang et.al., Paper: [http://arxiv.org/abs/2305.03678v1](http://arxiv.org/abs/2305.03678v1), Code: **[https://github.com/yichizhang98/sam4mis](https://github.com/yichizhang98/sam4mis)**
+- 2023-05-05, **Stochastic maximum principle for sub-diffusions and its applications**, Shuaiqi Zhang et.al., Paper: [http://arxiv.org/abs/2305.03676v1](http://arxiv.org/abs/2305.03676v1)
+- 2023-05-05, **White-Box Multi-Objective Adversarial Attack on Dialogue Generation**, Yufei Li et.al., Paper: [http://arxiv.org/abs/2305.03655v1](http://arxiv.org/abs/2305.03655v1), Code: **[https://github.com/yul091/dgslow](https://github.com/yul091/dgslow)**
+- 2023-05-05, **($\mathfrak{S}_p \times \mathfrak{S}_q$)-Invariant Graphical Parking Functions**, Lauren Snider et.al., Paper: [http://arxiv.org/abs/2305.03651v1](http://arxiv.org/abs/2305.03651v1)
+- 2023-05-05, **A surface-normal photodetector as nonlinear activation function in diffractive optical neural networks**, Farshid Ashtiani et.al., Paper: [http://arxiv.org/abs/2305.03627v1](http://arxiv.org/abs/2305.03627v1)
+- 2023-05-05, **Segmentation of fundus vascular images based on a dual-attention mechanism**, Yuanyuan Peng et.al., Paper: [http://arxiv.org/abs/2305.03617v1](http://arxiv.org/abs/2305.03617v1)
+- 2023-05-05, **Human Attention-Guided Explainable Artificial Intelligence for Computer Vision Models**, Guoyang Liu et.al., Paper: [http://arxiv.org/abs/2305.03601v1](http://arxiv.org/abs/2305.03601v1)
+- 2023-05-05, **HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer**, Shuzhe Wang et.al., Paper: [http://arxiv.org/abs/2305.03595v1](http://arxiv.org/abs/2305.03595v1)
 - 2023-05-04, **Tracking through Containers and Occluders in the Wild**, Basile Van Hoorick et.al., Paper: [http://arxiv.org/abs/2305.03052v1](http://arxiv.org/abs/2305.03052v1)
 - 2023-05-04, **NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**, Jun-Kun Chen et.al., Paper: [http://arxiv.org/abs/2305.03049v1](http://arxiv.org/abs/2305.03049v1)
 - 2023-05-04, **Personalize Segment Anything Model with One Shot**, Renrui Zhang et.al., Paper: [http://arxiv.org/abs/2305.03048v1](http://arxiv.org/abs/2305.03048v1), Code: **[https://github.com/zrrskywalker/personalize-sam](https://github.com/zrrskywalker/personalize-sam)**
@@ -2305,6 +2315,15 @@
 
 ## MultiModal
 
+- 2023-05-05, **Accommodating the H$(650)$ in the HEFT**, Iñigo Asiáin et.al., Paper: [http://arxiv.org/abs/2305.03622v1](http://arxiv.org/abs/2305.03622v1)
+- 2023-05-05, **Segmentation of fundus vascular images based on a dual-attention mechanism**, Yuanyuan Peng et.al., Paper: [http://arxiv.org/abs/2305.03617v1](http://arxiv.org/abs/2305.03617v1)
+- 2023-05-05, **A Dual Semantic-Aware Recurrent Global-Adaptive Network For Vision-and-Language Navigation**, Liuyi Wang et.al., Paper: [http://arxiv.org/abs/2305.03602v1](http://arxiv.org/abs/2305.03602v1)
+- 2023-05-05, **Next-generation Surgical Navigation: Multi-view Marker-less 6DoF Pose Estimation of Surgical Instruments**, Jonas Hein et.al., Paper: [http://arxiv.org/abs/2305.03535v1](http://arxiv.org/abs/2305.03535v1)
+- 2023-05-05, **Close-range Human Following Control on a Cane-type Robot with Multi-camera Fusion**, Haowen Liu et.al., Paper: [http://arxiv.org/abs/2305.03354v1](http://arxiv.org/abs/2305.03354v1)
+- 2023-05-05, **Random Tensor Inequalities and Tail bounds for Bivariate Random Tensor Means, Part II**, Shih-Yu Chang et.al., Paper: [http://arxiv.org/abs/2305.03305v1](http://arxiv.org/abs/2305.03305v1)
+- 2023-05-05, **FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**, Ajian Liu et.al., Paper: [http://arxiv.org/abs/2305.03277v1](http://arxiv.org/abs/2305.03277v1)
+- 2023-05-05, **Robust Face Morphing Attack Detection Using Fusion of Multiple Features and Classification Techniques**, Jag Mohan Singh Sushma Venkatesh Raghavendra Ramachandra et.al., Paper: [http://arxiv.org/abs/2305.03264v1](http://arxiv.org/abs/2305.03264v1)
+- 2023-05-05, **Clothes Grasping and Unfolding Based on RGB-D Semantic Segmentation**, Xingyu Zhu et.al., Paper: [http://arxiv.org/abs/2305.03259v1](http://arxiv.org/abs/2305.03259v1)
 - 2023-05-05, **Laser Powder Bed Fusion of anisotropic Nd-Fe-B bonded magnets utilizing an in situ mechanical alignment approach**, Kilian Schäfer et.al., Paper: [http://arxiv.org/abs/2305.02867v2](http://arxiv.org/abs/2305.02867v2)
 - 2023-05-04, **MEDIC: A Multimodal Empathy Dataset in Counseling**, Zhou'an_Zhu et.al., Paper: [http://arxiv.org/abs/2305.02842v1](http://arxiv.org/abs/2305.02842v1)
 - 2023-05-04, **Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**, Qamar Bader et.al., Paper: [http://arxiv.org/abs/2305.02822v1](http://arxiv.org/abs/2305.02822v1)
