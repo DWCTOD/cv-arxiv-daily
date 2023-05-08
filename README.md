@@ -1,4 +1,4 @@
-## Updated on 2023.05.07
+## Updated on 2023.05.08
 
 ## Video_Classification
 
@@ -2309,7 +2309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-04**|**Laser Powder Bed Fusion of anisotropic Nd-Fe-B bonded magnets utilizing an in situ mechanical alignment approach**|Kilian Schäfer et.al.|[2305.02867v1](http://arxiv.org/abs/2305.02867v1)|null|
+|**2023-05-05**|**Laser Powder Bed Fusion of anisotropic Nd-Fe-B bonded magnets utilizing an in situ mechanical alignment approach**|Kilian Schäfer et.al.|[2305.02867v2](http://arxiv.org/abs/2305.02867v2)|null|
 |**2023-05-04**|**MEDIC: A Multimodal Empathy Dataset in Counseling**|Zhou'an_Zhu et.al.|[2305.02842v1](http://arxiv.org/abs/2305.02842v1)|null|
 |**2023-05-04**|**Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments**|Qamar Bader et.al.|[2305.02822v1](http://arxiv.org/abs/2305.02822v1)|null|
 |**2023-05-04**|**Multi-Modality Deep Network for JPEG Artifacts Reduction**|Xuhao Jiang et.al.|[2305.02760v1](http://arxiv.org/abs/2305.02760v1)|null|
