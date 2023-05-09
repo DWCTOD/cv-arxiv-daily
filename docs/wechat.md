@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-05-08, **What Do Patients Say About Their Disease Symptoms? Deep Multilabel Text Classification With Human-in-the-Loop Curation for Automatic Labeling of Patient Self Reports of Problems**, Lakshmi Arbatti et.al., Paper: [http://arxiv.org/abs/2305.04905v1](http://arxiv.org/abs/2305.04905v1)
+- 2023-05-08, **Toward Connecting Speech Acts and Search Actions in Conversational Search Tasks**, Souvick Ghosh et.al., Paper: [http://arxiv.org/abs/2305.04858v1](http://arxiv.org/abs/2305.04858v1)
+- 2023-05-08, **Isotonic subgroup selection**, Manuel M. Müller et.al., Paper: [http://arxiv.org/abs/2305.04852v1](http://arxiv.org/abs/2305.04852v1)
+- 2023-05-08, **Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**, Evgeney Bogatyrev et.al., Paper: [http://arxiv.org/abs/2305.04844v1](http://arxiv.org/abs/2305.04844v1), Code: **[https://github.com/evgeneybogatyrev/super-resolution-metric](https://github.com/evgeneybogatyrev/super-resolution-metric)**
+- 2023-05-08, **Learning Summary-Worthy Visual Representation for Abstractive Summarization in Video**, Zenan Xu et.al., Paper: [http://arxiv.org/abs/2305.04824v1](http://arxiv.org/abs/2305.04824v1)
+- 2023-05-08, **On word complexity and topological entropy of random substitution subshifts**, Andrew Mitchell et.al., Paper: [http://arxiv.org/abs/2305.04817v1](http://arxiv.org/abs/2305.04817v1)
+- 2023-05-08, **FlaPy: Mining Flaky Python Tests at Scale**, Martin Gruber et.al., Paper: [http://arxiv.org/abs/2305.04793v1](http://arxiv.org/abs/2305.04793v1)
+- 2023-05-08, **AvatarReX: Real-time Expressive Full-body Avatars**, Zerong Zheng et.al., Paper: [http://arxiv.org/abs/2305.04789v1](http://arxiv.org/abs/2305.04789v1)
+- 2023-05-08, **Multi-Scale Energy (MuSE) plug and play framework for inverse problems**, Jyothi Rikhab Chand et.al., Paper: [http://arxiv.org/abs/2305.04775v1](http://arxiv.org/abs/2305.04775v1)
+- 2023-05-08, **Understanding Noise-Augmented Training for Randomized Smoothing**, Ambar Pal et.al., Paper: [http://arxiv.org/abs/2305.04746v1](http://arxiv.org/abs/2305.04746v1), Code: **[https://github.com/ambarpal/randomized-smoothing](https://github.com/ambarpal/randomized-smoothing)**
 - 2023-05-05, **Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**, Ekta Prashnani et.al., Paper: [http://arxiv.org/abs/2305.03713v1](http://arxiv.org/abs/2305.03713v1)
 - 2023-05-05, **Fine-Grained Product Classification on Leaflet Advertisements**, Daniel Ladwig et.al., Paper: [http://arxiv.org/abs/2305.03706v1](http://arxiv.org/abs/2305.03706v1), Code: **[https://github.com/ladwigd/leaflet-product-classification](https://github.com/ladwigd/leaflet-product-classification)**
 - 2023-05-05, **How Segment Anything Model (SAM) Boost Medical Image Segmentation?**, Yichi Zhang et.al., Paper: [http://arxiv.org/abs/2305.03678v1](http://arxiv.org/abs/2305.03678v1), Code: **[https://github.com/yichizhang98/sam4mis](https://github.com/yichizhang98/sam4mis)**
@@ -2315,6 +2325,16 @@
 
 ## MultiModal
 
+- 2023-05-08, **Large-scale and Efficient Texture Mapping Algorithm via Loopy Belief Propagation**, Xiao ling et.al., Paper: [http://arxiv.org/abs/2305.04763v1](http://arxiv.org/abs/2305.04763v1)
+- 2023-05-08, **Sense, Imagine, Act: Multimodal Perception Improves Model-Based Reinforcement Learning for Head-to-Head Autonomous Racing**, Elena Shrestha et.al., Paper: [http://arxiv.org/abs/2305.04750v1](http://arxiv.org/abs/2305.04750v1)
+- 2023-05-08, **Learning to Generate Poetic Chinese Landscape Painting with Calligraphy**, Shaozu Yuan et.al., Paper: [http://arxiv.org/abs/2305.04719v1](http://arxiv.org/abs/2305.04719v1)
+- 2023-05-08, **Multimodal Detection and Identification of Robot Manipulation Failures**, Arda Inceoglu et.al., Paper: [http://arxiv.org/abs/2305.04639v1](http://arxiv.org/abs/2305.04639v1)
+- 2023-05-08, **A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**, Hoang-Anh Phan et.al., Paper: [http://arxiv.org/abs/2305.04594v1](http://arxiv.org/abs/2305.04594v1)
+- 2023-05-08, **Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**, Zeju Li et.al., Paper: [http://arxiv.org/abs/2305.04567v1](http://arxiv.org/abs/2305.04567v1)
+- 2023-05-08, **AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**, Ruiqi Li et.al., Paper: [http://arxiv.org/abs/2305.04476v1](http://arxiv.org/abs/2305.04476v1)
+- 2023-05-08, **On Evaluation of Nonfactorizable Corrections to Higgs Boson Production via Vector Boson Fusion**, Logan Gates et.al., Paper: [http://arxiv.org/abs/2305.04407v1](http://arxiv.org/abs/2305.04407v1)
+- 2023-05-07, **Empowering Language Model with Guided Knowledge Fusion for Biomedical Document Re-ranking**, Deepak Gupta et.al., Paper: [http://arxiv.org/abs/2305.04344v1](http://arxiv.org/abs/2305.04344v1)
+- 2023-05-07, **Dual Residual Attention Network for Image Denoising**, Wencong Wu et.al., Paper: [http://arxiv.org/abs/2305.04269v1](http://arxiv.org/abs/2305.04269v1), Code: **[https://github.com/WenCongWu/DRANet](https://github.com/WenCongWu/DRANet)**
 - 2023-05-05, **Accommodating the H$(650)$ in the HEFT**, Iñigo Asiáin et.al., Paper: [http://arxiv.org/abs/2305.03622v1](http://arxiv.org/abs/2305.03622v1)
 - 2023-05-05, **Segmentation of fundus vascular images based on a dual-attention mechanism**, Yuanyuan Peng et.al., Paper: [http://arxiv.org/abs/2305.03617v1](http://arxiv.org/abs/2305.03617v1)
 - 2023-05-05, **A Dual Semantic-Aware Recurrent Global-Adaptive Network For Vision-and-Language Navigation**, Liuyi Wang et.al., Paper: [http://arxiv.org/abs/2305.03602v1](http://arxiv.org/abs/2305.03602v1)
