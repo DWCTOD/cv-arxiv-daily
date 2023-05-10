@@ -1,4 +1,4 @@
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 
 ## Video_Classification
 
@@ -2335,7 +2335,7 @@
 |**2023-05-08**|**Multimodal Detection and Identification of Robot Manipulation Failures**|Arda Inceoglu et.al.|[2305.04639v1](http://arxiv.org/abs/2305.04639v1)|null|
 |**2023-05-08**|**A sensor fusion approach for improving implementation speed and accuracy of RTAB-Map algorithm based indoor 3D mapping**|Hoang-Anh Phan et.al.|[2305.04594v1](http://arxiv.org/abs/2305.04594v1)|null|
 |**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567v1](http://arxiv.org/abs/2305.04567v1)|null|
-|**2023-05-08**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v1](http://arxiv.org/abs/2305.04476v1)|null|
+|**2023-05-09**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v2](http://arxiv.org/abs/2305.04476v2)|null|
 |**2023-05-08**|**On Evaluation of Nonfactorizable Corrections to Higgs Boson Production via Vector Boson Fusion**|Logan Gates et.al.|[2305.04407v1](http://arxiv.org/abs/2305.04407v1)|null|
 |**2023-05-07**|**Empowering Language Model with Guided Knowledge Fusion for Biomedical Document Re-ranking**|Deepak Gupta et.al.|[2305.04344v1](http://arxiv.org/abs/2305.04344v1)|null|
 |**2023-05-07**|**Dual Residual Attention Network for Image Denoising**|Wencong Wu et.al.|[2305.04269v1](http://arxiv.org/abs/2305.04269v1)|**[link](https://github.com/WenCongWu/DRANet)**|
