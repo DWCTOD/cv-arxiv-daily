@@ -1,8 +1,8 @@
-> Updated on 2023.05.10
+> Updated on 2023.05.11
 
 ## Video_Classification
 
-- 2023-05-09, **InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**, Zhaoyang Liu et.al., Paper: [http://arxiv.org/abs/2305.05662v1](http://arxiv.org/abs/2305.05662v1), Code: **[https://github.com/opengvlab/internchat](https://github.com/opengvlab/internchat)**
+- 2023-05-10, **InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**, Zhaoyang Liu et.al., Paper: [http://arxiv.org/abs/2305.05662v2](http://arxiv.org/abs/2305.05662v2), Code: **[https://github.com/opengvlab/internchat](https://github.com/opengvlab/internchat)**
 - 2023-05-09, **An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text**, Yova Kementchedjhieva et.al., Paper: [http://arxiv.org/abs/2305.05627v1](http://arxiv.org/abs/2305.05627v1)
 - 2023-05-09, **Can point cloud networks learn statistical shape models of anatomies?**, Jadie Adams et.al., Paper: [http://arxiv.org/abs/2305.05610v1](http://arxiv.org/abs/2305.05610v1)
 - 2023-05-09, **Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query**, Ho Hin Lee et.al., Paper: [http://arxiv.org/abs/2305.05598v1](http://arxiv.org/abs/2305.05598v1)
@@ -2336,7 +2336,7 @@
 ## MultiModal
 
 - 2023-05-09, **Pointed fusion systems of blocks**, Laurence Barker et.al., Paper: [http://arxiv.org/abs/2305.05446v1](http://arxiv.org/abs/2305.05446v1)
-- 2023-05-09, **Safe Deep RL for Intraoperative Planning of Pedicle Screw Placement**, Yunke Ao et.al., Paper: [http://arxiv.org/abs/2305.05354v1](http://arxiv.org/abs/2305.05354v1)
+- 2023-05-10, **Safe Deep RL for Intraoperative Planning of Pedicle Screw Placement**, Yunke Ao et.al., Paper: [http://arxiv.org/abs/2305.05354v2](http://arxiv.org/abs/2305.05354v2)
 - 2023-05-09, **Trustworthy Multi-phase Liver Tumor Segmentation via Evidence-based Uncertainty**, Chuanfei Hu et.al., Paper: [http://arxiv.org/abs/2305.05344v1](http://arxiv.org/abs/2305.05344v1)
 - 2023-05-09, **Global simulations of kinetic-magnetohydrodynamic processes with energetic electrons in tokamak plasmas**, Jian Bao et.al., Paper: [http://arxiv.org/abs/2305.05323v1](http://arxiv.org/abs/2305.05323v1)
 - 2023-05-09, **Guided Focal Stack Refinement Network for Light Field Salient Object Detection**, Bo Yuan et.al., Paper: [http://arxiv.org/abs/2305.05260v1](http://arxiv.org/abs/2305.05260v1)
