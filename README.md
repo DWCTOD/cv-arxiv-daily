@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v1](http://arxiv.org/abs/2305.06356v1)|null|
+|**2023-05-10**|**VideoChat: Chat-Centric Video Understanding**|KunChang Li et.al.|[2305.06355v1](http://arxiv.org/abs/2305.06355v1)|**[link](https://github.com/opengvlab/ask-anything)**|
+|**2023-05-10**|**Reconstructing Animatable Categories from Videos**|Gengshan Yang et.al.|[2305.06351v1](http://arxiv.org/abs/2305.06351v1)|null|
+|**2023-05-10**|**Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**|Hassan Akbari et.al.|[2305.06324v1](http://arxiv.org/abs/2305.06324v1)|null|
+|**2023-05-10**|**SepMark: Deep Separable Watermarking for Unified Source Tracing and Deepfake Detection**|Xiaoshuai Wu et.al.|[2305.06321v1](http://arxiv.org/abs/2305.06321v1)|null|
+|**2023-05-10**|**Learning Video-Conditioned Policies for Unseen Manipulation Tasks**|Elliot Chane-Sane et.al.|[2305.06289v1](http://arxiv.org/abs/2305.06289v1)|null|
+|**2023-05-10**|**Convolution of periodic multiplicative functions and the divisor problem**|Marco Aymone et.al.|[2305.06260v1](http://arxiv.org/abs/2305.06260v1)|null|
+|**2023-05-10**|**Embedded Feature Correlation Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252v1](http://arxiv.org/abs/2305.06252v1)|null|
+|**2023-05-10**|**Eigenmodes of magnetic skyrmion lattices**|Louise Desplat et.al.|[2305.06248v1](http://arxiv.org/abs/2305.06248v1)|null|
+|**2023-05-10**|**Explainable Knowledge Distillation for On-device Chest X-Ray Classification**|Chakkrit Termritthikun et.al.|[2305.06244v1](http://arxiv.org/abs/2305.06244v1)|null|
 |**2023-05-10**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liu et.al.|[2305.05662v2](http://arxiv.org/abs/2305.05662v2)|**[link](https://github.com/opengvlab/internchat)**|
 |**2023-05-09**|**An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text**|Yova Kementchedjhieva et.al.|[2305.05627v1](http://arxiv.org/abs/2305.05627v1)|null|
 |**2023-05-09**|**Can point cloud networks learn statistical shape models of anatomies?**|Jadie Adams et.al.|[2305.05610v1](http://arxiv.org/abs/2305.05610v1)|null|
@@ -2339,6 +2349,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**|Hassan Akbari et.al.|[2305.06324v1](http://arxiv.org/abs/2305.06324v1)|null|
+|**2023-05-10**|**A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**|Can Pu et.al.|[2305.06278v1](http://arxiv.org/abs/2305.06278v1)|**[link](https://github.com/canpu999/trimbot-wageningen-slam-dataset)**|
+|**2023-05-10**|**A Multi-modal Approach to Single-modal Visual Place Classification**|Tomoya Iwasaki et.al.|[2305.06179v1](http://arxiv.org/abs/2305.06179v1)|null|
+|**2023-05-10**|**Enhancement of Fusion Reactivity under Non-Maxwellian Distributions: Effects of Drift-Ring-Beam, Slowing-Down, and Kappa Super-Thermal Distributions**|Haozhe Kong et.al.|[2305.06086v1](http://arxiv.org/abs/2305.06086v1)|null|
+|**2023-05-10**|**FusionDepth: Complement Self-Supervised Monocular Depth Estimation with Cost Volume**|Zhuofei Huang et.al.|[2305.06036v1](http://arxiv.org/abs/2305.06036v1)|null|
+|**2023-05-10**|**FusionBooster: A Unified Image Fusion Boosting Paradigm**|Chunyang Cheng et.al.|[2305.05970v1](http://arxiv.org/abs/2305.05970v1)|null|
+|**2023-05-10**|**D-Net: Learning for Distinctive Point Clouds by Self-Attentive Point Searching and Learnable Feature Fusion**|Xinhai Liu et.al.|[2305.05842v1](http://arxiv.org/abs/2305.05842v1)|null|
+|**2023-05-10**|**A Self-Training Framework Based on Multi-Scale Attention Fusion for Weakly Supervised Semantic Segmentation**|Guoqing Yang et.al.|[2305.05841v1](http://arxiv.org/abs/2305.05841v1)|null|
+|**2023-05-09**|**Fusion Surface Models: 2+1d Lattice Models from Fusion 2-Categories**|Kansei Inamura et.al.|[2305.05774v1](http://arxiv.org/abs/2305.05774v1)|null|
+|**2023-05-09**|**An Evaluation and Ranking of Different Voting Schemes for Improved Visual Place Recognition**|Maria Waheed et.al.|[2305.05705v1](http://arxiv.org/abs/2305.05705v1)|null|
 |**2023-05-09**|**Pointed fusion systems of blocks**|Laurence Barker et.al.|[2305.05446v1](http://arxiv.org/abs/2305.05446v1)|null|
 |**2023-05-10**|**Safe Deep RL for Intraoperative Planning of Pedicle Screw Placement**|Yunke Ao et.al.|[2305.05354v2](http://arxiv.org/abs/2305.05354v2)|null|
 |**2023-05-09**|**Trustworthy Multi-phase Liver Tumor Segmentation via Evidence-based Uncertainty**|Chuanfei Hu et.al.|[2305.05344v1](http://arxiv.org/abs/2305.05344v1)|null|
