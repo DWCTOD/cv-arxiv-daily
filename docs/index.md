@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**A General-Purpose Multilingual Document Encoder**|Onur Galoğlu et.al.|[2305.07016v1](http://arxiv.org/abs/2305.07016v1)|**[link](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**|
+|**2023-05-11**|**Self-Chained Image-Language Model for Video Localization and Question Answering**|Shoubin Yu et.al.|[2305.06988v1](http://arxiv.org/abs/2305.06988v1)|**[link](https://github.com/yui010206/sevila)**|
+|**2023-05-11**|**Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation**|Ziyuan Zhao et.al.|[2305.06978v1](http://arxiv.org/abs/2305.06978v1)|null|
+|**2023-05-11**|**Data quality dimensions for fair AI**|Camilla Quaresmini et.al.|[2305.06967v1](http://arxiv.org/abs/2305.06967v1)|**[link](https://github.com/Trusted-AI/AIF360)**|
+|**2023-05-11**|**Transformers for CT Reconstruction From Monoplanar and Biplanar Radiographs**|Firas Khader et.al.|[2305.06965v1](http://arxiv.org/abs/2305.06965v1)|null|
+|**2023-05-11**|**Cascaded Cross-Attention Networks for Data-Efficient Whole-Slide Image Classification Using Transformers**|Firas Khader et.al.|[2305.06963v1](http://arxiv.org/abs/2305.06963v1)|null|
+|**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
+|**2023-05-11**|**Meta-Learners for Few-Shot Weakly-Supervised Medical Image Segmentation**|Hugo Oliveira et.al.|[2305.06912v1](http://arxiv.org/abs/2305.06912v1)|null|
+|**2023-05-11**|**Stochastic Variance-Reduced Majorization-Minimization Algorithms**|Duy-Nhat Phan et.al.|[2305.06848v1](http://arxiv.org/abs/2305.06848v1)|null|
+|**2023-05-11**|**Detection and Classification of Pole-like Landmarks for Domain-invariant 3D Point Cloud Map Matching**|Sun Yifei et.al.|[2305.06845v1](http://arxiv.org/abs/2305.06845v1)|null|
 |**2023-05-11**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|**[link](https://github.com/synthesiaresearch/humanrf)**|
 |**2023-05-10**|**VideoChat: Chat-Centric Video Understanding**|KunChang Li et.al.|[2305.06355v1](http://arxiv.org/abs/2305.06355v1)|**[link](https://github.com/opengvlab/ask-anything)**|
 |**2023-05-10**|**Reconstructing Animatable Categories from Videos**|Gengshan Yang et.al.|[2305.06351v1](http://arxiv.org/abs/2305.06351v1)|null|
@@ -2353,6 +2363,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
+|**2023-05-11**|**Meta-Learners for Few-Shot Weakly-Supervised Medical Image Segmentation**|Hugo Oliveira et.al.|[2305.06912v1](http://arxiv.org/abs/2305.06912v1)|null|
+|**2023-05-11**|**Physics-enhanced neural networks for equation-of-state calculations**|Timothy J. Callow et.al.|[2305.06856v1](http://arxiv.org/abs/2305.06856v1)|null|
+|**2023-05-11**|**A Generic Approach to Integrating Time into Spatial-Temporal Forecasting via Conditional Neural Fields**|Minh-Thanh Bui et.al.|[2305.06827v1](http://arxiv.org/abs/2305.06827v1)|null|
+|**2023-05-11**|**Suppressing stimulated Raman side-scattering by vector light**|Xiaobao Jia et.al.|[2305.06826v1](http://arxiv.org/abs/2305.06826v1)|null|
+|**2023-05-11**|**DeepSTEP -- Deep Learning-Based Spatio-Temporal End-To-End Perception for Autonomous Vehicles**|Sebastian Huch et.al.|[2305.06820v1](http://arxiv.org/abs/2305.06820v1)|null|
+|**2023-05-11**|**Multi-modal Multi-level Fusion for 3D Single Object Tracking**|Zhiheng Li et.al.|[2305.06794v1](http://arxiv.org/abs/2305.06794v1)|null|
+|**2023-05-11**|**Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond**|Zhu Liu et.al.|[2305.06720v1](http://arxiv.org/abs/2305.06720v1)|null|
+|**2023-05-11**|**Matrix tri-factorization over the tropical semiring**|Amra Omanović et.al.|[2305.06624v1](http://arxiv.org/abs/2305.06624v1)|null|
+|**2023-05-11**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v1](http://arxiv.org/abs/2305.06524v1)|null|
 |**2023-05-10**|**Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**|Hassan Akbari et.al.|[2305.06324v1](http://arxiv.org/abs/2305.06324v1)|null|
 |**2023-05-10**|**A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**|Can Pu et.al.|[2305.06278v1](http://arxiv.org/abs/2305.06278v1)|**[link](https://github.com/canpu999/trimbot-wageningen-slam-dataset)**|
 |**2023-05-11**|**A Multi-modal Approach to Single-modal Visual Place Classification**|Tomoya Iwasaki et.al.|[2305.06179v2](http://arxiv.org/abs/2305.06179v2)|null|
