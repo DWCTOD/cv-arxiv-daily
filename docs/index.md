@@ -16,7 +16,7 @@ layout: default
 |**2023-05-11**|**Cascaded Cross-Attention Networks for Data-Efficient Whole-Slide Image Classification Using Transformers**|Firas Khader et.al.|[2305.06963v1](http://arxiv.org/abs/2305.06963v1)|null|
 |**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
 |**2023-05-11**|**Meta-Learners for Few-Shot Weakly-Supervised Medical Image Segmentation**|Hugo Oliveira et.al.|[2305.06912v1](http://arxiv.org/abs/2305.06912v1)|null|
-|**2023-05-11**|**Stochastic Variance-Reduced Majorization-Minimization Algorithms**|Duy-Nhat Phan et.al.|[2305.06848v1](http://arxiv.org/abs/2305.06848v1)|null|
+|**2023-05-11**|**Stochastic Variance-Reduced Majorization-Minimization Algorithms**|Duy-Nhat Phan et.al.|[2305.06848v1](http://arxiv.org/abs/2305.06848v1)|**[link](https://github.com/nhatpd/svrmm)**|
 |**2023-05-11**|**Detection and Classification of Pole-like Landmarks for Domain-invariant 3D Point Cloud Map Matching**|Sun Yifei et.al.|[2305.06845v1](http://arxiv.org/abs/2305.06845v1)|null|
 |**2023-05-11**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|**[link](https://github.com/synthesiaresearch/humanrf)**|
 |**2023-05-10**|**VideoChat: Chat-Centric Video Understanding**|KunChang Li et.al.|[2305.06355v1](http://arxiv.org/abs/2305.06355v1)|**[link](https://github.com/opengvlab/ask-anything)**|
