@@ -1,4 +1,4 @@
-> Updated on 2023.05.14
+> Updated on 2023.05.15
 
 ## Video_Classification
 
@@ -2364,7 +2364,7 @@
 - 2023-05-11, **Multi-modal Multi-level Fusion for 3D Single Object Tracking**, Zhiheng Li et.al., Paper: [http://arxiv.org/abs/2305.06794v1](http://arxiv.org/abs/2305.06794v1)
 - 2023-05-11, **Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond**, Zhu Liu et.al., Paper: [http://arxiv.org/abs/2305.06720v1](http://arxiv.org/abs/2305.06720v1)
 - 2023-05-11, **Matrix tri-factorization over the tropical semiring**, Amra Omanović et.al., Paper: [http://arxiv.org/abs/2305.06624v1](http://arxiv.org/abs/2305.06624v1), Code: **[https://github.com/ejmric/trifaststmf](https://github.com/ejmric/trifaststmf)**
-- 2023-05-11, **Can SAM Boost Video Super-Resolution?**, Zhihe Lu et.al., Paper: [http://arxiv.org/abs/2305.06524v1](http://arxiv.org/abs/2305.06524v1)
+- 2023-05-12, **Can SAM Boost Video Super-Resolution?**, Zhihe Lu et.al., Paper: [http://arxiv.org/abs/2305.06524v2](http://arxiv.org/abs/2305.06524v2)
 - 2023-05-10, **Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**, Hassan Akbari et.al., Paper: [http://arxiv.org/abs/2305.06324v1](http://arxiv.org/abs/2305.06324v1)
 - 2023-05-10, **A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**, Can Pu et.al., Paper: [http://arxiv.org/abs/2305.06278v1](http://arxiv.org/abs/2305.06278v1), Code: **[https://github.com/canpu999/trimbot-wageningen-slam-dataset](https://github.com/canpu999/trimbot-wageningen-slam-dataset)**
 - 2023-05-11, **A Multi-modal Approach to Single-modal Visual Place Classification**, Tomoya Iwasaki et.al., Paper: [http://arxiv.org/abs/2305.06179v2](http://arxiv.org/abs/2305.06179v2)
