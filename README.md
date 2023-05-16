@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
+|**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850v1](http://arxiv.org/abs/2305.08850v1)|null|
+|**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|null|
+|**2023-05-15**|**Attacking Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2305.08840v1](http://arxiv.org/abs/2305.08840v1)|null|
+|**2023-05-15**|**Learning Better Contrastive View from Radiologist's Gaze**|Sheng Wang et.al.|[2305.08826v1](http://arxiv.org/abs/2305.08826v1)|null|
+|**2023-05-15**|**Measuring Cross-Lingual Transferability of Multilingual Transformers on Sentence Classification**|Zewen Chi et.al.|[2305.08800v1](http://arxiv.org/abs/2305.08800v1)|null|
+|**2023-05-15**|**Predictive Models from Quantum Computer Benchmarks**|Daniel Hothem et.al.|[2305.08796v1](http://arxiv.org/abs/2305.08796v1)|null|
+|**2023-05-15**|**Comparing Variation in Tokenizer Outputs Using a Series of Problematic and Challenging Biomedical Sentences**|Christopher Meaney et.al.|[2305.08787v1](http://arxiv.org/abs/2305.08787v1)|null|
+|**2023-05-15**|**TAA-GCN: A Temporally Aware Adaptive Graph Convolutional Network for Age Estimation**|Matthew Korban et.al.|[2305.08779v1](http://arxiv.org/abs/2305.08779v1)|null|
+|**2023-05-15**|**Question-Answering System Extracts Information on Injection Drug Use from Clinical Progress Notes**|Maria Mahbub et.al.|[2305.08777v1](http://arxiv.org/abs/2305.08777v1)|null|
 |**2023-05-12**|**How do supernova remnants cool? -- I. Morphology, optical emission lines, and shocks**|Ekaterina I. Makarenko et.al.|[2305.07652v1](http://arxiv.org/abs/2305.07652v1)|null|
 |**2023-05-12**|**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images**|Muhammad Usman Akbar et.al.|[2305.07644v1](http://arxiv.org/abs/2305.07644v1)|null|
 |**2023-05-12**|**Efficient Neural Network based Classification and Outlier Detection for Image Moderation using Compressed Sensing and Group Testing**|Sabyasachi Ghosh et.al.|[2305.07639v1](http://arxiv.org/abs/2305.07639v1)|null|
@@ -2369,6 +2379,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Next-to-leading-logarithmic PanScales showers for Deep Inelastic Scattering and Vector Boson Fusion**|Melissa van Beekveld et.al.|[2305.08645v1](http://arxiv.org/abs/2305.08645v1)|null|
+|**2023-05-15**|**A Survey of Blockchain and Artificial Intelligence for 6G Wireless Communications**|Yiping Zuo et.al.|[2305.08604v1](http://arxiv.org/abs/2305.08604v1)|null|
+|**2023-05-15**|**Fission and fusion of heavy nuclei induced by the passage of a radiation-mediated shock in BNS mergers**|Alon Granot et.al.|[2305.08575v1](http://arxiv.org/abs/2305.08575v1)|null|
+|**2023-05-15**|**Sub-barrier heavy-ion fusion/capture: Accurate accounting for zero-point quadrupole shape oscillations with realistic nucleus-nucleus potential**|I. I. Gontchar et.al.|[2305.08537v1](http://arxiv.org/abs/2305.08537v1)|null|
+|**2023-05-15**|**Benchmarking UWB-Based Infrastructure-Free Positioning and Multi-Robot Relative Localization: Dataset and Characterization**|Paola Torrico Morón et.al.|[2305.08532v1](http://arxiv.org/abs/2305.08532v1)|null|
+|**2023-05-15**|**Cross-Modality Time-Variant Relation Learning for Generating Dynamic Scene Graphs**|Jingyi Wang et.al.|[2305.08522v1](http://arxiv.org/abs/2305.08522v1)|null|
+|**2023-05-15**|**Shared and Private Information Learning in Multimodal Sentiment Analysis with Deep Modal Alignment and Self-supervised Multi-Task Learning**|Songning Lai et.al.|[2305.08473v1](http://arxiv.org/abs/2305.08473v1)|null|
+|**2023-05-15**|**Systematic study of fusion barriers with energy dependent barrier radius**|Yeruoxi Chen et.al.|[2305.08382v1](http://arxiv.org/abs/2305.08382v1)|null|
+|**2023-05-15**|**Fusion Blossom: Fast MWPM Decoders for QEC**|Yue Wu et.al.|[2305.08307v1](http://arxiv.org/abs/2305.08307v1)|null|
+|**2023-05-15**|**ForkNet: Simultaneous Time and Time-Frequency Domain Modeling for Speech Enhancement**|Feng Dang et.al.|[2305.08292v1](http://arxiv.org/abs/2305.08292v1)|null|
 |**2023-05-12**|**Towards Versatile and Efficient Visual Knowledge Injection into Pre-trained Language Models with Cross-Modal Adapters**|Xinyun Zhang et.al.|[2305.07358v1](http://arxiv.org/abs/2305.07358v1)|null|
 |**2023-05-12**|**Elevating 0-D global scaling predictions to self-consistent theory-based simulations**|Tim Slendebroek et.al.|[2305.07285v1](http://arxiv.org/abs/2305.07285v1)|null|
 |**2023-05-12**|**MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition**|Xinyu Gong et.al.|[2305.07214v1](http://arxiv.org/abs/2305.07214v1)|null|
