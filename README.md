@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks**|Chongyu Qu et.al.|[2305.09666v1](http://arxiv.org/abs/2305.09666v1)|null|
+|**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
+|**2023-05-16**|**Sixfold way of traversable wormholes in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2305.09663v1](http://arxiv.org/abs/2305.09663v1)|null|
+|**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
+|**2023-05-16**|**Osteosarcoma Tumor Detection using Transfer Learning Models**|Raisa Fairooz Meem et.al.|[2305.09660v1](http://arxiv.org/abs/2305.09660v1)|null|
+|**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655v1](http://arxiv.org/abs/2305.09655v1)|**[link](https://github.com/s4nyam/ramario)**|
+|**2023-05-16**|**The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation**|Mutian He et.al.|[2305.09652v1](http://arxiv.org/abs/2305.09652v1)|null|
+|**2023-05-16**|**Tailoring Instructions to Student's Learning Levels Boosts Knowledge Distillation**|Yuxin Ren et.al.|[2305.09651v1](http://arxiv.org/abs/2305.09651v1)|**[link](https://github.com/twinkle0331/lgtm)**|
+|**2023-05-16**|**Wavelet-based Unsupervised Label-to-Image Translation**|George Eskandar et.al.|[2305.09647v1](http://arxiv.org/abs/2305.09647v1)|**[link](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis)**|
+|**2023-05-16**|**Data Augmentation for Conflict and Duplicate Detection in Software Engineering Sentence Pairs**|Garima Malik et.al.|[2305.09608v1](http://arxiv.org/abs/2305.09608v1)|null|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
 |**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850v1](http://arxiv.org/abs/2305.08850v1)|null|
 |**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|null|
@@ -2379,6 +2389,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token**|Jinsong Shi et.al.|[2305.09353v1](http://arxiv.org/abs/2305.09353v1)|**[link](https://github.com/srache/tempqt)**|
+|**2023-05-16**|**PhysNODE: Fusion of data and expert knowledge for modeling dynamical systems**|Leon Lettermann et.al.|[2305.09325v1](http://arxiv.org/abs/2305.09325v1)|null|
+|**2023-05-16**|**UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning**|Heqing Zou et.al.|[2305.09299v1](http://arxiv.org/abs/2305.09299v1)|null|
+|**2023-05-16**|**CB-HVTNet: A channel-boosted hybrid vision transformer network for lymphocyte assessment in histopathological images**|Momina Liaqat Ali et.al.|[2305.09211v1](http://arxiv.org/abs/2305.09211v1)|null|
+|**2023-05-16**|**Correlation Pyramid Network for 3D Single Object Tracking**|Mengmeng Wang et.al.|[2305.09195v1](http://arxiv.org/abs/2305.09195v1)|null|
+|**2023-05-16**|**Lightweight Self-Knowledge Distillation with Multi-source Information Fusion**|Xucong Wang et.al.|[2305.09183v1](http://arxiv.org/abs/2305.09183v1)|**[link](https://github.com/xucong-parsifal/lightskd)**|
+|**2023-05-16**|**Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels**|Tong Wu et.al.|[2305.09165v1](http://arxiv.org/abs/2305.09165v1)|null|
+|**2023-05-16**|**DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion**|Pengcheng Shi et.al.|[2305.09132v1](http://arxiv.org/abs/2305.09132v1)|null|
+|**2023-05-16**|**On near-group centers and super-modular categories**|Eric C. Rowell et.al.|[2305.09108v1](http://arxiv.org/abs/2305.09108v1)|**[link](https://github.com/zhangqing2513/near-group-centers-super-modular)**|
+|**2023-05-15**|**Criteria for supersolvability of saturated fusion systems**|Fawaz Aseeri et.al.|[2305.09008v1](http://arxiv.org/abs/2305.09008v1)|null|
 |**2023-05-15**|**Next-to-leading-logarithmic PanScales showers for Deep Inelastic Scattering and Vector Boson Fusion**|Melissa van Beekveld et.al.|[2305.08645v1](http://arxiv.org/abs/2305.08645v1)|null|
 |**2023-05-15**|**A Survey of Blockchain and Artificial Intelligence for 6G Wireless Communications**|Yiping Zuo et.al.|[2305.08604v1](http://arxiv.org/abs/2305.08604v1)|null|
 |**2023-05-15**|**Fission and fusion of heavy nuclei induced by the passage of a radiation-mediated shock in BNS mergers**|Alon Granot et.al.|[2305.08575v1](http://arxiv.org/abs/2305.08575v1)|null|
