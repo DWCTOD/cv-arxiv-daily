@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Performance of the Quasar Spectral Templates for the Dark Energy Spectroscopic Instrument**|Allyson Brodzeller et.al.|[2305.10426v1](http://arxiv.org/abs/2305.10426v1)|null|
+|**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421v1](http://arxiv.org/abs/2305.10421v1)|null|
+|**2023-05-17**|**Variational Classification**|Shehzaad Dhuliawala et.al.|[2305.10406v1](http://arxiv.org/abs/2305.10406v1)|null|
+|**2023-05-17**|**What You See is What You Read? Improving Text-Image Alignment Evaluation**|Michal Yarom et.al.|[2305.10400v1](http://arxiv.org/abs/2305.10400v1)|**[link](https://github.com/yonatanbitton/wysiwyr)**|
+|**2023-05-17**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391v1](http://arxiv.org/abs/2305.10391v1)|null|
+|**2023-05-17**|**Logit-Based Ensemble Distribution Distillation for Robust Autoregressive Sequence Uncertainties**|Yassir Fathullah et.al.|[2305.10384v1](http://arxiv.org/abs/2305.10384v1)|null|
+|**2023-05-17**|**Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents**|Sergio Pelaez et.al.|[2305.10383v1](http://arxiv.org/abs/2305.10383v1)|null|
+|**2023-05-17**|**Dislocation correlations and the continuum dynamics of the weak line bundle ensemble**|Joseph Pierre Anderson et.al.|[2305.10375v1](http://arxiv.org/abs/2305.10375v1)|null|
+|**2023-05-17**|**A catalog of collected debris disks: properties, classifications and correlations between disks and stars/planets**|Peng-cheng Cao et.al.|[2305.10364v1](http://arxiv.org/abs/2305.10364v1)|null|
+|**2023-05-17**|**Confidence-Guided Semi-supervised Learning in Land Cover Classification**|Wanli Ma et.al.|[2305.10344v1](http://arxiv.org/abs/2305.10344v1)|null|
 |**2023-05-16**|**Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks**|Chongyu Qu et.al.|[2305.09666v1](http://arxiv.org/abs/2305.09666v1)|null|
 |**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
 |**2023-05-16**|**Sixfold way of traversable wormholes in the Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2305.09663v1](http://arxiv.org/abs/2305.09663v1)|null|
@@ -2393,6 +2403,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Evolution of Coupled Weakly-Driven Waves in a Dissipative Plasma**|N. M. Pham et.al.|[2305.10322v1](http://arxiv.org/abs/2305.10322v1)|null|
+|**2023-05-17**|**Analytic Conformal Blocks of $C_2$-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products**|Bin Gui et.al.|[2305.10180v1](http://arxiv.org/abs/2305.10180v1)|null|
+|**2023-05-17**|**CS-PCN: Context-Space Progressive Collaborative Network for Image Denoising**|Yuqi Jiang et.al.|[2305.10146v1](http://arxiv.org/abs/2305.10146v1)|null|
+|**2023-05-17**|**Fusion-S2iGan: An Efficient and Effective Single-Stage Framework for Speech-to-Image Generation**|Zhenxing Zhang et.al.|[2305.10126v1](http://arxiv.org/abs/2305.10126v1)|null|
+|**2023-05-17**|**An Interactively Reinforced Paradigm for Joint Infrared-Visible Image Fusion and Saliency Object Detection**|Di Wang et.al.|[2305.09999v1](http://arxiv.org/abs/2305.09999v1)|**[link](https://github.com/wdhudiekou/irfs)**|
+|**2023-05-17**|**A Fusion Model: Towards a Virtual, Physical and Cognitive Integration and its Principles**|Hao Lan Zhang et.al.|[2305.09992v1](http://arxiv.org/abs/2305.09992v1)|null|
+|**2023-05-17**|**DeepMSS: Deep Multi-Modality Segmentation-to-Survival Learning for Survival Outcome Prediction from PET/CT Images**|Mingyuan Meng et.al.|[2305.09946v1](http://arxiv.org/abs/2305.09946v1)|**[link](https://github.com/mungomeng/survival-deepmss)**|
+|**2023-05-17**|**CageViT: Convolutional Activation Guided Efficient Vision Transformer**|Hao Zheng et.al.|[2305.09924v1](http://arxiv.org/abs/2305.09924v1)|null|
+|**2023-05-17**|**Experimental nuclear charge density and theoretical description of the above-barrier light heavy-ion fusion process**|I. I. Gontchar et.al.|[2305.09915v1](http://arxiv.org/abs/2305.09915v1)|null|
 |**2023-05-16**|**Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token**|Jinsong Shi et.al.|[2305.09353v1](http://arxiv.org/abs/2305.09353v1)|**[link](https://github.com/srache/tempqt)**|
 |**2023-05-16**|**PhysNODE: Fusion of data and expert knowledge for modeling dynamical systems**|Leon Lettermann et.al.|[2305.09325v1](http://arxiv.org/abs/2305.09325v1)|null|
 |**2023-05-16**|**UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning**|Heqing Zou et.al.|[2305.09299v1](http://arxiv.org/abs/2305.09299v1)|null|
