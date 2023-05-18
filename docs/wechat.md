@@ -1,4 +1,4 @@
-> Updated on 2023.05.17
+> Updated on 2023.05.18
 
 ## Video_Classification
 
@@ -2393,7 +2393,7 @@
 - 2023-05-16, **Lightweight Self-Knowledge Distillation with Multi-source Information Fusion**, Xucong Wang et.al., Paper: [http://arxiv.org/abs/2305.09183v1](http://arxiv.org/abs/2305.09183v1), Code: **[https://github.com/xucong-parsifal/lightskd](https://github.com/xucong-parsifal/lightskd)**
 - 2023-05-16, **Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels**, Tong Wu et.al., Paper: [http://arxiv.org/abs/2305.09165v1](http://arxiv.org/abs/2305.09165v1)
 - 2023-05-16, **DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion**, Pengcheng Shi et.al., Paper: [http://arxiv.org/abs/2305.09132v1](http://arxiv.org/abs/2305.09132v1)
-- 2023-05-16, **On near-group centers and super-modular categories**, Eric C. Rowell et.al., Paper: [http://arxiv.org/abs/2305.09108v1](http://arxiv.org/abs/2305.09108v1), Code: **[https://github.com/zhangqing2513/near-group-centers-super-modular](https://github.com/zhangqing2513/near-group-centers-super-modular)**
+- 2023-05-17, **On near-group centers and super-modular categories**, Eric C. Rowell et.al., Paper: [http://arxiv.org/abs/2305.09108v2](http://arxiv.org/abs/2305.09108v2), Code: **[https://github.com/zhangqing2513/near-group-centers-super-modular](https://github.com/zhangqing2513/near-group-centers-super-modular)**
 - 2023-05-15, **Criteria for supersolvability of saturated fusion systems**, Fawaz Aseeri et.al., Paper: [http://arxiv.org/abs/2305.09008v1](http://arxiv.org/abs/2305.09008v1)
 - 2023-05-15, **Next-to-leading-logarithmic PanScales showers for Deep Inelastic Scattering and Vector Boson Fusion**, Melissa van Beekveld et.al., Paper: [http://arxiv.org/abs/2305.08645v1](http://arxiv.org/abs/2305.08645v1)
 - 2023-05-15, **A Survey of Blockchain and Artificial Intelligence for 6G Wireless Communications**, Yiping Zuo et.al., Paper: [http://arxiv.org/abs/2305.08604v1](http://arxiv.org/abs/2305.08604v1)
