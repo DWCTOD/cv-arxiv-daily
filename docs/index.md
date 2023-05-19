@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|null|
+|**2023-05-18**|**Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study**|Joel Castaño et.al.|[2305.11164v1](http://arxiv.org/abs/2305.11164v1)|null|
+|**2023-05-18**|**Skin Lesion Diagnosis Using Convolutional Neural Networks**|Daniel Alonso Villanueva Nunez et.al.|[2305.11125v1](http://arxiv.org/abs/2305.11125v1)|null|
+|**2023-05-18**|**MiraBest: A Dataset of Morphologically Classified Radio Galaxies for Machine Learning**|Fiona A. M. Porter et.al.|[2305.11108v1](http://arxiv.org/abs/2305.11108v1)|**[link](https://zenodo.org/record/4288837)**|
+|**2023-05-18**|**Cross-modality Data Augmentation for End-to-End Sign Language Translation**|Jinhui Ye et.al.|[2305.11096v1](http://arxiv.org/abs/2305.11096v1)|null|
+|**2023-05-18**|**Universal Domain Adaptation from Foundation Models**|Bin Deng et.al.|[2305.11092v1](http://arxiv.org/abs/2305.11092v1)|null|
+|**2023-05-18**|**The Heterotic-Ricci flow and its three-dimensional solitons**|Andrei Moroianu et.al.|[2305.11069v1](http://arxiv.org/abs/2305.11069v1)|null|
+|**2023-05-18**|**NODE-ImgNet: a PDE-informed effective and robust model for image denoising**|Xinheng Xie et.al.|[2305.11049v1](http://arxiv.org/abs/2305.11049v1)|null|
+|**2023-05-18**|**Simulation of a Variational Quantum Perceptron using Grover's Algorithm**|Nouhaila Innan et.al.|[2305.11040v1](http://arxiv.org/abs/2305.11040v1)|null|
+|**2023-05-18**|**Sizing multimodal suspensions with differential dynamic microscopy**|Joe J Bradley et.al.|[2305.11018v1](http://arxiv.org/abs/2305.11018v1)|null|
 |**2023-05-17**|**Performance of the Quasar Spectral Templates for the Dark Energy Spectroscopic Instrument**|Allyson Brodzeller et.al.|[2305.10426v1](http://arxiv.org/abs/2305.10426v1)|null|
 |**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421v1](http://arxiv.org/abs/2305.10421v1)|null|
 |**2023-05-17**|**Variational Classification**|Shehzaad Dhuliawala et.al.|[2305.10406v1](http://arxiv.org/abs/2305.10406v1)|null|
@@ -2403,6 +2413,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|null|
+|**2023-05-18**|**Robust Hybrid Transceiver Designs for Linear Decentralized Estimation in mmWave MIMO IoT Networks in the Face of Imperfect CSI**|Priyanka Maity et.al.|[2305.10887v1](http://arxiv.org/abs/2305.10887v1)|null|
+|**2023-05-18**|**TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition**|Wei Xiang et.al.|[2305.10866v1](http://arxiv.org/abs/2305.10866v1)|**[link](https://github.com/hustminslab/teprompt)**|
+|**2023-05-18**|**Seq-HGNN: Learning Sequential Node Representation on Heterogeneous Graph**|Chenguang Du et.al.|[2305.10771v1](http://arxiv.org/abs/2305.10771v1)|**[link](https://github.com/nobrowning/seq_hgnn)**|
+|**2023-05-18**|**Diffusion-Based Speech Enhancement with Joint Generative and Predictive Decoders**|Hao Shi et.al.|[2305.10734v1](http://arxiv.org/abs/2305.10734v1)|null|
+|**2023-05-17**|**Improving Extrinsics between RADAR and LIDAR using Learning**|Peng Jiang et.al.|[2305.10594v1](http://arxiv.org/abs/2305.10594v1)|null|
+|**2023-05-17**|**Short-Term Electricity Load Forecasting Using the Temporal Fusion Transformer: Effect of Grid Hierarchies and Data Sources**|Elena Giacomazzi et.al.|[2305.10559v1](http://arxiv.org/abs/2305.10559v1)|null|
+|**2023-05-17**|**Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs**|Igor Sfiligoi et.al.|[2305.10553v1](http://arxiv.org/abs/2305.10553v1)|null|
+|**2023-05-17**|**Rethinking Multimodal Content Moderation from an Asymmetric Angle with Mixed-modality**|Jialin Yuan et.al.|[2305.10547v1](http://arxiv.org/abs/2305.10547v1)|null|
 |**2023-05-17**|**Evolution of Coupled Weakly-Driven Waves in a Dissipative Plasma**|N. M. Pham et.al.|[2305.10322v1](http://arxiv.org/abs/2305.10322v1)|null|
 |**2023-05-17**|**Analytic Conformal Blocks of $C_2$-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products**|Bin Gui et.al.|[2305.10180v1](http://arxiv.org/abs/2305.10180v1)|null|
 |**2023-05-17**|**CS-PCN: Context-Space Progressive Collaborative Network for Image Denoising**|Yuqi Jiang et.al.|[2305.10146v1](http://arxiv.org/abs/2305.10146v1)|null|
