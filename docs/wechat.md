@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-05-22, **VDT: An Empirical Study on Video Diffusion with Transformers**, Haoyu Lu et.al., Paper: [http://arxiv.org/abs/2305.13311v1](http://arxiv.org/abs/2305.13311v1), Code: **[https://github.com/rerv/vdt](https://github.com/rerv/vdt)**
+- 2023-05-22, **VideoLLM: Modeling Video Sequence with Large Language Models**, Guo Chen et.al., Paper: [http://arxiv.org/abs/2305.13292v1](http://arxiv.org/abs/2305.13292v1), Code: **[https://github.com/cg1177/videollm](https://github.com/cg1177/videollm)**
+- 2023-05-22, **Materialistic: Selecting Similar Materials in Images**, Prafull Sharma et.al., Paper: [http://arxiv.org/abs/2305.13291v1](http://arxiv.org/abs/2305.13291v1)
+- 2023-05-22, **Morphological Sampling Theorem and its Extension to Grey-value Images**, Vivek Sridhar et.al., Paper: [http://arxiv.org/abs/2305.13279v1](http://arxiv.org/abs/2305.13279v1)
+- 2023-05-22, **U-TILISE: A Sequence-to-sequence Model for Cloud Removal in Optical Satellite Time Series**, Corinne Stucker et.al., Paper: [http://arxiv.org/abs/2305.13277v1](http://arxiv.org/abs/2305.13277v1)
+- 2023-05-22, **The Geometric Approach to the Classification of Signals via a Maximal Set of Signals**, Leon A. Luxemburg et.al., Paper: [http://arxiv.org/abs/2305.13255v1](http://arxiv.org/abs/2305.13255v1)
+- 2023-05-22, **Copy Recurrent Neural Network Structure Network**, Xiaofan Zhou et.al., Paper: [http://arxiv.org/abs/2305.13250v1](http://arxiv.org/abs/2305.13250v1)
+- 2023-05-22, **Interactive Natural Language Processing**, Zekun Wang et.al., Paper: [http://arxiv.org/abs/2305.13246v1](http://arxiv.org/abs/2305.13246v1)
+- 2023-05-22, **Sequential Transfer Learning to Decode Heard and Imagined Timbre from fMRI Data**, Sean Paulsen et.al., Paper: [http://arxiv.org/abs/2305.13226v1](http://arxiv.org/abs/2305.13226v1)
+- 2023-05-22, **Learning to detect an animal sound from five examples**, Inês Nolasco et.al., Paper: [http://arxiv.org/abs/2305.13210v1](http://arxiv.org/abs/2305.13210v1)
 - 2023-05-19, **North Sámi Dialect Identification with Self-supervised Speech Models**, Sofoklis Kakouros et.al., Paper: [http://arxiv.org/abs/2305.11864v1](http://arxiv.org/abs/2305.11864v1), Code: **[https://github.com/skakouros/sami_dialects](https://github.com/skakouros/sami_dialects)**
 - 2023-05-19, **Recommendations for Verifying HDR Subjective Testing Workflows**, Vibhoothi et.al., Paper: [http://arxiv.org/abs/2305.11858v1](http://arxiv.org/abs/2305.11858v1)
 - 2023-05-19, **Q-malizing flow and infinitesimal density ratio estimation**, Chen Xu et.al., Paper: [http://arxiv.org/abs/2305.11857v1](http://arxiv.org/abs/2305.11857v1)
@@ -2415,6 +2425,16 @@
 
 ## MultiModal
 
+- 2023-05-22, **NeRFuser: Large-Scale Scene Representation by NeRF Fusion**, Jiading Fang et.al., Paper: [http://arxiv.org/abs/2305.13307v1](http://arxiv.org/abs/2305.13307v1), Code: **[https://github.com/ripl/nerfuser](https://github.com/ripl/nerfuser)**
+- 2023-05-22, **Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues**, Stefanie Walz et.al., Paper: [http://arxiv.org/abs/2305.12955v1](http://arxiv.org/abs/2305.12955v1)
+- 2023-05-22, **Enhancing Next Active Object-based Egocentric Action Anticipation with Guided Attention**, Sanket Thakur et.al., Paper: [http://arxiv.org/abs/2305.12953v1](http://arxiv.org/abs/2305.12953v1)
+- 2023-05-22, **Non-factorizable virtual corrections to Higgs boson production in weak boson fusion beyond the eikonal approximation**, Ming-Ming Long et.al., Paper: [http://arxiv.org/abs/2305.12937v1](http://arxiv.org/abs/2305.12937v1)
+- 2023-05-22, **An Enhanced Res2Net with Local and Global Feature Fusion for Speaker Verification**, Yafeng Chen et.al., Paper: [http://arxiv.org/abs/2305.12838v1](http://arxiv.org/abs/2305.12838v1)
+- 2023-05-22, **EMEF: Ensemble Multi-Exposure Image Fusion**, Renshuai Liu et.al., Paper: [http://arxiv.org/abs/2305.12734v1](http://arxiv.org/abs/2305.12734v1), Code: **[https://github.com/medalwill/emef](https://github.com/medalwill/emef)**
+- 2023-05-22, **Rotation-Constrained Cross-View Feature Fusion for Multi-View Appearance-based Gaze Estimation**, Yoichiro Hisadome et.al., Paper: [http://arxiv.org/abs/2305.12704v1](http://arxiv.org/abs/2305.12704v1)
+- 2023-05-22, **A bioinspired three-stage model for camouflaged object detection**, Tianyou Chen et.al., Paper: [http://arxiv.org/abs/2305.12635v1](http://arxiv.org/abs/2305.12635v1)
+- 2023-05-21, **Hystoc: Obtaining word confidences for fusion of end-to-end ASR systems**, Karel Beneš et.al., Paper: [http://arxiv.org/abs/2305.12579v1](http://arxiv.org/abs/2305.12579v1)
+- 2023-05-21, **Modeling compartmentalization within intracellular signaling pathway**, Claire Alamichel et.al., Paper: [http://arxiv.org/abs/2305.12562v1](http://arxiv.org/abs/2305.12562v1)
 - 2023-05-19, **Higgs boson production at next-to-leading logarithmic accuracy**, Francesco Giovanni Celiberto et.al., Paper: [http://arxiv.org/abs/2305.11760v1](http://arxiv.org/abs/2305.11760v1)
 - 2023-05-19, **Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**, Long Bai et.al., Paper: [http://arxiv.org/abs/2305.11692v1](http://arxiv.org/abs/2305.11692v1), Code: **[https://github.com/longbai1006/surgical-vqla](https://github.com/longbai1006/surgical-vqla)**
 - 2023-05-19, **Learning Global-aware Kernel for Image Harmonization**, Xintian Shen et.al., Paper: [http://arxiv.org/abs/2305.11676v1](http://arxiv.org/abs/2305.11676v1)
