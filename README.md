@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Siamese Masked Autoencoders**|Agrim Gupta et.al.|[2305.14344v1](http://arxiv.org/abs/2305.14344v1)|null|
+|**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|null|
+|**2023-05-23**|**Effect of speed fluctuations on the collective dynamics of active disks**|R. Kailasham et.al.|[2305.14340v1](http://arxiv.org/abs/2305.14340v1)|null|
+|**2023-05-23**|**Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation**|Shuting He et.al.|[2305.14335v1](http://arxiv.org/abs/2305.14335v1)|**[link](https://github.com/heshuting555/pap-fzs3d)**|
+|**2023-05-23**|**Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation**|Susung Hong et.al.|[2305.14330v1](http://arxiv.org/abs/2305.14330v1)|**[link](https://github.com/ku-cvlab/direct2v)**|
+|**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321v1](http://arxiv.org/abs/2305.14321v1)|**[link](https://github.com/wwbrannon/congrat)**|
+|**2023-05-23**|**Navigating Prompt Complexity for Zero-Shot Classification: A Study of Large Language Models in Computational Social Science**|Yida Mu et.al.|[2305.14310v1](http://arxiv.org/abs/2305.14310v1)|null|
+|**2023-05-23**|**A Laplacian Pyramid Based Generative H&E Stain Augmentation Network**|Fangda Li et.al.|[2305.14301v1](http://arxiv.org/abs/2305.14301v1)|**[link](https://github.com/lifangda01/gsan-demo)**|
+|**2023-05-23**|**TaDSE: Template-aware Dialogue Sentence Embeddings**|Minsik Oh et.al.|[2305.14299v1](http://arxiv.org/abs/2305.14299v1)|null|
+|**2023-05-23**|**Active Learning Principles for In-Context Learning with Large Language Models**|Katerina Margatina et.al.|[2305.14264v1](http://arxiv.org/abs/2305.14264v1)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
 |**2023-05-23**|**VideoLLM: Modeling Video Sequence with Large Language Models**|Guo Chen et.al.|[2305.13292v2](http://arxiv.org/abs/2305.13292v2)|**[link](https://github.com/cg1177/videollm)**|
 |**2023-05-22**|**Materialistic: Selecting Similar Materials in Images**|Prafull Sharma et.al.|[2305.13291v1](http://arxiv.org/abs/2305.13291v1)|null|
@@ -2429,6 +2439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers**|Giulia Rizzoli et.al.|[2305.14269v1](http://arxiv.org/abs/2305.14269v1)|null|
+|**2023-05-23**|**Multi-BVOC Super-Resolution Exploiting Compounds Inter-Connection**|Antonio Giganti et.al.|[2305.14180v1](http://arxiv.org/abs/2305.14180v1)|null|
+|**2023-05-23**|**Toward accurate thermal modeling of phase change material based photonic devices**|Kiumars Aryana et.al.|[2305.14145v1](http://arxiv.org/abs/2305.14145v1)|null|
+|**2023-05-23**|**A multimodal method based on cross-attention and convolution for postoperative infection diagnosis**|Xianjie Liu et.al.|[2305.14142v1](http://arxiv.org/abs/2305.14142v1)|null|
+|**2023-05-23**|**Enriched string-net models and their excitations**|David Green et.al.|[2305.14068v1](http://arxiv.org/abs/2305.14068v1)|null|
+|**2023-05-23**|**Sparse4D v2: Recurrent Temporal Fusion with Sparse Model**|Xuewu Lin et.al.|[2305.14018v1](http://arxiv.org/abs/2305.14018v1)|**[link](https://github.com/linxuewu/sparse4d)**|
+|**2023-05-23**|**MIANet: Aggregating Unbiased Instance and General Information for Few-Shot Semantic Segmentation**|Yong Yang et.al.|[2305.13864v1](http://arxiv.org/abs/2305.13864v1)|**[link](https://github.com/aldrich2y/mianet)**|
+|**2023-05-23**|**Leveraging BEV Representation for 360-degree Visual Place Recognition**|Xuecheng Xu et.al.|[2305.13814v1](http://arxiv.org/abs/2305.13814v1)|**[link](https://github.com/maverickpeter/vdisco)**|
+|**2023-05-23**|**Counterspeeches up my sleeve! Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation**|Rishabh Gupta et.al.|[2305.13776v1](http://arxiv.org/abs/2305.13776v1)|**[link](https://github.com/lcs2-iiitd/quarc-counterspeech)**|
+|**2023-05-23**|**FlowChroma -- A Deep Recurrent Neural Network for Video Colorization**|Thejan Wijesinghe et.al.|[2305.13704v1](http://arxiv.org/abs/2305.13704v1)|null|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues**|Stefanie Walz et.al.|[2305.12955v1](http://arxiv.org/abs/2305.12955v1)|null|
 |**2023-05-22**|**Enhancing Next Active Object-based Egocentric Action Anticipation with Guided Attention**|Sanket Thakur et.al.|[2305.12953v1](http://arxiv.org/abs/2305.12953v1)|null|
