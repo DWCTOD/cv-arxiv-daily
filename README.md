@@ -1,11 +1,11 @@
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
-|**2023-05-22**|**VideoLLM: Modeling Video Sequence with Large Language Models**|Guo Chen et.al.|[2305.13292v1](http://arxiv.org/abs/2305.13292v1)|**[link](https://github.com/cg1177/videollm)**|
+|**2023-05-23**|**VideoLLM: Modeling Video Sequence with Large Language Models**|Guo Chen et.al.|[2305.13292v2](http://arxiv.org/abs/2305.13292v2)|**[link](https://github.com/cg1177/videollm)**|
 |**2023-05-22**|**Materialistic: Selecting Similar Materials in Images**|Prafull Sharma et.al.|[2305.13291v1](http://arxiv.org/abs/2305.13291v1)|null|
 |**2023-05-22**|**Morphological Sampling Theorem and its Extension to Grey-value Images**|Vivek Sridhar et.al.|[2305.13279v1](http://arxiv.org/abs/2305.13279v1)|null|
 |**2023-05-22**|**U-TILISE: A Sequence-to-sequence Model for Cloud Removal in Optical Satellite Time Series**|Corinne Stucker et.al.|[2305.13277v1](http://arxiv.org/abs/2305.13277v1)|null|
