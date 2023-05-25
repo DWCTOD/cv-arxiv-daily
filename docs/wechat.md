@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-05-24, **RoMa: Revisiting Robust Losses for Dense Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2305.15404v1](http://arxiv.org/abs/2305.15404v1)
+- 2023-05-24, **Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**, Avi Caciularu et.al., Paper: [http://arxiv.org/abs/2305.15387v1](http://arxiv.org/abs/2305.15387v1)
+- 2023-05-24, **What can generic neural networks learn from a child's visual experience?**, A. Emin Orhan et.al., Paper: [http://arxiv.org/abs/2305.15372v1](http://arxiv.org/abs/2305.15372v1)
+- 2023-05-24, **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**, Yiyang Ma et.al., Paper: [http://arxiv.org/abs/2305.15357v1](http://arxiv.org/abs/2305.15357v1)
+- 2023-05-24, **A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**, Junyi Zhang et.al., Paper: [http://arxiv.org/abs/2305.15347v1](http://arxiv.org/abs/2305.15347v1)
+- 2023-05-24, **Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness for Predictive Student Models**, Mélina Verger et.al., Paper: [http://arxiv.org/abs/2305.15342v1](http://arxiv.org/abs/2305.15342v1)
+- 2023-05-24, **Statistical post-processing of visibility ensemble forecasts**, Sándor Baran et.al., Paper: [http://arxiv.org/abs/2305.15325v1](http://arxiv.org/abs/2305.15325v1)
+- 2023-05-24, **Training on Thin Air: Improve Image Classification with Generated Data**, Yongchao Zhou et.al., Paper: [http://arxiv.org/abs/2305.15316v1](http://arxiv.org/abs/2305.15316v1)
+- 2023-05-24, **Personalized Dictionary Learning for Heterogeneous Datasets**, Geyu Liang et.al., Paper: [http://arxiv.org/abs/2305.15311v1](http://arxiv.org/abs/2305.15311v1)
+- 2023-05-24, **High Speed Human Action Recognition using a Photonic Reservoir Computer**, Enrico Picco et.al., Paper: [http://arxiv.org/abs/2305.15283v1](http://arxiv.org/abs/2305.15283v1)
 - 2023-05-23, **Siamese Masked Autoencoders**, Agrim Gupta et.al., Paper: [http://arxiv.org/abs/2305.14344v1](http://arxiv.org/abs/2305.14344v1)
 - 2023-05-23, **Video Prediction Models as Rewards for Reinforcement Learning**, Alejandro Escontrela et.al., Paper: [http://arxiv.org/abs/2305.14343v1](http://arxiv.org/abs/2305.14343v1)
 - 2023-05-23, **Effect of speed fluctuations on the collective dynamics of active disks**, R. Kailasham et.al., Paper: [http://arxiv.org/abs/2305.14340v1](http://arxiv.org/abs/2305.14340v1)
@@ -2435,6 +2445,16 @@
 
 ## MultiModal
 
+- 2023-05-24, **A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**, Junyi Zhang et.al., Paper: [http://arxiv.org/abs/2305.15347v1](http://arxiv.org/abs/2305.15347v1)
+- 2023-05-24, **MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**, Marco Bellagente et.al., Paper: [http://arxiv.org/abs/2305.15296v1](http://arxiv.org/abs/2305.15296v1)
+- 2023-05-24, **DynStatF: An Efficient Feature Fusion Strategy for LiDAR 3D Object Detection**, Yao Rong et.al., Paper: [http://arxiv.org/abs/2305.15219v1](http://arxiv.org/abs/2305.15219v1)
+- 2023-05-24, **Cooperative Control of Multi-Channel Linear Systems with Self-Organizing Private Agents**, Peihu Duan et.al., Paper: [http://arxiv.org/abs/2305.15195v1](http://arxiv.org/abs/2305.15195v1)
+- 2023-05-24, **SciReviewGen: A Large-scale Dataset for Automatic Literature Review Generation**, Tetsu Kasanishi et.al., Paper: [http://arxiv.org/abs/2305.15186v1](http://arxiv.org/abs/2305.15186v1)
+- 2023-05-24, **Mixture of Experts with Uncertainty Voting for Imbalanced Deep Regression Problems**, Yuchang Jiang et.al., Paper: [http://arxiv.org/abs/2305.15178v1](http://arxiv.org/abs/2305.15178v1)
+- 2023-05-24, **Distributed outer approximation of the intersection of ellipsoids**, Rodrigo Aldana-Lopez et.al., Paper: [http://arxiv.org/abs/2305.15172v1](http://arxiv.org/abs/2305.15172v1)
+- 2023-05-24, **MMNet: Multi-Mask Network for Referring Image Segmentation**, Yichen Yan et.al., Paper: [http://arxiv.org/abs/2305.14969v1](http://arxiv.org/abs/2305.14969v1)
+- 2023-05-24, **Dual-Side Feature Fusion 3D Pose Transfer**, Jue Liu et.al., Paper: [http://arxiv.org/abs/2305.14951v1](http://arxiv.org/abs/2305.14951v1), Code: **[https://github.com/yikidragon/ff-ptnet](https://github.com/yikidragon/ff-ptnet)**
+- 2023-05-24, **Cross-lingual Data Augmentation for Document-grounded Dialog Systems in Low Resource Languages**, Qi Gou et.al., Paper: [http://arxiv.org/abs/2305.14949v1](http://arxiv.org/abs/2305.14949v1)
 - 2023-05-23, **Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers**, Giulia Rizzoli et.al., Paper: [http://arxiv.org/abs/2305.14269v1](http://arxiv.org/abs/2305.14269v1)
 - 2023-05-23, **Multi-BVOC Super-Resolution Exploiting Compounds Inter-Connection**, Antonio Giganti et.al., Paper: [http://arxiv.org/abs/2305.14180v1](http://arxiv.org/abs/2305.14180v1)
 - 2023-05-23, **Toward accurate thermal modeling of phase change material based photonic devices**, Kiumars Aryana et.al., Paper: [http://arxiv.org/abs/2305.14145v1](http://arxiv.org/abs/2305.14145v1)
