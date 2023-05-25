@@ -1,4 +1,4 @@
-> Updated on 2023.05.24
+> Updated on 2023.05.25
 
 ## Video_Classification
 
@@ -2440,7 +2440,7 @@
 - 2023-05-23, **Toward accurate thermal modeling of phase change material based photonic devices**, Kiumars Aryana et.al., Paper: [http://arxiv.org/abs/2305.14145v1](http://arxiv.org/abs/2305.14145v1)
 - 2023-05-23, **A multimodal method based on cross-attention and convolution for postoperative infection diagnosis**, Xianjie Liu et.al., Paper: [http://arxiv.org/abs/2305.14142v1](http://arxiv.org/abs/2305.14142v1)
 - 2023-05-23, **Enriched string-net models and their excitations**, David Green et.al., Paper: [http://arxiv.org/abs/2305.14068v1](http://arxiv.org/abs/2305.14068v1)
-- 2023-05-23, **Sparse4D v2: Recurrent Temporal Fusion with Sparse Model**, Xuewu Lin et.al., Paper: [http://arxiv.org/abs/2305.14018v1](http://arxiv.org/abs/2305.14018v1), Code: **[https://github.com/linxuewu/sparse4d](https://github.com/linxuewu/sparse4d)**
+- 2023-05-24, **Sparse4D v2: Recurrent Temporal Fusion with Sparse Model**, Xuewu Lin et.al., Paper: [http://arxiv.org/abs/2305.14018v2](http://arxiv.org/abs/2305.14018v2), Code: **[https://github.com/linxuewu/sparse4d](https://github.com/linxuewu/sparse4d)**
 - 2023-05-23, **MIANet: Aggregating Unbiased Instance and General Information for Few-Shot Semantic Segmentation**, Yong Yang et.al., Paper: [http://arxiv.org/abs/2305.13864v1](http://arxiv.org/abs/2305.13864v1), Code: **[https://github.com/aldrich2y/mianet](https://github.com/aldrich2y/mianet)**
 - 2023-05-23, **Leveraging BEV Representation for 360-degree Visual Place Recognition**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2305.13814v1](http://arxiv.org/abs/2305.13814v1), Code: **[https://github.com/maverickpeter/vdisco](https://github.com/maverickpeter/vdisco)**
 - 2023-05-23, **Counterspeeches up my sleeve! Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation**, Rishabh Gupta et.al., Paper: [http://arxiv.org/abs/2305.13776v1](http://arxiv.org/abs/2305.13776v1), Code: **[https://github.com/lcs2-iiitd/quarc-counterspeech](https://github.com/lcs2-iiitd/quarc-counterspeech)**
