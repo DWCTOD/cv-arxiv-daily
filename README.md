@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319v1](http://arxiv.org/abs/2305.16319v1)|null|
+|**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|**[link](https://github.com/opengvlab/mutr)**|
+|**2023-05-25**|**Making Vision Transformers Truly Shift-Equivariant**|Renan A. Rojas-Gomez et.al.|[2305.16316v1](http://arxiv.org/abs/2305.16316v1)|null|
+|**2023-05-25**|**Break-A-Scene: Extracting Multiple Concepts from a Single Image**|Omri Avrahami et.al.|[2305.16311v1](http://arxiv.org/abs/2305.16311v1)|null|
+|**2023-05-25**|**Imitating Task and Motion Planning with Visuomotor Transformers**|Murtaza Dalal et.al.|[2305.16309v1](http://arxiv.org/abs/2305.16309v1)|null|
+|**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
+|**2023-05-25**|**Sharpness-Aware Minimization Leads to Low-Rank Features**|Maksym Andriushchenko et.al.|[2305.16292v1](http://arxiv.org/abs/2305.16292v1)|**[link](https://github.com/tml-epfl/sam-low-rank-features)**|
+|**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289v1](http://arxiv.org/abs/2305.16289v1)|**[link](https://github.com/lisadunlap/alia)**|
+|**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269v1](http://arxiv.org/abs/2305.16269v1)|null|
+|**2023-05-25**|**Trans-Dimensional Generative Modeling via Jump Diffusion Models**|Andrew Campbell et.al.|[2305.16261v1](http://arxiv.org/abs/2305.16261v1)|**[link](https://github.com/andrew-cr/jump-diffusion)**|
 |**2023-05-24**|**RoMa: Revisiting Robust Losses for Dense Feature Matching**|Johan Edstedt et.al.|[2305.15404v1](http://arxiv.org/abs/2305.15404v1)|null|
 |**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
 |**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372v1](http://arxiv.org/abs/2305.15372v1)|null|
@@ -2449,6 +2459,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Hybrid symmetry class topological insulators**|Sanjib Kumar Das et.al.|[2305.16313v1](http://arxiv.org/abs/2305.16313v1)|null|
+|**2023-05-25**|**Applications of Intelligent Systems in Green Technology**|Sahil Mishra et.al.|[2305.15884v1](http://arxiv.org/abs/2305.15884v1)|null|
+|**2023-05-25**|**RC-BEVFusion: A Plug-In Module for Radar-Camera Bird's Eye View Feature Fusion**|Lukas Stäcker et.al.|[2305.15883v1](http://arxiv.org/abs/2305.15883v1)|null|
+|**2023-05-25**|**A Task-guided, Implicitly-searched and Meta-initialized Deep Model for Image Fusion**|Risheng Liu et.al.|[2305.15862v1](http://arxiv.org/abs/2305.15862v1)|null|
+|**2023-05-25**|**Improved Multi-Scale Grid Rendering of Point Clouds for Radar Object Detection Networks**|Daniel Köhler et.al.|[2305.15836v1](http://arxiv.org/abs/2305.15836v1)|null|
+|**2023-05-25**|**Multi-scale Efficient Graph-Transformer for Whole Slide Image Classification**|Saisai Ding et.al.|[2305.15773v1](http://arxiv.org/abs/2305.15773v1)|null|
+|**2023-05-25**|**Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving**|Wenhao Cheng et.al.|[2305.15765v1](http://arxiv.org/abs/2305.15765v1)|null|
+|**2023-05-25**|**Frame-Event Alignment and Fusion Network for High Frame Rate Tracking**|Jiqing Zhang et.al.|[2305.15688v1](http://arxiv.org/abs/2305.15688v1)|null|
+|**2023-05-25**|**Mixture-of-Expert Conformer for Streaming Multilingual ASR**|Ke Hu et.al.|[2305.15663v1](http://arxiv.org/abs/2305.15663v1)|null|
 |**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347v1](http://arxiv.org/abs/2305.15347v1)|null|
 |**2023-05-24**|**MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**|Marco Bellagente et.al.|[2305.15296v1](http://arxiv.org/abs/2305.15296v1)|null|
 |**2023-05-24**|**DynStatF: An Efficient Feature Fusion Strategy for LiDAR 3D Object Detection**|Yao Rong et.al.|[2305.15219v1](http://arxiv.org/abs/2305.15219v1)|null|
