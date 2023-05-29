@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**Characterizing and Measuring Linguistic Dataset Drift**|Tyler A. Chang et.al.|[2305.17127v1](http://arxiv.org/abs/2305.17127v1)|null|
+|**2023-05-26**|**IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality**|Bingjie Tang et.al.|[2305.17110v1](http://arxiv.org/abs/2305.17110v1)|null|
+|**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|null|
+|**2023-05-26**|**GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation**|Tanveer Hannan et.al.|[2305.17096v1](http://arxiv.org/abs/2305.17096v1)|null|
+|**2023-05-26**|**Benchmarking state-of-the-art gradient boosting algorithms for classification**|Piotr Florek et.al.|[2305.17094v1](http://arxiv.org/abs/2305.17094v1)|null|
+|**2023-05-26**|**NeuroX Library for Neuron Analysis of Deep NLP Models**|Fahim Dalvi et.al.|[2305.17073v1](http://arxiv.org/abs/2305.17073v1)|**[link](https://github.com/fdalvi/NeuroX)**|
+|**2023-05-26**|**Extremely weakly-supervised blood vessel segmentation with physiologically based synthesis and domain adaptation**|Peidi Xu et.al.|[2305.17054v1](http://arxiv.org/abs/2305.17054v1)|**[link](https://github.com/miccai2023anony/renalvesselseg)**|
+|**2023-05-26**|**The Brain Tumor Segmentation (BraTS) Challenge 2023: Focus on Pediatrics (CBTN-CONNECT-DIPGR-ASNR-MICCAI BraTS-PEDs)**|Anahita Fathi Kazerooni et.al.|[2305.17033v1](http://arxiv.org/abs/2305.17033v1)|null|
+|**2023-05-26**|**Are Deep Neural Networks Adequate Behavioural Models of Human Visual Perception?**|Felix A. Wichmann et.al.|[2305.17023v1](http://arxiv.org/abs/2305.17023v1)|null|
+|**2023-05-26**|**D-CALM: A Dynamic Clustering-based Active Learning Approach for Mitigating Bias**|Sabit Hassan et.al.|[2305.17013v1](http://arxiv.org/abs/2305.17013v1)|null|
 |**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319v1](http://arxiv.org/abs/2305.16319v1)|null|
 |**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|**[link](https://github.com/opengvlab/mutr)**|
 |**2023-05-25**|**Making Vision Transformers Truly Shift-Equivariant**|Renan A. Rojas-Gomez et.al.|[2305.16316v1](http://arxiv.org/abs/2305.16316v1)|null|
@@ -2459,6 +2469,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**RFiD: Towards Rational Fusion-in-Decoder for Open-Domain Question Answering**|Cunxiang Wang et.al.|[2305.17041v1](http://arxiv.org/abs/2305.17041v1)|null|
+|**2023-05-26**|**Experimental Study of the $^{\textbf{38}}$S Excited Level Scheme**|C. R. Hoffman et.al.|[2305.16969v1](http://arxiv.org/abs/2305.16969v1)|null|
+|**2023-05-26**|**Learning to Imagine: Visually-Augmented Natural Language Generation**|Tianyi Tang et.al.|[2305.16944v1](http://arxiv.org/abs/2305.16944v1)|**[link](https://github.com/rucaibox/live)**|
+|**2023-05-26**|**Automatic Surround Camera Calibration Method in Road Scene for Self-driving Car**|Jixiang Li et.al.|[2305.16840v1](http://arxiv.org/abs/2305.16840v1)|null|
+|**2023-05-26**|**Hopf Monads on Biproducts**|Masahito Hasegawa et.al.|[2305.16667v1](http://arxiv.org/abs/2305.16667v1)|null|
+|**2023-05-26**|**Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**|Yao Yao et.al.|[2305.16582v1](http://arxiv.org/abs/2305.16582v1)|null|
+|**2023-05-26**|**TFDet: Target-aware Fusion for RGB-T Pedestrian Detection**|Xue Zhang et.al.|[2305.16580v1](http://arxiv.org/abs/2305.16580v1)|null|
+|**2023-05-26**|**Tree-Based Diffusion Schrödinger Bridge with Applications to Wasserstein Barycenters**|Maxence Noble et.al.|[2305.16557v1](http://arxiv.org/abs/2305.16557v1)|**[link](https://github.com/maxencenoble/tree-diffusion-schrodinger-bridge)**|
+|**2023-05-26**|**LANISTR: Multimodal Learning from Structured and Unstructured Data**|Sayna Ebrahimi et.al.|[2305.16556v1](http://arxiv.org/abs/2305.16556v1)|null|
+|**2023-05-26**|**Study of Kinematics of the Jets in VBS Process at the Large Hadron Collider**|Kadri Ozdemir et.al.|[2305.16552v1](http://arxiv.org/abs/2305.16552v1)|null|
 |**2023-05-25**|**Hybrid symmetry class topological insulators**|Sanjib Kumar Das et.al.|[2305.16313v1](http://arxiv.org/abs/2305.16313v1)|null|
 |**2023-05-25**|**Applications of Intelligent Systems in Green Technology**|Sahil Mishra et.al.|[2305.15884v1](http://arxiv.org/abs/2305.15884v1)|null|
 |**2023-05-25**|**RC-BEVFusion: A Plug-In Module for Radar-Camera Bird's Eye View Feature Fusion**|Lukas Stäcker et.al.|[2305.15883v1](http://arxiv.org/abs/2305.15883v1)|null|
