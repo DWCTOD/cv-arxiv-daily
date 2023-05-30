@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290v1](http://arxiv.org/abs/2305.18290v1)|null|
+|**2023-05-29**|**LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections**|M. Jehanzeb Mirza et.al.|[2305.18287v1](http://arxiv.org/abs/2305.18287v1)|null|
+|**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283v1](http://arxiv.org/abs/2305.18283v1)|**[link](https://github.com/speechbrain/speechbrain)**|
+|**2023-05-29**|**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising**|Fu-Yun Wang et.al.|[2305.18264v1](http://arxiv.org/abs/2305.18264v1)|**[link](https://github.com/g-u-n/gen-l-video)**|
+|**2023-05-29**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247v1](http://arxiv.org/abs/2305.18247v1)|**[link](https://github.com/videocrafter/talecrafter)**|
+|**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Disease Classification**|Bin Wang et.al.|[2305.18221v1](http://arxiv.org/abs/2305.18221v1)|null|
+|**2023-05-29**|**Improved Probabilistic Image-Text Representations**|Sanghyuk Chun et.al.|[2305.18171v1](http://arxiv.org/abs/2305.18171v1)|**[link](https://github.com/naver-ai/pcmepp)**|
+|**2023-05-29**|**LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning**|Amirhossein Abaskohi et.al.|[2305.18169v1](http://arxiv.org/abs/2305.18169v1)|null|
+|**2023-05-29**|**Generative Adversarial Networks based Skin Lesion Segmentation**|Shubham Innani et.al.|[2305.18164v1](http://arxiv.org/abs/2305.18164v1)|null|
+|**2023-05-29**|**Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning**|Yu Wang et.al.|[2305.18158v1](http://arxiv.org/abs/2305.18158v1)|**[link](https://github.com/rain305f/osp)**|
 |**2023-05-26**|**Characterizing and Measuring Linguistic Dataset Drift**|Tyler A. Chang et.al.|[2305.17127v1](http://arxiv.org/abs/2305.17127v1)|null|
 |**2023-05-26**|**IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality**|Bingjie Tang et.al.|[2305.17110v1](http://arxiv.org/abs/2305.17110v1)|null|
 |**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|null|
@@ -2473,6 +2483,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**|Yuchao Gu et.al.|[2305.18292v1](http://arxiv.org/abs/2305.18292v1)|null|
+|**2023-05-29**|**Higher Structure of Chiral Symmetry**|Christian Copetti et.al.|[2305.18282v1](http://arxiv.org/abs/2305.18282v1)|null|
+|**2023-05-29**|**Derivation of all structure constants for boundary Liouville CFT**|Morris Ang et.al.|[2305.18266v1](http://arxiv.org/abs/2305.18266v1)|null|
+|**2023-05-29**|**Tannaka-Krein duality for finite 2-groups**|Mo Huang et.al.|[2305.18151v1](http://arxiv.org/abs/2305.18151v1)|null|
+|**2023-05-29**|**Energy loss enhancement of very intense proton beams in dense matter due to the beam-density effect**|Benzheng Chen et.al.|[2305.18067v1](http://arxiv.org/abs/2305.18067v1)|null|
+|**2023-05-29**|**HGT: A Hierarchical GCN-Based Transformer for Multimodal Periprosthetic Joint Infection Diagnosis Using CT Images and Text**|Ruiyang Li et.al.|[2305.18022v1](http://arxiv.org/abs/2305.18022v1)|null|
+|**2023-05-29**|**Conditional Score Guidance for Text-Driven Image-to-Image Translation**|Hyunsoo Lee et.al.|[2305.18007v1](http://arxiv.org/abs/2305.18007v1)|null|
+|**2023-05-29**|**Suppressing Instability in a Vlasov-Poisson System by an External Electric Field Through Constrained Optimization**|Lukas Einkemmer et.al.|[2305.17994v1](http://arxiv.org/abs/2305.17994v1)|null|
+|**2023-05-29**|**Multi-Scale Attention for Audio Question Answering**|Guangyao Li et.al.|[2305.17993v1](http://arxiv.org/abs/2305.17993v1)|**[link](https://github.com/gewu-lab/mwafm)**|
+|**2023-05-29**|**Hierarchical Neural Memory Network for Low Latency Event Processing**|Ryuhei Hamaguchi et.al.|[2305.17852v1](http://arxiv.org/abs/2305.17852v1)|null|
 |**2023-05-26**|**RFiD: Towards Rational Fusion-in-Decoder for Open-Domain Question Answering**|Cunxiang Wang et.al.|[2305.17041v1](http://arxiv.org/abs/2305.17041v1)|null|
 |**2023-05-26**|**Experimental Study of the $^{\textbf{38}}$S Excited Level Scheme**|C. R. Hoffman et.al.|[2305.16969v1](http://arxiv.org/abs/2305.16969v1)|null|
 |**2023-05-26**|**Learning to Imagine: Visually-Augmented Natural Language Generation**|Tianyi Tang et.al.|[2305.16944v1](http://arxiv.org/abs/2305.16944v1)|**[link](https://github.com/rucaibox/live)**|
