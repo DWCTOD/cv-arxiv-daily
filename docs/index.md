@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Imaginary quadratic fields with $\ell$-torsion-free class groups and specified split primes**|Olivia Beckwith et.al.|[2305.19272v1](http://arxiv.org/abs/2305.19272v1)|null|
+|**2023-05-30**|**A Stutter Seldom Comes Alone -- Cross-Corpus Stuttering Detection as a Multi-label Problem**|Sebastian P. Bayerl et.al.|[2305.19255v1](http://arxiv.org/abs/2305.19255v1)|null|
+|**2023-05-30**|**Preserving Pre-trained Features Helps Calibrate Fine-tuned Language Models**|Guande He et.al.|[2305.19249v1](http://arxiv.org/abs/2305.19249v1)|**[link](https://github.com/thu-ml/lm-calibration)**|
+|**2023-05-30**|**Optimal bounds on surfaces**|Jihao Liu et.al.|[2305.19248v1](http://arxiv.org/abs/2305.19248v1)|null|
+|**2023-05-30**|**COVID-19 Detection from Mass Spectra of Exhaled Breath**|Nicolò Bellarmino et.al.|[2305.19211v1](http://arxiv.org/abs/2305.19211v1)|null|
+|**2023-05-30**|**Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models**|Ernie Chu et.al.|[2305.19193v1](http://arxiv.org/abs/2305.19193v1)|null|
+|**2023-05-30**|**GMCs and their Type classification in M74: Toward understanding star formation and cloud evolution**|F. Demachi et.al.|[2305.19192v1](http://arxiv.org/abs/2305.19192v1)|null|
+|**2023-05-30**|**Classification of Classical Spin Liquids: Detailed Formalism and Suite of Examples**|Han Yan et.al.|[2305.19189v1](http://arxiv.org/abs/2305.19189v1)|null|
+|**2023-05-30**|**Reduced Precision Floating-Point Optimization for Deep Neural Network On-Device Learning on MicroControllers**|Davide Nadalini et.al.|[2305.19167v1](http://arxiv.org/abs/2305.19167v1)|**[link](https://github.com/pulp-platform/pulp-trainlib)**|
+|**2023-05-30**|**Recognizing People by Body Shape Using Deep Networks of Images and Words**|Blake A. Myers et.al.|[2305.19160v1](http://arxiv.org/abs/2305.19160v1)|null|
 |**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290v1](http://arxiv.org/abs/2305.18290v1)|null|
 |**2023-05-29**|**LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections**|M. Jehanzeb Mirza et.al.|[2305.18287v1](http://arxiv.org/abs/2305.18287v1)|null|
 |**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283v1](http://arxiv.org/abs/2305.18283v1)|**[link](https://github.com/speechbrain/speechbrain)**|
@@ -2483,6 +2493,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Learning without Forgetting for Vision-Language Models**|Da-Wei Zhou et.al.|[2305.19270v1](http://arxiv.org/abs/2305.19270v1)|null|
+|**2023-05-30**|**Recognizing People by Body Shape Using Deep Networks of Images and Words**|Blake A. Myers et.al.|[2305.19160v1](http://arxiv.org/abs/2305.19160v1)|null|
+|**2023-05-30**|**Multi-source adversarial transfer learning for ultrasound image segmentation with limited similarity**|Yifu Zhang et.al.|[2305.19069v1](http://arxiv.org/abs/2305.19069v1)|null|
+|**2023-05-30**|**Multi-source adversarial transfer learning based on similar source domains with local features**|Yifu Zhang et.al.|[2305.19067v1](http://arxiv.org/abs/2305.19067v1)|null|
+|**2023-05-30**|**Towards single integrated spoofing-aware speaker verification embeddings**|Sung Hwan Mun et.al.|[2305.19051v1](http://arxiv.org/abs/2305.19051v1)|**[link](https://github.com/sasv-challenge/asvspoof5-sasvbaseline)**|
+|**2023-05-30**|**Multitask learning for recognizing stress and depression in social media**|Loukas Ilias et.al.|[2305.18907v1](http://arxiv.org/abs/2305.18907v1)|null|
+|**2023-05-30**|**Elongated Physiological Structure Segmentation via Spatial and Scale Uncertainty-aware Network**|Yinglin Zhang et.al.|[2305.18865v1](http://arxiv.org/abs/2305.18865v1)|null|
+|**2023-05-30**|**Learning Weakly Supervised Audio-Visual Violence Detection in Hyperbolic Space**|Xiaogang Peng et.al.|[2305.18797v1](http://arxiv.org/abs/2305.18797v1)|**[link](https://github.com/xiaogangpeng/hypervd)**|
+|**2023-05-30**|**Dual Transformer Decoder based Features Fusion Network for Automated Audio Captioning**|Jianyuan Sun et.al.|[2305.18753v1](http://arxiv.org/abs/2305.18753v1)|null|
+|**2023-05-30**|**IcSDE+ -- An Indicator for Constrained Multi-Objective Optimization**|Oladayo S. Ajani et.al.|[2305.18734v1](http://arxiv.org/abs/2305.18734v1)|null|
 |**2023-05-29**|**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**|Yuchao Gu et.al.|[2305.18292v1](http://arxiv.org/abs/2305.18292v1)|null|
 |**2023-05-29**|**Higher Structure of Chiral Symmetry**|Christian Copetti et.al.|[2305.18282v1](http://arxiv.org/abs/2305.18282v1)|null|
 |**2023-05-29**|**Derivation of all structure constants for boundary Liouville CFT**|Morris Ang et.al.|[2305.18266v1](http://arxiv.org/abs/2305.18266v1)|null|
