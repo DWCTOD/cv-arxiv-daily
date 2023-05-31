@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 
 ## Video_Classification
 
@@ -12,12 +12,12 @@ layout: default
 |**2023-05-29**|**LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections**|M. Jehanzeb Mirza et.al.|[2305.18287v1](http://arxiv.org/abs/2305.18287v1)|null|
 |**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283v1](http://arxiv.org/abs/2305.18283v1)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2023-05-29**|**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising**|Fu-Yun Wang et.al.|[2305.18264v1](http://arxiv.org/abs/2305.18264v1)|**[link](https://github.com/g-u-n/gen-l-video)**|
-|**2023-05-29**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247v1](http://arxiv.org/abs/2305.18247v1)|**[link](https://github.com/videocrafter/talecrafter)**|
+|**2023-05-30**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247v2](http://arxiv.org/abs/2305.18247v2)|**[link](https://github.com/videocrafter/talecrafter)**|
 |**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Disease Classification**|Bin Wang et.al.|[2305.18221v1](http://arxiv.org/abs/2305.18221v1)|null|
 |**2023-05-29**|**Improved Probabilistic Image-Text Representations**|Sanghyuk Chun et.al.|[2305.18171v1](http://arxiv.org/abs/2305.18171v1)|**[link](https://github.com/naver-ai/pcmepp)**|
-|**2023-05-29**|**LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning**|Amirhossein Abaskohi et.al.|[2305.18169v1](http://arxiv.org/abs/2305.18169v1)|null|
-|**2023-05-29**|**Generative Adversarial Networks based Skin Lesion Segmentation**|Shubham Innani et.al.|[2305.18164v1](http://arxiv.org/abs/2305.18164v1)|null|
-|**2023-05-29**|**Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning**|Yu Wang et.al.|[2305.18158v1](http://arxiv.org/abs/2305.18158v1)|**[link](https://github.com/rain305f/osp)**|
+|**2023-05-29**|**LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning**|Amirhossein Abaskohi et.al.|[2305.18169v1](http://arxiv.org/abs/2305.18169v1)|**[link](https://github.com/amirabaskohi/lm-cppf)**|
+|**2023-05-29**|**Generative Adversarial Networks based Skin Lesion Segmentation**|Shubham Innani et.al.|[2305.18164v1](http://arxiv.org/abs/2305.18164v1)|**[link](https://github.com/shubhaminnani/egan)**|
+|**2023-05-30**|**Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning**|Yu Wang et.al.|[2305.18158v2](http://arxiv.org/abs/2305.18158v2)|**[link](https://github.com/rain305f/osp)**|
 |**2023-05-26**|**Characterizing and Measuring Linguistic Dataset Drift**|Tyler A. Chang et.al.|[2305.17127v1](http://arxiv.org/abs/2305.17127v1)|null|
 |**2023-05-26**|**IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality**|Bingjie Tang et.al.|[2305.17110v1](http://arxiv.org/abs/2305.17110v1)|null|
 |**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|null|
