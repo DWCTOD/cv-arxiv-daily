@@ -1,4 +1,4 @@
-> Updated on 2023.06.01
+> Updated on 2023.06.02
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 - 2023-05-31, **Exploiting Mechanics-Based Priors for Lateral Displacement Estimation in Ultrasound Elastography**, Md Ashikuzzaman et.al., Paper: [http://arxiv.org/abs/2305.20059v1](http://arxiv.org/abs/2305.20059v1)
 - 2023-05-31, **Exploring Regions of Interest: Visualizing Histological Image Classification for Breast Cancer using Deep Learning**, Imane Nedjar et.al., Paper: [http://arxiv.org/abs/2305.20058v1](http://arxiv.org/abs/2305.20058v1)
 - 2023-05-31, **LOWA: Localize Objects in the Wild with Attributes**, Xiaoyuan Guo et.al., Paper: [http://arxiv.org/abs/2305.20047v1](http://arxiv.org/abs/2305.20047v1)
-- 2023-05-31, **Crowdsourcing subjective annotations using pairwise comparisons reduces bias and error compared to the majority-vote method**, Hasti Narimanzadeh et.al., Paper: [http://arxiv.org/abs/2305.20042v1](http://arxiv.org/abs/2305.20042v1)
+- 2023-06-01, **Crowdsourcing subjective annotations using pairwise comparisons reduces bias and error compared to the majority-vote method**, Hasti Narimanzadeh et.al., Paper: [http://arxiv.org/abs/2305.20042v2](http://arxiv.org/abs/2305.20042v2)
 - 2023-05-31, **Bias Mitigation Methods for Binary Classification Decision-Making Systems: Survey and Recommendations**, Madeleine Waller et.al., Paper: [http://arxiv.org/abs/2305.20020v1](http://arxiv.org/abs/2305.20020v1)
 - 2023-05-31, **On the faces of unigraphic $3$-polytopes**, Riccardo W. Maffucci et.al., Paper: [http://arxiv.org/abs/2305.20012v1](http://arxiv.org/abs/2305.20012v1)
 - 2023-05-31, **Number of Equivalence Classes of Rational Functions over Finite Fields**, Xiang-dong Hou et.al., Paper: [http://arxiv.org/abs/2305.20008v1](http://arxiv.org/abs/2305.20008v1)
@@ -2498,7 +2498,7 @@
 - 2023-05-31, **ViLaS: Integrating Vision and Language into Automatic Speech Recognition**, Minglun Han et.al., Paper: [http://arxiv.org/abs/2305.19972v1](http://arxiv.org/abs/2305.19972v1)
 - 2023-05-31, **A Survey of Potential MPI Complex Collectives: Large-Scale Mining and Analysis of HPC Applications**, Pouya Haghi et.al., Paper: [http://arxiv.org/abs/2305.19946v1](http://arxiv.org/abs/2305.19946v1)
 - 2023-05-31, **Image Registration of In Vivo Micro-Ultrasound and Ex Vivo Pseudo-Whole Mount Histopathology Images of the Prostate: A Proof-of-Concept Study**, Muhammad Imran et.al., Paper: [http://arxiv.org/abs/2305.19939v1](http://arxiv.org/abs/2305.19939v1)
-- 2023-05-31, **Joint Adaptive Representations for Image-Language Learning**, AJ Piergiovanni et.al., Paper: [http://arxiv.org/abs/2305.19924v1](http://arxiv.org/abs/2305.19924v1)
+- 2023-06-01, **Joint Adaptive Representations for Image-Language Learning**, AJ Piergiovanni et.al., Paper: [http://arxiv.org/abs/2305.19924v2](http://arxiv.org/abs/2305.19924v2)
 - 2023-05-31, **Learning Task-preferred Inference Routes for Gradient De-conflict in Multi-output DNNs**, Yi Sun et.al., Paper: [http://arxiv.org/abs/2305.19844v1](http://arxiv.org/abs/2305.19844v1)
 - 2023-05-31, **FN-SSL: Full-Band and Narrow-Band Fusion for Sound Source Localization**, Yabo Wang et.al., Paper: [http://arxiv.org/abs/2305.19610v1](http://arxiv.org/abs/2305.19610v1)
 - 2023-05-31, **Sensitivity of the future $\boldsymbol{e^{-}p}$ collider to the coupling of axion-like particles with vector bosons**, Chong-Xing Yue et.al., Paper: [http://arxiv.org/abs/2305.19561v1](http://arxiv.org/abs/2305.19561v1)

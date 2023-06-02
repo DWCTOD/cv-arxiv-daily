@@ -1,4 +1,4 @@
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 |**2023-05-31**|**Exploiting Mechanics-Based Priors for Lateral Displacement Estimation in Ultrasound Elastography**|Md Ashikuzzaman et.al.|[2305.20059v1](http://arxiv.org/abs/2305.20059v1)|null|
 |**2023-05-31**|**Exploring Regions of Interest: Visualizing Histological Image Classification for Breast Cancer using Deep Learning**|Imane Nedjar et.al.|[2305.20058v1](http://arxiv.org/abs/2305.20058v1)|null|
 |**2023-05-31**|**LOWA: Localize Objects in the Wild with Attributes**|Xiaoyuan Guo et.al.|[2305.20047v1](http://arxiv.org/abs/2305.20047v1)|null|
-|**2023-05-31**|**Crowdsourcing subjective annotations using pairwise comparisons reduces bias and error compared to the majority-vote method**|Hasti Narimanzadeh et.al.|[2305.20042v1](http://arxiv.org/abs/2305.20042v1)|null|
+|**2023-06-01**|**Crowdsourcing subjective annotations using pairwise comparisons reduces bias and error compared to the majority-vote method**|Hasti Narimanzadeh et.al.|[2305.20042v2](http://arxiv.org/abs/2305.20042v2)|null|
 |**2023-05-31**|**Bias Mitigation Methods for Binary Classification Decision-Making Systems: Survey and Recommendations**|Madeleine Waller et.al.|[2305.20020v1](http://arxiv.org/abs/2305.20020v1)|null|
 |**2023-05-31**|**On the faces of unigraphic $3$-polytopes**|Riccardo W. Maffucci et.al.|[2305.20012v1](http://arxiv.org/abs/2305.20012v1)|null|
 |**2023-05-31**|**Number of Equivalence Classes of Rational Functions over Finite Fields**|Xiang-dong Hou et.al.|[2305.20008v1](http://arxiv.org/abs/2305.20008v1)|null|
@@ -2502,7 +2502,7 @@
 |**2023-05-31**|**ViLaS: Integrating Vision and Language into Automatic Speech Recognition**|Minglun Han et.al.|[2305.19972v1](http://arxiv.org/abs/2305.19972v1)|null|
 |**2023-05-31**|**A Survey of Potential MPI Complex Collectives: Large-Scale Mining and Analysis of HPC Applications**|Pouya Haghi et.al.|[2305.19946v1](http://arxiv.org/abs/2305.19946v1)|null|
 |**2023-05-31**|**Image Registration of In Vivo Micro-Ultrasound and Ex Vivo Pseudo-Whole Mount Histopathology Images of the Prostate: A Proof-of-Concept Study**|Muhammad Imran et.al.|[2305.19939v1](http://arxiv.org/abs/2305.19939v1)|null|
-|**2023-05-31**|**Joint Adaptive Representations for Image-Language Learning**|AJ Piergiovanni et.al.|[2305.19924v1](http://arxiv.org/abs/2305.19924v1)|null|
+|**2023-06-01**|**Joint Adaptive Representations for Image-Language Learning**|AJ Piergiovanni et.al.|[2305.19924v2](http://arxiv.org/abs/2305.19924v2)|null|
 |**2023-05-31**|**Learning Task-preferred Inference Routes for Gradient De-conflict in Multi-output DNNs**|Yi Sun et.al.|[2305.19844v1](http://arxiv.org/abs/2305.19844v1)|null|
 |**2023-05-31**|**FN-SSL: Full-Band and Narrow-Band Fusion for Sound Source Localization**|Yabo Wang et.al.|[2305.19610v1](http://arxiv.org/abs/2305.19610v1)|null|
 |**2023-05-31**|**Sensitivity of the future $\boldsymbol{e^{-}p}$ collider to the coupling of axion-like particles with vector bosons**|Chong-Xing Yue et.al.|[2305.19561v1](http://arxiv.org/abs/2305.19561v1)|null|
