@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**|Chaitanya Ryali et.al.|[2306.00989v1](http://arxiv.org/abs/2306.00989v1)|**[link](https://github.com/facebookresearch/hiera)**|
+|**2023-06-01**|**Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**|Yixiao Zhang et.al.|[2306.00988v1](http://arxiv.org/abs/2306.00988v1)|**[link](https://github.com/mrgiovanni/continuallearning)**|
+|**2023-06-01**|**Using generative AI to investigate medical imagery models and datasets**|Oran Lang et.al.|[2306.00985v1](http://arxiv.org/abs/2306.00985v1)|null|
+|**2023-06-01**|**Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds**|Shaowei Liu et.al.|[2306.00979v1](http://arxiv.org/abs/2306.00979v1)|null|
+|**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973v1](http://arxiv.org/abs/2306.00973v1)|**[link](https://github.com/haoningwu3639/StoryGen)**|
+|**2023-06-01**|**LIV: Language-Image Representations and Rewards for Robotic Control**|Yecheng Jason Ma et.al.|[2306.00958v1](http://arxiv.org/abs/2306.00958v1)|**[link](https://github.com/penn-pal-lab/liv)**|
+|**2023-06-01**|**The ObjectFolder Benchmark: Multisensory Learning with Neural and Real Objects**|Ruohan Gao et.al.|[2306.00956v1](http://arxiv.org/abs/2306.00956v1)|null|
+|**2023-06-01**|**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance**|Jinbo Xing et.al.|[2306.00943v1](http://arxiv.org/abs/2306.00943v1)|null|
+|**2023-06-01**|**STEVE-1: A Generative Model for Text-to-Behavior in Minecraft**|Shalev Lifshitz et.al.|[2306.00937v1](http://arxiv.org/abs/2306.00937v1)|null|
+|**2023-06-01**|**Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features**|Kunal Mukherjee et.al.|[2306.00934v1](http://arxiv.org/abs/2306.00934v1)|null|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|null|
 |**2023-05-31**|**MARDELS: A full-sky X-ray selected galaxy cluster catalog**|Matthias Klein et.al.|[2305.20066v1](http://arxiv.org/abs/2305.20066v1)|null|
 |**2023-05-31**|**Exploiting Mechanics-Based Priors for Lateral Displacement Estimation in Ultrasound Elastography**|Md Ashikuzzaman et.al.|[2305.20059v1](http://arxiv.org/abs/2305.20059v1)|null|
@@ -2499,6 +2509,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964v1](http://arxiv.org/abs/2306.00964v1)|null|
+|**2023-06-01**|**Fusions of the Tensor Square of a Strongly Regular Graph**|Allen Herman et.al.|[2306.00878v1](http://arxiv.org/abs/2306.00878v1)|null|
+|**2023-06-01**|**Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**|Dan Yang et.al.|[2306.00834v1](http://arxiv.org/abs/2306.00834v1)|null|
+|**2023-06-01**|**Learning Across Decentralized Multi-Modal Remote Sensing Archives with Federated Learning**|Barış Büyüktaş et.al.|[2306.00792v1](http://arxiv.org/abs/2306.00792v1)|null|
+|**2023-06-01**|**LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing**|Leonard Hackel et.al.|[2306.00758v1](http://arxiv.org/abs/2306.00758v1)|null|
+|**2023-06-01**|**AI Chain on Large Language Model for Unsupervised Control Flow Graph Generation for Statically-Typed Partial Code**|Qing Huang et.al.|[2306.00757v1](http://arxiv.org/abs/2306.00757v1)|null|
+|**2023-06-01**|**DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers**|Tamer Saleh et.al.|[2306.00704v1](http://arxiv.org/abs/2306.00704v1)|**[link](https://github.com/tamer-saleh/s1gflood-detection)**|
+|**2023-06-01**|**Encoder-decoder multimodal speaker change detection**|Jee-weon Jung et.al.|[2306.00680v1](http://arxiv.org/abs/2306.00680v1)|null|
+|**2023-06-01**|**Fast transport simulations with higher-fidelity surrogate models for ITER**|J. Citrin et.al.|[2306.00662v1](http://arxiv.org/abs/2306.00662v1)|null|
+|**2023-06-01**|**DiffRoom: Diffusion-based High-Quality 3D Room Reconstruction and Generation**|Xiaoliang Ju et.al.|[2306.00519v1](http://arxiv.org/abs/2306.00519v1)|null|
 |**2023-05-31**|**ViLaS: Integrating Vision and Language into Automatic Speech Recognition**|Minglun Han et.al.|[2305.19972v1](http://arxiv.org/abs/2305.19972v1)|null|
 |**2023-05-31**|**A Survey of Potential MPI Complex Collectives: Large-Scale Mining and Analysis of HPC Applications**|Pouya Haghi et.al.|[2305.19946v1](http://arxiv.org/abs/2305.19946v1)|null|
 |**2023-05-31**|**Image Registration of In Vivo Micro-Ultrasound and Ex Vivo Pseudo-Whole Mount Histopathology Images of the Prostate: A Proof-of-Concept Study**|Muhammad Imran et.al.|[2305.19939v1](http://arxiv.org/abs/2305.19939v1)|null|

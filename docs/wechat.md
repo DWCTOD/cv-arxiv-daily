@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-06-01, **Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**, Chaitanya Ryali et.al., Paper: [http://arxiv.org/abs/2306.00989v1](http://arxiv.org/abs/2306.00989v1), Code: **[https://github.com/facebookresearch/hiera](https://github.com/facebookresearch/hiera)**
+- 2023-06-01, **Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**, Yixiao Zhang et.al., Paper: [http://arxiv.org/abs/2306.00988v1](http://arxiv.org/abs/2306.00988v1), Code: **[https://github.com/mrgiovanni/continuallearning](https://github.com/mrgiovanni/continuallearning)**
+- 2023-06-01, **Using generative AI to investigate medical imagery models and datasets**, Oran Lang et.al., Paper: [http://arxiv.org/abs/2306.00985v1](http://arxiv.org/abs/2306.00985v1)
+- 2023-06-01, **Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds**, Shaowei Liu et.al., Paper: [http://arxiv.org/abs/2306.00979v1](http://arxiv.org/abs/2306.00979v1)
+- 2023-06-01, **Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2306.00973v1](http://arxiv.org/abs/2306.00973v1), Code: **[https://github.com/haoningwu3639/StoryGen](https://github.com/haoningwu3639/StoryGen)**
+- 2023-06-01, **LIV: Language-Image Representations and Rewards for Robotic Control**, Yecheng Jason Ma et.al., Paper: [http://arxiv.org/abs/2306.00958v1](http://arxiv.org/abs/2306.00958v1), Code: **[https://github.com/penn-pal-lab/liv](https://github.com/penn-pal-lab/liv)**
+- 2023-06-01, **The ObjectFolder Benchmark: Multisensory Learning with Neural and Real Objects**, Ruohan Gao et.al., Paper: [http://arxiv.org/abs/2306.00956v1](http://arxiv.org/abs/2306.00956v1)
+- 2023-06-01, **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2306.00943v1](http://arxiv.org/abs/2306.00943v1)
+- 2023-06-01, **STEVE-1: A Generative Model for Text-to-Behavior in Minecraft**, Shalev Lifshitz et.al., Paper: [http://arxiv.org/abs/2306.00937v1](http://arxiv.org/abs/2306.00937v1)
+- 2023-06-01, **Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features**, Kunal Mukherjee et.al., Paper: [http://arxiv.org/abs/2306.00934v1](http://arxiv.org/abs/2306.00934v1)
 - 2023-05-31, **Humans in 4D: Reconstructing and Tracking Humans with Transformers**, Shubham Goel et.al., Paper: [http://arxiv.org/abs/2305.20091v1](http://arxiv.org/abs/2305.20091v1)
 - 2023-05-31, **MARDELS: A full-sky X-ray selected galaxy cluster catalog**, Matthias Klein et.al., Paper: [http://arxiv.org/abs/2305.20066v1](http://arxiv.org/abs/2305.20066v1)
 - 2023-05-31, **Exploiting Mechanics-Based Priors for Lateral Displacement Estimation in Ultrasound Elastography**, Md Ashikuzzaman et.al., Paper: [http://arxiv.org/abs/2305.20059v1](http://arxiv.org/abs/2305.20059v1)
@@ -2495,6 +2505,16 @@
 
 ## MultiModal
 
+- 2023-06-01, **Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**, Minghui Hu et.al., Paper: [http://arxiv.org/abs/2306.00964v1](http://arxiv.org/abs/2306.00964v1)
+- 2023-06-01, **Fusions of the Tensor Square of a Strongly Regular Graph**, Allen Herman et.al., Paper: [http://arxiv.org/abs/2306.00878v1](http://arxiv.org/abs/2306.00878v1)
+- 2023-06-01, **Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**, Dan Yang et.al., Paper: [http://arxiv.org/abs/2306.00834v1](http://arxiv.org/abs/2306.00834v1)
+- 2023-06-01, **Learning Across Decentralized Multi-Modal Remote Sensing Archives with Federated Learning**, Barış Büyüktaş et.al., Paper: [http://arxiv.org/abs/2306.00792v1](http://arxiv.org/abs/2306.00792v1)
+- 2023-06-01, **LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing**, Leonard Hackel et.al., Paper: [http://arxiv.org/abs/2306.00758v1](http://arxiv.org/abs/2306.00758v1)
+- 2023-06-01, **AI Chain on Large Language Model for Unsupervised Control Flow Graph Generation for Statically-Typed Partial Code**, Qing Huang et.al., Paper: [http://arxiv.org/abs/2306.00757v1](http://arxiv.org/abs/2306.00757v1)
+- 2023-06-01, **DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers**, Tamer Saleh et.al., Paper: [http://arxiv.org/abs/2306.00704v1](http://arxiv.org/abs/2306.00704v1), Code: **[https://github.com/tamer-saleh/s1gflood-detection](https://github.com/tamer-saleh/s1gflood-detection)**
+- 2023-06-01, **Encoder-decoder multimodal speaker change detection**, Jee-weon Jung et.al., Paper: [http://arxiv.org/abs/2306.00680v1](http://arxiv.org/abs/2306.00680v1)
+- 2023-06-01, **Fast transport simulations with higher-fidelity surrogate models for ITER**, J. Citrin et.al., Paper: [http://arxiv.org/abs/2306.00662v1](http://arxiv.org/abs/2306.00662v1)
+- 2023-06-01, **DiffRoom: Diffusion-based High-Quality 3D Room Reconstruction and Generation**, Xiaoliang Ju et.al., Paper: [http://arxiv.org/abs/2306.00519v1](http://arxiv.org/abs/2306.00519v1)
 - 2023-05-31, **ViLaS: Integrating Vision and Language into Automatic Speech Recognition**, Minglun Han et.al., Paper: [http://arxiv.org/abs/2305.19972v1](http://arxiv.org/abs/2305.19972v1)
 - 2023-05-31, **A Survey of Potential MPI Complex Collectives: Large-Scale Mining and Analysis of HPC Applications**, Pouya Haghi et.al., Paper: [http://arxiv.org/abs/2305.19946v1](http://arxiv.org/abs/2305.19946v1)
 - 2023-05-31, **Image Registration of In Vivo Micro-Ultrasound and Ex Vivo Pseudo-Whole Mount Histopathology Images of the Prostate: A Proof-of-Concept Study**, Muhammad Imran et.al., Paper: [http://arxiv.org/abs/2305.19939v1](http://arxiv.org/abs/2305.19939v1)
