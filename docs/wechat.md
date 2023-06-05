@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-06-02, **Multilingual Conceptual Coverage in Text-to-Image Models**, Michael Saxon et.al., Paper: [http://arxiv.org/abs/2306.01735v1](http://arxiv.org/abs/2306.01735v1), Code: **[https://github.com/michaelsaxon/cococrola](https://github.com/michaelsaxon/cococrola)**
+- 2023-06-02, **Video Colorization with Pre-trained Text-to-Image Diffusion Models**, Hanyuan Liu et.al., Paper: [http://arxiv.org/abs/2306.01732v1](http://arxiv.org/abs/2306.01732v1)
+- 2023-06-02, **Streaming algorithms for evaluating noisy judges on unlabeled data -- binary classification**, Andrés Corrada-Emmanuel et.al., Paper: [http://arxiv.org/abs/2306.01726v1](http://arxiv.org/abs/2306.01726v1)
+- 2023-06-02, **A Data-Driven Measure of Relative Uncertainty for Misclassification Detection**, Eduardo Dadalto et.al., Paper: [http://arxiv.org/abs/2306.01710v1](http://arxiv.org/abs/2306.01710v1), Code: **[https://github.com/edadaltocg/relative-uncertainty](https://github.com/edadaltocg/relative-uncertainty)**
+- 2023-06-02, **Is Generative Modeling-based Stylization Necessary for Domain Adaptation in Regression Tasks?**, Jinman Park et.al., Paper: [http://arxiv.org/abs/2306.01706v1](http://arxiv.org/abs/2306.01706v1)
+- 2023-06-02, **Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis**, Yedi Luo et.al., Paper: [http://arxiv.org/abs/2306.01704v1](http://arxiv.org/abs/2306.01704v1)
+- 2023-06-02, **Unique Brain Network Identification Number for Parkinson's Individuals Using Structural MRI**, Tanmayee Samantaray et.al., Paper: [http://arxiv.org/abs/2306.01689v1](http://arxiv.org/abs/2306.01689v1)
+- 2023-06-02, **Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning**, Cristina Menghini et.al., Paper: [http://arxiv.org/abs/2306.01669v1](http://arxiv.org/abs/2306.01669v1), Code: **[https://github.com/batsresearch/menghini-enhanceclipwithclip-code](https://github.com/batsresearch/menghini-enhanceclipwithclip-code)**
+- 2023-06-02, **SourceP: Smart Ponzi Schemes Detection on Ethereum Using Pre-training Model with Data Flow**, Pengcheng Lu et.al., Paper: [http://arxiv.org/abs/2306.01665v1](http://arxiv.org/abs/2306.01665v1)
+- 2023-06-02, **An Adaptive Method for Weak Supervision with Drifting Data**, Alessio Mazzetto et.al., Paper: [http://arxiv.org/abs/2306.01658v1](http://arxiv.org/abs/2306.01658v1)
 - 2023-06-01, **Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**, Chaitanya Ryali et.al., Paper: [http://arxiv.org/abs/2306.00989v1](http://arxiv.org/abs/2306.00989v1), Code: **[https://github.com/facebookresearch/hiera](https://github.com/facebookresearch/hiera)**
 - 2023-06-01, **Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**, Yixiao Zhang et.al., Paper: [http://arxiv.org/abs/2306.00988v1](http://arxiv.org/abs/2306.00988v1), Code: **[https://github.com/mrgiovanni/continuallearning](https://github.com/mrgiovanni/continuallearning)**
 - 2023-06-01, **Using generative AI to investigate medical imagery models and datasets**, Oran Lang et.al., Paper: [http://arxiv.org/abs/2306.00985v1](http://arxiv.org/abs/2306.00985v1)
@@ -2505,6 +2515,13 @@
 
 ## MultiModal
 
+- 2023-06-02, **OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection**, Zhangyang Qi et.al., Paper: [http://arxiv.org/abs/2306.01738v1](http://arxiv.org/abs/2306.01738v1)
+- 2023-06-02, **Packet Reception Probability: Packets That You Can't Decode Can Help Keep You Safe**, Subham De et.al., Paper: [http://arxiv.org/abs/2306.01688v1](http://arxiv.org/abs/2306.01688v1)
+- 2023-06-02, **Fixed-point-free fusion automorphisms**, Andrew Schopieray et.al., Paper: [http://arxiv.org/abs/2306.01666v1](http://arxiv.org/abs/2306.01666v1)
+- 2023-06-02, **Transformer-based Multi-Modal Learning for Multi Label Remote Sensing Image Classification**, David Hoffmann et.al., Paper: [http://arxiv.org/abs/2306.01523v1](http://arxiv.org/abs/2306.01523v1)
+- 2023-06-02, **Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection**, Yingjie Wang et.al., Paper: [http://arxiv.org/abs/2306.01438v1](http://arxiv.org/abs/2306.01438v1), Code: **[https://github.com/jessiew0806/bi-lrfusion](https://github.com/jessiew0806/bi-lrfusion)**
+- 2023-06-02, **Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs**, Tengfei Ma et.al., Paper: [http://arxiv.org/abs/2306.01240v1](http://arxiv.org/abs/2306.01240v1)
+- 2023-06-01, **SelFLoc: Selective Feature Fusion for Large-scale Point Cloud-based Place Recognition**, Qibo Qiu et.al., Paper: [http://arxiv.org/abs/2306.01205v1](http://arxiv.org/abs/2306.01205v1)
 - 2023-06-01, **Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**, Minghui Hu et.al., Paper: [http://arxiv.org/abs/2306.00964v1](http://arxiv.org/abs/2306.00964v1)
 - 2023-06-01, **Fusions of the Tensor Square of a Strongly Regular Graph**, Allen Herman et.al., Paper: [http://arxiv.org/abs/2306.00878v1](http://arxiv.org/abs/2306.00878v1)
 - 2023-06-01, **Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**, Dan Yang et.al., Paper: [http://arxiv.org/abs/2306.00834v1](http://arxiv.org/abs/2306.00834v1)
