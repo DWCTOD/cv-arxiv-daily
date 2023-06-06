@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092v1](http://arxiv.org/abs/2306.03092v1)|null|
+|**2023-06-05**|**Dismantling Hate: Understanding Hate Speech Trends Against NBA Athletes**|Edinam Kofi Klutse et.al.|[2306.03086v1](http://arxiv.org/abs/2306.03086v1)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|null|
+|**2023-06-05**|**Of Mice and Mates: Automated Classification and Modelling of Mouse Behaviour in Groups using a Single Model across Cages**|Michael P. J. Camilleri et.al.|[2306.03066v1](http://arxiv.org/abs/2306.03066v1)|null|
+|**2023-06-05**|**LibAUC: A Deep Learning Library for X-Risk Optimization**|Zhuoning Yuan et.al.|[2306.03065v1](http://arxiv.org/abs/2306.03065v1)|**[link](https://github.com/Optimization-AI/LibAUC)**|
+|**2023-06-05**|**Classification of Edge-dependent Labels of Nodes in Hypergraphs**|Minyoung Choe et.al.|[2306.03032v1](http://arxiv.org/abs/2306.03032v1)|**[link](https://github.com/young917/edgedependentnodelabel)**|
+|**2023-06-05**|**AI Techniques for Cone Beam Computed Tomography in Dentistry: Trends and Practices**|Saba Sarwar et.al.|[2306.03025v1](http://arxiv.org/abs/2306.03025v1)|null|
+|**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022v1](http://arxiv.org/abs/2306.03022v1)|null|
+|**2023-06-05**|**Controllable odd-frequency Cooper pairs in multi-superconductor Josephson junctions**|Jorge Cayao et.al.|[2306.03017v1](http://arxiv.org/abs/2306.03017v1)|null|
+|**2023-06-05**|**Over-the-Air Federated Learning in Satellite systems**|Edward Akito Carlos et.al.|[2306.02996v1](http://arxiv.org/abs/2306.02996v1)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
 |**2023-06-02**|**Streaming algorithms for evaluating noisy judges on unlabeled data -- binary classification**|Andrés Corrada-Emmanuel et.al.|[2306.01726v1](http://arxiv.org/abs/2306.01726v1)|null|
@@ -2523,6 +2533,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion**|Ahana Deb et.al.|[2306.02680v1](http://arxiv.org/abs/2306.02680v1)|null|
+|**2023-06-05**|**Controllable Lyrics-to-Melody Generation**|Zhe Zhang et.al.|[2306.02613v1](http://arxiv.org/abs/2306.02613v1)|null|
+|**2023-06-05**|**Internet of Things Meets Robotics: A Survey of Cloud-based Robots**|Chrisantus Eze et.al.|[2306.02586v1](http://arxiv.org/abs/2306.02586v1)|null|
+|**2023-06-05**|**Parametric study of helicon wave current drive in CFETR**|Xianshu Wu et.al.|[2306.02580v1](http://arxiv.org/abs/2306.02580v1)|null|
+|**2023-06-05**|**LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion**|Dongfu Jiang et.al.|[2306.02561v1](http://arxiv.org/abs/2306.02561v1)|null|
+|**2023-06-05**|**Inflated 3D Convolution-Transformer for Weakly-supervised Carotid Stenosis Grading with Ultrasound Videos**|Xinrui Zhou et.al.|[2306.02548v1](http://arxiv.org/abs/2306.02548v1)|**[link](https://github.com/xinruizhou0106/csg-3dct_supp)**|
+|**2023-06-05**|**OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition**|Li Fu et.al.|[2306.02541v1](http://arxiv.org/abs/2306.02541v1)|null|
+|**2023-06-05**|**A Study of Situational Reasoning for Traffic Understanding**|Jiarui Zhang et.al.|[2306.02520v1](http://arxiv.org/abs/2306.02520v1)|null|
+|**2023-06-04**|**SpellMapper: A non-autoregressive neural spellchecker for ASR customization with candidate retrieval based on n-gram mappings**|Alexandra Antonova et.al.|[2306.02317v1](http://arxiv.org/abs/2306.02317v1)|**[link](https://github.com/NVIDIA/NeMo)**|
+|**2023-06-04**|**Cross-CBAM: A Lightweight network for Scene Segmentation**|Zhengbin Zhang et.al.|[2306.02306v1](http://arxiv.org/abs/2306.02306v1)|null|
 |**2023-06-02**|**OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection**|Zhangyang Qi et.al.|[2306.01738v1](http://arxiv.org/abs/2306.01738v1)|null|
 |**2023-06-02**|**Packet Reception Probability: Packets That You Can't Decode Can Help Keep You Safe**|Subham De et.al.|[2306.01688v1](http://arxiv.org/abs/2306.01688v1)|null|
 |**2023-06-02**|**Fixed-point-free fusion automorphisms**|Andrew Schopieray et.al.|[2306.01666v1](http://arxiv.org/abs/2306.01666v1)|null|
