@@ -1,4 +1,4 @@
-## Updated on 2023.06.05
+## Updated on 2023.06.06
 
 ## Video_Classification
 
@@ -2525,7 +2525,7 @@
 |**2023-06-02**|**Transformer-based Multi-Modal Learning for Multi Label Remote Sensing Image Classification**|David Hoffmann et.al.|[2306.01523v1](http://arxiv.org/abs/2306.01523v1)|null|
 |**2023-06-02**|**Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection**|Yingjie Wang et.al.|[2306.01438v1](http://arxiv.org/abs/2306.01438v1)|**[link](https://github.com/jessiew0806/bi-lrfusion)**|
 |**2023-06-02**|**Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs**|Tengfei Ma et.al.|[2306.01240v1](http://arxiv.org/abs/2306.01240v1)|null|
-|**2023-06-01**|**SelFLoc: Selective Feature Fusion for Large-scale Point Cloud-based Place Recognition**|Qibo Qiu et.al.|[2306.01205v1](http://arxiv.org/abs/2306.01205v1)|null|
+|**2023-06-05**|**SelFLoc: Selective Feature Fusion for Large-scale Point Cloud-based Place Recognition**|Qibo Qiu et.al.|[2306.01205v2](http://arxiv.org/abs/2306.01205v2)|null|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964v1](http://arxiv.org/abs/2306.00964v1)|null|
 |**2023-06-01**|**Fusions of the Tensor Square of a Strongly Regular Graph**|Allen Herman et.al.|[2306.00878v1](http://arxiv.org/abs/2306.00878v1)|null|
 |**2023-06-01**|**Deformable Convolutions and LSTM-based Flexible Event Frame Fusion Network for Motion Deblurring**|Dan Yang et.al.|[2306.00834v1](http://arxiv.org/abs/2306.00834v1)|null|
