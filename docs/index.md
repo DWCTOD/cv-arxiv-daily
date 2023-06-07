@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**CL-UZH at SemEval-2023 Task 10: Sexism Detection through Incremental Fine-Tuning and Multi-Task Learning with Label Descriptions**|Janis Goldzycher et.al.|[2306.03907v1](http://arxiv.org/abs/2306.03907v1)|null|
+|**2023-06-06**|**Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**|Yeldar Toleubay et.al.|[2306.03902v1](http://arxiv.org/abs/2306.03902v1)|null|
+|**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899v1](http://arxiv.org/abs/2306.03899v1)|null|
+|**2023-06-06**|**Multi-Label ECG Classification using Temporal Convolutional Neural Network**|Eedara Prabhakararao et.al.|[2306.03844v1](http://arxiv.org/abs/2306.03844v1)|null|
+|**2023-06-06**|**Atrial Septal Defect Detection in Children Based on Ultrasound Video Using Multiple Instances Learning**|Yiman Liu et.al.|[2306.03835v1](http://arxiv.org/abs/2306.03835v1)|null|
+|**2023-06-06**|**MTS2Graph: Interpretable Multivariate Time Series Classification with Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834v1](http://arxiv.org/abs/2306.03834v1)|null|
+|**2023-06-06**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Alexandre Lacoste et.al.|[2306.03831v1](http://arxiv.org/abs/2306.03831v1)|**[link](https://github.com/servicenow/geo-bench)**|
+|**2023-06-06**|**Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How**|Sebastian Pineda Arango et.al.|[2306.03828v1](http://arxiv.org/abs/2306.03828v1)|null|
+|**2023-06-06**|**Learning to Ground Instructional Articles in Videos through Narrations**|Effrosyni Mavroudi et.al.|[2306.03802v1](http://arxiv.org/abs/2306.03802v1)|null|
+|**2023-06-06**|**Matched Pair Calibration for Ranking Fairness**|Hannah Korevaar et.al.|[2306.03775v1](http://arxiv.org/abs/2306.03775v1)|null|
 |**2023-06-05**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092v1](http://arxiv.org/abs/2306.03092v1)|null|
 |**2023-06-05**|**Dismantling Hate: Understanding Hate Speech Trends Against NBA Athletes**|Edinam Kofi Klutse et.al.|[2306.03086v1](http://arxiv.org/abs/2306.03086v1)|null|
 |**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|null|
@@ -2533,6 +2543,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation**|Shubhankar Borse et.al.|[2306.03810v1](http://arxiv.org/abs/2306.03810v1)|null|
+|**2023-06-06**|**Modality-Agnostic Learning for Medical Image Segmentation Using Multi-modality Self-distillation**|Qisheng He et.al.|[2306.03730v1](http://arxiv.org/abs/2306.03730v1)|null|
+|**2023-06-06**|**Novel DeepONet architecture to predict stresses in elastoplastic structures with variable complex geometries and loads**|Junyan He et.al.|[2306.03645v1](http://arxiv.org/abs/2306.03645v1)|null|
+|**2023-06-06**|**RDFC-GAN: RGB-Depth Fusion CycleGAN for Indoor Depth Completion**|Haowen Wang et.al.|[2306.03584v1](http://arxiv.org/abs/2306.03584v1)|null|
+|**2023-06-06**|**A Belief Model for Conflicting and Uncertain Evidence -- Connecting Dempster-Shafer Theory and the Topology of Evidence**|Daira Pinto Prieto et.al.|[2306.03532v1](http://arxiv.org/abs/2306.03532v1)|null|
+|**2023-06-06**|**Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities**|Xinyu Gao et.al.|[2306.03454v1](http://arxiv.org/abs/2306.03454v1)|null|
+|**2023-06-06**|**Reconstructing human activities via coupling mobile phone data with location-based social networks**|Le Huang et.al.|[2306.03441v1](http://arxiv.org/abs/2306.03441v1)|null|
+|**2023-06-06**|**Orbifold theory of the affine vertex operator superalgebra $L_{\widehat{osp(1|2)}}(k,0)$**|Cuipo Jiang et.al.|[2306.03334v1](http://arxiv.org/abs/2306.03334v1)|null|
 |**2023-06-05**|**BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion**|Ahana Deb et.al.|[2306.02680v1](http://arxiv.org/abs/2306.02680v1)|null|
 |**2023-06-05**|**Controllable Lyrics-to-Melody Generation**|Zhe Zhang et.al.|[2306.02613v1](http://arxiv.org/abs/2306.02613v1)|null|
 |**2023-06-05**|**Internet of Things Meets Robotics: A Survey of Cloud-based Robots**|Chrisantus Eze et.al.|[2306.02586v1](http://arxiv.org/abs/2306.02586v1)|null|
