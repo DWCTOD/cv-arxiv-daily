@@ -1,4 +1,4 @@
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 
 ## Video_Classification
 
@@ -2534,7 +2534,7 @@
 |**2023-06-05**|**Internet of Things Meets Robotics: A Survey of Cloud-based Robots**|Chrisantus Eze et.al.|[2306.02586v1](http://arxiv.org/abs/2306.02586v1)|null|
 |**2023-06-05**|**Parametric study of helicon wave current drive in CFETR**|Xianshu Wu et.al.|[2306.02580v1](http://arxiv.org/abs/2306.02580v1)|null|
 |**2023-06-05**|**LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion**|Dongfu Jiang et.al.|[2306.02561v1](http://arxiv.org/abs/2306.02561v1)|null|
-|**2023-06-05**|**Inflated 3D Convolution-Transformer for Weakly-supervised Carotid Stenosis Grading with Ultrasound Videos**|Xinrui Zhou et.al.|[2306.02548v1](http://arxiv.org/abs/2306.02548v1)|**[link](https://github.com/xinruizhou0106/csg-3dct_supp)**|
+|**2023-06-06**|**Inflated 3D Convolution-Transformer for Weakly-supervised Carotid Stenosis Grading with Ultrasound Videos**|Xinrui Zhou et.al.|[2306.02548v2](http://arxiv.org/abs/2306.02548v2)|**[link](https://github.com/xinruizhou0106/csg-3dct_supp)**|
 |**2023-06-05**|**OTF: Optimal Transport based Fusion of Supervised and Self-Supervised Learning Models for Automatic Speech Recognition**|Li Fu et.al.|[2306.02541v1](http://arxiv.org/abs/2306.02541v1)|null|
 |**2023-06-05**|**A Study of Situational Reasoning for Traffic Understanding**|Jiarui Zhang et.al.|[2306.02520v1](http://arxiv.org/abs/2306.02520v1)|null|
 |**2023-06-04**|**SpellMapper: A non-autoregressive neural spellchecker for ASR customization with candidate retrieval based on n-gram mappings**|Alexandra Antonova et.al.|[2306.02317v1](http://arxiv.org/abs/2306.02317v1)|**[link](https://github.com/NVIDIA/NeMo)**|
