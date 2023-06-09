@@ -1,8 +1,8 @@
-> Updated on 2023.06.08
+> Updated on 2023.06.09
 
 ## Video_Classification
 
-- 2023-06-07, **Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**, Kai Chen et.al., Paper: [http://arxiv.org/abs/2306.04607v1](http://arxiv.org/abs/2306.04607v1)
+- 2023-06-08, **Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**, Kai Chen et.al., Paper: [http://arxiv.org/abs/2306.04607v2](http://arxiv.org/abs/2306.04607v2)
 - 2023-06-07, **MarineVRS: Marine Video Retrieval System with Explainability via Semantic Understanding**, Tan-Sang Ha et.al., Paper: [http://arxiv.org/abs/2306.04593v1](http://arxiv.org/abs/2306.04593v1)
 - 2023-06-07, **A Dataset for Deep Learning-based Bone Structure Analyses in Total Hip Arthroplasty**, Kaidong Zhang et.al., Paper: [http://arxiv.org/abs/2306.04579v1](http://arxiv.org/abs/2306.04579v1), Code: **[https://github.com/hitachinsk/tha](https://github.com/hitachinsk/tha)**
 - 2023-06-07, **ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models**, Sophie Jentzsch et.al., Paper: [http://arxiv.org/abs/2306.04563v1](http://arxiv.org/abs/2306.04563v1), Code: **[https://github.com/dlr-sc/jokegpt-wassa23](https://github.com/dlr-sc/jokegpt-wassa23)**
