@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Shock Cooling and Possible Precursor Emission in the Early Light Curve of the Type II SN 2023ixf**|Griffin Hosseinzadeh et.al.|[2306.06097v1](http://arxiv.org/abs/2306.06097v1)|null|
+|**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
+|**2023-06-09**|**Virtual Node Tuning for Few-shot Node Classification**|Zhen Tan et.al.|[2306.06063v1](http://arxiv.org/abs/2306.06063v1)|null|
+|**2023-06-09**|**Ion-Driven Instabilities in the Inner Heliosphere II: Classification and Multi-Dimensional Mapping**|Mihailo M. Martinovic et.al.|[2306.06060v1](http://arxiv.org/abs/2306.06060v1)|null|
+|**2023-06-09**|**Exploring the Impact of Image Resolution on Chest X-ray Classification Performance**|Alessandro Wollek et.al.|[2306.06051v1](http://arxiv.org/abs/2306.06051v1)|null|
+|**2023-06-09**|**How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?**|Yifei Ming et.al.|[2306.06048v1](http://arxiv.org/abs/2306.06048v1)|null|
+|**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044v1](http://arxiv.org/abs/2306.06044v1)|null|
+|**2023-06-09**|**WindowNet: Learnable Windows for Chest X-ray Classification**|Alessandro Wollek et.al.|[2306.06038v1](http://arxiv.org/abs/2306.06038v1)|null|
+|**2023-06-09**|**Benchmarking self-supervised video representation learning**|Akash Kumar et.al.|[2306.06010v1](http://arxiv.org/abs/2306.06010v1)|null|
+|**2023-06-09**|**Beyond Detection: Visual Realism Assessment of Deepfakes**|Luka Dragar et.al.|[2306.05985v1](http://arxiv.org/abs/2306.05985v1)|null|
 |**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425v1](http://arxiv.org/abs/2306.05425v1)|**[link](https://github.com/luodian/otter)**|
 |**2023-06-08**|**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**|Muhammad Maaz et.al.|[2306.05424v1](http://arxiv.org/abs/2306.05424v1)|**[link](https://github.com/mbzuai-oryx/video-chatgpt)**|
 |**2023-06-08**|**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**|Changyao Tian et.al.|[2306.05423v1](http://arxiv.org/abs/2306.05423v1)|null|
@@ -2559,6 +2569,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Augmenting Off-the-Shelf Grippers with Tactile Sensing**|Remko Proesmans et.al.|[2306.05902v1](http://arxiv.org/abs/2306.05902v1)|**[link](https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips)**|
+|**2023-06-09**|**An Efficient Speech Separation Network Based on Recurrent Fusion Dilated Convolution and Channel Attention**|Junyu Wang et.al.|[2306.05887v1](http://arxiv.org/abs/2306.05887v1)|null|
+|**2023-06-09**|**Fusion of Distance Measurements between Agents with Unknown Correlations**|Colin Cros et.al.|[2306.05875v1](http://arxiv.org/abs/2306.05875v1)|null|
+|**2023-06-09**|**The Relationship Between Burnout Operators with the Functions of Family Tehran Banking Melli Iran Bank in 2015**|Mohammad Heydari et.al.|[2306.05867v1](http://arxiv.org/abs/2306.05867v1)|null|
+|**2023-06-09**|**Electronic density response of warm dense hydrogen on the nanoscale**|Tobias Dornheim et.al.|[2306.05814v1](http://arxiv.org/abs/2306.05814v1)|null|
+|**2023-06-09**|**A Macro-Micro Approach to Reconstructing Vehicle Trajectories on Multi-Lane Freeways with Lane Changing**|Xuejian Chen et.al.|[2306.05627v1](http://arxiv.org/abs/2306.05627v1)|null|
+|**2023-06-08**|**Fusion Rings over Drinfeld Doubles**|Wenqi Li et.al.|[2306.05560v1](http://arxiv.org/abs/2306.05560v1)|null|
 |**2023-06-08**|**Automatic Image Blending Algorithm Based on SAM and DINO**|Haochen Xue et.al.|[2306.05382v1](http://arxiv.org/abs/2306.05382v1)|null|
 |**2023-06-08**|**Actively learning a Bayesian matrix fusion model with deep side information**|Yangyang Yu et.al.|[2306.05331v1](http://arxiv.org/abs/2306.05331v1)|null|
 |**2023-06-08**|**Re-aligning Shadow Models can Improve White-box Membership Inference Attacks**|Ana-Maria Cretu et.al.|[2306.05093v1](http://arxiv.org/abs/2306.05093v1)|null|
