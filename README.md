@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Waffling around for Performance: Visual Classification with Random Words and Broad Concepts**|Karsten Roth et.al.|[2306.07282v1](http://arxiv.org/abs/2306.07282v1)|**[link](https://github.com/explainableml/waffleclip)**|
+|**2023-06-12**|**The Cheltsov--Rubinstein problem for strongly asymptotically log del Pezzo surfaces**|Chenzi Jin et.al.|[2306.07278v1](http://arxiv.org/abs/2306.07278v1)|null|
+|**2023-06-12**|**Gaussian Membership Inference Privacy**|Tobias Leemann et.al.|[2306.07273v1](http://arxiv.org/abs/2306.07273v1)|null|
+|**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
+|**2023-06-12**|**On the Expected Size of Conformal Prediction Sets**|Guneet S. Dhillon et.al.|[2306.07254v1](http://arxiv.org/abs/2306.07254v1)|null|
+|**2023-06-12**|**RB-Dust -- A Reference-based Dataset for Vision-based Dust Removal**|Peter Buckel et.al.|[2306.07244v1](http://arxiv.org/abs/2306.07244v1)|null|
+|**2023-06-12**|**Strokes2Surface: Recovering Curve Networks From 4D Architectural Design Sketches**|S. Rasoulzadeh et.al.|[2306.07220v1](http://arxiv.org/abs/2306.07220v1)|null|
+|**2023-06-12**|**Cyclic objects from surfaces**|Ivan Bartulović et.al.|[2306.07216v1](http://arxiv.org/abs/2306.07216v1)|null|
+|**2023-06-12**|**Valley: Video Assistant with Large Language model Enhanced abilitY**|Ruipu Luo et.al.|[2306.07207v1](http://arxiv.org/abs/2306.07207v1)|null|
+|**2023-06-12**|**A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation**|Jeremy Gwinnup et.al.|[2306.07198v1](http://arxiv.org/abs/2306.07198v1)|null|
 |**2023-06-09**|**Shock Cooling and Possible Precursor Emission in the Early Light Curve of the Type II SN 2023ixf**|Griffin Hosseinzadeh et.al.|[2306.06097v1](http://arxiv.org/abs/2306.06097v1)|null|
 |**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
 |**2023-06-09**|**Virtual Node Tuning for Few-shot Node Classification**|Zhen Tan et.al.|[2306.06063v1](http://arxiv.org/abs/2306.06063v1)|null|
@@ -2569,6 +2579,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272v1](http://arxiv.org/abs/2306.07272v1)|null|
+|**2023-06-12**|**Phase field modelling and simulation of damage occurring in human vertebra after screws fixation procedure**|Deison Preve et.al.|[2306.07245v1](http://arxiv.org/abs/2306.07245v1)|null|
+|**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196v1](http://arxiv.org/abs/2306.07196v1)|null|
+|**2023-06-12**|**Exploring Attention Mechanisms for Multimodal Emotion Recognition in an Emergency Call Center Corpus**|Théo Deschamps-Berger et.al.|[2306.07115v1](http://arxiv.org/abs/2306.07115v1)|null|
+|**2023-06-12**|**Parameter-efficient Dysarthric Speech Recognition Using Adapter Fusion and Householder Transformation**|Jinzi Qi et.al.|[2306.07090v1](http://arxiv.org/abs/2306.07090v1)|null|
+|**2023-06-12**|**MaskedFusion360: Reconstruct LiDAR Data by Querying Camera Features**|Royden Wagner et.al.|[2306.07087v1](http://arxiv.org/abs/2306.07087v1)|**[link](https://github.com/kit-mrt/masked-fusion-360)**|
+|**2023-06-12**|**Non-collinear polychromatic light for inertial fusion energy**|Yao Zhao et.al.|[2306.06964v1](http://arxiv.org/abs/2306.06964v1)|null|
+|**2023-06-12**|**Feature Fusion from Head to Tail: an Extreme Augmenting Strategy for Long-Tailed Visual Recognition**|Mengke Li et.al.|[2306.06963v1](http://arxiv.org/abs/2306.06963v1)|null|
+|**2023-06-12**|**Differentiable Multi-Fidelity Fusion: Efficient Learning of Physics Simulations with Neural Architecture Search and Transfer Learning**|Yuwen Deng et.al.|[2306.06904v1](http://arxiv.org/abs/2306.06904v1)|null|
+|**2023-06-12**|**NPVForensics: Jointing Non-critical Phonemes and Visemes for Deepfake Detection**|Yu Chen et.al.|[2306.06885v1](http://arxiv.org/abs/2306.06885v1)|null|
 |**2023-06-09**|**Augmenting Off-the-Shelf Grippers with Tactile Sensing**|Remko Proesmans et.al.|[2306.05902v1](http://arxiv.org/abs/2306.05902v1)|**[link](https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips)**|
 |**2023-06-09**|**An Efficient Speech Separation Network Based on Recurrent Fusion Dilated Convolution and Channel Attention**|Junyu Wang et.al.|[2306.05887v1](http://arxiv.org/abs/2306.05887v1)|null|
 |**2023-06-09**|**Fusion of Distance Measurements between Agents with Unknown Correlations**|Colin Cros et.al.|[2306.05875v1](http://arxiv.org/abs/2306.05875v1)|null|
