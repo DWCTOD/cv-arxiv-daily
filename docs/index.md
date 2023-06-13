@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 
 ## Video_Classification
 
@@ -2580,7 +2580,7 @@ layout: default
 |**2023-06-09**|**Electronic density response of warm dense hydrogen on the nanoscale**|Tobias Dornheim et.al.|[2306.05814v1](http://arxiv.org/abs/2306.05814v1)|null|
 |**2023-06-09**|**A Macro-Micro Approach to Reconstructing Vehicle Trajectories on Multi-Lane Freeways with Lane Changing**|Xuejian Chen et.al.|[2306.05627v1](http://arxiv.org/abs/2306.05627v1)|null|
 |**2023-06-08**|**Fusion Rings over Drinfeld Doubles**|Wenqi Li et.al.|[2306.05560v1](http://arxiv.org/abs/2306.05560v1)|null|
-|**2023-06-08**|**Automatic Image Blending Algorithm Based on SAM and DINO**|Haochen Xue et.al.|[2306.05382v1](http://arxiv.org/abs/2306.05382v1)|null|
+|**2023-06-11**|**Automatic Image Blending Algorithm Based on SAM and DINO**|Haochen Xue et.al.|[2306.05382v2](http://arxiv.org/abs/2306.05382v2)|null|
 |**2023-06-08**|**Actively learning a Bayesian matrix fusion model with deep side information**|Yangyang Yu et.al.|[2306.05331v1](http://arxiv.org/abs/2306.05331v1)|null|
 |**2023-06-08**|**Re-aligning Shadow Models can Improve White-box Membership Inference Attacks**|Ana-Maria Cretu et.al.|[2306.05093v1](http://arxiv.org/abs/2306.05093v1)|null|
 |**2023-06-08**|**Improving Language Model Integration for Neural Machine Translation**|Christian Herold et.al.|[2306.05077v1](http://arxiv.org/abs/2306.05077v1)|null|
