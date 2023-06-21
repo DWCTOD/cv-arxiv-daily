@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Segment Anything Model (SAM) for Radiation Oncology**|Lian Zhang et.al.|[2306.11730v1](http://arxiv.org/abs/2306.11730v1)|null|
+|**2023-06-20**|**Dense Video Object Captioning from Disjoint Supervision**|Xingyi Zhou et.al.|[2306.11729v1](http://arxiv.org/abs/2306.11729v1)|null|
+|**2023-06-20**|**How can objects help action recognition?**|Xingyi Zhou et.al.|[2306.11726v1](http://arxiv.org/abs/2306.11726v1)|**[link](https://github.com/google-research/scenic)**|
+|**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724v1](http://arxiv.org/abs/2306.11724v1)|null|
+|**2023-06-20**|**Meta-Analysis of Transfer Learning for Segmentation of Brain Lesions**|Sovesh Mohapatra et.al.|[2306.11714v1](http://arxiv.org/abs/2306.11714v1)|null|
+|**2023-06-20**|**Hexagonal circular 3-webs with polar curves of degree three**|Sergey I. Agafonov et.al.|[2306.11707v1](http://arxiv.org/abs/2306.11707v1)|null|
+|**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682v1](http://arxiv.org/abs/2306.11682v1)|null|
+|**2023-06-20**|**The Implicit Bias of Batch Normalization in Linear Models and Two-layer Linear Convolutional Neural Networks**|Yuan Cao et.al.|[2306.11680v1](http://arxiv.org/abs/2306.11680v1)|null|
+|**2023-06-20**|**A primal-dual data-driven method for computational optical imaging with a photonic lantern**|Carlos Santos Garcia et.al.|[2306.11679v1](http://arxiv.org/abs/2306.11679v1)|null|
+|**2023-06-20**|**Deep Learning Methods for Retinal Blood Vessel Segmentation: Evaluation on Images with Retinopathy of Prematurity**|Gorana Gojić et.al.|[2306.11576v1](http://arxiv.org/abs/2306.11576v1)|null|
 |**2023-06-16**|**Variational quantum algorithms for machine learning: theory and applications**|Stefano Mangini et.al.|[2306.09984v1](http://arxiv.org/abs/2306.09984v1)|null|
 |**2023-06-16**|**HePCo: Data-Free Heterogeneous Prompt Consolidation for Continual Federated Learning**|Shaunak Halbe et.al.|[2306.09970v1](http://arxiv.org/abs/2306.09970v1)|null|
 |**2023-06-16**|**Training shallow ReLU networks on noisy data using hinge loss: when do we overfit and is it benign?**|Erin George et.al.|[2306.09955v1](http://arxiv.org/abs/2306.09955v1)|null|
@@ -2609,6 +2619,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**On Harada's identity and some other consequences of Burnside's vanishing property**|S. Burciu et.al.|[2306.11721v1](http://arxiv.org/abs/2306.11721v1)|null|
+|**2023-06-20**|**Improving Image Captioning Descriptiveness by Ranking and LLM-based Fusion**|Simone Bianco et.al.|[2306.11593v1](http://arxiv.org/abs/2306.11593v1)|null|
+|**2023-06-20**|**A Model Fusion Distributed Kalman Filter For Non-Gaussian Observation Noise**|Xuemei Mao et.al.|[2306.11476v1](http://arxiv.org/abs/2306.11476v1)|null|
+|**2023-06-20**|**Bulk and neutron-proton asymmetry coefficients of the semi-empirical mass formula tuned to ground state mass excess of AME2020 and/or FRDM(2012)**|Dalip Singh Verma et.al.|[2306.11422v1](http://arxiv.org/abs/2306.11422v1)|null|
+|**2023-06-20**|**Multi-Scale Occ: 4th Place Solution for CVPR 2023 3D Occupancy Prediction Challenge**|Yangyang Ding et.al.|[2306.11414v1](http://arxiv.org/abs/2306.11414v1)|null|
+|**2023-06-20**|**MuDPT: Multi-modal Deep-symphysis Prompt Tuning for Large Pre-trained Vision-Language Models**|Yongzhu Miao et.al.|[2306.11400v1](http://arxiv.org/abs/2306.11400v1)|null|
+|**2023-06-20**|**CAPRI: Context-Aware Interpretable Point-of-Interest Recommendation Framework**|Ali Tourani et.al.|[2306.11395v1](http://arxiv.org/abs/2306.11395v1)|**[link](https://github.com/caprirecsys/capri)**|
+|**2023-06-20**|**Multi-pass Training and Cross-information Fusion for Low-resource End-to-end Accented Speech Recognition**|Xuefei Wang et.al.|[2306.11309v1](http://arxiv.org/abs/2306.11309v1)|null|
+|**2023-06-20**|**CAMP-Net: Context-Aware Multi-Prior Network for Accelerated MRI Reconstruction**|Liping Zhang et.al.|[2306.11238v1](http://arxiv.org/abs/2306.11238v1)|null|
+|**2023-06-20**|**Constraining the Woods-Saxon potential in fusion reactions based on a physics-informed neural network**|Siyu Liu et.al.|[2306.11236v1](http://arxiv.org/abs/2306.11236v1)|null|
 |**2023-06-16**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003v1](http://arxiv.org/abs/2306.10003v1)|null|
 |**2023-06-16**|**Diboson production in the SMEFT from gluon fusion**|Alejo N. Rossia et.al.|[2306.09963v1](http://arxiv.org/abs/2306.09963v1)|null|
 |**2023-06-16**|**Cross-corpus Readability Compatibility Assessment for English Texts**|Zhenzhen Li et.al.|[2306.09704v1](http://arxiv.org/abs/2306.09704v1)|**[link](https://github.com/zimzsh/cross-corpus-readability-compatibility-assessment-for-english-texts)**|
