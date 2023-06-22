@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-06-21, **Spectroscopy of the Supernova H0pe Host Galaxy at Redshift 1.78**, M. Polletta et.al., Paper: [http://arxiv.org/abs/2306.12385v1](http://arxiv.org/abs/2306.12385v1)
+- 2023-06-21, **Geometric Algorithms for $k$-NN Poisoning**, Diego Ihara Centurion et.al., Paper: [http://arxiv.org/abs/2306.12377v1](http://arxiv.org/abs/2306.12377v1)
+- 2023-06-21, **M-VAAL: Multimodal Variational Adversarial Active Learning for Downstream Medical Image Analysis Tasks**, Bidur Khanal et.al., Paper: [http://arxiv.org/abs/2306.12376v1](http://arxiv.org/abs/2306.12376v1), Code: **[https://github.com/bidur-khanal/mvaal-medical-images](https://github.com/bidur-khanal/mvaal-medical-images)**
+- 2023-06-21, **One Policy to Dress Them All: Learning to Dress People with Diverse Poses and Garments**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2306.12372v1](http://arxiv.org/abs/2306.12372v1)
+- 2023-06-21, **Attention Hybrid Variational Net for Accelerated MRI Reconstruction**, Guoyao Shen et.al., Paper: [http://arxiv.org/abs/2306.12365v1](http://arxiv.org/abs/2306.12365v1)
+- 2023-06-21, **Linear and Non-Linear Barrier Coverage in Deterministic and Uncertain environment in WSNs: A New Classification**, Adda Boualem et.al., Paper: [http://arxiv.org/abs/2306.12355v1](http://arxiv.org/abs/2306.12355v1)
+- 2023-06-21, **An efficient, provably exact algorithm for the 0-1 loss linear classification problem**, Xi He et.al., Paper: [http://arxiv.org/abs/2306.12344v1](http://arxiv.org/abs/2306.12344v1)
+- 2023-06-21, **Geometric Pooling: maintaining more useful information**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2306.12341v1](http://arxiv.org/abs/2306.12341v1)
+- 2023-06-21, **Do you still need a manual smart contract audit?**, Isaac David et.al., Paper: [http://arxiv.org/abs/2306.12338v1](http://arxiv.org/abs/2306.12338v1)
+- 2023-06-21, **Beyond Deep Ensembles -- A Large-Scale Evaluation of Bayesian Deep Learning under Distribution Shift**, Florian Seligmann et.al., Paper: [http://arxiv.org/abs/2306.12306v1](http://arxiv.org/abs/2306.12306v1), Code: **[https://github.com/bdl-authors/beyond-ensembles](https://github.com/bdl-authors/beyond-ensembles)**
 - 2023-06-20, **Segment Anything Model (SAM) for Radiation Oncology**, Lian Zhang et.al., Paper: [http://arxiv.org/abs/2306.11730v1](http://arxiv.org/abs/2306.11730v1)
 - 2023-06-20, **Dense Video Object Captioning from Disjoint Supervision**, Xingyi Zhou et.al., Paper: [http://arxiv.org/abs/2306.11729v1](http://arxiv.org/abs/2306.11729v1), Code: **[https://github.com/google-research/scenic](https://github.com/google-research/scenic)**
 - 2023-06-20, **How can objects help action recognition?**, Xingyi Zhou et.al., Paper: [http://arxiv.org/abs/2306.11726v1](http://arxiv.org/abs/2306.11726v1), Code: **[https://github.com/google-research/scenic](https://github.com/google-research/scenic)**
@@ -2615,6 +2625,12 @@
 
 ## MultiModal
 
+- 2023-06-21, **Epitaxy enhancement in oxide/tungsten heterostructures by harnessing the interface adhesion**, Anna L. Ravensburg et.al., Paper: [http://arxiv.org/abs/2306.12233v1](http://arxiv.org/abs/2306.12233v1)
+- 2023-06-21, **Lightweight wood panel defect detection method incorporating attention mechanism and feature fusion network**, Yongxin Cao et.al., Paper: [http://arxiv.org/abs/2306.12113v1](http://arxiv.org/abs/2306.12113v1)
+- 2023-06-21, **MSW-Transformer: Multi-Scale Shifted Windows Transformer Networks for 12-Lead ECG Classification**, Renjie Cheng et.al., Paper: [http://arxiv.org/abs/2306.12098v1](http://arxiv.org/abs/2306.12098v1)
+- 2023-06-21, **Multimodality Fusion for Smart Healthcare: a Journey from Data, Information, Knowledge to Wisdom**, Thanveer Shaik et.al., Paper: [http://arxiv.org/abs/2306.11963v1](http://arxiv.org/abs/2306.11963v1)
+- 2023-06-20, **Deep Fusion: Efficient Network Training via Pre-trained Initializations**, Hanna Mazzawi et.al., Paper: [http://arxiv.org/abs/2306.11903v1](http://arxiv.org/abs/2306.11903v1)
+- 2023-06-20, **Geometric Positivity of the Fusion Products of Unitary Vertex Operator Algebra Modules**, Bin Gui et.al., Paper: [http://arxiv.org/abs/2306.11856v1](http://arxiv.org/abs/2306.11856v1)
 - 2023-06-20, **On Harada's identity and some other consequences of Burnside's vanishing property**, S. Burciu et.al., Paper: [http://arxiv.org/abs/2306.11721v1](http://arxiv.org/abs/2306.11721v1)
 - 2023-06-20, **Improving Image Captioning Descriptiveness by Ranking and LLM-based Fusion**, Simone Bianco et.al., Paper: [http://arxiv.org/abs/2306.11593v1](http://arxiv.org/abs/2306.11593v1)
 - 2023-06-20, **A Model Fusion Distributed Kalman Filter For Non-Gaussian Observation Noise**, Xuemei Mao et.al., Paper: [http://arxiv.org/abs/2306.11476v1](http://arxiv.org/abs/2306.11476v1)
