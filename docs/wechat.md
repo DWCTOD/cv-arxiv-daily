@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-06-22, **A Comparison of Time-based Models for Multimodal Emotion Recognition**, Ege Kesim et.al., Paper: [http://arxiv.org/abs/2306.13076v1](http://arxiv.org/abs/2306.13076v1)
+- 2023-06-22, **Auditing Predictive Models for Intersectional Biases**, Kate S. Boxer et.al., Paper: [http://arxiv.org/abs/2306.13064v1](http://arxiv.org/abs/2306.13064v1)
+- 2023-06-22, **Impacts and Risk of Generative AI Technology on Cyber Defense**, Subash Neupane et.al., Paper: [http://arxiv.org/abs/2306.13033v1](http://arxiv.org/abs/2306.13033v1)
+- 2023-06-22, **Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**, Jun-Ho Kim et.al., Paper: [http://arxiv.org/abs/2306.13020v1](http://arxiv.org/abs/2306.13020v1)
+- 2023-06-22, **Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers**, Qi Jiang et.al., Paper: [http://arxiv.org/abs/2306.12992v1](http://arxiv.org/abs/2306.12992v1)
+- 2023-06-22, **Can a single image processing algorithm work equally well across all phases of DCE-MRI?**, Adam G. Tattersall et.al., Paper: [http://arxiv.org/abs/2306.12988v1](http://arxiv.org/abs/2306.12988v1)
+- 2023-06-22, **Radiation Emission during the Erasure of Magnetic Monopoles**, Maximilian Bachmaier et.al., Paper: [http://arxiv.org/abs/2306.12958v1](http://arxiv.org/abs/2306.12958v1)
+- 2023-06-22, **Robust Semantic Segmentation: Strong Adversarial Attacks and Fast Training of Robust Models**, Francesco Croce et.al., Paper: [http://arxiv.org/abs/2306.12941v1](http://arxiv.org/abs/2306.12941v1)
+- 2023-06-22, **Deficit of Hot Dust in Low-redshift Active Galactic Nuclei**, Suyeon Son et.al., Paper: [http://arxiv.org/abs/2306.12927v1](http://arxiv.org/abs/2306.12927v1)
+- 2023-06-22, **Machine-Learning-Assisted and Real-Time-Feedback-Controlled Growth of InAs/GaAs Quantum Dots**, Chao Shen et.al., Paper: [http://arxiv.org/abs/2306.12898v1](http://arxiv.org/abs/2306.12898v1)
 - 2023-06-21, **Spectroscopy of the Supernova H0pe Host Galaxy at Redshift 1.78**, M. Polletta et.al., Paper: [http://arxiv.org/abs/2306.12385v1](http://arxiv.org/abs/2306.12385v1)
 - 2023-06-21, **Geometric Algorithms for $k$-NN Poisoning**, Diego Ihara Centurion et.al., Paper: [http://arxiv.org/abs/2306.12377v1](http://arxiv.org/abs/2306.12377v1)
 - 2023-06-21, **M-VAAL: Multimodal Variational Adversarial Active Learning for Downstream Medical Image Analysis Tasks**, Bidur Khanal et.al., Paper: [http://arxiv.org/abs/2306.12376v1](http://arxiv.org/abs/2306.12376v1), Code: **[https://github.com/bidur-khanal/mvaal-medical-images](https://github.com/bidur-khanal/mvaal-medical-images)**
@@ -2625,6 +2635,13 @@
 
 ## MultiModal
 
+- 2023-06-22, **Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**, Jun-Ho Kim et.al., Paper: [http://arxiv.org/abs/2306.13020v1](http://arxiv.org/abs/2306.13020v1)
+- 2023-06-22, **Development of Impedance Sheath Boundary Condition in Stix Finite Element RF Code**, Christina Migliore et.al., Paper: [http://arxiv.org/abs/2306.12930v1](http://arxiv.org/abs/2306.12930v1)
+- 2023-06-22, **Combination of Measurement Data and Domain Knowledge for Simulation of Halbach Arrays with Bayesian Inference**, Luisa Fleig et.al., Paper: [http://arxiv.org/abs/2306.12844v1](http://arxiv.org/abs/2306.12844v1)
+- 2023-06-22, **FlowFace++: Explicit Semantic Flow-supervised End-to-End Face Swapping**, Yu Zhang et.al., Paper: [http://arxiv.org/abs/2306.12686v1](http://arxiv.org/abs/2306.12686v1)
+- 2023-06-22, **SEAL: Simultaneous Exploration and Localization in Multi-Robot Systems**, Ehsan Latif et.al., Paper: [http://arxiv.org/abs/2306.12623v1](http://arxiv.org/abs/2306.12623v1)
+- 2023-06-22, **RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**, Jin Ma et.al., Paper: [http://arxiv.org/abs/2306.12621v1](http://arxiv.org/abs/2306.12621v1)
+- 2023-06-21, **Exploring the Role of Audio in Video Captioning**, Yuhan Shen et.al., Paper: [http://arxiv.org/abs/2306.12559v1](http://arxiv.org/abs/2306.12559v1)
 - 2023-06-21, **Epitaxy enhancement in oxide/tungsten heterostructures by harnessing the interface adhesion**, Anna L. Ravensburg et.al., Paper: [http://arxiv.org/abs/2306.12233v1](http://arxiv.org/abs/2306.12233v1)
 - 2023-06-21, **Lightweight wood panel defect detection method incorporating attention mechanism and feature fusion network**, Yongxin Cao et.al., Paper: [http://arxiv.org/abs/2306.12113v1](http://arxiv.org/abs/2306.12113v1)
 - 2023-06-21, **MSW-Transformer: Multi-Scale Shifted Windows Transformer Networks for 12-Lead ECG Classification**, Renjie Cheng et.al., Paper: [http://arxiv.org/abs/2306.12098v1](http://arxiv.org/abs/2306.12098v1)
