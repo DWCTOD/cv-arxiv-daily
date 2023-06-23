@@ -1,4 +1,4 @@
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 
 ## Video_Classification
 
@@ -12,8 +12,8 @@
 |**2023-06-21**|**Linear and Non-Linear Barrier Coverage in Deterministic and Uncertain environment in WSNs: A New Classification**|Adda Boualem et.al.|[2306.12355v1](http://arxiv.org/abs/2306.12355v1)|null|
 |**2023-06-21**|**An efficient, provably exact algorithm for the 0-1 loss linear classification problem**|Xi He et.al.|[2306.12344v1](http://arxiv.org/abs/2306.12344v1)|null|
 |**2023-06-21**|**Geometric Pooling: maintaining more useful information**|Hao Xu et.al.|[2306.12341v1](http://arxiv.org/abs/2306.12341v1)|null|
-|**2023-06-21**|**Do you still need a manual smart contract audit?**|Isaac David et.al.|[2306.12338v1](http://arxiv.org/abs/2306.12338v1)|null|
-|**2023-06-21**|**Beyond Deep Ensembles -- A Large-Scale Evaluation of Bayesian Deep Learning under Distribution Shift**|Florian Seligmann et.al.|[2306.12306v1](http://arxiv.org/abs/2306.12306v1)|**[link](https://github.com/bdl-authors/beyond-ensembles)**|
+|**2023-06-22**|**Do you still need a manual smart contract audit?**|Isaac David et.al.|[2306.12338v2](http://arxiv.org/abs/2306.12338v2)|null|
+|**2023-06-22**|**Beyond Deep Ensembles: A Large-Scale Evaluation of Bayesian Deep Learning under Distribution Shift**|Florian Seligmann et.al.|[2306.12306v2](http://arxiv.org/abs/2306.12306v2)|**[link](https://github.com/bdl-authors/beyond-ensembles)**|
 |**2023-06-20**|**Segment Anything Model (SAM) for Radiation Oncology**|Lian Zhang et.al.|[2306.11730v1](http://arxiv.org/abs/2306.11730v1)|null|
 |**2023-06-20**|**Dense Video Object Captioning from Disjoint Supervision**|Xingyi Zhou et.al.|[2306.11729v1](http://arxiv.org/abs/2306.11729v1)|**[link](https://github.com/google-research/scenic)**|
 |**2023-06-20**|**How can objects help action recognition?**|Xingyi Zhou et.al.|[2306.11726v1](http://arxiv.org/abs/2306.11726v1)|**[link](https://github.com/google-research/scenic)**|
