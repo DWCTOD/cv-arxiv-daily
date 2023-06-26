@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**Adversarial Robustness Certification for Bayesian Neural Networks**|Matthew Wicker et.al.|[2306.13614v1](http://arxiv.org/abs/2306.13614v1)|**[link](https://github.com/matthewwicker/adversarialrobustnesscertificationforbnns)**|
+|**2023-06-23**|**TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**|Xinda Li et.al.|[2306.13592v1](http://arxiv.org/abs/2306.13592v1)|null|
+|**2023-06-23**|**Estimating Residential Solar Potential Using Aerial Data**|Ross Goroshin et.al.|[2306.13564v1](http://arxiv.org/abs/2306.13564v1)|null|
+|**2023-06-23**|**Efficient Model Selection for Predictive Pattern Mining Model by Safe Pattern Pruning**|Takumi Yoshida et.al.|[2306.13561v1](http://arxiv.org/abs/2306.13561v1)|null|
+|**2023-06-23**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen et.al.|[2306.13557v1](http://arxiv.org/abs/2306.13557v1)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
+|**2023-06-23**|**Comparing the Efficacy of Fine-Tuning and Meta-Learning for Few-Shot Policy Imitation**|Massimiliano Patacchiola et.al.|[2306.13554v1](http://arxiv.org/abs/2306.13554v1)|**[link](https://github.com/mpatacchiola/imujoco)**|
+|**2023-06-23**|**Manifold Contrastive Learning with Variational Lie Group Operators**|Kion Fallah et.al.|[2306.13544v1](http://arxiv.org/abs/2306.13544v1)|null|
+|**2023-06-23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541v1](http://arxiv.org/abs/2306.13541v1)|**[link](https://github.com/cs-bio/torgnn)**|
+|**2023-06-23**|**Topological learning for the classification of disorder: an application to the design of metasurfaces**|Tristan Madeleine et.al.|[2306.13540v1](http://arxiv.org/abs/2306.13540v1)|null|
+|**2023-06-23**|**WBCAtt: A White Blood Cell Dataset Annotated with Detailed Morphological Attributes**|Satoshi Tsutsui et.al.|[2306.13531v1](http://arxiv.org/abs/2306.13531v1)|**[link](https://github.com/apple2373/wbcatt)**|
 |**2023-06-22**|**A Comparison of Time-based Models for Multimodal Emotion Recognition**|Ege Kesim et.al.|[2306.13076v1](http://arxiv.org/abs/2306.13076v1)|null|
 |**2023-06-22**|**Auditing Predictive Models for Intersectional Biases**|Kate S. Boxer et.al.|[2306.13064v1](http://arxiv.org/abs/2306.13064v1)|null|
 |**2023-06-22**|**Impacts and Risk of Generative AI Technology on Cyber Defense**|Subash Neupane et.al.|[2306.13033v1](http://arxiv.org/abs/2306.13033v1)|null|
@@ -2643,6 +2653,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631v1](http://arxiv.org/abs/2306.13631v1)|null|
+|**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595v1](http://arxiv.org/abs/2306.13595v1)|null|
+|**2023-06-23**|**TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**|Xinda Li et.al.|[2306.13592v1](http://arxiv.org/abs/2306.13592v1)|null|
+|**2023-06-23**|**Laser induced proton acceleration by resonant nano-rod antenna for fusion**|István Papp et.al.|[2306.13445v1](http://arxiv.org/abs/2306.13445v1)|null|
+|**2023-06-23**|**Explainable Lifelong Stream Learning Based on "Glocal" Pairwise Fusion**|Chu Kiong Loo et.al.|[2306.13410v1](http://arxiv.org/abs/2306.13410v1)|null|
+|**2023-06-23**|**Mutually Guided Few-shot Learning for Relational Triple Extraction**|Chengmei Yang et.al.|[2306.13310v1](http://arxiv.org/abs/2306.13310v1)|**[link](https://github.com/ycm094/mg-fte-main)**|
+|**2023-06-23**|**Learning Scene Flow With Skeleton Guidance For 3D Action Recognition**|Vasileios Magoulianitis et.al.|[2306.13285v1](http://arxiv.org/abs/2306.13285v1)|null|
+|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
+|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v1](http://arxiv.org/abs/2306.13186v1)|null|
 |**2023-06-22**|**Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**|Jun-Ho Kim et.al.|[2306.13020v1](http://arxiv.org/abs/2306.13020v1)|null|
 |**2023-06-22**|**Development of Impedance Sheath Boundary Condition in Stix Finite Element RF Code**|Christina Migliore et.al.|[2306.12930v1](http://arxiv.org/abs/2306.12930v1)|null|
 |**2023-06-22**|**Combination of Measurement Data and Domain Knowledge for Simulation of Halbach Arrays with Bayesian Inference**|Luisa Fleig et.al.|[2306.12844v1](http://arxiv.org/abs/2306.12844v1)|null|
