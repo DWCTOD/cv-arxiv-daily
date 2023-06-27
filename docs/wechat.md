@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-06-26, **FunQA: Towards Surprising Video Comprehension**, Binzhu Xie et.al., Paper: [http://arxiv.org/abs/2306.14899v1](http://arxiv.org/abs/2306.14899v1), Code: **[https://github.com/jingkang50/funqa](https://github.com/jingkang50/funqa)**
+- 2023-06-26, **Mapping out phase diagrams with generative classifiers**, Julian Arnold et.al., Paper: [http://arxiv.org/abs/2306.14894v1](http://arxiv.org/abs/2306.14894v1)
+- 2023-06-26, **Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**, Majed El Helou et.al., Paper: [http://arxiv.org/abs/2306.14891v1](http://arxiv.org/abs/2306.14891v1), Code: **[https://github.com/majedelhelou/fc-diffusion](https://github.com/majedelhelou/fc-diffusion)**
+- 2023-06-26, **A Fully Unsupervised Instance Segmentation Technique for White Blood Cell Images**, Shrijeet Biswas et.al., Paper: [http://arxiv.org/abs/2306.14875v1](http://arxiv.org/abs/2306.14875v1)
+- 2023-06-26, **ANYmal Parkour: Learning Agile Navigation for Quadrupedal Robots**, David Hoeller et.al., Paper: [http://arxiv.org/abs/2306.14874v1](http://arxiv.org/abs/2306.14874v1)
+- 2023-06-26, **Leveraging Task Structures for Improved Identifiability in Neural Network Representations**, Wenlin Chen et.al., Paper: [http://arxiv.org/abs/2306.14861v1](http://arxiv.org/abs/2306.14861v1)
+- 2023-06-26, **ViNT: A Foundation Model for Visual Navigation**, Dhruv Shah et.al., Paper: [http://arxiv.org/abs/2306.14846v1](http://arxiv.org/abs/2306.14846v1)
+- 2023-06-26, **An open-source robust machine learning platform for real-time detection and classification of 2D material flakes**, Jan-Lucas Uslu et.al., Paper: [http://arxiv.org/abs/2306.14845v1](http://arxiv.org/abs/2306.14845v1)
+- 2023-06-26, **A Flyweight CNN with Adaptive Decoder for Schistosoma mansoni Egg Detection**, Leonardo de Melo Joao et.al., Paper: [http://arxiv.org/abs/2306.14840v1](http://arxiv.org/abs/2306.14840v1)
+- 2023-06-26, **Label-Aware Hyperbolic Embeddings for Fine-grained Emotion Classification**, Chih-Yao Chen et.al., Paper: [http://arxiv.org/abs/2306.14822v1](http://arxiv.org/abs/2306.14822v1), Code: **[https://github.com/dinobby/hypemo](https://github.com/dinobby/hypemo)**
 - 2023-06-23, **Adversarial Robustness Certification for Bayesian Neural Networks**, Matthew Wicker et.al., Paper: [http://arxiv.org/abs/2306.13614v1](http://arxiv.org/abs/2306.13614v1), Code: **[https://github.com/matthewwicker/adversarialrobustnesscertificationforbnns](https://github.com/matthewwicker/adversarialrobustnesscertificationforbnns)**
 - 2023-06-23, **TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**, Xinda Li et.al., Paper: [http://arxiv.org/abs/2306.13592v1](http://arxiv.org/abs/2306.13592v1)
 - 2023-06-23, **Estimating Residential Solar Potential Using Aerial Data**, Ross Goroshin et.al., Paper: [http://arxiv.org/abs/2306.13564v1](http://arxiv.org/abs/2306.13564v1)
@@ -2645,6 +2655,16 @@
 
 ## MultiModal
 
+- 2023-06-26, **Fusion rules and shrinking rules of topological orders in five dimensions**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2306.14611v1](http://arxiv.org/abs/2306.14611v1)
+- 2023-06-26, **CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer**, Ming Kang et.al., Paper: [http://arxiv.org/abs/2306.14590v1](http://arxiv.org/abs/2306.14590v1), Code: **[https://github.com/mkang315/CST-YOLO](https://github.com/mkang315/CST-YOLO)**
+- 2023-06-26, **A Badminton Recognition and Tracking System Based on Context Multi-feature Fusion**, Xinyu Wang et.al., Paper: [http://arxiv.org/abs/2306.14492v1](http://arxiv.org/abs/2306.14492v1)
+- 2023-06-26, **TaiChi Action Capture and Performance Analysis with Multi-view RGB Cameras**, Jianwei Li et.al., Paper: [http://arxiv.org/abs/2306.14490v1](http://arxiv.org/abs/2306.14490v1)
+- 2023-06-26, **Azimuthal asymmetries in $D$-meson and jet production at the EIC**, Khatiza Banu et.al., Paper: [http://arxiv.org/abs/2306.14463v1](http://arxiv.org/abs/2306.14463v1)
+- 2023-06-26, **Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection**, Yujiang Pu et.al., Paper: [http://arxiv.org/abs/2306.14451v1](http://arxiv.org/abs/2306.14451v1)
+- 2023-06-26, **Understanding Excitations in $^{59,61}$Co, $^{59}$Ni**, Samuel Ajayi et.al., Paper: [http://arxiv.org/abs/2306.14368v1](http://arxiv.org/abs/2306.14368v1)
+- 2023-06-25, **Controllable fusion of excitons in two-dimensional semiconductors**, Sergueï V. Andreev et.al., Paper: [http://arxiv.org/abs/2306.14225v1](http://arxiv.org/abs/2306.14225v1)
+- 2023-06-25, **AV-SepFormer: Cross-Attention SepFormer for Audio-Visual Target Speaker Extraction**, Jiuxin Lin et.al., Paper: [http://arxiv.org/abs/2306.14170v1](http://arxiv.org/abs/2306.14170v1)
+- 2023-06-25, **Multi-exposure diffraction pattern fusion applied to enable wider-angle transmission Kikuchi diffraction with direct electron detectors**, Tianbi Zhang et.al., Paper: [http://arxiv.org/abs/2306.14167v1](http://arxiv.org/abs/2306.14167v1)
 - 2023-06-23, **OpenMask3D: Open-Vocabulary 3D Instance Segmentation**, Ayça Takmaz et.al., Paper: [http://arxiv.org/abs/2306.13631v1](http://arxiv.org/abs/2306.13631v1)
 - 2023-06-26, **Autoencoders for Real-Time SUEP Detection**, Simranjit Singh Chhibra et.al., Paper: [http://arxiv.org/abs/2306.13595v2](http://arxiv.org/abs/2306.13595v2)
 - 2023-06-23, **TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**, Xinda Li et.al., Paper: [http://arxiv.org/abs/2306.13592v1](http://arxiv.org/abs/2306.13592v1)
