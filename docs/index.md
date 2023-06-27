@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-06-23**|**TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**|Xinda Li et.al.|[2306.13592v1](http://arxiv.org/abs/2306.13592v1)|null|
 |**2023-06-23**|**Estimating Residential Solar Potential Using Aerial Data**|Ross Goroshin et.al.|[2306.13564v1](http://arxiv.org/abs/2306.13564v1)|null|
 |**2023-06-23**|**Efficient Model Selection for Predictive Pattern Mining Model by Safe Pattern Pruning**|Takumi Yoshida et.al.|[2306.13561v1](http://arxiv.org/abs/2306.13561v1)|null|
-|**2023-06-23**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen et.al.|[2306.13557v1](http://arxiv.org/abs/2306.13557v1)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
+|**2023-06-26**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen Qiao et.al.|[2306.13557v2](http://arxiv.org/abs/2306.13557v2)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
 |**2023-06-23**|**Comparing the Efficacy of Fine-Tuning and Meta-Learning for Few-Shot Policy Imitation**|Massimiliano Patacchiola et.al.|[2306.13554v1](http://arxiv.org/abs/2306.13554v1)|**[link](https://github.com/mpatacchiola/imujoco)**|
 |**2023-06-23**|**Manifold Contrastive Learning with Variational Lie Group Operators**|Kion Fallah et.al.|[2306.13544v1](http://arxiv.org/abs/2306.13544v1)|null|
 |**2023-06-23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541v1](http://arxiv.org/abs/2306.13541v1)|**[link](https://github.com/cs-bio/torgnn)**|
@@ -2654,14 +2654,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631v1](http://arxiv.org/abs/2306.13631v1)|null|
-|**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595v1](http://arxiv.org/abs/2306.13595v1)|null|
+|**2023-06-26**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595v2](http://arxiv.org/abs/2306.13595v2)|null|
 |**2023-06-23**|**TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**|Xinda Li et.al.|[2306.13592v1](http://arxiv.org/abs/2306.13592v1)|null|
 |**2023-06-23**|**Laser induced proton acceleration by resonant nano-rod antenna for fusion**|István Papp et.al.|[2306.13445v1](http://arxiv.org/abs/2306.13445v1)|null|
 |**2023-06-23**|**Explainable Lifelong Stream Learning Based on "Glocal" Pairwise Fusion**|Chu Kiong Loo et.al.|[2306.13410v1](http://arxiv.org/abs/2306.13410v1)|null|
 |**2023-06-23**|**Mutually Guided Few-shot Learning for Relational Triple Extraction**|Chengmei Yang et.al.|[2306.13310v1](http://arxiv.org/abs/2306.13310v1)|**[link](https://github.com/ycm094/mg-fte-main)**|
 |**2023-06-23**|**Learning Scene Flow With Skeleton Guidance For 3D Action Recognition**|Vasileios Magoulianitis et.al.|[2306.13285v1](http://arxiv.org/abs/2306.13285v1)|null|
 |**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268v1](http://arxiv.org/abs/2306.13268v1)|null|
-|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v1](http://arxiv.org/abs/2306.13186v1)|null|
+|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v1](http://arxiv.org/abs/2306.13186v1)|**[link](https://github.com/data-engineering-and-semantics/openkgbiblio)**|
 |**2023-06-22**|**Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**|Jun-Ho Kim et.al.|[2306.13020v1](http://arxiv.org/abs/2306.13020v1)|null|
 |**2023-06-22**|**Development of Impedance Sheath Boundary Condition in Stix Finite Element RF Code**|Christina Migliore et.al.|[2306.12930v1](http://arxiv.org/abs/2306.12930v1)|null|
 |**2023-06-22**|**Combination of Measurement Data and Domain Knowledge for Simulation of Halbach Arrays with Bayesian Inference**|Luisa Fleig et.al.|[2306.12844v1](http://arxiv.org/abs/2306.12844v1)|null|
