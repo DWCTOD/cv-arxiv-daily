@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
+|**2023-06-27**|**Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs**|Navindu Leelarathna et.al.|[2306.15661v1](http://arxiv.org/abs/2306.15661v1)|null|
+|**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644v1](http://arxiv.org/abs/2306.15644v1)|null|
+|**2023-06-27**|**Biclustering random matrix partitions with an application to classification of forensic body fluids**|Chieh-Hsi Wu et.al.|[2306.15622v1](http://arxiv.org/abs/2306.15622v1)|null|
+|**2023-06-27**|**Recurrent Neural Network-coupled SPAD TCSPC System for Real-time Fluorescence Lifetime Imaging**|Yang Lin et.al.|[2306.15599v1](http://arxiv.org/abs/2306.15599v1)|null|
+|**2023-06-27**|**Optimizing Credit Limit Adjustments Under Adversarial Goals Using Reinforcement Learning**|Sherly Alfonso-Sánchez et.al.|[2306.15585v1](http://arxiv.org/abs/2306.15585v1)|null|
+|**2023-06-27**|**Parity doublet model for baryon octets: diquark classifications and mass hierarchy based on the quark-line diagram**|Takuya Minamikawa et.al.|[2306.15564v1](http://arxiv.org/abs/2306.15564v1)|null|
+|**2023-06-27**|**You Can Mask More For Extremely Low-Bitrate Image Compression**|Anqi Li et.al.|[2306.15561v1](http://arxiv.org/abs/2306.15561v1)|**[link](https://github.com/lianqi1008/mcm)**|
+|**2023-06-27**|**A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms**|Cristina Silvano et.al.|[2306.15552v1](http://arxiv.org/abs/2306.15552v1)|null|
+|**2023-06-27**|**Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames**|Yunfan Lu et.al.|[2306.15507v1](http://arxiv.org/abs/2306.15507v1)|null|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
 |**2023-06-26**|**Mapping out phase diagrams with generative classifiers**|Julian Arnold et.al.|[2306.14894v1](http://arxiv.org/abs/2306.14894v1)|null|
 |**2023-06-26**|**Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**|Majed El Helou et.al.|[2306.14891v1](http://arxiv.org/abs/2306.14891v1)|**[link](https://github.com/majedelhelou/fc-diffusion)**|
@@ -2663,6 +2673,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605v1](http://arxiv.org/abs/2306.15605v1)|null|
+|**2023-06-27**|**Gyrokinetic theory of toroidal Alfvén eigenmode saturation via nonlinear wave-wave coupling**|Zhiyong Qiu et.al.|[2306.15579v1](http://arxiv.org/abs/2306.15579v1)|null|
+|**2023-06-27**|**Multi-perspective Information Fusion Res2Net with RandomSpecmix for Fake Speech Detection**|Shunbo Dong et.al.|[2306.15389v1](http://arxiv.org/abs/2306.15389v1)|null|
+|**2023-06-27**|**SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion**|Jianbiao Mei et.al.|[2306.15349v1](http://arxiv.org/abs/2306.15349v1)|**[link](https://github.com/jieqianyu/ssc-rs)**|
+|**2023-06-27**|**Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems**|Josiah Smith et.al.|[2306.15341v1](http://arxiv.org/abs/2306.15341v1)|null|
+|**2023-06-27**|**GroundNLQ @ Ego4D Natural Language Queries Challenge 2023**|Zhijian Hou et.al.|[2306.15255v1](http://arxiv.org/abs/2306.15255v1)|**[link](https://github.com/houzhijian/groundnlq)**|
+|**2023-06-27**|**On Nonlinear Scattering of Drift Wave by Toroidal Alfven Eigenmode in Tokamak Plasmas**|Liu Chen et.al.|[2306.15238v1](http://arxiv.org/abs/2306.15238v1)|null|
+|**2023-06-27**|**From linear quantum system graphs to qubit graphs: Heralded generation of graph states**|Seungbeom Chin et.al.|[2306.15148v1](http://arxiv.org/abs/2306.15148v1)|null|
+|**2023-06-27**|**On Gibbs Sampling Architecture for Labeled Random Finite Sets Multi-Object Tracking**|Anthony Trezza et.al.|[2306.15135v1](http://arxiv.org/abs/2306.15135v1)|null|
+|**2023-06-26**|**The Art of Embedding Fusion: Optimizing Hate Speech Detection**|Mohammad Aflah Khan et.al.|[2306.14939v1](http://arxiv.org/abs/2306.14939v1)|**[link](https://github.com/aflah02/the-art-of-embedding-fusion-optimizing-hate-speech-detection)**|
 |**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611v1](http://arxiv.org/abs/2306.14611v1)|null|
 |**2023-06-26**|**CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer**|Ming Kang et.al.|[2306.14590v1](http://arxiv.org/abs/2306.14590v1)|**[link](https://github.com/mkang315/CST-YOLO)**|
 |**2023-06-26**|**A Badminton Recognition and Tracking System Based on Context Multi-feature Fusion**|Xinyu Wang et.al.|[2306.14492v1](http://arxiv.org/abs/2306.14492v1)|null|
