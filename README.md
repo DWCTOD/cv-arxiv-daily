@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Class Numbers, Congruent Numbers and Umbral Moonshine**|Miranda C. N. Cheng et.al.|[2306.16414v1](http://arxiv.org/abs/2306.16414v1)|null|
+|**2023-06-28**|**Information-Computation Tradeoffs for Learning Margin Halfspaces with Random Classification Noise**|Ilias Diakonikolas et.al.|[2306.16352v1](http://arxiv.org/abs/2306.16352v1)|null|
+|**2023-06-28**|**Accurate, uncertainty-aware classification of molecular chemical motifs from multi-modal X-ray absorption spectroscopy**|Matthew R. Carbone et.al.|[2306.16349v1](http://arxiv.org/abs/2306.16349v1)|null|
+|**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324v1](http://arxiv.org/abs/2306.16324v1)|null|
+|**2023-06-28**|**Universal theory of spin-momentum-orbital-site locking**|Yuntian Liu et.al.|[2306.16312v1](http://arxiv.org/abs/2306.16312v1)|null|
+|**2023-06-28**|**Generalizing Surgical Instruments Segmentation to Unseen Domains with One-to-Many Synthesis**|An Wang et.al.|[2306.16285v1](http://arxiv.org/abs/2306.16285v1)|**[link](https://github.com/lofrienger/onetomany_toolsynseg)**|
+|**2023-06-28**|**Emotion Analysis of Tweets Banning Education in Afghanistan**|Mohammad Ali Hussiny et.al.|[2306.16268v1](http://arxiv.org/abs/2306.16268v1)|null|
+|**2023-06-28**|**Reconfigurable Robot Control Using Flexible Coupling Mechanisms**|Sha Yi et.al.|[2306.16265v1](http://arxiv.org/abs/2306.16265v1)|null|
+|**2023-06-28**|**Latent SDEs on Homogeneous Spaces**|Sebastian Zeng et.al.|[2306.16248v1](http://arxiv.org/abs/2306.16248v1)|null|
+|**2023-06-28**|**Investigating the Uncanny Valley Phenomenon Through the Temporal Dynamics of Neural Responses to Virtual Characters**|Chiara Gorlini et.al.|[2306.16233v1](http://arxiv.org/abs/2306.16233v1)|null|
 |**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
 |**2023-06-27**|**Enhancing Representation Learning on High-Dimensional, Small-Size Tabular Data: A Divide and Conquer Method with Ensembled VAEs**|Navindu Leelarathna et.al.|[2306.15661v1](http://arxiv.org/abs/2306.15661v1)|null|
 |**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644v1](http://arxiv.org/abs/2306.15644v1)|null|
@@ -2669,6 +2679,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329v1](http://arxiv.org/abs/2306.16329v1)|null|
+|**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324v1](http://arxiv.org/abs/2306.16324v1)|null|
+|**2023-06-28**|**Roadmap towards Majorana qubits and nonabelian physics in quantum dot-based minimal Kitaev chains**|Athanasios Tsintzis et.al.|[2306.16289v1](http://arxiv.org/abs/2306.16289v1)|null|
+|**2023-06-28**|**$\mathbf{C}^2$Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection**|Maoxun Yuan et.al.|[2306.16175v1](http://arxiv.org/abs/2306.16175v1)|null|
+|**2023-06-28**|**Dyck Paths and Topological Quantum Computation**|Vivek Kumar Singh et.al.|[2306.16062v1](http://arxiv.org/abs/2306.16062v1)|null|
+|**2023-06-28**|**Stone Needle: A General Multimodal Large-scale Model Framework towards Healthcare**|Weihua Liu et.al.|[2306.16034v1](http://arxiv.org/abs/2306.16034v1)|null|
+|**2023-06-28**|**Prompting Large Language Models for Zero-Shot Domain Adaptation in Speech Recognition**|Yuang Li et.al.|[2306.16007v1](http://arxiv.org/abs/2306.16007v1)|null|
+|**2023-06-28**|**Tensorformer: Normalized Matrix Attention Transformer for High-quality Point Cloud Reconstruction**|Hui Tian et.al.|[2306.15989v1](http://arxiv.org/abs/2306.15989v1)|null|
+|**2023-06-28**|**AFPN: Asymptotic Feature Pyramid Network for Object Detection**|Guoyu Yang et.al.|[2306.15988v1](http://arxiv.org/abs/2306.15988v1)|null|
+|**2023-06-28**|**Knowledge-Enhanced Hierarchical Information Correlation Learning for Multi-Modal Rumor Detection**|Jiawei Liu et.al.|[2306.15946v1](http://arxiv.org/abs/2306.15946v1)|null|
 |**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605v1](http://arxiv.org/abs/2306.15605v1)|null|
 |**2023-06-27**|**Gyrokinetic theory of toroidal Alfvén eigenmode saturation via nonlinear wave-wave coupling**|Zhiyong Qiu et.al.|[2306.15579v1](http://arxiv.org/abs/2306.15579v1)|null|
 |**2023-06-27**|**Multi-perspective Information Fusion Res2Net with RandomSpecmix for Fake Speech Detection**|Shunbo Dong et.al.|[2306.15389v1](http://arxiv.org/abs/2306.15389v1)|null|
