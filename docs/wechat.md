@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-06-29, **An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**, Zitian Chen et.al., Paper: [http://arxiv.org/abs/2306.17165v1](http://arxiv.org/abs/2306.17165v1)
+- 2023-06-29, **Can Machines Garden? Systematically Comparing the AlphaGarden vs. Professional Horticulturalists**, Simeon Adebola et.al., Paper: [http://arxiv.org/abs/2306.17162v1](http://arxiv.org/abs/2306.17162v1)
+- 2023-06-29, **FogROS2-SGC: A ROS2 Cloud Robotics Platform for Secure Global Connectivity**, Kaiyuan Chen et.al., Paper: [http://arxiv.org/abs/2306.17157v1](http://arxiv.org/abs/2306.17157v1)
+- 2023-06-29, **Orbit Classification of asteroids using implementation of radial Basis Function on Support Vector Machines**, Yashvir Tiberwal et.al., Paper: [http://arxiv.org/abs/2306.17138v1](http://arxiv.org/abs/2306.17138v1)
+- 2023-06-29, **On separably integrable symmetric convex bodies**, Vladyslav Yaskin et.al., Paper: [http://arxiv.org/abs/2306.17127v1](http://arxiv.org/abs/2306.17127v1)
+- 2023-06-29, **PVP: Personalized Video Prior for Editable Dynamic Portraits using StyleGAN**, Kai-En Lin et.al., Paper: [http://arxiv.org/abs/2306.17123v1](http://arxiv.org/abs/2306.17123v1)
+- 2023-06-29, **Learning Nuclei Representations with Masked Image Modelling**, Piotr Wójcik et.al., Paper: [http://arxiv.org/abs/2306.17116v1](http://arxiv.org/abs/2306.17116v1)
+- 2023-06-29, **Deep Ensemble for Rotorcraft Attitude Prediction**, Hikmat Khan et.al., Paper: [http://arxiv.org/abs/2306.17104v1](http://arxiv.org/abs/2306.17104v1)
+- 2023-06-29, **Twice Binnable Color Filter Arrays**, Mritunjay Singh et.al., Paper: [http://arxiv.org/abs/2306.17078v1](http://arxiv.org/abs/2306.17078v1)
+- 2023-06-29, **Extremal behavior of reduced type of one dimensional rings**, Sarasij Maitra et.al., Paper: [http://arxiv.org/abs/2306.17069v1](http://arxiv.org/abs/2306.17069v1)
 - 2023-06-28, **Class Numbers, Congruent Numbers and Umbral Moonshine**, Miranda C. N. Cheng et.al., Paper: [http://arxiv.org/abs/2306.16414v1](http://arxiv.org/abs/2306.16414v1)
 - 2023-06-28, **Information-Computation Tradeoffs for Learning Margin Halfspaces with Random Classification Noise**, Ilias Diakonikolas et.al., Paper: [http://arxiv.org/abs/2306.16352v1](http://arxiv.org/abs/2306.16352v1)
 - 2023-06-28, **Accurate, uncertainty-aware classification of molecular chemical motifs from multi-modal X-ray absorption spectroscopy**, Matthew R. Carbone et.al., Paper: [http://arxiv.org/abs/2306.16349v1](http://arxiv.org/abs/2306.16349v1)
@@ -2675,6 +2685,15 @@
 
 ## MultiModal
 
+- 2023-06-29, **MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2306.17000v1](http://arxiv.org/abs/2306.17000v1)
+- 2023-06-29, **Integrating Large Pre-trained Models into Multimodal Named Entity Recognition with Evidential Fusion**, Weide Liu et.al., Paper: [http://arxiv.org/abs/2306.16991v1](http://arxiv.org/abs/2306.16991v1)
+- 2023-06-29, **RF plugging of multi-mirror machines**, Tal Miller et.al., Paper: [http://arxiv.org/abs/2306.16970v1](http://arxiv.org/abs/2306.16970v1)
+- 2023-06-29, **MIS-FM: 3D Medical Image Segmentation using Foundation Models Pretrained on a Large-Scale Unannotated Dataset**, Guotai Wang et.al., Paper: [http://arxiv.org/abs/2306.16925v1](http://arxiv.org/abs/2306.16925v1), Code: **[https://github.com/openmedlab/mis-fm](https://github.com/openmedlab/mis-fm)**
+- 2023-06-29, **End-to-End Learnable Multi-Scale Feature Compression for VCM**, Yeongwoong Kim et.al., Paper: [http://arxiv.org/abs/2306.16670v1](http://arxiv.org/abs/2306.16670v1)
+- 2023-06-29, **Deep Equilibrium Multimodal Fusion**, Jinhong Ni et.al., Paper: [http://arxiv.org/abs/2306.16645v1](http://arxiv.org/abs/2306.16645v1)
+- 2023-06-28, **Topological Defect Lines in bosonized Parafermionic CFTs**, Babak Haghighat et.al., Paper: [http://arxiv.org/abs/2306.16555v1](http://arxiv.org/abs/2306.16555v1)
+- 2023-06-28, **Leveraging HPC Profiling & Tracing Tools to Understand the Performance of Particle-in-Cell Monte Carlo Simulations**, Jeremy J. Williams et.al., Paper: [http://arxiv.org/abs/2306.16512v1](http://arxiv.org/abs/2306.16512v1)
+- 2023-06-28, **Effects of surface chemical modifications on the adhesion of metallic interfaces. An high-throughput analysis**, Emiliano Poli et.al., Paper: [http://arxiv.org/abs/2306.16508v1](http://arxiv.org/abs/2306.16508v1)
 - 2023-06-28, **DiffComplete: Diffusion-based Generative 3D Shape Completion**, Ruihang Chu et.al., Paper: [http://arxiv.org/abs/2306.16329v1](http://arxiv.org/abs/2306.16329v1)
 - 2023-06-28, **DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**, Yiwen Zhang et.al., Paper: [http://arxiv.org/abs/2306.16324v1](http://arxiv.org/abs/2306.16324v1)
 - 2023-06-28, **Roadmap towards Majorana qubits and nonabelian physics in quantum dot-based minimal Kitaev chains**, Athanasios Tsintzis et.al., Paper: [http://arxiv.org/abs/2306.16289v1](http://arxiv.org/abs/2306.16289v1)
