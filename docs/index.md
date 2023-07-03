@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v1](http://arxiv.org/abs/2306.17842v1)|null|
+|**2023-06-30**|**Learning Evacuee Models from Robot-Guided Emergency Evacuation Experiments**|Mollik Nayyar et.al.|[2306.17824v1](http://arxiv.org/abs/2306.17824v1)|null|
+|**2023-06-30**|**Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**|Theophile Gervet et.al.|[2306.17817v1](http://arxiv.org/abs/2306.17817v1)|null|
+|**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805v1](http://arxiv.org/abs/2306.17805v1)|null|
+|**2023-06-30**|**Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification**|Kishore Babu Nampalle et.al.|[2306.17794v1](http://arxiv.org/abs/2306.17794v1)|null|
+|**2023-06-30**|**Precision Anti-Cancer Drug Selection via Neural Ranking**|Vishal Dey et.al.|[2306.17771v1](http://arxiv.org/abs/2306.17771v1)|null|
+|**2023-06-30**|**Improved NL2SQL based on Multi-layer Expert Network**|Chenduo Hao et.al.|[2306.17727v1](http://arxiv.org/abs/2306.17727v1)|null|
+|**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717v1](http://arxiv.org/abs/2306.17717v1)|null|
+|**2023-06-30**|**Evaluation of the Benefits of Zero Velocity Update in Decentralized EKF-Based Cooperative Localization Algorithms for GNSS-Denied Multi-Robot Systems**|Cagri Kilic et.al.|[2306.17703v1](http://arxiv.org/abs/2306.17703v1)|null|
+|**2023-06-30**|**Generalized Time Warping Invariant Dictionary Learning for Time Series Classification and Clustering**|Ruiyu Xu et.al.|[2306.17690v1](http://arxiv.org/abs/2306.17690v1)|null|
 |**2023-06-29**|**An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**|Zitian Chen et.al.|[2306.17165v1](http://arxiv.org/abs/2306.17165v1)|null|
 |**2023-06-29**|**Can Machines Garden? Systematically Comparing the AlphaGarden vs. Professional Horticulturalists**|Simeon Adebola et.al.|[2306.17162v1](http://arxiv.org/abs/2306.17162v1)|null|
 |**2023-06-29**|**FogROS2-SGC: A ROS2 Cloud Robotics Platform for Secure Global Connectivity**|Kaiyuan Chen et.al.|[2306.17157v1](http://arxiv.org/abs/2306.17157v1)|null|
@@ -2693,6 +2703,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Evidence of free-bound transitions in warm dense matter and their impact on equation-of-state measurements**|Maximilian P. Böhme et.al.|[2306.17653v1](http://arxiv.org/abs/2306.17653v1)|null|
+|**2023-06-30**|**Projectile Energy and Entrance Channel Mass-Asymmetry Effects on Incomplete Fusion of 12C + 169Tm, 16O + 169Tm and 16O + 75As Systems at 4-7.5MeV/Nucleon Energy Beam**|Getahun Kebede et.al.|[2306.17552v1](http://arxiv.org/abs/2306.17552v1)|null|
+|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|null|
+|**2023-06-30**|**Robust stellarator optimization via flat mirror magnetic fields**|J. L. Velasco et.al.|[2306.17506v1](http://arxiv.org/abs/2306.17506v1)|null|
+|**2023-06-30**|**STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking**|Yubo Cui et.al.|[2306.17440v1](http://arxiv.org/abs/2306.17440v1)|null|
+|**2023-06-30**|**QuAVF: Quality-aware Audio-Visual Fusion for Ego4D Talking to Me Challenge**|Hsi-Che Lin et.al.|[2306.17404v1](http://arxiv.org/abs/2306.17404v1)|null|
+|**2023-06-29**|**FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude**|Feng Liu et.al.|[2306.17206v1](http://arxiv.org/abs/2306.17206v1)|null|
 |**2023-06-29**|**MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|[2306.17000v1](http://arxiv.org/abs/2306.17000v1)|null|
 |**2023-06-29**|**Integrating Large Pre-trained Models into Multimodal Named Entity Recognition with Evidential Fusion**|Weide Liu et.al.|[2306.16991v1](http://arxiv.org/abs/2306.16991v1)|null|
 |**2023-06-29**|**RF plugging of multi-mirror machines**|Tal Miller et.al.|[2306.16970v1](http://arxiv.org/abs/2306.16970v1)|null|
