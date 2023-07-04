@@ -1,8 +1,8 @@
-> Updated on 2023.07.03
+> Updated on 2023.07.04
 
 ## Video_Classification
 
-- 2023-06-30, **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**, Lijun Yu et.al., Paper: [http://arxiv.org/abs/2306.17842v1](http://arxiv.org/abs/2306.17842v1)
+- 2023-07-03, **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**, Lijun Yu et.al., Paper: [http://arxiv.org/abs/2306.17842v2](http://arxiv.org/abs/2306.17842v2)
 - 2023-06-30, **Learning Evacuee Models from Robot-Guided Emergency Evacuation Experiments**, Mollik Nayyar et.al., Paper: [http://arxiv.org/abs/2306.17824v1](http://arxiv.org/abs/2306.17824v1)
 - 2023-06-30, **Act3D: Infinite Resolution Action Detection Transformer for Robotic Manipulation**, Theophile Gervet et.al., Paper: [http://arxiv.org/abs/2306.17817v1](http://arxiv.org/abs/2306.17817v1)
 - 2023-06-30, **Topologically Attributed Graphs for Shape Discrimination**, Justin Curry et.al., Paper: [http://arxiv.org/abs/2306.17805v1](http://arxiv.org/abs/2306.17805v1)
