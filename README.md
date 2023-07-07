@@ -1,4 +1,4 @@
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 
 ## Video_Classification
 
@@ -2719,7 +2719,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-05**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334v1](http://arxiv.org/abs/2307.02334v1)|null|
+|**2023-07-06**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334v2](http://arxiv.org/abs/2307.02334v2)|null|
 |**2023-07-05**|**Multi-Scale Prototypical Transformer for Whole Slide Image Classification**|Saisai Ding et.al.|[2307.02308v1](http://arxiv.org/abs/2307.02308v1)|null|
 |**2023-07-05**|**Convolutions Through the Lens of Tensor Networks**|Felix Dangel et.al.|[2307.02275v1](http://arxiv.org/abs/2307.02275v1)|null|
 |**2023-07-05**|**Heralded three-photon entanglement from a single-photon source on a photonic chip**|Si Chen et.al.|[2307.02189v1](http://arxiv.org/abs/2307.02189v1)|null|
