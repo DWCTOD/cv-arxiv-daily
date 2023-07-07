@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Synthesizing Artistic Cinemagraphs from Text**|Aniruddha Mahapatra et.al.|[2307.03190v1](http://arxiv.org/abs/2307.03190v1)|null|
+|**2023-07-06**|**Long-term follow-up observations of extreme coronal line emitting galaxies**|Peter Clark et.al.|[2307.03182v1](http://arxiv.org/abs/2307.03182v1)|null|
+|**2023-07-06**|**Push Past Green: Learning to Look Behind Plant Foliage by Moving It**|Xiaoyu Zhang et.al.|[2307.03175v1](http://arxiv.org/abs/2307.03175v1)|null|
+|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|null|
+|**2023-07-06**|**Can Domain Adaptation Improve Accuracy and Fairness of Skin Lesion Classification?**|Janet Wang et.al.|[2307.03157v1](http://arxiv.org/abs/2307.03157v1)|null|
+|**2023-07-06**|**MultiVENT: Multilingual Videos of Events with Aligned Natural Text**|Kate Sanders et.al.|[2307.03153v1](http://arxiv.org/abs/2307.03153v1)|null|
+|**2023-07-06**|**Topology-Aware Loss for Aorta and Great Vessel Segmentation in Computed Tomography Images**|Seher Ozcelik et.al.|[2307.03137v1](http://arxiv.org/abs/2307.03137v1)|null|
+|**2023-07-06**|**Distilling Large Vision-Language Model with Out-of-Distribution Generalizability**|Xuanlin Li et.al.|[2307.03135v1](http://arxiv.org/abs/2307.03135v1)|**[link](https://github.com/xuanlinli17/large_vlm_distillation_ood)**|
+|**2023-07-06**|**Benchmarking Test-Time Adaptation against Distribution Shifts in Image Classification**|Yongcan Yu et.al.|[2307.03133v1](http://arxiv.org/abs/2307.03133v1)|**[link](https://github.com/yuyongcan/benchmark-tta)**|
+|**2023-07-06**|**VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering**|Zijun Yao et.al.|[2307.03130v1](http://arxiv.org/abs/2307.03130v1)|null|
 |**2023-07-05**|**Building Cooperative Embodied Agents Modularly with Large Language Models**|Hongxin Zhang et.al.|[2307.02485v1](http://arxiv.org/abs/2307.02485v1)|null|
 |**2023-07-05**|**Elastic Decision Transformer**|Yueh-Hua Wu et.al.|[2307.02484v1](http://arxiv.org/abs/2307.02484v1)|null|
 |**2023-07-05**|**What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**|Yan Zeng et.al.|[2307.02469v1](http://arxiv.org/abs/2307.02469v1)|null|
@@ -2723,6 +2733,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**String operators for Cheshire strings in topological phases**|Nathanan Tantivasadakarn et.al.|[2307.03180v1](http://arxiv.org/abs/2307.03180v1)|null|
+|**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054v1](http://arxiv.org/abs/2307.03054v1)|null|
+|**2023-07-06**|**Multi-modal multi-class Parkinson disease classification using CNN and decision level fusion**|Sushanta Kumar Sahu et.al.|[2307.02978v1](http://arxiv.org/abs/2307.02978v1)|null|
+|**2023-07-06**|**Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution**|Yuting Lu et.al.|[2307.02974v1](http://arxiv.org/abs/2307.02974v1)|null|
+|**2023-07-06**|**SegNetr: Rethinking the local-global interactions and skip connections in U-shaped networks**|Junlong Cheng et.al.|[2307.02953v1](http://arxiv.org/abs/2307.02953v1)|null|
+|**2023-07-06**|**Local Modules in Braided Monoidal 2-Categories**|Thibault D. Décoppet et.al.|[2307.02843v1](http://arxiv.org/abs/2307.02843v1)|null|
+|**2023-07-06**|**Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization**|Shiqi Deng et.al.|[2307.02836v1](http://arxiv.org/abs/2307.02836v1)|null|
+|**2023-07-06**|**UIT-Saviors at MEDVQA-GI 2023: Improving Multimodal Learning with Image Enhancement for Gastrointestinal Visual Question Answering**|Triet M. Thai et.al.|[2307.02783v1](http://arxiv.org/abs/2307.02783v1)|null|
+|**2023-07-06**|**SeLiNet: Sentiment enriched Lightweight Network for Emotion Recognition in Images**|Tuneer Khargonkar et.al.|[2307.02773v1](http://arxiv.org/abs/2307.02773v1)|null|
+|**2023-07-06**|**Cross-Modal Content Inference and Feature Enrichment for Cold-Start Recommendation**|Haokai Ma et.al.|[2307.02761v1](http://arxiv.org/abs/2307.02761v1)|null|
 |**2023-07-06**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334v2](http://arxiv.org/abs/2307.02334v2)|null|
 |**2023-07-05**|**Multi-Scale Prototypical Transformer for Whole Slide Image Classification**|Saisai Ding et.al.|[2307.02308v1](http://arxiv.org/abs/2307.02308v1)|null|
 |**2023-07-05**|**Convolutions Through the Lens of Tensor Networks**|Felix Dangel et.al.|[2307.02275v1](http://arxiv.org/abs/2307.02275v1)|null|
