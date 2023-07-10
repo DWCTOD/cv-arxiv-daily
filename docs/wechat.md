@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-07-07, **On the representation theory of cyclic and dihedral quandles**, Mohamed Elhamdadi et.al., Paper: [http://arxiv.org/abs/2307.03728v1](http://arxiv.org/abs/2307.03728v1)
+- 2023-07-07, **Polybot: Training One Policy Across Robots While Embracing Variability**, Jonathan Yang et.al., Paper: [http://arxiv.org/abs/2307.03719v1](http://arxiv.org/abs/2307.03719v1)
+- 2023-07-07, **Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation**, Dianye Huang et.al., Paper: [http://arxiv.org/abs/2307.03698v1](http://arxiv.org/abs/2307.03698v1)
+- 2023-07-07, **Detecting the Sensing Area of A Laparoscopic Probe in Minimally Invasive Cancer Surgery**, Baoru Huang et.al., Paper: [http://arxiv.org/abs/2307.03662v1](http://arxiv.org/abs/2307.03662v1)
+- 2023-07-07, **Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**, Jianyuan Ni et.al., Paper: [http://arxiv.org/abs/2307.03638v1](http://arxiv.org/abs/2307.03638v1)
+- 2023-07-07, **VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis**, Paula Feldman et.al., Paper: [http://arxiv.org/abs/2307.03592v1](http://arxiv.org/abs/2307.03592v1)
+- 2023-07-07, **SpawnNet: Learning Generalizable Visuomotor Skills from Pre-trained Networks**, Xingyu Lin et.al., Paper: [http://arxiv.org/abs/2307.03567v1](http://arxiv.org/abs/2307.03567v1)
+- 2023-07-07, **VariGrad: A Novel Feature Vector Architecture for Geometric Deep Learning on Unregistered Data**, Emmanuel Hartman et.al., Paper: [http://arxiv.org/abs/2307.03553v1](http://arxiv.org/abs/2307.03553v1)
+- 2023-07-07, **TBGC: Task-level Backbone-Oriented Gradient Clip for Multi-Task Foundation Model Learning**, Zelun Zhang et.al., Paper: [http://arxiv.org/abs/2307.03465v1](http://arxiv.org/abs/2307.03465v1)
+- 2023-07-07, **A Deep Active Contour Model for Delineating Glacier Calving Fronts**, Konrad Heidler et.al., Paper: [http://arxiv.org/abs/2307.03461v1](http://arxiv.org/abs/2307.03461v1)
 - 2023-07-06, **Synthesizing Artistic Cinemagraphs from Text**, Aniruddha Mahapatra et.al., Paper: [http://arxiv.org/abs/2307.03190v1](http://arxiv.org/abs/2307.03190v1)
 - 2023-07-06, **Long-term follow-up observations of extreme coronal line emitting galaxies**, Peter Clark et.al., Paper: [http://arxiv.org/abs/2307.03182v1](http://arxiv.org/abs/2307.03182v1)
 - 2023-07-06, **Push Past Green: Learning to Look Behind Plant Foliage by Moving It**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2307.03175v1](http://arxiv.org/abs/2307.03175v1)
@@ -2725,6 +2735,15 @@
 
 ## MultiModal
 
+- 2023-07-07, **Robust Human Detection under Visual Degradation via Thermal and mmWave Radar Fusion**, Kaiwen Cai et.al., Paper: [http://arxiv.org/abs/2307.03623v1](http://arxiv.org/abs/2307.03623v1)
+- 2023-07-07, **Registration-Free Hybrid Learning Empowers Simple Multimodal Imaging System for High-quality Fusion Detection**, Yinghan Guan et.al., Paper: [http://arxiv.org/abs/2307.03425v1](http://arxiv.org/abs/2307.03425v1)
+- 2023-07-07, **Hyperspectral and Multispectral Image Fusion Using the Conditional Denoising Diffusion Probabilistic Model**, Shuaikai Shi et.al., Paper: [http://arxiv.org/abs/2307.03423v1](http://arxiv.org/abs/2307.03423v1)
+- 2023-07-07, **Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency**, Shuaikai Shi et.al., Paper: [http://arxiv.org/abs/2307.03413v1](http://arxiv.org/abs/2307.03413v1)
+- 2023-07-07, **Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs**, Tiehua Zhang et.al., Paper: [http://arxiv.org/abs/2307.03411v1](http://arxiv.org/abs/2307.03411v1)
+- 2023-07-07, **All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment**, Chunhui Zhang et.al., Paper: [http://arxiv.org/abs/2307.03373v1](http://arxiv.org/abs/2307.03373v1)
+- 2023-07-06, **Efficient parallel implementation of the multiplicative weight update method for graph-based linear programs**, Caleb Ju et.al., Paper: [http://arxiv.org/abs/2307.03307v1](http://arxiv.org/abs/2307.03307v1)
+- 2023-07-06, **A Gaussian Integral Filter with Multivariate Laplace Process Noise**, Enrico M. Zucchelli et.al., Paper: [http://arxiv.org/abs/2307.03260v1](http://arxiv.org/abs/2307.03260v1)
+- 2023-07-06, **Region-Wise Attentive Multi-View Representation Learning for Urban Region Embeddings**, Weiliang Chan et.al., Paper: [http://arxiv.org/abs/2307.03212v1](http://arxiv.org/abs/2307.03212v1)
 - 2023-07-06, **String operators for Cheshire strings in topological phases**, Nathanan Tantivasadakarn et.al., Paper: [http://arxiv.org/abs/2307.03180v1](http://arxiv.org/abs/2307.03180v1)
 - 2023-07-06, **Multi-source imagery fusion using deep learning in a cloud computing platform**, Carlos Theran et.al., Paper: [http://arxiv.org/abs/2307.03054v1](http://arxiv.org/abs/2307.03054v1)
 - 2023-07-06, **Multi-modal multi-class Parkinson disease classification using CNN and decision level fusion**, Sushanta Kumar Sahu et.al., Paper: [http://arxiv.org/abs/2307.02978v1](http://arxiv.org/abs/2307.02978v1)
