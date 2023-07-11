@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Semantic-SAM: Segment and Recognize Anything at Any Granularity**|Feng Li et.al.|[2307.04767v1](http://arxiv.org/abs/2307.04767v1)|**[link](https://github.com/ux-decoder/semantic-sam)**|
+|**2023-07-10**|**Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos**|Sagnik Majumder et.al.|[2307.04760v1](http://arxiv.org/abs/2307.04760v1)|null|
+|**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751v1](http://arxiv.org/abs/2307.04751v1)|null|
+|**2023-07-10**|**RoCo: Dialectic Multi-Robot Collaboration with Large Language Models**|Zhao Mandi et.al.|[2307.04738v1](http://arxiv.org/abs/2307.04738v1)|**[link](https://github.com/MandiZhao/robot-collab)**|
+|**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725v1](http://arxiv.org/abs/2307.04725v1)|null|
+|**2023-07-10**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v1](http://arxiv.org/abs/2307.04723v1)|null|
+|**2023-07-10**|**CVPR MultiEarth 2023 Deforestation Estimation Challenge:SpaceVision4Amazon**|Sunita Arya et.al.|[2307.04715v1](http://arxiv.org/abs/2307.04715v1)|null|
+|**2023-07-10**|**Multimodal brain age estimation using interpretable adaptive population-graph learning**|Kyriaki-Margarita Bintsi et.al.|[2307.04639v1](http://arxiv.org/abs/2307.04639v1)|null|
+|**2023-07-10**|**Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data**|Xiaofeng Mao et.al.|[2307.04619v1](http://arxiv.org/abs/2307.04619v1)|null|
+|**2023-07-10**|**Weakly-supervised positional contrastive learning: application to cirrhosis classification**|Emma Sarfati et.al.|[2307.04617v1](http://arxiv.org/abs/2307.04617v1)|null|
 |**2023-07-07**|**On the representation theory of cyclic and dihedral quandles**|Mohamed Elhamdadi et.al.|[2307.03728v1](http://arxiv.org/abs/2307.03728v1)|null|
 |**2023-07-07**|**Polybot: Training One Policy Across Robots While Embracing Variability**|Jonathan Yang et.al.|[2307.03719v1](http://arxiv.org/abs/2307.03719v1)|null|
 |**2023-07-07**|**Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation**|Dianye Huang et.al.|[2307.03698v1](http://arxiv.org/abs/2307.03698v1)|null|
@@ -2743,6 +2753,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**The NPU-MSXF Speech-to-Speech Translation System for IWSLT 2023 Speech-to-Speech Translation Task**|Kun Song et.al.|[2307.04630v1](http://arxiv.org/abs/2307.04630v1)|null|
+|**2023-07-10**|**Tight Algorithmic Applications of Clique-Width Generalizations**|Vera Chekan et.al.|[2307.04628v1](http://arxiv.org/abs/2307.04628v1)|null|
+|**2023-07-10**|**Core localized alpha-channeling via low frequency Alfven mode generation in reversed shear scenarios**|Zhiyong Qiu et.al.|[2307.04388v1](http://arxiv.org/abs/2307.04388v1)|null|
+|**2023-07-09**|**Real-time Human Detection in Fire Scenarios using Infrared and Thermal Imaging Fusion**|Truong-Dong Do et.al.|[2307.04223v1](http://arxiv.org/abs/2307.04223v1)|null|
+|**2023-07-09**|**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**|Zhiyu Zhu et.al.|[2307.04129v1](http://arxiv.org/abs/2307.04129v1)|null|
+|**2023-07-09**|**Visible and infrared self-supervised fusion trained on a single example**|Nati Ofir et.al.|[2307.04100v1](http://arxiv.org/abs/2307.04100v1)|null|
+|**2023-07-09**|**CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation**|Jun Cen et.al.|[2307.04091v1](http://arxiv.org/abs/2307.04091v1)|null|
+|**2023-07-08**|**FTFDNet: Learning to Detect Talking Face Video Manipulation with Tri-Modality Interaction**|Ganglai Wang et.al.|[2307.03990v1](http://arxiv.org/abs/2307.03990v1)|null|
+|**2023-07-08**|**Camouflaged Object Detection with Feature Grafting and Distractor Aware**|Yuxuan Song et.al.|[2307.03943v1](http://arxiv.org/abs/2307.03943v1)|**[link](https://github.com/syxvision/fdnet)**|
+|**2023-07-08**|**VS-TransGRU: A Novel Transformer-GRU-based Framework Enhanced by Visual-Semantic Fusion for Egocentric Action Anticipation**|Congqi Cao et.al.|[2307.03918v1](http://arxiv.org/abs/2307.03918v1)|null|
 |**2023-07-07**|**Robust Human Detection under Visual Degradation via Thermal and mmWave Radar Fusion**|Kaiwen Cai et.al.|[2307.03623v1](http://arxiv.org/abs/2307.03623v1)|null|
 |**2023-07-07**|**Registration-Free Hybrid Learning Empowers Simple Multimodal Imaging System for High-quality Fusion Detection**|Yinghan Guan et.al.|[2307.03425v1](http://arxiv.org/abs/2307.03425v1)|null|
 |**2023-07-07**|**Hyperspectral and Multispectral Image Fusion Using the Conditional Denoising Diffusion Probabilistic Model**|Shuaikai Shi et.al.|[2307.03423v1](http://arxiv.org/abs/2307.03423v1)|null|
