@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-07-11, **Fractonic Higher-Order Topological Phases in Open Quantum Systems**, Jian-Hao Zhang et.al., Paper: [http://arxiv.org/abs/2307.05474v1](http://arxiv.org/abs/2307.05474v1)
+- 2023-07-11, **Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives**, Tom Monnier et.al., Paper: [http://arxiv.org/abs/2307.05473v1](http://arxiv.org/abs/2307.05473v1)
+- 2023-07-11, **EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**, Shraman Pramanick et.al., Paper: [http://arxiv.org/abs/2307.05463v1](http://arxiv.org/abs/2307.05463v1)
+- 2023-07-11, **Improving the Security of Smartwatch Payment with Deep Learning**, George Webber et.al., Paper: [http://arxiv.org/abs/2307.05437v1](http://arxiv.org/abs/2307.05437v1)
+- 2023-07-11, **One-Versus-Others Attention: Scalable Multimodal Integration**, Michal Golovanevsky et.al., Paper: [http://arxiv.org/abs/2307.05435v1](http://arxiv.org/abs/2307.05435v1), Code: **[https://github.com/rsinghlab/ovo](https://github.com/rsinghlab/ovo)**
+- 2023-07-11, **Identifying Acoustic Wave Sources on the Sun. II. Improved Filter Techniques for Source Wavefield Seismology**, Shah Mohammad Bahauddin et.al., Paper: [http://arxiv.org/abs/2307.05433v1](http://arxiv.org/abs/2307.05433v1)
+- 2023-07-11, **Effective Whitney Stratification of Real Algebraic Varieties**, Martin Helmer et.al., Paper: [http://arxiv.org/abs/2307.05427v1](http://arxiv.org/abs/2307.05427v1)
+- 2023-07-11, **Domain-Agnostic Neural Architecture for Class Incremental Continual Learning in Document Processing Platform**, Mateusz Wójcik et.al., Paper: [http://arxiv.org/abs/2307.05399v1](http://arxiv.org/abs/2307.05399v1), Code: **[https://github.com/mateusz-wojcik-97/domain-agnostic-architecture](https://github.com/mateusz-wojcik-97/domain-agnostic-architecture)**
+- 2023-07-11, **ShredGP: Guitarist Style-Conditioned Tablature Generation**, Pedro Sarmento et.al., Paper: [http://arxiv.org/abs/2307.05324v1](http://arxiv.org/abs/2307.05324v1)
+- 2023-07-11, **Class Instance Balanced Learning for Long-Tailed Classification**, Marc-Antoine Lavoie et.al., Paper: [http://arxiv.org/abs/2307.05322v1](http://arxiv.org/abs/2307.05322v1)
 - 2023-07-10, **Semantic-SAM: Segment and Recognize Anything at Any Granularity**, Feng Li et.al., Paper: [http://arxiv.org/abs/2307.04767v1](http://arxiv.org/abs/2307.04767v1), Code: **[https://github.com/ux-decoder/semantic-sam](https://github.com/ux-decoder/semantic-sam)**
 - 2023-07-10, **Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos**, Sagnik Majumder et.al., Paper: [http://arxiv.org/abs/2307.04760v1](http://arxiv.org/abs/2307.04760v1)
 - 2023-07-10, **Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**, Anthony Simeonov et.al., Paper: [http://arxiv.org/abs/2307.04751v1](http://arxiv.org/abs/2307.04751v1)
@@ -2745,6 +2755,14 @@
 
 ## MultiModal
 
+- 2023-07-11, **EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**, Shraman Pramanick et.al., Paper: [http://arxiv.org/abs/2307.05463v1](http://arxiv.org/abs/2307.05463v1)
+- 2023-07-11, **One-Versus-Others Attention: Scalable Multimodal Integration**, Michal Golovanevsky et.al., Paper: [http://arxiv.org/abs/2307.05435v1](http://arxiv.org/abs/2307.05435v1), Code: **[https://github.com/rsinghlab/ovo](https://github.com/rsinghlab/ovo)**
+- 2023-07-11, **$B^+$ decay to $K^+ηη$ with ($ηη$) from the $D\bar{D}(3720)$ bound state**, Pedro C. S. Brandão et.al., Paper: [http://arxiv.org/abs/2307.05351v1](http://arxiv.org/abs/2307.05351v1)
+- 2023-07-11, **Measurements of dense fuel hydrodynamics in the NIF burning plasma experiments using backscattered neutron spectroscopy**, A. J. Crilly et.al., Paper: [http://arxiv.org/abs/2307.05233v1](http://arxiv.org/abs/2307.05233v1)
+- 2023-07-11, **Data-driven machine learning approach for predicting yield strength of additively manufactured multi-principal element alloys**, Abhinav Chandraker et.al., Paper: [http://arxiv.org/abs/2307.05211v1](http://arxiv.org/abs/2307.05211v1)
+- 2023-07-11, **Ranging Sensor Fusion in LISA Data Processing: Treatment of Ambiguities, Noise, and On-Board Delays in LISA Ranging Observables**, Jan Niklas Reinhardt et.al., Paper: [http://arxiv.org/abs/2307.05204v1](http://arxiv.org/abs/2307.05204v1)
+- 2023-07-11, **Compact Twice Fusion Network for Edge Detection**, Yachuan Li et.al., Paper: [http://arxiv.org/abs/2307.04952v1](http://arxiv.org/abs/2307.04952v1), Code: **[https://github.com/li-yachuan/ctfn-pytorch-master](https://github.com/li-yachuan/ctfn-pytorch-master)**
+- 2023-07-10, **Combining DVL-INS and Laser-Based Loop Closures in a Batch Estimation Framework for Underwater Positioning**, Amro Al-Baali et.al., Paper: [http://arxiv.org/abs/2307.04885v1](http://arxiv.org/abs/2307.04885v1)
 - 2023-07-10, **The NPU-MSXF Speech-to-Speech Translation System for IWSLT 2023 Speech-to-Speech Translation Task**, Kun Song et.al., Paper: [http://arxiv.org/abs/2307.04630v1](http://arxiv.org/abs/2307.04630v1)
 - 2023-07-10, **Tight Algorithmic Applications of Clique-Width Generalizations**, Vera Chekan et.al., Paper: [http://arxiv.org/abs/2307.04628v1](http://arxiv.org/abs/2307.04628v1)
 - 2023-07-10, **Core localized alpha-channeling via low frequency Alfven mode generation in reversed shear scenarios**, Zhiyong Qiu et.al., Paper: [http://arxiv.org/abs/2307.04388v1](http://arxiv.org/abs/2307.04388v1)
