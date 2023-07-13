@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Deep Learning of Crystalline Defects from TEM images: A Solution for the Problem of "Never Enough Training Data"**|Kishan Govind et.al.|[2307.06322v1](http://arxiv.org/abs/2307.06322v1)|null|
+|**2023-07-12**|**A geometric classification of rod complements in the 3-torus**|Connie On Yu Hui et.al.|[2307.06317v1](http://arxiv.org/abs/2307.06317v1)|null|
+|**2023-07-12**|**Facial Reenactment Through a Personalized Generator**|Ariel Elazary et.al.|[2307.06307v1](http://arxiv.org/abs/2307.06307v1)|null|
+|**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304v1](http://arxiv.org/abs/2307.06304v1)|null|
+|**2023-07-12**|**Feature Embeddings from Large-Scale Acoustic Bird Classifiers Enable Few-Shot Transfer Learning**|Burooj Ghani et.al.|[2307.06292v1](http://arxiv.org/abs/2307.06292v1)|null|
+|**2023-07-12**|**Stochastic Light Field Holography**|Florian Schiffers et.al.|[2307.06277v1](http://arxiv.org/abs/2307.06277v1)|null|
+|**2023-07-12**|**Machine learning and Topological data analysis identify unique features of human papillae in 3D scans**|Rayna Andreeva et.al.|[2307.06255v1](http://arxiv.org/abs/2307.06255v1)|null|
+|**2023-07-12**|**On the Importance of Denoising when Learning to Compress Images**|Benoit Brummer et.al.|[2307.06233v1](http://arxiv.org/abs/2307.06233v1)|**[link](https://github.com/trougnouf/compression)**|
+|**2023-07-12**|**Ashaar: Automatic Analysis and Generation of Arabic Poetry Using Deep Learning Approaches**|Zaid Alyafeai et.al.|[2307.06218v1](http://arxiv.org/abs/2307.06218v1)|**[link](https://github.com/arbml/ashaar)**|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|null|
 |**2023-07-11**|**Fractonic Higher-Order Topological Phases in Open Quantum Systems**|Jian-Hao Zhang et.al.|[2307.05474v1](http://arxiv.org/abs/2307.05474v1)|null|
 |**2023-07-11**|**Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives**|Tom Monnier et.al.|[2307.05473v1](http://arxiv.org/abs/2307.05473v1)|null|
 |**2023-07-11**|**EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**|Shraman Pramanick et.al.|[2307.05463v1](http://arxiv.org/abs/2307.05463v1)|null|
@@ -2763,6 +2773,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**State dependence of tunneling processes and nuclear fusion**|Roberto Onofrio et.al.|[2307.06172v1](http://arxiv.org/abs/2307.06172v1)|null|
+|**2023-07-12**|**TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image**|Hamed Amini Amirkolaee et.al.|[2307.06118v1](http://arxiv.org/abs/2307.06118v1)|**[link](https://github.com/haaclassic/treeformer)**|
+|**2023-07-12**|**Pyramid Deep Fusion Network for Two-Hand Reconstruction from RGB-D Images**|Jinwei Ren et.al.|[2307.06038v1](http://arxiv.org/abs/2307.06038v1)|null|
+|**2023-07-12**|**Magnetohydrodynamics simulation of magnetic flux rope formation in a quadrupolar magnetic field configuration**|Sanjay Kumar et.al.|[2307.06025v1](http://arxiv.org/abs/2307.06025v1)|null|
+|**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013v1](http://arxiv.org/abs/2307.06013v1)|null|
+|**2023-07-12**|**DDNAS: Discretized Differentiable Neural Architecture Search for Text Classification**|Kuan-Chun Chen et.al.|[2307.06005v1](http://arxiv.org/abs/2307.06005v1)|**[link](https://github.com/ddnas/ddnas)**|
+|**2023-07-12**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|Raja Sunkara et.al.|[2307.05945v1](http://arxiv.org/abs/2307.05945v1)|null|
 |**2023-07-11**|**EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**|Shraman Pramanick et.al.|[2307.05463v1](http://arxiv.org/abs/2307.05463v1)|null|
 |**2023-07-11**|**One-Versus-Others Attention: Scalable Multimodal Integration**|Michal Golovanevsky et.al.|[2307.05435v1](http://arxiv.org/abs/2307.05435v1)|**[link](https://github.com/rsinghlab/ovo)**|
 |**2023-07-11**|**$B^+$ decay to $K^+ηη$ with ($ηη$) from the $D\bar{D}(3720)$ bound state**|Pedro C. S. Brandão et.al.|[2307.05351v1](http://arxiv.org/abs/2307.05351v1)|null|
