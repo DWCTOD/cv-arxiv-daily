@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-07-14, **Expressive Monotonic Neural Networks**, Ouail Kitouni et.al., Paper: [http://arxiv.org/abs/2307.07512v1](http://arxiv.org/abs/2307.07512v1), Code: **[https://github.com/niklasnolte/hlt_2track](https://github.com/niklasnolte/hlt_2track)**
+- 2023-07-14, **Streaming CTR Prediction: Rethinking Recommendation Task for Real-World Streaming Data**, Qi-Wei Wang et.al., Paper: [http://arxiv.org/abs/2307.07509v1](http://arxiv.org/abs/2307.07509v1)
+- 2023-07-14, **Brain Tumor Detection using Convolutional Neural Networks with Skip Connections**, Aupam Hamran et.al., Paper: [http://arxiv.org/abs/2307.07503v1](http://arxiv.org/abs/2307.07503v1)
+- 2023-07-14, **TALL: Thumbnail Layout for Deepfake Video Detection**, Yuting Xu et.al., Paper: [http://arxiv.org/abs/2307.07494v1](http://arxiv.org/abs/2307.07494v1)
+- 2023-07-14, **DreamTeacher: Pretraining Image Backbones with Deep Generative Models**, Daiqing Li et.al., Paper: [http://arxiv.org/abs/2307.07487v1](http://arxiv.org/abs/2307.07487v1)
+- 2023-07-14, **Multimodal Distillation for Egocentric Action Recognition**, Gorjan Radevski et.al., Paper: [http://arxiv.org/abs/2307.07483v1](http://arxiv.org/abs/2307.07483v1)
+- 2023-07-14, **Dual-Query Multiple Instance Learning for Dynamic Meta-Embedding based Tumor Classification**, Simon Holdenried-Krafft et.al., Paper: [http://arxiv.org/abs/2307.07482v1](http://arxiv.org/abs/2307.07482v1)
+- 2023-07-14, **Passage-times for partially-homogeneous reflected random walks on the quadrant**, Conrado da Costa et.al., Paper: [http://arxiv.org/abs/2307.07458v1](http://arxiv.org/abs/2307.07458v1)
+- 2023-07-14, **An equivariant surgery classification of $C_p$-surfaces**, Kelly Pohland et.al., Paper: [http://arxiv.org/abs/2307.07446v1](http://arxiv.org/abs/2307.07446v1)
+- 2023-07-14, **Can Large Language Models Empower Molecular Property Prediction?**, Chen Qian et.al., Paper: [http://arxiv.org/abs/2307.07443v1](http://arxiv.org/abs/2307.07443v1), Code: **[https://github.com/chnq/llm4mol](https://github.com/chnq/llm4mol)**
 - 2023-07-13, **Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**, Syed Talal Wasim et.al., Paper: [http://arxiv.org/abs/2307.06947v1](http://arxiv.org/abs/2307.06947v1), Code: **[https://github.com/talalwasim/video-focalnets](https://github.com/talalwasim/video-focalnets)**
 - 2023-07-13, **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**, Yi Wang et.al., Paper: [http://arxiv.org/abs/2307.06942v1](http://arxiv.org/abs/2307.06942v1), Code: **[https://github.com/opengvlab/internvideo](https://github.com/opengvlab/internvideo)**
 - 2023-07-13, **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**, Yingqing He et.al., Paper: [http://arxiv.org/abs/2307.06940v1](http://arxiv.org/abs/2307.06940v1), Code: **[https://github.com/videocrafter/animate-a-story](https://github.com/videocrafter/animate-a-story)**
@@ -2775,6 +2785,14 @@
 
 ## MultiModal
 
+- 2023-07-14, **BSM physics using photon-photon fusion processes in UPC in Pb+Pb collisions with the ATLAS detector**, Klaudia Maj et.al., Paper: [http://arxiv.org/abs/2307.07481v1](http://arxiv.org/abs/2307.07481v1)
+- 2023-07-14, **Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**, Yuhang Wen et.al., Paper: [http://arxiv.org/abs/2307.07469v1](http://arxiv.org/abs/2307.07469v1), Code: **[https://github.com/Necolizer/ISTA-Net](https://github.com/Necolizer/ISTA-Net)**
+- 2023-07-14, **Boosting Backdoor Attack with A Learnable Poisoning Sample Selection Strategy**, Zihao Zhu et.al., Paper: [http://arxiv.org/abs/2307.07328v1](http://arxiv.org/abs/2307.07328v1)
+- 2023-07-14, **Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion**, ShangQi Deng et.al., Paper: [http://arxiv.org/abs/2307.07288v1](http://arxiv.org/abs/2307.07288v1)
+- 2023-07-14, **MaxSR: Image Super-Resolution Using Improved MaxViT**, Bincheng Yang et.al., Paper: [http://arxiv.org/abs/2307.07240v1](http://arxiv.org/abs/2307.07240v1)
+- 2023-07-14, **TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction**, Linfeng Liu et.al., Paper: [http://arxiv.org/abs/2307.07177v1](http://arxiv.org/abs/2307.07177v1)
+- 2023-07-14, **Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2307.07102v1](http://arxiv.org/abs/2307.07102v1), Code: **[https://github.com/GuanRunwei/Achelous](https://github.com/GuanRunwei/Achelous)**
+- 2023-07-13, **MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction**, Niharika S. D'Souza et.al., Paper: [http://arxiv.org/abs/2307.07093v1](http://arxiv.org/abs/2307.07093v1)
 - 2023-07-13, **Simultaneous calculation of elastic scattering, fusion, and direct cross sections for reactions of weakly-bound projectiles**, H. M. Maridi et.al., Paper: [http://arxiv.org/abs/2307.06875v1](http://arxiv.org/abs/2307.06875v1)
 - 2023-07-13, **Multimodal Object Detection in Remote Sensing**, Abdelbadie Belmouhcine et.al., Paper: [http://arxiv.org/abs/2307.06724v1](http://arxiv.org/abs/2307.06724v1)
 - 2023-07-13, **Learning IMM Filter Parameters from Measurements using Gradient Descent**, André Brandenburger et.al., Paper: [http://arxiv.org/abs/2307.06618v1](http://arxiv.org/abs/2307.06618v1)
