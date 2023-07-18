@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-07-17, **Diffusion Models Beat GANs on Image Classification**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2307.08702v1](http://arxiv.org/abs/2307.08702v1)
+- 2023-07-17, **Neural Video Depth Stabilizer**, Yiran Wang et.al., Paper: [http://arxiv.org/abs/2307.08695v1](http://arxiv.org/abs/2307.08695v1), Code: **[https://github.com/raymondwang987/nvds](https://github.com/raymondwang987/nvds)**
+- 2023-07-17, **SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**, Vic De Ridder et.al., Paper: [http://arxiv.org/abs/2307.08693v1](http://arxiv.org/abs/2307.08693v1)
+- 2023-07-17, **FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**, Tri Dao et.al., Paper: [http://arxiv.org/abs/2307.08691v1](http://arxiv.org/abs/2307.08691v1), Code: **[https://github.com/dao-ailab/flash-attention](https://github.com/dao-ailab/flash-attention)**
+- 2023-07-17, **Implementation of a perception system for autonomous vehicles using a detection-segmentation network in SoC FPGA**, Maciej Baczmanski et.al., Paper: [http://arxiv.org/abs/2307.08682v1](http://arxiv.org/abs/2307.08682v1)
+- 2023-07-17, **Neural Image Compression: Generalization, Robustness, and Spectral Biases**, Kelsey Lieberman et.al., Paper: [http://arxiv.org/abs/2307.08657v1](http://arxiv.org/abs/2307.08657v1)
+- 2023-07-17, **PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**, Zhaiyu Chen et.al., Paper: [http://arxiv.org/abs/2307.08636v1](http://arxiv.org/abs/2307.08636v1)
+- 2023-07-17, **Deficiency-Aware Masked Transformer for Video Inpainting**, Yongsheng Yu et.al., Paper: [http://arxiv.org/abs/2307.08629v1](http://arxiv.org/abs/2307.08629v1), Code: **[https://github.com/yeates/dmt](https://github.com/yeates/dmt)**
+- 2023-07-17, **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**, Yang Zhao et.al., Paper: [http://arxiv.org/abs/2307.08581v1](http://arxiv.org/abs/2307.08581v1)
+- 2023-07-17, **Deep Learning with Passive Optical Nonlinear Mapping**, Fei Xia et.al., Paper: [http://arxiv.org/abs/2307.08558v1](http://arxiv.org/abs/2307.08558v1)
 - 2023-07-14, **Expressive Monotonic Neural Networks**, Ouail Kitouni et.al., Paper: [http://arxiv.org/abs/2307.07512v1](http://arxiv.org/abs/2307.07512v1), Code: **[https://github.com/niklasnolte/hlt_2track](https://github.com/niklasnolte/hlt_2track)**
 - 2023-07-14, **Streaming CTR Prediction: Rethinking Recommendation Task for Real-World Streaming Data**, Qi-Wei Wang et.al., Paper: [http://arxiv.org/abs/2307.07509v1](http://arxiv.org/abs/2307.07509v1)
 - 2023-07-14, **Brain Tumor Detection using Convolutional Neural Networks with Skip Connections**, Aupam Hamran et.al., Paper: [http://arxiv.org/abs/2307.07503v1](http://arxiv.org/abs/2307.07503v1)
@@ -2785,6 +2795,16 @@
 
 ## MultiModal
 
+- 2023-07-17, **Scale-Aware Modulation Meet Transformer**, Weifeng Lin et.al., Paper: [http://arxiv.org/abs/2307.08579v1](http://arxiv.org/abs/2307.08579v1), Code: **[https://github.com/afeng-x/smt](https://github.com/afeng-x/smt)**
+- 2023-07-17, **Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**, Daniel Engelsman et.al., Paper: [http://arxiv.org/abs/2307.08571v1](http://arxiv.org/abs/2307.08571v1)
+- 2023-07-17, **Variational Probabilistic Fusion Network for RGB-T Semantic Segmentation**, Baihong Lin et.al., Paper: [http://arxiv.org/abs/2307.08536v1](http://arxiv.org/abs/2307.08536v1)
+- 2023-07-17, **Cumulative Spatial Knowledge Distillation for Vision Transformers**, Borui Zhao et.al., Paper: [http://arxiv.org/abs/2307.08500v1](http://arxiv.org/abs/2307.08500v1)
+- 2023-07-17, **SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**, Zhe Zhu et.al., Paper: [http://arxiv.org/abs/2307.08492v1](http://arxiv.org/abs/2307.08492v1), Code: **[https://github.com/czvvd/svdformer](https://github.com/czvvd/svdformer)**
+- 2023-07-17, **Clarifying the Half Full or Half Empty Question: Multimodal Container Classification**, Josua Spisak et.al., Paper: [http://arxiv.org/abs/2307.08471v1](http://arxiv.org/abs/2307.08471v1)
+- 2023-07-17, **Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation**, Yaolei Qi et.al., Paper: [http://arxiv.org/abs/2307.08388v1](http://arxiv.org/abs/2307.08388v1), Code: **[https://github.com/yaoleiqi/dscnet](https://github.com/yaoleiqi/dscnet)**
+- 2023-07-17, **Multi-Task Cross-Modality Attention-Fusion for 2D Object Detection**, Huawei Sun et.al., Paper: [http://arxiv.org/abs/2307.08339v1](http://arxiv.org/abs/2307.08339v1)
+- 2023-07-17, **Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation**, Benedikt Mersch et.al., Paper: [http://arxiv.org/abs/2307.08314v1](http://arxiv.org/abs/2307.08314v1)
+- 2023-07-17, **ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion**, Liu Liu et.al., Paper: [http://arxiv.org/abs/2307.08233v1](http://arxiv.org/abs/2307.08233v1)
 - 2023-07-14, **BSM physics using photon-photon fusion processes in UPC in Pb+Pb collisions with the ATLAS detector**, Klaudia Maj et.al., Paper: [http://arxiv.org/abs/2307.07481v1](http://arxiv.org/abs/2307.07481v1)
 - 2023-07-14, **Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**, Yuhang Wen et.al., Paper: [http://arxiv.org/abs/2307.07469v1](http://arxiv.org/abs/2307.07469v1), Code: **[https://github.com/Necolizer/ISTA-Net](https://github.com/Necolizer/ISTA-Net)**
 - 2023-07-14, **Boosting Backdoor Attack with A Learnable Poisoning Sample Selection Strategy**, Zihao Zhu et.al., Paper: [http://arxiv.org/abs/2307.07328v1](http://arxiv.org/abs/2307.07328v1)
