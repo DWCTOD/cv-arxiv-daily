@@ -1,4 +1,4 @@
-> Updated on 2023.07.18
+> Updated on 2023.07.19
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2023-07-17, **PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**, Zhaiyu Chen et.al., Paper: [http://arxiv.org/abs/2307.08636v1](http://arxiv.org/abs/2307.08636v1)
 - 2023-07-17, **Deficiency-Aware Masked Transformer for Video Inpainting**, Yongsheng Yu et.al., Paper: [http://arxiv.org/abs/2307.08629v1](http://arxiv.org/abs/2307.08629v1), Code: **[https://github.com/yeates/dmt](https://github.com/yeates/dmt)**
 - 2023-07-17, **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**, Yang Zhao et.al., Paper: [http://arxiv.org/abs/2307.08581v1](http://arxiv.org/abs/2307.08581v1)
-- 2023-07-17, **Deep Learning with Passive Optical Nonlinear Mapping**, Fei Xia et.al., Paper: [http://arxiv.org/abs/2307.08558v1](http://arxiv.org/abs/2307.08558v1)
+- 2023-07-18, **Deep Learning with Passive Optical Nonlinear Mapping**, Fei Xia et.al., Paper: [http://arxiv.org/abs/2307.08558v2](http://arxiv.org/abs/2307.08558v2)
 - 2023-07-14, **Expressive Monotonic Neural Networks**, Ouail Kitouni et.al., Paper: [http://arxiv.org/abs/2307.07512v1](http://arxiv.org/abs/2307.07512v1), Code: **[https://github.com/niklasnolte/hlt_2track](https://github.com/niklasnolte/hlt_2track)**
 - 2023-07-14, **Streaming CTR Prediction: Rethinking Recommendation Task for Real-World Streaming Data**, Qi-Wei Wang et.al., Paper: [http://arxiv.org/abs/2307.07509v1](http://arxiv.org/abs/2307.07509v1)
 - 2023-07-14, **Brain Tumor Detection using Convolutional Neural Networks with Skip Connections**, Aupam Hamran et.al., Paper: [http://arxiv.org/abs/2307.07503v1](http://arxiv.org/abs/2307.07503v1)
@@ -2796,7 +2796,7 @@
 ## MultiModal
 
 - 2023-07-17, **Scale-Aware Modulation Meet Transformer**, Weifeng Lin et.al., Paper: [http://arxiv.org/abs/2307.08579v1](http://arxiv.org/abs/2307.08579v1), Code: **[https://github.com/afeng-x/smt](https://github.com/afeng-x/smt)**
-- 2023-07-17, **Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**, Daniel Engelsman et.al., Paper: [http://arxiv.org/abs/2307.08571v1](http://arxiv.org/abs/2307.08571v1)
+- 2023-07-18, **Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**, Daniel Engelsman et.al., Paper: [http://arxiv.org/abs/2307.08571v2](http://arxiv.org/abs/2307.08571v2)
 - 2023-07-17, **Variational Probabilistic Fusion Network for RGB-T Semantic Segmentation**, Baihong Lin et.al., Paper: [http://arxiv.org/abs/2307.08536v1](http://arxiv.org/abs/2307.08536v1)
 - 2023-07-17, **Cumulative Spatial Knowledge Distillation for Vision Transformers**, Borui Zhao et.al., Paper: [http://arxiv.org/abs/2307.08500v1](http://arxiv.org/abs/2307.08500v1)
 - 2023-07-17, **SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**, Zhe Zhu et.al., Paper: [http://arxiv.org/abs/2307.08492v1](http://arxiv.org/abs/2307.08492v1), Code: **[https://github.com/czvvd/svdformer](https://github.com/czvvd/svdformer)**
