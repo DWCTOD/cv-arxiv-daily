@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-07-18, **AnyDoor: Zero-shot Object-level Image Customization**, Xi Chen et.al., Paper: [http://arxiv.org/abs/2307.09481v1](http://arxiv.org/abs/2307.09481v1)
+- 2023-07-18, **FACTS: Facial Animation Creation using the Transfer of Styles**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2307.09480v1](http://arxiv.org/abs/2307.09480v1)
+- 2023-07-18, **GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**, Zhuoling Li et.al., Paper: [http://arxiv.org/abs/2307.09472v1](http://arxiv.org/abs/2307.09472v1)
+- 2023-07-18, **Smooth Attention for Deep Multiple Instance Learning: Application to CT Intracranial Hemorrhage Detection**, Yunan Wu et.al., Paper: [http://arxiv.org/abs/2307.09457v1](http://arxiv.org/abs/2307.09457v1), Code: **[https://github.com/yunanwu2168/sa-mil](https://github.com/yunanwu2168/sa-mil)**
+- 2023-07-18, **A comparative analysis of SR-GAN models**, Fatemeh Rezapoor Nikroo et.al., Paper: [http://arxiv.org/abs/2307.09456v1](http://arxiv.org/abs/2307.09456v1)
+- 2023-07-18, **Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**, Jaeyoung Kim et.al., Paper: [http://arxiv.org/abs/2307.09455v1](http://arxiv.org/abs/2307.09455v1)
+- 2023-07-18, **Measuring Student Behavioral Engagement using Histogram of Actions**, Ahmed Abdelkawy et.al., Paper: [http://arxiv.org/abs/2307.09420v1](http://arxiv.org/abs/2307.09420v1)
+- 2023-07-18, **Is this Snippet Written by ChatGPT? An Empirical Study with a CodeBERT-Based Classifier**, Phuong T. Nguyen et.al., Paper: [http://arxiv.org/abs/2307.09381v1](http://arxiv.org/abs/2307.09381v1)
+- 2023-07-18, **CertPri: Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space**, Haibin Zheng et.al., Paper: [http://arxiv.org/abs/2307.09375v1](http://arxiv.org/abs/2307.09375v1)
+- 2023-07-18, **Enhancing Pattern Classification in Support Vector Machines through Matrix Formulation**, Sambhav Jain Reshma Rastogi et.al., Paper: [http://arxiv.org/abs/2307.09372v1](http://arxiv.org/abs/2307.09372v1)
 - 2023-07-17, **Diffusion Models Beat GANs on Image Classification**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2307.08702v1](http://arxiv.org/abs/2307.08702v1)
 - 2023-07-17, **Neural Video Depth Stabilizer**, Yiran Wang et.al., Paper: [http://arxiv.org/abs/2307.08695v1](http://arxiv.org/abs/2307.08695v1), Code: **[https://github.com/raymondwang987/nvds](https://github.com/raymondwang987/nvds)**
 - 2023-07-17, **SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**, Vic De Ridder et.al., Paper: [http://arxiv.org/abs/2307.08693v1](http://arxiv.org/abs/2307.08693v1)
@@ -2795,6 +2805,16 @@
 
 ## MultiModal
 
+- 2023-07-18, **Disentangle then Parse:Night-time Semantic Segmentation with Illumination Disentanglement**, Zhixiang Wei et.al., Paper: [http://arxiv.org/abs/2307.09362v1](http://arxiv.org/abs/2307.09362v1)
+- 2023-07-18, **Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**, Kaavya Rekanar et.al., Paper: [http://arxiv.org/abs/2307.09329v1](http://arxiv.org/abs/2307.09329v1), Code: **[https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)**
+- 2023-07-18, **Multi-Modal Discussion Transformer: Integrating Text, Images and Graph Transformers to Detect Hate Speech on Social Media**, Liam Hebert et.al., Paper: [http://arxiv.org/abs/2307.09312v1](http://arxiv.org/abs/2307.09312v1), Code: **[https://github.com/liamhebert/multimodaldiscussiontransformer](https://github.com/liamhebert/multimodaldiscussiontransformer)**
+- 2023-07-18, **Improving Text Semantic Similarity Modeling through a 3D Siamese Network**, Jianxiang Zang et.al., Paper: [http://arxiv.org/abs/2307.09274v1](http://arxiv.org/abs/2307.09274v1)
+- 2023-07-18, **Fusion Quivers**, Gregor Schaumann et.al., Paper: [http://arxiv.org/abs/2307.09229v1](http://arxiv.org/abs/2307.09229v1)
+- 2023-07-18, **CG-fusion CAM: Online segmentation of laser-induced damage on large-aperture optics**, Yueyue Han et.al., Paper: [http://arxiv.org/abs/2307.09161v1](http://arxiv.org/abs/2307.09161v1)
+- 2023-07-18, **MLF-DET: Multi-Level Fusion for Cross-Modal 3D Object Detection**, Zewei Lin et.al., Paper: [http://arxiv.org/abs/2307.09155v1](http://arxiv.org/abs/2307.09155v1)
+- 2023-07-18, **Division Gets Better: Learning Brightness-Aware and Detail-Sensitive Representations for Low-Light Image Enhancement**, Huake Wang et.al., Paper: [http://arxiv.org/abs/2307.09104v1](http://arxiv.org/abs/2307.09104v1)
+- 2023-07-18, **Multimodal Machine Learning for Extraction of Theorems and Proofs in the Scientific Literature**, Shrey Mishra et.al., Paper: [http://arxiv.org/abs/2307.09047v1](http://arxiv.org/abs/2307.09047v1), Code: **[https://github.com/mv96/mm_extraction](https://github.com/mv96/mm_extraction)**
+- 2023-07-18, **CBSeq: A Channel-level Behavior Sequence For Encrypted Malware Traffic Detection**, Susu Cui et.al., Paper: [http://arxiv.org/abs/2307.09002v1](http://arxiv.org/abs/2307.09002v1)
 - 2023-07-17, **Scale-Aware Modulation Meet Transformer**, Weifeng Lin et.al., Paper: [http://arxiv.org/abs/2307.08579v1](http://arxiv.org/abs/2307.08579v1), Code: **[https://github.com/afeng-x/smt](https://github.com/afeng-x/smt)**
 - 2023-07-18, **Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial**, Daniel Engelsman et.al., Paper: [http://arxiv.org/abs/2307.08571v2](http://arxiv.org/abs/2307.08571v2)
 - 2023-07-17, **Variational Probabilistic Fusion Network for RGB-T Semantic Segmentation**, Baihong Lin et.al., Paper: [http://arxiv.org/abs/2307.08536v1](http://arxiv.org/abs/2307.08536v1)
