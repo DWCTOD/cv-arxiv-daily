@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-07-19, **DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**, Wei Cheng et.al., Paper: [http://arxiv.org/abs/2307.10173v1](http://arxiv.org/abs/2307.10173v1), Code: **[https://github.com/DNA-Rendering/DNA-Rendering](https://github.com/DNA-Rendering/DNA-Rendering)**
+- 2023-07-19, **Adversarial Latent Autoencoder with Self-Attention for Structural Image Synthesis**, Jiajie Fan et.al., Paper: [http://arxiv.org/abs/2307.10166v1](http://arxiv.org/abs/2307.10166v1)
+- 2023-07-19, **Leveraging Visemes for Better Visual Speech Representation and Lip Reading**, Javad Peymanfard et.al., Paper: [http://arxiv.org/abs/2307.10157v1](http://arxiv.org/abs/2307.10157v1)
+- 2023-07-19, **Remarks on a theorem of Pink in presence of bad reduction**, Wojciech Gajda et.al., Paper: [http://arxiv.org/abs/2307.10140v1](http://arxiv.org/abs/2307.10140v1)
+- 2023-07-19, **Gradient Sparsification For Masked Fine-Tuning of Transformers**, James O' Neill et.al., Paper: [http://arxiv.org/abs/2307.10098v1](http://arxiv.org/abs/2307.10098v1)
+- 2023-07-19, **Boundary-Refined Prototype Generation: A General End-to-End Paradigm for Semi-Supervised Semantic Segmentation**, Junhao Dong et.al., Paper: [http://arxiv.org/abs/2307.10097v1](http://arxiv.org/abs/2307.10097v1)
+- 2023-07-19, **Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**, Lingting Zhu et.al., Paper: [http://arxiv.org/abs/2307.10094v1](http://arxiv.org/abs/2307.10094v1)
+- 2023-07-19, **Divert More Attention to Vision-Language Object Tracking**, Mingzhe Guo et.al., Paper: [http://arxiv.org/abs/2307.10046v1](http://arxiv.org/abs/2307.10046v1)
+- 2023-07-19, **A non-monotone extra-gradient trust-region method with noisy oracles**, Natasa Krejic et.al., Paper: [http://arxiv.org/abs/2307.10038v1](http://arxiv.org/abs/2307.10038v1)
+- 2023-07-19, **Class Attention to Regions of Lesion for Imbalanced Medical Image Recognition**, Jia-Xin Zhuang et.al., Paper: [http://arxiv.org/abs/2307.10036v1](http://arxiv.org/abs/2307.10036v1)
 - 2023-07-18, **AnyDoor: Zero-shot Object-level Image Customization**, Xi Chen et.al., Paper: [http://arxiv.org/abs/2307.09481v1](http://arxiv.org/abs/2307.09481v1)
 - 2023-07-18, **FACTS: Facial Animation Creation using the Transfer of Styles**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2307.09480v1](http://arxiv.org/abs/2307.09480v1)
 - 2023-07-18, **GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**, Zhuoling Li et.al., Paper: [http://arxiv.org/abs/2307.09472v1](http://arxiv.org/abs/2307.09472v1)
@@ -2805,6 +2815,12 @@
 
 ## MultiModal
 
+- 2023-07-19, **Taming a leading theoretical uncertainty in HH measurements via accurate simulations for bbH production**, Stefano Manzoni et.al., Paper: [http://arxiv.org/abs/2307.09992v1](http://arxiv.org/abs/2307.09992v1)
+- 2023-07-19, **Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**, Zhi-Feng Zhang et.al., Paper: [http://arxiv.org/abs/2307.09983v1](http://arxiv.org/abs/2307.09983v1)
+- 2023-07-19, **Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**, Ke Li et.al., Paper: [http://arxiv.org/abs/2307.09860v1](http://arxiv.org/abs/2307.09860v1)
+- 2023-07-19, **Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**, Hang Guo et.al., Paper: [http://arxiv.org/abs/2307.09749v1](http://arxiv.org/abs/2307.09749v1)
+- 2023-07-19, **Uncertainty-Driven Multi-Scale Feature Fusion Network for Real-time Image Deraining**, Ming Tong et.al., Paper: [http://arxiv.org/abs/2307.09728v1](http://arxiv.org/abs/2307.09728v1)
+- 2023-07-19, **Multi-Grained Multimodal Interaction Network for Entity Linking**, Pengfei Luo et.al., Paper: [http://arxiv.org/abs/2307.09721v1](http://arxiv.org/abs/2307.09721v1), Code: **[https://github.com/pengfei-luo/mimic](https://github.com/pengfei-luo/mimic)**
 - 2023-07-19, **Disentangle then Parse:Night-time Semantic Segmentation with Illumination Disentanglement**, Zhixiang Wei et.al., Paper: [http://arxiv.org/abs/2307.09362v2](http://arxiv.org/abs/2307.09362v2)
 - 2023-07-18, **Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**, Kaavya Rekanar et.al., Paper: [http://arxiv.org/abs/2307.09329v1](http://arxiv.org/abs/2307.09329v1), Code: **[https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)**
 - 2023-07-18, **Multi-Modal Discussion Transformer: Integrating Text, Images and Graph Transformers to Detect Hate Speech on Social Media**, Liam Hebert et.al., Paper: [http://arxiv.org/abs/2307.09312v1](http://arxiv.org/abs/2307.09312v1), Code: **[https://github.com/liamhebert/multimodaldiscussiontransformer](https://github.com/liamhebert/multimodaldiscussiontransformer)**
