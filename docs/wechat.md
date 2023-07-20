@@ -1,4 +1,4 @@
-> Updated on 2023.07.19
+> Updated on 2023.07.20
 
 ## Video_Classification
 
@@ -6,8 +6,8 @@
 - 2023-07-18, **FACTS: Facial Animation Creation using the Transfer of Styles**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2307.09480v1](http://arxiv.org/abs/2307.09480v1)
 - 2023-07-18, **GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**, Zhuoling Li et.al., Paper: [http://arxiv.org/abs/2307.09472v1](http://arxiv.org/abs/2307.09472v1)
 - 2023-07-18, **Smooth Attention for Deep Multiple Instance Learning: Application to CT Intracranial Hemorrhage Detection**, Yunan Wu et.al., Paper: [http://arxiv.org/abs/2307.09457v1](http://arxiv.org/abs/2307.09457v1), Code: **[https://github.com/yunanwu2168/sa-mil](https://github.com/yunanwu2168/sa-mil)**
-- 2023-07-18, **A comparative analysis of SR-GAN models**, Fatemeh Rezapoor Nikroo et.al., Paper: [http://arxiv.org/abs/2307.09456v1](http://arxiv.org/abs/2307.09456v1)
-- 2023-07-18, **Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**, Jaeyoung Kim et.al., Paper: [http://arxiv.org/abs/2307.09455v1](http://arxiv.org/abs/2307.09455v1)
+- 2023-07-19, **A comparative analysis of SRGAN models**, Fatemeh Rezapoor Nikroo et.al., Paper: [http://arxiv.org/abs/2307.09456v2](http://arxiv.org/abs/2307.09456v2)
+- 2023-07-19, **Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**, Jaeyoung Kim et.al., Paper: [http://arxiv.org/abs/2307.09455v2](http://arxiv.org/abs/2307.09455v2)
 - 2023-07-18, **Measuring Student Behavioral Engagement using Histogram of Actions**, Ahmed Abdelkawy et.al., Paper: [http://arxiv.org/abs/2307.09420v1](http://arxiv.org/abs/2307.09420v1)
 - 2023-07-18, **Is this Snippet Written by ChatGPT? An Empirical Study with a CodeBERT-Based Classifier**, Phuong T. Nguyen et.al., Paper: [http://arxiv.org/abs/2307.09381v1](http://arxiv.org/abs/2307.09381v1)
 - 2023-07-18, **CertPri: Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space**, Haibin Zheng et.al., Paper: [http://arxiv.org/abs/2307.09375v1](http://arxiv.org/abs/2307.09375v1)
@@ -2805,7 +2805,7 @@
 
 ## MultiModal
 
-- 2023-07-18, **Disentangle then Parse:Night-time Semantic Segmentation with Illumination Disentanglement**, Zhixiang Wei et.al., Paper: [http://arxiv.org/abs/2307.09362v1](http://arxiv.org/abs/2307.09362v1)
+- 2023-07-19, **Disentangle then Parse:Night-time Semantic Segmentation with Illumination Disentanglement**, Zhixiang Wei et.al., Paper: [http://arxiv.org/abs/2307.09362v2](http://arxiv.org/abs/2307.09362v2)
 - 2023-07-18, **Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**, Kaavya Rekanar et.al., Paper: [http://arxiv.org/abs/2307.09329v1](http://arxiv.org/abs/2307.09329v1), Code: **[https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)**
 - 2023-07-18, **Multi-Modal Discussion Transformer: Integrating Text, Images and Graph Transformers to Detect Hate Speech on Social Media**, Liam Hebert et.al., Paper: [http://arxiv.org/abs/2307.09312v1](http://arxiv.org/abs/2307.09312v1), Code: **[https://github.com/liamhebert/multimodaldiscussiontransformer](https://github.com/liamhebert/multimodaldiscussiontransformer)**
 - 2023-07-18, **Improving Text Semantic Similarity Modeling through a 3D Siamese Network**, Jianxiang Zang et.al., Paper: [http://arxiv.org/abs/2307.09274v1](http://arxiv.org/abs/2307.09274v1)
