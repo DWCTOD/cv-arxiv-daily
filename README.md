@@ -1,4 +1,4 @@
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 
 ## Video_Classification
 
@@ -11,9 +11,9 @@
 |**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098v1](http://arxiv.org/abs/2307.10098v1)|null|
 |**2023-07-19**|**Boundary-Refined Prototype Generation: A General End-to-End Paradigm for Semi-Supervised Semantic Segmentation**|Junhao Dong et.al.|[2307.10097v1](http://arxiv.org/abs/2307.10097v1)|null|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094v1](http://arxiv.org/abs/2307.10094v1)|null|
-|**2023-07-19**|**Divert More Attention to Vision-Language Object Tracking**|Mingzhe Guo et.al.|[2307.10046v1](http://arxiv.org/abs/2307.10046v1)|null|
+|**2023-07-19**|**Divert More Attention to Vision-Language Object Tracking**|Mingzhe Guo et.al.|[2307.10046v1](http://arxiv.org/abs/2307.10046v1)|**[link](https://github.com/JudasDie/SOTS)**|
 |**2023-07-19**|**A non-monotone extra-gradient trust-region method with noisy oracles**|Natasa Krejic et.al.|[2307.10038v1](http://arxiv.org/abs/2307.10038v1)|null|
-|**2023-07-19**|**Class Attention to Regions of Lesion for Imbalanced Medical Image Recognition**|Jia-Xin Zhuang et.al.|[2307.10036v1](http://arxiv.org/abs/2307.10036v1)|null|
+|**2023-07-20**|**Class Attention to Regions of Lesion for Imbalanced Medical Image Recognition**|Jia-Xin Zhuang et.al.|[2307.10036v2](http://arxiv.org/abs/2307.10036v2)|null|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
 |**2023-07-18**|**FACTS: Facial Animation Creation using the Transfer of Styles**|Jack Saunders et.al.|[2307.09480v1](http://arxiv.org/abs/2307.09480v1)|null|
 |**2023-07-18**|**GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping**|Zhuoling Li et.al.|[2307.09472v1](http://arxiv.org/abs/2307.09472v1)|null|
