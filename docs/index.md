@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**GLSFormer : Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos**|Nisarg A. Shah et.al.|[2307.11081v1](http://arxiv.org/abs/2307.11081v1)|**[link](https://github.com/nisargshah1999/glsformer)**|
+|**2023-07-20**|**Driving Policy Prediction based on Deep Learning Models**|Fuxiao Liu et.al.|[2307.11058v1](http://arxiv.org/abs/2307.11058v1)|null|
+|**2023-07-20**|**Cascade-DETR: Delving into High-Quality Universal Object Detection**|Mingqiao Ye et.al.|[2307.11035v1](http://arxiv.org/abs/2307.11035v1)|**[link](https://github.com/syscv/cascade-detr)**|
+|**2023-07-20**|**Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification**|Neel Guha et.al.|[2307.11031v1](http://arxiv.org/abs/2307.11031v1)|null|
+|**2023-07-20**|**Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering**|Yijun Dong et.al.|[2307.11030v1](http://arxiv.org/abs/2307.11030v1)|null|
+|**2023-07-20**|**Multi-objective point cloud autoencoders for explainable myocardial infarction prediction**|Marcel Beetz et.al.|[2307.11017v1](http://arxiv.org/abs/2307.11017v1)|null|
+|**2023-07-20**|**Treatment And Follow-Up Guidelines For Multiple Brain Metastases: A Systematic Review**|Ana Sofia Santos et.al.|[2307.11016v1](http://arxiv.org/abs/2307.11016v1)|null|
+|**2023-07-20**|**Dense Sample Deep Learning**|Stephen Josè Hanson et.al.|[2307.10991v1](http://arxiv.org/abs/2307.10991v1)|null|
+|**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974v1](http://arxiv.org/abs/2307.10974v1)|**[link](https://github.com/snnresearch/spiking-unet)**|
+|**2023-07-20**|**Spinal nerve segmentation method and dataset construction in endoscopic surgical scenarios**|Shaowu Peng et.al.|[2307.10955v1](http://arxiv.org/abs/2307.10955v1)|**[link](https://github.com/zzzzzzpc/funet)**|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
 |**2023-07-19**|**Adversarial Latent Autoencoder with Self-Attention for Structural Image Synthesis**|Jiajie Fan et.al.|[2307.10166v1](http://arxiv.org/abs/2307.10166v1)|null|
 |**2023-07-19**|**Leveraging Visemes for Better Visual Speech Representation and Lip Reading**|Javad Peymanfard et.al.|[2307.10157v1](http://arxiv.org/abs/2307.10157v1)|null|
@@ -2823,6 +2833,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Perceptual Quality Assessment of Omnidirectional Audio-visual Signals**|Xilei Zhu et.al.|[2307.10813v1](http://arxiv.org/abs/2307.10813v1)|null|
+|**2023-07-20**|**Layer-wise Representation Fusion for Compositional Generalization**|Yafang Zheng et.al.|[2307.10799v1](http://arxiv.org/abs/2307.10799v1)|null|
+|**2023-07-20**|**SMURF: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar**|Jianan Liu et.al.|[2307.10784v1](http://arxiv.org/abs/2307.10784v1)|null|
+|**2023-07-20**|**LBL: Logarithmic Barrier Loss Function for One-class Classification**|Tianlei Wang et.al.|[2307.10753v1](http://arxiv.org/abs/2307.10753v1)|null|
+|**2023-07-20**|**SCA-PVNet: Self-and-Cross Attention Based Aggregation of Point Cloud and Multi-View for 3D Object Retrieval**|Dongyun Lin et.al.|[2307.10601v1](http://arxiv.org/abs/2307.10601v1)|null|
+|**2023-07-20**|**Exploiting Structure for Optimal Multi-Agent Bayesian Decentralized Estimation**|Christopher Funk et.al.|[2307.10594v1](http://arxiv.org/abs/2307.10594v1)|null|
+|**2023-07-20**|**Reference-based Painterly Inpainting via Diffusion: Crossing the Wild Reference Domain Gap**|Dejia Xu et.al.|[2307.10584v1](http://arxiv.org/abs/2307.10584v1)|null|
+|**2023-07-20**|**Deep fused flow and topology features for botnet detection basing on pretrained GCN**|Meng Xiaoyuan et.al.|[2307.10583v1](http://arxiv.org/abs/2307.10583v1)|null|
+|**2023-07-20**|**Lightweight Neural Path Planning**|Jinsong Li et.al.|[2307.10555v1](http://arxiv.org/abs/2307.10555v1)|null|
+|**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519v1](http://arxiv.org/abs/2307.10519v1)|null|
 |**2023-07-19**|**Taming a leading theoretical uncertainty in HH measurements via accurate simulations for bbH production**|Stefano Manzoni et.al.|[2307.09992v1](http://arxiv.org/abs/2307.09992v1)|null|
 |**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983v1](http://arxiv.org/abs/2307.09983v1)|null|
 |**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860v1](http://arxiv.org/abs/2307.09860v1)|null|
