@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.07.21
+## Updated on 2023.07.22
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-20**|**GLSFormer : Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos**|Nisarg A. Shah et.al.|[2307.11081v1](http://arxiv.org/abs/2307.11081v1)|**[link](https://github.com/nisargshah1999/glsformer)**|
+|**2023-07-20**|**GLSFormer: Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos**|Nisarg A. Shah et.al.|[2307.11081v1](http://arxiv.org/abs/2307.11081v1)|**[link](https://github.com/nisargshah1999/glsformer)**|
 |**2023-07-20**|**Driving Policy Prediction based on Deep Learning Models**|Fuxiao Liu et.al.|[2307.11058v1](http://arxiv.org/abs/2307.11058v1)|null|
 |**2023-07-20**|**Cascade-DETR: Delving into High-Quality Universal Object Detection**|Mingqiao Ye et.al.|[2307.11035v1](http://arxiv.org/abs/2307.11035v1)|**[link](https://github.com/syscv/cascade-detr)**|
 |**2023-07-20**|**Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification**|Neel Guha et.al.|[2307.11031v1](http://arxiv.org/abs/2307.11031v1)|null|
@@ -2836,7 +2836,7 @@ layout: default
 |**2023-07-20**|**Perceptual Quality Assessment of Omnidirectional Audio-visual Signals**|Xilei Zhu et.al.|[2307.10813v1](http://arxiv.org/abs/2307.10813v1)|null|
 |**2023-07-20**|**Layer-wise Representation Fusion for Compositional Generalization**|Yafang Zheng et.al.|[2307.10799v1](http://arxiv.org/abs/2307.10799v1)|null|
 |**2023-07-20**|**SMURF: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar**|Jianan Liu et.al.|[2307.10784v1](http://arxiv.org/abs/2307.10784v1)|null|
-|**2023-07-20**|**LBL: Logarithmic Barrier Loss Function for One-class Classification**|Tianlei Wang et.al.|[2307.10753v1](http://arxiv.org/abs/2307.10753v1)|null|
+|**2023-07-20**|**LBL: Logarithmic Barrier Loss Function for One-class Classification**|Tianlei Wang et.al.|[2307.10753v1](http://arxiv.org/abs/2307.10753v1)|**[link](https://github.com/ml-hdu/lbl_lblsig)**|
 |**2023-07-20**|**SCA-PVNet: Self-and-Cross Attention Based Aggregation of Point Cloud and Multi-View for 3D Object Retrieval**|Dongyun Lin et.al.|[2307.10601v1](http://arxiv.org/abs/2307.10601v1)|null|
 |**2023-07-20**|**Exploiting Structure for Optimal Multi-Agent Bayesian Decentralized Estimation**|Christopher Funk et.al.|[2307.10594v1](http://arxiv.org/abs/2307.10594v1)|null|
 |**2023-07-20**|**Reference-based Painterly Inpainting via Diffusion: Crossing the Wild Reference Domain Gap**|Dejia Xu et.al.|[2307.10584v1](http://arxiv.org/abs/2307.10584v1)|null|
