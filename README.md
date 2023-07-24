@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**|Monika Angwani et.al.|[2307.11722v1](http://arxiv.org/abs/2307.11722v1)|null|
+|**2023-07-21**|**Deep Learning Hyperspectral Pansharpening on large scale PRISMA dataset**|Simone Zini et.al.|[2307.11666v1](http://arxiv.org/abs/2307.11666v1)|null|
+|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654v1](http://arxiv.org/abs/2307.11654v1)|null|
+|**2023-07-21**|**Sparse Cholesky factorization by greedy conditional selection**|Stephen Huan et.al.|[2307.11648v1](http://arxiv.org/abs/2307.11648v1)|null|
+|**2023-07-21**|**Morphological Image Analysis and Feature Extraction for Reasoning with AI-based Defect Detection and Classification Models**|Jiajun Zhang et.al.|[2307.11643v1](http://arxiv.org/abs/2307.11643v1)|null|
+|**2023-07-21**|**Deep Reinforcement Learning Based System for Intraoperative Hyperspectral Video Autofocusing**|Charlie Budd et.al.|[2307.11638v1](http://arxiv.org/abs/2307.11638v1)|null|
+|**2023-07-21**|**Computational Image Formation**|Stanley H. Chan et.al.|[2307.11635v1](http://arxiv.org/abs/2307.11635v1)|null|
+|**2023-07-21**|**Finding Optimal Diverse Feature Sets with Alternative Feature Selection**|Jakob Bach et.al.|[2307.11607v1](http://arxiv.org/abs/2307.11607v1)|null|
+|**2023-07-21**|**Cascaded multitask U-Net using topological loss for vessel segmentation and centerline extraction**|Pierre Rougé et.al.|[2307.11603v1](http://arxiv.org/abs/2307.11603v1)|null|
+|**2023-07-21**|**Mixbiotic society measures: Assessment of community well-going as living system**|Takeshi Kato et.al.|[2307.11594v1](http://arxiv.org/abs/2307.11594v1)|null|
 |**2023-07-20**|**GLSFormer: Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos**|Nisarg A. Shah et.al.|[2307.11081v1](http://arxiv.org/abs/2307.11081v1)|**[link](https://github.com/nisargshah1999/glsformer)**|
 |**2023-07-20**|**Driving Policy Prediction based on Deep Learning Models**|Fuxiao Liu et.al.|[2307.11058v1](http://arxiv.org/abs/2307.11058v1)|null|
 |**2023-07-20**|**Cascade-DETR: Delving into High-Quality Universal Object Detection**|Mingqiao Ye et.al.|[2307.11035v1](http://arxiv.org/abs/2307.11035v1)|**[link](https://github.com/syscv/cascade-detr)**|
@@ -2829,6 +2839,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530v1](http://arxiv.org/abs/2307.11530v1)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
+|**2023-07-21**|**Beyond Convergence: Identifiability of Machine Learning and Deep Learning Models**|Reza Sameni et.al.|[2307.11332v1](http://arxiv.org/abs/2307.11332v1)|null|
+|**2023-07-21**|**HVDetFusion: A Simple and Robust Camera-Radar Fusion Framework**|Kai Lei et.al.|[2307.11323v1](http://arxiv.org/abs/2307.11323v1)|null|
 |**2023-07-20**|**Perceptual Quality Assessment of Omnidirectional Audio-visual Signals**|Xilei Zhu et.al.|[2307.10813v1](http://arxiv.org/abs/2307.10813v1)|null|
 |**2023-07-20**|**Layer-wise Representation Fusion for Compositional Generalization**|Yafang Zheng et.al.|[2307.10799v1](http://arxiv.org/abs/2307.10799v1)|null|
 |**2023-07-20**|**SMURF: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar**|Jianan Liu et.al.|[2307.10784v1](http://arxiv.org/abs/2307.10784v1)|null|
