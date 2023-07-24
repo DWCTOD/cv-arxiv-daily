@@ -1,4 +1,4 @@
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 |**2023-07-20**|**Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering**|Yijun Dong et.al.|[2307.11030v1](http://arxiv.org/abs/2307.11030v1)|null|
 |**2023-07-20**|**Multi-objective point cloud autoencoders for explainable myocardial infarction prediction**|Marcel Beetz et.al.|[2307.11017v1](http://arxiv.org/abs/2307.11017v1)|null|
 |**2023-07-20**|**Treatment And Follow-Up Guidelines For Multiple Brain Metastases: A Systematic Review**|Ana Sofia Santos et.al.|[2307.11016v1](http://arxiv.org/abs/2307.11016v1)|null|
-|**2023-07-20**|**Dense Sample Deep Learning**|Stephen Josè Hanson et.al.|[2307.10991v1](http://arxiv.org/abs/2307.10991v1)|null|
+|**2023-07-21**|**Dense Sample Deep Learning**|Stephen Josè Hanson et.al.|[2307.10991v2](http://arxiv.org/abs/2307.10991v2)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974v1](http://arxiv.org/abs/2307.10974v1)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-20**|**Spinal nerve segmentation method and dataset construction in endoscopic surgical scenarios**|Shaowu Peng et.al.|[2307.10955v1](http://arxiv.org/abs/2307.10955v1)|**[link](https://github.com/zzzzzzpc/funet)**|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173v1](http://arxiv.org/abs/2307.10173v1)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
