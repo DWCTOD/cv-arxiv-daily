@@ -1,12 +1,12 @@
-> Updated on 2023.07.24
+> Updated on 2023.07.25
 
 ## Video_Classification
 
 - 2023-07-21, **Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**, Monika Angwani et.al., Paper: [http://arxiv.org/abs/2307.11722v1](http://arxiv.org/abs/2307.11722v1)
 - 2023-07-21, **Deep Learning Hyperspectral Pansharpening on large scale PRISMA dataset**, Simone Zini et.al., Paper: [http://arxiv.org/abs/2307.11666v1](http://arxiv.org/abs/2307.11666v1)
 - 2023-07-21, **FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**, Héctor Carrión et.al., Paper: [http://arxiv.org/abs/2307.11654v1](http://arxiv.org/abs/2307.11654v1)
-- 2023-07-21, **Sparse Cholesky factorization by greedy conditional selection**, Stephen Huan et.al., Paper: [http://arxiv.org/abs/2307.11648v1](http://arxiv.org/abs/2307.11648v1)
-- 2023-07-21, **Morphological Image Analysis and Feature Extraction for Reasoning with AI-based Defect Detection and Classification Models**, Jiajun Zhang et.al., Paper: [http://arxiv.org/abs/2307.11643v1](http://arxiv.org/abs/2307.11643v1)
+- 2023-07-21, **Sparse Cholesky factorization by greedy conditional selection**, Stephen Huan et.al., Paper: [http://arxiv.org/abs/2307.11648v1](http://arxiv.org/abs/2307.11648v1), Code: **[https://github.com/stephen-huan/conditional-knn](https://github.com/stephen-huan/conditional-knn)**
+- 2023-07-24, **Morphological Image Analysis and Feature Extraction for Reasoning with AI-based Defect Detection and Classification Models**, Jiajun Zhang et.al., Paper: [http://arxiv.org/abs/2307.11643v2](http://arxiv.org/abs/2307.11643v2)
 - 2023-07-21, **Deep Reinforcement Learning Based System for Intraoperative Hyperspectral Video Autofocusing**, Charlie Budd et.al., Paper: [http://arxiv.org/abs/2307.11638v1](http://arxiv.org/abs/2307.11638v1)
 - 2023-07-21, **Computational Image Formation**, Stanley H. Chan et.al., Paper: [http://arxiv.org/abs/2307.11635v1](http://arxiv.org/abs/2307.11635v1)
 - 2023-07-21, **Finding Optimal Diverse Feature Sets with Alternative Feature Selection**, Jakob Bach et.al., Paper: [http://arxiv.org/abs/2307.11607v1](http://arxiv.org/abs/2307.11607v1)
