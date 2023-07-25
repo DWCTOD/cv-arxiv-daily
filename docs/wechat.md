@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-07-24, **Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification**, Flor Miriam Plaza-del-Arco et.al., Paper: [http://arxiv.org/abs/2307.12973v1](http://arxiv.org/abs/2307.12973v1)
+- 2023-07-24, **A Connection between One-Step Regularization and Critic Regularization in Reinforcement Learning**, Benjamin Eysenbach et.al., Paper: [http://arxiv.org/abs/2307.12968v1](http://arxiv.org/abs/2307.12968v1), Code: **[https://github.com/ben-eysenbach/ac-connection](https://github.com/ben-eysenbach/ac-connection)**
+- 2023-07-24, **Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment**, Sarah Ibrahimi et.al., Paper: [http://arxiv.org/abs/2307.12964v1](http://arxiv.org/abs/2307.12964v1)
+- 2023-07-24, **Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**, Christopher Clarke et.al., Paper: [http://arxiv.org/abs/2307.12935v1](http://arxiv.org/abs/2307.12935v1), Code: **[https://github.com/chrisisking/rule-by-example](https://github.com/chrisisking/rule-by-example)**
+- 2023-07-24, **Towards a Visual-Language Foundation Model for Computational Pathology**, Ming Y. Lu et.al., Paper: [http://arxiv.org/abs/2307.12914v1](http://arxiv.org/abs/2307.12914v1)
+- 2023-07-24, **Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**, Shangzhan Zhang et.al., Paper: [http://arxiv.org/abs/2307.12909v1](http://arxiv.org/abs/2307.12909v1)
+- 2023-07-24, **Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding**, Fabian Brand et.al., Paper: [http://arxiv.org/abs/2307.12864v1](http://arxiv.org/abs/2307.12864v1)
+- 2023-07-24, **Multiscale Video Pretraining for Long-Term Activity Forecasting**, Reuben Tan et.al., Paper: [http://arxiv.org/abs/2307.12854v1](http://arxiv.org/abs/2307.12854v1)
+- 2023-07-24, **Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**, C. I. Ugwu et.al., Paper: [http://arxiv.org/abs/2307.12853v1](http://arxiv.org/abs/2307.12853v1)
+- 2023-07-24, **Early Neuron Alignment in Two-layer ReLU Networks with Small Initialization**, Hancheng Min et.al., Paper: [http://arxiv.org/abs/2307.12851v1](http://arxiv.org/abs/2307.12851v1)
 - 2023-07-21, **Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**, Monika Angwani et.al., Paper: [http://arxiv.org/abs/2307.11722v1](http://arxiv.org/abs/2307.11722v1)
 - 2023-07-21, **Deep Learning Hyperspectral Pansharpening on large scale PRISMA dataset**, Simone Zini et.al., Paper: [http://arxiv.org/abs/2307.11666v1](http://arxiv.org/abs/2307.11666v1)
 - 2023-07-21, **FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**, Héctor Carrión et.al., Paper: [http://arxiv.org/abs/2307.11654v1](http://arxiv.org/abs/2307.11654v1)
@@ -2835,6 +2845,16 @@
 
 ## MultiModal
 
+- 2023-07-24, **Timely Target Tracking: Distributed Updating in Cognitive Radar Networks**, William W. Howard et.al., Paper: [http://arxiv.org/abs/2307.12936v1](http://arxiv.org/abs/2307.12936v1)
+- 2023-07-24, **Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**, C. I. Ugwu et.al., Paper: [http://arxiv.org/abs/2307.12853v1](http://arxiv.org/abs/2307.12853v1)
+- 2023-07-24, **GNSS-stereo-inertial SLAM for arable farming**, Javier Cremona et.al., Paper: [http://arxiv.org/abs/2307.12836v1](http://arxiv.org/abs/2307.12836v1)
+- 2023-07-24, **Fast Full-frame Video Stabilization with Iterative Optimization**, Weiyue Zhao et.al., Paper: [http://arxiv.org/abs/2307.12774v1](http://arxiv.org/abs/2307.12774v1)
+- 2023-07-24, **HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability Exploitation**, Runzhen Xue et.al., Paper: [http://arxiv.org/abs/2307.12765v1](http://arxiv.org/abs/2307.12765v1)
+- 2023-07-24, **FaFCNN: A General Disease Classification Framework Based on Feature Fusion Neural Networks**, Menglin Kong et.al., Paper: [http://arxiv.org/abs/2307.12518v1](http://arxiv.org/abs/2307.12518v1)
+- 2023-07-23, **Chasing Nomadic Worlds: A New Class of Deep Space Missions**, Manasvi Lingam et.al., Paper: [http://arxiv.org/abs/2307.12411v1](http://arxiv.org/abs/2307.12411v1)
+- 2023-07-23, **Iterative Robust Visual Grounding with Masked Reference based Centerpoint Supervision**, Menghao Li et.al., Paper: [http://arxiv.org/abs/2307.12392v1](http://arxiv.org/abs/2307.12392v1), Code: **[https://github.com/cv516buaa/ir-vg](https://github.com/cv516buaa/ir-vg)**
+- 2023-07-23, **Unveiling the properties of the dimuonium at the energies available at the Large Hadron Collider at CERN**, C. A. Bertulani et.al., Paper: [http://arxiv.org/abs/2307.12387v1](http://arxiv.org/abs/2307.12387v1)
+- 2023-07-23, **4D Feet: Registering Walking Foot Shapes Using Attention Enhanced Dynamic-Synchronized Graph Convolutional LSTM Network**, Farzam Tajdari et.al., Paper: [http://arxiv.org/abs/2307.12377v1](http://arxiv.org/abs/2307.12377v1)
 - 2023-07-21, **UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**, Zhaojie Fang et.al., Paper: [http://arxiv.org/abs/2307.11530v1](http://arxiv.org/abs/2307.11530v1), Code: **[https://github.com/Tinysqua/UWAT-GAN](https://github.com/Tinysqua/UWAT-GAN)**
 - 2023-07-21, **Beyond Convergence: Identifiability of Machine Learning and Deep Learning Models**, Reza Sameni et.al., Paper: [http://arxiv.org/abs/2307.11332v1](http://arxiv.org/abs/2307.11332v1)
 - 2023-07-21, **HVDetFusion: A Simple and Robust Camera-Radar Fusion Framework**, Kai Lei et.al., Paper: [http://arxiv.org/abs/2307.11323v1](http://arxiv.org/abs/2307.11323v1)
