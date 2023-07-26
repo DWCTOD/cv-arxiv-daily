@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**RED CoMETS: An ensemble classifier for symbolically represented multivariate time series**|Luca A. Bennett et.al.|[2307.13679v1](http://arxiv.org/abs/2307.13679v1)|**[link](https://github.com/zy18811/red-comets)**|
+|**2023-07-25**|**QuickQual: Lightweight, convenient retinal image quality scoring with off-the-shelf pretrained models**|Justin Engelmann et.al.|[2307.13646v1](http://arxiv.org/abs/2307.13646v1)|**[link](https://github.com/justinengelmann/quickqual)**|
+|**2023-07-25**|**Manifestly Covariant Worldline Actions from Coadjoint Orbits. Part I: Generalities and Vectorial Descriptions**|Thomas Basile et.al.|[2307.13644v1](http://arxiv.org/abs/2307.13644v1)|null|
+|**2023-07-25**|**Optical Flow boosts Unsupervised Localization and Segmentation**|Xinyu Zhang et.al.|[2307.13640v1](http://arxiv.org/abs/2307.13640v1)|**[link](https://github.com/mlzxy/flowdino)**|
+|**2023-07-25**|**Insights into Cognitive Engagement: Comparing the Effectiveness of Game-Based and Video-Based Learning**|Shayla Sharmin et.al.|[2307.13637v1](http://arxiv.org/abs/2307.13637v1)|null|
+|**2023-07-25**|**Contributions to the Improvement of Question Answering Systems in the Biomedical Domain**|Mourad Sarrouti et.al.|[2307.13631v1](http://arxiv.org/abs/2307.13631v1)|null|
+|**2023-07-25**|**Chandra X-ray Observatory Observations of 13 Fermi LAT Sources**|Blagoy Rangelov et.al.|[2307.13594v1](http://arxiv.org/abs/2307.13594v1)|null|
+|**2023-07-25**|**Reinterpreting survival analysis in the universal approximator age**|Sören Dittmer et.al.|[2307.13579v1](http://arxiv.org/abs/2307.13579v1)|**[link](https://github.com/sdittmer/survival_analysis_sumo_plus_plus)**|
+|**2023-07-25**|**PT$\mathrm{L}^{p}$: Partial Transport $\mathrm{L}^{p}$ Distances**|Xinran Liu et.al.|[2307.13571v1](http://arxiv.org/abs/2307.13571v1)|null|
+|**2023-07-25**|**Group Activity Recognition in Computer Vision: A Comprehensive Review, Challenges, and Future Perspectives**|Chuanchuan Wang et.al.|[2307.13541v1](http://arxiv.org/abs/2307.13541v1)|null|
 |**2023-07-24**|**Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification**|Flor Miriam Plaza-del-Arco et.al.|[2307.12973v1](http://arxiv.org/abs/2307.12973v1)|null|
 |**2023-07-24**|**A Connection between One-Step Regularization and Critic Regularization in Reinforcement Learning**|Benjamin Eysenbach et.al.|[2307.12968v1](http://arxiv.org/abs/2307.12968v1)|**[link](https://github.com/ben-eysenbach/ac-connection)**|
 |**2023-07-24**|**Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment**|Sarah Ibrahimi et.al.|[2307.12964v1](http://arxiv.org/abs/2307.12964v1)|null|
@@ -2853,6 +2863,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Spectrum-guided Multi-granularity Referring Video Object Segmentation**|Bo Miao et.al.|[2307.13537v1](http://arxiv.org/abs/2307.13537v1)|**[link](https://github.com/bo-miao/sgmg)**|
+|**2023-07-25**|**Multi-Granularity Prediction with Learnable Fusion for Scene Text Recognition**|Cheng Da et.al.|[2307.13244v1](http://arxiv.org/abs/2307.13244v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
+|**2023-07-25**|**Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2307.13236v1](http://arxiv.org/abs/2307.13236v1)|null|
+|**2023-07-25**|**Text-oriented Modality Reinforcement Network for Multimodal Sentiment Analysis from Unaligned Multimodal Sequences**|Yuxuan Lei et.al.|[2307.13205v1](http://arxiv.org/abs/2307.13205v1)|null|
+|**2023-07-24**|**Fourier-Domain Inversion for the Modulo Radon Transform**|Matthias Beckmann et.al.|[2307.13114v1](http://arxiv.org/abs/2307.13114v1)|null|
 |**2023-07-25**|**Timely Target Tracking: Distributed Updating in Cognitive Radar Networks**|William W. Howard et.al.|[2307.12936v2](http://arxiv.org/abs/2307.12936v2)|null|
 |**2023-07-25**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v2](http://arxiv.org/abs/2307.12853v2)|null|
 |**2023-07-24**|**GNSS-stereo-inertial SLAM for arable farming**|Javier Cremona et.al.|[2307.12836v1](http://arxiv.org/abs/2307.12836v1)|**[link](https://github.com/CIFASIS/gnss-stereo-inertial-fusion)**|
