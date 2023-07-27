@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation**|Rajeev Yasarla et.al.|[2307.14336v1](http://arxiv.org/abs/2307.14336v1)|null|
+|**2023-07-26**|**Event-based Vision for Early Prediction of Manipulation Actions**|Daniel Deniz et.al.|[2307.14332v1](http://arxiv.org/abs/2307.14332v1)|null|
+|**2023-07-26**|**Waypoint-Based Imitation Learning for Robotic Manipulation**|Lucy Xiaoyang Shi et.al.|[2307.14326v1](http://arxiv.org/abs/2307.14326v1)|null|
+|**2023-07-26**|**Unraveling the Complexity of Splitting Sequential Data: Tackling Challenges in Video and Time Series Analysis**|Diego Botache et.al.|[2307.14294v1](http://arxiv.org/abs/2307.14294v1)|null|
+|**2023-07-26**|**G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory**|Hongxiang Li et.al.|[2307.14277v1](http://arxiv.org/abs/2307.14277v1)|null|
+|**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273v1](http://arxiv.org/abs/2307.14273v1)|null|
+|**2023-07-26**|**Sim-to-Real Model-Based and Model-Free Deep Reinforcement Learning for Tactile Pushing**|Max Yang et.al.|[2307.14272v1](http://arxiv.org/abs/2307.14272v1)|null|
+|**2023-07-26**|**Artifact Restoration in Histology Images with Diffusion Probabilistic Models**|Zhenqi He et.al.|[2307.14262v1](http://arxiv.org/abs/2307.14262v1)|**[link](https://github.com/zhenqi-he/artifusion)**|
+|**2023-07-26**|**Defending Adversarial Patches via Joint Region Localizing and Inpainting**|Junwen Chen et.al.|[2307.14242v1](http://arxiv.org/abs/2307.14242v1)|null|
+|**2023-07-26**|**DisguisOR: Holistic Face Anonymization for the Operating Room**|Lennart Bastian et.al.|[2307.14241v1](http://arxiv.org/abs/2307.14241v1)|**[link](https://github.com/wngtn/disguisor)**|
 |**2023-07-25**|**RED CoMETS: An ensemble classifier for symbolically represented multivariate time series**|Luca A. Bennett et.al.|[2307.13679v1](http://arxiv.org/abs/2307.13679v1)|**[link](https://github.com/zy18811/red-comets)**|
 |**2023-07-25**|**QuickQual: Lightweight, convenient retinal image quality scoring with off-the-shelf pretrained models**|Justin Engelmann et.al.|[2307.13646v1](http://arxiv.org/abs/2307.13646v1)|**[link](https://github.com/justinengelmann/quickqual)**|
 |**2023-07-25**|**Manifestly Covariant Worldline Actions from Coadjoint Orbits. Part I: Generalities and Vectorial Descriptions**|Thomas Basile et.al.|[2307.13644v1](http://arxiv.org/abs/2307.13644v1)|null|
@@ -2863,6 +2873,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**US & MR Image-Fusion Based on Skin Co-Registration**|Martina Paccini et.al.|[2307.14288v1](http://arxiv.org/abs/2307.14288v1)|null|
+|**2023-07-26**|**Heterogeneous Receptors - Based Molecule Harvesting in MC: Analysis for ISI Mitigation and Energy Efficiency**|Xinyu Huang et.al.|[2307.14202v1](http://arxiv.org/abs/2307.14202v1)|null|
+|**2023-07-26**|**Multi-modal Learning with Missing Modality via Shared-Specific Feature Modelling**|Hu Wang et.al.|[2307.14126v1](http://arxiv.org/abs/2307.14126v1)|null|
+|**2023-07-26**|**Adaptive Frequency Filters As Efficient Global Token Mixers**|Zhipeng Huang et.al.|[2307.14008v1](http://arxiv.org/abs/2307.14008v1)|null|
+|**2023-07-26**|**Improved Ion Heating in Fast Ignition by Pulse Shaping**|Henry Fetsch et.al.|[2307.13988v1](http://arxiv.org/abs/2307.13988v1)|null|
+|**2023-07-26**|**AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception**|Dingkang Yang et.al.|[2307.13933v1](http://arxiv.org/abs/2307.13933v1)|**[link](https://github.com/ydk122024/aide)**|
+|**2023-07-26**|**Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception**|Kun Yang et.al.|[2307.13929v1](http://arxiv.org/abs/2307.13929v1)|null|
+|**2023-07-26**|**EasyNet: An Easy Network for 3D Industrial Anomaly Detection**|Ruitao Chen et.al.|[2307.13925v1](http://arxiv.org/abs/2307.13925v1)|null|
+|**2023-07-25**|**MAEA: Multimodal Attribution for Embodied AI**|Vidhi Jain et.al.|[2307.13850v1](http://arxiv.org/abs/2307.13850v1)|null|
+|**2023-07-25**|**Classification of finite depth objects in bicommutant categories via anchored planar algebras**|André Henriques et.al.|[2307.13822v1](http://arxiv.org/abs/2307.13822v1)|null|
 |**2023-07-25**|**Spectrum-guided Multi-granularity Referring Video Object Segmentation**|Bo Miao et.al.|[2307.13537v1](http://arxiv.org/abs/2307.13537v1)|**[link](https://github.com/bo-miao/sgmg)**|
 |**2023-07-25**|**Multi-Granularity Prediction with Learnable Fusion for Scene Text Recognition**|Cheng Da et.al.|[2307.13244v1](http://arxiv.org/abs/2307.13244v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
 |**2023-07-25**|**Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation**|Jinxiang Liu et.al.|[2307.13236v1](http://arxiv.org/abs/2307.13236v1)|null|
