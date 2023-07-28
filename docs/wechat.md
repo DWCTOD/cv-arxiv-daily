@@ -1,4 +1,4 @@
-> Updated on 2023.07.27
+> Updated on 2023.07.28
 
 ## Video_Classification
 
@@ -2872,7 +2872,7 @@
 - 2023-07-26, **Improved Ion Heating in Fast Ignition by Pulse Shaping**, Henry Fetsch et.al., Paper: [http://arxiv.org/abs/2307.13988v1](http://arxiv.org/abs/2307.13988v1)
 - 2023-07-26, **AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception**, Dingkang Yang et.al., Paper: [http://arxiv.org/abs/2307.13933v1](http://arxiv.org/abs/2307.13933v1), Code: **[https://github.com/ydk122024/aide](https://github.com/ydk122024/aide)**
 - 2023-07-26, **Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception**, Kun Yang et.al., Paper: [http://arxiv.org/abs/2307.13929v1](http://arxiv.org/abs/2307.13929v1)
-- 2023-07-26, **EasyNet: An Easy Network for 3D Industrial Anomaly Detection**, Ruitao Chen et.al., Paper: [http://arxiv.org/abs/2307.13925v1](http://arxiv.org/abs/2307.13925v1)
+- 2023-07-27, **EasyNet: An Easy Network for 3D Industrial Anomaly Detection**, Ruitao Chen et.al., Paper: [http://arxiv.org/abs/2307.13925v2](http://arxiv.org/abs/2307.13925v2)
 - 2023-07-25, **MAEA: Multimodal Attribution for Embodied AI**, Vidhi Jain et.al., Paper: [http://arxiv.org/abs/2307.13850v1](http://arxiv.org/abs/2307.13850v1)
 - 2023-07-25, **Classification of finite depth objects in bicommutant categories via anchored planar algebras**, André Henriques et.al., Paper: [http://arxiv.org/abs/2307.13822v1](http://arxiv.org/abs/2307.13822v1)
 - 2023-07-25, **Spectrum-guided Multi-granularity Referring Video Object Segmentation**, Bo Miao et.al., Paper: [http://arxiv.org/abs/2307.13537v1](http://arxiv.org/abs/2307.13537v1), Code: **[https://github.com/bo-miao/sgmg](https://github.com/bo-miao/sgmg)**
