@@ -2882,7 +2882,7 @@
 - 2023-07-27, **A full-resolution training framework for Sentinel-2 image fusion**, Matteo Ciotola et.al., Paper: [http://arxiv.org/abs/2307.14864v1](http://arxiv.org/abs/2307.14864v1)
 - 2023-07-27, **Quantum Computer Simulations at Warp Speed: Assessing the Impact of GPU Acceleration**, Jennifer Faj et.al., Paper: [http://arxiv.org/abs/2307.14860v1](http://arxiv.org/abs/2307.14860v1)
 - 2023-07-27, **Exploiting the Potential of Seq2Seq Models as Robust Few-Shot Learners**, Jihyeon Lee et.al., Paper: [http://arxiv.org/abs/2307.14856v1](http://arxiv.org/abs/2307.14856v1)
-- 2023-07-27, **pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**, Abhishek Kuriyal et.al., Paper: [http://arxiv.org/abs/2307.14777v1](http://arxiv.org/abs/2307.14777v1)
+- 2023-07-27, **pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**, Abhishek Kuriyal et.al., Paper: [http://arxiv.org/abs/2307.14777v1](http://arxiv.org/abs/2307.14777v1), Code: **[https://github.com/GeoAI-Research-Lab/PCTFusion](https://github.com/GeoAI-Research-Lab/PCTFusion)**
 - 2023-07-27, **Optimality of Split Covariance Intersection Fusion**, Colin Cros et.al., Paper: [http://arxiv.org/abs/2307.14741v1](http://arxiv.org/abs/2307.14741v1)
 - 2023-07-27, **EqGAN: Feature Equalization Fusion for Few-shot Image Generation**, Yingbo Zhou et.al., Paper: [http://arxiv.org/abs/2307.14638v1](http://arxiv.org/abs/2307.14638v1)
 - 2023-07-26, **US & MR Image-Fusion Based on Skin Co-Registration**, Martina Paccini et.al., Paper: [http://arxiv.org/abs/2307.14288v1](http://arxiv.org/abs/2307.14288v1)
