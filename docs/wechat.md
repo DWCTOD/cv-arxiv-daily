@@ -10,7 +10,7 @@
 - 2023-07-27, **Gzip versus bag-of-words for text classification with KNN**, Juri Opitz et.al., Paper: [http://arxiv.org/abs/2307.15002v1](http://arxiv.org/abs/2307.15002v1)
 - 2023-07-27, **Incrementally-Computable Neural Networks: Efficient Inference for Dynamic Inputs**, Or Sharir et.al., Paper: [http://arxiv.org/abs/2307.14988v1](http://arxiv.org/abs/2307.14988v1)
 - 2023-07-27, **Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models**, Ziyi Wang et.al., Paper: [http://arxiv.org/abs/2307.14971v1](http://arxiv.org/abs/2307.14971v1), Code: **[https://github.com/wangzy22/tap](https://github.com/wangzy22/tap)**
-- 2023-07-27, **Federated Model Aggregation via Self-Supervised Priors for Highly Imbalanced Medical Image Classification**, Marawan Elbatel et.al., Paper: [http://arxiv.org/abs/2307.14959v1](http://arxiv.org/abs/2307.14959v1)
+- 2023-07-27, **Federated Model Aggregation via Self-Supervised Priors for Highly Imbalanced Medical Image Classification**, Marawan Elbatel et.al., Paper: [http://arxiv.org/abs/2307.14959v1](http://arxiv.org/abs/2307.14959v1), Code: **[https://github.com/xmed-lab/fed-mas](https://github.com/xmed-lab/fed-mas)**
 - 2023-07-27, **Multi-Source Domain Adaptation through Dataset Dictionary Learning in Wasserstein Space**, Eduardo Fernandes Montesuma et.al., Paper: [http://arxiv.org/abs/2307.14953v1](http://arxiv.org/abs/2307.14953v1)
 - 2023-07-26, **MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation**, Rajeev Yasarla et.al., Paper: [http://arxiv.org/abs/2307.14336v1](http://arxiv.org/abs/2307.14336v1)
 - 2023-07-26, **Event-based Vision for Early Prediction of Manipulation Actions**, Daniel Deniz et.al., Paper: [http://arxiv.org/abs/2307.14332v1](http://arxiv.org/abs/2307.14332v1)
