@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712v1](http://arxiv.org/abs/2307.15712v1)|**[link](https://github.com/mcmahon-lab/Single-Photon-Detection-Neural-Networks)**|
+|**2023-07-28**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v1](http://arxiv.org/abs/2307.15700v1)|null|
+|**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692v1](http://arxiv.org/abs/2307.15692v1)|null|
+|**2023-07-28**|**ODTlearn: A Package for Learning Optimal Decision Trees for Prediction and Prescription**|Patrick Vossler et.al.|[2307.15691v1](http://arxiv.org/abs/2307.15691v1)|**[link](https://github.com/d3m-research-group/odtlearn)**|
+|**2023-07-28**|**Dynamic Analysis and an Eigen Initializer for Recurrent Neural Networks**|Ran Dou et.al.|[2307.15679v1](http://arxiv.org/abs/2307.15679v1)|null|
+|**2023-07-28**|**Bayesian Time-Series Classifier for Decoding Simple Visual Stimuli from Intracranial Neural Activity**|Navid Ziaei et.al.|[2307.15672v1](http://arxiv.org/abs/2307.15672v1)|null|
+|**2023-07-28**|**Classifying core collapse supernova remnants by their morphology as shaped by the last exploding jets**|Noam Soker et.al.|[2307.15666v1](http://arxiv.org/abs/2307.15666v1)|null|
+|**2023-07-28**|**Multi-layer Aggregation as a key to feature-based OOD detection**|Benjamin Lambert et.al.|[2307.15647v1](http://arxiv.org/abs/2307.15647v1)|null|
+|**2023-07-28**|**Scale-aware Test-time Click Adaptation for Pulmonary Nodule and Mass Segmentation**|Zhihao Li et.al.|[2307.15645v1](http://arxiv.org/abs/2307.15645v1)|**[link](https://github.com/splinterli/sattca)**|
+|**2023-07-28**|**TriadNet: Sampling-free predictive intervals for lesional volume in 3D brain MR images**|Benjamin Lambert et.al.|[2307.15638v1](http://arxiv.org/abs/2307.15638v1)|null|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
 |**2023-07-27**|**A Transformer-based Approach for Arabic Offline Handwritten Text Recognition**|Saleh Momeni et.al.|[2307.15045v1](http://arxiv.org/abs/2307.15045v1)|null|
 |**2023-07-27**|**Drive Asymmetry, Convergence and the Origin of Turbulence in ICF Implosions**|Vincent A. Thomas et.al.|[2307.15028v1](http://arxiv.org/abs/2307.15028v1)|null|
@@ -2883,6 +2893,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**OAFuser: Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes**|Fei Teng et.al.|[2307.15588v1](http://arxiv.org/abs/2307.15588v1)|**[link](https://github.com/feibryantkit/oafuser)**|
+|**2023-07-28**|**All-for-One and One-For-All: Deep learning-based feature fusion for Synthetic Speech Detection**|Daniele Mari et.al.|[2307.15555v1](http://arxiv.org/abs/2307.15555v1)|null|
+|**2023-07-28**|**CFN-ESA: A Cross-Modal Fusion Network with Emotion-Shift Awareness for Dialogue Emotion Recognition**|Jiang Li et.al.|[2307.15432v1](http://arxiv.org/abs/2307.15432v1)|null|
+|**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333v1](http://arxiv.org/abs/2307.15333v1)|null|
+|**2023-07-28**|**DocDeshadower: Frequency-aware Transformer for Document Shadow Removal**|Shenghong Luo et.al.|[2307.15318v1](http://arxiv.org/abs/2307.15318v1)|null|
+|**2023-07-28**|**Attentive Multimodal Fusion for Optical and Scene Flow**|Youjie Zhou et.al.|[2307.15301v1](http://arxiv.org/abs/2307.15301v1)|**[link](https://github.com/jiesico/fusionraft)**|
+|**2023-07-28**|**3D Radar and Camera Co-Calibration: A Flexible and Accurate Method for Target-based Extrinsic Calibration**|Lei Cheng et.al.|[2307.15264v1](http://arxiv.org/abs/2307.15264v1)|null|
 |**2023-07-27**|**PolyHoop: Soft particle and tissue dynamics with topological transitions**|Roman Vetter et.al.|[2307.15006v1](http://arxiv.org/abs/2307.15006v1)|null|
 |**2023-07-27**|**Network Fault-tolerant and Byzantine-resilient Social Learning via Collaborative Hierarchical Non-Bayesian Learning**|Connor Mclaughlin et.al.|[2307.14952v1](http://arxiv.org/abs/2307.14952v1)|null|
 |**2023-07-27**|**Lipid bilayer fluidity and degree of order regulates small EVs adsorption on model cell membrane**|Carolina Paba et.al.|[2307.14903v1](http://arxiv.org/abs/2307.14903v1)|null|
