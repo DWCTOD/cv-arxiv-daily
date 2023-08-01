@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**A Quantized Interband Topological Index in Two-Dimensional Systems**|Tharindu Fernando et.al.|[2307.16893v1](http://arxiv.org/abs/2307.16893v1)|null|
+|**2023-07-31**|**Foundational Models for Fault Diagnosis of Electrical Motors**|Sriram Anbalagan et.al.|[2307.16891v1](http://arxiv.org/abs/2307.16891v1)|null|
+|**2023-07-31**|**Discovering Adaptable Symbolic Algorithms from Scratch**|Stephen Kelly et.al.|[2307.16890v1](http://arxiv.org/abs/2307.16890v1)|null|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v1](http://arxiv.org/abs/2307.16865v1)|null|
+|**2023-07-31**|**Nonlinearity-induced topological phase transition characterized by the nonlinear Chern number**|Kazuki Sone et.al.|[2307.16827v1](http://arxiv.org/abs/2307.16827v1)|null|
+|**2023-07-31**|**Defense of Adversarial Ranking Attack in Text Retrieval: Benchmark and Baseline via Detection**|Xuanang Chen et.al.|[2307.16816v1](http://arxiv.org/abs/2307.16816v1)|null|
+|**2023-07-31**|**Capturing Co-existing Distortions in User-Generated Content for No-reference Video Quality Assessment**|Kun Yuan et.al.|[2307.16813v1](http://arxiv.org/abs/2307.16813v1)|null|
+|**2023-07-31**|**DoDo Learning: DOmain-DemOgraphic Transfer in Language Models for Detecting Abuse Targeted at Public Figures**|Hannah Rose Kirk et.al.|[2307.16811v1](http://arxiv.org/abs/2307.16811v1)|null|
+|**2023-07-31**|**DPMix: Mixture of Depth and Point Cloud Video Experts for 4D Action Segmentation**|Yue Zhang et.al.|[2307.16803v1](http://arxiv.org/abs/2307.16803v1)|null|
+|**2023-07-31**|**Classification with Deep Neural Networks and Logistic Loss**|Zihan Zhang et.al.|[2307.16792v1](http://arxiv.org/abs/2307.16792v1)|null|
 |**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712v1](http://arxiv.org/abs/2307.15712v1)|null|
 |**2023-07-31**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v2](http://arxiv.org/abs/2307.15700v2)|null|
 |**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692v1](http://arxiv.org/abs/2307.15692v1)|null|
@@ -2889,6 +2899,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification**|Haozhen Zhang et.al.|[2307.16713v1](http://arxiv.org/abs/2307.16713v1)|null|
+|**2023-07-31**|**NEON: Living Needs Prediction System in Meituan**|Xiaochong Lan et.al.|[2307.16644v1](http://arxiv.org/abs/2307.16644v1)|null|
+|**2023-07-31**|**FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration**|Zhijian Huang et.al.|[2307.16617v1](http://arxiv.org/abs/2307.16617v1)|null|
+|**2023-07-31**|**SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model**|Shili Zhou et.al.|[2307.16586v1](http://arxiv.org/abs/2307.16586v1)|null|
+|**2023-07-31**|**Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion**|Yang Liu et.al.|[2307.16532v1](http://arxiv.org/abs/2307.16532v1)|null|
+|**2023-07-31**|**Rethinking Collaborative Perception from the Spatial-Temporal Importance of Semantic Information**|Yuntao Liu et.al.|[2307.16517v1](http://arxiv.org/abs/2307.16517v1)|**[link](https://github.com/huangqzj/iosi-cp)**|
+|**2023-07-31**|**Measurement of the CPV Higgs mixing angle in ZZ-fusion at 1 TeV ILC**|N. Vukašinović et.al.|[2307.16514v1](http://arxiv.org/abs/2307.16514v1)|null|
+|**2023-07-31**|**DRAW: Defending Camera-shooted RAW against Image Manipulation**|Xiaoxiao Hu et.al.|[2307.16418v1](http://arxiv.org/abs/2307.16418v1)|null|
+|**2023-07-31**|**Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans**|Yanteng Zhanga et.al.|[2307.16366v1](http://arxiv.org/abs/2307.16366v1)|null|
+|**2023-07-30**|**3D Medical Image Segmentation with Sparse Annotation via Cross-Teaching between 3D and 2D Networks**|Heng Cai et.al.|[2307.16256v1](http://arxiv.org/abs/2307.16256v1)|null|
 |**2023-07-28**|**OAFuser: Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes**|Fei Teng et.al.|[2307.15588v1](http://arxiv.org/abs/2307.15588v1)|**[link](https://github.com/feibryantkit/oafuser)**|
 |**2023-07-28**|**All-for-One and One-For-All: Deep learning-based feature fusion for Synthetic Speech Detection**|Daniele Mari et.al.|[2307.15555v1](http://arxiv.org/abs/2307.15555v1)|null|
 |**2023-07-28**|**CFN-ESA: A Cross-Modal Fusion Network with Emotion-Shift Awareness for Dialogue Emotion Recognition**|Jiang Li et.al.|[2307.15432v1](http://arxiv.org/abs/2307.15432v1)|null|
