@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-01, **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**, Cheng-Yu Hsieh et.al., Paper: [http://arxiv.org/abs/2308.00675v1](http://arxiv.org/abs/2308.00675v1)
+- 2023-08-01, **Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**, Bohao Fan et.al., Paper: [http://arxiv.org/abs/2308.00628v1](http://arxiv.org/abs/2308.00628v1), Code: **[https://github.com/soullessrobot/human-m3-dataset](https://github.com/soullessrobot/human-m3-dataset)**
+- 2023-08-01, **NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation**, Weiyun Jiang et.al., Paper: [http://arxiv.org/abs/2308.00622v1](http://arxiv.org/abs/2308.00622v1)
+- 2023-08-01, **Beyond One-Hot-Encoding: Injecting Semantics to Drive Image Classifiers**, Alan Perotti et.al., Paper: [http://arxiv.org/abs/2308.00607v1](http://arxiv.org/abs/2308.00607v1), Code: **[https://github.com/s1m0n38/semantic-encodings](https://github.com/s1m0n38/semantic-encodings)**
+- 2023-08-01, **Relation-Aware Distribution Representation Network for Person Clustering with Multiple Modalities**, Kaijian Liu et.al., Paper: [http://arxiv.org/abs/2308.00588v1](http://arxiv.org/abs/2308.00588v1)
+- 2023-08-01, **Gradient Scaling on Deep Spiking Neural Networks with Spike-Dependent Local Information**, Seongsik Park et.al., Paper: [http://arxiv.org/abs/2308.00558v1](http://arxiv.org/abs/2308.00558v1)
+- 2023-08-01, **SF-IDS: An Imbalanced Semi-Supervised Learning Framework for Fine-grained Intrusion Detection**, Xinran Zheng et.al., Paper: [http://arxiv.org/abs/2308.00542v1](http://arxiv.org/abs/2308.00542v1)
+- 2023-08-01, **Compressed Private Aggregation for Scalable and Robust Federated Learning over Massive Networks**, Natalie Lang et.al., Paper: [http://arxiv.org/abs/2308.00540v1](http://arxiv.org/abs/2308.00540v1), Code: **[https://github.com/langnatalie/CPA](https://github.com/langnatalie/CPA)**
+- 2023-08-01, **Predicting Early Dropouts of an Active and Healthy Ageing App**, Vasileios Perifanis et.al., Paper: [http://arxiv.org/abs/2308.00539v1](http://arxiv.org/abs/2308.00539v1)
+- 2023-08-01, **PressureTransferNet: Human Attribute Guided Dynamic Ground Pressure Profile Transfer using 3D simulated Pressure Maps**, Lala Shakti Swarup Ray et.al., Paper: [http://arxiv.org/abs/2308.00538v1](http://arxiv.org/abs/2308.00538v1)
 - 2023-07-31, **A Quantized Interband Topological Index in Two-Dimensional Systems**, Tharindu Fernando et.al., Paper: [http://arxiv.org/abs/2307.16893v1](http://arxiv.org/abs/2307.16893v1)
 - 2023-07-31, **Foundational Models for Fault Diagnosis of Electrical Motors**, Sriram Anbalagan et.al., Paper: [http://arxiv.org/abs/2307.16891v1](http://arxiv.org/abs/2307.16891v1)
 - 2023-07-31, **Discovering Adaptable Symbolic Algorithms from Scratch**, Stephen Kelly et.al., Paper: [http://arxiv.org/abs/2307.16890v1](http://arxiv.org/abs/2307.16890v1)
@@ -2895,6 +2905,15 @@
 
 ## MultiModal
 
+- 2023-08-01, **Robust Spatiotemporal Fusion of Satellite Images: A Constrained Convex Optimization Approach**, Ryosuke Isono et.al., Paper: [http://arxiv.org/abs/2308.00500v1](http://arxiv.org/abs/2308.00500v1)
+- 2023-08-01, **Cooperative Positioning for Sparsely Distributed High-Mobility Wireless Networks with EKF Based Spatio-Temporal Data Fusion**, Yue Cao et.al., Paper: [http://arxiv.org/abs/2308.00419v1](http://arxiv.org/abs/2308.00419v1)
+- 2023-08-01, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v1](http://arxiv.org/abs/2308.00400v1), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
+- 2023-08-01, **Multi-Modality Multi-Loss Fusion Network**, Zehui Wu et.al., Paper: [http://arxiv.org/abs/2308.00264v1](http://arxiv.org/abs/2308.00264v1)
+- 2023-08-01, **Improving Pixel-based MIM by Reducing Wasted Modeling Capability**, Yuan Liu et.al., Paper: [http://arxiv.org/abs/2308.00261v1](http://arxiv.org/abs/2308.00261v1), Code: **[https://github.com/open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain)**
+- 2023-08-01, **LGViT: Dynamic Early Exiting for Accelerating Vision Transformer**, Guanyu Xu et.al., Paper: [http://arxiv.org/abs/2308.00255v1](http://arxiv.org/abs/2308.00255v1)
+- 2023-07-31, **A Composable Just-In-Time Programming Framework with LLMs and FBP**, Andy Vidan et.al., Paper: [http://arxiv.org/abs/2308.00204v1](http://arxiv.org/abs/2308.00204v1)
+- 2023-07-31, **Multispectral Image Segmentation in Agriculture: A Comprehensive Study on Fusion Approaches**, Nuno Cunha et.al., Paper: [http://arxiv.org/abs/2308.00159v1](http://arxiv.org/abs/2308.00159v1), Code: **[https://github.com/cybonic/misagriculture](https://github.com/cybonic/misagriculture)**
+- 2023-07-31, **T-Fusion Net: A Novel Deep Neural Network Augmented with Multiple Localizations based Spatial Attention Mechanisms for Covid-19 Detection**, Susmita Ghosh et.al., Paper: [http://arxiv.org/abs/2308.00053v1](http://arxiv.org/abs/2308.00053v1)
 - 2023-07-31, **TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification**, Haozhen Zhang et.al., Paper: [http://arxiv.org/abs/2307.16713v1](http://arxiv.org/abs/2307.16713v1)
 - 2023-07-31, **NEON: Living Needs Prediction System in Meituan**, Xiaochong Lan et.al., Paper: [http://arxiv.org/abs/2307.16644v1](http://arxiv.org/abs/2307.16644v1)
 - 2023-07-31, **FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2307.16617v1](http://arxiv.org/abs/2307.16617v1)
