@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-02, **ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**, Shawn Xu et.al., Paper: [http://arxiv.org/abs/2308.01317v1](http://arxiv.org/abs/2308.01317v1)
+- 2023-08-02, **More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**, Bang An et.al., Paper: [http://arxiv.org/abs/2308.01313v1](http://arxiv.org/abs/2308.01313v1), Code: **[https://github.com/umd-huang-lab/perceptionclip](https://github.com/umd-huang-lab/perceptionclip)**
+- 2023-08-02, **Revisiting DETR Pre-training for Object Detection**, Yan Ma et.al., Paper: [http://arxiv.org/abs/2308.01300v1](http://arxiv.org/abs/2308.01300v1)
+- 2023-08-02, **A Probabilistic Approach to Self-Supervised Learning using Cyclical Stochastic Gradient MCMC**, Masoumeh Javanbakhat et.al., Paper: [http://arxiv.org/abs/2308.01271v1](http://arxiv.org/abs/2308.01271v1)
+- 2023-08-02, **Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**, Michael Gableman et.al., Paper: [http://arxiv.org/abs/2308.01262v1](http://arxiv.org/abs/2308.01262v1), Code: **[https://github.com/enterprisecv-6/season-nerf](https://github.com/enterprisecv-6/season-nerf)**
+- 2023-08-02, **Quantum Imprint of the Anharmonic Oscillator**, Prisco Lo Chiatto et.al., Paper: [http://arxiv.org/abs/2308.01244v1](http://arxiv.org/abs/2308.01244v1)
+- 2023-08-02, **CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion**, Fenghe Tang et.al., Paper: [http://arxiv.org/abs/2308.01239v1](http://arxiv.org/abs/2308.01239v1), Code: **[https://github.com/fenghetan9/cmunext](https://github.com/fenghetan9/cmunext)**
+- 2023-08-02, **LSF-IDM: Lightweight Deep Learning Models for Automotive Intrusion Detection Model Based on Semantic Fusion**, Pengzhou Cheng et.al., Paper: [http://arxiv.org/abs/2308.01237v1](http://arxiv.org/abs/2308.01237v1)
+- 2023-08-02, **JADES. The diverse population of infant Black Holes at 4<z<11: merging, tiny, poor, but mighty**, Roberto Maiolino et.al., Paper: [http://arxiv.org/abs/2308.01230v1](http://arxiv.org/abs/2308.01230v1)
+- 2023-08-02, **TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval**, Kaibin Tian et.al., Paper: [http://arxiv.org/abs/2308.01217v1](http://arxiv.org/abs/2308.01217v1)
 - 2023-08-01, **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**, Cheng-Yu Hsieh et.al., Paper: [http://arxiv.org/abs/2308.00675v1](http://arxiv.org/abs/2308.00675v1)
 - 2023-08-01, **Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**, Bohao Fan et.al., Paper: [http://arxiv.org/abs/2308.00628v1](http://arxiv.org/abs/2308.00628v1), Code: **[https://github.com/soullessrobot/human-m3-dataset](https://github.com/soullessrobot/human-m3-dataset)**
 - 2023-08-01, **NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation**, Weiyun Jiang et.al., Paper: [http://arxiv.org/abs/2308.00622v1](http://arxiv.org/abs/2308.00622v1)
@@ -2905,6 +2915,16 @@
 
 ## MultiModal
 
+- 2023-08-02, **Learning Spatial Distribution of Long-Term Trackers Scores**, Vincenzo Mariano Scarrica et.al., Paper: [http://arxiv.org/abs/2308.01256v1](http://arxiv.org/abs/2308.01256v1)
+- 2023-08-02, **Measurement of the Higgs boson production via vector boson fusion and its decay into bottom quarks in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, CMS Collaboration et.al., Paper: [http://arxiv.org/abs/2308.01253v1](http://arxiv.org/abs/2308.01253v1)
+- 2023-08-02, **CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion**, Fenghe Tang et.al., Paper: [http://arxiv.org/abs/2308.01239v1](http://arxiv.org/abs/2308.01239v1), Code: **[https://github.com/fenghetan9/cmunext](https://github.com/fenghetan9/cmunext)**
+- 2023-08-02, **LSF-IDM: Lightweight Deep Learning Models for Automotive Intrusion Detection Model Based on Semantic Fusion**, Pengzhou Cheng et.al., Paper: [http://arxiv.org/abs/2308.01237v1](http://arxiv.org/abs/2308.01237v1)
+- 2023-08-02, **Weak interaction corrections to muon pair production via the photon fusion at the LHC**, S. I. Godunov et.al., Paper: [http://arxiv.org/abs/2308.01169v1](http://arxiv.org/abs/2308.01169v1)
+- 2023-08-02, **WCCNet: Wavelet-integrated CNN with Crossmodal Rearranging Fusion for Fast Multispectral Pedestrian Detection**, Xingjian Wang et.al., Paper: [http://arxiv.org/abs/2308.01042v1](http://arxiv.org/abs/2308.01042v1)
+- 2023-08-02, **FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving**, Tengju Ye et.al., Paper: [http://arxiv.org/abs/2308.01006v1](http://arxiv.org/abs/2308.01006v1), Code: **[https://github.com/westlake-autolab/fusionad](https://github.com/westlake-autolab/fusionad)**
+- 2023-08-02, **Grasp Stability Assessment Through Attention-Guided Cross-Modality Fusion and Transfer Learning**, Zhuangzhuang Zhang et.al., Paper: [http://arxiv.org/abs/2308.00980v1](http://arxiv.org/abs/2308.00980v1)
+- 2023-08-02, **Decomposing and Coupling Saliency Map for Lesion Segmentation in Ultrasound Images**, Zhenyuan Ning et.al., Paper: [http://arxiv.org/abs/2308.00947v1](http://arxiv.org/abs/2308.00947v1)
+- 2023-08-01, **Self-Supervised Contrastive BERT Fine-tuning for Fusion-based Reviewed-Item Retrieval**, Mohammad Mahdi Abdollah Pour et.al., Paper: [http://arxiv.org/abs/2308.00762v1](http://arxiv.org/abs/2308.00762v1), Code: **[https://github.com/d3mlab/rir_data](https://github.com/d3mlab/rir_data)**
 - 2023-08-01, **Robust Spatiotemporal Fusion of Satellite Images: A Constrained Convex Optimization Approach**, Ryosuke Isono et.al., Paper: [http://arxiv.org/abs/2308.00500v1](http://arxiv.org/abs/2308.00500v1)
 - 2023-08-01, **Cooperative Positioning for Sparsely Distributed High-Mobility Wireless Networks with EKF Based Spatio-Temporal Data Fusion**, Yue Cao et.al., Paper: [http://arxiv.org/abs/2308.00419v1](http://arxiv.org/abs/2308.00419v1)
 - 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
