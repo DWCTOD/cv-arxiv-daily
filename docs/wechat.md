@@ -1,4 +1,4 @@
-> Updated on 2023.08.02
+> Updated on 2023.08.03
 
 ## Video_Classification
 
@@ -2907,7 +2907,7 @@
 
 - 2023-08-01, **Robust Spatiotemporal Fusion of Satellite Images: A Constrained Convex Optimization Approach**, Ryosuke Isono et.al., Paper: [http://arxiv.org/abs/2308.00500v1](http://arxiv.org/abs/2308.00500v1)
 - 2023-08-01, **Cooperative Positioning for Sparsely Distributed High-Mobility Wireless Networks with EKF Based Spatio-Temporal Data Fusion**, Yue Cao et.al., Paper: [http://arxiv.org/abs/2308.00419v1](http://arxiv.org/abs/2308.00419v1)
-- 2023-08-01, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v1](http://arxiv.org/abs/2308.00400v1), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
+- 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
 - 2023-08-01, **Multi-Modality Multi-Loss Fusion Network**, Zehui Wu et.al., Paper: [http://arxiv.org/abs/2308.00264v1](http://arxiv.org/abs/2308.00264v1)
 - 2023-08-01, **Improving Pixel-based MIM by Reducing Wasted Modeling Capability**, Yuan Liu et.al., Paper: [http://arxiv.org/abs/2308.00261v1](http://arxiv.org/abs/2308.00261v1), Code: **[https://github.com/open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain)**
 - 2023-08-01, **LGViT: Dynamic Early Exiting for Accelerating Vision Transformer**, Guanyu Xu et.al., Paper: [http://arxiv.org/abs/2308.00255v1](http://arxiv.org/abs/2308.00255v1)
