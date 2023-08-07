@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 
 ## Video_Classification
 
@@ -2941,7 +2941,7 @@ layout: default
 |**2023-08-03**|**Fusion modules and amenability of coideals of compact and discrete quantum groups**|Benjamin Anderson-Sackaney et.al.|[2308.01656v1](http://arxiv.org/abs/2308.01656v1)|null|
 |**2023-08-03**|**Uncertainty analysis for accurate ground truth trajectories with robotic total stations**|Maxime Vaidis et.al.|[2308.01553v1](http://arxiv.org/abs/2308.01553v1)|null|
 |**2023-08-02**|**Semi-supervised Cooperative Learning for Multiomics Data Fusion**|Daisy Yi Ding et.al.|[2308.01458v1](http://arxiv.org/abs/2308.01458v1)|null|
-|**2023-08-02**|**Prospects For A New Light$\unicode{x2013}$Nuclei, Fission$\unicode{x2013}$Fusion Energy Cycle**|R. V. Duncan et.al.|[2308.01434v1](http://arxiv.org/abs/2308.01434v1)|null|
+|**2023-08-02**|**Prospects For A New Light-Nuclei, Fission-Fusion Energy Cycle**|R. V. Duncan et.al.|[2308.01434v1](http://arxiv.org/abs/2308.01434v1)|null|
 |**2023-08-02**|**Second resonance of the Higgs field: motivations, experimental signals, unitarity constraints**|Maurizio Consoli et.al.|[2308.01429v1](http://arxiv.org/abs/2308.01429v1)|null|
 |**2023-08-02**|**Learning Spatial Distribution of Long-Term Trackers Scores**|Vincenzo Mariano Scarrica et.al.|[2308.01256v1](http://arxiv.org/abs/2308.01256v1)|null|
 |**2023-08-02**|**Measurement of the Higgs boson production via vector boson fusion and its decay into bottom quarks in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2308.01253v1](http://arxiv.org/abs/2308.01253v1)|null|
