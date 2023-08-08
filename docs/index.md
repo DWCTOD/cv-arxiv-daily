@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757v1](http://arxiv.org/abs/2308.03757v1)|null|
+|**2023-08-07**|**What about translation? New coding system for content analysis on the perception of literary translation around the political transformation in 1989 in Hungary as a classification problem on an unbalanced dataset**|Dalma Galambos et.al.|[2308.03742v1](http://arxiv.org/abs/2308.03742v1)|null|
+|**2023-08-07**|**Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation**|Renjie Liang et.al.|[2308.03725v1](http://arxiv.org/abs/2308.03725v1)|null|
+|**2023-08-07**|**Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach**|Abhay Tyagi et.al.|[2308.03717v1](http://arxiv.org/abs/2308.03717v1)|null|
+|**2023-08-07**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v1](http://arxiv.org/abs/2308.03713v1)|null|
+|**2023-08-07**|**Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience**|A. Emin Orhan et.al.|[2308.03712v1](http://arxiv.org/abs/2308.03712v1)|**[link](https://github.com/eminorhan/humanlike-vits)**|
+|**2023-08-07**|**Video-based Person Re-identification with Long Short-Term Representation Learning**|Xuehu Liu et.al.|[2308.03703v1](http://arxiv.org/abs/2308.03703v1)|null|
+|**2023-08-07**|**Screen-based 3D Subjective Experiment Software**|Songlin Fan et.al.|[2308.03698v1](http://arxiv.org/abs/2308.03698v1)|null|
+|**2023-08-07**|**Learning Concise and Descriptive Attributes for Visual Recognition**|An Yan et.al.|[2308.03685v1](http://arxiv.org/abs/2308.03685v1)|null|
+|**2023-08-07**|**Detecting Spells in Fantasy Literature with a Transformer Based Artificial Intelligence**|Marcel Moravek et.al.|[2308.03660v1](http://arxiv.org/abs/2308.03660v1)|null|
 |**2023-08-04**|**Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP**|Qihang Yu et.al.|[2308.02487v1](http://arxiv.org/abs/2308.02487v1)|**[link](https://github.com/bytedance/fc-clip)**|
 |**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465v1](http://arxiv.org/abs/2308.02465v1)|null|
 |**2023-08-04**|**Nonprehensile Planar Manipulation through Reinforcement Learning with Multimodal Categorical Exploration**|Juan Del Aguila Ferrandis et.al.|[2308.02459v1](http://arxiv.org/abs/2308.02459v1)|null|
@@ -2943,6 +2953,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation**|Renjie Liang et.al.|[2308.03725v1](http://arxiv.org/abs/2308.03725v1)|null|
+|**2023-08-07**|**Safe Multimodal Communication in Human-Robot Collaboration**|Davide Ferrari et.al.|[2308.03690v1](http://arxiv.org/abs/2308.03690v1)|null|
+|**2023-08-07**|**Fusion Mechanism for Quasiparticles and Topological Quantum Order in the Lowest-Landau-Level**|Arkadiusz Bochniak et.al.|[2308.03548v1](http://arxiv.org/abs/2308.03548v1)|null|
+|**2023-08-07**|**Framework for additive manufacturing of porous Inconel 718 for electrochemical applications**|Ahmad Zafari et.al.|[2308.03536v1](http://arxiv.org/abs/2308.03536v1)|null|
+|**2023-08-07**|**Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field**|Sungho Suh et.al.|[2308.03514v1](http://arxiv.org/abs/2308.03514v1)|null|
+|**2023-08-07**|**AudioVMAF: Audio Quality Prediction with VMAF**|Arijit Biswas et.al.|[2308.03437v1](http://arxiv.org/abs/2308.03437v1)|null|
+|**2023-08-07**|**Adaptive Patched Grid Mapping**|Thomas Wodtko et.al.|[2308.03416v1](http://arxiv.org/abs/2308.03416v1)|null|
+|**2023-08-07**|**Enhancing Nucleus Segmentation with HARU-Net: A Hybrid Attention Based Residual U-Blocks Network**|Junzhou Chen et.al.|[2308.03382v1](http://arxiv.org/abs/2308.03382v1)|null|
+|**2023-08-07**|**Colliding of two high Mach-number quantum degenerate plasma jets**|W. B. Zhang et.al.|[2308.03336v1](http://arxiv.org/abs/2308.03336v1)|null|
+|**2023-08-07**|**Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM**|Bin Yin et.al.|[2308.03333v1](http://arxiv.org/abs/2308.03333v1)|null|
 |**2023-08-04**|**Scalabale Path Level Thermal History Simulation of PBF process validated by Melt Pool Images**|Xin Liu et.al.|[2308.02473v1](http://arxiv.org/abs/2308.02473v1)|null|
 |**2023-08-04**|**New physics implications of VBF searches exemplified through the Georgi-Machacek model**|Manimala Chakraborti et.al.|[2308.02384v1](http://arxiv.org/abs/2308.02384v1)|null|
 |**2023-08-04**|**T-UNet: Triplet UNet for Change Detection in High-Resolution Remote Sensing Images**|Huan Zhong et.al.|[2308.02356v1](http://arxiv.org/abs/2308.02356v1)|**[link](https://github.com/pl-2000/t-unet)**|
