@@ -1,4 +1,4 @@
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 |**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465v1](http://arxiv.org/abs/2308.02465v1)|null|
 |**2023-08-04**|**Nonprehensile Planar Manipulation through Reinforcement Learning with Multimodal Categorical Exploration**|Juan Del Aguila Ferrandis et.al.|[2308.02459v1](http://arxiv.org/abs/2308.02459v1)|null|
 |**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453v1](http://arxiv.org/abs/2308.02453v1)|null|
-|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442v1](http://arxiv.org/abs/2308.02442v1)|null|
+|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442v1](http://arxiv.org/abs/2308.02442v1)|**[link](https://github.com/4alexmin/knnsotas)**|
 |**2023-08-04**|**Scaling Survival Analysis in Healthcare with Federated Survival Forests: A Comparative Study on Heart Failure and Breast Cancer Genomics**|Alberto Archetti et.al.|[2308.02382v1](http://arxiv.org/abs/2308.02382v1)|null|
 |**2023-08-04**|**Brain MRI Segmentation using Template-Based Training and Visual Perception Augmentation**|Fang-Cheng Yeh et.al.|[2308.02363v1](http://arxiv.org/abs/2308.02363v1)|null|
 |**2023-08-04**|**T-UNet: Triplet UNet for Change Detection in High-Resolution Remote Sensing Images**|Huan Zhong et.al.|[2308.02356v1](http://arxiv.org/abs/2308.02356v1)|**[link](https://github.com/pl-2000/t-unet)**|
