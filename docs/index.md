@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|null|
+|**2023-08-08**|**A Bi-directional Multi-hop Inference Model for Joint Dialog Sentiment Classification and Act Recognition**|Li Zheng et.al.|[2308.04424v1](http://arxiv.org/abs/2308.04424v1)|null|
+|**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417v1](http://arxiv.org/abs/2308.04417v1)|null|
+|**2023-08-08**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412v1](http://arxiv.org/abs/2308.04412v1)|null|
+|**2023-08-08**|**Data Augmentation-Based Unsupervised Domain Adaptation In Medical Imaging**|Sebastian Nørgaard Llambias et.al.|[2308.04395v1](http://arxiv.org/abs/2308.04395v1)|null|
+|**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
+|**2023-08-08**|**Vascular Ageing and Smoking Habit Prediction via a Low-Cost Single-Lead ECG Module**|S. Anas Ali et.al.|[2308.04355v1](http://arxiv.org/abs/2308.04355v1)|null|
+|**2023-08-08**|**A Lightweight and Accurate Face Detection Algorithm Based on Retinaface**|Baozhu Liu et.al.|[2308.04340v1](http://arxiv.org/abs/2308.04340v1)|null|
+|**2023-08-08**|**Pengembangan Model untuk Mendeteksi Kerusakan pada Terumbu Karang dengan Klasifikasi Citra**|Fadhil Muhammad et.al.|[2308.04337v1](http://arxiv.org/abs/2308.04337v1)|null|
+|**2023-08-08**|**Embracing Safe Contacts with Contact-aware Planning and Control**|Zhaoting Li et.al.|[2308.04323v1](http://arxiv.org/abs/2308.04323v1)|null|
 |**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757v1](http://arxiv.org/abs/2308.03757v1)|null|
 |**2023-08-07**|**What about translation? New coding system for content analysis on the perception of literary translation around the political transformation in 1989 in Hungary as a classification problem on an unbalanced dataset**|Dalma Galambos et.al.|[2308.03742v1](http://arxiv.org/abs/2308.03742v1)|null|
 |**2023-08-07**|**Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation**|Renjie Liang et.al.|[2308.03725v1](http://arxiv.org/abs/2308.03725v1)|null|
@@ -2953,6 +2963,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417v1](http://arxiv.org/abs/2308.04417v1)|null|
+|**2023-08-08**|**LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery**|Ben Chen et.al.|[2308.04397v1](http://arxiv.org/abs/2308.04397v1)|null|
+|**2023-08-08**|**DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds**|Chensheng Peng et.al.|[2308.04383v1](http://arxiv.org/abs/2308.04383v1)|null|
+|**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
+|**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352v1](http://arxiv.org/abs/2308.04352v1)|null|
+|**2023-08-08**|**Engineering LaCAM$^\ast$: Towards Real-Time, Large-Scale, and Near-Optimal Multi-Agent Pathfinding**|Keisuke Okumura et.al.|[2308.04292v1](http://arxiv.org/abs/2308.04292v1)|null|
+|**2023-08-08**|**Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning**|Xiaoyu Chen et.al.|[2308.04244v1](http://arxiv.org/abs/2308.04244v1)|null|
+|**2023-08-08**|**High photon-loss threshold quantum computing using GHZ-state measurements**|Brendan Pankovich et.al.|[2308.04192v1](http://arxiv.org/abs/2308.04192v1)|null|
+|**2023-08-08**|**Towards Top-Down Stereoscopic Image Quality Assessment via Stereo Attention**|Huilin Zhang et.al.|[2308.04156v1](http://arxiv.org/abs/2308.04156v1)|**[link](https://github.com/fanning-zhang/satnet)**|
+|**2023-08-08**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu et.al.|[2308.04126v1](http://arxiv.org/abs/2308.04126v1)|null|
 |**2023-08-07**|**Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation**|Renjie Liang et.al.|[2308.03725v1](http://arxiv.org/abs/2308.03725v1)|null|
 |**2023-08-07**|**Safe Multimodal Communication in Human-Robot Collaboration**|Davide Ferrari et.al.|[2308.03690v1](http://arxiv.org/abs/2308.03690v1)|null|
 |**2023-08-07**|**Fusion Mechanism for Quasiparticles and Topological Quantum Order in the Lowest-Landau-Level**|Arkadiusz Bochniak et.al.|[2308.03548v1](http://arxiv.org/abs/2308.03548v1)|null|
