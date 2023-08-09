@@ -1,4 +1,4 @@
-> Updated on 2023.08.08
+> Updated on 2023.08.09
 
 ## Video_Classification
 
@@ -6,10 +6,10 @@
 - 2023-08-07, **What about translation? New coding system for content analysis on the perception of literary translation around the political transformation in 1989 in Hungary as a classification problem on an unbalanced dataset**, Dalma Galambos et.al., Paper: [http://arxiv.org/abs/2308.03742v1](http://arxiv.org/abs/2308.03742v1)
 - 2023-08-07, **Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation**, Renjie Liang et.al., Paper: [http://arxiv.org/abs/2308.03725v1](http://arxiv.org/abs/2308.03725v1)
 - 2023-08-07, **Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach**, Abhay Tyagi et.al., Paper: [http://arxiv.org/abs/2308.03717v1](http://arxiv.org/abs/2308.03717v1)
-- 2023-08-07, **Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**, Bingyan Xie et.al., Paper: [http://arxiv.org/abs/2308.03713v1](http://arxiv.org/abs/2308.03713v1)
+- 2023-08-08, **Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**, Bingyan Xie et.al., Paper: [http://arxiv.org/abs/2308.03713v2](http://arxiv.org/abs/2308.03713v2)
 - 2023-08-07, **Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience**, A. Emin Orhan et.al., Paper: [http://arxiv.org/abs/2308.03712v1](http://arxiv.org/abs/2308.03712v1), Code: **[https://github.com/eminorhan/humanlike-vits](https://github.com/eminorhan/humanlike-vits)**
 - 2023-08-07, **Video-based Person Re-identification with Long Short-Term Representation Learning**, Xuehu Liu et.al., Paper: [http://arxiv.org/abs/2308.03703v1](http://arxiv.org/abs/2308.03703v1)
-- 2023-08-07, **Screen-based 3D Subjective Experiment Software**, Songlin Fan et.al., Paper: [http://arxiv.org/abs/2308.03698v1](http://arxiv.org/abs/2308.03698v1)
+- 2023-08-08, **Screen-based 3D Subjective Experiment Software**, Songlin Fan et.al., Paper: [http://arxiv.org/abs/2308.03698v2](http://arxiv.org/abs/2308.03698v2)
 - 2023-08-07, **Learning Concise and Descriptive Attributes for Visual Recognition**, An Yan et.al., Paper: [http://arxiv.org/abs/2308.03685v1](http://arxiv.org/abs/2308.03685v1)
 - 2023-08-07, **Detecting Spells in Fantasy Literature with a Transformer Based Artificial Intelligence**, Marcel Moravek et.al., Paper: [http://arxiv.org/abs/2308.03660v1](http://arxiv.org/abs/2308.03660v1)
 - 2023-08-04, **Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP**, Qihang Yu et.al., Paper: [http://arxiv.org/abs/2308.02487v1](http://arxiv.org/abs/2308.02487v1), Code: **[https://github.com/bytedance/fc-clip](https://github.com/bytedance/fc-clip)**
