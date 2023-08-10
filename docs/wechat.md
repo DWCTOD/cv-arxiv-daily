@@ -1,4 +1,4 @@
-> Updated on 2023.08.09
+> Updated on 2023.08.10
 
 ## Video_Classification
 
@@ -2957,7 +2957,7 @@
 
 - 2023-08-08, **DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**, Xuechao Zou et.al., Paper: [http://arxiv.org/abs/2308.04417v1](http://arxiv.org/abs/2308.04417v1)
 - 2023-08-08, **LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery**, Ben Chen et.al., Paper: [http://arxiv.org/abs/2308.04397v1](http://arxiv.org/abs/2308.04397v1)
-- 2023-08-08, **DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds**, Chensheng Peng et.al., Paper: [http://arxiv.org/abs/2308.04383v1](http://arxiv.org/abs/2308.04383v1)
+- 2023-08-09, **DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds**, Chensheng Peng et.al., Paper: [http://arxiv.org/abs/2308.04383v2](http://arxiv.org/abs/2308.04383v2)
 - 2023-08-08, **SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2308.04369v1](http://arxiv.org/abs/2308.04369v1), Code: **[https://github.com/event-ahu/sstformer](https://github.com/event-ahu/sstformer)**
 - 2023-08-08, **3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**, Ziyu Zhu et.al., Paper: [http://arxiv.org/abs/2308.04352v1](http://arxiv.org/abs/2308.04352v1)
 - 2023-08-08, **Engineering LaCAM$^\ast$: Towards Real-Time, Large-Scale, and Near-Optimal Multi-Agent Pathfinding**, Keisuke Okumura et.al., Paper: [http://arxiv.org/abs/2308.04292v1](http://arxiv.org/abs/2308.04292v1)
