@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103v1](http://arxiv.org/abs/2308.05103v1)|null|
+|**2023-08-09**|**DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**|Soumadeep Saha et.al.|[2308.05101v1](http://arxiv.org/abs/2308.05101v1)|null|
+|**2023-08-09**|**Constructing Holistic Spatio-Temporal Scene Graph for Video Semantic Role Labeling**|Yu Zhao et.al.|[2308.05081v1](http://arxiv.org/abs/2308.05081v1)|null|
+|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v1](http://arxiv.org/abs/2308.05068v1)|null|
+|**2023-08-09**|**PAT: Position-Aware Transformer for Dense Multi-Label Action Detection**|Faegheh Sardari et.al.|[2308.05051v1](http://arxiv.org/abs/2308.05051v1)|null|
+|**2023-08-09**|**Collaborative Wideband Spectrum Sensing and Scheduling for Networked UAVs in UTM Systems**|Sravan Reddy Chintareddy et.al.|[2308.05036v1](http://arxiv.org/abs/2308.05036v1)|null|
+|**2023-08-09**|**Expert load matters: operating networks at high accuracy and low manual effort**|Sara Sangalli et.al.|[2308.05035v1](http://arxiv.org/abs/2308.05035v1)|null|
+|**2023-08-09**|**MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model**|Michael Leong et.al.|[2308.05012v1](http://arxiv.org/abs/2308.05012v1)|null|
+|**2023-08-09**|**Exploring Multilingual Text Data Distillation**|Shivam Sahni et.al.|[2308.04982v1](http://arxiv.org/abs/2308.04982v1)|null|
+|**2023-08-09**|**CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**|Hongjun Zhu et.al.|[2308.04961v1](http://arxiv.org/abs/2308.04961v1)|null|
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|null|
 |**2023-08-08**|**A Bi-directional Multi-hop Inference Model for Joint Dialog Sentiment Classification and Act Recognition**|Li Zheng et.al.|[2308.04424v1](http://arxiv.org/abs/2308.04424v1)|null|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417v1](http://arxiv.org/abs/2308.04417v1)|null|
@@ -2963,6 +2973,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v1](http://arxiv.org/abs/2308.05022v1)|**[link](https://github.com/avc2-uestc/craft-sr)**|
+|**2023-08-09**|**CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**|Hongjun Zhu et.al.|[2308.04961v1](http://arxiv.org/abs/2308.04961v1)|null|
+|**2023-08-09**|**Methods for Acquiring and Incorporating Knowledge into Stock Price Prediction: A Survey**|Liping Wang et.al.|[2308.04947v1](http://arxiv.org/abs/2308.04947v1)|null|
+|**2023-08-09**|**HSD-PAM: High Speed Super Resolution Deep Penetration Photoacoustic Microscopy Imaging Boosted by Dual Branch Fusion Network**|Zhengyuan Zhang et.al.|[2308.04922v1](http://arxiv.org/abs/2308.04922v1)|null|
+|**2023-08-09**|**Transmission and Color-guided Network for Underwater Image Enhancement**|Pan Mu et.al.|[2308.04892v1](http://arxiv.org/abs/2308.04892v1)|null|
+|**2023-08-09**|**Vehicle State Estimation through Modular Factor Graph-based Fusion of Multiple Sensors**|Pragyan Dahal et.al.|[2308.04847v1](http://arxiv.org/abs/2308.04847v1)|null|
+|**2023-08-09**|**Search for magnetic monopoles and stable particles with high electric charges in $\sqrt{s}=$13 TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2308.04835v1](http://arxiv.org/abs/2308.04835v1)|null|
+|**2023-08-09**|**Joint-Relation Transformer for Multi-Person Motion Prediction**|Qingyao Xu et.al.|[2308.04808v1](http://arxiv.org/abs/2308.04808v1)|**[link](https://github.com/mediabrain-sjtu/jrtransformer)**|
+|**2023-08-09**|**Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation**|Chang Meng et.al.|[2308.04807v1](http://arxiv.org/abs/2308.04807v1)|**[link](https://github.com/mc-cv/pkef)**|
+|**2023-08-09**|**PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration**|Mingzhi Yuan et.al.|[2308.04782v1](http://arxiv.org/abs/2308.04782v1)|null|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417v1](http://arxiv.org/abs/2308.04417v1)|null|
 |**2023-08-08**|**LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery**|Ben Chen et.al.|[2308.04397v1](http://arxiv.org/abs/2308.04397v1)|null|
 |**2023-08-09**|**DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds**|Chensheng Peng et.al.|[2308.04383v2](http://arxiv.org/abs/2308.04383v2)|null|
