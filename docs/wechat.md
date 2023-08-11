@@ -1,16 +1,16 @@
-> Updated on 2023.08.10
+> Updated on 2023.08.11
 
 ## Video_Classification
 
-- 2023-08-09, **Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**, Jaejin Cho et.al., Paper: [http://arxiv.org/abs/2308.05103v1](http://arxiv.org/abs/2308.05103v1)
+- 2023-08-09, **Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**, Jaejin Cho et.al., Paper: [http://arxiv.org/abs/2308.05103v1](http://arxiv.org/abs/2308.05103v1), Code: **[https://github.com/jaejin-cho/miccai2023](https://github.com/jaejin-cho/miccai2023)**
 - 2023-08-09, **DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**, Soumadeep Saha et.al., Paper: [http://arxiv.org/abs/2308.05101v1](http://arxiv.org/abs/2308.05101v1)
 - 2023-08-09, **Constructing Holistic Spatio-Temporal Scene Graph for Video Semantic Role Labeling**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2308.05081v1](http://arxiv.org/abs/2308.05081v1)
-- 2023-08-09, **Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**, Sneha Sree C et.al., Paper: [http://arxiv.org/abs/2308.05068v1](http://arxiv.org/abs/2308.05068v1)
+- 2023-08-10, **Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**, Sneha Sree C et.al., Paper: [http://arxiv.org/abs/2308.05068v2](http://arxiv.org/abs/2308.05068v2)
 - 2023-08-09, **PAT: Position-Aware Transformer for Dense Multi-Label Action Detection**, Faegheh Sardari et.al., Paper: [http://arxiv.org/abs/2308.05051v1](http://arxiv.org/abs/2308.05051v1)
 - 2023-08-09, **Collaborative Wideband Spectrum Sensing and Scheduling for Networked UAVs in UTM Systems**, Sravan Reddy Chintareddy et.al., Paper: [http://arxiv.org/abs/2308.05036v1](http://arxiv.org/abs/2308.05036v1)
 - 2023-08-09, **Expert load matters: operating networks at high accuracy and low manual effort**, Sara Sangalli et.al., Paper: [http://arxiv.org/abs/2308.05035v1](http://arxiv.org/abs/2308.05035v1)
 - 2023-08-09, **MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model**, Michael Leong et.al., Paper: [http://arxiv.org/abs/2308.05012v1](http://arxiv.org/abs/2308.05012v1)
-- 2023-08-09, **Exploring Multilingual Text Data Distillation**, Shivam Sahni et.al., Paper: [http://arxiv.org/abs/2308.04982v1](http://arxiv.org/abs/2308.04982v1)
+- 2023-08-09, **Exploring Multilingual Text Data Distillation**, Shivam Sahni et.al., Paper: [http://arxiv.org/abs/2308.04982v1](http://arxiv.org/abs/2308.04982v1), Code: **[https://github.com/harshp1802/text-dataset-distillation](https://github.com/harshp1802/text-dataset-distillation)**
 - 2023-08-09, **CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**, Hongjun Zhu et.al., Paper: [http://arxiv.org/abs/2308.04961v1](http://arxiv.org/abs/2308.04961v1)
 - 2023-08-08, **A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**, Yikun Liu et.al., Paper: [http://arxiv.org/abs/2308.04426v1](http://arxiv.org/abs/2308.04426v1)
 - 2023-08-08, **A Bi-directional Multi-hop Inference Model for Joint Dialog Sentiment Classification and Act Recognition**, Li Zheng et.al., Paper: [http://arxiv.org/abs/2308.04424v1](http://arxiv.org/abs/2308.04424v1)
