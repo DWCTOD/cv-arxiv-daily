@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Follow Anything: Open-set detection, tracking, and following in real-time**|Alaa Maalouf et.al.|[2308.05737v1](http://arxiv.org/abs/2308.05737v1)|null|
+|**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
+|**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724v1](http://arxiv.org/abs/2308.05724v1)|null|
+|**2023-08-10**|**Towards the Automorphism Conjecture I: Combinatorial Control and Compensation for Factorials**|Bernd S. W. Schröder et.al.|[2308.05715v1](http://arxiv.org/abs/2308.05715v1)|null|
+|**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658v1](http://arxiv.org/abs/2308.05658v1)|null|
+|**2023-08-10**|**Attention-based 3D CNN with Multi-layer Features for Alzheimer's Disease Diagnosis using Brain Images**|Yanteng Zhang et.al.|[2308.05655v1](http://arxiv.org/abs/2308.05655v1)|null|
+|**2023-08-10**|**Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization**|Zezhong Lv et.al.|[2308.05648v1](http://arxiv.org/abs/2308.05648v1)|**[link](https://github.com/sldz0306/ccr)**|
+|**2023-08-10**|**Self-Supervised Monocular Depth Estimation by Direction-aware Cumulative Convolution Network**|Wencheng Han et.al.|[2308.05605v1](http://arxiv.org/abs/2308.05605v1)|**[link](https://github.com/wencheng256/daccn)**|
+|**2023-08-10**|**Object Goal Navigation with Recursive Implicit Maps**|Shizhe Chen et.al.|[2308.05602v1](http://arxiv.org/abs/2308.05602v1)|null|
+|**2023-08-10**|**You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content**|Xinlei He et.al.|[2308.05596v1](http://arxiv.org/abs/2308.05596v1)|null|
 |**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103v1](http://arxiv.org/abs/2308.05103v1)|**[link](https://github.com/jaejin-cho/miccai2023)**|
 |**2023-08-09**|**DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**|Soumadeep Saha et.al.|[2308.05101v1](http://arxiv.org/abs/2308.05101v1)|null|
 |**2023-08-09**|**Constructing Holistic Spatio-Temporal Scene Graph for Video Semantic Role Labeling**|Yu Zhao et.al.|[2308.05081v1](http://arxiv.org/abs/2308.05081v1)|null|
@@ -2969,6 +2979,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Emergent generalized symmetries in ordered phases**|Salvatore D. Pace et.al.|[2308.05730v1](http://arxiv.org/abs/2308.05730v1)|null|
+|**2023-08-10**|**A photonic source of heralded GHZ states**|H. Cao et.al.|[2308.05709v1](http://arxiv.org/abs/2308.05709v1)|null|
+|**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658v1](http://arxiv.org/abs/2308.05658v1)|null|
+|**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438v1](http://arxiv.org/abs/2308.05438v1)|**[link](https://github.com/junzastar/dftr_voting)**|
+|**2023-08-10**|**Ensemble Modeling for Multimodal Visual Action Recognition**|Jyoti Kini et.al.|[2308.05430v1](http://arxiv.org/abs/2308.05430v1)|null|
+|**2023-08-10**|**A Comparative Assessment of Multi-view fusion learning for Crop Classification**|Francisco Mena et.al.|[2308.05407v1](http://arxiv.org/abs/2308.05407v1)|**[link](https://github.com/fmenat/multiviewcropclassification)**|
+|**2023-08-10**|**Fine-grained building roof instance segmentation based on domain adapted pretraining and composite dual-backbone**|Guozhang Liu et.al.|[2308.05358v1](http://arxiv.org/abs/2308.05358v1)|null|
+|**2023-08-10**|**Adv-Inpainting: Generating Natural and Transferable Adversarial Patch via Attention-guided Feature Fusion**|Yanjie Li et.al.|[2308.05320v1](http://arxiv.org/abs/2308.05320v1)|null|
+|**2023-08-10**|**Multi-Visual-Inertial System: Analysis,Calibration and Estimation**|Yulin Yang et.al.|[2308.05303v1](http://arxiv.org/abs/2308.05303v1)|null|
+|**2023-08-10**|**A geometric approach to Feigin-Loktev fusion product and cluster relations in coherent Satake category**|Ilya Dumanski et.al.|[2308.05268v1](http://arxiv.org/abs/2308.05268v1)|null|
 |**2023-08-09**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v1](http://arxiv.org/abs/2308.05022v1)|**[link](https://github.com/avc2-uestc/craft-sr)**|
 |**2023-08-09**|**CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**|Hongjun Zhu et.al.|[2308.04961v1](http://arxiv.org/abs/2308.04961v1)|null|
 |**2023-08-09**|**Methods for Acquiring and Incorporating Knowledge into Stock Price Prediction: A Survey**|Liping Wang et.al.|[2308.04947v1](http://arxiv.org/abs/2308.04947v1)|null|
