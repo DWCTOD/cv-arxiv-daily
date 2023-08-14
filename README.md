@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246v1](http://arxiv.org/abs/2308.06246v1)|null|
+|**2023-08-11**|**Exploring Predicate Visual Context in Detecting of Human-Object Interactions**|Frederic Z. Zhang et.al.|[2308.06202v1](http://arxiv.org/abs/2308.06202v1)|**[link](https://github.com/fredzzhang/pvic)**|
+|**2023-08-11**|**Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures**|Anna-Grace Linton et.al.|[2308.06199v1](http://arxiv.org/abs/2308.06199v1)|null|
+|**2023-08-11**|**Physical Adversarial Attacks For Camera-based Smart Systems: Current Trends, Categorization, Applications, Research Challenges, and Future Outlook**|Amira Guesmi et.al.|[2308.06173v1](http://arxiv.org/abs/2308.06173v1)|null|
+|**2023-08-11**|**Extrinsic geometry and linear differential equations of $\mathfrak{sl}_3$-type**|Boris Doubrov et.al.|[2308.06169v1](http://arxiv.org/abs/2308.06169v1)|null|
+|**2023-08-11**|**Rethinking the Localization in Weakly Supervised Object Localization**|Rui Xu et.al.|[2308.06161v1](http://arxiv.org/abs/2308.06161v1)|null|
+|**2023-08-11**|**Identification of the Relevance of Comments in Codes Using Bag of Words and Transformer Based Models**|Sruthi S et.al.|[2308.06144v1](http://arxiv.org/abs/2308.06144v1)|null|
+|**2023-08-11**|**Lip2Vec: Efficient and Robust Visual Speech Recognition via Latent-to-Latent Visual to Audio Representation Mapping**|Yasser Abdelaziz Dahou Djilali et.al.|[2308.06112v1](http://arxiv.org/abs/2308.06112v1)|null|
+|**2023-08-11**|**Diffusion-based Visual Counterfactual Explanations -- Towards Systematic Quantitative Evaluation**|Philipp Vaeth et.al.|[2308.06100v1](http://arxiv.org/abs/2308.06100v1)|**[link](https://github.com/cairo-thws/dbvce_eval)**|
+|**2023-08-11**|**Automated Construction of Time-Space Diagrams for Traffic Analysis Using Street-View Video Sequence**|Tanay Rastogi et.al.|[2308.06098v1](http://arxiv.org/abs/2308.06098v1)|null|
 |**2023-08-10**|**Follow Anything: Open-set detection, tracking, and following in real-time**|Alaa Maalouf et.al.|[2308.05737v1](http://arxiv.org/abs/2308.05737v1)|**[link](https://github.com/alaamaalouf/followanything)**|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
 |**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724v1](http://arxiv.org/abs/2308.05724v1)|null|
@@ -2979,6 +2989,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235v1](http://arxiv.org/abs/2308.06235v1)|**[link](https://github.com/1094701018/ketm)**|
+|**2023-08-11**|**Deep Context Interest Network for Click-Through Rate Prediction**|Xuyang Hou et.al.|[2308.06037v1](http://arxiv.org/abs/2308.06037v1)|null|
+|**2023-08-11**|**Spatial-information Guided Adaptive Context-aware Network for Efficient RGB-D Semantic Segmentation**|Yang Zhang et.al.|[2308.06024v1](http://arxiv.org/abs/2308.06024v1)|**[link](https://github.com/mvme-hbut/sgacnet)**|
+|**2023-08-11**|**ViGT: Proposal-free Video Grounding with Learnable Token in Transformer**|Kun Li et.al.|[2308.06009v1](http://arxiv.org/abs/2308.06009v1)|null|
+|**2023-08-11**|**Image-based Geolocalization by Ground-to-2.5D Map Matching**|Mengjie Zhou et.al.|[2308.05993v1](http://arxiv.org/abs/2308.05993v1)|null|
 |**2023-08-10**|**Emergent generalized symmetries in ordered phases**|Salvatore D. Pace et.al.|[2308.05730v1](http://arxiv.org/abs/2308.05730v1)|null|
 |**2023-08-10**|**A photonic source of heralded GHZ states**|H. Cao et.al.|[2308.05709v1](http://arxiv.org/abs/2308.05709v1)|null|
 |**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658v1](http://arxiv.org/abs/2308.05658v1)|null|
