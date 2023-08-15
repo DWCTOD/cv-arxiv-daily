@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification**|Olesya Razuvayevskaya et.al.|[2308.07282v1](http://arxiv.org/abs/2308.07282v1)|null|
+|**2023-08-14**|**A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer**|Manjary P Gangan et.al.|[2308.07279v1](http://arxiv.org/abs/2308.07279v1)|null|
+|**2023-08-14**|**EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**|Peng Wang et.al.|[2308.07269v1](http://arxiv.org/abs/2308.07269v1)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2023-08-14**|**Diving with Penguins: Detecting Penguins and their Prey in Animal-borne Underwater Videos via Deep Learning**|Kejia Zhang et.al.|[2308.07267v1](http://arxiv.org/abs/2308.07267v1)|null|
+|**2023-08-14**|**Large-kernel Attention for Efficient and Robust Brain Lesion Segmentation**|Liam Chalcroft et.al.|[2308.07251v1](http://arxiv.org/abs/2308.07251v1)|**[link](https://github.com/liamchalcroft/mdunet)**|
+|**2023-08-14**|**LCE -- An Augmented Combination of Bagging and Boosting in Python**|Kevin Fauvel et.al.|[2308.07250v1](http://arxiv.org/abs/2308.07250v1)|**[link](https://github.com/localcascadeensemble/lce)**|
+|**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231v1](http://arxiv.org/abs/2308.07231v1)|null|
+|**2023-08-14**|**Almost fine gradings on algebras and classification of gradings up to isomorphism**|Alberto Elduque et.al.|[2308.07230v1](http://arxiv.org/abs/2308.07230v1)|null|
+|**2023-08-14**|**Distance Matters For Improving Performance Estimation Under Covariate Shift**|Mélanie Roschewitz et.al.|[2308.07223v1](http://arxiv.org/abs/2308.07223v1)|**[link](https://github.com/melanibe/distance_matters_performance_estimation)**|
+|**2023-08-14**|**AudioFormer: Audio Transformer learns audio feature representations from discrete acoustic codes**|Zhaohui Li et.al.|[2308.07221v1](http://arxiv.org/abs/2308.07221v1)|**[link](https://github.com/LZH-0225/AudioFormer)**|
 |**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246v1](http://arxiv.org/abs/2308.06246v1)|null|
 |**2023-08-11**|**Exploring Predicate Visual Context in Detecting of Human-Object Interactions**|Frederic Z. Zhang et.al.|[2308.06202v1](http://arxiv.org/abs/2308.06202v1)|**[link](https://github.com/fredzzhang/pvic)**|
 |**2023-08-11**|**Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures**|Anna-Grace Linton et.al.|[2308.06199v1](http://arxiv.org/abs/2308.06199v1)|null|
@@ -2993,6 +3003,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Bow varieties: Stable envelopes and their 3d mirror symmetry**|Tommaso Maria Botta et.al.|[2308.07300v1](http://arxiv.org/abs/2308.07300v1)|null|
+|**2023-08-14**|**A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer**|Manjary P Gangan et.al.|[2308.07279v1](http://arxiv.org/abs/2308.07279v1)|null|
+|**2023-08-14**|**DS-Depth: Dynamic and Static Depth Estimation via a Fusion Cost Volume**|Xingyu Miao et.al.|[2308.07225v1](http://arxiv.org/abs/2308.07225v1)|null|
+|**2023-08-14**|**MM-GEF: Multi-modal representation meet collaborative filtering**|Hao Wu et.al.|[2308.07222v1](http://arxiv.org/abs/2308.07222v1)|null|
+|**2023-08-14**|**FocusFlow: Boosting Key-Points Optical Flow Estimation for Autonomous Driving**|Zhonghua Yi et.al.|[2308.07104v1](http://arxiv.org/abs/2308.07104v1)|**[link](https://github.com/zhonghuayi/focusflow_official)**|
+|**2023-08-14**|**Distributed UAV Swarm Augmented Wideband Spectrum Sensing Using Nyquist Folding Receiver**|Kaili Jiang et.al.|[2308.07077v1](http://arxiv.org/abs/2308.07077v1)|null|
+|**2023-08-14**|**Teeth And Root Canals Segmentation Using ZXYFormer With Uncertainty Guidance And Weight Transfer**|Shangxuan Li et.al.|[2308.07072v1](http://arxiv.org/abs/2308.07072v1)|null|
+|**2023-08-14**|**HPFormer: Hyperspectral image prompt object tracking**|Yuedong Tan et.al.|[2308.07016v1](http://arxiv.org/abs/2308.07016v1)|null|
+|**2023-08-14**|**Deep convolutional neural networks for cyclic sensor data**|Payman Goodarzi et.al.|[2308.06987v1](http://arxiv.org/abs/2308.06987v1)|null|
+|**2023-08-14**|**3D Localization and Tracking Methods for Multi-Platform Radar Networks**|Angela Marino et.al.|[2308.06972v1](http://arxiv.org/abs/2308.06972v1)|null|
 |**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235v1](http://arxiv.org/abs/2308.06235v1)|**[link](https://github.com/1094701018/ketm)**|
 |**2023-08-11**|**Deep Context Interest Network for Click-Through Rate Prediction**|Xuyang Hou et.al.|[2308.06037v1](http://arxiv.org/abs/2308.06037v1)|null|
 |**2023-08-11**|**Spatial-information Guided Adaptive Context-aware Network for Efficient RGB-D Semantic Segmentation**|Yang Zhang et.al.|[2308.06024v1](http://arxiv.org/abs/2308.06024v1)|**[link](https://github.com/mvme-hbut/sgacnet)**|
