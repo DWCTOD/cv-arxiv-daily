@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
+|**2023-08-15**|**Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**|Chuhan Zhang et.al.|[2308.07918v1](http://arxiv.org/abs/2308.07918v1)|**[link](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**|
+|**2023-08-15**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903v1](http://arxiv.org/abs/2308.07903v1)|null|
+|**2023-08-15**|**Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms**|Bhaskar Dhariyal et.al.|[2308.07886v1](http://arxiv.org/abs/2308.07886v1)|**[link](https://github.com/mlgig/tabularmodelsfortsc)**|
+|**2023-08-15**|**The Challenge of Fetal Cardiac MRI Reconstruction Using Deep Learning**|Denis Prokopenko et.al.|[2308.07885v1](http://arxiv.org/abs/2308.07885v1)|null|
+|**2023-08-15**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations**|Lekang Jiang et.al.|[2308.07883v1](http://arxiv.org/abs/2308.07883v1)|**[link](https://github.com/scylj1/gnn_edge_regression)**|
+|**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|null|
+|**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874v1](http://arxiv.org/abs/2308.07874v1)|**[link](https://github.com/razaimam45/seda)**|
+|**2023-08-15**|**Sequence Processing with Quantum Tensor Networks**|Carys Harvey et.al.|[2308.07865v1](http://arxiv.org/abs/2308.07865v1)|null|
+|**2023-08-15**|**ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition**|Yixuan Zhou et.al.|[2308.07815v1](http://arxiv.org/abs/2308.07815v1)|**[link](https://github.com/cool-xuan/imbalanced_sam)**|
 |**2023-08-14**|**Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification**|Olesya Razuvayevskaya et.al.|[2308.07282v1](http://arxiv.org/abs/2308.07282v1)|null|
 |**2023-08-14**|**A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer**|Manjary P Gangan et.al.|[2308.07279v1](http://arxiv.org/abs/2308.07279v1)|null|
 |**2023-08-14**|**EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**|Peng Wang et.al.|[2308.07269v1](http://arxiv.org/abs/2308.07269v1)|**[link](https://github.com/zjunlp/easyedit)**|
@@ -3003,6 +3013,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models**|Jie Huang et.al.|[2308.07922v1](http://arxiv.org/abs/2308.07922v1)|null|
+|**2023-08-15**|**Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**|Zhandos Moldabekov et.al.|[2308.07916v1](http://arxiv.org/abs/2308.07916v1)|null|
+|**2023-08-15**|**Fault-tolerant complexes**|Hector Bombin et.al.|[2308.07844v1](http://arxiv.org/abs/2308.07844v1)|null|
+|**2023-08-15**|**Cerberus: A Deep Learning Hybrid Model for Lithium-Ion Battery Aging Estimation and Prediction Based on Relaxation Voltage Curves**|Yue Xiang et.al.|[2308.07824v1](http://arxiv.org/abs/2308.07824v1)|null|
+|**2023-08-15**|**UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation**|Haiyang Wang et.al.|[2308.07732v1](http://arxiv.org/abs/2308.07732v1)|**[link](https://github.com/haiyang-w/unitr)**|
+|**2023-08-15**|**Boosting Multi-modal Model Performance with Adaptive Gradient Modulation**|Hong Li et.al.|[2308.07686v1](http://arxiv.org/abs/2308.07686v1)|**[link](https://github.com/lihong2303/agm_iccv2023)**|
+|**2023-08-15**|**Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval**|Chaorui Deng et.al.|[2308.07648v1](http://arxiv.org/abs/2308.07648v1)|null|
+|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605v1](http://arxiv.org/abs/2308.07605v1)|null|
+|**2023-08-15**|**Characterization of fast magnetosonic waves driven by interaction between magnetic fields and compact toroids**|F. Chu et.al.|[2308.07582v1](http://arxiv.org/abs/2308.07582v1)|null|
+|**2023-08-15**|**ICAFusion: Iterative Cross-Attention Guided Feature Fusion for Multispectral Object Detection**|Jifeng Shen et.al.|[2308.07504v1](http://arxiv.org/abs/2308.07504v1)|null|
 |**2023-08-14**|**Bow varieties: Stable envelopes and their 3d mirror symmetry**|Tommaso Maria Botta et.al.|[2308.07300v1](http://arxiv.org/abs/2308.07300v1)|null|
 |**2023-08-14**|**A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer**|Manjary P Gangan et.al.|[2308.07279v1](http://arxiv.org/abs/2308.07279v1)|null|
 |**2023-08-14**|**DS-Depth: Dynamic and Static Depth Estimation via a Fusion Cost Volume**|Xingyu Miao et.al.|[2308.07225v1](http://arxiv.org/abs/2308.07225v1)|null|
