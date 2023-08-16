@@ -1,4 +1,4 @@
-> Updated on 2023.08.15
+> Updated on 2023.08.16
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2023-08-14, **Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2308.07231v1](http://arxiv.org/abs/2308.07231v1)
 - 2023-08-14, **Almost fine gradings on algebras and classification of gradings up to isomorphism**, Alberto Elduque et.al., Paper: [http://arxiv.org/abs/2308.07230v1](http://arxiv.org/abs/2308.07230v1)
 - 2023-08-14, **Distance Matters For Improving Performance Estimation Under Covariate Shift**, Mélanie Roschewitz et.al., Paper: [http://arxiv.org/abs/2308.07223v1](http://arxiv.org/abs/2308.07223v1), Code: **[https://github.com/melanibe/distance_matters_performance_estimation](https://github.com/melanibe/distance_matters_performance_estimation)**
-- 2023-08-14, **AudioFormer: Audio Transformer learns audio feature representations from discrete acoustic codes**, Zhaohui Li et.al., Paper: [http://arxiv.org/abs/2308.07221v1](http://arxiv.org/abs/2308.07221v1), Code: **[https://github.com/LZH-0225/AudioFormer](https://github.com/LZH-0225/AudioFormer)**
+- 2023-08-15, **AudioFormer: Audio Transformer learns audio feature representations from discrete acoustic codes**, Zhaohui Li et.al., Paper: [http://arxiv.org/abs/2308.07221v2](http://arxiv.org/abs/2308.07221v2), Code: **[https://github.com/LZH-0225/AudioFormer](https://github.com/LZH-0225/AudioFormer)**
 - 2023-08-11, **ARGUS: Visualization of AI-Assisted Task Guidance in AR**, Sonia Castelo et.al., Paper: [http://arxiv.org/abs/2308.06246v1](http://arxiv.org/abs/2308.06246v1)
 - 2023-08-11, **Exploring Predicate Visual Context in Detecting of Human-Object Interactions**, Frederic Z. Zhang et.al., Paper: [http://arxiv.org/abs/2308.06202v1](http://arxiv.org/abs/2308.06202v1), Code: **[https://github.com/fredzzhang/pvic](https://github.com/fredzzhang/pvic)**
 - 2023-08-11, **Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures**, Anna-Grace Linton et.al., Paper: [http://arxiv.org/abs/2308.06199v1](http://arxiv.org/abs/2308.06199v1)
