@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-16, **MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**, Henghui Ding et.al., Paper: [http://arxiv.org/abs/2308.08544v1](http://arxiv.org/abs/2308.08544v1), Code: **[https://github.com/henghuiding/MeViS](https://github.com/henghuiding/MeViS)**
+- 2023-08-16, **Deployment and Analysis of Instance Segmentation Algorithm for In-field Grade Estimation of Sweetpotatoes**, Hoang M. Nguyen et.al., Paper: [http://arxiv.org/abs/2308.08534v1](http://arxiv.org/abs/2308.08534v1)
+- 2023-08-16, **Diagnosing Human-object Interaction Detectors**, Fangrui Zhu et.al., Paper: [http://arxiv.org/abs/2308.08529v1](http://arxiv.org/abs/2308.08529v1), Code: **[https://github.com/neu-vi/diag-hoi](https://github.com/neu-vi/diag-hoi)**
+- 2023-08-16, **Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**, Yuhao Yang et.al., Paper: [http://arxiv.org/abs/2308.08518v1](http://arxiv.org/abs/2308.08518v1)
+- 2023-08-16, **Two-and-a-half Order Score-based Model for Solving 3D Ill-posed Inverse Problems**, Zirong Li et.al., Paper: [http://arxiv.org/abs/2308.08511v1](http://arxiv.org/abs/2308.08511v1)
+- 2023-08-16, **ResBuilder: Automated Learning of Depth with Residual Structures**, Julian Burghoff et.al., Paper: [http://arxiv.org/abs/2308.08504v1](http://arxiv.org/abs/2308.08504v1)
+- 2023-08-16, **Galactic Archaeology: Tracing the Milky Way's Formation and Evolution through Stellar Populations**, J. Alfredo Collazos et.al., Paper: [http://arxiv.org/abs/2308.08492v1](http://arxiv.org/abs/2308.08492v1)
+- 2023-08-16, **Label Propagation Techniques for Artifact Detection in Imbalanced Classes using Photoplethysmogram Signals**, Clara Macabiau et.al., Paper: [http://arxiv.org/abs/2308.08480v1](http://arxiv.org/abs/2308.08480v1)
+- 2023-08-16, **DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2308.08479v1](http://arxiv.org/abs/2308.08479v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
+- 2023-08-16, **Classification Committee for Active Deep Object Detection**, Lei Zhao et.al., Paper: [http://arxiv.org/abs/2308.08476v1](http://arxiv.org/abs/2308.08476v1)
 - 2023-08-15, **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**, Hao Ouyang et.al., Paper: [http://arxiv.org/abs/2308.07926v1](http://arxiv.org/abs/2308.07926v1), Code: **[https://github.com/qiuyu96/codef](https://github.com/qiuyu96/codef)**
 - 2023-08-15, **Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**, Chuhan Zhang et.al., Paper: [http://arxiv.org/abs/2308.07918v1](http://arxiv.org/abs/2308.07918v1), Code: **[https://github.com/chuhanxx/helping_hand_for_egocentric_videos](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**
 - 2023-08-15, **Relightable and Animatable Neural Avatar from Sparse-View Video**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2308.07903v1](http://arxiv.org/abs/2308.07903v1)
@@ -3005,6 +3015,16 @@
 
 ## MultiModal
 
+- 2023-08-16, **InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping**, Zhenhua Xu et.al., Paper: [http://arxiv.org/abs/2308.08543v1](http://arxiv.org/abs/2308.08543v1)
+- 2023-08-16, **Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**, Ran Jiang et.al., Paper: [http://arxiv.org/abs/2308.08367v1](http://arxiv.org/abs/2308.08367v1)
+- 2023-08-16, **Improving Depth Gradient Continuity in Transformers: A Comparative Study on Monocular Depth Estimation with CNN**, Jiawei Yao et.al., Paper: [http://arxiv.org/abs/2308.08333v1](http://arxiv.org/abs/2308.08333v1)
+- 2023-08-16, **The ID R&D VoxCeleb Speaker Recognition Challenge 2023 System Description**, Nikita Torgashov et.al., Paper: [http://arxiv.org/abs/2308.08294v1](http://arxiv.org/abs/2308.08294v1)
+- 2023-08-16, **Accelerated Design of Block Copolymers: An Unbiased Exploration Strategy via Fusion of Molecular Dynamics Simulations and Machine Learning**, Jan Michael Y. Carrillo et.al., Paper: [http://arxiv.org/abs/2308.08226v1](http://arxiv.org/abs/2308.08226v1)
+- 2023-08-16, **A Robust Integrated Multi-Strategy Bus Control System via Deep Reinforcement Learning**, Qinghui Nie et.al., Paper: [http://arxiv.org/abs/2308.08179v1](http://arxiv.org/abs/2308.08179v1)
+- 2023-08-16, **Accelerating Generic Graph Neural Networks via Architecture, Compiler, Partition Method Co-Design**, Shuwen Lu et.al., Paper: [http://arxiv.org/abs/2308.08174v1](http://arxiv.org/abs/2308.08174v1)
+- 2023-08-16, **SCANet: A Self- and Cross-Attention Network for Audio-Visual Speech Separation**, Kai Li et.al., Paper: [http://arxiv.org/abs/2308.08143v1](http://arxiv.org/abs/2308.08143v1)
+- 2023-08-16, **DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**, Shengming Yin et.al., Paper: [http://arxiv.org/abs/2308.08089v1](http://arxiv.org/abs/2308.08089v1)
+- 2023-08-15, **Nonlinear Deterministic Observer for Inertial Navigation using Ultra-wideband and IMU Sensor Fusion**, Hashim A. Hashim et.al., Paper: [http://arxiv.org/abs/2308.08023v1](http://arxiv.org/abs/2308.08023v1)
 - 2023-08-15, **RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models**, Jie Huang et.al., Paper: [http://arxiv.org/abs/2308.07922v1](http://arxiv.org/abs/2308.07922v1)
 - 2023-08-15, **Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**, Zhandos Moldabekov et.al., Paper: [http://arxiv.org/abs/2308.07916v1](http://arxiv.org/abs/2308.07916v1)
 - 2023-08-15, **Fault-tolerant complexes**, Hector Bombin et.al., Paper: [http://arxiv.org/abs/2308.07844v1](http://arxiv.org/abs/2308.07844v1)
