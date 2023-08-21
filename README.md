@@ -1,4 +1,4 @@
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 
 ## Video_Classification
 
@@ -7,8 +7,8 @@
 |**2023-08-16**|**MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**|Henghui Ding et.al.|[2308.08544v1](http://arxiv.org/abs/2308.08544v1)|**[link](https://github.com/henghuiding/MeViS)**|
 |**2023-08-16**|**Deployment and Analysis of Instance Segmentation Algorithm for In-field Grade Estimation of Sweetpotatoes**|Hoang M. Nguyen et.al.|[2308.08534v1](http://arxiv.org/abs/2308.08534v1)|null|
 |**2023-08-16**|**Diagnosing Human-object Interaction Detectors**|Fangrui Zhu et.al.|[2308.08529v1](http://arxiv.org/abs/2308.08529v1)|**[link](https://github.com/neu-vi/diag-hoi)**|
-|**2023-08-16**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518v1](http://arxiv.org/abs/2308.08518v1)|null|
-|**2023-08-16**|**Two-and-a-half Order Score-based Model for Solving 3D Ill-posed Inverse Problems**|Zirong Li et.al.|[2308.08511v1](http://arxiv.org/abs/2308.08511v1)|null|
+|**2023-08-17**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518v2](http://arxiv.org/abs/2308.08518v2)|null|
+|**2023-08-17**|**Two-and-a-half Order Score-based Model for Solving 3D Ill-posed Inverse Problems**|Zirong Li et.al.|[2308.08511v2](http://arxiv.org/abs/2308.08511v2)|null|
 |**2023-08-16**|**ResBuilder: Automated Learning of Depth with Residual Structures**|Julian Burghoff et.al.|[2308.08504v1](http://arxiv.org/abs/2308.08504v1)|null|
 |**2023-08-16**|**Galactic Archaeology: Tracing the Milky Way's Formation and Evolution through Stellar Populations**|J. Alfredo Collazos et.al.|[2308.08492v1](http://arxiv.org/abs/2308.08492v1)|null|
 |**2023-08-16**|**Label Propagation Techniques for Artifact Detection in Imbalanced Classes using Photoplethysmogram Signals**|Clara Macabiau et.al.|[2308.08480v1](http://arxiv.org/abs/2308.08480v1)|null|
