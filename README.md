@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716v1](http://arxiv.org/abs/2308.09716v1)|**[link](https://github.com/soumik-kanad/diff2lip)**|
+|**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713v1](http://arxiv.org/abs/2308.09713v1)|null|
+|**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|null|
+|**2023-08-18**|**Invariant Training 2D-3D Joint Hard Samples for Few-Shot Point Cloud Recognition**|Xuanyu Yi et.al.|[2308.09694v1](http://arxiv.org/abs/2308.09694v1)|null|
+|**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693v1](http://arxiv.org/abs/2308.09693v1)|null|
+|**2023-08-18**|**Audiovisual Moments in Time: A Large-Scale Annotated Dataset of Audiovisual Actions**|Michael Joannou et.al.|[2308.09685v1](http://arxiv.org/abs/2308.09685v1)|**[link](https://github.com/mjoannou/audiovisual-moments-in-time)**|
+|**2023-08-18**|**Quantifying Uncertainties of Contact Classifications in a Human-Robot Collaboration with Parallel Robots**|Aran Mohammad et.al.|[2308.09675v1](http://arxiv.org/abs/2308.09675v1)|null|
+|**2023-08-18**|**Classification of modular data up to rank 11**|Siu-Hung Ng et.al.|[2308.09670v1](http://arxiv.org/abs/2308.09670v1)|null|
+|**2023-08-18**|**Collision Isolation and Identification Using Proprioceptive Sensing for Parallel Robots to Enable Human-Robot Collaboration**|Aran Mohammad et.al.|[2308.09650v1](http://arxiv.org/abs/2308.09650v1)|null|
+|**2023-08-18**|**Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction**|Daniel Bethell et.al.|[2308.09647v1](http://arxiv.org/abs/2308.09647v1)|**[link](https://github.com/team-daniel/mc-cp)**|
 |**2023-08-16**|**MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**|Henghui Ding et.al.|[2308.08544v1](http://arxiv.org/abs/2308.08544v1)|**[link](https://github.com/henghuiding/MeViS)**|
 |**2023-08-16**|**Deployment and Analysis of Instance Segmentation Algorithm for In-field Grade Estimation of Sweetpotatoes**|Hoang M. Nguyen et.al.|[2308.08534v1](http://arxiv.org/abs/2308.08534v1)|null|
 |**2023-08-16**|**Diagnosing Human-object Interaction Detectors**|Fangrui Zhu et.al.|[2308.08529v1](http://arxiv.org/abs/2308.08529v1)|**[link](https://github.com/neu-vi/diag-hoi)**|
@@ -3019,6 +3029,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705v1](http://arxiv.org/abs/2308.09705v1)|null|
+|**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599v1](http://arxiv.org/abs/2308.09599v1)|null|
+|**2023-08-18**|**Single Frame Semantic Segmentation Using Multi-Modal Spherical Images**|Suresh Guttikonda et.al.|[2308.09369v1](http://arxiv.org/abs/2308.09369v1)|**[link](https://github.com/sguttikon/SFSS-MMSI)**|
+|**2023-08-18**|**RLIPv2: Fast Scaling of Relational Language-Image Pre-training**|Hangjie Yuan et.al.|[2308.09351v1](http://arxiv.org/abs/2308.09351v1)|**[link](https://github.com/jacobyuan7/rlipv2)**|
+|**2023-08-18**|**KESDT: knowledge enhanced shallow and deep Transformer for detecting adverse drug reactions**|Yunzhi Qiu et.al.|[2308.09329v1](http://arxiv.org/abs/2308.09329v1)|null|
+|**2023-08-18**|**Audio-Visual Glance Network for Efficient Video Recognition**|Muhammad Adi Nugroho et.al.|[2308.09322v1](http://arxiv.org/abs/2308.09322v1)|null|
+|**2023-08-18**|**Robust Audio Anti-Spoofing with Fusion-Reconstruction Learning on Multi-Order Spectrograms**|Penghui Wen et.al.|[2308.09302v1](http://arxiv.org/abs/2308.09302v1)|**[link](https://github.com/ph-w2000/s2pecnet)**|
+|**2023-08-17**|**Accurate machine learning force fields via experimental and simulation data fusion**|Sebastien Röcken et.al.|[2308.09142v1](http://arxiv.org/abs/2308.09142v1)|null|
+|**2023-08-17**|**Hyperbolic Face Anti-Spoofing**|Shuangpeng Han et.al.|[2308.09107v1](http://arxiv.org/abs/2308.09107v1)|null|
+|**2023-08-17**|**A Mathematical Characterization of Minimally Sufficient Robot Brains**|Basak Sakcak et.al.|[2308.09041v1](http://arxiv.org/abs/2308.09041v1)|null|
 |**2023-08-16**|**InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping**|Zhenhua Xu et.al.|[2308.08543v1](http://arxiv.org/abs/2308.08543v1)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367v1](http://arxiv.org/abs/2308.08367v1)|null|
 |**2023-08-16**|**Improving Depth Gradient Continuity in Transformers: A Comparative Study on Monocular Depth Estimation with CNN**|Jiawei Yao et.al.|[2308.08333v1](http://arxiv.org/abs/2308.08333v1)|null|
