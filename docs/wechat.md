@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-21, **Structured World Models from Human Videos**, Russell Mendonca et.al., Paper: [http://arxiv.org/abs/2308.10901v1](http://arxiv.org/abs/2308.10901v1)
+- 2023-08-21, **Unlocking Accuracy and Fairness in Differentially Private Image Classification**, Leonard Berrada et.al., Paper: [http://arxiv.org/abs/2308.10888v1](http://arxiv.org/abs/2308.10888v1)
+- 2023-08-21, **Evaluating quantum generative models via imbalanced data classification benchmarks**, Graham R. Enos et.al., Paper: [http://arxiv.org/abs/2308.10847v1](http://arxiv.org/abs/2308.10847v1)
+- 2023-08-21, **Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**, Miaoyu Li et.al., Paper: [http://arxiv.org/abs/2308.10820v1](http://arxiv.org/abs/2308.10820v1)
+- 2023-08-21, **Improving Continuous Sign Language Recognition with Cross-Lingual Signs**, Fangyun Wei et.al., Paper: [http://arxiv.org/abs/2308.10809v1](http://arxiv.org/abs/2308.10809v1)
+- 2023-08-21, **DynED: Dynamic Ensemble Diversification in Data Stream Classification**, Soheil Abadifard et.al., Paper: [http://arxiv.org/abs/2308.10807v1](http://arxiv.org/abs/2308.10807v1)
+- 2023-08-21, **MGMAE: Motion Guided Masking for Video Masked Autoencoding**, Bingkun Huang et.al., Paper: [http://arxiv.org/abs/2308.10794v1](http://arxiv.org/abs/2308.10794v1)
+- 2023-08-21, **Extraction of Text from Optic Nerve Optical Coherence Tomography Reports**, Iyad Majid et.al., Paper: [http://arxiv.org/abs/2308.10790v1](http://arxiv.org/abs/2308.10790v1)
+- 2023-08-21, **Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR**, Soorena Salari et.al., Paper: [http://arxiv.org/abs/2308.10784v1](http://arxiv.org/abs/2308.10784v1)
+- 2023-08-21, **Superfluid weight in the isolated band limit within the generalized random phase approximation**, Minh Tam et.al., Paper: [http://arxiv.org/abs/2308.10780v1](http://arxiv.org/abs/2308.10780v1)
 - 2023-08-18, **Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2308.09716v1](http://arxiv.org/abs/2308.09716v1), Code: **[https://github.com/soumik-kanad/diff2lip](https://github.com/soumik-kanad/diff2lip)**
 - 2023-08-18, **Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**, Jonathon Luiten et.al., Paper: [http://arxiv.org/abs/2308.09713v1](http://arxiv.org/abs/2308.09713v1)
 - 2023-08-18, **SimDA: Simple Diffusion Adapter for Efficient Video Generation**, Zhen Xing et.al., Paper: [http://arxiv.org/abs/2308.09710v1](http://arxiv.org/abs/2308.09710v1)
@@ -3025,6 +3035,16 @@
 
 ## MultiModal
 
+- 2023-08-21, **Proton-Boron Fusion Yield Increased by Orders of Magnitude with Foam Targets**, Wen-Qing Wei et.al., Paper: [http://arxiv.org/abs/2308.10878v1](http://arxiv.org/abs/2308.10878v1)
+- 2023-08-21, **On the realization of a class of $\text{SL}(2,\mathbb{Z})$-representations**, Zhiqiang Yu et.al., Paper: [http://arxiv.org/abs/2308.10673v1](http://arxiv.org/abs/2308.10673v1)
+- 2023-08-21, **Ultrafast Radiographic Imaging and Tracking: An overview of instruments, methods, data, and applications**, Zhehui Wang et.al., Paper: [http://arxiv.org/abs/2308.10643v1](http://arxiv.org/abs/2308.10643v1)
+- 2023-08-21, **Ultrafast and Ultralight Network-Based Intelligent System for Real-time Diagnosis of Ear diseases in Any Devices**, Yubiao Yue et.al., Paper: [http://arxiv.org/abs/2308.10610v1](http://arxiv.org/abs/2308.10610v1)
+- 2023-08-21, **FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly**, Yuhan Li et.al., Paper: [http://arxiv.org/abs/2308.10608v1](http://arxiv.org/abs/2308.10608v1)
+- 2023-08-21, **Semantic Programming for Device-Edge-Cloud Continuum**, Anh Le-Tuan et.al., Paper: [http://arxiv.org/abs/2308.10555v1](http://arxiv.org/abs/2308.10555v1)
+- 2023-08-21, **Evaluating Temporal Persistence Using Replicability Measures**, Jüri Keller et.al., Paper: [http://arxiv.org/abs/2308.10549v1](http://arxiv.org/abs/2308.10549v1)
+- 2023-08-21, **Joint learning of images and videos with a single Vision Transformer**, Shuki Shimizu et.al., Paper: [http://arxiv.org/abs/2308.10533v1](http://arxiv.org/abs/2308.10533v1)
+- 2023-08-21, **DPAN: Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations**, Wei Dai et.al., Paper: [http://arxiv.org/abs/2308.10527v1](http://arxiv.org/abs/2308.10527v1)
+- 2023-08-21, **Unraveling Low-Dimensional Network Dynamics: A Fusion of Sparse Identification and Proper Orthogonal Decomposition**, Rui Luo et.al., Paper: [http://arxiv.org/abs/2308.10458v1](http://arxiv.org/abs/2308.10458v1)
 - 2023-08-18, **Guide3D: Create 3D Avatars from Text and Image Guidance**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2308.09705v1](http://arxiv.org/abs/2308.09705v1)
 - 2023-08-18, **Language-Guided Diffusion Model for Visual Grounding**, Sijia Chen et.al., Paper: [http://arxiv.org/abs/2308.09599v1](http://arxiv.org/abs/2308.09599v1)
 - 2023-08-18, **Single Frame Semantic Segmentation Using Multi-Modal Spherical Images**, Suresh Guttikonda et.al., Paper: [http://arxiv.org/abs/2308.09369v1](http://arxiv.org/abs/2308.09369v1), Code: **[https://github.com/sguttikon/SFSS-MMSI](https://github.com/sguttikon/SFSS-MMSI)**
