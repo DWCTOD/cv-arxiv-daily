@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713v1](http://arxiv.org/abs/2308.09713v1)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|null|
 |**2023-08-18**|**Invariant Training 2D-3D Joint Hard Samples for Few-Shot Point Cloud Recognition**|Xuanyu Yi et.al.|[2308.09694v1](http://arxiv.org/abs/2308.09694v1)|null|
-|**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693v1](http://arxiv.org/abs/2308.09693v1)|null|
+|**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693v1](http://arxiv.org/abs/2308.09693v1)|**[link](https://github.com/hdong920/ebsd_slice_recovery)**|
 |**2023-08-18**|**Audiovisual Moments in Time: A Large-Scale Annotated Dataset of Audiovisual Actions**|Michael Joannou et.al.|[2308.09685v1](http://arxiv.org/abs/2308.09685v1)|**[link](https://github.com/mjoannou/audiovisual-moments-in-time)**|
 |**2023-08-18**|**Quantifying Uncertainties of Contact Classifications in a Human-Robot Collaboration with Parallel Robots**|Aran Mohammad et.al.|[2308.09675v1](http://arxiv.org/abs/2308.09675v1)|null|
 |**2023-08-18**|**Classification of modular data up to rank 11**|Siu-Hung Ng et.al.|[2308.09670v1](http://arxiv.org/abs/2308.09670v1)|null|
