@@ -1,4 +1,4 @@
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 |**2023-08-21**|**Evaluating quantum generative models via imbalanced data classification benchmarks**|Graham R. Enos et.al.|[2308.10847v1](http://arxiv.org/abs/2308.10847v1)|null|
 |**2023-08-21**|**Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**|Miaoyu Li et.al.|[2308.10820v1](http://arxiv.org/abs/2308.10820v1)|null|
 |**2023-08-21**|**Improving Continuous Sign Language Recognition with Cross-Lingual Signs**|Fangyun Wei et.al.|[2308.10809v1](http://arxiv.org/abs/2308.10809v1)|null|
-|**2023-08-21**|**DynED: Dynamic Ensemble Diversification in Data Stream Classification**|Soheil Abadifard et.al.|[2308.10807v1](http://arxiv.org/abs/2308.10807v1)|null|
+|**2023-08-21**|**DynED: Dynamic Ensemble Diversification in Data Stream Classification**|Soheil Abadifard et.al.|[2308.10807v1](http://arxiv.org/abs/2308.10807v1)|**[link](https://github.com/soheilabadifard/dyned)**|
 |**2023-08-21**|**MGMAE: Motion Guided Masking for Video Masked Autoencoding**|Bingkun Huang et.al.|[2308.10794v1](http://arxiv.org/abs/2308.10794v1)|null|
 |**2023-08-21**|**Extraction of Text from Optic Nerve Optical Coherence Tomography Reports**|Iyad Majid et.al.|[2308.10790v1](http://arxiv.org/abs/2308.10790v1)|null|
 |**2023-08-21**|**Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR**|Soorena Salari et.al.|[2308.10784v1](http://arxiv.org/abs/2308.10784v1)|null|
@@ -3043,12 +3043,12 @@
 |**2023-08-21**|**On the realization of a class of $\text{SL}(2,\mathbb{Z})$-representations**|Zhiqiang Yu et.al.|[2308.10673v1](http://arxiv.org/abs/2308.10673v1)|null|
 |**2023-08-21**|**Ultrafast Radiographic Imaging and Tracking: An overview of instruments, methods, data, and applications**|Zhehui Wang et.al.|[2308.10643v1](http://arxiv.org/abs/2308.10643v1)|null|
 |**2023-08-21**|**Ultrafast and Ultralight Network-Based Intelligent System for Real-time Diagnosis of Ear diseases in Any Devices**|Yubiao Yue et.al.|[2308.10610v1](http://arxiv.org/abs/2308.10610v1)|null|
-|**2023-08-21**|**FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly**|Yuhan Li et.al.|[2308.10608v1](http://arxiv.org/abs/2308.10608v1)|null|
+|**2023-08-22**|**FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly**|Yuhan Li et.al.|[2308.10608v2](http://arxiv.org/abs/2308.10608v2)|null|
 |**2023-08-21**|**Semantic Programming for Device-Edge-Cloud Continuum**|Anh Le-Tuan et.al.|[2308.10555v1](http://arxiv.org/abs/2308.10555v1)|null|
 |**2023-08-21**|**Evaluating Temporal Persistence Using Replicability Measures**|Jüri Keller et.al.|[2308.10549v1](http://arxiv.org/abs/2308.10549v1)|null|
 |**2023-08-21**|**Joint learning of images and videos with a single Vision Transformer**|Shuki Shimizu et.al.|[2308.10533v1](http://arxiv.org/abs/2308.10533v1)|null|
 |**2023-08-21**|**DPAN: Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations**|Wei Dai et.al.|[2308.10527v1](http://arxiv.org/abs/2308.10527v1)|null|
-|**2023-08-21**|**Unraveling Low-Dimensional Network Dynamics: A Fusion of Sparse Identification and Proper Orthogonal Decomposition**|Rui Luo et.al.|[2308.10458v1](http://arxiv.org/abs/2308.10458v1)|null|
+|**2023-08-22**|**Unraveling Low-Dimensional Network Dynamics: A Fusion of Sparse Identification and Proper Orthogonal Decomposition**|Rui Luo et.al.|[2308.10458v2](http://arxiv.org/abs/2308.10458v2)|null|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705v1](http://arxiv.org/abs/2308.09705v1)|null|
 |**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599v1](http://arxiv.org/abs/2308.09599v1)|null|
 |**2023-08-18**|**Single Frame Semantic Segmentation Using Multi-Modal Spherical Images**|Suresh Guttikonda et.al.|[2308.09369v1](http://arxiv.org/abs/2308.09369v1)|**[link](https://github.com/sguttikon/SFSS-MMSI)**|
