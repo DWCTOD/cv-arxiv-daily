@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-22, **StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**, Emanuele Bugliarello et.al., Paper: [http://arxiv.org/abs/2308.11606v1](http://arxiv.org/abs/2308.11606v1), Code: **[https://github.com/google/storybench](https://github.com/google/storybench)**
+- 2023-08-22, **Semantic Multi-Resolution Communications**, Matin Mortaheb et.al., Paper: [http://arxiv.org/abs/2308.11604v1](http://arxiv.org/abs/2308.11604v1)
+- 2023-08-22, **EndoNet: model for automatic calculation of H-score on histological slides**, Egor Ushakov et.al., Paper: [http://arxiv.org/abs/2308.11562v1](http://arxiv.org/abs/2308.11562v1)
+- 2023-08-22, **Open Set Synthetic Image Source Attribution**, Shengbang Fang et.al., Paper: [http://arxiv.org/abs/2308.11557v1](http://arxiv.org/abs/2308.11557v1)
+- 2023-08-22, **Multi-event Video-Text Retrieval**, Gengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2308.11551v1](http://arxiv.org/abs/2308.11551v1), Code: **[https://github.com/gengyuanmax/mevtr](https://github.com/gengyuanmax/mevtr)**
+- 2023-08-22, **Furnishing Sound Event Detection with Language Model Abilities**, Hualei Wang et.al., Paper: [http://arxiv.org/abs/2308.11530v1](http://arxiv.org/abs/2308.11530v1)
+- 2023-08-22, **LCCo: Lending CLIP to Co-Segmentation**, Xin Duan et.al., Paper: [http://arxiv.org/abs/2308.11506v1](http://arxiv.org/abs/2308.11506v1)
+- 2023-08-22, **Learning from Semantic Alignment between Unpaired Multiviews for Egocentric Video Recognition**, Qitong Wang et.al., Paper: [http://arxiv.org/abs/2308.11489v1](http://arxiv.org/abs/2308.11489v1), Code: **[https://github.com/wqtwjt1996/sum-l](https://github.com/wqtwjt1996/sum-l)**
+- 2023-08-22, **Opening the Vocabulary of Egocentric Actions**, Dibyadip Chatterjee et.al., Paper: [http://arxiv.org/abs/2308.11488v1](http://arxiv.org/abs/2308.11488v1)
+- 2023-08-22, **Free Lunch for Gait Recognition: A Novel Relation Descriptor**, Jilong Wang et.al., Paper: [http://arxiv.org/abs/2308.11487v1](http://arxiv.org/abs/2308.11487v1)
 - 2023-08-21, **Structured World Models from Human Videos**, Russell Mendonca et.al., Paper: [http://arxiv.org/abs/2308.10901v1](http://arxiv.org/abs/2308.10901v1)
 - 2023-08-21, **Unlocking Accuracy and Fairness in Differentially Private Image Classification**, Leonard Berrada et.al., Paper: [http://arxiv.org/abs/2308.10888v1](http://arxiv.org/abs/2308.10888v1)
 - 2023-08-21, **Evaluating quantum generative models via imbalanced data classification benchmarks**, Graham R. Enos et.al., Paper: [http://arxiv.org/abs/2308.10847v1](http://arxiv.org/abs/2308.10847v1)
@@ -3035,6 +3045,16 @@
 
 ## MultiModal
 
+- 2023-08-22, **A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**, Yusheng Wang et.al., Paper: [http://arxiv.org/abs/2308.11492v1](http://arxiv.org/abs/2308.11492v1)
+- 2023-08-22, **Attitude Determination in Urban Canyons: A Synergy between GNSS and 5G Observations**, Pinjun Zheng et.al., Paper: [http://arxiv.org/abs/2308.11407v1](http://arxiv.org/abs/2308.11407v1)
+- 2023-08-22, **Matsuo algebras in characteristic 2**, Tom De Medts et.al., Paper: [http://arxiv.org/abs/2308.11360v1](http://arxiv.org/abs/2308.11360v1)
+- 2023-08-22, **GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**, Xinchi Deng et.al., Paper: [http://arxiv.org/abs/2308.11331v1](http://arxiv.org/abs/2308.11331v1)
+- 2023-08-22, **MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation**, Najmeh Sadoughi et.al., Paper: [http://arxiv.org/abs/2308.11185v1](http://arxiv.org/abs/2308.11185v1)
+- 2023-08-22, **MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation**, Jinpeng Wang et.al., Paper: [http://arxiv.org/abs/2308.11175v1](http://arxiv.org/abs/2308.11175v1)
+- 2023-08-22, **Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration**, Di Wang et.al., Paper: [http://arxiv.org/abs/2308.11165v1](http://arxiv.org/abs/2308.11165v1)
+- 2023-08-22, **SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection**, Dalong Zheng et.al., Paper: [http://arxiv.org/abs/2308.11159v1](http://arxiv.org/abs/2308.11159v1)
+- 2023-08-21, **CSM-H-R: An Automatic Context Reasoning Framework for Interoperable Intelligent Systems and Privacy Protection**, Songhui Yue et.al., Paper: [http://arxiv.org/abs/2308.11066v1](http://arxiv.org/abs/2308.11066v1), Code: **[https://github.com/songhui01/csm-h-r](https://github.com/songhui01/csm-h-r)**
+- 2023-08-21, **UnLoc: A Unified Framework for Video Localization Tasks**, Shen Yan et.al., Paper: [http://arxiv.org/abs/2308.11062v1](http://arxiv.org/abs/2308.11062v1), Code: **[https://github.com/google-research/scenic](https://github.com/google-research/scenic)**
 - 2023-08-21, **Proton-Boron Fusion Yield Increased by Orders of Magnitude with Foam Targets**, Wen-Qing Wei et.al., Paper: [http://arxiv.org/abs/2308.10878v1](http://arxiv.org/abs/2308.10878v1)
 - 2023-08-21, **On the realization of a class of $\text{SL}(2,\mathbb{Z})$-representations**, Zhiqiang Yu et.al., Paper: [http://arxiv.org/abs/2308.10673v1](http://arxiv.org/abs/2308.10673v1)
 - 2023-08-21, **Ultrafast Radiographic Imaging and Tracking: An overview of instruments, methods, data, and applications**, Zhehui Wang et.al., Paper: [http://arxiv.org/abs/2308.10643v1](http://arxiv.org/abs/2308.10643v1)
