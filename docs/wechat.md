@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-23, **Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**, Nancy Tyagi et.al., Paper: [http://arxiv.org/abs/2308.12272v1](http://arxiv.org/abs/2308.12272v1)
+- 2023-08-23, **Bugsplainer: Leveraging Code Structures to Explain Software Bugs with Neural Machine Translation**, Parvez Mahbub et.al., Paper: [http://arxiv.org/abs/2308.12267v1](http://arxiv.org/abs/2308.12267v1)
+- 2023-08-23, **SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**, Qing Xu et.al., Paper: [http://arxiv.org/abs/2308.12231v1](http://arxiv.org/abs/2308.12231v1), Code: **[https://github.com/xq141839/sppnet](https://github.com/xq141839/sppnet)**
+- 2023-08-23, **Towards Real-Time Analysis of Broadcast Badminton Videos**, Nitin Nilesh et.al., Paper: [http://arxiv.org/abs/2308.12199v1](http://arxiv.org/abs/2308.12199v1)
+- 2023-08-23, **Sign Language Translation with Iterative Prototype**, Huijie Yao et.al., Paper: [http://arxiv.org/abs/2308.12191v1](http://arxiv.org/abs/2308.12191v1)
+- 2023-08-23, **Tumor-Centered Patching for Enhanced Medical Image Segmentation**, Mutyyba Asghar et.al., Paper: [http://arxiv.org/abs/2308.12168v1](http://arxiv.org/abs/2308.12168v1)
+- 2023-08-23, **Constant mean curvature hypersurfaces in Anti-de Sitter space**, Enrico Trebeschi et.al., Paper: [http://arxiv.org/abs/2308.12167v1](http://arxiv.org/abs/2308.12167v1)
+- 2023-08-23, **NPF-200: A Multi-Modal Eye Fixation Dataset and Method for Non-Photorealistic Videos**, Ziyu Yang et.al., Paper: [http://arxiv.org/abs/2308.12163v1](http://arxiv.org/abs/2308.12163v1)
+- 2023-08-23, **A Probabilistic Fluctuation based Membership Inference Attack for Generative Models**, Wenjie Fu et.al., Paper: [http://arxiv.org/abs/2308.12143v1](http://arxiv.org/abs/2308.12143v1)
+- 2023-08-23, **Masking Strategies for Background Bias Removal in Computer Vision Models**, Ananthu Aniraj et.al., Paper: [http://arxiv.org/abs/2308.12127v1](http://arxiv.org/abs/2308.12127v1), Code: **[https://github.com/ananthu-aniraj/masking_strategies_bias_removal](https://github.com/ananthu-aniraj/masking_strategies_bias_removal)**
 - 2023-08-22, **StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**, Emanuele Bugliarello et.al., Paper: [http://arxiv.org/abs/2308.11606v1](http://arxiv.org/abs/2308.11606v1), Code: **[https://github.com/google/storybench](https://github.com/google/storybench)**
 - 2023-08-22, **Semantic Multi-Resolution Communications**, Matin Mortaheb et.al., Paper: [http://arxiv.org/abs/2308.11604v1](http://arxiv.org/abs/2308.11604v1)
 - 2023-08-22, **EndoNet: model for automatic calculation of H-score on histological slides**, Egor Ushakov et.al., Paper: [http://arxiv.org/abs/2308.11562v1](http://arxiv.org/abs/2308.11562v1)
@@ -3045,6 +3055,16 @@
 
 ## MultiModal
 
+- 2023-08-23, **As a consequence of H(650)->W+W-/ZZ, one predicts H++->W+W+ and H+->ZW+, as indicated by LHC data**, Alain Le Yaouanc et.al., Paper: [http://arxiv.org/abs/2308.12180v1](http://arxiv.org/abs/2308.12180v1)
+- 2023-08-23, **Multimodal Latent Emotion Recognition from Micro-expression and Physiological Signals**, Liangfei Zhang et.al., Paper: [http://arxiv.org/abs/2308.12156v1](http://arxiv.org/abs/2308.12156v1)
+- 2023-08-23, **Mesh Conflation of Oblique Photogrammetric Models using Virtual Cameras and Truncated Signed Distance Field**, Shuang Song et.al., Paper: [http://arxiv.org/abs/2308.12139v1](http://arxiv.org/abs/2308.12139v1)
+- 2023-08-23, **Select-and-Combine (SAC): A Novel Multi-Stereo Depth Fusion Algorithm for Point Cloud Generation via Efficient Local Markov Netlets**, Mostafa Elhashash et.al., Paper: [http://arxiv.org/abs/2308.12138v1](http://arxiv.org/abs/2308.12138v1)
+- 2023-08-23, **Lite-HRNet Plus: Fast and Accurate Facial Landmark Detection**, Sota Kato et.al., Paper: [http://arxiv.org/abs/2308.12133v1](http://arxiv.org/abs/2308.12133v1)
+- 2023-08-23, **Cross-Modality Proposal-guided Feature Mining for Unregistered RGB-Thermal Pedestrian Detection**, Chao Tian et.al., Paper: [http://arxiv.org/abs/2308.12111v1](http://arxiv.org/abs/2308.12111v1)
+- 2023-08-23, **Path-Constrained State Estimation for Rail Vehicles**, Cornelius von Einem et.al., Paper: [http://arxiv.org/abs/2308.12082v1](http://arxiv.org/abs/2308.12082v1)
+- 2023-08-23, **SILT: Shadow-aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels**, Han Yang et.al., Paper: [http://arxiv.org/abs/2308.12064v1](http://arxiv.org/abs/2308.12064v1), Code: **[https://github.com/cralence/silt](https://github.com/cralence/silt)**
+- 2023-08-23, **Audio Generation with Multiple Conditional Diffusion Model**, Zhifang Guo et.al., Paper: [http://arxiv.org/abs/2308.11940v1](http://arxiv.org/abs/2308.11940v1)
+- 2023-08-23, **Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**, Chengguo Yuan et.al., Paper: [http://arxiv.org/abs/2308.11937v1](http://arxiv.org/abs/2308.11937v1)
 - 2023-08-22, **A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**, Yusheng Wang et.al., Paper: [http://arxiv.org/abs/2308.11492v1](http://arxiv.org/abs/2308.11492v1)
 - 2023-08-22, **Attitude Determination in Urban Canyons: A Synergy between GNSS and 5G Observations**, Pinjun Zheng et.al., Paper: [http://arxiv.org/abs/2308.11407v1](http://arxiv.org/abs/2308.11407v1)
 - 2023-08-22, **Matsuo algebras in characteristic 2**, Tom De Medts et.al., Paper: [http://arxiv.org/abs/2308.11360v1](http://arxiv.org/abs/2308.11360v1)
