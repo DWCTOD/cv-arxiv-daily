@@ -1,4 +1,4 @@
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 |**2023-08-22**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551v1](http://arxiv.org/abs/2308.11551v1)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2023-08-22**|**Furnishing Sound Event Detection with Language Model Abilities**|Hualei Wang et.al.|[2308.11530v1](http://arxiv.org/abs/2308.11530v1)|null|
 |**2023-08-22**|**LCCo: Lending CLIP to Co-Segmentation**|Xin Duan et.al.|[2308.11506v1](http://arxiv.org/abs/2308.11506v1)|null|
-|**2023-08-22**|**Learning from Semantic Alignment between Unpaired Multiviews for Egocentric Video Recognition**|Qitong Wang et.al.|[2308.11489v1](http://arxiv.org/abs/2308.11489v1)|**[link](https://github.com/wqtwjt1996/sum-l)**|
+|**2023-08-23**|**Learning from Semantic Alignment between Unpaired Multiviews for Egocentric Video Recognition**|Qitong Wang et.al.|[2308.11489v2](http://arxiv.org/abs/2308.11489v2)|**[link](https://github.com/wqtwjt1996/sum-l)**|
 |**2023-08-22**|**Opening the Vocabulary of Egocentric Actions**|Dibyadip Chatterjee et.al.|[2308.11488v1](http://arxiv.org/abs/2308.11488v1)|null|
 |**2023-08-22**|**Free Lunch for Gait Recognition: A Novel Relation Descriptor**|Jilong Wang et.al.|[2308.11487v1](http://arxiv.org/abs/2308.11487v1)|null|
 |**2023-08-21**|**Structured World Models from Human Videos**|Russell Mendonca et.al.|[2308.10901v1](http://arxiv.org/abs/2308.10901v1)|null|
