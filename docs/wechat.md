@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-24, **POCO: 3D Pose and Shape Estimation with Confidence**, Sai Kumar Dwivedi et.al., Paper: [http://arxiv.org/abs/2308.12965v1](http://arxiv.org/abs/2308.12965v1)
+- 2023-08-24, **Motion-Guided Masking for Spatiotemporal Representation Learning**, David Fan et.al., Paper: [http://arxiv.org/abs/2308.12962v1](http://arxiv.org/abs/2308.12962v1)
+- 2023-08-24, **Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**, Sheng Zhang et.al., Paper: [http://arxiv.org/abs/2308.12960v1](http://arxiv.org/abs/2308.12960v1)
+- 2023-08-24, **Beyond Document Page Classification: Design, Datasets, and Challenges**, Jordy Van Landeghem et.al., Paper: [http://arxiv.org/abs/2308.12896v1](http://arxiv.org/abs/2308.12896v1)
+- 2023-08-24, **Large Language Models Vote: Prompting for Rare Disease Identification**, David Oniani et.al., Paper: [http://arxiv.org/abs/2308.12890v1](http://arxiv.org/abs/2308.12890v1), Code: **[https://github.com/oniani/llms-vote](https://github.com/oniani/llms-vote)**
+- 2023-08-24, **Multi-stage feature decorrelation constraints for improving CNN classification performance**, Qiuyu Zhu et.al., Paper: [http://arxiv.org/abs/2308.12880v1](http://arxiv.org/abs/2308.12880v1)
+- 2023-08-24, **ToonTalker: Cross-Domain Face Reenactment**, Yuan Gong et.al., Paper: [http://arxiv.org/abs/2308.12866v1](http://arxiv.org/abs/2308.12866v1)
+- 2023-08-24, **Learned Local Attention Maps for Synthesising Vessel Segmentations**, Yash Deo et.al., Paper: [http://arxiv.org/abs/2308.12861v1](http://arxiv.org/abs/2308.12861v1)
+- 2023-08-24, **Algebraicity of hypergeometric functions with arbitrary parameters**, Florian Fürnsinn et.al., Paper: [http://arxiv.org/abs/2308.12855v1](http://arxiv.org/abs/2308.12855v1)
+- 2023-08-24, **$p$-brane Galilean and Carrollian Geometries and Gravities**, Eric Bergshoeff et.al., Paper: [http://arxiv.org/abs/2308.12852v1](http://arxiv.org/abs/2308.12852v1)
 - 2023-08-23, **Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**, Nancy Tyagi et.al., Paper: [http://arxiv.org/abs/2308.12272v1](http://arxiv.org/abs/2308.12272v1)
 - 2023-08-23, **Bugsplainer: Leveraging Code Structures to Explain Software Bugs with Neural Machine Translation**, Parvez Mahbub et.al., Paper: [http://arxiv.org/abs/2308.12267v1](http://arxiv.org/abs/2308.12267v1)
 - 2023-08-23, **SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**, Qing Xu et.al., Paper: [http://arxiv.org/abs/2308.12231v1](http://arxiv.org/abs/2308.12231v1), Code: **[https://github.com/xq141839/sppnet](https://github.com/xq141839/sppnet)**
@@ -3055,6 +3065,15 @@
 
 ## MultiModal
 
+- 2023-08-24, **SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2308.12863v1](http://arxiv.org/abs/2308.12863v1)
+- 2023-08-24, **Mutual-Guided Dynamic Network for Image Fusion**, Yuanshen Guan et.al., Paper: [http://arxiv.org/abs/2308.12538v1](http://arxiv.org/abs/2308.12538v1), Code: **[https://github.com/guanys-dar/mgdn](https://github.com/guanys-dar/mgdn)**
+- 2023-08-24, **Channel and Spatial Relation-Propagation Network for RGB-Thermal Semantic Segmentation**, Zikun Zhou et.al., Paper: [http://arxiv.org/abs/2308.12534v1](http://arxiv.org/abs/2308.12534v1)
+- 2023-08-24, **UNISOUND System for VoxCeleb Speaker Recognition Challenge 2023**, Yu Zheng et.al., Paper: [http://arxiv.org/abs/2308.12526v1](http://arxiv.org/abs/2308.12526v1)
+- 2023-08-24, **Masked Autoencoders are Efficient Class Incremental Learners**, Jiang-Tian Zhai et.al., Paper: [http://arxiv.org/abs/2308.12510v1](http://arxiv.org/abs/2308.12510v1), Code: **[https://github.com/scok30/mae-cil](https://github.com/scok30/mae-cil)**
+- 2023-08-24, **Attention-Based Acoustic Feature Fusion Network for Depression Detection**, Xiao Xu et.al., Paper: [http://arxiv.org/abs/2308.12478v1](http://arxiv.org/abs/2308.12478v1), Code: **[https://github.com/xuxiaoooo/abafnet](https://github.com/xuxiaoooo/abafnet)**
+- 2023-08-23, **Toward American Sign Language Processing in the Real World: Data, Tasks, and Methods**, Bowen Shi et.al., Paper: [http://arxiv.org/abs/2308.12419v1](http://arxiv.org/abs/2308.12419v1)
+- 2023-08-23, **An Initial Exploration: Learning to Generate Realistic Audio for Silent Video**, Matthew Martel et.al., Paper: [http://arxiv.org/abs/2308.12408v1](http://arxiv.org/abs/2308.12408v1)
+- 2023-08-23, **Quantum computation of stopping power for inertial fusion target design**, Nicholas C. Rubin et.al., Paper: [http://arxiv.org/abs/2308.12352v1](http://arxiv.org/abs/2308.12352v1)
 - 2023-08-23, **As a consequence of H(650)->W+W-/ZZ, one predicts H++->W+W+ and H+->ZW+, as indicated by LHC data**, Alain Le Yaouanc et.al., Paper: [http://arxiv.org/abs/2308.12180v1](http://arxiv.org/abs/2308.12180v1)
 - 2023-08-23, **Multimodal Latent Emotion Recognition from Micro-expression and Physiological Signals**, Liangfei Zhang et.al., Paper: [http://arxiv.org/abs/2308.12156v1](http://arxiv.org/abs/2308.12156v1)
 - 2023-08-23, **Mesh Conflation of Oblique Photogrammetric Models using Virtual Cameras and Truncated Signed Distance Field**, Shuang Song et.al., Paper: [http://arxiv.org/abs/2308.12139v1](http://arxiv.org/abs/2308.12139v1)
