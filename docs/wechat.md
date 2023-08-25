@@ -1,4 +1,4 @@
-> Updated on 2023.08.24
+> Updated on 2023.08.25
 
 ## Video_Classification
 
@@ -3064,7 +3064,7 @@
 - 2023-08-23, **Path-Constrained State Estimation for Rail Vehicles**, Cornelius von Einem et.al., Paper: [http://arxiv.org/abs/2308.12082v1](http://arxiv.org/abs/2308.12082v1)
 - 2023-08-23, **SILT: Shadow-aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels**, Han Yang et.al., Paper: [http://arxiv.org/abs/2308.12064v1](http://arxiv.org/abs/2308.12064v1), Code: **[https://github.com/cralence/silt](https://github.com/cralence/silt)**
 - 2023-08-23, **Audio Generation with Multiple Conditional Diffusion Model**, Zhifang Guo et.al., Paper: [http://arxiv.org/abs/2308.11940v1](http://arxiv.org/abs/2308.11940v1)
-- 2023-08-23, **Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**, Chengguo Yuan et.al., Paper: [http://arxiv.org/abs/2308.11937v1](http://arxiv.org/abs/2308.11937v1)
+- 2023-08-23, **Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification**, Chengguo Yuan et.al., Paper: [http://arxiv.org/abs/2308.11937v1](http://arxiv.org/abs/2308.11937v1), Code: **[https://github.com/event-ahu/efv_event_classification](https://github.com/event-ahu/efv_event_classification)**
 - 2023-08-22, **A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**, Yusheng Wang et.al., Paper: [http://arxiv.org/abs/2308.11492v1](http://arxiv.org/abs/2308.11492v1)
 - 2023-08-22, **Attitude Determination in Urban Canyons: A Synergy between GNSS and 5G Observations**, Pinjun Zheng et.al., Paper: [http://arxiv.org/abs/2308.11407v1](http://arxiv.org/abs/2308.11407v1)
 - 2023-08-22, **Matsuo algebras in characteristic 2**, Tom De Medts et.al., Paper: [http://arxiv.org/abs/2308.11360v1](http://arxiv.org/abs/2308.11360v1)
