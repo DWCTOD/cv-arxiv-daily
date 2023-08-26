@@ -3080,7 +3080,7 @@ layout: default
 |**2023-08-24**|**Masked Autoencoders are Efficient Class Incremental Learners**|Jiang-Tian Zhai et.al.|[2308.12510v1](http://arxiv.org/abs/2308.12510v1)|**[link](https://github.com/scok30/mae-cil)**|
 |**2023-08-24**|**Attention-Based Acoustic Feature Fusion Network for Depression Detection**|Xiao Xu et.al.|[2308.12478v1](http://arxiv.org/abs/2308.12478v1)|**[link](https://github.com/xuxiaoooo/abafnet)**|
 |**2023-08-23**|**Toward American Sign Language Processing in the Real World: Data, Tasks, and Methods**|Bowen Shi et.al.|[2308.12419v1](http://arxiv.org/abs/2308.12419v1)|null|
-|**2023-08-23**|**An Initial Exploration: Learning to Generate Realistic Audio for Silent Video**|Matthew Martel et.al.|[2308.12408v1](http://arxiv.org/abs/2308.12408v1)|null|
+|**2023-08-23**|**An Initial Exploration: Learning to Generate Realistic Audio for Silent Video**|Matthew Martel et.al.|[2308.12408v1](http://arxiv.org/abs/2308.12408v1)|**[link](https://github.com/jaxwagner/sound_from_video)**|
 |**2023-08-23**|**Quantum computation of stopping power for inertial fusion target design**|Nicholas C. Rubin et.al.|[2308.12352v1](http://arxiv.org/abs/2308.12352v1)|null|
 |**2023-08-23**|**As a consequence of H(650)->W+W-/ZZ, one predicts H++->W+W+ and H+->ZW+, as indicated by LHC data**|Alain Le Yaouanc et.al.|[2308.12180v1](http://arxiv.org/abs/2308.12180v1)|null|
 |**2023-08-23**|**Multimodal Latent Emotion Recognition from Micro-expression and Physiological Signals**|Liangfei Zhang et.al.|[2308.12156v1](http://arxiv.org/abs/2308.12156v1)|null|
