@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
 |**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962v1](http://arxiv.org/abs/2308.12962v1)|null|
-|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|null|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|**[link](https://github.com/sheng-eatamath/s3a)**|
 |**2023-08-24**|**Beyond Document Page Classification: Design, Datasets, and Challenges**|Jordy Van Landeghem et.al.|[2308.12896v1](http://arxiv.org/abs/2308.12896v1)|null|
 |**2023-08-24**|**Large Language Models Vote: Prompting for Rare Disease Identification**|David Oniani et.al.|[2308.12890v1](http://arxiv.org/abs/2308.12890v1)|**[link](https://github.com/oniani/llms-vote)**|
 |**2023-08-24**|**Multi-stage feature decorrelation constraints for improving CNN classification performance**|Qiuyu Zhu et.al.|[2308.12880v1](http://arxiv.org/abs/2308.12880v1)|null|
