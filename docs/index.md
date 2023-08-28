@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513v1](http://arxiv.org/abs/2308.13513v1)|null|
+|**2023-08-25**|**Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation**|Jiaming Zhang et.al.|[2308.13505v1](http://arxiv.org/abs/2308.13505v1)|null|
+|**2023-08-25**|**Attending Generalizability in Course of Deep Fake Detection by Exploring Multi-task Learning**|Pranav Balaji et.al.|[2308.13503v1](http://arxiv.org/abs/2308.13503v1)|null|
+|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|null|
+|**2023-08-25**|**Temporal Uncertainty Localization to Enable Human-in-the-loop Analysis of Dynamic Contrast-enhanced Cardiac MRI Datasets**|Dilek M. Yalcinkaya et.al.|[2308.13488v1](http://arxiv.org/abs/2308.13488v1)|null|
+|**2023-08-25**|**QKSAN: A Quantum Kernel Self-Attention Network**|Ren-Xin Zhao et.al.|[2308.13422v1](http://arxiv.org/abs/2308.13422v1)|null|
+|**2023-08-25**|**An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation**|Tiarna Lee et.al.|[2308.13415v1](http://arxiv.org/abs/2308.13415v1)|null|
+|**2023-08-25**|**Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features**|Zheng Gao et.al.|[2308.13392v1](http://arxiv.org/abs/2308.13392v1)|null|
+|**2023-08-25**|**Direction-aware Video Demoireing with Temporal-guided Bilateral Learning**|Shuning Xu et.al.|[2308.13388v1](http://arxiv.org/abs/2308.13388v1)|null|
+|**2023-08-25**|**On flags of holomorphic foliations associated with singular second-order ordinary differential equations**|Fernando Lourenço et.al.|[2308.13370v1](http://arxiv.org/abs/2308.13370v1)|null|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
 |**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962v1](http://arxiv.org/abs/2308.12962v1)|null|
 |**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|**[link](https://github.com/sheng-eatamath/s3a)**|
@@ -3073,6 +3083,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Ultrafast-and-Ultralight ConvNet-Based Intelligent Monitoring System for Diagnosing Early-Stage Mpox Anytime and Anywhere**|Yubiao Yue et.al.|[2308.13492v1](http://arxiv.org/abs/2308.13492v1)|null|
+|**2023-08-25**|**RestNet: Boosting Cross-Domain Few-Shot Segmentation with Residual Transformation Network**|Xinyang Huang et.al.|[2308.13469v1](http://arxiv.org/abs/2308.13469v1)|null|
+|**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393v1](http://arxiv.org/abs/2308.13393v1)|null|
+|**2023-08-25**|**CS-Mixer: A Cross-Scale Vision MLP Model with Spatial-Channel Mixing**|Jonathan Cui et.al.|[2308.13363v1](http://arxiv.org/abs/2308.13363v1)|null|
+|**2023-08-25**|**TriGait: Aligning and Fusing Skeleton and Silhouette Gait Data via a Tri-Branch Network**|Yan Sun et.al.|[2308.13340v1](http://arxiv.org/abs/2308.13340v1)|**[link](https://github.com/feng-xueling/trigait)**|
+|**2023-08-25**|**3D Face Alignment Through Fusion of Head Pose Information and Features**|Jaehyun So et.al.|[2308.13327v1](http://arxiv.org/abs/2308.13327v1)|null|
+|**2023-08-25**|**Dynamic Residual Classifier for Class Incremental Learning**|Xiuwei Chen et.al.|[2308.13305v1](http://arxiv.org/abs/2308.13305v1)|null|
 |**2023-08-24**|**SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection**|Xinyu Zhang et.al.|[2308.12863v1](http://arxiv.org/abs/2308.12863v1)|null|
 |**2023-08-24**|**Mutual-Guided Dynamic Network for Image Fusion**|Yuanshen Guan et.al.|[2308.12538v1](http://arxiv.org/abs/2308.12538v1)|**[link](https://github.com/guanys-dar/mgdn)**|
 |**2023-08-24**|**Channel and Spatial Relation-Propagation Network for RGB-Thermal Semantic Segmentation**|Zikun Zhou et.al.|[2308.12534v1](http://arxiv.org/abs/2308.12534v1)|null|
