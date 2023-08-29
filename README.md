@@ -1,4 +1,4 @@
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 |**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513v1](http://arxiv.org/abs/2308.13513v1)|null|
 |**2023-08-25**|**Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation**|Jiaming Zhang et.al.|[2308.13505v1](http://arxiv.org/abs/2308.13505v1)|null|
 |**2023-08-25**|**Attending Generalizability in Course of Deep Fake Detection by Exploring Multi-task Learning**|Pranav Balaji et.al.|[2308.13503v1](http://arxiv.org/abs/2308.13503v1)|null|
-|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|null|
+|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|**[link](https://github.com/WISION-Lab/eventful-transformer)**|
 |**2023-08-25**|**Temporal Uncertainty Localization to Enable Human-in-the-loop Analysis of Dynamic Contrast-enhanced Cardiac MRI Datasets**|Dilek M. Yalcinkaya et.al.|[2308.13488v1](http://arxiv.org/abs/2308.13488v1)|null|
 |**2023-08-25**|**QKSAN: A Quantum Kernel Self-Attention Network**|Ren-Xin Zhao et.al.|[2308.13422v1](http://arxiv.org/abs/2308.13422v1)|null|
 |**2023-08-25**|**An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation**|Tiarna Lee et.al.|[2308.13415v1](http://arxiv.org/abs/2308.13415v1)|null|
