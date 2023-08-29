@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**|Jun Hao Liew et.al.|[2308.14749v1](http://arxiv.org/abs/2308.14749v1)|null|
+|**2023-08-28**|**MagicAvatar: Multimodal Avatar Generation and Animation**|Jianfeng Zhang et.al.|[2308.14748v1](http://arxiv.org/abs/2308.14748v1)|null|
+|**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746v1](http://arxiv.org/abs/2308.14746v1)|**[link](https://github.com/lucas-ventura/CoVR)**|
+|**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740v1](http://arxiv.org/abs/2308.14740v1)|null|
+|**2023-08-28**|**PanoSwin: a Pano-style Swin Transformer for Panorama Understanding**|Zhixin Ling et.al.|[2308.14726v1](http://arxiv.org/abs/2308.14726v1)|null|
+|**2023-08-28**|**VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation**|Xudong Wang et.al.|[2308.14710v1](http://arxiv.org/abs/2308.14710v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-08-28**|**Fine-Tuning Llama 2 Large Language Models for Detecting Online Sexual Predatory Chats and Abusive Texts**|Thanh Thi Nguyen et.al.|[2308.14683v1](http://arxiv.org/abs/2308.14683v1)|null|
+|**2023-08-28**|**Video-Based Hand Pose Estimation for Remote Assessment of Bradykinesia in Parkinson's Disease**|Gabriela T. Acevedo Trebbau et.al.|[2308.14679v1](http://arxiv.org/abs/2308.14679v1)|null|
+|**2023-08-28**|**Noncommutative tensor triangular geometry: classification via noetherian spectra**|James Rowe et.al.|[2308.14661v1](http://arxiv.org/abs/2308.14661v1)|null|
+|**2023-08-28**|**Towards Standardized Disturbance Rejection Testing of Legged Robot Locomotion with Linear Impactor: A Preliminary Study, Observations, and Implications**|Bowen Weng et.al.|[2308.14636v1](http://arxiv.org/abs/2308.14636v1)|null|
 |**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513v1](http://arxiv.org/abs/2308.13513v1)|null|
 |**2023-08-25**|**Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation**|Jiaming Zhang et.al.|[2308.13505v1](http://arxiv.org/abs/2308.13505v1)|null|
 |**2023-08-25**|**Attending Generalizability in Course of Deep Fake Detection by Exploring Multi-task Learning**|Pranav Balaji et.al.|[2308.13503v1](http://arxiv.org/abs/2308.13503v1)|null|
@@ -3079,6 +3089,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**On learning latent dynamics of the AUG plasma state**|A. Kit et.al.|[2308.14556v1](http://arxiv.org/abs/2308.14556v1)|null|
+|**2023-08-28**|**PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds**|Zhongang Cai et.al.|[2308.14492v1](http://arxiv.org/abs/2308.14492v1)|null|
+|**2023-08-28**|**Multimodal Detection of Social Spambots in Twitter using Transformers**|Loukas Ilias et.al.|[2308.14484v1](http://arxiv.org/abs/2308.14484v1)|null|
+|**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414v1](http://arxiv.org/abs/2308.14414v1)|null|
+|**2023-08-28**|**Key technologies and application for radar and smart video fusion in perimeter intrusion alarm system**|Shujun Fu et.al.|[2308.14252v1](http://arxiv.org/abs/2308.14252v1)|null|
+|**2023-08-27**|**Quantum Resource States from Heralded Microwave-Optical Bell Pairs**|Trond Hjerpekjøn Haug et.al.|[2308.14173v1](http://arxiv.org/abs/2308.14173v1)|null|
+|**2023-08-27**|**U-SEANNet: A Simple, Efficient and Applied U-Shaped Network for Diagnosing Nasal Diseases from Nasal Endoscopic Images**|Yubiao Yue et.al.|[2308.14081v1](http://arxiv.org/abs/2308.14081v1)|null|
+|**2023-08-27**|**Multi-model fusion for Aerial Vision and Dialog Navigation based on human attention aids**|Xinyi Wang et.al.|[2308.14064v1](http://arxiv.org/abs/2308.14064v1)|null|
+|**2023-08-27**|**Anomalous Sound Detection Using Self-Attention-Based Frequency Pattern Analysis of Machine Sounds**|Hejing Zhang et.al.|[2308.14063v1](http://arxiv.org/abs/2308.14063v1)|null|
+|**2023-08-27**|**VQ-Font: Few-Shot Font Generation with Structure-Aware Enhancement and Quantization**|Mingshuai Yao et.al.|[2308.14018v1](http://arxiv.org/abs/2308.14018v1)|null|
 |**2023-08-25**|**Ultrafast-and-Ultralight ConvNet-Based Intelligent Monitoring System for Diagnosing Early-Stage Mpox Anytime and Anywhere**|Yubiao Yue et.al.|[2308.13492v1](http://arxiv.org/abs/2308.13492v1)|null|
 |**2023-08-25**|**RestNet: Boosting Cross-Domain Few-Shot Segmentation with Residual Transformation Network**|Xinyang Huang et.al.|[2308.13469v1](http://arxiv.org/abs/2308.13469v1)|null|
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393v1](http://arxiv.org/abs/2308.13393v1)|null|
