@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-08-29, **An Adaptive Tangent Feature Perspective of Neural Networks**, Daniel LeJeune et.al., Paper: [http://arxiv.org/abs/2308.15478v1](http://arxiv.org/abs/2308.15478v1)
+- 2023-08-29, **A General-Purpose Self-Supervised Model for Computational Pathology**, Richard J. Chen et.al., Paper: [http://arxiv.org/abs/2308.15474v1](http://arxiv.org/abs/2308.15474v1)
+- 2023-08-29, **Learning Modulated Transformation in GANs**, Ceyuan Yang et.al., Paper: [http://arxiv.org/abs/2308.15472v1](http://arxiv.org/abs/2308.15472v1)
+- 2023-08-29, **Policy composition in reinforcement learning via multi-objective policy optimization**, Shruti Mishra et.al., Paper: [http://arxiv.org/abs/2308.15470v1](http://arxiv.org/abs/2308.15470v1)
+- 2023-08-29, **Input margins can predict generalization too**, Coenraad Mouton et.al., Paper: [http://arxiv.org/abs/2308.15466v1](http://arxiv.org/abs/2308.15466v1)
+- 2023-08-29, **A Comparative Study of Loss Functions: Traffic Predictions in Regular and Congestion Scenarios**, Yangxinyu Xie et.al., Paper: [http://arxiv.org/abs/2308.15464v1](http://arxiv.org/abs/2308.15464v1), Code: **[https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)**
+- 2023-08-29, **Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection**, Yazhou Xing et.al., Paper: [http://arxiv.org/abs/2308.15462v1](http://arxiv.org/abs/2308.15462v1)
+- 2023-08-29, **From SMOTE to Mixup for Deep Imbalanced Classification**, Wei-Chao Cheng et.al., Paper: [http://arxiv.org/abs/2308.15457v1](http://arxiv.org/abs/2308.15457v1), Code: **[https://github.com/ntucllab/imbalanced-dl](https://github.com/ntucllab/imbalanced-dl)**
+- 2023-08-29, **Pseudo-Boolean Polynomials Approach To Edge Detection And Image Segmentation**, Tendai Mapungwana Chikake et.al., Paper: [http://arxiv.org/abs/2308.15453v1](http://arxiv.org/abs/2308.15453v1)
+- 2023-08-29, **WrappingNet: Mesh Autoencoder via Deep Sphere Deformation**, Eric Lei et.al., Paper: [http://arxiv.org/abs/2308.15413v1](http://arxiv.org/abs/2308.15413v1)
 - 2023-08-28, **MagicEdit: High-Fidelity and Temporally Coherent Video Editing**, Jun Hao Liew et.al., Paper: [http://arxiv.org/abs/2308.14749v1](http://arxiv.org/abs/2308.14749v1)
 - 2023-08-28, **MagicAvatar: Multimodal Avatar Generation and Animation**, Jianfeng Zhang et.al., Paper: [http://arxiv.org/abs/2308.14748v1](http://arxiv.org/abs/2308.14748v1)
 - 2023-08-28, **CoVR: Learning Composed Video Retrieval from Web Video Captions**, Lucas Ventura et.al., Paper: [http://arxiv.org/abs/2308.14746v1](http://arxiv.org/abs/2308.14746v1), Code: **[https://github.com/lucas-ventura/CoVR](https://github.com/lucas-ventura/CoVR)**
@@ -3085,6 +3095,13 @@
 
 ## MultiModal
 
+- 2023-08-29, **Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction**, Wenjie Gao et.al., Paper: [http://arxiv.org/abs/2308.15427v1](http://arxiv.org/abs/2308.15427v1)
+- 2023-08-29, **MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection**, Yixuan Zhou et.al., Paper: [http://arxiv.org/abs/2308.15300v1](http://arxiv.org/abs/2308.15300v1), Code: **[https://github.com/cool-xuan/msflow](https://github.com/cool-xuan/msflow)**
+- 2023-08-29, **Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**, Meng Yuan et.al., Paper: [http://arxiv.org/abs/2308.15244v1](http://arxiv.org/abs/2308.15244v1)
+- 2023-08-29, **GPS-aided Visual Wheel Odometry**, Junlin Song et.al., Paper: [http://arxiv.org/abs/2308.15133v1](http://arxiv.org/abs/2308.15133v1)
+- 2023-08-29, **Benchmarking 5G MEC and Cloud infrastructures for planning IoT messaging of CCAM data**, Felipe Mogollón et.al., Paper: [http://arxiv.org/abs/2308.15075v1](http://arxiv.org/abs/2308.15075v1)
+- 2023-08-29, **STEC: See-Through Transformer-based Encoder for CTR Prediction**, Serdarcan Dilbaz et.al., Paper: [http://arxiv.org/abs/2308.15033v1](http://arxiv.org/abs/2308.15033v1)
+- 2023-08-28, **Data fusion using weakly aligned sources**, Sijia Li et.al., Paper: [http://arxiv.org/abs/2308.14836v1](http://arxiv.org/abs/2308.14836v1)
 - 2023-08-28, **On learning latent dynamics of the AUG plasma state**, A. Kit et.al., Paper: [http://arxiv.org/abs/2308.14556v1](http://arxiv.org/abs/2308.14556v1)
 - 2023-08-28, **PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds**, Zhongang Cai et.al., Paper: [http://arxiv.org/abs/2308.14492v1](http://arxiv.org/abs/2308.14492v1)
 - 2023-08-28, **Multimodal Detection of Social Spambots in Twitter using Transformers**, Loukas Ilias et.al., Paper: [http://arxiv.org/abs/2308.14484v1](http://arxiv.org/abs/2308.14484v1)
