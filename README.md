@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181v1](http://arxiv.org/abs/2308.16181v1)|null|
+|**2023-08-30**|**General Purpose Audio Effect Removal**|Matthew Rice et.al.|[2308.16177v1](http://arxiv.org/abs/2308.16177v1)|null|
+|**2023-08-30**|**Algebraic, Topological, and Mereological Foundations of Existential Granules**|Mani A et.al.|[2308.16157v1](http://arxiv.org/abs/2308.16157v1)|null|
+|**2023-08-30**|**MMVP: Motion-Matrix-based Video Prediction**|Yiqi Zhong et.al.|[2308.16154v1](http://arxiv.org/abs/2308.16154v1)|**[link](https://github.com/kay1794/mmvp-motion-matrix-based-video-prediction)**|
+|**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v1](http://arxiv.org/abs/2308.16150v1)|null|
+|**2023-08-30**|**Spatial Graph Coarsening: Weather and Weekday Prediction with London's Bike-Sharing Service using GNN**|Yuta Sato et.al.|[2308.16122v1](http://arxiv.org/abs/2308.16122v1)|null|
+|**2023-08-30**|**Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion**|Man Zhou et.al.|[2308.16083v1](http://arxiv.org/abs/2308.16083v1)|null|
+|**2023-08-30**|**A Classification of Observation-Driven State-Space Count Models for Panel Data**|Jae Youn Ahn et.al.|[2308.16058v1](http://arxiv.org/abs/2308.16058v1)|null|
+|**2023-08-30**|**Low-Rank Multitask Learning based on Tensorized SVMs and LSSVMs**|Jiani Liu et.al.|[2308.16056v1](http://arxiv.org/abs/2308.16056v1)|null|
+|**2023-08-30**|**Telepresence Lantern -- Designing an Immersive Video-Mediated Communication Device for Older Adults**|Thomas H. Weisswange et.al.|[2308.16052v1](http://arxiv.org/abs/2308.16052v1)|null|
 |**2023-08-29**|**An Adaptive Tangent Feature Perspective of Neural Networks**|Daniel LeJeune et.al.|[2308.15478v1](http://arxiv.org/abs/2308.15478v1)|null|
 |**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|null|
@@ -3099,6 +3109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Towards Robust Solvers for Nuclear Fusion Simulations Using JOREK: A Numerical Analysis Perspective**|Alex Quinlan et.al.|[2308.16124v1](http://arxiv.org/abs/2308.16124v1)|null|
+|**2023-08-30**|**Improving Few-shot Image Generation by Structural Discrimination and Textural Modulation**|Mengping Yang et.al.|[2308.16110v1](http://arxiv.org/abs/2308.16110v1)|**[link](https://github.com/kobeshegu/sdtm-gan-acmmm-2023)**|
+|**2023-08-30**|**Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion**|Man Zhou et.al.|[2308.16083v1](http://arxiv.org/abs/2308.16083v1)|null|
+|**2023-08-30**|**MerA: Merging Pretrained Adapters For Few-Shot Learning**|Shwai He et.al.|[2308.15982v1](http://arxiv.org/abs/2308.15982v1)|null|
+|**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980v1](http://arxiv.org/abs/2308.15980v1)|**[link](https://github.com/holdenhu/mmsr)**|
+|**2023-08-30**|**Fusion rules for the triplet $W$-algebra $\mathcal{W}_{p_+,p_-}$**|Hiromu Nakano et.al.|[2308.15954v1](http://arxiv.org/abs/2308.15954v1)|null|
+|**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854v1](http://arxiv.org/abs/2308.15854v1)|null|
+|**2023-08-30**|**Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection**|Yifan Xu et.al.|[2308.15846v1](http://arxiv.org/abs/2308.15846v1)|null|
+|**2023-08-30**|**ACNPU: A 4.75TOPS/W 1080P@30FPS Super Resolution Accelerator with Decoupled Asymmetric Convolution**|Tun-Hao Yang et.al.|[2308.15807v1](http://arxiv.org/abs/2308.15807v1)|null|
+|**2023-08-30**|**Liquid-assisted laser nanotexturing of silicon: onset of hydrodynamic processes regulated by laser-induced periodic surface structures**|Yulia Borodaenko et.al.|[2308.15778v1](http://arxiv.org/abs/2308.15778v1)|null|
 |**2023-08-29**|**Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction**|Wenjie Gao et.al.|[2308.15427v1](http://arxiv.org/abs/2308.15427v1)|null|
 |**2023-08-29**|**MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection**|Yixuan Zhou et.al.|[2308.15300v1](http://arxiv.org/abs/2308.15300v1)|**[link](https://github.com/cool-xuan/msflow)**|
 |**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244v1](http://arxiv.org/abs/2308.15244v1)|null|
