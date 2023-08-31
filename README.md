@@ -1,4 +1,4 @@
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 |**2023-08-29**|**An Adaptive Tangent Feature Perspective of Neural Networks**|Daniel LeJeune et.al.|[2308.15478v1](http://arxiv.org/abs/2308.15478v1)|null|
 |**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|null|
-|**2023-08-29**|**Policy composition in reinforcement learning via multi-objective policy optimization**|Shruti Mishra et.al.|[2308.15470v1](http://arxiv.org/abs/2308.15470v1)|null|
+|**2023-08-30**|**Policy composition in reinforcement learning via multi-objective policy optimization**|Shruti Mishra et.al.|[2308.15470v2](http://arxiv.org/abs/2308.15470v2)|null|
 |**2023-08-29**|**Input margins can predict generalization too**|Coenraad Mouton et.al.|[2308.15466v1](http://arxiv.org/abs/2308.15466v1)|null|
 |**2023-08-29**|**A Comparative Study of Loss Functions: Traffic Predictions in Regular and Congestion Scenarios**|Yangxinyu Xie et.al.|[2308.15464v1](http://arxiv.org/abs/2308.15464v1)|**[link](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)**|
 |**2023-08-29**|**Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection**|Yazhou Xing et.al.|[2308.15462v1](http://arxiv.org/abs/2308.15462v1)|null|
