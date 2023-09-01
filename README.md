@@ -1,4 +1,4 @@
-## Updated on 2023.08.31
+## Updated on 2023.09.01
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 |**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181v1](http://arxiv.org/abs/2308.16181v1)|null|
 |**2023-08-30**|**General Purpose Audio Effect Removal**|Matthew Rice et.al.|[2308.16177v1](http://arxiv.org/abs/2308.16177v1)|null|
 |**2023-08-30**|**Algebraic, Topological, and Mereological Foundations of Existential Granules**|Mani A et.al.|[2308.16157v1](http://arxiv.org/abs/2308.16157v1)|null|
-|**2023-08-30**|**MMVP: Motion-Matrix-based Video Prediction**|Yiqi Zhong et.al.|[2308.16154v1](http://arxiv.org/abs/2308.16154v1)|**[link](https://github.com/kay1794/mmvp-motion-matrix-based-video-prediction)**|
+|**2023-08-31**|**MMVP: Motion-Matrix-based Video Prediction**|Yiqi Zhong et.al.|[2308.16154v2](http://arxiv.org/abs/2308.16154v2)|**[link](https://github.com/kay1794/mmvp-motion-matrix-based-video-prediction)**|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v1](http://arxiv.org/abs/2308.16150v1)|null|
 |**2023-08-30**|**Spatial Graph Coarsening: Weather and Weekday Prediction with London's Bike-Sharing Service using GNN**|Yuta Sato et.al.|[2308.16122v1](http://arxiv.org/abs/2308.16122v1)|null|
 |**2023-08-30**|**Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion**|Man Zhou et.al.|[2308.16083v1](http://arxiv.org/abs/2308.16083v1)|null|
