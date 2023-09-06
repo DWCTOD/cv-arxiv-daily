@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-05, **ReliTalk: Relightable Talking Portrait Generation from a Single Video**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2309.02434v1](http://arxiv.org/abs/2309.02434v1), Code: **[https://github.com/arthur-qiu/ReliTalk](https://github.com/arthur-qiu/ReliTalk)**
+- 2023-09-05, **A Likelihood Approach to Incorporating Self-Report Data in HIV Recency Classification**, Wenlong Yang et.al., Paper: [http://arxiv.org/abs/2309.02430v1](http://arxiv.org/abs/2309.02430v1)
+- 2023-09-05, **Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach**, Vimal K B et.al., Paper: [http://arxiv.org/abs/2309.02429v1](http://arxiv.org/abs/2309.02429v1)
+- 2023-09-05, **EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding**, Yue Xu et.al., Paper: [http://arxiv.org/abs/2309.02423v1](http://arxiv.org/abs/2309.02423v1)
+- 2023-09-05, **Doppelgangers: Learning to Disambiguate Images of Similar Structures**, Ruojin Cai et.al., Paper: [http://arxiv.org/abs/2309.02420v1](http://arxiv.org/abs/2309.02420v1), Code: **[https://github.com/RuojinCai/Doppelgangers](https://github.com/RuojinCai/Doppelgangers)**
+- 2023-09-05, **Classification of La3+ and Gd3+ rare earth ions using surface-enhanced Raman scattering**, Hao Jin et.al., Paper: [http://arxiv.org/abs/2309.02409v1](http://arxiv.org/abs/2309.02409v1)
+- 2023-09-05, **Semantic Communications Based on Adaptive Generative Models and Information Bottleneck**, S. Barbarossa et.al., Paper: [http://arxiv.org/abs/2309.02387v1](http://arxiv.org/abs/2309.02387v1)
+- 2023-09-05, **On the classification of primitive ideals for complex classical Lie algebras, IV**, William McGovern et.al., Paper: [http://arxiv.org/abs/2309.02363v1](http://arxiv.org/abs/2309.02363v1)
+- 2023-09-05, **Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm**, Alhasan Abdellatif et.al., Paper: [http://arxiv.org/abs/2309.02340v1](http://arxiv.org/abs/2309.02340v1)
+- 2023-09-05, **DEEPBEAS3D: Deep Learning and B-Spline Explicit Active Surfaces**, Helena Williams et.al., Paper: [http://arxiv.org/abs/2309.02335v1](http://arxiv.org/abs/2309.02335v1)
 - 2023-09-01, **Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2309.00615v1](http://arxiv.org/abs/2309.00615v1), Code: **[https://github.com/ziyuguo99/point-bind_point-llm](https://github.com/ziyuguo99/point-bind_point-llm)**
 - 2023-09-01, **Amyloid-Beta Axial Plane PET Synthesis from Structural MRI: An Image Translation Approach for Screening Alzheimer's Disease**, Fernando Vega et.al., Paper: [http://arxiv.org/abs/2309.00569v1](http://arxiv.org/abs/2309.00569v1)
 - 2023-09-01, **Powder-Bot: A Modular Autonomous Multi-Robot Workflow for Powder X-Ray Diffraction**, Amy M. Lunt et.al., Paper: [http://arxiv.org/abs/2309.00544v1](http://arxiv.org/abs/2309.00544v1)
@@ -3125,6 +3135,16 @@
 
 ## MultiModal
 
+- 2023-09-05, **Minimal modal logics, constructive modal logics and their relations**, Tiziano Dalmonte et.al., Paper: [http://arxiv.org/abs/2309.02367v1](http://arxiv.org/abs/2309.02367v1)
+- 2023-09-05, **Seeing the Unheard: dynamics of thin liquid film in holographic ultrasonic field revealed by time-resolved Schlieren imaging**, Weitao Sun et.al., Paper: [http://arxiv.org/abs/2309.02254v1](http://arxiv.org/abs/2309.02254v1)
+- 2023-09-05, **DCP-Net: A Distributed Collaborative Perception Network for Remote Sensing Semantic Segmentation**, Zhechao Wang et.al., Paper: [http://arxiv.org/abs/2309.02230v1](http://arxiv.org/abs/2309.02230v1)
+- 2023-09-05, **Delving into Ipsilateral Mammogram Assessment under Multi-View Network**, Thai Ngoc Toan Truong et.al., Paper: [http://arxiv.org/abs/2309.02197v1](http://arxiv.org/abs/2309.02197v1)
+- 2023-09-05, **Exchanging-based Multimodal Fusion with Transformer**, Renyu Zhu et.al., Paper: [http://arxiv.org/abs/2309.02190v1](http://arxiv.org/abs/2309.02190v1)
+- 2023-09-05, **Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach**, Yue Zhong et.al., Paper: [http://arxiv.org/abs/2309.02173v1](http://arxiv.org/abs/2309.02173v1)
+- 2023-09-05, **Subspace Acceleration for a Sequence of Linear Systems and Application to Plasma Simulation**, Margherita Guido et.al., Paper: [http://arxiv.org/abs/2309.02156v1](http://arxiv.org/abs/2309.02156v1)
+- 2023-09-05, **Leveraging Label Information for Multimodal Emotion Recognition**, Peiying Wang et.al., Paper: [http://arxiv.org/abs/2309.02106v1](http://arxiv.org/abs/2309.02106v1)
+- 2023-09-05, **Decomposed Guided Dynamic Filters for Efficient RGB-Guided Depth Completion**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2309.02043v1](http://arxiv.org/abs/2309.02043v1)
+- 2023-09-05, **Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**, Keshu Wu et.al., Paper: [http://arxiv.org/abs/2309.01981v1](http://arxiv.org/abs/2309.01981v1)
 - 2023-09-01, **Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses**, Xiaofeng Luo et.al., Paper: [http://arxiv.org/abs/2309.00477v1](http://arxiv.org/abs/2309.00477v1)
 - 2023-09-01, **Topological and nontopological degeneracies in generalized string-net models**, Anna Ritz-Zwilling et.al., Paper: [http://arxiv.org/abs/2309.00343v1](http://arxiv.org/abs/2309.00343v1)
 - 2023-09-01, **Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**, Shaohua Pan et.al., Paper: [http://arxiv.org/abs/2309.00310v1](http://arxiv.org/abs/2309.00310v1), Code: **[https://github.com/shaohua-pan/RobustCap](https://github.com/shaohua-pan/RobustCap)**
