@@ -3138,7 +3138,7 @@
 |**2023-08-31**|**Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation**|Chaofan Ma et.al.|[2309.00096v1](http://arxiv.org/abs/2309.00096v1)|null|
 |**2023-08-31**|**Bethe ansatz inside Calogero-Sutherland models**|Gwenaël Ferrando et.al.|[2308.16865v1](http://arxiv.org/abs/2308.16865v1)|null|
 |**2023-08-31**|**Twofold Structured Features-Based Siamese Network for Infrared Target Tracking**|Wei-Jie Yan et.al.|[2308.16676v1](http://arxiv.org/abs/2308.16676v1)|null|
-|**2023-08-31**|**Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts**|Siyu Yi et.al.|[2308.16609v1](http://arxiv.org/abs/2308.16609v1)|null|
+|**2023-09-05**|**Towards Long-Tailed Recognition for Graph Classification via Collaborative Experts**|Siyu Yi et.al.|[2308.16609v2](http://arxiv.org/abs/2308.16609v2)|null|
 |**2023-08-31**|**Scalable Incomplete Multi-View Clustering with Structure Alignment**|Yi Wen et.al.|[2308.16541v1](http://arxiv.org/abs/2308.16541v1)|**[link](https://github.com/wy1019/simvc-sa)**|
 |**2023-08-31**|**Decoupled Local Aggregation for Point Cloud Learning**|Binjie Chen et.al.|[2308.16532v1](http://arxiv.org/abs/2308.16532v1)|**[link](https://github.com/matrix-asc/dela)**|
 |**2023-08-31**|**Expanding Frozen Vision-Language Models without Retraining: Towards Improved Robot Perception**|Riley Tavassoli et.al.|[2308.16493v1](http://arxiv.org/abs/2308.16493v1)|null|
