@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195v1](http://arxiv.org/abs/2309.03195v1)|null|
+|**2023-09-06**|**Signatures of Bayesian inference emerge from energy efficient synapses**|James Malkin et.al.|[2309.03194v1](http://arxiv.org/abs/2309.03194v1)|null|
+|**2023-09-06**|**3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia**|Huy-Dung Nguyen et.al.|[2309.03183v1](http://arxiv.org/abs/2309.03183v1)|null|
+|**2023-09-06**|**PDiscoNet: Semantically consistent part discovery for fine-grained recognition**|Robert van der Klis et.al.|[2309.03173v1](http://arxiv.org/abs/2309.03173v1)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160v1](http://arxiv.org/abs/2309.03160v1)|null|
+|**2023-09-06**|**Normal mode decomposition of atomic motion in solids**|Jaeyun Moon et.al.|[2309.03140v1](http://arxiv.org/abs/2309.03140v1)|null|
+|**2023-09-06**|**Serving Time: Real-Time, Safe Motion Planning and Control for Manipulation of Unsecured Objects**|Zachary Brei et.al.|[2309.03111v1](http://arxiv.org/abs/2309.03111v1)|null|
+|**2023-09-06**|**The Secrets of Non-Blind Poisson Deconvolution**|Abhiram Gnanasambandam et.al.|[2309.03105v1](http://arxiv.org/abs/2309.03105v1)|null|
+|**2023-09-06**|**On the $Σ$-invariants of Artin groups satisfying the $K(π,1)$-conjecture**|Marcos Escartín Ferrer et.al.|[2309.03091v1](http://arxiv.org/abs/2309.03091v1)|null|
+|**2023-09-06**|**Hide and Seek (HaS): A Lightweight Framework for Prompt Privacy Protection**|Yu Chen et.al.|[2309.03057v1](http://arxiv.org/abs/2309.03057v1)|null|
 |**2023-09-05**|**ReliTalk: Relightable Talking Portrait Generation from a Single Video**|Haonan Qiu et.al.|[2309.02434v1](http://arxiv.org/abs/2309.02434v1)|**[link](https://github.com/arthur-qiu/ReliTalk)**|
 |**2023-09-05**|**A Likelihood Approach to Incorporating Self-Report Data in HIV Recency Classification**|Wenlong Yang et.al.|[2309.02430v1](http://arxiv.org/abs/2309.02430v1)|null|
 |**2023-09-05**|**Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach**|Vimal K B et.al.|[2309.02429v1](http://arxiv.org/abs/2309.02429v1)|null|
@@ -3143,6 +3153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Bulk Operator Reconstruction in Topological Tensor Network and Generalized Free Fields**|Xiangdong Zeng et.al.|[2309.03178v1](http://arxiv.org/abs/2309.03178v1)|null|
+|**2023-09-06**|**Classifying the CP properties of the ggH coupling in H+2j production**|Henning Bahl et.al.|[2309.03146v1](http://arxiv.org/abs/2309.03146v1)|null|
+|**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063v1](http://arxiv.org/abs/2309.03063v1)|null|
+|**2023-09-06**|**Topological Quantum Computation on a Chiral Kondo Chain**|Tianhao Ren et.al.|[2309.03010v1](http://arxiv.org/abs/2309.03010v1)|null|
+|**2023-09-06**|**Indoor Localization Using Radio, Vision and Audio Sensors: Real-Life Data Validation and Discussion**|Ilayda Yaman et.al.|[2309.02961v1](http://arxiv.org/abs/2309.02961v1)|null|
+|**2023-09-06**|**A Non-Invasive Interpretable NAFLD Diagnostic Method Combining TCM Tongue Features**|Shan Cao et.al.|[2309.02959v1](http://arxiv.org/abs/2309.02959v1)|null|
+|**2023-09-06**|**A Multimodal Learning Framework for Comprehensive 3D Mineral Prospectivity Modeling with Jointly Learned Structure-Fluid Relationships**|Yang Zheng et.al.|[2309.02911v1](http://arxiv.org/abs/2309.02911v1)|null|
+|**2023-09-06**|**ViCGCN: Graph Convolutional Network with Contextualized Language Models for Social Media Mining in Vietnamese**|Chau-Thang Phan et.al.|[2309.02902v1](http://arxiv.org/abs/2309.02902v1)|null|
+|**2023-09-06**|**Gene-induced Multimodal Pre-training for Image-omic Classification**|Ting Jin et.al.|[2309.02702v1](http://arxiv.org/abs/2309.02702v1)|null|
+|**2023-09-06**|**Meshing Deforming Spacetime for Visualization and Analysis**|Congrong Ren et.al.|[2309.02677v1](http://arxiv.org/abs/2309.02677v1)|null|
 |**2023-09-05**|**Minimal modal logics, constructive modal logics and their relations**|Tiziano Dalmonte et.al.|[2309.02367v1](http://arxiv.org/abs/2309.02367v1)|null|
 |**2023-09-05**|**Seeing the Unheard: dynamics of thin liquid film in holographic ultrasonic field revealed by time-resolved Schlieren imaging**|Weitao Sun et.al.|[2309.02254v1](http://arxiv.org/abs/2309.02254v1)|null|
 |**2023-09-05**|**DCP-Net: A Distributed Collaborative Perception Network for Remote Sensing Semantic Segmentation**|Zhechao Wang et.al.|[2309.02230v1](http://arxiv.org/abs/2309.02230v1)|null|
