@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 
 ## Video_Classification
 
@@ -3146,7 +3146,7 @@ layout: default
 |**2023-09-05**|**Minimal modal logics, constructive modal logics and their relations**|Tiziano Dalmonte et.al.|[2309.02367v1](http://arxiv.org/abs/2309.02367v1)|null|
 |**2023-09-05**|**Seeing the Unheard: dynamics of thin liquid film in holographic ultrasonic field revealed by time-resolved Schlieren imaging**|Weitao Sun et.al.|[2309.02254v1](http://arxiv.org/abs/2309.02254v1)|null|
 |**2023-09-05**|**DCP-Net: A Distributed Collaborative Perception Network for Remote Sensing Semantic Segmentation**|Zhechao Wang et.al.|[2309.02230v1](http://arxiv.org/abs/2309.02230v1)|null|
-|**2023-09-05**|**Delving into Ipsilateral Mammogram Assessment under Multi-View Network**|Thai Ngoc Toan Truong et.al.|[2309.02197v1](http://arxiv.org/abs/2309.02197v1)|null|
+|**2023-09-06**|**Delving into Ipsilateral Mammogram Assessment under Multi-View Network**|Thai Ngoc Toan Truong et.al.|[2309.02197v2](http://arxiv.org/abs/2309.02197v2)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|null|
 |**2023-09-05**|**Blockchain-assisted Twin Migration for Vehicular Metaverses: A Game Theory Approach**|Yue Zhong et.al.|[2309.02173v1](http://arxiv.org/abs/2309.02173v1)|null|
 |**2023-09-05**|**Subspace Acceleration for a Sequence of Linear Systems and Application to Plasma Simulation**|Margherita Guido et.al.|[2309.02156v1](http://arxiv.org/abs/2309.02156v1)|null|
