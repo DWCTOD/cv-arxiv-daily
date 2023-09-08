@@ -1,8 +1,8 @@
-> Updated on 2023.09.07
+> Updated on 2023.09.08
 
 ## Video_Classification
 
-- 2023-09-06, **Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**, Ahmet M. Elbir et.al., Paper: [http://arxiv.org/abs/2309.03195v1](http://arxiv.org/abs/2309.03195v1)
+- 2023-09-07, **Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**, Ahmet M. Elbir et.al., Paper: [http://arxiv.org/abs/2309.03195v2](http://arxiv.org/abs/2309.03195v2)
 - 2023-09-06, **Signatures of Bayesian inference emerge from energy efficient synapses**, James Malkin et.al., Paper: [http://arxiv.org/abs/2309.03194v1](http://arxiv.org/abs/2309.03194v1)
 - 2023-09-06, **3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia**, Huy-Dung Nguyen et.al., Paper: [http://arxiv.org/abs/2309.03183v1](http://arxiv.org/abs/2309.03183v1)
 - 2023-09-06, **PDiscoNet: Semantically consistent part discovery for fine-grained recognition**, Robert van der Klis et.al., Paper: [http://arxiv.org/abs/2309.03173v1](http://arxiv.org/abs/2309.03173v1)
