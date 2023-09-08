@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-07, **A-Eval: A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation**, Ziyan Huang et.al., Paper: [http://arxiv.org/abs/2309.03906v1](http://arxiv.org/abs/2309.03906v1)
+- 2023-09-07, **ImageBind-LLM: Multi-modality Instruction Tuning**, Jiaming Han et.al., Paper: [http://arxiv.org/abs/2309.03905v1](http://arxiv.org/abs/2309.03905v1)
+- 2023-09-07, **Tracking Anything with Decoupled Video Segmentation**, Ho Kei Cheng et.al., Paper: [http://arxiv.org/abs/2309.03903v1](http://arxiv.org/abs/2309.03903v1)
+- 2023-09-07, **Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction**, Su-Kai Chen et.al., Paper: [http://arxiv.org/abs/2309.03900v1](http://arxiv.org/abs/2309.03900v1)
+- 2023-09-07, **The Making and Breaking of Camouflage**, Hala Lamdouar et.al., Paper: [http://arxiv.org/abs/2309.03899v1](http://arxiv.org/abs/2309.03899v1)
+- 2023-09-07, **ProPainter: Improving Propagation and Transformer for Video Inpainting**, Shangchen Zhou et.al., Paper: [http://arxiv.org/abs/2309.03897v1](http://arxiv.org/abs/2309.03897v1)
+- 2023-09-07, **Zero-Shot Audio Captioning via Audibility Guidance**, Tal Shaharabany et.al., Paper: [http://arxiv.org/abs/2309.03884v1](http://arxiv.org/abs/2309.03884v1)
+- 2023-09-07, **Text-to-feature diffusion for audio-visual few-shot learning**, Otniel-Bogdan Mercea et.al., Paper: [http://arxiv.org/abs/2309.03869v1](http://arxiv.org/abs/2309.03869v1)
+- 2023-09-07, **Classification of Killing Magnetic Curves In H^3**, Özgür Kelekçi et.al., Paper: [http://arxiv.org/abs/2309.03859v1](http://arxiv.org/abs/2309.03859v1)
+- 2023-09-07, **CenTime: Event-Conditional Modelling of Censoring in Survival Analysis**, Ahmed H. Shahin et.al., Paper: [http://arxiv.org/abs/2309.03851v1](http://arxiv.org/abs/2309.03851v1), Code: **[https://github.com/ahmedhshahin/CenTime](https://github.com/ahmedhshahin/CenTime)**
 - 2023-09-07, **Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**, Ahmet M. Elbir et.al., Paper: [http://arxiv.org/abs/2309.03195v2](http://arxiv.org/abs/2309.03195v2)
 - 2023-09-06, **Signatures of Bayesian inference emerge from energy efficient synapses**, James Malkin et.al., Paper: [http://arxiv.org/abs/2309.03194v1](http://arxiv.org/abs/2309.03194v1)
 - 2023-09-06, **3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia**, Huy-Dung Nguyen et.al., Paper: [http://arxiv.org/abs/2309.03183v1](http://arxiv.org/abs/2309.03183v1)
@@ -3145,6 +3155,16 @@
 
 ## MultiModal
 
+- 2023-09-07, **Tracking Anything with Decoupled Video Segmentation**, Ho Kei Cheng et.al., Paper: [http://arxiv.org/abs/2309.03903v1](http://arxiv.org/abs/2309.03903v1)
+- 2023-09-07, **ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**, Irfan Tito Kurniawan et.al., Paper: [http://arxiv.org/abs/2309.03734v1](http://arxiv.org/abs/2309.03734v1)
+- 2023-09-07, **Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2309.03729v1](http://arxiv.org/abs/2309.03729v1)
+- 2023-09-07, **Simultaneous access to high normalized current, pressure, density, and confinement in strongly-shaped diverted negative triangularity plasmas**, C. Paz-Soldan et.al., Paper: [http://arxiv.org/abs/2309.03689v1](http://arxiv.org/abs/2309.03689v1)
+- 2023-09-07, **Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones**, Carl Friess et.al., Paper: [http://arxiv.org/abs/2309.03678v1](http://arxiv.org/abs/2309.03678v1)
+- 2023-09-07, **DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks**, Fahao Chen et.al., Paper: [http://arxiv.org/abs/2309.03523v1](http://arxiv.org/abs/2309.03523v1)
+- 2023-09-07, **Towards Robust Natural-Looking Mammography Lesion Synthesis on Ipsilateral Dual-Views Breast Cancer Analysis**, Thanh-Huy Nguyen et.al., Paper: [http://arxiv.org/abs/2309.03506v1](http://arxiv.org/abs/2309.03506v1)
+- 2023-09-06, **Community-Based Hierarchical Positive-Unlabeled (PU) Model Fusion for Chronic Disease Prediction**, Yang Wu et.al., Paper: [http://arxiv.org/abs/2309.03386v1](http://arxiv.org/abs/2309.03386v1)
+- 2023-09-06, **MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation**, Nhat-Tan Bui et.al., Paper: [http://arxiv.org/abs/2309.03329v1](http://arxiv.org/abs/2309.03329v1)
+- 2023-09-06, **Spatial data fusion adjusting for preferential sampling using INLA and SPDE**, Ruiman Zhong et.al., Paper: [http://arxiv.org/abs/2309.03316v1](http://arxiv.org/abs/2309.03316v1)
 - 2023-09-06, **Bulk Operator Reconstruction in Topological Tensor Network and Generalized Free Fields**, Xiangdong Zeng et.al., Paper: [http://arxiv.org/abs/2309.03178v1](http://arxiv.org/abs/2309.03178v1)
 - 2023-09-06, **Classifying the CP properties of the ggH coupling in H+2j production**, Henning Bahl et.al., Paper: [http://arxiv.org/abs/2309.03146v1](http://arxiv.org/abs/2309.03146v1)
 - 2023-09-06, **Prompt-based All-in-One Image Restoration using CNNs and Transformer**, Hu Gao et.al., Paper: [http://arxiv.org/abs/2309.03063v1](http://arxiv.org/abs/2309.03063v1)
