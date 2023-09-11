@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-08, **Generalized Cross-domain Multi-label Few-shot Learning for Chest X-rays**, Aroof Aimen et.al., Paper: [http://arxiv.org/abs/2309.04462v1](http://arxiv.org/abs/2309.04462v1)
+- 2023-09-08, **Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**, Zhiyong Hu et.al., Paper: [http://arxiv.org/abs/2309.04455v1](http://arxiv.org/abs/2309.04455v1)
+- 2023-09-08, **Vis-SPLIT: Interactive Hierarchical Modeling for mRNA Expression Classification**, Braden Roper et.al., Paper: [http://arxiv.org/abs/2309.04423v1](http://arxiv.org/abs/2309.04423v1)
+- 2023-09-08, **Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving**, Thomas E. Huang et.al., Paper: [http://arxiv.org/abs/2309.04422v1](http://arxiv.org/abs/2309.04422v1)
+- 2023-09-08, **Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control**, David DeFazio et.al., Paper: [http://arxiv.org/abs/2309.04370v1](http://arxiv.org/abs/2309.04370v1)
+- 2023-09-08, **Active Learning for Classifying 2D Grid-Based Level Completability**, Mahsa Bazzaz et.al., Paper: [http://arxiv.org/abs/2309.04367v1](http://arxiv.org/abs/2309.04367v1)
+- 2023-09-08, **Sparse Codesigned Communication and Radar Systems**, Hyeon Seok Rou et.al., Paper: [http://arxiv.org/abs/2309.04362v1](http://arxiv.org/abs/2309.04362v1)
+- 2023-09-08, **Learning from Power Signals: An Automated Approach to Electrical Disturbance Identification Within a Power Transmission System**, Jonathan D. Boyd et.al., Paper: [http://arxiv.org/abs/2309.04361v1](http://arxiv.org/abs/2309.04361v1)
+- 2023-09-08, **Zero-Shot Robustification of Zero-Shot Models With Foundation Models**, Dyah Adila et.al., Paper: [http://arxiv.org/abs/2309.04344v1](http://arxiv.org/abs/2309.04344v1)
+- 2023-09-08, **Encoding Multi-Domain Scientific Papers by Ensembling Multiple CLS Tokens**, Ronald Seoh et.al., Paper: [http://arxiv.org/abs/2309.04333v1](http://arxiv.org/abs/2309.04333v1), Code: **[https://github.com/ronaldseoh/multi2spe](https://github.com/ronaldseoh/multi2spe)**
 - 2023-09-07, **A-Eval: A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation**, Ziyan Huang et.al., Paper: [http://arxiv.org/abs/2309.03906v1](http://arxiv.org/abs/2309.03906v1), Code: **[https://github.com/uni-medical/a-eval](https://github.com/uni-medical/a-eval)**
 - 2023-09-07, **ImageBind-LLM: Multi-modality Instruction Tuning**, Jiaming Han et.al., Paper: [http://arxiv.org/abs/2309.03905v1](http://arxiv.org/abs/2309.03905v1), Code: **[https://github.com/opengvlab/llama-adapter](https://github.com/opengvlab/llama-adapter)**
 - 2023-09-07, **Tracking Anything with Decoupled Video Segmentation**, Ho Kei Cheng et.al., Paper: [http://arxiv.org/abs/2309.03903v1](http://arxiv.org/abs/2309.03903v1), Code: **[https://github.com/hkchengrex/Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**
@@ -3155,6 +3165,12 @@
 
 ## MultiModal
 
+- 2023-09-08, **Search for the $Zγ$ decay mode of new high-mass resonances in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2309.04364v1](http://arxiv.org/abs/2309.04364v1)
+- 2023-09-08, **Leveraging Model Fusion for Improved License Plate Recognition**, Rayson Laroca et.al., Paper: [http://arxiv.org/abs/2309.04331v1](http://arxiv.org/abs/2309.04331v1)
+- 2023-09-08, **From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting**, Griffin Adams et.al., Paper: [http://arxiv.org/abs/2309.04269v1](http://arxiv.org/abs/2309.04269v1)
+- 2023-09-08, **Two-Dimensional Dynamic Fusion for Continuous Authentication**, Nuttapong Attrapadung et.al., Paper: [http://arxiv.org/abs/2309.04128v1](http://arxiv.org/abs/2309.04128v1)
+- 2023-09-08, **Toward Sufficient Spatial-Frequency Interaction for Gradient-aware Underwater Image Enhancement**, Chen Zhao et.al., Paper: [http://arxiv.org/abs/2309.04089v1](http://arxiv.org/abs/2309.04089v1), Code: **[https://github.com/zhihefang/SFGNet](https://github.com/zhihefang/SFGNet)**
+- 2023-09-07, **Multimodal Transformer for Material Segmentation**, Md Kaykobad Reza et.al., Paper: [http://arxiv.org/abs/2309.04001v1](http://arxiv.org/abs/2309.04001v1)
 - 2023-09-07, **Tracking Anything with Decoupled Video Segmentation**, Ho Kei Cheng et.al., Paper: [http://arxiv.org/abs/2309.03903v1](http://arxiv.org/abs/2309.03903v1), Code: **[https://github.com/hkchengrex/Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**
 - 2023-09-07, **ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**, Irfan Tito Kurniawan et.al., Paper: [http://arxiv.org/abs/2309.03734v1](http://arxiv.org/abs/2309.03734v1)
 - 2023-09-07, **Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2309.03729v1](http://arxiv.org/abs/2309.03729v1)
