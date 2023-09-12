@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663v1](http://arxiv.org/abs/2309.05663v1)|null|
+|**2023-09-11**|**From Capture to Display: A Survey on Volumetric Video**|Yili Jin et.al.|[2309.05658v1](http://arxiv.org/abs/2309.05658v1)|null|
+|**2023-09-11**|**Potentials of Deterministic Radio Propagation Simulation for AI-Enabled Localization and Sensing**|Albrecht Michler et.al.|[2309.05650v1](http://arxiv.org/abs/2309.05650v1)|null|
+|**2023-09-11**|**A Novel Supervised Deep Learning Solution to Detect Distributed Denial of Service (DDoS) attacks on Edge Systems using Convolutional Neural Networks (CNN)**|Vedanth Ramanathan et.al.|[2309.05646v1](http://arxiv.org/abs/2309.05646v1)|null|
+|**2023-09-11**|**Boundary Peeling: Outlier Detection Method Using One-Class Peeling**|Sheikh Arafat et.al.|[2309.05630v1](http://arxiv.org/abs/2309.05630v1)|null|
+|**2023-09-11**|**Temporal Action Localization with Enhanced Instant Discriminability**|Dingfeng Shi et.al.|[2309.05590v1](http://arxiv.org/abs/2309.05590v1)|**[link](https://github.com/dingfengshi/tridetplus)**|
+|**2023-09-11**|**Anisotropic Diffusion Stencils: From Simple Derivations over Stability Estimates to ResNet Implementations**|Karl Schrader et.al.|[2309.05575v1](http://arxiv.org/abs/2309.05575v1)|null|
+|**2023-09-11**|**On the Meromorphic Integrability of the Critical Systems for Optimal Sums of Eigenvalues**|Yuzhou Tian et.al.|[2309.05568v1](http://arxiv.org/abs/2309.05568v1)|null|
+|**2023-09-11**|**OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data**|Giuseppe Cartella et.al.|[2309.05551v1](http://arxiv.org/abs/2309.05551v1)|**[link](https://github.com/aimagelab/open-fashion-clip)**|
+|**2023-09-11**|**Distance-Aware eXplanation Based Learning**|Misgina Tsighe Hagos et.al.|[2309.05548v1](http://arxiv.org/abs/2309.05548v1)|**[link](https://github.com/msgun/xbl-d)**|
 |**2023-09-08**|**Generalized Cross-domain Multi-label Few-shot Learning for Chest X-rays**|Aroof Aimen et.al.|[2309.04462v1](http://arxiv.org/abs/2309.04462v1)|null|
 |**2023-09-08**|**Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**|Zhiyong Hu et.al.|[2309.04455v1](http://arxiv.org/abs/2309.04455v1)|null|
 |**2023-09-08**|**Vis-SPLIT: Interactive Hierarchical Modeling for mRNA Expression Classification**|Braden Roper et.al.|[2309.04423v1](http://arxiv.org/abs/2309.04423v1)|null|
@@ -3173,6 +3183,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**An Effective Two-stage Training Paradigm Detector for Small Dataset**|Zheng Wang et.al.|[2309.05652v1](http://arxiv.org/abs/2309.05652v1)|null|
+|**2023-09-11**|**Grid-based Hybrid 3DMA GNSS and Terrestrial Positioning**|Paul Schwarzbach et.al.|[2309.05644v1](http://arxiv.org/abs/2309.05644v1)|null|
+|**2023-09-11**|**Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**|Ruibo Chen et.al.|[2309.05608v1](http://arxiv.org/abs/2309.05608v1)|**[link](https://github.com/rayruibochen/promuse)**|
+|**2023-09-11**|**Tannaka-Krein reconstruction for fusion 2-categories**|David Green et.al.|[2309.05591v1](http://arxiv.org/abs/2309.05591v1)|null|
+|**2023-09-11**|**Extra invariant and plasma inhomogeneity to improve zonal flow**|Alexander Balk et.al.|[2309.05586v1](http://arxiv.org/abs/2309.05586v1)|null|
+|**2023-09-11**|**Multi-Modal Automatic Prosody Annotation with Contrastive Pretraining of SSWP**|Jinzuomu Zhong et.al.|[2309.05423v1](http://arxiv.org/abs/2309.05423v1)|null|
+|**2023-09-11**|**Collective PV-RCNN: A Novel Fusion Technique using Collective Detections for Enhanced Local LiDAR-Based Perception**|Sven Teufel et.al.|[2309.05380v1](http://arxiv.org/abs/2309.05380v1)|null|
+|**2023-09-11**|**Non-invertible duality defect and non-commutative fusion algebra**|Yuta Nagoya et.al.|[2309.05294v1](http://arxiv.org/abs/2309.05294v1)|null|
+|**2023-09-11**|**AutoFuse: Automatic Fusion Networks for Deformable Medical Image Registration**|Mingyuan Meng et.al.|[2309.05271v1](http://arxiv.org/abs/2309.05271v1)|**[link](https://github.com/mungomeng/registration-autofuse)**|
+|**2023-09-11**|**FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Objection**|Chunyong Hu et.al.|[2309.05257v1](http://arxiv.org/abs/2309.05257v1)|null|
 |**2023-09-08**|**Search for the $Zγ$ decay mode of new high-mass resonances in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2309.04364v1](http://arxiv.org/abs/2309.04364v1)|null|
 |**2023-09-08**|**Leveraging Model Fusion for Improved License Plate Recognition**|Rayson Laroca et.al.|[2309.04331v1](http://arxiv.org/abs/2309.04331v1)|null|
 |**2023-09-08**|**From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting**|Griffin Adams et.al.|[2309.04269v1](http://arxiv.org/abs/2309.04269v1)|null|
