@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Contrastive Deep Encoding Enables Uncertainty-aware Machine-learning-assisted Histopathology**|Nirhoshan Sivaroopan et.al.|[2309.07113v1](http://arxiv.org/abs/2309.07113v1)|null|
+|**2023-09-13**|**Data Augmentation via Subgroup Mixup for Improving Fairness**|Madeline Navarro et.al.|[2309.07110v1](http://arxiv.org/abs/2309.07110v1)|null|
+|**2023-09-13**|**The end sum of surfaces**|Liam K. Axon et.al.|[2309.07101v1](http://arxiv.org/abs/2309.07101v1)|null|
+|**2023-09-13**|**Revisiting the classics: On the evolutionary origin of the "Fe II" and "He/N" spectral classes of novae**|E. Aydi et.al.|[2309.07097v1](http://arxiv.org/abs/2309.07097v1)|null|
+|**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
+|**2023-09-13**|**Mitigating Group Bias in Federated Learning for Heterogeneous Devices**|Khotso Selialia et.al.|[2309.07085v1](http://arxiv.org/abs/2309.07085v1)|null|
+|**2023-09-13**|**The Boundaries of Verifiable Accuracy, Robustness, and Generalisation in Deep Learning**|Alexander Bastounis et.al.|[2309.07072v1](http://arxiv.org/abs/2309.07072v1)|null|
+|**2023-09-13**|**Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring**|Dongwei Ren et.al.|[2309.07054v1](http://arxiv.org/abs/2309.07054v1)|**[link](https://github.com/shangwei5/stgtn)**|
+|**2023-09-13**|**Thurston's theorem and the Nielsen-Thurston classification via Teichmüller's theorem**|James Belk et.al.|[2309.06993v1](http://arxiv.org/abs/2309.06993v1)|null|
+|**2023-09-13**|**Neural network-based coronary dominance classification of RCA angiograms**|Ivan Kruzhilov et.al.|[2309.06958v1](http://arxiv.org/abs/2309.06958v1)|null|
 |**2023-09-12**|**Learning Disentangled Avatars with Hybrid 3D Representations**|Yao Feng et.al.|[2309.06441v1](http://arxiv.org/abs/2309.06441v1)|null|
 |**2023-09-12**|**LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning**|Kenneth Shaw et.al.|[2309.06440v1](http://arxiv.org/abs/2309.06440v1)|null|
 |**2023-09-12**|**AGMDT: Virtual Staining of Renal Histology Images with Adjacency-Guided Multi-Domain Transfer**|Tao Ma et.al.|[2309.06421v1](http://arxiv.org/abs/2309.06421v1)|null|
@@ -3189,6 +3199,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection**|Yiran Qin et.al.|[2309.07084v1](http://arxiv.org/abs/2309.07084v1)|**[link](https://github.com/iranqin/supfusion)**|
+|**2023-09-13**|**Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring**|Dongwei Ren et.al.|[2309.07054v1](http://arxiv.org/abs/2309.07054v1)|**[link](https://github.com/shangwei5/stgtn)**|
+|**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941v1](http://arxiv.org/abs/2309.06941v1)|null|
+|**2023-09-13**|**Supervised Machine Learning and Physics based Machine Learning approach for prediction of peak temperature distribution in Additive Friction Stir Deposition of Aluminium Alloy**|Akshansh Mishra et.al.|[2309.06838v1](http://arxiv.org/abs/2309.06838v1)|null|
+|**2023-09-13**|**GelFlow: Self-supervised Learning of Optical Flow for Vision-Based Tactile Sensor Displacement Measurement**|Zhiyuan Zhang et.al.|[2309.06735v1](http://arxiv.org/abs/2309.06735v1)|null|
+|**2023-09-13**|**TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models**|Siyao Zhang et.al.|[2309.06719v1](http://arxiv.org/abs/2309.06719v1)|null|
+|**2023-09-13**|**Transparent Object Tracking with Enhanced Fusion Module**|Kalyan Garigapati et.al.|[2309.06701v1](http://arxiv.org/abs/2309.06701v1)|**[link](https://github.com/kalyan0510/totem)**|
+|**2023-09-13**|**Generalizable improvement of the Spalart-Allmaras model through assimilation of experimental data**|Deepinder Jot Singh Aulakh et.al.|[2309.06679v1](http://arxiv.org/abs/2309.06679v1)|null|
+|**2023-09-13**|**ShaDocFormer: A Shadow-attentive Threshold Detector with Cascaded Fusion Refiner for document shadow removal' to the ICASSP 2024 online submission system**|Weiwen Chen et.al.|[2309.06670v1](http://arxiv.org/abs/2309.06670v1)|null|
+|**2023-09-12**|**Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation**|Yixing Lu et.al.|[2309.06618v1](http://arxiv.org/abs/2309.06618v1)|null|
 |**2023-09-12**|**Scale dependence of non-factorizable virtual corrections to Higgs boson production in weak boson fusion**|Christian Brønnum-Hansen et.al.|[2309.06292v1](http://arxiv.org/abs/2309.06292v1)|null|
 |**2023-09-12**|**Transferability analysis of data-driven additive manufacturing knowledge: a case study between powder bed fusion and directed energy deposition**|Mutahar Safdar et.al.|[2309.06286v1](http://arxiv.org/abs/2309.06286v1)|null|
 |**2023-09-12**|**Distributed Adaptive Signal Fusion for Fractional Programs**|Cem Ates Musluoglu et.al.|[2309.06278v1](http://arxiv.org/abs/2309.06278v1)|null|
