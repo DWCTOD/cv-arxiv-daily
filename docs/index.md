@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning**|Zhiwu Qing et.al.|[2309.07911v1](http://arxiv.org/abs/2309.07911v1)|**[link](https://github.com/alibaba-mmai-research/dist)**|
+|**2023-09-14**|**Generative Image Dynamics**|Zhengqi Li et.al.|[2309.07906v1](http://arxiv.org/abs/2309.07906v1)|null|
+|**2023-09-14**|**Ambiguity-Aware In-Context Learning with Large Language Models**|Lingyu Gao et.al.|[2309.07900v1](http://arxiv.org/abs/2309.07900v1)|null|
+|**2023-09-14**|**SMARTFEAT: Efficient Feature Construction through Feature-Level Foundation Model Interactions**|Yin Lin et.al.|[2309.07856v1](http://arxiv.org/abs/2309.07856v1)|null|
+|**2023-09-14**|**Two Timin': Repairing Smart Contracts With A Two-Layered Approach**|Abhinav Jain et.al.|[2309.07841v1](http://arxiv.org/abs/2309.07841v1)|null|
+|**2023-09-14**|**Text Classification of Cancer Clinical Trial Eligibility Criteria**|Yumeng Yang et.al.|[2309.07812v1](http://arxiv.org/abs/2309.07812v1)|null|
+|**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808v1](http://arxiv.org/abs/2309.07808v1)|null|
+|**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794v1](http://arxiv.org/abs/2309.07794v1)|null|
+|**2023-09-14**|**A Multi-In and Multi-Out Dendritic Neuron Model and its Optimization**|Yu Ding et.al.|[2309.07791v1](http://arxiv.org/abs/2309.07791v1)|null|
+|**2023-09-14**|**Virchow: A Million-Slide Digital Pathology Foundation Model**|Eugene Vorontsov et.al.|[2309.07778v1](http://arxiv.org/abs/2309.07778v1)|null|
 |**2023-09-13**|**Contrastive Deep Encoding Enables Uncertainty-aware Machine-learning-assisted Histopathology**|Nirhoshan Sivaroopan et.al.|[2309.07113v1](http://arxiv.org/abs/2309.07113v1)|null|
 |**2023-09-13**|**Data Augmentation via Subgroup Mixup for Improving Fairness**|Madeline Navarro et.al.|[2309.07110v1](http://arxiv.org/abs/2309.07110v1)|null|
 |**2023-09-13**|**The end sum of surfaces**|Liam K. Axon et.al.|[2309.07101v1](http://arxiv.org/abs/2309.07101v1)|null|
@@ -3203,6 +3213,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**A Novel Local-Global Feature Fusion Framework for Body-weight Exercise Recognition with Pressure Mapping Sensors**|Davinder Pal Singh et.al.|[2309.07888v1](http://arxiv.org/abs/2309.07888v1)|null|
+|**2023-09-14**|**On Distributed and Asynchronous Sampling of Gaussian Processes for Sequential Binary Hypothesis Testing**|Nandan Sriranga et.al.|[2309.07855v1](http://arxiv.org/abs/2309.07855v1)|null|
+|**2023-09-14**|**TFNet: Exploiting Temporal Cues for Fast and Accurate LiDAR Semantic Segmentation**|Rong Li et.al.|[2309.07849v1](http://arxiv.org/abs/2309.07849v1)|null|
+|**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808v1](http://arxiv.org/abs/2309.07808v1)|null|
+|**2023-09-14**|**The Dynamical Principles of Storytelling**|Isidoros Doxas et.al.|[2309.07797v1](http://arxiv.org/abs/2309.07797v1)|null|
+|**2023-09-14**|**NutritionVerse: Empirical Study of Various Dietary Intake Estimation Approaches**|Chi-en Amy Tai et.al.|[2309.07704v1](http://arxiv.org/abs/2309.07704v1)|null|
+|**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495v1](http://arxiv.org/abs/2309.07495v1)|null|
+|**2023-09-14**|**JSMNet Improving Indoor Point Cloud Semantic and Instance Segmentation through Self-Attention and Multiscale**|Shuochen Xu et.al.|[2309.07425v1](http://arxiv.org/abs/2309.07425v1)|null|
+|**2023-09-13**|**Automated Assessment of Critical View of Safety in Laparoscopic Cholecystectomy**|Yunfan Li et.al.|[2309.07330v1](http://arxiv.org/abs/2309.07330v1)|null|
+|**2023-09-13**|**Multi-Modal Hybrid Learning and Sequential Training for RGB-T Saliency Detection**|Guangyu Ren et.al.|[2309.07297v1](http://arxiv.org/abs/2309.07297v1)|null|
 |**2023-09-13**|**SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection**|Yiran Qin et.al.|[2309.07084v1](http://arxiv.org/abs/2309.07084v1)|**[link](https://github.com/iranqin/supfusion)**|
 |**2023-09-13**|**Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring**|Dongwei Ren et.al.|[2309.07054v1](http://arxiv.org/abs/2309.07054v1)|**[link](https://github.com/shangwei5/stgtn)**|
 |**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941v1](http://arxiv.org/abs/2309.06941v1)|null|
