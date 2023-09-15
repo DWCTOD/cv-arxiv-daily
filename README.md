@@ -1,4 +1,4 @@
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 
 ## Video_Classification
 
@@ -3207,7 +3207,7 @@
 |**2023-09-13**|**TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models**|Siyao Zhang et.al.|[2309.06719v1](http://arxiv.org/abs/2309.06719v1)|null|
 |**2023-09-13**|**Transparent Object Tracking with Enhanced Fusion Module**|Kalyan Garigapati et.al.|[2309.06701v1](http://arxiv.org/abs/2309.06701v1)|**[link](https://github.com/kalyan0510/totem)**|
 |**2023-09-13**|**Generalizable improvement of the Spalart-Allmaras model through assimilation of experimental data**|Deepinder Jot Singh Aulakh et.al.|[2309.06679v1](http://arxiv.org/abs/2309.06679v1)|null|
-|**2023-09-13**|**ShaDocFormer: A Shadow-attentive Threshold Detector with Cascaded Fusion Refiner for document shadow removal' to the ICASSP 2024 online submission system**|Weiwen Chen et.al.|[2309.06670v1](http://arxiv.org/abs/2309.06670v1)|null|
+|**2023-09-14**|**ShaDocFormer: A Shadow-attentive Threshold Detector with Cascaded Fusion Refiner for document shadow removal**|Weiwen Chen et.al.|[2309.06670v2](http://arxiv.org/abs/2309.06670v2)|null|
 |**2023-09-12**|**Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation**|Yixing Lu et.al.|[2309.06618v1](http://arxiv.org/abs/2309.06618v1)|null|
 |**2023-09-12**|**Scale dependence of non-factorizable virtual corrections to Higgs boson production in weak boson fusion**|Christian Brønnum-Hansen et.al.|[2309.06292v1](http://arxiv.org/abs/2309.06292v1)|null|
 |**2023-09-12**|**Transferability analysis of data-driven additive manufacturing knowledge: a case study between powder bed fusion and directed energy deposition**|Mutahar Safdar et.al.|[2309.06286v1](http://arxiv.org/abs/2309.06286v1)|null|
