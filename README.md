@@ -1,4 +1,4 @@
-## Updated on 2023.09.15
+## Updated on 2023.09.16
 
 ## Video_Classification
 
@@ -3215,7 +3215,7 @@
 |**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808v1](http://arxiv.org/abs/2309.07808v1)|null|
 |**2023-09-14**|**The Dynamical Principles of Storytelling**|Isidoros Doxas et.al.|[2309.07797v1](http://arxiv.org/abs/2309.07797v1)|null|
 |**2023-09-14**|**NutritionVerse: Empirical Study of Various Dietary Intake Estimation Approaches**|Chi-en Amy Tai et.al.|[2309.07704v1](http://arxiv.org/abs/2309.07704v1)|null|
-|**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495v1](http://arxiv.org/abs/2309.07495v1)|null|
+|**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495v1](http://arxiv.org/abs/2309.07495v1)|**[link](https://github.com/yylgoodlucky/hdtr)**|
 |**2023-09-14**|**JSMNet Improving Indoor Point Cloud Semantic and Instance Segmentation through Self-Attention and Multiscale**|Shuochen Xu et.al.|[2309.07425v1](http://arxiv.org/abs/2309.07425v1)|null|
 |**2023-09-13**|**Automated Assessment of Critical View of Safety in Laparoscopic Cholecystectomy**|Yunfan Li et.al.|[2309.07330v1](http://arxiv.org/abs/2309.07330v1)|null|
 |**2023-09-13**|**Multi-Modal Hybrid Learning and Sequential Training for RGB-T Saliency Detection**|Guangyu Ren et.al.|[2309.07297v1](http://arxiv.org/abs/2309.07297v1)|null|
