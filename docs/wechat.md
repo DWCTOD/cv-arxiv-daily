@@ -1,4 +1,4 @@
-> Updated on 2023.09.17
+> Updated on 2023.09.18
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2023-09-14, **What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**, Hongkuan Zhou et.al., Paper: [http://arxiv.org/abs/2309.07808v1](http://arxiv.org/abs/2309.07808v1)
 - 2023-09-14, **Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**, Danae Sánchez Villegas et.al., Paper: [http://arxiv.org/abs/2309.07794v1](http://arxiv.org/abs/2309.07794v1)
 - 2023-09-14, **A Multi-In and Multi-Out Dendritic Neuron Model and its Optimization**, Yu Ding et.al., Paper: [http://arxiv.org/abs/2309.07791v1](http://arxiv.org/abs/2309.07791v1)
-- 2023-09-14, **Virchow: A Million-Slide Digital Pathology Foundation Model**, Eugene Vorontsov et.al., Paper: [http://arxiv.org/abs/2309.07778v1](http://arxiv.org/abs/2309.07778v1)
+- 2023-09-15, **Virchow: A Million-Slide Digital Pathology Foundation Model**, Eugene Vorontsov et.al., Paper: [http://arxiv.org/abs/2309.07778v2](http://arxiv.org/abs/2309.07778v2)
 - 2023-09-13, **Contrastive Deep Encoding Enables Uncertainty-aware Machine-learning-assisted Histopathology**, Nirhoshan Sivaroopan et.al., Paper: [http://arxiv.org/abs/2309.07113v1](http://arxiv.org/abs/2309.07113v1)
 - 2023-09-13, **Data Augmentation via Subgroup Mixup for Improving Fairness**, Madeline Navarro et.al., Paper: [http://arxiv.org/abs/2309.07110v1](http://arxiv.org/abs/2309.07110v1)
 - 2023-09-13, **The end sum of surfaces**, Liam K. Axon et.al., Paper: [http://arxiv.org/abs/2309.07101v1](http://arxiv.org/abs/2309.07101v1)
