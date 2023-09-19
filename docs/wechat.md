@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-18, **$Des$-$q$: a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**, Niraj Kumar et.al., Paper: [http://arxiv.org/abs/2309.09976v1](http://arxiv.org/abs/2309.09976v1)
+- 2023-09-18, **Empirical Study of Mix-based Data Augmentation Methods in Physiological Time Series Data**, Peikun Guo et.al., Paper: [http://arxiv.org/abs/2309.09970v1](http://arxiv.org/abs/2309.09970v1)
+- 2023-09-18, **vSHARP: variable Splitting Half-quadratic ADMM algorithm for Reconstruction of inverse-Problems**, George Yiasemis et.al., Paper: [http://arxiv.org/abs/2309.09954v1](http://arxiv.org/abs/2309.09954v1)
+- 2023-09-18, **TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**, Zhuoyang Chen et.al., Paper: [http://arxiv.org/abs/2309.09937v1](http://arxiv.org/abs/2309.09937v1)
+- 2023-09-18, **Algebra of Self-Replication**, Lawrence S. Moss et.al., Paper: [http://arxiv.org/abs/2309.09931v1](http://arxiv.org/abs/2309.09931v1)
+- 2023-09-18, **Evaluating Adversarial Robustness with Expected Viable Performance**, Ryan McCoppin et.al., Paper: [http://arxiv.org/abs/2309.09928v1](http://arxiv.org/abs/2309.09928v1)
+- 2023-09-18, **Impact of Augmented reality system on elementary school ESL learners in country side of china: Motivations, achievements, behaviors and cognitive attainment**, Ijaz Ul Haq et.al., Paper: [http://arxiv.org/abs/2309.09894v1](http://arxiv.org/abs/2309.09894v1)
+- 2023-09-18, **Not Enough Labeled Data? Just Add Semantics: A Data-Efficient Method for Inferring Online Health Texts**, Joseph Gatto et.al., Paper: [http://arxiv.org/abs/2309.09877v1](http://arxiv.org/abs/2309.09877v1)
+- 2023-09-18, **Domain Generalization with Fourier Transform and Soft Thresholding**, Hongyi Pan et.al., Paper: [http://arxiv.org/abs/2309.09866v1](http://arxiv.org/abs/2309.09866v1)
+- 2023-09-18, **Unsupervised Open-Vocabulary Object Localization in Videos**, Ke Fan et.al., Paper: [http://arxiv.org/abs/2309.09858v1](http://arxiv.org/abs/2309.09858v1)
 - 2023-09-18, **Closing the Loop on Runtime Monitors with Fallback-Safe MPC**, Rohan Sinha et.al., Paper: [http://arxiv.org/abs/2309.08603v2](http://arxiv.org/abs/2309.08603v2)
 - 2023-09-15, **Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**, Fabien Delattre et.al., Paper: [http://arxiv.org/abs/2309.08588v1](http://arxiv.org/abs/2309.08588v1)
 - 2023-09-15, **Compositional Foundation Models for Hierarchical Planning**, Anurag Ajay et.al., Paper: [http://arxiv.org/abs/2309.08587v1](http://arxiv.org/abs/2309.08587v1)
@@ -3215,6 +3225,16 @@
 
 ## MultiModal
 
+- 2023-09-18, **TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**, Zhuoyang Chen et.al., Paper: [http://arxiv.org/abs/2309.09937v1](http://arxiv.org/abs/2309.09937v1)
+- 2023-09-18, **PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**, Mathieu Cocheteux et.al., Paper: [http://arxiv.org/abs/2309.09855v1](http://arxiv.org/abs/2309.09855v1)
+- 2023-09-18, **Frame-to-Utterance Convergence: A Spectra-Temporal Approach for Unified Spoofing Detection**, Awais Khan et.al., Paper: [http://arxiv.org/abs/2309.09837v1](http://arxiv.org/abs/2309.09837v1)
+- 2023-09-18, **Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**, Xiaolei Lang et.al., Paper: [http://arxiv.org/abs/2309.09808v1](http://arxiv.org/abs/2309.09808v1)
+- 2023-09-18, **Gaussian Process Regression models for the properties of micro-tearing modes in spherical tokamak**, William Hornsby et.al., Paper: [http://arxiv.org/abs/2309.09785v1](http://arxiv.org/abs/2309.09785v1)
+- 2023-09-18, **Drawing the Same Bounding Box Twice? Coping Noisy Annotations in Object Detection with Repeated Labels**, David Tschirschwitz et.al., Paper: [http://arxiv.org/abs/2309.09742v1](http://arxiv.org/abs/2309.09742v1), Code: **[https://github.com/madave94/gtiod](https://github.com/madave94/gtiod)**
+- 2023-09-18, **GHNet:Learning GNSS Heading from Velocity Measurements**, Nitzan Dahan et.al., Paper: [http://arxiv.org/abs/2309.09696v1](http://arxiv.org/abs/2309.09696v1)
+- 2023-09-18, **Mutual Information-calibrated Conformal Feature Fusion for Uncertainty-Aware Multimodal 3D Object Detection at the Edge**, Alex C. Stutts et.al., Paper: [http://arxiv.org/abs/2309.09593v1](http://arxiv.org/abs/2309.09593v1)
+- 2023-09-18, **Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-Based Action Recognition**, Ming-Zhe Li et.al., Paper: [http://arxiv.org/abs/2309.09592v1](http://arxiv.org/abs/2309.09592v1), Code: **[https://github.com/EHZ9NIWI7/MSF-GZSSAR](https://github.com/EHZ9NIWI7/MSF-GZSSAR)**
+- 2023-09-18, **New Bounds on the Accuracy of Majority Voting for Multi-Class Classification**, Sina Aeeneh et.al., Paper: [http://arxiv.org/abs/2309.09564v1](http://arxiv.org/abs/2309.09564v1)
 - 2023-09-15, **Doeblin Coefficients and Related Measures**, Anuran Makur et.al., Paper: [http://arxiv.org/abs/2309.08475v1](http://arxiv.org/abs/2309.08475v1)
 - 2023-09-15, **X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**, Duc Cao Dinh et.al., Paper: [http://arxiv.org/abs/2309.08424v1](http://arxiv.org/abs/2309.08424v1), Code: **[https://github.com/caodinhduc/x-pdnet-official](https://github.com/caodinhduc/x-pdnet-official)**
 - 2023-09-15, **Beyond Domain Gap: Exploiting Subjectivity in Sketch-Based Person Retrieval**, Kejun Lin et.al., Paper: [http://arxiv.org/abs/2309.08372v1](http://arxiv.org/abs/2309.08372v1), Code: **[https://github.com/lin-kayla/subjectivity-sketch-reid](https://github.com/lin-kayla/subjectivity-sketch-reid)**
