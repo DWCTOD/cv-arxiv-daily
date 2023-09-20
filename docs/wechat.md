@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-19, **Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**, Rucha Deshpande et.al., Paper: [http://arxiv.org/abs/2309.10817v1](http://arxiv.org/abs/2309.10817v1)
+- 2023-09-19, **Multisource Holography**, Grace Kuo et.al., Paper: [http://arxiv.org/abs/2309.10816v1](http://arxiv.org/abs/2309.10816v1)
+- 2023-09-19, **Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**, Tianhua Zhang et.al., Paper: [http://arxiv.org/abs/2309.10814v1](http://arxiv.org/abs/2309.10814v1), Code: **[https://github.com/luohongyin/langcode](https://github.com/luohongyin/langcode)**
+- 2023-09-19, **Semantic Text Compression for Classification**, Emrecan Kutay et.al., Paper: [http://arxiv.org/abs/2309.10809v1](http://arxiv.org/abs/2309.10809v1)
+- 2023-09-19, **Multi-Context Dual Hyper-Prior Neural Image Compression**, Atefeh Khoshkhahtinat et.al., Paper: [http://arxiv.org/abs/2309.10799v1](http://arxiv.org/abs/2309.10799v1)
+- 2023-09-19, **Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**, Ali Zafari et.al., Paper: [http://arxiv.org/abs/2309.10791v1](http://arxiv.org/abs/2309.10791v1)
+- 2023-09-19, **Guide Your Agent with Adaptive Multimodal Rewards**, Changyeon Kim et.al., Paper: [http://arxiv.org/abs/2309.10790v1](http://arxiv.org/abs/2309.10790v1), Code: **[https://github.com/csmile-1006/arp](https://github.com/csmile-1006/arp)**
+- 2023-09-19, **Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**, Mehdi Jabbari Zideh et.al., Paper: [http://arxiv.org/abs/2309.10788v1](http://arxiv.org/abs/2309.10788v1)
+- 2023-09-19, **AV-SUPERB: A Multi-Task Evaluation Benchmark for Audio-Visual Representation Models**, Yuan Tseng et.al., Paper: [http://arxiv.org/abs/2309.10787v1](http://arxiv.org/abs/2309.10787v1), Code: **[https://github.com/roger-tseng/av-superb](https://github.com/roger-tseng/av-superb)**
+- 2023-09-19, **Context-Aware Neural Video Compression on Solar Dynamics Observatory**, Atefeh Khoshkhahtinat et.al., Paper: [http://arxiv.org/abs/2309.10784v1](http://arxiv.org/abs/2309.10784v1)
 - 2023-09-19, **Des-q: a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**, Niraj Kumar et.al., Paper: [http://arxiv.org/abs/2309.09976v2](http://arxiv.org/abs/2309.09976v2)
 - 2023-09-18, **Empirical Study of Mix-based Data Augmentation Methods in Physiological Time Series Data**, Peikun Guo et.al., Paper: [http://arxiv.org/abs/2309.09970v1](http://arxiv.org/abs/2309.09970v1)
 - 2023-09-18, **vSHARP: variable Splitting Half-quadratic ADMM algorithm for Reconstruction of inverse-Problems**, George Yiasemis et.al., Paper: [http://arxiv.org/abs/2309.09954v1](http://arxiv.org/abs/2309.09954v1)
@@ -3225,6 +3235,16 @@
 
 ## MultiModal
 
+- 2023-09-19, **AV-SUPERB: A Multi-Task Evaluation Benchmark for Audio-Visual Representation Models**, Yuan Tseng et.al., Paper: [http://arxiv.org/abs/2309.10787v1](http://arxiv.org/abs/2309.10787v1), Code: **[https://github.com/roger-tseng/av-superb](https://github.com/roger-tseng/av-superb)**
+- 2023-09-19, **MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings**, Surbhi Madan et.al., Paper: [http://arxiv.org/abs/2309.10765v1](http://arxiv.org/abs/2309.10765v1), Code: **[https://github.com/surbhimadan92/magic-tbr](https://github.com/surbhimadan92/magic-tbr)**
+- 2023-09-19, **Perceptual Factors for Environmental Modeling in Robotic Active Perception**, David Morilla-Cabello et.al., Paper: [http://arxiv.org/abs/2309.10620v1](http://arxiv.org/abs/2309.10620v1)
+- 2023-09-19, **Retinex-guided Channel-grouping based Patch Swap for Arbitrary Style Transfer**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2309.10528v1](http://arxiv.org/abs/2309.10528v1)
+- 2023-09-19, **Edge-aware Feature Aggregation Network for Polyp Segmentation**, Tao Zhou et.al., Paper: [http://arxiv.org/abs/2309.10523v1](http://arxiv.org/abs/2309.10523v1)
+- 2023-09-19, **Visible and NIR Image Fusion Algorithm Based on Information Complementarity**, Zhuo Li et.al., Paper: [http://arxiv.org/abs/2309.10522v1](http://arxiv.org/abs/2309.10522v1)
+- 2023-09-19, **DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs**, Jiawen Zhu et.al., Paper: [http://arxiv.org/abs/2309.10491v1](http://arxiv.org/abs/2309.10491v1)
+- 2023-09-19, **Exploring Different Levels of Supervision for Detecting and Localizing Solar Panels on Remote Sensing Imagery**, Maarten Burger et.al., Paper: [http://arxiv.org/abs/2309.10421v1](http://arxiv.org/abs/2309.10421v1)
+- 2023-09-19, **PDPCRN: Parallel Dual-Path CRN with Bi-directional Inter-Branch Interactions for Multi-Channel Speech Enhancement**, Jiahui Pan et.al., Paper: [http://arxiv.org/abs/2309.10379v1](http://arxiv.org/abs/2309.10379v1)
+- 2023-09-19, **RoadFormer: Duplex Transformer for RGB-Normal Semantic Road Scene Parsing**, Jiahang Li et.al., Paper: [http://arxiv.org/abs/2309.10356v1](http://arxiv.org/abs/2309.10356v1)
 - 2023-09-18, **TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**, Zhuoyang Chen et.al., Paper: [http://arxiv.org/abs/2309.09937v1](http://arxiv.org/abs/2309.09937v1)
 - 2023-09-18, **PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**, Mathieu Cocheteux et.al., Paper: [http://arxiv.org/abs/2309.09855v1](http://arxiv.org/abs/2309.09855v1)
 - 2023-09-18, **Frame-to-Utterance Convergence: A Spectra-Temporal Approach for Unified Spoofing Detection**, Awais Khan et.al., Paper: [http://arxiv.org/abs/2309.09837v1](http://arxiv.org/abs/2309.09837v1)
