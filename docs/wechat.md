@@ -1,8 +1,8 @@
-> Updated on 2023.09.19
+> Updated on 2023.09.20
 
 ## Video_Classification
 
-- 2023-09-18, **$Des$-$q$: a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**, Niraj Kumar et.al., Paper: [http://arxiv.org/abs/2309.09976v1](http://arxiv.org/abs/2309.09976v1)
+- 2023-09-19, **Des-q: a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**, Niraj Kumar et.al., Paper: [http://arxiv.org/abs/2309.09976v2](http://arxiv.org/abs/2309.09976v2)
 - 2023-09-18, **Empirical Study of Mix-based Data Augmentation Methods in Physiological Time Series Data**, Peikun Guo et.al., Paper: [http://arxiv.org/abs/2309.09970v1](http://arxiv.org/abs/2309.09970v1)
 - 2023-09-18, **vSHARP: variable Splitting Half-quadratic ADMM algorithm for Reconstruction of inverse-Problems**, George Yiasemis et.al., Paper: [http://arxiv.org/abs/2309.09954v1](http://arxiv.org/abs/2309.09954v1)
 - 2023-09-18, **TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**, Zhuoyang Chen et.al., Paper: [http://arxiv.org/abs/2309.09937v1](http://arxiv.org/abs/2309.09937v1)
