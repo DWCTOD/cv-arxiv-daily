@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 
 ## Video_Classification
 
@@ -10,14 +10,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**A Large-scale Dataset for Audio-Language Representation Learning**|Luoyi Sun et.al.|[2309.11500v1](http://arxiv.org/abs/2309.11500v1)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497v1](http://arxiv.org/abs/2309.11497v1)|null|
-|**2023-09-20**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489v1](http://arxiv.org/abs/2309.11489v1)|null|
+|**2023-09-21**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489v2](http://arxiv.org/abs/2309.11489v2)|null|
 |**2023-09-20**|**First detection of CO$_2$ emission in a Centaur: JWST NIRSpec observations of 39P/Oterma**|O. Harrington Pinto et.al.|[2309.11486v1](http://arxiv.org/abs/2309.11486v1)|null|
 |**2023-09-20**|**Multi-Label Takagi-Sugeno-Kang Fuzzy System**|Qiongdan Lou et.al.|[2309.11469v1](http://arxiv.org/abs/2309.11469v1)|null|
 |**2023-09-20**|**Budget-Aware Pruning: Handling Multiple Domains with Less Parameters**|Samuel Felipe dos Santos et.al.|[2309.11464v1](http://arxiv.org/abs/2309.11464v1)|null|
 |**2023-09-20**|**AudioFool: Fast, Universal and synchronization-free Cross-Domain Attack on Speech Recognition**|Mohamad Fakih et.al.|[2309.11462v1](http://arxiv.org/abs/2309.11462v1)|null|
 |**2023-09-20**|**SkeleTR: Towrads Skeleton-based Action Recognition in the Wild**|Haodong Duan et.al.|[2309.11445v1](http://arxiv.org/abs/2309.11445v1)|null|
 |**2023-09-20**|**A Systematic Review of Few-Shot Learning in Medical Imaging**|Eva Pachetti et.al.|[2309.11433v1](http://arxiv.org/abs/2309.11433v1)|null|
-|**2023-09-20**|**Video Screens for Hearing Research: Transmittance and Reflectance of Professional and Other Fabrics**|Jan Heeren et.al.|[2309.11430v1](http://arxiv.org/abs/2309.11430v1)|null|
+|**2023-09-21**|**Video Screens for Hearing Research: Transmittance and Reflectance of Professional and Other Fabrics**|Jan Heeren et.al.|[2309.11430v2](http://arxiv.org/abs/2309.11430v2)|null|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817v1](http://arxiv.org/abs/2309.10817v1)|null|
 |**2023-09-19**|**Multisource Holography**|Grace Kuo et.al.|[2309.10816v1](http://arxiv.org/abs/2309.10816v1)|null|
 |**2023-09-19**|**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**|Tianhua Zhang et.al.|[2309.10814v1](http://arxiv.org/abs/2309.10814v1)|**[link](https://github.com/luohongyin/langcode)**|
@@ -3255,13 +3255,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**Localisation in Equivariant Cohomology**|Catherine C. Notman et.al.|[2309.11405v1](http://arxiv.org/abs/2309.11405v1)|null|
 |**2023-09-20**|**The Magnetic Gradient Scale Length Explains Why Certain Plasmas Require Close External Magnetic Coils**|John Kappel et.al.|[2309.11342v1](http://arxiv.org/abs/2309.11342v1)|null|
-|**2023-09-20**|**Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**|Chengcheng Wang et.al.|[2309.11331v1](http://arxiv.org/abs/2309.11331v1)|**[link](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)**|
+|**2023-09-21**|**Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**|Chengcheng Wang et.al.|[2309.11331v2](http://arxiv.org/abs/2309.11331v2)|**[link](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)**|
 |**2023-09-20**|**Transport-based fusion that distinguishes between Majorana and Andreev bound states**|Maximilian Nitsch et.al.|[2309.11328v1](http://arxiv.org/abs/2309.11328v1)|null|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|null|
-|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v1](http://arxiv.org/abs/2309.11148v1)|null|
-|**2023-09-20**|**GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation**|Ziyang Zheng et.al.|[2309.11144v1](http://arxiv.org/abs/2309.11144v1)|null|
+|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
+|**2023-09-21**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
+|**2023-09-20**|**GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation**|Ziyang Zheng et.al.|[2309.11144v1](http://arxiv.org/abs/2309.11144v1)|**[link](https://github.com/xmed-lab/GL-Fusion)**|
 |**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
-|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v1](http://arxiv.org/abs/2309.11119v1)|null|
+|**2023-09-21**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v2](http://arxiv.org/abs/2309.11119v2)|null|
 |**2023-09-20**|**Fusion cross section and total kinetic energy of fission fragments by the dynamical dissipative surface-friction model**|S. Amano et.al.|[2309.11095v1](http://arxiv.org/abs/2309.11095v1)|null|
 |**2023-09-19**|**AV-SUPERB: A Multi-Task Evaluation Benchmark for Audio-Visual Representation Models**|Yuan Tseng et.al.|[2309.10787v1](http://arxiv.org/abs/2309.10787v1)|**[link](https://github.com/roger-tseng/av-superb)**|
 |**2023-09-19**|**MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings**|Surbhi Madan et.al.|[2309.10765v1](http://arxiv.org/abs/2309.10765v1)|**[link](https://github.com/surbhimadan92/magic-tbr)**|
