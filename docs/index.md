@@ -3255,7 +3255,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**Localisation in Equivariant Cohomology**|Catherine C. Notman et.al.|[2309.11405v1](http://arxiv.org/abs/2309.11405v1)|null|
 |**2023-09-20**|**The Magnetic Gradient Scale Length Explains Why Certain Plasmas Require Close External Magnetic Coils**|John Kappel et.al.|[2309.11342v1](http://arxiv.org/abs/2309.11342v1)|null|
-|**2023-09-21**|**Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**|Chengcheng Wang et.al.|[2309.11331v2](http://arxiv.org/abs/2309.11331v2)|**[link](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)**|
+|**2023-09-21**|**Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**|Chengcheng Wang et.al.|[2309.11331v2](http://arxiv.org/abs/2309.11331v2)|**[link](https://github.com/huawei-noah/Efficient-Computing)**|
 |**2023-09-20**|**Transport-based fusion that distinguishes between Majorana and Andreev bound states**|Maximilian Nitsch et.al.|[2309.11328v1](http://arxiv.org/abs/2309.11328v1)|null|
 |**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-21**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
