@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312v1](http://arxiv.org/abs/2309.12312v1)|null|
+|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
+|**2023-09-21**|**TalkNCE: Improving Active Speaker Detection with Talk-Aware Contrastive Learning**|Chaeyoung Jung et.al.|[2309.12306v1](http://arxiv.org/abs/2309.12306v1)|null|
+|**2023-09-21**|**PanoVOS:Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303v1](http://arxiv.org/abs/2309.12303v1)|null|
+|**2023-09-21**|**See to Touch: Learning Tactile Dexterity through Visual Incentives**|Irmak Guzey et.al.|[2309.12300v1](http://arxiv.org/abs/2309.12300v1)|null|
+|**2023-09-21**|**The Broad Impact of Feature Imitation: Neural Enhancements Across Financial, Speech, and Physiological Domains**|Reza Khanmohammadi et.al.|[2309.12279v1](http://arxiv.org/abs/2309.12279v1)|null|
+|**2023-09-21**|**Enabling Quartile-based Estimated-Mean Gradient Aggregation As Baseline for Federated Image Classifications**|Yusen Wu et.al.|[2309.12267v1](http://arxiv.org/abs/2309.12267v1)|null|
+|**2023-09-21**|**Parallelizing non-linear sequential models over the sequence length**|Yi Heng Lim et.al.|[2309.12252v1](http://arxiv.org/abs/2309.12252v1)|null|
+|**2023-09-21**|**Adaptive Input-image Normalization for Solving Mode Collapse Problem in GAN-based X-ray Images**|Muhammad Muneeb Saad et.al.|[2309.12245v1](http://arxiv.org/abs/2309.12245v1)|null|
+|**2023-09-21**|**Model-based Clustering using Non-parametric Hidden Markov Models**|Elisabeth Gassiat et.al.|[2309.12238v1](http://arxiv.org/abs/2309.12238v1)|null|
 |**2023-09-20**|**A Large-scale Dataset for Audio-Language Representation Learning**|Luoyi Sun et.al.|[2309.11500v1](http://arxiv.org/abs/2309.11500v1)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497v1](http://arxiv.org/abs/2309.11497v1)|null|
 |**2023-09-21**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489v2](http://arxiv.org/abs/2309.11489v2)|null|
@@ -3249,6 +3259,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**SlowFast Network for Continuous Sign Language Recognition**|Junseok Ahn et.al.|[2309.12304v1](http://arxiv.org/abs/2309.12304v1)|null|
+|**2023-09-21**|**Dynamically Assisted Tunneling in the Floquet Picture**|Daniil Ryndyk et.al.|[2309.12205v1](http://arxiv.org/abs/2309.12205v1)|null|
+|**2023-09-21**|**Improving GPS-VIO Fusion with Adaptive Rotational Calibration**|Junlin Song et.al.|[2309.12005v1](http://arxiv.org/abs/2309.12005v1)|null|
+|**2023-09-21**|**Stable Deuterium-Tritium burning plasmas with improved confinement in the presence of energetic-ion instabilities**|Jeronimo Garcia et.al.|[2309.11964v1](http://arxiv.org/abs/2309.11964v1)|null|
+|**2023-09-21**|**Robust Sensor Fusion for Indoor Wireless Localization**|Gang Wang et.al.|[2309.11917v1](http://arxiv.org/abs/2309.11917v1)|null|
+|**2023-09-21**|**Towards In-Cabin Monitoring: A Preliminary Study on Sensors Data Collection and Analysis**|Jacopo Sini et.al.|[2309.11890v1](http://arxiv.org/abs/2309.11890v1)|null|
+|**2023-09-21**|**MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion**|Ting Jiang et.al.|[2309.11847v1](http://arxiv.org/abs/2309.11847v1)|**[link](https://github.com/hedlen/meflut)**|
+|**2023-09-21**|**Multimodal Transformers for Wireless Communications: A Case Study in Beam Prediction**|Yu Tian et.al.|[2309.11811v1](http://arxiv.org/abs/2309.11811v1)|**[link](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)**|
+|**2023-09-21**|**FGFusion: Fine-Grained Lidar-Camera Fusion for 3D Object Detection**|Zixuan Yin et.al.|[2309.11804v1](http://arxiv.org/abs/2309.11804v1)|**[link](https://github.com/xaviergrool/fgfusion)**|
+|**2023-09-21**|**Nuclear viscosity estimated by dynamics of neck formation in the early stage of nuclear collision**|S. Amano et.al.|[2309.11771v1](http://arxiv.org/abs/2309.11771v1)|null|
 |**2023-09-20**|**Localisation in Equivariant Cohomology**|Catherine C. Notman et.al.|[2309.11405v1](http://arxiv.org/abs/2309.11405v1)|null|
 |**2023-09-20**|**The Magnetic Gradient Scale Length Explains Why Certain Plasmas Require Close External Magnetic Coils**|John Kappel et.al.|[2309.11342v1](http://arxiv.org/abs/2309.11342v1)|null|
 |**2023-09-21**|**Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**|Chengcheng Wang et.al.|[2309.11331v2](http://arxiv.org/abs/2309.11331v2)|**[link](https://github.com/huawei-noah/Efficient-Computing)**|
