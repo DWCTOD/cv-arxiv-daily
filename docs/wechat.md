@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-22, **Robotic Offline RL from Internet Videos via Value-Function Pre-Training**, Chethan Bhateja et.al., Paper: [http://arxiv.org/abs/2309.13041v1](http://arxiv.org/abs/2309.13041v1)
+- 2023-09-22, **Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?**, Xiaoxiao Sun et.al., Paper: [http://arxiv.org/abs/2309.13038v1](http://arxiv.org/abs/2309.13038v1)
+- 2023-09-22, **Encoding optimization for quantum machine learning demonstrated on a superconducting transmon qutrit**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2309.13036v1](http://arxiv.org/abs/2309.13036v1)
+- 2023-09-22, **Performance Analysis of UNet and Variants for Medical Image Segmentation**, Walid Ehab et.al., Paper: [http://arxiv.org/abs/2309.13013v1](http://arxiv.org/abs/2309.13013v1)
+- 2023-09-22, **Pursuing Counterfactual Fairness via Sequential Autoencoder Across Domains**, Yujie Lin et.al., Paper: [http://arxiv.org/abs/2309.13005v1](http://arxiv.org/abs/2309.13005v1)
+- 2023-09-22, **Braid groups, elliptic curves, and resolving the quartic**, Peter Huxford et.al., Paper: [http://arxiv.org/abs/2309.12999v1](http://arxiv.org/abs/2309.12999v1)
+- 2023-09-22, **License Plate Recognition Based On Multi-Angle View Model**, Dat Tran-Anh et.al., Paper: [http://arxiv.org/abs/2309.12972v1](http://arxiv.org/abs/2309.12972v1)
+- 2023-09-22, **PI-RADS v2 Compliant Automated Segmentation of Prostate Zones Using co-training Motivated Multi-task Dual-Path CNN**, Arnab Das et.al., Paper: [http://arxiv.org/abs/2309.12970v1](http://arxiv.org/abs/2309.12970v1)
+- 2023-09-22, **Detect Every Thing with Few Examples**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2309.12969v1](http://arxiv.org/abs/2309.12969v1), Code: **[https://github.com/mlzxy/devit](https://github.com/mlzxy/devit)**
+- 2023-09-22, **Massive End-to-end Models for Short Search Queries**, Weiran Wang et.al., Paper: [http://arxiv.org/abs/2309.12963v1](http://arxiv.org/abs/2309.12963v1)
 - 2023-09-21, **ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**, Jeremy A. Collins et.al., Paper: [http://arxiv.org/abs/2309.12312v1](http://arxiv.org/abs/2309.12312v1)
 - 2023-09-21, **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**, Jianing Yang et.al., Paper: [http://arxiv.org/abs/2309.12311v1](http://arxiv.org/abs/2309.12311v1)
 - 2023-09-21, **TalkNCE: Improving Active Speaker Detection with Talk-Aware Contrastive Learning**, Chaeyoung Jung et.al., Paper: [http://arxiv.org/abs/2309.12306v1](http://arxiv.org/abs/2309.12306v1)
@@ -3255,6 +3265,15 @@
 
 ## MultiModal
 
+- 2023-09-22, **Massive End-to-end Models for Short Search Queries**, Weiran Wang et.al., Paper: [http://arxiv.org/abs/2309.12963v1](http://arxiv.org/abs/2309.12963v1)
+- 2023-09-22, **Cross-Modal Translation and Alignment for Survival Analysis**, Fengtao Zhou et.al., Paper: [http://arxiv.org/abs/2309.12855v1](http://arxiv.org/abs/2309.12855v1), Code: **[https://github.com/ft-zhou-zzz/cmta](https://github.com/ft-zhou-zzz/cmta)**
+- 2023-09-22, **SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**, Tianbo Pan et.al., Paper: [http://arxiv.org/abs/2309.12842v1](http://arxiv.org/abs/2309.12842v1)
+- 2023-09-22, **mixed attention auto encoder for multi-class industrial anomaly detection**, Jiangqi Liu et.al., Paper: [http://arxiv.org/abs/2309.12700v1](http://arxiv.org/abs/2309.12700v1)
+- 2023-09-22, **Decision Fusion Network with Perception Fine-tuning for Defect Classification**, Xiaoheng Jiang et.al., Paper: [http://arxiv.org/abs/2309.12630v1](http://arxiv.org/abs/2309.12630v1)
+- 2023-09-22, **BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection**, Ming Kang et.al., Paper: [http://arxiv.org/abs/2309.12585v1](http://arxiv.org/abs/2309.12585v1), Code: **[https://github.com/mkang315/bgf-yolo](https://github.com/mkang315/bgf-yolo)**
+- 2023-09-21, **Quantum Computing Perspective for Electromagnetic Wave Propagation in Cold Magnetized Plasmas**, Efstratios Koukoutsis et.al., Paper: [http://arxiv.org/abs/2309.12492v1](http://arxiv.org/abs/2309.12492v1)
+- 2023-09-21, **Impact of architecture on robustness and interpretability of multispectral deep neural networks**, Charles Godfrey et.al., Paper: [http://arxiv.org/abs/2309.12463v1](http://arxiv.org/abs/2309.12463v1)
+- 2023-09-21, **DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion**, Zhenzhen Chu et.al., Paper: [http://arxiv.org/abs/2309.12424v1](http://arxiv.org/abs/2309.12424v1)
 - 2023-09-21, **SlowFast Network for Continuous Sign Language Recognition**, Junseok Ahn et.al., Paper: [http://arxiv.org/abs/2309.12304v1](http://arxiv.org/abs/2309.12304v1)
 - 2023-09-21, **Dynamically Assisted Tunneling in the Floquet Picture**, Daniil Ryndyk et.al., Paper: [http://arxiv.org/abs/2309.12205v1](http://arxiv.org/abs/2309.12205v1)
 - 2023-09-21, **Improving GPS-VIO Fusion with Adaptive Rotational Calibration**, Junlin Song et.al., Paper: [http://arxiv.org/abs/2309.12005v1](http://arxiv.org/abs/2309.12005v1)
