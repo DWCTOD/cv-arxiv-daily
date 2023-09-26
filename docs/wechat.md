@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-25, **Extreme Parkour with Legged Robots**, Xuxin Cheng et.al., Paper: [http://arxiv.org/abs/2309.14341v1](http://arxiv.org/abs/2309.14341v1)
+- 2023-09-25, **Chop & Learn: Recognizing and Generating Object-State Compositions**, Nirat Saini et.al., Paper: [http://arxiv.org/abs/2309.14339v1](http://arxiv.org/abs/2309.14339v1)
+- 2023-09-25, **Human-Assisted Continual Robot Learning with Foundation Models**, Meenal Parakh et.al., Paper: [http://arxiv.org/abs/2309.14321v1](http://arxiv.org/abs/2309.14321v1)
+- 2023-09-25, **MUTEX: Learning Unified Policies from Multimodal Task Specifications**, Rutav Shah et.al., Paper: [http://arxiv.org/abs/2309.14320v1](http://arxiv.org/abs/2309.14320v1)
+- 2023-09-25, **DeepMesh: Mesh-based Cardiac Motion Tracking using Deep Learning**, Qingjie Meng et.al., Paper: [http://arxiv.org/abs/2309.14306v1](http://arxiv.org/abs/2309.14306v1)
+- 2023-09-25, **NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**, Saeejith Nair et.al., Paper: [http://arxiv.org/abs/2309.14293v1](http://arxiv.org/abs/2309.14293v1)
+- 2023-09-25, **CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**, Monika Wysoczańska et.al., Paper: [http://arxiv.org/abs/2309.14289v1](http://arxiv.org/abs/2309.14289v1)
+- 2023-09-25, **Comparison of One- Two- and Three- Dimensional CNN models for Drawing-Test-Based Diagnostics of the Parkinson's Disease**, Xuechao Wang et.al., Paper: [http://arxiv.org/abs/2309.14288v1](http://arxiv.org/abs/2309.14288v1)
+- 2023-09-25, **Virtual hyperspectral images using symmetric autoencoders**, Archisman Bhattacharjee et.al., Paper: [http://arxiv.org/abs/2309.14286v1](http://arxiv.org/abs/2309.14286v1)
+- 2023-09-25, **OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding**, Hao Peng et.al., Paper: [http://arxiv.org/abs/2309.14258v1](http://arxiv.org/abs/2309.14258v1), Code: **[https://github.com/thu-keg/omnievent](https://github.com/thu-keg/omnievent)**
 - 2023-09-22, **Robotic Offline RL from Internet Videos via Value-Function Pre-Training**, Chethan Bhateja et.al., Paper: [http://arxiv.org/abs/2309.13041v1](http://arxiv.org/abs/2309.13041v1)
 - 2023-09-22, **Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?**, Xiaoxiao Sun et.al., Paper: [http://arxiv.org/abs/2309.13038v1](http://arxiv.org/abs/2309.13038v1)
 - 2023-09-22, **Encoding optimization for quantum machine learning demonstrated on a superconducting transmon qutrit**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2309.13036v1](http://arxiv.org/abs/2309.13036v1)
@@ -3265,6 +3275,16 @@
 
 ## MultiModal
 
+- 2023-09-25, **LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference**, Hongwu Peng et.al., Paper: [http://arxiv.org/abs/2309.14331v1](http://arxiv.org/abs/2309.14331v1), Code: **[https://github.com/harveyp123/lingcn-neurips23](https://github.com/harveyp123/lingcn-neurips23)**
+- 2023-09-25, **Innovative Digital Storytelling with AIGC: Exploration and Discussion of Recent Advances**, Rongzhang Gu et.al., Paper: [http://arxiv.org/abs/2309.14329v1](http://arxiv.org/abs/2309.14329v1)
+- 2023-09-25, **Spring-IMU Fusion Based Proprioception for Feedback Control of Soft Manipulators**, Yinan Meng et.al., Paper: [http://arxiv.org/abs/2309.14279v1](http://arxiv.org/abs/2309.14279v1)
+- 2023-09-25, **On the Relation between Internal Language Model and Sequence Discriminative Training for Neural Transducers**, Zijian Yang et.al., Paper: [http://arxiv.org/abs/2309.14130v1](http://arxiv.org/abs/2309.14130v1)
+- 2023-09-25, **Driving behavior-guided battery health monitoring for electric vehicles using machine learning**, Nanhua Jiang et.al., Paper: [http://arxiv.org/abs/2309.14125v1](http://arxiv.org/abs/2309.14125v1)
+- 2023-09-25, **MultiModN- Multimodal, Multi-Task, Interpretable Modular Networks**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2309.14118v1](http://arxiv.org/abs/2309.14118v1), Code: **[https://github.com/epfl-iglobalhealth/multimodn](https://github.com/epfl-iglobalhealth/multimodn)**
+- 2023-09-25, **AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**, Siqi Du et.al., Paper: [http://arxiv.org/abs/2309.14065v1](http://arxiv.org/abs/2309.14065v1), Code: **[https://github.com/Fourier7754/AsymFormer](https://github.com/Fourier7754/AsymFormer)**
+- 2023-09-25, **ANSYS HFSS as a new numerical tool to study wave propagation inside anisotropic magnetized plasmas in the Ion Cylotron Range of Frequencies**, V. Maquet et.al., Paper: [http://arxiv.org/abs/2309.14015v1](http://arxiv.org/abs/2309.14015v1)
+- 2023-09-25, **CFT correlators and mapping class group averages**, Iordanis Romaidis et.al., Paper: [http://arxiv.org/abs/2309.14000v1](http://arxiv.org/abs/2309.14000v1)
+- 2023-09-25, **Egocentric RGB+Depth Action Recognition in Industry-Like Settings**, Jyoti Kini et.al., Paper: [http://arxiv.org/abs/2309.13962v1](http://arxiv.org/abs/2309.13962v1)
 - 2023-09-22, **Massive End-to-end Models for Short Search Queries**, Weiran Wang et.al., Paper: [http://arxiv.org/abs/2309.12963v1](http://arxiv.org/abs/2309.12963v1)
 - 2023-09-22, **Cross-Modal Translation and Alignment for Survival Analysis**, Fengtao Zhou et.al., Paper: [http://arxiv.org/abs/2309.12855v1](http://arxiv.org/abs/2309.12855v1), Code: **[https://github.com/ft-zhou-zzz/cmta](https://github.com/ft-zhou-zzz/cmta)**
 - 2023-09-22, **SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**, Tianbo Pan et.al., Paper: [http://arxiv.org/abs/2309.12842v1](http://arxiv.org/abs/2309.12842v1)
