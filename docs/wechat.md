@@ -1,4 +1,4 @@
-> Updated on 2023.09.25
+> Updated on 2023.09.26
 
 ## Video_Classification
 
@@ -3272,7 +3272,7 @@
 - 2023-09-22, **Decision Fusion Network with Perception Fine-tuning for Defect Classification**, Xiaoheng Jiang et.al., Paper: [http://arxiv.org/abs/2309.12630v1](http://arxiv.org/abs/2309.12630v1)
 - 2023-09-22, **BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection**, Ming Kang et.al., Paper: [http://arxiv.org/abs/2309.12585v1](http://arxiv.org/abs/2309.12585v1), Code: **[https://github.com/mkang315/bgf-yolo](https://github.com/mkang315/bgf-yolo)**
 - 2023-09-21, **Quantum Computing Perspective for Electromagnetic Wave Propagation in Cold Magnetized Plasmas**, Efstratios Koukoutsis et.al., Paper: [http://arxiv.org/abs/2309.12492v1](http://arxiv.org/abs/2309.12492v1)
-- 2023-09-21, **Impact of architecture on robustness and interpretability of multispectral deep neural networks**, Charles Godfrey et.al., Paper: [http://arxiv.org/abs/2309.12463v1](http://arxiv.org/abs/2309.12463v1)
+- 2023-09-21, **Impact of architecture on robustness and interpretability of multispectral deep neural networks**, Charles Godfrey et.al., Paper: [http://arxiv.org/abs/2309.12463v1](http://arxiv.org/abs/2309.12463v1), Code: **[https://github.com/hendrycks/robustness](https://github.com/hendrycks/robustness)**
 - 2023-09-21, **DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion**, Zhenzhen Chu et.al., Paper: [http://arxiv.org/abs/2309.12424v1](http://arxiv.org/abs/2309.12424v1)
 - 2023-09-21, **SlowFast Network for Continuous Sign Language Recognition**, Junseok Ahn et.al., Paper: [http://arxiv.org/abs/2309.12304v1](http://arxiv.org/abs/2309.12304v1)
 - 2023-09-21, **Dynamically Assisted Tunneling in the Floquet Picture**, Daniil Ryndyk et.al., Paper: [http://arxiv.org/abs/2309.12205v1](http://arxiv.org/abs/2309.12205v1)
