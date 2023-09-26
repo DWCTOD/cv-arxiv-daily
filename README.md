@@ -3274,7 +3274,7 @@
 |**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842v1](http://arxiv.org/abs/2309.12842v1)|null|
 |**2023-09-22**|**mixed attention auto encoder for multi-class industrial anomaly detection**|Jiangqi Liu et.al.|[2309.12700v1](http://arxiv.org/abs/2309.12700v1)|null|
 |**2023-09-22**|**Decision Fusion Network with Perception Fine-tuning for Defect Classification**|Xiaoheng Jiang et.al.|[2309.12630v1](http://arxiv.org/abs/2309.12630v1)|null|
-|**2023-09-22**|**BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection**|Ming Kang et.al.|[2309.12585v1](http://arxiv.org/abs/2309.12585v1)|**[link](https://github.com/mkang315/bgf-yolo)**|
+|**2023-09-25**|**BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection**|Ming Kang et.al.|[2309.12585v2](http://arxiv.org/abs/2309.12585v2)|**[link](https://github.com/mkang315/bgf-yolo)**|
 |**2023-09-21**|**Quantum Computing Perspective for Electromagnetic Wave Propagation in Cold Magnetized Plasmas**|Efstratios Koukoutsis et.al.|[2309.12492v1](http://arxiv.org/abs/2309.12492v1)|null|
 |**2023-09-21**|**Impact of architecture on robustness and interpretability of multispectral deep neural networks**|Charles Godfrey et.al.|[2309.12463v1](http://arxiv.org/abs/2309.12463v1)|**[link](https://github.com/hendrycks/robustness)**|
 |**2023-09-21**|**DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion**|Zhenzhen Chu et.al.|[2309.12424v1](http://arxiv.org/abs/2309.12424v1)|null|
