@@ -1,4 +1,4 @@
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
 |**2023-09-25**|**CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**|Monika Wysoczańska et.al.|[2309.14289v1](http://arxiv.org/abs/2309.14289v1)|null|
 |**2023-09-25**|**Comparison of One- Two- and Three- Dimensional CNN models for Drawing-Test-Based Diagnostics of the Parkinson's Disease**|Xuechao Wang et.al.|[2309.14288v1](http://arxiv.org/abs/2309.14288v1)|null|
-|**2023-09-25**|**Virtual hyperspectral images using symmetric autoencoders**|Archisman Bhattacharjee et.al.|[2309.14286v1](http://arxiv.org/abs/2309.14286v1)|null|
+|**2023-09-26**|**Virtual Hyperspectral Images Using Symmetric Autoencoders**|Archisman Bhattacharjee et.al.|[2309.14286v2](http://arxiv.org/abs/2309.14286v2)|null|
 |**2023-09-25**|**OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding**|Hao Peng et.al.|[2309.14258v1](http://arxiv.org/abs/2309.14258v1)|**[link](https://github.com/thu-keg/omnievent)**|
 |**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041v1](http://arxiv.org/abs/2309.13041v1)|null|
 |**2023-09-22**|**Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?**|Xiaoxiao Sun et.al.|[2309.13038v1](http://arxiv.org/abs/2309.13038v1)|null|
@@ -3285,7 +3285,7 @@
 |**2023-09-25**|**On the Relation between Internal Language Model and Sequence Discriminative Training for Neural Transducers**|Zijian Yang et.al.|[2309.14130v1](http://arxiv.org/abs/2309.14130v1)|null|
 |**2023-09-25**|**Driving behavior-guided battery health monitoring for electric vehicles using machine learning**|Nanhua Jiang et.al.|[2309.14125v1](http://arxiv.org/abs/2309.14125v1)|null|
 |**2023-09-25**|**MultiModN- Multimodal, Multi-Task, Interpretable Modular Networks**|Vinitra Swamy et.al.|[2309.14118v1](http://arxiv.org/abs/2309.14118v1)|**[link](https://github.com/epfl-iglobalhealth/multimodn)**|
-|**2023-09-25**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065v1](http://arxiv.org/abs/2309.14065v1)|**[link](https://github.com/Fourier7754/AsymFormer)**|
+|**2023-09-26**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065v2](http://arxiv.org/abs/2309.14065v2)|**[link](https://github.com/Fourier7754/AsymFormer)**|
 |**2023-09-25**|**ANSYS HFSS as a new numerical tool to study wave propagation inside anisotropic magnetized plasmas in the Ion Cylotron Range of Frequencies**|V. Maquet et.al.|[2309.14015v1](http://arxiv.org/abs/2309.14015v1)|null|
 |**2023-09-25**|**CFT correlators and mapping class group averages**|Iordanis Romaidis et.al.|[2309.14000v1](http://arxiv.org/abs/2309.14000v1)|null|
 |**2023-09-25**|**Egocentric RGB+Depth Action Recognition in Industry-Like Settings**|Jyoti Kini et.al.|[2309.13962v1](http://arxiv.org/abs/2309.13962v1)|null|
