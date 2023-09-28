@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-27, **SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**, Sharath Girish et.al., Paper: [http://arxiv.org/abs/2309.15848v1](http://arxiv.org/abs/2309.15848v1)
+- 2023-09-27, **Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**, Brian Yan et.al., Paper: [http://arxiv.org/abs/2309.15826v1](http://arxiv.org/abs/2309.15826v1)
+- 2023-09-27, **Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**, David Junhao Zhang et.al., Paper: [http://arxiv.org/abs/2309.15818v1](http://arxiv.org/abs/2309.15818v1), Code: **[https://github.com/showlab/show-1](https://github.com/showlab/show-1)**
+- 2023-09-27, **Convolutional Networks with Oriented 1D Kernels**, Alexandre Kirchmeyer et.al., Paper: [http://arxiv.org/abs/2309.15812v1](http://arxiv.org/abs/2309.15812v1), Code: **[https://github.com/princeton-vl/oriented1d](https://github.com/princeton-vl/oriented1d)**
+- 2023-09-27, **A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**, M. Martínez-Felipe et.al., Paper: [http://arxiv.org/abs/2309.15792v1](http://arxiv.org/abs/2309.15792v1)
+- 2023-09-27, **Large Language Model Routing with Benchmark Datasets**, Tal Shnitzer et.al., Paper: [http://arxiv.org/abs/2309.15789v1](http://arxiv.org/abs/2309.15789v1)
+- 2023-09-27, **One For All: Video Conversation is Feasible Without Video Instruction Tuning**, Ruyang Liu et.al., Paper: [http://arxiv.org/abs/2309.15785v1](http://arxiv.org/abs/2309.15785v1)
+- 2023-09-27, **Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback**, Teresa Yeo et.al., Paper: [http://arxiv.org/abs/2309.15762v1](http://arxiv.org/abs/2309.15762v1)
+- 2023-09-27, **Automated CT Lung Cancer Screening Workflow using 3D Camera**, Brian Teixeira et.al., Paper: [http://arxiv.org/abs/2309.15750v1](http://arxiv.org/abs/2309.15750v1)
+- 2023-09-27, **Data-Driven Latent Space Representation for Robust Bipedal Locomotion Learning**, Guillermo A. Castillo et.al., Paper: [http://arxiv.org/abs/2309.15740v1](http://arxiv.org/abs/2309.15740v1)
 - 2023-09-26, **Classification of symmetry-enriched topological quantum spin liquids**, Weicheng Ye et.al., Paper: [http://arxiv.org/abs/2309.15118v1](http://arxiv.org/abs/2309.15118v1)
 - 2023-09-26, **Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**, Zhenyu Jiang et.al., Paper: [http://arxiv.org/abs/2309.15110v1](http://arxiv.org/abs/2309.15110v1)
 - 2023-09-27, **LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2309.15103v2](http://arxiv.org/abs/2309.15103v2)
@@ -3285,6 +3295,16 @@
 
 ## MultiModal
 
+- 2023-09-27, **Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence**, Norman M. Cao et.al., Paper: [http://arxiv.org/abs/2309.15764v1](http://arxiv.org/abs/2309.15764v1)
+- 2023-09-27, **Deep Model Fusion: A Survey**, Weishi Li et.al., Paper: [http://arxiv.org/abs/2309.15698v1](http://arxiv.org/abs/2309.15698v1)
+- 2023-09-27, **Physics Inspired Hybrid Attention for SAR Target Recognition**, Zhongling Huang et.al., Paper: [http://arxiv.org/abs/2309.15697v1](http://arxiv.org/abs/2309.15697v1), Code: **[https://github.com/xai4sar/piha](https://github.com/xai4sar/piha)**
+- 2023-09-27, **Position and Orientation-Aware One-Shot Learning for Medical Action Recognition from Signal Data**, Leiyu Xie et.al., Paper: [http://arxiv.org/abs/2309.15635v1](http://arxiv.org/abs/2309.15635v1)
+- 2023-09-27, **Perception for Humanoid Robots**, Arindam Roychoudhury et.al., Paper: [http://arxiv.org/abs/2309.15616v1](http://arxiv.org/abs/2309.15616v1)
+- 2023-09-27, **Dispersive determination of fourth generation quark masses**, Hsiang-nan Li et.al., Paper: [http://arxiv.org/abs/2309.15602v1](http://arxiv.org/abs/2309.15602v1)
+- 2023-09-27, **OceanBench: The Sea Surface Height Edition**, J. Emmanuel Johnson et.al., Paper: [http://arxiv.org/abs/2309.15599v1](http://arxiv.org/abs/2309.15599v1), Code: **[https://github.com/jejjohnson/oceanbench](https://github.com/jejjohnson/oceanbench)**
+- 2023-09-27, **Correcting for cutoff dependence in backward evolution of QCD parton showers**, Stefano Frixione et.al., Paper: [http://arxiv.org/abs/2309.15587v1](http://arxiv.org/abs/2309.15587v1)
+- 2023-09-27, **HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V**, Yuhang Liu et.al., Paper: [http://arxiv.org/abs/2309.15572v1](http://arxiv.org/abs/2309.15572v1)
+- 2023-09-27, **Dynamical mechanism of fusion hindrance in heavy ion collisions**, S. Amano et.al., Paper: [http://arxiv.org/abs/2309.15549v1](http://arxiv.org/abs/2309.15549v1)
 - 2023-09-26, **DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**, Zeyu Wang et.al., Paper: [http://arxiv.org/abs/2309.15109v1](http://arxiv.org/abs/2309.15109v1)
 - 2023-09-26, **New solution to Airy's equation for modeling beams near turning points**, N. A. Lopez et.al., Paper: [http://arxiv.org/abs/2309.15108v1](http://arxiv.org/abs/2309.15108v1)
 - 2023-09-26, **RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**, Zhexiong Wan et.al., Paper: [http://arxiv.org/abs/2309.15082v1](http://arxiv.org/abs/2309.15082v1), Code: **[https://github.com/danqu130/RPEFlow](https://github.com/danqu130/RPEFlow)**
