@@ -1,10 +1,10 @@
-> Updated on 2023.09.27
+> Updated on 2023.09.28
 
 ## Video_Classification
 
 - 2023-09-26, **Classification of symmetry-enriched topological quantum spin liquids**, Weicheng Ye et.al., Paper: [http://arxiv.org/abs/2309.15118v1](http://arxiv.org/abs/2309.15118v1)
 - 2023-09-26, **Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**, Zhenyu Jiang et.al., Paper: [http://arxiv.org/abs/2309.15110v1](http://arxiv.org/abs/2309.15110v1)
-- 2023-09-26, **LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2309.15103v1](http://arxiv.org/abs/2309.15103v1)
+- 2023-09-27, **LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2309.15103v2](http://arxiv.org/abs/2309.15103v2)
 - 2023-09-26, **VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**, Han Lin et.al., Paper: [http://arxiv.org/abs/2309.15091v1](http://arxiv.org/abs/2309.15091v1)
 - 2023-09-26, **Video-adverb retrieval with compositional adverb-action embeddings**, Thomas Hummel et.al., Paper: [http://arxiv.org/abs/2309.15086v1](http://arxiv.org/abs/2309.15086v1)
 - 2023-09-26, **Challenges of building medical image datasets for development of deep learning software in stroke**, Alessandro Fontanella et.al., Paper: [http://arxiv.org/abs/2309.15081v1](http://arxiv.org/abs/2309.15081v1)
