@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v1](http://arxiv.org/abs/2309.16671v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670v1](http://arxiv.org/abs/2309.16670v1)|null|
+|**2023-09-28**|**Training a Large Video Model on a Single Machine in a Day**|Yue Zhao et.al.|[2309.16669v1](http://arxiv.org/abs/2309.16669v1)|**[link](https://github.com/zhaoyue-zephyrus/avion)**|
+|**2023-09-28**|**Novel Deep Learning Pipeline for Automatic Weapon Detection**|Haribharathi Sivakumar et.al.|[2309.16654v1](http://arxiv.org/abs/2309.16654v1)|null|
+|**2023-09-28**|**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**|Qiao Gu et.al.|[2309.16650v1](http://arxiv.org/abs/2309.16650v1)|null|
+|**2023-09-28**|**Mixup Your Own Pairs**|Yilei Wu et.al.|[2309.16633v1](http://arxiv.org/abs/2309.16633v1)|**[link](https://github.com/yilei-wu/supremix)**|
+|**2023-09-28**|**Class Activation Map-based Weakly supervised Hemorrhage Segmentation using Resnet-LSTM in Non-Contrast Computed Tomography images**|Shreyas H Ramananda et.al.|[2309.16627v1](http://arxiv.org/abs/2309.16627v1)|null|
+|**2023-09-28**|**The twisting index in semitoric systems**|Jaume Alonso et.al.|[2309.16614v1](http://arxiv.org/abs/2309.16614v1)|null|
+|**2023-09-28**|**Exploiting Edge Features in Graphs with Fused Network Gromov-Wasserstein Distance**|Junjie Yang et.al.|[2309.16604v1](http://arxiv.org/abs/2309.16604v1)|null|
+|**2023-09-28**|**Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why**|Jin Huang et.al.|[2309.16595v1](http://arxiv.org/abs/2309.16595v1)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848v1](http://arxiv.org/abs/2309.15848v1)|null|
 |**2023-09-27**|**Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**|Brian Yan et.al.|[2309.15826v1](http://arxiv.org/abs/2309.15826v1)|null|
 |**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818v1](http://arxiv.org/abs/2309.15818v1)|**[link](https://github.com/showlab/show-1)**|
@@ -3303,6 +3313,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Folding QQ-relations and transfer matrix eigenvalues: towards a unified approach to Bethe ansatz for super spin chains**|Zengo Tsuboi et.al.|[2309.16660v1](http://arxiv.org/abs/2309.16660v1)|null|
+|**2023-09-28**|**Deep Geometrized Cartoon Line Inbetweening**|Li Siyao et.al.|[2309.16643v1](http://arxiv.org/abs/2309.16643v1)|**[link](https://github.com/lisiyao21/animeinbet)**|
+|**2023-09-28**|**Audio-Visual Speaker Verification via Joint Cross-Attention**|R. Gnana Praveen et.al.|[2309.16569v1](http://arxiv.org/abs/2309.16569v1)|null|
+|**2023-09-28**|**Voting Network for Contour Levee Farmland Segmentation and Classification**|Abolfazl Meyarian et.al.|[2309.16561v1](http://arxiv.org/abs/2309.16561v1)|null|
+|**2023-09-28**|**Connection formulae for the radial Toda equations I**|Martin A. Guest et.al.|[2309.16550v1](http://arxiv.org/abs/2309.16550v1)|null|
+|**2023-09-28**|**Deep Single Models vs. Ensembles: Insights for a Fast Deployment of Parking Monitoring Systems**|Andre Gustavo Hochuli et.al.|[2309.16495v1](http://arxiv.org/abs/2309.16495v1)|null|
+|**2023-09-28**|**Spin Drude weight for the integrable XXZ chain with arbitrary spin**|Shinya Ae et.al.|[2309.16462v1](http://arxiv.org/abs/2309.16462v1)|null|
+|**2023-09-28**|**Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4**|Mehrdad Kaheh et.al.|[2309.16422v1](http://arxiv.org/abs/2309.16422v1)|null|
+|**2023-09-28**|**HIC-YOLOv5: Improved YOLOv5 For Small Object Detection**|Shiyi Tang et.al.|[2309.16393v1](http://arxiv.org/abs/2309.16393v1)|null|
+|**2023-09-28**|**Regularization and Model Selection for Item-on-Items Regression with Applications to Food Products' Survey Data**|Aisouda Hoshiyar et.al.|[2309.16373v1](http://arxiv.org/abs/2309.16373v1)|null|
 |**2023-09-27**|**Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence**|Norman M. Cao et.al.|[2309.15764v1](http://arxiv.org/abs/2309.15764v1)|null|
 |**2023-09-27**|**Deep Model Fusion: A Survey**|Weishi Li et.al.|[2309.15698v1](http://arxiv.org/abs/2309.15698v1)|null|
 |**2023-09-27**|**Physics Inspired Hybrid Attention for SAR Target Recognition**|Zhongling Huang et.al.|[2309.15697v1](http://arxiv.org/abs/2309.15697v1)|**[link](https://github.com/xai4sar/piha)**|
