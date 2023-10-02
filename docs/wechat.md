@@ -1,13 +1,13 @@
-> Updated on 2023.10.01
+> Updated on 2023.10.02
 
 ## Video_Classification
 
-- 2023-09-28, **Demystifying CLIP Data**, Hu Xu et.al., Paper: [http://arxiv.org/abs/2309.16671v1](http://arxiv.org/abs/2309.16671v1), Code: **[https://github.com/facebookresearch/metaclip](https://github.com/facebookresearch/metaclip)**
+- 2023-09-29, **Demystifying CLIP Data**, Hu Xu et.al., Paper: [http://arxiv.org/abs/2309.16671v2](http://arxiv.org/abs/2309.16671v2), Code: **[https://github.com/facebookresearch/metaclip](https://github.com/facebookresearch/metaclip)**
 - 2023-09-28, **Decaf: Monocular Deformation Capture for Face and Hand Interactions**, Soshi Shimada et.al., Paper: [http://arxiv.org/abs/2309.16670v1](http://arxiv.org/abs/2309.16670v1)
 - 2023-09-28, **Training a Large Video Model on a Single Machine in a Day**, Yue Zhao et.al., Paper: [http://arxiv.org/abs/2309.16669v1](http://arxiv.org/abs/2309.16669v1), Code: **[https://github.com/zhaoyue-zephyrus/avion](https://github.com/zhaoyue-zephyrus/avion)**
 - 2023-09-28, **Novel Deep Learning Pipeline for Automatic Weapon Detection**, Haribharathi Sivakumar et.al., Paper: [http://arxiv.org/abs/2309.16654v1](http://arxiv.org/abs/2309.16654v1)
 - 2023-09-28, **ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**, Qiao Gu et.al., Paper: [http://arxiv.org/abs/2309.16650v1](http://arxiv.org/abs/2309.16650v1)
-- 2023-09-28, **Mixup Your Own Pairs**, Yilei Wu et.al., Paper: [http://arxiv.org/abs/2309.16633v1](http://arxiv.org/abs/2309.16633v1), Code: **[https://github.com/yilei-wu/supremix](https://github.com/yilei-wu/supremix)**
+- 2023-09-29, **Mixup Your Own Pairs**, Yilei Wu et.al., Paper: [http://arxiv.org/abs/2309.16633v2](http://arxiv.org/abs/2309.16633v2), Code: **[https://github.com/yilei-wu/supremix](https://github.com/yilei-wu/supremix)**
 - 2023-09-28, **Class Activation Map-based Weakly supervised Hemorrhage Segmentation using Resnet-LSTM in Non-Contrast Computed Tomography images**, Shreyas H Ramananda et.al., Paper: [http://arxiv.org/abs/2309.16627v1](http://arxiv.org/abs/2309.16627v1)
 - 2023-09-28, **The twisting index in semitoric systems**, Jaume Alonso et.al., Paper: [http://arxiv.org/abs/2309.16614v1](http://arxiv.org/abs/2309.16614v1)
 - 2023-09-28, **Exploiting Edge Features in Graphs with Fused Network Gromov-Wasserstein Distance**, Junjie Yang et.al., Paper: [http://arxiv.org/abs/2309.16604v1](http://arxiv.org/abs/2309.16604v1)
@@ -3314,7 +3314,7 @@
 - 2023-09-28, **Spin Drude weight for the integrable XXZ chain with arbitrary spin**, Shinya Ae et.al., Paper: [http://arxiv.org/abs/2309.16462v1](http://arxiv.org/abs/2309.16462v1)
 - 2023-09-28, **Cyber Sentinel: Exploring Conversational Agents in Streamlining Security Tasks with GPT-4**, Mehrdad Kaheh et.al., Paper: [http://arxiv.org/abs/2309.16422v1](http://arxiv.org/abs/2309.16422v1)
 - 2023-09-28, **HIC-YOLOv5: Improved YOLOv5 For Small Object Detection**, Shiyi Tang et.al., Paper: [http://arxiv.org/abs/2309.16393v1](http://arxiv.org/abs/2309.16393v1)
-- 2023-09-28, **Regularization and Model Selection for Item-on-Items Regression with Applications to Food Products' Survey Data**, Aisouda Hoshiyar et.al., Paper: [http://arxiv.org/abs/2309.16373v1](http://arxiv.org/abs/2309.16373v1)
+- 2023-09-28, **Regularization and Model Selection for Item-on-Items Regression with Applications to Food Products' Survey Data**, Aisouda Hoshiyar et.al., Paper: [http://arxiv.org/abs/2309.16373v1](http://arxiv.org/abs/2309.16373v1), Code: **[https://github.com/ahoshiyar/ordPens](https://github.com/ahoshiyar/ordPens)**
 - 2023-09-27, **Nearly integrable flows and chaotic tangles in the Dimits shift regime of plasma edge turbulence**, Norman M. Cao et.al., Paper: [http://arxiv.org/abs/2309.15764v1](http://arxiv.org/abs/2309.15764v1)
 - 2023-09-27, **Deep Model Fusion: A Survey**, Weishi Li et.al., Paper: [http://arxiv.org/abs/2309.15698v1](http://arxiv.org/abs/2309.15698v1)
 - 2023-09-27, **Physics Inspired Hybrid Attention for SAR Target Recognition**, Zhongling Huang et.al., Paper: [http://arxiv.org/abs/2309.15697v1](http://arxiv.org/abs/2309.15697v1), Code: **[https://github.com/xai4sar/piha](https://github.com/xai4sar/piha)**
