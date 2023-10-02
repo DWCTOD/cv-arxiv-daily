@@ -8,7 +8,7 @@
 - 2023-09-29, **CNN-based automatic segmentation of Lumen & Media boundaries in IVUS images using closed polygonal chains**, Pavel Sinha et.al., Paper: [http://arxiv.org/abs/2309.17406v1](http://arxiv.org/abs/2309.17406v1)
 - 2023-09-29, **AV-CPL: Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**, Andrew Rouditchenko et.al., Paper: [http://arxiv.org/abs/2309.17395v1](http://arxiv.org/abs/2309.17395v1)
 - 2023-09-29, **Tree Cross Attention**, Leo Feng et.al., Paper: [http://arxiv.org/abs/2309.17388v1](http://arxiv.org/abs/2309.17388v1)
-- 2023-09-29, **Adversarial Imitation Learning from Visual Observations using Latent Information**, Vittorio Giammarino et.al., Paper: [http://arxiv.org/abs/2309.17371v1](http://arxiv.org/abs/2309.17371v1)
+- 2023-09-29, **Adversarial Imitation Learning from Visual Observations using Latent Information**, Vittorio Giammarino et.al., Paper: [http://arxiv.org/abs/2309.17371v1](http://arxiv.org/abs/2309.17371v1), Code: **[https://github.com/vittoriogiammarino/ail_from_visual_obs](https://github.com/vittoriogiammarino/ail_from_visual_obs)**
 - 2023-09-29, **SpinView: General interactive visual analysis tool for multiscale computational magnetism**, Qichen Xu et.al., Paper: [http://arxiv.org/abs/2309.17367v1](http://arxiv.org/abs/2309.17367v1)
 - 2023-09-29, **Asynchronous Graph Generators**, Christopher P. Ley et.al., Paper: [http://arxiv.org/abs/2309.17335v1](http://arxiv.org/abs/2309.17335v1)
 - 2023-09-29, **Multi-Depth Branches Network for Efficient Image Super-Resolution**, Huiyuan Tian et.al., Paper: [http://arxiv.org/abs/2309.17334v1](http://arxiv.org/abs/2309.17334v1), Code: **[https://github.com/thy960112/mdbn](https://github.com/thy960112/mdbn)**
