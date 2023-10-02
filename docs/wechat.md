@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-09-29, **A Large Language Model Approach to Educational Survey Feedback Analysis**, Michael J. Parker et.al., Paper: [http://arxiv.org/abs/2309.17447v1](http://arxiv.org/abs/2309.17447v1)
+- 2023-09-29, **LLM-grounded Video Diffusion Models**, Long Lian et.al., Paper: [http://arxiv.org/abs/2309.17444v1](http://arxiv.org/abs/2309.17444v1)
+- 2023-09-29, **Classification of Potholes Based on Surface Area Using Pre-Trained Models of Convolutional Neural Network**, Chauhdary Fazeel Ahmad et.al., Paper: [http://arxiv.org/abs/2309.17426v1](http://arxiv.org/abs/2309.17426v1)
+- 2023-09-29, **CNN-based automatic segmentation of Lumen & Media boundaries in IVUS images using closed polygonal chains**, Pavel Sinha et.al., Paper: [http://arxiv.org/abs/2309.17406v1](http://arxiv.org/abs/2309.17406v1)
+- 2023-09-29, **AV-CPL: Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**, Andrew Rouditchenko et.al., Paper: [http://arxiv.org/abs/2309.17395v1](http://arxiv.org/abs/2309.17395v1)
+- 2023-09-29, **Tree Cross Attention**, Leo Feng et.al., Paper: [http://arxiv.org/abs/2309.17388v1](http://arxiv.org/abs/2309.17388v1)
+- 2023-09-29, **Adversarial Imitation Learning from Visual Observations using Latent Information**, Vittorio Giammarino et.al., Paper: [http://arxiv.org/abs/2309.17371v1](http://arxiv.org/abs/2309.17371v1)
+- 2023-09-29, **SpinView: General interactive visual analysis tool for multiscale computational magnetism**, Qichen Xu et.al., Paper: [http://arxiv.org/abs/2309.17367v1](http://arxiv.org/abs/2309.17367v1)
+- 2023-09-29, **Asynchronous Graph Generators**, Christopher P. Ley et.al., Paper: [http://arxiv.org/abs/2309.17335v1](http://arxiv.org/abs/2309.17335v1)
+- 2023-09-29, **Multi-Depth Branches Network for Efficient Image Super-Resolution**, Huiyuan Tian et.al., Paper: [http://arxiv.org/abs/2309.17334v1](http://arxiv.org/abs/2309.17334v1), Code: **[https://github.com/thy960112/mdbn](https://github.com/thy960112/mdbn)**
 - 2023-09-29, **Demystifying CLIP Data**, Hu Xu et.al., Paper: [http://arxiv.org/abs/2309.16671v2](http://arxiv.org/abs/2309.16671v2), Code: **[https://github.com/facebookresearch/metaclip](https://github.com/facebookresearch/metaclip)**
 - 2023-09-28, **Decaf: Monocular Deformation Capture for Face and Hand Interactions**, Soshi Shimada et.al., Paper: [http://arxiv.org/abs/2309.16670v1](http://arxiv.org/abs/2309.16670v1)
 - 2023-09-28, **Training a Large Video Model on a Single Machine in a Day**, Yue Zhao et.al., Paper: [http://arxiv.org/abs/2309.16669v1](http://arxiv.org/abs/2309.16669v1), Code: **[https://github.com/zhaoyue-zephyrus/avion](https://github.com/zhaoyue-zephyrus/avion)**
@@ -3305,6 +3315,16 @@
 
 ## MultiModal
 
+- 2023-09-29, **Local Changes in Protein Filament Properties Drive Large-Scale Membrane Transformations Involved in Endosome Tethering and Fusion**, Ashesh Ghosh et.al., Paper: [http://arxiv.org/abs/2309.17434v1](http://arxiv.org/abs/2309.17434v1)
+- 2023-09-29, **Improved stellarator permanent magnet designs through combined discrete and continuous optimizations**, K. C. Hammond et.al., Paper: [http://arxiv.org/abs/2309.17244v1](http://arxiv.org/abs/2309.17244v1)
+- 2023-09-29, **PARF: Primitive-Aware Radiance Fusion for Indoor Scene Novel View Synthesis**, Haiyang Ying et.al., Paper: [http://arxiv.org/abs/2309.17190v1](http://arxiv.org/abs/2309.17190v1)
+- 2023-09-29, **RTFS-Net: Recurrent time-frequency modelling for efficient audio-visual speech separation**, Samuel Pegg et.al., Paper: [http://arxiv.org/abs/2309.17189v1](http://arxiv.org/abs/2309.17189v1)
+- 2023-09-29, **APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds**, Weijie Wei et.al., Paper: [http://arxiv.org/abs/2309.17162v1](http://arxiv.org/abs/2309.17162v1)
+- 2023-09-29, **Benchmarking Collaborative Learning Methods Cost-Effectiveness for Prostate Segmentation**, Lucia Innocenti et.al., Paper: [http://arxiv.org/abs/2309.17097v1](http://arxiv.org/abs/2309.17097v1)
+- 2023-09-29, **GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation**, Naiyu Fang et.al., Paper: [http://arxiv.org/abs/2309.17059v1](http://arxiv.org/abs/2309.17059v1)
+- 2023-09-29, **Motivic factorisation of KZ local systems and deformations of representation and fusion rings**, Prakash Belkale et.al., Paper: [http://arxiv.org/abs/2309.16993v1](http://arxiv.org/abs/2309.16993v1)
+- 2023-09-29, **CrossZoom: Simultaneously Motion Deblurring and Event Super-Resolving**, Chi Zhang et.al., Paper: [http://arxiv.org/abs/2309.16949v1](http://arxiv.org/abs/2309.16949v1)
+- 2023-09-29, **Robust Asynchronous Collaborative 3D Detection via Bird's Eye View Flow**, Sizhe Wei et.al., Paper: [http://arxiv.org/abs/2309.16940v1](http://arxiv.org/abs/2309.16940v1)
 - 2023-09-28, **Folding QQ-relations and transfer matrix eigenvalues: towards a unified approach to Bethe ansatz for super spin chains**, Zengo Tsuboi et.al., Paper: [http://arxiv.org/abs/2309.16660v1](http://arxiv.org/abs/2309.16660v1)
 - 2023-09-28, **Deep Geometrized Cartoon Line Inbetweening**, Li Siyao et.al., Paper: [http://arxiv.org/abs/2309.16643v1](http://arxiv.org/abs/2309.16643v1), Code: **[https://github.com/lisiyao21/animeinbet](https://github.com/lisiyao21/animeinbet)**
 - 2023-09-28, **Audio-Visual Speaker Verification via Joint Cross-Attention**, R. Gnana Praveen et.al., Paper: [http://arxiv.org/abs/2309.16569v1](http://arxiv.org/abs/2309.16569v1)
