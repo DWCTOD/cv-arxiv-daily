@@ -3,7 +3,7 @@
 ## Video_Classification
 
 - 2023-09-29, **A Large Language Model Approach to Educational Survey Feedback Analysis**, Michael J. Parker et.al., Paper: [http://arxiv.org/abs/2309.17447v1](http://arxiv.org/abs/2309.17447v1)
-- 2023-09-29, **LLM-grounded Video Diffusion Models**, Long Lian et.al., Paper: [http://arxiv.org/abs/2309.17444v1](http://arxiv.org/abs/2309.17444v1)
+- 2023-10-02, **LLM-grounded Video Diffusion Models**, Long Lian et.al., Paper: [http://arxiv.org/abs/2309.17444v2](http://arxiv.org/abs/2309.17444v2)
 - 2023-09-29, **Classification of Potholes Based on Surface Area Using Pre-Trained Models of Convolutional Neural Network**, Chauhdary Fazeel Ahmad et.al., Paper: [http://arxiv.org/abs/2309.17426v1](http://arxiv.org/abs/2309.17426v1)
 - 2023-09-29, **CNN-based automatic segmentation of Lumen & Media boundaries in IVUS images using closed polygonal chains**, Pavel Sinha et.al., Paper: [http://arxiv.org/abs/2309.17406v1](http://arxiv.org/abs/2309.17406v1)
 - 2023-09-29, **AV-CPL: Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**, Andrew Rouditchenko et.al., Paper: [http://arxiv.org/abs/2309.17395v1](http://arxiv.org/abs/2309.17395v1)
@@ -3320,7 +3320,7 @@
 - 2023-09-29, **PARF: Primitive-Aware Radiance Fusion for Indoor Scene Novel View Synthesis**, Haiyang Ying et.al., Paper: [http://arxiv.org/abs/2309.17190v1](http://arxiv.org/abs/2309.17190v1)
 - 2023-09-29, **RTFS-Net: Recurrent time-frequency modelling for efficient audio-visual speech separation**, Samuel Pegg et.al., Paper: [http://arxiv.org/abs/2309.17189v1](http://arxiv.org/abs/2309.17189v1)
 - 2023-09-29, **APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds**, Weijie Wei et.al., Paper: [http://arxiv.org/abs/2309.17162v1](http://arxiv.org/abs/2309.17162v1)
-- 2023-09-29, **Benchmarking Collaborative Learning Methods Cost-Effectiveness for Prostate Segmentation**, Lucia Innocenti et.al., Paper: [http://arxiv.org/abs/2309.17097v1](http://arxiv.org/abs/2309.17097v1)
+- 2023-10-02, **Benchmarking Collaborative Learning Methods Cost-Effectiveness for Prostate Segmentation**, Lucia Innocenti et.al., Paper: [http://arxiv.org/abs/2309.17097v2](http://arxiv.org/abs/2309.17097v2)
 - 2023-09-29, **GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation**, Naiyu Fang et.al., Paper: [http://arxiv.org/abs/2309.17059v1](http://arxiv.org/abs/2309.17059v1)
 - 2023-09-29, **Motivic factorisation of KZ local systems and deformations of representation and fusion rings**, Prakash Belkale et.al., Paper: [http://arxiv.org/abs/2309.16993v1](http://arxiv.org/abs/2309.16993v1)
 - 2023-09-29, **CrossZoom: Simultaneously Motion Deblurring and Event Super-Resolving**, Chi Zhang et.al., Paper: [http://arxiv.org/abs/2309.16949v1](http://arxiv.org/abs/2309.16949v1)
