@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**DREAM: Visual Decoding from Reversing Human Visual System**|Weihao Xia et.al.|[2310.02265v1](http://arxiv.org/abs/2310.02265v1)|null|
+|**2023-10-03**|**RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**|Tong Zhao et.al.|[2310.02262v1](http://arxiv.org/abs/2310.02262v1)|null|
+|**2023-10-03**|**Harnessing Pre-Trained Sentence Transformers for Offensive Language Detection in Indian Languages**|Ananya Joshi et.al.|[2310.02249v1](http://arxiv.org/abs/2310.02249v1)|null|
+|**2023-10-03**|**Tensor Programs VI: Feature Learning in Infinite-Depth Neural Networks**|Greg Yang et.al.|[2310.02244v1](http://arxiv.org/abs/2310.02244v1)|null|
+|**2023-10-03**|**MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**|Vinaya Sree Katamneni et.al.|[2310.02234v1](http://arxiv.org/abs/2310.02234v1)|null|
+|**2023-10-03**|**HoloNets: Spectral Convolutions do extend to Directed Graphs**|Christian Koke et.al.|[2310.02232v1](http://arxiv.org/abs/2310.02232v1)|null|
+|**2023-10-03**|**Extraction of Medication and Temporal Relation from Clinical Text by Harnessing Different Deep Learning Models**|Hangyu Tu et.al.|[2310.02229v1](http://arxiv.org/abs/2310.02229v1)|null|
+|**2023-10-03**|**Symmetry-based classification of exact flat bands in single and bilayer moiré systems**|Siddhartha Sarkar et.al.|[2310.02218v1](http://arxiv.org/abs/2310.02218v1)|null|
+|**2023-10-03**|**Learnable Data Augmentation for One-Shot Unsupervised Domain Adaptation**|Julio Ivan Davila Carrazco et.al.|[2310.02201v1](http://arxiv.org/abs/2310.02201v1)|null|
+|**2023-10-03**|**CNN photometric redshifts in the SDSS at $r\leq 20$**|M. Treyer et.al.|[2310.02173v1](http://arxiv.org/abs/2310.02173v1)|null|
 |**2023-09-29**|**A Large Language Model Approach to Educational Survey Feedback Analysis**|Michael J. Parker et.al.|[2309.17447v1](http://arxiv.org/abs/2309.17447v1)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
 |**2023-09-29**|**Classification of Potholes Based on Surface Area Using Pre-Trained Models of Convolutional Neural Network**|Chauhdary Fazeel Ahmad et.al.|[2309.17426v1](http://arxiv.org/abs/2309.17426v1)|null|
@@ -3323,6 +3333,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260v1](http://arxiv.org/abs/2310.02260v1)|**[link](https://github.com/yahidar/transradar)**|
+|**2023-10-03**|**MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**|Vinaya Sree Katamneni et.al.|[2310.02234v1](http://arxiv.org/abs/2310.02234v1)|null|
+|**2023-10-03**|**Neutron Radiation induced Effects in 4H-SiC PiN Diodes**|Andreas Gsponer et.al.|[2310.02047v1](http://arxiv.org/abs/2310.02047v1)|null|
+|**2023-10-03**|**Improved Automatic Diabetic Retinopathy Severity Classification Using Deep Multimodal Fusion of UWF-CFP and OCTA Images**|Mostafa El Habib Daho et.al.|[2310.01912v1](http://arxiv.org/abs/2310.01912v1)|null|
+|**2023-10-03**|**A Dual Attentive Generative Adversarial Network for Remote Sensing Image Change Detection**|Luyi Qiu et.al.|[2310.01876v1](http://arxiv.org/abs/2310.01876v1)|null|
+|**2023-10-03**|**Audio-visual child-adult speaker classification in dyadic interactions**|Anfeng Xu et.al.|[2310.01867v1](http://arxiv.org/abs/2310.01867v1)|null|
+|**2023-10-03**|**Semi-Aerodynamic Model Aided Invariant Kalman Filtering for UAV Full-State Estimation**|Xiaoyu Ye et.al.|[2310.01844v1](http://arxiv.org/abs/2310.01844v1)|null|
+|**2023-10-03**|**Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion**|Hongyi Duan et.al.|[2310.01805v1](http://arxiv.org/abs/2310.01805v1)|null|
+|**2023-10-02**|**Keypoint-Augmented Self-Supervised Learning for Medical Image Segmentation with Limited Annotation**|Zhangsihao Yang et.al.|[2310.01680v1](http://arxiv.org/abs/2310.01680v1)|**[link](https://github.com/zshyang/kaf)**|
+|**2023-10-02**|**Dynamic Spatio-Temporal Summarization using Information Based Fusion**|Humayra Tasnim et.al.|[2310.01617v1](http://arxiv.org/abs/2310.01617v1)|null|
 |**2023-09-29**|**Local Changes in Protein Filament Properties Drive Large-Scale Membrane Transformations Involved in Endosome Tethering and Fusion**|Ashesh Ghosh et.al.|[2309.17434v1](http://arxiv.org/abs/2309.17434v1)|null|
 |**2023-09-29**|**Improved stellarator permanent magnet designs through combined discrete and continuous optimizations**|K. C. Hammond et.al.|[2309.17244v1](http://arxiv.org/abs/2309.17244v1)|null|
 |**2023-09-29**|**PARF: Primitive-Aware Radiance Fusion for Indoor Scene Novel View Synthesis**|Haiyang Ying et.al.|[2309.17190v1](http://arxiv.org/abs/2309.17190v1)|null|
