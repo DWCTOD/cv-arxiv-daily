@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-10-04, **SemiReward: A General Reward Model for Semi-supervised Learning**, Siyuan Li et.al., Paper: [http://arxiv.org/abs/2310.03013v1](http://arxiv.org/abs/2310.03013v1), Code: **[https://github.com/Westlake-AI/SemiReward](https://github.com/Westlake-AI/SemiReward)**
+- 2023-10-04, **High-dimensional SGD aligns with emerging outlier eigenspaces**, Gerard Ben Arous et.al., Paper: [http://arxiv.org/abs/2310.03010v1](http://arxiv.org/abs/2310.03010v1)
+- 2023-10-04, **IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**, Pengyuan Lu et.al., Paper: [http://arxiv.org/abs/2310.02995v1](http://arxiv.org/abs/2310.02995v1)
+- 2023-10-04, **Multiple Physics Pretraining for Physical Surrogate Models**, Michael McCabe et.al., Paper: [http://arxiv.org/abs/2310.02994v1](http://arxiv.org/abs/2310.02994v1)
+- 2023-10-04, **UniverSLU: Universal Spoken Language Understanding for Diverse Classification and Sequence Generation Tasks with a Single Network**, Siddhant Arora et.al., Paper: [http://arxiv.org/abs/2310.02973v1](http://arxiv.org/abs/2310.02973v1)
+- 2023-10-04, **Fully Automatic Segmentation of Gross Target Volume and Organs-at-Risk for Radiotherapy Planning of Nasopharyngeal Carcinoma**, Mehdi Astaraki et.al., Paper: [http://arxiv.org/abs/2310.02972v1](http://arxiv.org/abs/2310.02972v1)
+- 2023-10-04, **Prompting and Adapter Tuning for Self-supervised Encoder-Decoder Speech Model**, Kai-Wei Chang et.al., Paper: [http://arxiv.org/abs/2310.02971v1](http://arxiv.org/abs/2310.02971v1)
+- 2023-10-04, **Co-modeling the Sequential and Graphical Route for Peptide**, Zihan Liu et.al., Paper: [http://arxiv.org/abs/2310.02964v1](http://arxiv.org/abs/2310.02964v1), Code: **[https://github.com/zihan-liu-00/repcon](https://github.com/zihan-liu-00/repcon)**
+- 2023-10-04, **CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2310.02960v1](http://arxiv.org/abs/2310.02960v1), Code: **[https://github.com/yangcaoai/CoDA_NeurIPS2023](https://github.com/yangcaoai/CoDA_NeurIPS2023)**
+- 2023-10-04, **HappyFeat -- An interactive and efficient BCI framework for clinical applications**, Arthur Desbois et.al., Paper: [http://arxiv.org/abs/2310.02948v1](http://arxiv.org/abs/2310.02948v1)
 - 2023-10-03, **DREAM: Visual Decoding from Reversing Human Visual System**, Weihao Xia et.al., Paper: [http://arxiv.org/abs/2310.02265v1](http://arxiv.org/abs/2310.02265v1)
 - 2023-10-03, **RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**, Tong Zhao et.al., Paper: [http://arxiv.org/abs/2310.02262v1](http://arxiv.org/abs/2310.02262v1)
 - 2023-10-03, **Harnessing Pre-Trained Sentence Transformers for Offensive Language Detection in Indian Languages**, Ananya Joshi et.al., Paper: [http://arxiv.org/abs/2310.02249v1](http://arxiv.org/abs/2310.02249v1)
@@ -3325,6 +3335,16 @@
 
 ## MultiModal
 
+- 2023-10-04, **Human-oriented Representation Learning for Robotic Manipulation**, Mingxiao Huo et.al., Paper: [http://arxiv.org/abs/2310.03023v1](http://arxiv.org/abs/2310.03023v1)
+- 2023-10-04, **Fusion-stable structures on triangulation categories**, Yu Qiu et.al., Paper: [http://arxiv.org/abs/2310.02917v1](http://arxiv.org/abs/2310.02917v1)
+- 2023-10-04, **Multi-Resolution Fusion for Fully Automatic Cephalometric Landmark Detection**, Dongqian Guo et.al., Paper: [http://arxiv.org/abs/2310.02855v1](http://arxiv.org/abs/2310.02855v1)
+- 2023-10-04, **CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**, Hao Shi et.al., Paper: [http://arxiv.org/abs/2310.02815v1](http://arxiv.org/abs/2310.02815v1)
+- 2023-10-04, **Resilient Clock Synchronization Architecture for Industrial Time-Sensitive Networking**, Yafei Sun et.al., Paper: [http://arxiv.org/abs/2310.02693v1](http://arxiv.org/abs/2310.02693v1)
+- 2023-10-04, **Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Clasification**, Guoxin Wang et.al., Paper: [http://arxiv.org/abs/2310.02690v1](http://arxiv.org/abs/2310.02690v1)
+- 2023-10-04, **MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation**, Xuhang Chen et.al., Paper: [http://arxiv.org/abs/2310.02663v1](http://arxiv.org/abs/2310.02663v1)
+- 2023-10-04, **Top-k contrast order-preserving pattern mining for time series classification**, Youxi Wu et.al., Paper: [http://arxiv.org/abs/2310.02612v1](http://arxiv.org/abs/2310.02612v1)
+- 2023-10-04, **Integrated Sensing and Communications towards Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)**, Haotian Zhang et.al., Paper: [http://arxiv.org/abs/2310.02561v1](http://arxiv.org/abs/2310.02561v1)
+- 2023-10-04, **A Context-Aware CEO Problem**, Daewon Seo et.al., Paper: [http://arxiv.org/abs/2310.02537v1](http://arxiv.org/abs/2310.02537v1)
 - 2023-10-03, **TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**, Yahia Dalbah et.al., Paper: [http://arxiv.org/abs/2310.02260v1](http://arxiv.org/abs/2310.02260v1), Code: **[https://github.com/yahidar/transradar](https://github.com/yahidar/transradar)**
 - 2023-10-03, **MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**, Vinaya Sree Katamneni et.al., Paper: [http://arxiv.org/abs/2310.02234v1](http://arxiv.org/abs/2310.02234v1)
 - 2023-10-03, **Neutron Radiation induced Effects in 4H-SiC PiN Diodes**, Andreas Gsponer et.al., Paper: [http://arxiv.org/abs/2310.02047v1](http://arxiv.org/abs/2310.02047v1)
