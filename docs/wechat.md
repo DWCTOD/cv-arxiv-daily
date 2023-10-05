@@ -1,11 +1,11 @@
-> Updated on 2023.10.04
+> Updated on 2023.10.05
 
 ## Video_Classification
 
 - 2023-10-03, **DREAM: Visual Decoding from Reversing Human Visual System**, Weihao Xia et.al., Paper: [http://arxiv.org/abs/2310.02265v1](http://arxiv.org/abs/2310.02265v1)
 - 2023-10-03, **RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**, Tong Zhao et.al., Paper: [http://arxiv.org/abs/2310.02262v1](http://arxiv.org/abs/2310.02262v1)
 - 2023-10-03, **Harnessing Pre-Trained Sentence Transformers for Offensive Language Detection in Indian Languages**, Ananya Joshi et.al., Paper: [http://arxiv.org/abs/2310.02249v1](http://arxiv.org/abs/2310.02249v1)
-- 2023-10-03, **Tensor Programs VI: Feature Learning in Infinite-Depth Neural Networks**, Greg Yang et.al., Paper: [http://arxiv.org/abs/2310.02244v1](http://arxiv.org/abs/2310.02244v1)
+- 2023-10-04, **Tensor Programs VI: Feature Learning in Infinite-Depth Neural Networks**, Greg Yang et.al., Paper: [http://arxiv.org/abs/2310.02244v2](http://arxiv.org/abs/2310.02244v2)
 - 2023-10-03, **MIS-AVioDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection**, Vinaya Sree Katamneni et.al., Paper: [http://arxiv.org/abs/2310.02234v1](http://arxiv.org/abs/2310.02234v1)
 - 2023-10-03, **HoloNets: Spectral Convolutions do extend to Directed Graphs**, Christian Koke et.al., Paper: [http://arxiv.org/abs/2310.02232v1](http://arxiv.org/abs/2310.02232v1)
 - 2023-10-03, **Extraction of Medication and Temporal Relation from Clinical Text by Harnessing Different Deep Learning Models**, Hangyu Tu et.al., Paper: [http://arxiv.org/abs/2310.02229v1](http://arxiv.org/abs/2310.02229v1)
