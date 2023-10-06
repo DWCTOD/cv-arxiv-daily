@@ -1,15 +1,15 @@
-> Updated on 2023.10.05
+> Updated on 2023.10.06
 
 ## Video_Classification
 
 - 2023-10-04, **SemiReward: A General Reward Model for Semi-supervised Learning**, Siyuan Li et.al., Paper: [http://arxiv.org/abs/2310.03013v1](http://arxiv.org/abs/2310.03013v1), Code: **[https://github.com/Westlake-AI/SemiReward](https://github.com/Westlake-AI/SemiReward)**
 - 2023-10-04, **High-dimensional SGD aligns with emerging outlier eigenspaces**, Gerard Ben Arous et.al., Paper: [http://arxiv.org/abs/2310.03010v1](http://arxiv.org/abs/2310.03010v1)
-- 2023-10-04, **IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**, Pengyuan Lu et.al., Paper: [http://arxiv.org/abs/2310.02995v1](http://arxiv.org/abs/2310.02995v1)
+- 2023-10-05, **IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**, Pengyuan Lu et.al., Paper: [http://arxiv.org/abs/2310.02995v2](http://arxiv.org/abs/2310.02995v2)
 - 2023-10-04, **Multiple Physics Pretraining for Physical Surrogate Models**, Michael McCabe et.al., Paper: [http://arxiv.org/abs/2310.02994v1](http://arxiv.org/abs/2310.02994v1)
 - 2023-10-04, **UniverSLU: Universal Spoken Language Understanding for Diverse Classification and Sequence Generation Tasks with a Single Network**, Siddhant Arora et.al., Paper: [http://arxiv.org/abs/2310.02973v1](http://arxiv.org/abs/2310.02973v1)
 - 2023-10-04, **Fully Automatic Segmentation of Gross Target Volume and Organs-at-Risk for Radiotherapy Planning of Nasopharyngeal Carcinoma**, Mehdi Astaraki et.al., Paper: [http://arxiv.org/abs/2310.02972v1](http://arxiv.org/abs/2310.02972v1)
 - 2023-10-04, **Prompting and Adapter Tuning for Self-supervised Encoder-Decoder Speech Model**, Kai-Wei Chang et.al., Paper: [http://arxiv.org/abs/2310.02971v1](http://arxiv.org/abs/2310.02971v1)
-- 2023-10-04, **Co-modeling the Sequential and Graphical Route for Peptide**, Zihan Liu et.al., Paper: [http://arxiv.org/abs/2310.02964v1](http://arxiv.org/abs/2310.02964v1), Code: **[https://github.com/zihan-liu-00/repcon](https://github.com/zihan-liu-00/repcon)**
+- 2023-10-05, **Co-modeling the Sequential and Graphical Routes for Peptide Representation Learning**, Zihan Liu et.al., Paper: [http://arxiv.org/abs/2310.02964v2](http://arxiv.org/abs/2310.02964v2), Code: **[https://github.com/zihan-liu-00/repcon](https://github.com/zihan-liu-00/repcon)**
 - 2023-10-04, **CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2310.02960v1](http://arxiv.org/abs/2310.02960v1), Code: **[https://github.com/yangcaoai/CoDA_NeurIPS2023](https://github.com/yangcaoai/CoDA_NeurIPS2023)**
 - 2023-10-04, **HappyFeat -- An interactive and efficient BCI framework for clinical applications**, Arthur Desbois et.al., Paper: [http://arxiv.org/abs/2310.02948v1](http://arxiv.org/abs/2310.02948v1)
 - 2023-10-03, **DREAM: Visual Decoding from Reversing Human Visual System**, Weihao Xia et.al., Paper: [http://arxiv.org/abs/2310.02265v1](http://arxiv.org/abs/2310.02265v1)
