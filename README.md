@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-10-04**|**SemiReward: A General Reward Model for Semi-supervised Learning**|Siyuan Li et.al.|[2310.03013v1](http://arxiv.org/abs/2310.03013v1)|**[link](https://github.com/Westlake-AI/SemiReward)**|
 |**2023-10-04**|**High-dimensional SGD aligns with emerging outlier eigenspaces**|Gerard Ben Arous et.al.|[2310.03010v1](http://arxiv.org/abs/2310.03010v1)|null|
-|**2023-10-05**|**IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**|Pengyuan Lu et.al.|[2310.02995v2](http://arxiv.org/abs/2310.02995v2)|null|
+|**2023-10-05**|**IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**|Pengyuan Lu et.al.|[2310.02995v2](http://arxiv.org/abs/2310.02995v2)|**[link](https://github.com/ibcl-anon/ibcl)**|
 |**2023-10-04**|**Multiple Physics Pretraining for Physical Surrogate Models**|Michael McCabe et.al.|[2310.02994v1](http://arxiv.org/abs/2310.02994v1)|null|
 |**2023-10-04**|**UniverSLU: Universal Spoken Language Understanding for Diverse Classification and Sequence Generation Tasks with a Single Network**|Siddhant Arora et.al.|[2310.02973v1](http://arxiv.org/abs/2310.02973v1)|null|
 |**2023-10-04**|**Fully Automatic Segmentation of Gross Target Volume and Organs-at-Risk for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Mehdi Astaraki et.al.|[2310.02972v1](http://arxiv.org/abs/2310.02972v1)|null|
