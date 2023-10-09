@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Exploiting Transformer Activation Sparsity with Dynamic Inference**|Mikołaj Piórczyński et.al.|[2310.04361v1](http://arxiv.org/abs/2310.04361v1)|null|
+|**2023-10-06**|**SwimXYZ: A large-scale dataset of synthetic swimming motions and videos**|Fiche Guénolé et.al.|[2310.04360v1](http://arxiv.org/abs/2310.04360v1)|null|
+|**2023-10-06**|**Large-Scale Korean Text Dataset for Classifying Biased Speech in Real-World Online Services**|Dasol Choi et.al.|[2310.04313v1](http://arxiv.org/abs/2310.04313v1)|null|
+|**2023-10-06**|**Convergent ADMM Plug and Play PET Image Reconstruction**|Florent Sureau et.al.|[2310.04299v1](http://arxiv.org/abs/2310.04299v1)|null|
+|**2023-10-06**|**A Plug-and-Play Image Registration Network**|Junhao Hu et.al.|[2310.04297v1](http://arxiv.org/abs/2310.04297v1)|null|
+|**2023-10-06**|**Towards Non-contact 3D Ultrasound for Wrist Imaging**|Antony Jerald et.al.|[2310.04296v1](http://arxiv.org/abs/2310.04296v1)|null|
+|**2023-10-06**|**Spectroscopic variability of massive pre-main-sequence stars in M17**|A. R. Derkink et.al.|[2310.04287v1](http://arxiv.org/abs/2310.04287v1)|null|
+|**2023-10-06**|**Multi-Industry Simplex : A Probabilistic Extension of GICS**|Maksim Papenkov et.al.|[2310.04280v1](http://arxiv.org/abs/2310.04280v1)|null|
+|**2023-10-06**|**Bringing Quantum Algorithms to Automated Machine Learning: A Systematic Review of AutoML Frameworks Regarding Extensibility for QML Algorithms**|Dennis Klau et.al.|[2310.04238v1](http://arxiv.org/abs/2310.04238v1)|null|
+|**2023-10-06**|**Written and spoken corpus of real and fake social media postings about COVID-19**|Ng Bee Chin et.al.|[2310.04237v1](http://arxiv.org/abs/2310.04237v1)|null|
 |**2023-10-05**|**The Un-Kidnappable Robot: Acoustic Localization of Sneaking People**|Mengyu Yang et.al.|[2310.03743v1](http://arxiv.org/abs/2310.03743v1)|null|
 |**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710v1](http://arxiv.org/abs/2310.03710v1)|**[link](https://github.com/wang-research-lab/agentinstruct)**|
 |**2023-10-05**|**OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable Evasion Attacks**|Ofir Bar Tal et.al.|[2310.03707v1](http://arxiv.org/abs/2310.03707v1)|null|
@@ -3349,6 +3359,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Towards A Robust Group-level Emotion Recognition via Uncertainty-Aware Learning**|Qing Zhu et.al.|[2310.04306v1](http://arxiv.org/abs/2310.04306v1)|null|
+|**2023-10-06**|**Multi-alpha Boson Gas state in Fusion Evaporation Reaction and Three-body Force**|Taofeng Wang et.al.|[2310.04282v1](http://arxiv.org/abs/2310.04282v1)|null|
+|**2023-10-06**|**First evidence of nuclear polarization effects in a laser-induced $^3\mkern-1mu$He fusion plasma**|Chuan Zheng et.al.|[2310.04184v1](http://arxiv.org/abs/2310.04184v1)|null|
+|**2023-10-05**|**EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Multilingual and Low Resource Scenarios**|Tejes Srivastava et.al.|[2310.03938v1](http://arxiv.org/abs/2310.03938v1)|null|
+|**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923v1](http://arxiv.org/abs/2310.03923v1)|null|
+|**2023-10-05**|**PepMLM: Target Sequence-Conditioned Generation of Peptide Binders via Masked Language Modeling**|Tianlai Chen et.al.|[2310.03842v1](http://arxiv.org/abs/2310.03842v1)|null|
+|**2023-10-05**|**Gapped Phases with Non-Invertible Symmetries: (1+1)d**|Lakshya Bhardwaj et.al.|[2310.03784v1](http://arxiv.org/abs/2310.03784v1)|null|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502v1](http://arxiv.org/abs/2310.03502v1)|**[link](https://github.com/ai-forever/movqgan)**|
 |**2023-10-05**|**S-move matrix in the NS sector of $N=1$ super Liouville field theory**|Elena Apresyan et.al.|[2310.03496v1](http://arxiv.org/abs/2310.03496v1)|null|
 |**2023-10-05**|**BTDNet: a Multi-Modal Approach for Brain Tumor Radiogenomic Classification**|Dimitrios Kollias et.al.|[2310.03485v1](http://arxiv.org/abs/2310.03485v1)|null|
