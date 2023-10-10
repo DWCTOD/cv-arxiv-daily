@@ -1,4 +1,4 @@
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 
 ## Video_Classification
 
@@ -3368,7 +3368,7 @@
 |**2023-10-05**|**Gapped Phases with Non-Invertible Symmetries: (1+1)d**|Lakshya Bhardwaj et.al.|[2310.03784v1](http://arxiv.org/abs/2310.03784v1)|null|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502v1](http://arxiv.org/abs/2310.03502v1)|**[link](https://github.com/ai-forever/movqgan)**|
 |**2023-10-05**|**S-move matrix in the NS sector of $N=1$ super Liouville field theory**|Elena Apresyan et.al.|[2310.03496v1](http://arxiv.org/abs/2310.03496v1)|null|
-|**2023-10-05**|**BTDNet: a Multi-Modal Approach for Brain Tumor Radiogenomic Classification**|Dimitrios Kollias et.al.|[2310.03485v1](http://arxiv.org/abs/2310.03485v1)|null|
+|**2023-10-07**|**BTDNet: a Multi-Modal Approach for Brain Tumor Radiogenomic Classification**|Dimitrios Kollias et.al.|[2310.03485v2](http://arxiv.org/abs/2310.03485v2)|null|
 |**2023-10-05**|**Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization**|Edward Fish et.al.|[2310.03456v1](http://arxiv.org/abs/2310.03456v1)|null|
 |**2023-10-04**|**Human-oriented Representation Learning for Robotic Manipulation**|Mingxiao Huo et.al.|[2310.03023v1](http://arxiv.org/abs/2310.03023v1)|null|
 |**2023-10-04**|**Fusion-stable structures on triangulation categories**|Yu Qiu et.al.|[2310.02917v1](http://arxiv.org/abs/2310.02917v1)|null|
