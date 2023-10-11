@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-10-10, **Convivial Solipsism as a maximally perspectival interpretation**, Herve Zwirn et.al., Paper: [http://arxiv.org/abs/2310.06815v1](http://arxiv.org/abs/2310.06815v1)
+- 2023-10-10, **A Supervised Embedding and Clustering Anomaly Detection method for classification of Mobile Network Faults**, R. Mosayebi et.al., Paper: [http://arxiv.org/abs/2310.06779v1](http://arxiv.org/abs/2310.06779v1)
+- 2023-10-10, **Optical assembly of nanostructures mediated by surface roughness**, Robert G. Felsted et.al., Paper: [http://arxiv.org/abs/2310.06774v1](http://arxiv.org/abs/2310.06774v1)
+- 2023-10-10, **Uni3D: Exploring Unified 3D Representation at Scale**, Junsheng Zhou et.al., Paper: [http://arxiv.org/abs/2310.06773v1](http://arxiv.org/abs/2310.06773v1), Code: **[https://github.com/baaivision/uni3d](https://github.com/baaivision/uni3d)**
+- 2023-10-10, **Improved convergence rates for some kernel random forest algorithms**, Isidoros Iakovidis et.al., Paper: [http://arxiv.org/abs/2310.06760v1](http://arxiv.org/abs/2310.06760v1)
+- 2023-10-10, **Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks**, Marc Rußwurm et.al., Paper: [http://arxiv.org/abs/2310.06743v1](http://arxiv.org/abs/2310.06743v1), Code: **[https://github.com/marccoru/locationencoder](https://github.com/marccoru/locationencoder)**
+- 2023-10-10, **Multi-domain improves out-of-distribution and data-limited scenarios for medical image analysis**, Ece Ozkan et.al., Paper: [http://arxiv.org/abs/2310.06737v1](http://arxiv.org/abs/2310.06737v1)
+- 2023-10-10, **S4Sleep: Elucidating the design space of deep-learning-based sleep stage classification models**, Tiezhi Wang et.al., Paper: [http://arxiv.org/abs/2310.06715v1](http://arxiv.org/abs/2310.06715v1), Code: **[https://github.com/ai4healthuol/s4sleep](https://github.com/ai4healthuol/s4sleep)**
+- 2023-10-10, **Tertiary Lymphoid Structures Generation through Graph-based Diffusion**, Manuel Madeira et.al., Paper: [http://arxiv.org/abs/2310.06661v1](http://arxiv.org/abs/2310.06661v1)
+- 2023-10-10, **Assessing the Impact of a Supervised Classification Filter on Flow-based Hybrid Network Anomaly Detection**, Dominik Macko et.al., Paper: [http://arxiv.org/abs/2310.06656v1](http://arxiv.org/abs/2310.06656v1), Code: **[https://github.com/kinit-sk/hybrid-anomaly-detection](https://github.com/kinit-sk/hybrid-anomaly-detection)**
 - 2023-10-09, **FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**, Yuren Cong et.al., Paper: [http://arxiv.org/abs/2310.05922v1](http://arxiv.org/abs/2310.05922v1)
 - 2023-10-09, **Enumerating Calabi-Yau Manifolds: Placing bounds on the number of diffeomorphism classes in the Kreuzer-Skarke list**, Aditi Chandra et.al., Paper: [http://arxiv.org/abs/2310.05909v1](http://arxiv.org/abs/2310.05909v1)
 - 2023-10-09, **ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**, Kaiwen Zhou et.al., Paper: [http://arxiv.org/abs/2310.05872v1](http://arxiv.org/abs/2310.05872v1)
@@ -3365,6 +3375,16 @@
 
 ## MultiModal
 
+- 2023-10-10, **Flexible entangled state generation in linear optics**, Brendan Pankovich et.al., Paper: [http://arxiv.org/abs/2310.06832v1](http://arxiv.org/abs/2310.06832v1)
+- 2023-10-10, **Influence of additional neutrons on the fusion cross-section beyond the N=8 shell**, S. Hudan et.al., Paper: [http://arxiv.org/abs/2310.06776v1](http://arxiv.org/abs/2310.06776v1)
+- 2023-10-10, **V2X-AHD:Vehicle-to-Everything Cooperation Perception via Asymmetric Heterogenous Distillation Network**, Caizhen He et.al., Paper: [http://arxiv.org/abs/2310.06603v1](http://arxiv.org/abs/2310.06603v1), Code: **[https://github.com/feeling0414-lab/V2X-AHD](https://github.com/feeling0414-lab/V2X-AHD)**
+- 2023-10-10, **A smoking gun signature of the 3HDM**, A. Dey et.al., Paper: [http://arxiv.org/abs/2310.06593v1](http://arxiv.org/abs/2310.06593v1)
+- 2023-10-10, **On functorial equivalence classes of blocks of finite groups**, Deniz Yılmaz et.al., Paper: [http://arxiv.org/abs/2310.06493v1](http://arxiv.org/abs/2310.06493v1)
+- 2023-10-10, **Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition**, Srijith Radhakrishnan et.al., Paper: [http://arxiv.org/abs/2310.06434v1](http://arxiv.org/abs/2310.06434v1), Code: **[https://github.com/srijith-rkr/whispering-llama](https://github.com/srijith-rkr/whispering-llama)**
+- 2023-10-10, **What Makes for Robust Multi-Modal Models in the Face of Missing Modalities?**, Siting Li et.al., Paper: [http://arxiv.org/abs/2310.06383v1](http://arxiv.org/abs/2310.06383v1)
+- 2023-10-10, **Three-Dimensional Medical Image Fusion with Deformable Cross-Attention**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2310.06291v1](http://arxiv.org/abs/2310.06291v1)
+- 2023-10-09, **Comparison of deep-learning data fusion strategies in mandibular osteoradionecrosis prediction modelling using clinical variables and radiation dose distribution volumes**, Laia Humbert-Vidan et.al., Paper: [http://arxiv.org/abs/2310.06212v1](http://arxiv.org/abs/2310.06212v1)
+- 2023-10-09, **Layout Sequence Prediction From Noisy Mobile Modality**, Haichao Zhang et.al., Paper: [http://arxiv.org/abs/2310.06138v1](http://arxiv.org/abs/2310.06138v1)
 - 2023-10-09, **Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis**, Haoyu Zhang et.al., Paper: [http://arxiv.org/abs/2310.05804v1](http://arxiv.org/abs/2310.05804v1)
 - 2023-10-09, **Transformer Fusion with Optimal Transport**, Moritz Imfeld et.al., Paper: [http://arxiv.org/abs/2310.05719v1](http://arxiv.org/abs/2310.05719v1)
 - 2023-10-09, **Plug n' Play: Channel Shuffle Module for Enhancing Tiny Vision Transformers**, Xuwei Xu et.al., Paper: [http://arxiv.org/abs/2310.05642v1](http://arxiv.org/abs/2310.05642v1)
