@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-10-11, **ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**, Yingqing He et.al., Paper: [http://arxiv.org/abs/2310.07702v1](http://arxiv.org/abs/2310.07702v1), Code: **[https://github.com/yingqinghe/scalecrafter](https://github.com/yingqinghe/scalecrafter)**
+- 2023-10-11, **ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**, Bo Peng et.al., Paper: [http://arxiv.org/abs/2310.07697v1](http://arxiv.org/abs/2310.07697v1)
+- 2023-10-11, **Large-scale photonic computing with nonlinear disordered media**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2310.07690v1](http://arxiv.org/abs/2310.07690v1)
+- 2023-10-11, **Deep Video Inpainting Guided by Audio-Visual Self-Supervision**, Kyuyeon Kim et.al., Paper: [http://arxiv.org/abs/2310.07663v1](http://arxiv.org/abs/2310.07663v1)
+- 2023-10-11, **Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**, Eleonora Lopez et.al., Paper: [http://arxiv.org/abs/2310.07648v1](http://arxiv.org/abs/2310.07648v1)
+- 2023-10-11, **Attention-Map Augmentation for Hypercomplex Breast Cancer Classification**, Eleonora Lopez et.al., Paper: [http://arxiv.org/abs/2310.07633v1](http://arxiv.org/abs/2310.07633v1)
+- 2023-10-11, **Differentiable Euler Characteristic Transforms for Shape Classification**, Ernst Roell et.al., Paper: [http://arxiv.org/abs/2310.07630v1](http://arxiv.org/abs/2310.07630v1)
+- 2023-10-11, **Time-Resolved Reconstruction of Motion, Force, and Stiffness using Spectro-Dynamic MRI**, Max H. C. van Riel et.al., Paper: [http://arxiv.org/abs/2310.07622v1](http://arxiv.org/abs/2310.07622v1)
+- 2023-10-11, **Reinforcement Learning-based Knowledge Graph Reasoning for Explainable Fact-checking**, Gustav Nikopensius et.al., Paper: [http://arxiv.org/abs/2310.07613v1](http://arxiv.org/abs/2310.07613v1)
+- 2023-10-11, **QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking**, Liangming Pan et.al., Paper: [http://arxiv.org/abs/2310.07609v1](http://arxiv.org/abs/2310.07609v1), Code: **[https://github.com/xinyuanlu00/qacheck](https://github.com/xinyuanlu00/qacheck)**
 - 2023-10-10, **Convivial Solipsism as a maximally perspectival interpretation**, Herve Zwirn et.al., Paper: [http://arxiv.org/abs/2310.06815v1](http://arxiv.org/abs/2310.06815v1)
 - 2023-10-10, **A Supervised Embedding and Clustering Anomaly Detection method for classification of Mobile Network Faults**, R. Mosayebi et.al., Paper: [http://arxiv.org/abs/2310.06779v1](http://arxiv.org/abs/2310.06779v1)
 - 2023-10-10, **Optical assembly of nanostructures mediated by surface roughness**, Robert G. Felsted et.al., Paper: [http://arxiv.org/abs/2310.06774v1](http://arxiv.org/abs/2310.06774v1)
@@ -3375,6 +3385,16 @@
 
 ## MultiModal
 
+- 2023-10-11, **Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**, Eleonora Lopez et.al., Paper: [http://arxiv.org/abs/2310.07648v1](http://arxiv.org/abs/2310.07648v1)
+- 2023-10-11, **CLIP for Lightweight Semantic Segmentation**, Ke Jin et.al., Paper: [http://arxiv.org/abs/2310.07394v1](http://arxiv.org/abs/2310.07394v1)
+- 2023-10-11, **Isospin symmetry in the $T = 1, A = 62$ triplet**, K. Wimmer et.al., Paper: [http://arxiv.org/abs/2310.07357v1](http://arxiv.org/abs/2310.07357v1)
+- 2023-10-11, **ADASR: An Adversarial Auto-Augmentation Framework for Hyperspectral and Multispectral Data Fusion**, Jinghui Qin et.al., Paper: [http://arxiv.org/abs/2310.07255v1](http://arxiv.org/abs/2310.07255v1), Code: **[https://github.com/fangfang11-plog/adasr](https://github.com/fangfang11-plog/adasr)**
+- 2023-10-11, **Modes of massive nucleon transfer appearing in quasifission processes for collisions of superheavy nuclei**, S. Amano et.al., Paper: [http://arxiv.org/abs/2310.07210v1](http://arxiv.org/abs/2310.07210v1)
+- 2023-10-11, **Multi-task Explainable Skin Lesion Classification**, Mahapara Khurshid et.al., Paper: [http://arxiv.org/abs/2310.07209v1](http://arxiv.org/abs/2310.07209v1)
+- 2023-10-10, **Acoustic Model Fusion for End-to-end Speech Recognition**, Zhihong Lei et.al., Paper: [http://arxiv.org/abs/2310.07062v1](http://arxiv.org/abs/2310.07062v1)
+- 2023-10-10, **FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication**, Liangqi Yuan et.al., Paper: [http://arxiv.org/abs/2310.07048v1](http://arxiv.org/abs/2310.07048v1)
+- 2023-10-10, **Discovering the Unknowns: A First Step**, V. Roshan Joseph et.al., Paper: [http://arxiv.org/abs/2310.07016v1](http://arxiv.org/abs/2310.07016v1)
+- 2023-10-10, **Helically-trapped electron mode in optimized stellarator**, Javier H Nicolau et.al., Paper: [http://arxiv.org/abs/2310.06988v1](http://arxiv.org/abs/2310.06988v1)
 - 2023-10-10, **Flexible entangled state generation in linear optics**, Brendan Pankovich et.al., Paper: [http://arxiv.org/abs/2310.06832v1](http://arxiv.org/abs/2310.06832v1)
 - 2023-10-10, **Influence of additional neutrons on the fusion cross-section beyond the N=8 shell**, S. Hudan et.al., Paper: [http://arxiv.org/abs/2310.06776v1](http://arxiv.org/abs/2310.06776v1)
 - 2023-10-10, **V2X-AHD:Vehicle-to-Everything Cooperation Perception via Asymmetric Heterogenous Distillation Network**, Caizhen He et.al., Paper: [http://arxiv.org/abs/2310.06603v1](http://arxiv.org/abs/2310.06603v1), Code: **[https://github.com/feeling0414-lab/V2X-AHD](https://github.com/feeling0414-lab/V2X-AHD)**
