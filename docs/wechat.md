@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-10-12, **Octopus: Embodied Vision-Language Programmer from Environmental Feedback**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2310.08588v1](http://arxiv.org/abs/2310.08588v1)
+- 2023-10-12, **Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2310.08587v1](http://arxiv.org/abs/2310.08587v1)
+- 2023-10-12, **Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**, Haotong Lin et.al., Paper: [http://arxiv.org/abs/2310.08585v1](http://arxiv.org/abs/2310.08585v1)
+- 2023-10-12, **Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**, Shashanka Venkataramanan et.al., Paper: [http://arxiv.org/abs/2310.08584v1](http://arxiv.org/abs/2310.08584v1)
+- 2023-10-12, **Universal Visual Decomposer: Long-Horizon Manipulation Made Easy**, Zichen Zhang et.al., Paper: [http://arxiv.org/abs/2310.08581v1](http://arxiv.org/abs/2310.08581v1)
+- 2023-10-12, **Learning to Act from Actionless Videos through Dense Correspondences**, Po-Chen Ko et.al., Paper: [http://arxiv.org/abs/2310.08576v1](http://arxiv.org/abs/2310.08576v1)
+- 2023-10-12, **Effective isometries of periodic shells**, Hussein Nassar et.al., Paper: [http://arxiv.org/abs/2310.08531v1](http://arxiv.org/abs/2310.08531v1)
+- 2023-10-12, **LLM-augmented Preference Learning from Natural Language**, Inwon Kang et.al., Paper: [http://arxiv.org/abs/2310.08523v1](http://arxiv.org/abs/2310.08523v1)
+- 2023-10-12, **Impact of time and note duration tokenizations on deep learning symbolic music modeling**, Nathan Fradet et.al., Paper: [http://arxiv.org/abs/2310.08497v1](http://arxiv.org/abs/2310.08497v1)
+- 2023-10-12, **GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**, Yuanchun Shen et.al., Paper: [http://arxiv.org/abs/2310.08487v1](http://arxiv.org/abs/2310.08487v1)
 - 2023-10-11, **ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**, Yingqing He et.al., Paper: [http://arxiv.org/abs/2310.07702v1](http://arxiv.org/abs/2310.07702v1), Code: **[https://github.com/yingqinghe/scalecrafter](https://github.com/yingqinghe/scalecrafter)**
 - 2023-10-11, **ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**, Bo Peng et.al., Paper: [http://arxiv.org/abs/2310.07697v1](http://arxiv.org/abs/2310.07697v1)
 - 2023-10-11, **Large-scale photonic computing with nonlinear disordered media**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2310.07690v1](http://arxiv.org/abs/2310.07690v1)
@@ -3385,6 +3395,16 @@
 
 ## MultiModal
 
+- 2023-10-12, **Gauge origami and quiver W-algebras**, Taro Kimura et.al., Paper: [http://arxiv.org/abs/2310.08545v1](http://arxiv.org/abs/2310.08545v1)
+- 2023-10-12, **Acceleration and focusing of multispecies ion beam using a converging laser-driven shock**, Jihoon Kim et.al., Paper: [http://arxiv.org/abs/2310.08432v1](http://arxiv.org/abs/2310.08432v1)
+- 2023-10-12, **Assessing Marine Mammal Abundance: A Novel Data Fusion**, Erin M. Schliep et.al., Paper: [http://arxiv.org/abs/2310.08397v1](http://arxiv.org/abs/2310.08397v1)
+- 2023-10-12, **2SFGL: A Simple And Robust Protocol For Graph-Based Fraud Detection**, Zhirui Pan et.al., Paper: [http://arxiv.org/abs/2310.08335v1](http://arxiv.org/abs/2310.08335v1)
+- 2023-10-12, **Fusion framework and multimodality for the Laplacian approximation of Bayesian neural networks**, Magnus Malmström et.al., Paper: [http://arxiv.org/abs/2310.08315v1](http://arxiv.org/abs/2310.08315v1)
+- 2023-10-12, **Multimodal Variational Auto-encoder based Audio-Visual Segmentation**, Yuxin Mao et.al., Paper: [http://arxiv.org/abs/2310.08303v1](http://arxiv.org/abs/2310.08303v1), Code: **[https://github.com/opennlplab/mmvae-avs](https://github.com/opennlplab/mmvae-avs)**
+- 2023-10-12, **Stabilization of a locally transmission problems of two strongly-weakly coupled wave systems**, Wafa Ahmedi et.al., Paper: [http://arxiv.org/abs/2310.08290v1](http://arxiv.org/abs/2310.08290v1)
+- 2023-10-12, **FP3D: A code for calculating 3D magnetic field and particle motion**, P. Y. Jiang et.al., Paper: [http://arxiv.org/abs/2310.08188v1](http://arxiv.org/abs/2310.08188v1)
+- 2023-10-12, **Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**, Takahiro Maeda et.al., Paper: [http://arxiv.org/abs/2310.08116v1](http://arxiv.org/abs/2310.08116v1)
+- 2023-10-12, **Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**, Phillip Karle et.al., Paper: [http://arxiv.org/abs/2310.08114v1](http://arxiv.org/abs/2310.08114v1)
 - 2023-10-11, **Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**, Eleonora Lopez et.al., Paper: [http://arxiv.org/abs/2310.07648v1](http://arxiv.org/abs/2310.07648v1)
 - 2023-10-11, **CLIP for Lightweight Semantic Segmentation**, Ke Jin et.al., Paper: [http://arxiv.org/abs/2310.07394v1](http://arxiv.org/abs/2310.07394v1)
 - 2023-10-11, **Isospin symmetry in the $T = 1, A = 62$ triplet**, K. Wimmer et.al., Paper: [http://arxiv.org/abs/2310.07357v1](http://arxiv.org/abs/2310.07357v1)
