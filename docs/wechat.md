@@ -11,7 +11,7 @@
 - 2023-10-12, **Effective isometries of periodic shells**, Hussein Nassar et.al., Paper: [http://arxiv.org/abs/2310.08531v1](http://arxiv.org/abs/2310.08531v1)
 - 2023-10-12, **LLM-augmented Preference Learning from Natural Language**, Inwon Kang et.al., Paper: [http://arxiv.org/abs/2310.08523v1](http://arxiv.org/abs/2310.08523v1)
 - 2023-10-12, **Impact of time and note duration tokenizations on deep learning symbolic music modeling**, Nathan Fradet et.al., Paper: [http://arxiv.org/abs/2310.08497v1](http://arxiv.org/abs/2310.08497v1)
-- 2023-10-12, **GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**, Yuanchun Shen et.al., Paper: [http://arxiv.org/abs/2310.08487v1](http://arxiv.org/abs/2310.08487v1)
+- 2023-10-12, **GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**, Yuanchun Shen et.al., Paper: [http://arxiv.org/abs/2310.08487v1](http://arxiv.org/abs/2310.08487v1), Code: **[https://github.com/happen2me/cross-gnn](https://github.com/happen2me/cross-gnn)**
 - 2023-10-11, **ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**, Yingqing He et.al., Paper: [http://arxiv.org/abs/2310.07702v1](http://arxiv.org/abs/2310.07702v1), Code: **[https://github.com/yingqinghe/scalecrafter](https://github.com/yingqinghe/scalecrafter)**
 - 2023-10-11, **ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**, Bo Peng et.al., Paper: [http://arxiv.org/abs/2310.07697v1](http://arxiv.org/abs/2310.07697v1)
 - 2023-10-11, **Large-scale photonic computing with nonlinear disordered media**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2310.07690v1](http://arxiv.org/abs/2310.07690v1)
