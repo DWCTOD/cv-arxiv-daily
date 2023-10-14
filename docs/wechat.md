@@ -18,7 +18,7 @@
 - 2023-10-11, **Deep Video Inpainting Guided by Audio-Visual Self-Supervision**, Kyuyeon Kim et.al., Paper: [http://arxiv.org/abs/2310.07663v1](http://arxiv.org/abs/2310.07663v1)
 - 2023-10-11, **Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**, Eleonora Lopez et.al., Paper: [http://arxiv.org/abs/2310.07648v1](http://arxiv.org/abs/2310.07648v1)
 - 2023-10-11, **Attention-Map Augmentation for Hypercomplex Breast Cancer Classification**, Eleonora Lopez et.al., Paper: [http://arxiv.org/abs/2310.07633v1](http://arxiv.org/abs/2310.07633v1)
-- 2023-10-11, **Differentiable Euler Characteristic Transforms for Shape Classification**, Ernst Roell et.al., Paper: [http://arxiv.org/abs/2310.07630v1](http://arxiv.org/abs/2310.07630v1)
+- 2023-10-11, **Differentiable Euler Characteristic Transforms for Shape Classification**, Ernst Roell et.al., Paper: [http://arxiv.org/abs/2310.07630v1](http://arxiv.org/abs/2310.07630v1), Code: **[https://github.com/aidos-lab/dect](https://github.com/aidos-lab/dect)**
 - 2023-10-11, **Time-Resolved Reconstruction of Motion, Force, and Stiffness using Spectro-Dynamic MRI**, Max H. C. van Riel et.al., Paper: [http://arxiv.org/abs/2310.07622v1](http://arxiv.org/abs/2310.07622v1)
 - 2023-10-11, **Reinforcement Learning-based Knowledge Graph Reasoning for Explainable Fact-checking**, Gustav Nikopensius et.al., Paper: [http://arxiv.org/abs/2310.07613v1](http://arxiv.org/abs/2310.07613v1)
 - 2023-10-11, **QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking**, Liangming Pan et.al., Paper: [http://arxiv.org/abs/2310.07609v1](http://arxiv.org/abs/2310.07609v1), Code: **[https://github.com/xinyuanlu00/qacheck](https://github.com/xinyuanlu00/qacheck)**
