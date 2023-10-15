@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|null|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**|Xiaoming Zhao et.al.|[2310.08587v1](http://arxiv.org/abs/2310.08587v1)|null|
 |**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin et.al.|[2310.08585v1](http://arxiv.org/abs/2310.08585v1)|null|
 |**2023-10-12**|**Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**|Shashanka Venkataramanan et.al.|[2310.08584v1](http://arxiv.org/abs/2310.08584v1)|null|
@@ -16,7 +16,7 @@ layout: default
 |**2023-10-12**|**Learning to Act from Actionless Videos through Dense Correspondences**|Po-Chen Ko et.al.|[2310.08576v1](http://arxiv.org/abs/2310.08576v1)|null|
 |**2023-10-12**|**Effective isometries of periodic shells**|Hussein Nassar et.al.|[2310.08531v1](http://arxiv.org/abs/2310.08531v1)|null|
 |**2023-10-12**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523v1](http://arxiv.org/abs/2310.08523v1)|null|
-|**2023-10-12**|**Impact of time and note duration tokenizations on deep learning symbolic music modeling**|Nathan Fradet et.al.|[2310.08497v1](http://arxiv.org/abs/2310.08497v1)|null|
+|**2023-10-12**|**Impact of time and note duration tokenizations on deep learning symbolic music modeling**|Nathan Fradet et.al.|[2310.08497v1](http://arxiv.org/abs/2310.08497v1)|**[link](https://github.com/Natooz/music-modeling-time-duration)**|
 |**2023-10-12**|**GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**|Yuanchun Shen et.al.|[2310.08487v1](http://arxiv.org/abs/2310.08487v1)|**[link](https://github.com/happen2me/cross-gnn)**|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697v1](http://arxiv.org/abs/2310.07697v1)|null|
