@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-10-13, **An Unbiased Look at Datasets for Visuo-Motor Pre-Training**, Sudeep Dasari et.al., Paper: [http://arxiv.org/abs/2310.09289v1](http://arxiv.org/abs/2310.09289v1)
+- 2023-10-13, **Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**, Geri Skenderi et.al., Paper: [http://arxiv.org/abs/2310.09278v1](http://arxiv.org/abs/2310.09278v1)
+- 2023-10-13, **A Hybrid Approach for Depression Classification: Random Forest-ANN Ensemble on Motor Activity Signals**, Anket Patil et.al., Paper: [http://arxiv.org/abs/2310.09277v1](http://arxiv.org/abs/2310.09277v1)
+- 2023-10-13, **PromptRE: Weakly-Supervised Document-Level Relation Extraction via Prompting-Based Data Programming**, Chufan Gao et.al., Paper: [http://arxiv.org/abs/2310.09265v1](http://arxiv.org/abs/2310.09265v1)
+- 2023-10-13, **Political claim identification and categorization in a multilingual setting: First experiments**, Urs Zaberer et.al., Paper: [http://arxiv.org/abs/2310.09256v1](http://arxiv.org/abs/2310.09256v1)
+- 2023-10-13, **It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models**, Lin Chen et.al., Paper: [http://arxiv.org/abs/2310.09250v1](http://arxiv.org/abs/2310.09250v1)
+- 2023-10-13, **A Multifaceted Look at Starlink Performance**, Nitinder Mohan et.al., Paper: [http://arxiv.org/abs/2310.09242v1](http://arxiv.org/abs/2310.09242v1)
+- 2023-10-13, **Time CNN and Graph Convolution Network for Epileptic Spike Detection in MEG Data**, Pauline Mouches et.al., Paper: [http://arxiv.org/abs/2310.09236v1](http://arxiv.org/abs/2310.09236v1)
+- 2023-10-13, **Ultrasound Image Segmentation of Thyroid Nodule via Latent Semantic Feature Co-Registration**, Xuewei Li et.al., Paper: [http://arxiv.org/abs/2310.09221v1](http://arxiv.org/abs/2310.09221v1)
+- 2023-10-13, **PaLI-3 Vision Language Models: Smaller, Faster, Stronger**, Xi Chen et.al., Paper: [http://arxiv.org/abs/2310.09199v1](http://arxiv.org/abs/2310.09199v1)
 - 2023-10-12, **Octopus: Embodied Vision-Language Programmer from Environmental Feedback**, Jingkang Yang et.al., Paper: [http://arxiv.org/abs/2310.08588v1](http://arxiv.org/abs/2310.08588v1), Code: **[https://github.com/dongyh20/octopus](https://github.com/dongyh20/octopus)**
 - 2023-10-12, **Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2310.08587v1](http://arxiv.org/abs/2310.08587v1)
 - 2023-10-12, **Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**, Haotong Lin et.al., Paper: [http://arxiv.org/abs/2310.08585v1](http://arxiv.org/abs/2310.08585v1)
@@ -3395,6 +3405,13 @@
 
 ## MultiModal
 
+- 2023-10-13, **Efficient training sets for surrogate models of tokamak turbulence with Active Deep Ensembles**, L. Zanisi et.al., Paper: [http://arxiv.org/abs/2310.09024v1](http://arxiv.org/abs/2310.09024v1)
+- 2023-10-13, **A Spatial-Temporal Dual-Mode Mixed Flow Network for Panoramic Video Salient Object Detection**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2310.09016v1](http://arxiv.org/abs/2310.09016v1)
+- 2023-10-13, **Learning to Behave Like Clean Speech: Dual-Branch Knowledge Distillation for Noise-Robust Fake Audio Detection**, Cunhang Fan et.al., Paper: [http://arxiv.org/abs/2310.08869v1](http://arxiv.org/abs/2310.08869v1)
+- 2023-10-13, **Urban Drone Navigation: Autoencoder Learning Fusion for Aerodynamics**, Jiaohao Wu et.al., Paper: [http://arxiv.org/abs/2310.08830v1](http://arxiv.org/abs/2310.08830v1)
+- 2023-10-13, **Probing axion-like particles at the Electron-Ion Collider**, Reuven Balkin et.al., Paper: [http://arxiv.org/abs/2310.08827v1](http://arxiv.org/abs/2310.08827v1)
+- 2023-10-13, **Revisiting Multi-modal 3D Semantic Segmentation in Real-world Autonomous Driving**, Feng Jiang et.al., Paper: [http://arxiv.org/abs/2310.08826v1](http://arxiv.org/abs/2310.08826v1)
+- 2023-10-12, **Gauge Defects**, Thomas Vandermeulen et.al., Paper: [http://arxiv.org/abs/2310.08626v1](http://arxiv.org/abs/2310.08626v1)
 - 2023-10-12, **Gauge origami and quiver W-algebras**, Taro Kimura et.al., Paper: [http://arxiv.org/abs/2310.08545v1](http://arxiv.org/abs/2310.08545v1)
 - 2023-10-12, **Acceleration and focusing of multispecies ion beam using a converging laser-driven shock**, Jihoon Kim et.al., Paper: [http://arxiv.org/abs/2310.08432v1](http://arxiv.org/abs/2310.08432v1)
 - 2023-10-12, **Assessing Marine Mammal Abundance: A Novel Data Fusion**, Erin M. Schliep et.al., Paper: [http://arxiv.org/abs/2310.08397v1](http://arxiv.org/abs/2310.08397v1)
