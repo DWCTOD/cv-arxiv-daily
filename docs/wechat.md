@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-10-16, **A Survey on Video Diffusion Models**, Zhen Xing et.al., Paper: [http://arxiv.org/abs/2310.10647v1](http://arxiv.org/abs/2310.10647v1)
+- 2023-10-16, **Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2310.10642v1](http://arxiv.org/abs/2310.10642v1)
+- 2023-10-16, **Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**, Kevin Black et.al., Paper: [http://arxiv.org/abs/2310.10639v1](http://arxiv.org/abs/2310.10639v1)
+- 2023-10-16, **Efficacy of Dual-Encoders for Extreme Multi-Label Classification**, Nilesh Gupta et.al., Paper: [http://arxiv.org/abs/2310.10636v1](http://arxiv.org/abs/2310.10636v1)
+- 2023-10-16, **Overcoming the Rayleigh limit in extremely low SNR**, Hyunsoo Choi et.al., Paper: [http://arxiv.org/abs/2310.10633v1](http://arxiv.org/abs/2310.10633v1)
+- 2023-10-16, **Video Language Planning**, Yilun Du et.al., Paper: [http://arxiv.org/abs/2310.10625v1](http://arxiv.org/abs/2310.10625v1)
+- 2023-10-16, **DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2310.10624v1](http://arxiv.org/abs/2310.10624v1)
+- 2023-10-16, **BiLL-VTG: Bridging Large Language Models and Lightweight Visual Tools for Video-based Texts Generation**, Ji Qi et.al., Paper: [http://arxiv.org/abs/2310.10586v1](http://arxiv.org/abs/2310.10586v1)
+- 2023-10-16, **RefConv: Re-parameterized Refocusing Convolution for Powerful ConvNets**, Zhicheng Cai et.al., Paper: [http://arxiv.org/abs/2310.10563v1](http://arxiv.org/abs/2310.10563v1)
+- 2023-10-16, **Deep learning applied to EEG data with different montages using spatial attention**, Dung Truong et.al., Paper: [http://arxiv.org/abs/2310.10550v1](http://arxiv.org/abs/2310.10550v1)
 - 2023-10-13, **An Unbiased Look at Datasets for Visuo-Motor Pre-Training**, Sudeep Dasari et.al., Paper: [http://arxiv.org/abs/2310.09289v1](http://arxiv.org/abs/2310.09289v1)
 - 2023-10-13, **Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**, Geri Skenderi et.al., Paper: [http://arxiv.org/abs/2310.09278v1](http://arxiv.org/abs/2310.09278v1)
 - 2023-10-13, **A Hybrid Approach for Depression Classification: Random Forest-ANN Ensemble on Motor Activity Signals**, Anket Patil et.al., Paper: [http://arxiv.org/abs/2310.09277v1](http://arxiv.org/abs/2310.09277v1)
@@ -3405,6 +3415,16 @@
 
 ## MultiModal
 
+- 2023-10-16, **Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**, Martin Scheiber et.al., Paper: [http://arxiv.org/abs/2310.10597v1](http://arxiv.org/abs/2310.10597v1)
+- 2023-10-16, **Di-Higgs productions at N$^3$LO+N$^3$LL**, A. H. Ajjath et.al., Paper: [http://arxiv.org/abs/2310.10569v1](http://arxiv.org/abs/2310.10569v1)
+- 2023-10-16, **A linear parameters study of ion cyclotron emission using drift ring beam distribution**, Haozhe Kong et.al., Paper: [http://arxiv.org/abs/2310.10511v1](http://arxiv.org/abs/2310.10511v1)
+- 2023-10-16, **Enhanced Edge-Perceptual Guided Image Filtering**, Jinyu Li et.al., Paper: [http://arxiv.org/abs/2310.10387v1](http://arxiv.org/abs/2310.10387v1)
+- 2023-10-16, **Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes**, Yan Pan et.al., Paper: [http://arxiv.org/abs/2310.10371v1](http://arxiv.org/abs/2310.10371v1)
+- 2023-10-16, **Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot**, Muhammad Shalihan et.al., Paper: [http://arxiv.org/abs/2310.10289v1](http://arxiv.org/abs/2310.10289v1)
+- 2023-10-16, **Mask wearing object detection algorithm based on improved YOLOv5**, Peng Wen et.al., Paper: [http://arxiv.org/abs/2310.10245v1](http://arxiv.org/abs/2310.10245v1)
+- 2023-10-16, **Advancing Audio Emotion and Intent Recognition with Large Pre-Trained Models and Bayesian Inference**, Dejan Porjazovski et.al., Paper: [http://arxiv.org/abs/2310.10179v1](http://arxiv.org/abs/2310.10179v1)
+- 2023-10-16, **Hyperspectral Image Fusion via Logarithmic Low-rank Tensor Ring Decomposition**, Jun Zhang et.al., Paper: [http://arxiv.org/abs/2310.10044v1](http://arxiv.org/abs/2310.10044v1)
+- 2023-10-15, **Joint Sparse Representations and Coupled Dictionary Learning in Multi-Source Heterogeneous Image Pseudo-color Fusion**, Long Bai et.al., Paper: [http://arxiv.org/abs/2310.09937v1](http://arxiv.org/abs/2310.09937v1)
 - 2023-10-13, **Efficient training sets for surrogate models of tokamak turbulence with Active Deep Ensembles**, L. Zanisi et.al., Paper: [http://arxiv.org/abs/2310.09024v1](http://arxiv.org/abs/2310.09024v1)
 - 2023-10-13, **A Spatial-Temporal Dual-Mode Mixed Flow Network for Panoramic Video Salient Object Detection**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2310.09016v1](http://arxiv.org/abs/2310.09016v1)
 - 2023-10-13, **Learning to Behave Like Clean Speech: Dual-Branch Knowledge Distillation for Noise-Robust Fake Audio Detection**, Cunhang Fan et.al., Paper: [http://arxiv.org/abs/2310.08869v1](http://arxiv.org/abs/2310.08869v1)
