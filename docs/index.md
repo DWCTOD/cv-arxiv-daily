@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis**|Youngjoong Kwon et.al.|[2310.11449v1](http://arxiv.org/abs/2310.11449v1)|null|
+|**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v1](http://arxiv.org/abs/2310.11448v1)|null|
+|**2023-10-17**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440v1](http://arxiv.org/abs/2310.11440v1)|null|
+|**2023-10-17**|**Transitive generalized toggle groups containing a cycle**|Jonathan S. Bloom et.al.|[2310.11387v1](http://arxiv.org/abs/2310.11387v1)|null|
+|**2023-10-17**|**DialogueLLM: Context and Emotion Knowledge-Tuned LLaMA Models for Emotion Recognition in Conversations**|Yazhou Zhang et.al.|[2310.11374v1](http://arxiv.org/abs/2310.11374v1)|null|
+|**2023-10-17**|**VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights**|Shanshan Xu et.al.|[2310.11368v1](http://arxiv.org/abs/2310.11368v1)|null|
+|**2023-10-17**|**Lie Group Decompositions for Equivariant Neural Networks**|Mircea Mironenco et.al.|[2310.11366v1](http://arxiv.org/abs/2310.11366v1)|null|
+|**2023-10-17**|**Hybrid quantum-classical graph neural networks for tumor classification in digital pathology**|Anupama Ray et.al.|[2310.11353v1](http://arxiv.org/abs/2310.11353v1)|null|
+|**2023-10-17**|**The effect of stemming and lemmatization on Portuguese fake news text classification**|Lucca de Freitas Santos et.al.|[2310.11344v1](http://arxiv.org/abs/2310.11344v1)|null|
+|**2023-10-17**|**Influencing factors on false positive rates when classifying tumor cell line response to drug treatment**|Priyanka Vasanthakumari et.al.|[2310.11329v1](http://arxiv.org/abs/2310.11329v1)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642v1](http://arxiv.org/abs/2310.10642v1)|**[link](https://github.com/fudan-zvg/4d-gaussian-splatting)**|
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639v1](http://arxiv.org/abs/2310.10639v1)|null|
@@ -3423,6 +3433,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Enhancing Neural Machine Translation with Semantic Units**|Langlin Huang et.al.|[2310.11360v1](http://arxiv.org/abs/2310.11360v1)|null|
+|**2023-10-17**|**Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection**|Juwu Zheng et.al.|[2310.11307v1](http://arxiv.org/abs/2310.11307v1)|null|
+|**2023-10-17**|**Search for non-resonant Higgs boson pair production in the $2b + 2\ell + E_\mathrm{T}^\mathrm{miss}$ final state in $pp$ collisions at $\sqrt{s} = 13\mathrm{TeV}$ with the ATLAS detector**|ATLAS Collaboration et.al.|[2310.11286v1](http://arxiv.org/abs/2310.11286v1)|null|
+|**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210v1](http://arxiv.org/abs/2310.11210v1)|null|
+|**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169v1](http://arxiv.org/abs/2310.11169v1)|null|
+|**2023-10-17**|**Reduced model for H-mode sustainment in unfavorable $\mathbf{ \nabla B}$ drift configuration in ASDEX Upgrade**|O. Grover et.al.|[2310.11145v1](http://arxiv.org/abs/2310.11145v1)|null|
+|**2023-10-17**|**Iterative Shallow Fusion of Backward Language Model for End-to-End Speech Recognition**|Atsunori Ogawa et.al.|[2310.11010v1](http://arxiv.org/abs/2310.11010v1)|null|
+|**2023-10-17**|**FusionU-Net: U-Net with Enhanced Skip Connection for Pathology Image Segmentation**|Zongyi Li et.al.|[2310.10951v1](http://arxiv.org/abs/2310.10951v1)|null|
+|**2023-10-16**|**CP-violating top-Higgs coupling in SMEFT**|Vernon Barger et.al.|[2310.10852v1](http://arxiv.org/abs/2310.10852v1)|null|
 |**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597v1](http://arxiv.org/abs/2310.10597v1)|null|
 |**2023-10-16**|**Di-Higgs productions at N$^3$LO+N$^3$LL**|A. H. Ajjath et.al.|[2310.10569v1](http://arxiv.org/abs/2310.10569v1)|null|
 |**2023-10-16**|**A linear parameters study of ion cyclotron emission using drift ring beam distribution**|Haozhe Kong et.al.|[2310.10511v1](http://arxiv.org/abs/2310.10511v1)|null|
