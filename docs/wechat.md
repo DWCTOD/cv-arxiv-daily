@@ -1,10 +1,10 @@
-> Updated on 2023.10.18
+> Updated on 2023.10.19
 
 ## Video_Classification
 
 - 2023-10-17, **DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis**, Youngjoong Kwon et.al., Paper: [http://arxiv.org/abs/2310.11449v1](http://arxiv.org/abs/2310.11449v1)
-- 2023-10-17, **4K4D: Real-Time 4D View Synthesis at 4K Resolution**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2310.11448v1](http://arxiv.org/abs/2310.11448v1)
-- 2023-10-17, **EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**, Yaofang Liu et.al., Paper: [http://arxiv.org/abs/2310.11440v1](http://arxiv.org/abs/2310.11440v1)
+- 2023-10-18, **4K4D: Real-Time 4D View Synthesis at 4K Resolution**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2310.11448v2](http://arxiv.org/abs/2310.11448v2)
+- 2023-10-18, **EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**, Yaofang Liu et.al., Paper: [http://arxiv.org/abs/2310.11440v2](http://arxiv.org/abs/2310.11440v2)
 - 2023-10-17, **Transitive generalized toggle groups containing a cycle**, Jonathan S. Bloom et.al., Paper: [http://arxiv.org/abs/2310.11387v1](http://arxiv.org/abs/2310.11387v1)
 - 2023-10-17, **DialogueLLM: Context and Emotion Knowledge-Tuned LLaMA Models for Emotion Recognition in Conversations**, Yazhou Zhang et.al., Paper: [http://arxiv.org/abs/2310.11374v1](http://arxiv.org/abs/2310.11374v1)
 - 2023-10-17, **VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights**, Shanshan Xu et.al., Paper: [http://arxiv.org/abs/2310.11368v1](http://arxiv.org/abs/2310.11368v1)
