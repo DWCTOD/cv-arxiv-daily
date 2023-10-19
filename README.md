@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks**|Mohammadreza Salehi et.al.|[2310.12126v1](http://arxiv.org/abs/2310.12126v1)|null|
+|**2023-10-18**|**Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture**|Daniel Y. Fu et.al.|[2310.12109v1](http://arxiv.org/abs/2310.12109v1)|null|
+|**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092v1](http://arxiv.org/abs/2310.12092v1)|null|
+|**2023-10-18**|**Chemical Analysis of the Brightest Star of the Cetus II Ultra-Faint Dwarf Galaxy Candidate**|K. B. Webber et.al.|[2310.12090v1](http://arxiv.org/abs/2310.12090v1)|null|
+|**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
+|**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
+|**2023-10-18**|**Black-Box Training Data Identification in GANs via Detector Networks**|Lukman Olagoke et.al.|[2310.12063v1](http://arxiv.org/abs/2310.12063v1)|null|
+|**2023-10-18**|**Robust Class-Conditional Distribution Alignment for Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2310.12060v1](http://arxiv.org/abs/2310.12060v1)|null|
+|**2023-10-18**|**Exact and efficient solutions of the LMC Multitask Gaussian Process model**|Olivier Truffinet et.al.|[2310.12032v1](http://arxiv.org/abs/2310.12032v1)|null|
+|**2023-10-18**|**CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation**|Philipp Borchert et.al.|[2310.12024v1](http://arxiv.org/abs/2310.12024v1)|**[link](https://github.com/pnborchert/core)**|
 |**2023-10-17**|**DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis**|Youngjoong Kwon et.al.|[2310.11449v1](http://arxiv.org/abs/2310.11449v1)|null|
 |**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v2](http://arxiv.org/abs/2310.11448v2)|null|
 |**2023-10-18**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440v2](http://arxiv.org/abs/2310.11440v2)|null|
@@ -3429,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Efficient calculation of self magnetic field, self-force, and self-inductance for electromagnetic coils. II. Rectangular cross-section**|Matt Landreman et.al.|[2310.12087v1](http://arxiv.org/abs/2310.12087v1)|null|
+|**2023-10-18**|**Deterministic photon source of genuine three-qubit entanglement**|Yijian Meng et.al.|[2310.12038v1](http://arxiv.org/abs/2310.12038v1)|null|
+|**2023-10-18**|**On the Upper Bound of Non-Thermal Fusion Reactivity with Fixed Total Energy**|Hua-sheng Xie et.al.|[2310.11997v1](http://arxiv.org/abs/2310.11997v1)|null|
+|**2023-10-18**|**BUT CHiME-7 system description**|Martin Karafiát et.al.|[2310.11921v1](http://arxiv.org/abs/2310.11921v1)|null|
+|**2023-10-18**|**Multi-modal Medical Neurological Image Fusion using Wavelet Pooled Edge Preserving Autoencoder**|Manisha Das et.al.|[2310.11910v1](http://arxiv.org/abs/2310.11910v1)|null|
+|**2023-10-18**|**A New Multimodal Medical Image Fusion based on Laplacian Autoencoder with Channel Attention**|Payal Wankhede et.al.|[2310.11896v1](http://arxiv.org/abs/2310.11896v1)|null|
+|**2023-10-18**|**DPF-Nutrition: Food Nutrition Estimation via Depth Prediction and Fusion**|Yuzhe Han et.al.|[2310.11702v1](http://arxiv.org/abs/2310.11702v1)|null|
+|**2023-10-18**|**The origin of correlation between mass and angle in quasi-fission**|S. Amano et.al.|[2310.11688v1](http://arxiv.org/abs/2310.11688v1)|null|
+|**2023-10-18**|**ChatGPT-guided Semantics for Zero-shot Learning**|Fahimul Hoque Shubho et.al.|[2310.11657v1](http://arxiv.org/abs/2310.11657v1)|**[link](https://github.com/fhshubho/cgs-zsl)**|
+|**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu et.al.|[2310.11598v1](http://arxiv.org/abs/2310.11598v1)|null|
 |**2023-10-17**|**Enhancing Neural Machine Translation with Semantic Units**|Langlin Huang et.al.|[2310.11360v1](http://arxiv.org/abs/2310.11360v1)|null|
 |**2023-10-17**|**Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection**|Juwu Zheng et.al.|[2310.11307v1](http://arxiv.org/abs/2310.11307v1)|null|
 |**2023-10-17**|**Search for non-resonant Higgs boson pair production in the $2b + 2\ell + E_\mathrm{T}^\mathrm{miss}$ final state in $pp$ collisions at $\sqrt{s} = 13\mathrm{TeV}$ with the ATLAS detector**|ATLAS Collaboration et.al.|[2310.11286v1](http://arxiv.org/abs/2310.11286v1)|null|
