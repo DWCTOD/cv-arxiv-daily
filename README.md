@@ -1,4 +1,4 @@
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 
 ## Video_Classification
 
@@ -11,8 +11,8 @@
 |**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
 |**2023-10-18**|**Black-Box Training Data Identification in GANs via Detector Networks**|Lukman Olagoke et.al.|[2310.12063v1](http://arxiv.org/abs/2310.12063v1)|null|
-|**2023-10-18**|**Robust Class-Conditional Distribution Alignment for Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2310.12060v1](http://arxiv.org/abs/2310.12060v1)|null|
-|**2023-10-18**|**Exact and efficient solutions of the LMC Multitask Gaussian Process model**|Olivier Truffinet et.al.|[2310.12032v1](http://arxiv.org/abs/2310.12032v1)|null|
+|**2023-10-19**|**Robust Class-Conditional Distribution Alignment for Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2310.12060v2](http://arxiv.org/abs/2310.12060v2)|null|
+|**2023-10-18**|**Exact and efficient solutions of the LMC Multitask Gaussian Process model**|Olivier Truffinet et.al.|[2310.12032v1](http://arxiv.org/abs/2310.12032v1)|**[link](https://github.com/qwerty6191/projected-lmc)**|
 |**2023-10-18**|**CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation**|Philipp Borchert et.al.|[2310.12024v1](http://arxiv.org/abs/2310.12024v1)|**[link](https://github.com/pnborchert/core)**|
 |**2023-10-17**|**DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis**|Youngjoong Kwon et.al.|[2310.11449v1](http://arxiv.org/abs/2310.11449v1)|null|
 |**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v2](http://arxiv.org/abs/2310.11448v2)|null|
