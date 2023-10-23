@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Using Human-like Mechanism to Weaken Effect of Pre-training Weight Bias in Face-Recognition Convolutional Neural Network**|Haojiang Ying et.al.|[2310.13674v1](http://arxiv.org/abs/2310.13674v1)|null|
+|**2023-10-20**|**Explainability, Interpretability, Depression detection, Social Media**|Eliseo Bao Souto et.al.|[2310.13664v1](http://arxiv.org/abs/2310.13664v1)|null|
+|**2023-10-20**|**Arabic Dialect Identification under Scrutiny: Limitations of Single-label Classification**|Amr Keleg et.al.|[2310.13661v1](http://arxiv.org/abs/2310.13661v1)|**[link](https://github.com/amr-keleg/adi-under-scrutiny)**|
+|**2023-10-20**|**Optimal Transport for Measures with Noisy Tree Metric**|Tam Le et.al.|[2310.13653v1](http://arxiv.org/abs/2310.13653v1)|null|
+|**2023-10-20**|**Principal $2$-blocks with wreathed defect groups up to splendid Morita equivalence**|Shigeo Koshitani et.al.|[2310.13621v1](http://arxiv.org/abs/2310.13621v1)|null|
+|**2023-10-20**|**Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling**|Sania Eskandari et.al.|[2310.13604v1](http://arxiv.org/abs/2310.13604v1)|**[link](https://github.com/saniaesk/skin-lesion-segmentation)**|
+|**2023-10-20**|**Classification of quantum states of light using random measurements through a multimode fiber**|Saroch Leedumrongwatthanakun et.al.|[2310.13599v1](http://arxiv.org/abs/2310.13599v1)|null|
+|**2023-10-20**|**Longer-range Contextualized Masked Autoencoder**|Taekyung Kim et.al.|[2310.13593v1](http://arxiv.org/abs/2310.13593v1)|null|
+|**2023-10-20**|**POTLoc: Pseudo-Label Oriented Transformer for Point-Supervised Temporal Action Localization**|Elahe Vahdani et.al.|[2310.13585v1](http://arxiv.org/abs/2310.13585v1)|null|
+|**2023-10-20**|**Progressive Dual Priori Network for Generalized Breast Tumor Segmentation**|Li Wang et.al.|[2310.13574v1](http://arxiv.org/abs/2310.13574v1)|null|
 |**2023-10-19**|**Putting the Object Back into Video Object Segmentation**|Ho Kei Cheng et.al.|[2310.12982v1](http://arxiv.org/abs/2310.12982v1)|**[link](https://github.com/hkchengrex/Cutie)**|
 |**2023-10-19**|**Variational Inference for SDEs Driven by Fractional Noise**|Rembert Daems et.al.|[2310.12975v1](http://arxiv.org/abs/2310.12975v1)|null|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
@@ -3453,6 +3463,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682v1](http://arxiv.org/abs/2310.13682v1)|**[link](https://github.com/mosheber/token_elimination)**|
+|**2023-10-20**|**Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling**|Sania Eskandari et.al.|[2310.13604v1](http://arxiv.org/abs/2310.13604v1)|**[link](https://github.com/saniaesk/skin-lesion-segmentation)**|
+|**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447v1](http://arxiv.org/abs/2310.13447v1)|null|
+|**2023-10-20**|**Towards Enhancing Relational Rules for Knowledge Graph Link Prediction**|Shuhan Wu et.al.|[2310.13411v1](http://arxiv.org/abs/2310.13411v1)|null|
+|**2023-10-20**|**PSGText: Stroke-Guided Scene Text Editing with PSP Module**|Felix Liawi et.al.|[2310.13366v1](http://arxiv.org/abs/2310.13366v1)|null|
+|**2023-10-20**|**Elasto-plastic residual stress analysis of selective sintered porous materials based on 3D-multilayer thermo-structural phase-field simulations**|Yangyiwei Yang et.al.|[2310.13351v1](http://arxiv.org/abs/2310.13351v1)|null|
+|**2023-10-20**|**EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View**|Torben Teepe et.al.|[2310.13350v1](http://arxiv.org/abs/2310.13350v1)|**[link](https://github.com/tteepe/earlybird)**|
+|**2023-10-20**|**FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery**|Anatol Garioud et.al.|[2310.13336v1](http://arxiv.org/abs/2310.13336v1)|null|
+|**2023-10-20**|**The neural signature of inner peace: morphometric differences between high and low accepters**|Alessandro Grecucci et.al.|[2310.13318v1](http://arxiv.org/abs/2310.13318v1)|null|
+|**2023-10-20**|**Combining Policy Gradient and Safety-Based Control for Autonomous Driving**|Xi Xiong et.al.|[2310.13314v1](http://arxiv.org/abs/2310.13314v1)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
 |**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724v1](http://arxiv.org/abs/2310.12724v1)|null|
 |**2023-10-19**|**Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans**|Nicky Zimmerman et.al.|[2310.12536v1](http://arxiv.org/abs/2310.12536v1)|**[link](https://github.com/eth-pbl/nano-smcl)**|
