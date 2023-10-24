@@ -3,7 +3,7 @@
 ## Video_Classification
 
 - 2023-10-20, **Using Human-like Mechanism to Weaken Effect of Pre-training Weight Bias in Face-Recognition Convolutional Neural Network**, Haojiang Ying et.al., Paper: [http://arxiv.org/abs/2310.13674v1](http://arxiv.org/abs/2310.13674v1)
-- 2023-10-20, **Explainability, Interpretability, Depression detection, Social Media**, Eliseo Bao Souto et.al., Paper: [http://arxiv.org/abs/2310.13664v1](http://arxiv.org/abs/2310.13664v1)
+- 2023-10-23, **Explainable Depression Symptom Detection in Social Media**, Eliseo Bao Souto et.al., Paper: [http://arxiv.org/abs/2310.13664v2](http://arxiv.org/abs/2310.13664v2)
 - 2023-10-20, **Arabic Dialect Identification under Scrutiny: Limitations of Single-label Classification**, Amr Keleg et.al., Paper: [http://arxiv.org/abs/2310.13661v1](http://arxiv.org/abs/2310.13661v1), Code: **[https://github.com/amr-keleg/adi-under-scrutiny](https://github.com/amr-keleg/adi-under-scrutiny)**
 - 2023-10-20, **Optimal Transport for Measures with Noisy Tree Metric**, Tam Le et.al., Paper: [http://arxiv.org/abs/2310.13653v1](http://arxiv.org/abs/2310.13653v1)
 - 2023-10-20, **Principal $2$-blocks with wreathed defect groups up to splendid Morita equivalence**, Shigeo Koshitani et.al., Paper: [http://arxiv.org/abs/2310.13621v1](http://arxiv.org/abs/2310.13621v1)
