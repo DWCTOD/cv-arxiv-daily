@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
+|**2023-10-23**|**Bitrate Ladder Prediction Methods for Adaptive Video Streaming: A Review and Benchmark**|Ahmed Telili et.al.|[2310.15163v1](http://arxiv.org/abs/2310.15163v1)|null|
+|**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154v1](http://arxiv.org/abs/2310.15154v1)|null|
+|**2023-10-23**|**Unlocking the Transferability of Tokens in Deep Models for Tabular Data**|Qi-Le Zhou et.al.|[2310.15149v1](http://arxiv.org/abs/2310.15149v1)|null|
+|**2023-10-23**|**When Should the FDA Inspect Pharmaceutical Manufacturing Facilities to Better Mitigate Drug Shortages?**|Daniel Kosmas et.al.|[2310.15146v1](http://arxiv.org/abs/2310.15146v1)|null|
+|**2023-10-23**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn et.al.|[2310.15130v1](http://arxiv.org/abs/2310.15130v1)|**[link](https://github.com/apple/ml-nvas3d)**|
+|**2023-10-23**|**Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models**|Gabriel Sarch et.al.|[2310.15127v1](http://arxiv.org/abs/2310.15127v1)|null|
+|**2023-10-23**|**SpVOS: Efficient Video Object Segmentation with Triple Sparse Convolution**|Weihao Lin et.al.|[2310.15115v1](http://arxiv.org/abs/2310.15115v1)|null|
+|**2023-10-23**|**The Self 2.0: How AI-Enhanced Self-Clones Transform Self-Perception and Improve Presentation Skills**|Qingxiao Zheng et.al.|[2310.15112v1](http://arxiv.org/abs/2310.15112v1)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-20**|**Using Human-like Mechanism to Weaken Effect of Pre-training Weight Bias in Face-Recognition Convolutional Neural Network**|Haojiang Ying et.al.|[2310.13674v1](http://arxiv.org/abs/2310.13674v1)|null|
 |**2023-10-23**|**Explainable Depression Symptom Detection in Social Media**|Eliseo Bao Souto et.al.|[2310.13664v2](http://arxiv.org/abs/2310.13664v2)|null|
 |**2023-10-20**|**Arabic Dialect Identification under Scrutiny: Limitations of Single-label Classification**|Amr Keleg et.al.|[2310.13661v1](http://arxiv.org/abs/2310.13661v1)|**[link](https://github.com/amr-keleg/adi-under-scrutiny)**|
@@ -3459,6 +3469,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Fusion-Driven Tree Reconstruction and Fruit Localization: Advancing Precision in Agriculture**|Kaiming Fu et.al.|[2310.15138v1](http://arxiv.org/abs/2310.15138v1)|null|
+|**2023-10-23**|**Atomism Axiomatised Using Mereological Composition as a Primitive Notion**|Marcin Łyczak et.al.|[2310.15087v1](http://arxiv.org/abs/2310.15087v1)|null|
+|**2023-10-23**|**P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation**|Mohammed A. M. Elhassan et.al.|[2310.15025v1](http://arxiv.org/abs/2310.15025v1)|null|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v1](http://arxiv.org/abs/2310.15008v1)|null|
+|**2023-10-23**|**Audio-Visual Speaker Tracking: Progress, Challenges, and Future Directions**|Jinzheng Zhao et.al.|[2310.14778v1](http://arxiv.org/abs/2310.14778v1)|null|
+|**2023-10-23**|**Strong and Efficient Baselines for Open Domain Conversational Question Answering**|Andrei C. Coman et.al.|[2310.14708v1](http://arxiv.org/abs/2310.14708v1)|null|
+|**2023-10-23**|**BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities**|Binyu Zhao et.al.|[2310.14702v1](http://arxiv.org/abs/2310.14702v1)|**[link](https://github.com/byzhaoai/bm2cp)**|
+|**2023-10-23**|**Multilevel Perception Boundary-guided Network for Breast Lesion Segmentation in Ultrasound Images**|Xing Yang et.al.|[2310.14636v1](http://arxiv.org/abs/2310.14636v1)|null|
+|**2023-10-23**|**Multimodal Graph Learning for Modeling Emerging Pandemics with Big Data**|Khanh-Tung Tran et.al.|[2310.14549v1](http://arxiv.org/abs/2310.14549v1)|**[link](https://github.com/khanhtungtran/mgl4mep)**|
+|**2023-10-23**|**Practical Deep Dispersed Watermarking with Synchronization and Fusion**|Hengchang Guo et.al.|[2310.14532v1](http://arxiv.org/abs/2310.14532v1)|**[link](https://github.com/bytedance/dwsf)**|
 |**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682v1](http://arxiv.org/abs/2310.13682v1)|**[link](https://github.com/mosheber/token_elimination)**|
 |**2023-10-20**|**Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling**|Sania Eskandari et.al.|[2310.13604v1](http://arxiv.org/abs/2310.13604v1)|**[link](https://github.com/saniaesk/skin-lesion-segmentation)**|
 |**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447v1](http://arxiv.org/abs/2310.13447v1)|null|
