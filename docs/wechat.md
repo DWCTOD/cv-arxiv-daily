@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-10-24, **From Posterior Sampling to Meaningful Diversity in Image Restoration**, Noa Cohen et.al., Paper: [http://arxiv.org/abs/2310.16047v1](http://arxiv.org/abs/2310.16047v1)
+- 2023-10-24, **Finetuning Offline World Models in the Real World**, Yunhai Feng et.al., Paper: [http://arxiv.org/abs/2310.16029v1](http://arxiv.org/abs/2310.16029v1)
+- 2023-10-24, **Human-in-the-Loop Task and Motion Planning for Imitation Learning**, Ajay Mandlekar et.al., Paper: [http://arxiv.org/abs/2310.16014v1](http://arxiv.org/abs/2310.16014v1)
+- 2023-10-24, **CVPR 2023 Text Guided Video Editing Competition**, Jay Zhangjie Wu et.al., Paper: [http://arxiv.org/abs/2310.16003v1](http://arxiv.org/abs/2310.16003v1)
+- 2023-10-24, **Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning**, Xin Xing et.al., Paper: [http://arxiv.org/abs/2310.15985v1](http://arxiv.org/abs/2310.15985v1), Code: **[https://github.com/mvrl/vlpl](https://github.com/mvrl/vlpl)**
+- 2023-10-24, **Geometry-Aware Video Quality Assessment for Dynamic Digital Human**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2310.15984v1](http://arxiv.org/abs/2310.15984v1)
+- 2023-10-24, **Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees**, Verónica Álvarez et.al., Paper: [http://arxiv.org/abs/2310.15974v1](http://arxiv.org/abs/2310.15974v1), Code: **[https://github.com/machinelearningbcam/imrcs-for-incremental-learning-neurips-2023](https://github.com/machinelearningbcam/imrcs-for-incremental-learning-neurips-2023)**
+- 2023-10-24, **Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection**, Manyuan Zhang et.al., Paper: [http://arxiv.org/abs/2310.15955v1](http://arxiv.org/abs/2310.15955v1)
+- 2023-10-24, **Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**, Xing Shen et.al., Paper: [http://arxiv.org/abs/2310.15952v1](http://arxiv.org/abs/2310.15952v1)
+- 2023-10-24, **ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2310.15946v1](http://arxiv.org/abs/2310.15946v1)
 - 2023-10-23, **FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2310.15169v1](http://arxiv.org/abs/2310.15169v1)
 - 2023-10-23, **Bitrate Ladder Prediction Methods for Adaptive Video Streaming: A Review and Benchmark**, Ahmed Telili et.al., Paper: [http://arxiv.org/abs/2310.15163v1](http://arxiv.org/abs/2310.15163v1)
 - 2023-10-23, **Linear Representations of Sentiment in Large Language Models**, Curt Tigges et.al., Paper: [http://arxiv.org/abs/2310.15154v1](http://arxiv.org/abs/2310.15154v1)
@@ -3465,6 +3475,13 @@
 
 ## MultiModal
 
+- 2023-10-24, **Towards Automated Recipe Genre Classification using Semi-Supervised Learning**, Nazmus Sakib et.al., Paper: [http://arxiv.org/abs/2310.15693v1](http://arxiv.org/abs/2310.15693v1)
+- 2023-10-24, **Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection**, Linyan Huang et.al., Paper: [http://arxiv.org/abs/2310.15670v1](http://arxiv.org/abs/2310.15670v1), Code: **[https://github.com/opendrivelab/birds-eye-view-perception](https://github.com/opendrivelab/birds-eye-view-perception)**
+- 2023-10-24, **Region-controlled Style Transfer**, Junjie Kang et.al., Paper: [http://arxiv.org/abs/2310.15658v1](http://arxiv.org/abs/2310.15658v1)
+- 2023-10-24, **Twisted Verlinde formula for vertex operator algebras**, Chongying Dong et.al., Paper: [http://arxiv.org/abs/2310.15563v1](http://arxiv.org/abs/2310.15563v1)
+- 2023-10-24, **Generalized Cardy conditions of topological defect lines**, Xia Gu et.al., Paper: [http://arxiv.org/abs/2310.15487v1](http://arxiv.org/abs/2310.15487v1)
+- 2023-10-24, **Salient Object Detection in RGB-D Videos**, Ao Mou et.al., Paper: [http://arxiv.org/abs/2310.15482v1](http://arxiv.org/abs/2310.15482v1), Code: **[https://github.com/kerenfu/rdvs](https://github.com/kerenfu/rdvs)**
+- 2023-10-23, **Modality Dropout for Multimodal Device Directed Speech Detection using Verbal and Non-Verbal Features**, Gautam Krishna et.al., Paper: [http://arxiv.org/abs/2310.15261v1](http://arxiv.org/abs/2310.15261v1)
 - 2023-10-23, **Fusion-Driven Tree Reconstruction and Fruit Localization: Advancing Precision in Agriculture**, Kaiming Fu et.al., Paper: [http://arxiv.org/abs/2310.15138v1](http://arxiv.org/abs/2310.15138v1)
 - 2023-10-23, **Atomism Axiomatised Using Mereological Composition as a Primitive Notion**, Marcin Łyczak et.al., Paper: [http://arxiv.org/abs/2310.15087v1](http://arxiv.org/abs/2310.15087v1)
 - 2023-10-23, **P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation**, Mohammed A. M. Elhassan et.al., Paper: [http://arxiv.org/abs/2310.15025v1](http://arxiv.org/abs/2310.15025v1)
