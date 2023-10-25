@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 
 ## Video_Classification
 
@@ -3476,7 +3476,7 @@ layout: default
 |**2023-10-23**|**Fusion-Driven Tree Reconstruction and Fruit Localization: Advancing Precision in Agriculture**|Kaiming Fu et.al.|[2310.15138v1](http://arxiv.org/abs/2310.15138v1)|null|
 |**2023-10-23**|**Atomism Axiomatised Using Mereological Composition as a Primitive Notion**|Marcin Łyczak et.al.|[2310.15087v1](http://arxiv.org/abs/2310.15087v1)|null|
 |**2023-10-23**|**P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation**|Mohammed A. M. Elhassan et.al.|[2310.15025v1](http://arxiv.org/abs/2310.15025v1)|null|
-|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v1](http://arxiv.org/abs/2310.15008v1)|null|
+|**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v2](http://arxiv.org/abs/2310.15008v2)|null|
 |**2023-10-23**|**Audio-Visual Speaker Tracking: Progress, Challenges, and Future Directions**|Jinzheng Zhao et.al.|[2310.14778v1](http://arxiv.org/abs/2310.14778v1)|null|
 |**2023-10-23**|**Strong and Efficient Baselines for Open Domain Conversational Question Answering**|Andrei C. Coman et.al.|[2310.14708v1](http://arxiv.org/abs/2310.14708v1)|null|
 |**2023-10-23**|**BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities**|Binyu Zhao et.al.|[2310.14702v1](http://arxiv.org/abs/2310.14702v1)|**[link](https://github.com/byzhaoai/bm2cp)**|
