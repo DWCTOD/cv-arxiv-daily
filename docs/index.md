@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 
 ## Video_Classification
 
@@ -16,7 +16,7 @@ layout: default
 |**2023-10-24**|**Geometry-Aware Video Quality Assessment for Dynamic Digital Human**|Zicheng Zhang et.al.|[2310.15984v1](http://arxiv.org/abs/2310.15984v1)|null|
 |**2023-10-24**|**Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees**|Verónica Álvarez et.al.|[2310.15974v1](http://arxiv.org/abs/2310.15974v1)|**[link](https://github.com/machinelearningbcam/imrcs-for-incremental-learning-neurips-2023)**|
 |**2023-10-24**|**Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection**|Manyuan Zhang et.al.|[2310.15955v1](http://arxiv.org/abs/2310.15955v1)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
+|**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v2](http://arxiv.org/abs/2310.15952v2)|null|
 |**2023-10-24**|**ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**|Haidong Zhu et.al.|[2310.15946v1](http://arxiv.org/abs/2310.15946v1)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
 |**2023-10-23**|**Bitrate Ladder Prediction Methods for Adaptive Video Streaming: A Review and Benchmark**|Ahmed Telili et.al.|[2310.15163v1](http://arxiv.org/abs/2310.15163v1)|null|
