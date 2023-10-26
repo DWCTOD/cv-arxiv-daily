@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|**[link](https://github.com/jiaxuanyou/dbgym)**|
+|**2023-10-25**|**TD-MPC2: Scalable, Robust World Models for Continuous Control**|Nicklas Hansen et.al.|[2310.16828v1](http://arxiv.org/abs/2310.16828v1)|null|
+|**2023-10-25**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826v1](http://arxiv.org/abs/2310.16826v1)|null|
+|**2023-10-25**|**Uncovering a new group of T Tauri stars in the Taurus-Auriga molecular complex from Gaia and GALEX data**|Ana Inés Gómez de Castro et.al.|[2310.16820v1](http://arxiv.org/abs/2310.16820v1)|null|
+|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|null|
+|**2023-10-25**|**Navigating Socio-Emotional Risk through Comfort-Building in a Physics Teaching Community of Practice: A Case Study**|Maggie Mahmood et.al.|[2310.16778v1](http://arxiv.org/abs/2310.16778v1)|null|
+|**2023-10-25**|**IntenDD: A Unified Contrastive Learning Approach for Intent Detection and Discovery**|Bhavuk Singhal et.al.|[2310.16761v1](http://arxiv.org/abs/2310.16761v1)|null|
+|**2023-10-25**|**Interferometric Neural Networks**|Arun Sehrawat et.al.|[2310.16742v1](http://arxiv.org/abs/2310.16742v1)|**[link](https://github.com/arunsehrawat/interferometric-neural-networks)**|
+|**2023-10-25**|**A No-Reference Quality Assessment Method for Digital Human Head**|Yingjie Zhou et.al.|[2310.16732v1](http://arxiv.org/abs/2310.16732v1)|null|
+|**2023-10-25**|**Spherical Wavefront Near-Field DoA Estimation in THz Automotive Radar**|Ahmet M. Elbir et.al.|[2310.16724v1](http://arxiv.org/abs/2310.16724v1)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029v1](http://arxiv.org/abs/2310.16029v1)|null|
 |**2023-10-24**|**Human-in-the-Loop Task and Motion Planning for Imitation Learning**|Ajay Mandlekar et.al.|[2310.16014v1](http://arxiv.org/abs/2310.16014v1)|null|
@@ -3479,6 +3489,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction**|Xuming Hu et.al.|[2310.16822v1](http://arxiv.org/abs/2310.16822v1)|null|
+|**2023-10-25**|**Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**|Luca Ebner et.al.|[2310.16750v1](http://arxiv.org/abs/2310.16750v1)|**[link](https://github.com/ebnerluca/uw_depth)**|
+|**2023-10-25**|**Introducing the Novatron, a novel reactor concept**|Jan Jäderberg et.al.|[2310.16711v1](http://arxiv.org/abs/2310.16711v1)|null|
+|**2023-10-25**|**Differential nature of inelastic collisions facilitating runaway electron generation in weakly-ionized plasmas**|Y. Lee et.al.|[2310.16268v1](http://arxiv.org/abs/2310.16268v1)|null|
+|**2023-10-24**|**ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**|Rudraksh Kapil et.al.|[2310.16212v1](http://arxiv.org/abs/2310.16212v1)|**[link](https://github.com/rudrakshkapil/shadowsense)**|
+|**2023-10-24**|**Pix2HDR -- A pixel-wise acquisition and deep learning-based synthesis approach for high-speed HDR videos**|Caixin Wang et.al.|[2310.16139v1](http://arxiv.org/abs/2310.16139v1)|null|
+|**2023-10-24**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108v1](http://arxiv.org/abs/2310.16108v1)|null|
 |**2023-10-24**|**Towards Automated Recipe Genre Classification using Semi-Supervised Learning**|Nazmus Sakib et.al.|[2310.15693v1](http://arxiv.org/abs/2310.15693v1)|null|
 |**2023-10-24**|**Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection**|Linyan Huang et.al.|[2310.15670v1](http://arxiv.org/abs/2310.15670v1)|**[link](https://github.com/opendrivelab/birds-eye-view-perception)**|
 |**2023-10-24**|**Region-controlled Style Transfer**|Junjie Kang et.al.|[2310.15658v1](http://arxiv.org/abs/2310.15658v1)|null|
