@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|null|
+|**2023-10-26**|**torchdistill Meets Hugging Face Libraries for Reproducible, Coding-Free Deep Learning Studies: A Case Study on NLP**|Yoshitomo Matsubara et.al.|[2310.17644v1](http://arxiv.org/abs/2310.17644v1)|**[link](https://github.com/yoshitomo-matsubara/torchdistill)**|
+|**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642v1](http://arxiv.org/abs/2310.17642v1)|null|
+|**2023-10-26**|**Skew Products on the Berkovich Projective Line**|Richard A. P. Birkett et.al.|[2310.17628v1](http://arxiv.org/abs/2310.17628v1)|null|
+|**2023-10-26**|**A Survey on Transferability of Adversarial Examples across Deep Neural Networks**|Jindong Gu et.al.|[2310.17626v1](http://arxiv.org/abs/2310.17626v1)|**[link](https://github.com/jindonggu/awesome_adversarial_transferability)**|
+|**2023-10-26**|**MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations**|Ajay Mandlekar et.al.|[2310.17596v1](http://arxiv.org/abs/2310.17596v1)|null|
+|**2023-10-26**|**Linear $x$-coordinate relations of triples on elliptic curves**|Jerson Caro et.al.|[2310.17592v1](http://arxiv.org/abs/2310.17592v1)|null|
+|**2023-10-26**|**A minimax optimal control approach for robust neural ODEs**|Cristina Cipriani et.al.|[2310.17584v1](http://arxiv.org/abs/2310.17584v1)|null|
+|**2023-10-26**|**BLIS-Net: Classifying and Analyzing Signals on Graphs**|Charles Xu et.al.|[2310.17579v1](http://arxiv.org/abs/2310.17579v1)|null|
+|**2023-10-26**|**Knots bounding non-isotopic ribbon disks**|Jeffrey Meier et.al.|[2310.17564v1](http://arxiv.org/abs/2310.17564v1)|null|
 |**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837v1](http://arxiv.org/abs/2310.16837v1)|**[link](https://github.com/jiaxuanyou/dbgym)**|
 |**2023-10-25**|**TD-MPC2: Scalable, Robust World Models for Continuous Control**|Nicklas Hansen et.al.|[2310.16828v1](http://arxiv.org/abs/2310.16828v1)|null|
 |**2023-10-26**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826v2](http://arxiv.org/abs/2310.16826v2)|null|
@@ -3489,6 +3499,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model**|Karsten Roth et.al.|[2310.17653v1](http://arxiv.org/abs/2310.17653v1)|null|
+|**2023-10-26**|**Resummation schemes for High-Electric-Charge Objects leading to improved experimental mass limits**|Jean Alexandre et.al.|[2310.17452v1](http://arxiv.org/abs/2310.17452v1)|null|
+|**2023-10-26**|**Validation of SOLPS-ITER Simulations against the TCV-X21 Reference Case**|Y. Wang et.al.|[2310.17390v1](http://arxiv.org/abs/2310.17390v1)|null|
+|**2023-10-26**|**Searches for axion-like particles via $γγ$ fusion at future $\mathrm{e}^+\mathrm{e}^-$ colliders**|Patricia Rebello Teles et.al.|[2310.17270v1](http://arxiv.org/abs/2310.17270v1)|null|
+|**2023-10-26**|**Emotion Recognition by Video: A review**|Junxiao Xue et.al.|[2310.17212v1](http://arxiv.org/abs/2310.17212v1)|null|
+|**2023-10-26**|**Efficient Data Fusion using the Tsetlin Machine**|Rupsa Saha et.al.|[2310.17207v1](http://arxiv.org/abs/2310.17207v1)|null|
+|**2023-10-26**|**Multi-level Gated Bayesian Recurrent Neural Network for State Estimation**|Shi Yan et.al.|[2310.17187v1](http://arxiv.org/abs/2310.17187v1)|null|
+|**2023-10-26**|**Explainable Spatio-Temporal Graph Neural Networks**|Jiabin Tang et.al.|[2310.17149v1](http://arxiv.org/abs/2310.17149v1)|**[link](https://github.com/hkuds/stexplainer)**|
+|**2023-10-26**|**Transport Barriers in Magnetized Plasmas -- General Theory with Dynamical Constraints**|Mike Kotschenreuther et.al.|[2310.17107v1](http://arxiv.org/abs/2310.17107v1)|null|
+|**2023-10-25**|**Stand-off runaway electron beam termination by tungsten particulates for tokamak disruption mitigation**|Michael A. Lively et.al.|[2310.16998v1](http://arxiv.org/abs/2310.16998v1)|null|
 |**2023-10-25**|**Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction**|Xuming Hu et.al.|[2310.16822v1](http://arxiv.org/abs/2310.16822v1)|null|
 |**2023-10-25**|**Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**|Luca Ebner et.al.|[2310.16750v1](http://arxiv.org/abs/2310.16750v1)|**[link](https://github.com/ebnerluca/uw_depth)**|
 |**2023-10-26**|**Introducing the Novatron, a novel reactor concept**|Jan Jäderberg et.al.|[2310.16711v2](http://arxiv.org/abs/2310.16711v2)|null|
