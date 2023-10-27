@@ -1,10 +1,10 @@
-> Updated on 2023.10.26
+> Updated on 2023.10.27
 
 ## Video_Classification
 
 - 2023-10-25, **RDBench: ML Benchmark for Relational Databases**, Zizhao Zhang et.al., Paper: [http://arxiv.org/abs/2310.16837v1](http://arxiv.org/abs/2310.16837v1), Code: **[https://github.com/jiaxuanyou/dbgym](https://github.com/jiaxuanyou/dbgym)**
 - 2023-10-25, **TD-MPC2: Scalable, Robust World Models for Continuous Control**, Nicklas Hansen et.al., Paper: [http://arxiv.org/abs/2310.16828v1](http://arxiv.org/abs/2310.16828v1)
-- 2023-10-25, **Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**, Eloy Peña-Asensio et.al., Paper: [http://arxiv.org/abs/2310.16826v1](http://arxiv.org/abs/2310.16826v1)
+- 2023-10-26, **Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**, Eloy Peña-Asensio et.al., Paper: [http://arxiv.org/abs/2310.16826v2](http://arxiv.org/abs/2310.16826v2)
 - 2023-10-25, **Uncovering a new group of T Tauri stars in the Taurus-Auriga molecular complex from Gaia and GALEX data**, Ana Inés Gómez de Castro et.al., Paper: [http://arxiv.org/abs/2310.16820v1](http://arxiv.org/abs/2310.16820v1)
 - 2023-10-25, **Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**, Daniel Saragih et.al., Paper: [http://arxiv.org/abs/2310.16794v1](http://arxiv.org/abs/2310.16794v1)
 - 2023-10-25, **Navigating Socio-Emotional Risk through Comfort-Building in a Physics Teaching Community of Practice: A Case Study**, Maggie Mahmood et.al., Paper: [http://arxiv.org/abs/2310.16778v1](http://arxiv.org/abs/2310.16778v1)
@@ -3487,7 +3487,7 @@
 
 - 2023-10-25, **Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction**, Xuming Hu et.al., Paper: [http://arxiv.org/abs/2310.16822v1](http://arxiv.org/abs/2310.16822v1)
 - 2023-10-25, **Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**, Luca Ebner et.al., Paper: [http://arxiv.org/abs/2310.16750v1](http://arxiv.org/abs/2310.16750v1), Code: **[https://github.com/ebnerluca/uw_depth](https://github.com/ebnerluca/uw_depth)**
-- 2023-10-25, **Introducing the Novatron, a novel reactor concept**, Jan Jäderberg et.al., Paper: [http://arxiv.org/abs/2310.16711v1](http://arxiv.org/abs/2310.16711v1)
+- 2023-10-26, **Introducing the Novatron, a novel reactor concept**, Jan Jäderberg et.al., Paper: [http://arxiv.org/abs/2310.16711v2](http://arxiv.org/abs/2310.16711v2)
 - 2023-10-25, **Differential nature of inelastic collisions facilitating runaway electron generation in weakly-ionized plasmas**, Y. Lee et.al., Paper: [http://arxiv.org/abs/2310.16268v1](http://arxiv.org/abs/2310.16268v1)
 - 2023-10-24, **ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery**, Rudraksh Kapil et.al., Paper: [http://arxiv.org/abs/2310.16212v1](http://arxiv.org/abs/2310.16212v1), Code: **[https://github.com/rudrakshkapil/shadowsense](https://github.com/rudrakshkapil/shadowsense)**
 - 2023-10-24, **Pix2HDR -- A pixel-wise acquisition and deep learning-based synthesis approach for high-speed HDR videos**, Caixin Wang et.al., Paper: [http://arxiv.org/abs/2310.16139v1](http://arxiv.org/abs/2310.16139v1)
