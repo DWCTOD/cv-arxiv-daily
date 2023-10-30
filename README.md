@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Addressing GAN Training Instabilities via Tunable Classification Losses**|Monica Welfert et.al.|[2310.18291v1](http://arxiv.org/abs/2310.18291v1)|null|
+|**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268v1](http://arxiv.org/abs/2310.18268v1)|null|
+|**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263v1](http://arxiv.org/abs/2310.18263v1)|null|
+|**2023-10-27**|**Edge AI-Based Vein Detector for Efficient Venipuncture in the Antecubital Fossa**|Edwin Salcedo et.al.|[2310.18234v1](http://arxiv.org/abs/2310.18234v1)|null|
+|**2023-10-27**|**TBDLNet: a network for classifying multidrug-resistant and drug-sensitive tuberculosis**|Ziquan Zhu et.al.|[2310.18222v1](http://arxiv.org/abs/2310.18222v1)|null|
+|**2023-10-27**|**ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models**|Benjamin Feuer et.al.|[2310.18208v1](http://arxiv.org/abs/2310.18208v1)|**[link](https://github.com/penfever/archetype)**|
+|**2023-10-27**|**Artifact-Robust Graph-Based Learning in Digital Pathology**|Saba Heidari Gheshlaghi et.al.|[2310.18192v1](http://arxiv.org/abs/2310.18192v1)|null|
+|**2023-10-27**|**Globular clusters and bar: captured or not captured?**|Anton A. Smirnov et.al.|[2310.18172v1](http://arxiv.org/abs/2310.18172v1)|null|
+|**2023-10-27**|**Style Description based Text-to-Speech with Conditional Prosodic Layer Normalization based Diffusion GAN**|Neeraj Kumar et.al.|[2310.18169v1](http://arxiv.org/abs/2310.18169v1)|null|
+|**2023-10-27**|**DESiRED -- Dynamic, Enhanced, and Smart iRED: A P4-AQM with Deep Reinforcement Learning and In-band Network Telemetry**|Leandro C. de Almeida et.al.|[2310.18159v1](http://arxiv.org/abs/2310.18159v1)|null|
 |**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|null|
 |**2023-10-26**|**torchdistill Meets Hugging Face Libraries for Reproducible, Coding-Free Deep Learning Studies: A Case Study on NLP**|Yoshitomo Matsubara et.al.|[2310.17644v1](http://arxiv.org/abs/2310.17644v1)|**[link](https://github.com/yoshitomo-matsubara/torchdistill)**|
 |**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642v1](http://arxiv.org/abs/2310.17642v1)|null|
@@ -3499,6 +3509,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**On $γ_5$ schemes and the interplay of SMEFT operators in the Higgs-gluon coupling**|Stefano Di Noi et.al.|[2310.18221v1](http://arxiv.org/abs/2310.18221v1)|null|
+|**2023-10-27**|**Semi-analytical derivation of the 2D all-FLR ICRH wave equation as a high-order partial differential equation**|Dirk Van Eester et.al.|[2310.18214v1](http://arxiv.org/abs/2310.18214v1)|null|
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|null|
+|**2023-10-27**|**ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese**|Khiem Vinh Tran et.al.|[2310.18046v1](http://arxiv.org/abs/2310.18046v1)|**[link](https://github.com/kvt0012/viclevr)**|
+|**2023-10-27**|**FaultSeg Swin-UNETR: Transformer-Based Self-Supervised Pretraining Model for Fault Recognition**|Zeren Zhang et.al.|[2310.17974v1](http://arxiv.org/abs/2310.17974v1)|null|
+|**2023-10-26**|**Deep Quantum Circuit Simulations of Low-Energy Nuclear States**|Ang Li et.al.|[2310.17739v1](http://arxiv.org/abs/2310.17739v1)|null|
 |**2023-10-26**|**Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model**|Karsten Roth et.al.|[2310.17653v1](http://arxiv.org/abs/2310.17653v1)|null|
 |**2023-10-26**|**Resummation schemes for High-Electric-Charge Objects leading to improved experimental mass limits**|Jean Alexandre et.al.|[2310.17452v1](http://arxiv.org/abs/2310.17452v1)|null|
 |**2023-10-26**|**Validation of SOLPS-ITER Simulations against the TCV-X21 Reference Case**|Y. Wang et.al.|[2310.17390v1](http://arxiv.org/abs/2310.17390v1)|null|
