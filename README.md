@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Improved Motor Imagery Classification Using Adaptive Spatial Filters Based on Particle Swarm Optimization Algorithm**|Xiong Xiong et.al.|[2310.19202v1](http://arxiv.org/abs/2310.19202v1)|null|
+|**2023-10-29**|**Enhancing Motor Imagery Decoding in Brain Computer Interfaces using Riemann Tangent Space Mapping and Cross Frequency Coupling**|Xiong Xiong et.al.|[2310.19198v1](http://arxiv.org/abs/2310.19198v1)|null|
+|**2023-10-29**|**A Survey on Watching Social Issue Videos among YouTube and TikTok Users**|Shuo Niu et.al.|[2310.19193v1](http://arxiv.org/abs/2310.19193v1)|null|
+|**2023-10-29**|**Subjective Quality Evaluation of Point Clouds Using a Head Mounted Display**|Joao Prazeres et.al.|[2310.19179v1](http://arxiv.org/abs/2310.19179v1)|null|
+|**2023-10-29**|**Robustifying Language Models with Test-Time Adaptation**|Noah Thomas McDermott et.al.|[2310.19177v1](http://arxiv.org/abs/2310.19177v1)|null|
+|**2023-10-29**|**Predicting recovery following stroke: deep learning, multimodal data and feature selection using explainable AI**|Adam White et.al.|[2310.19174v1](http://arxiv.org/abs/2310.19174v1)|null|
+|**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168v1](http://arxiv.org/abs/2310.19168v1)|**[link](https://github.com/mvrl/birdsat)**|
+|**2023-10-29**|**Unified Representation for Non-compositional and Compositional Expressions**|Ziheng Zeng et.al.|[2310.19127v1](http://arxiv.org/abs/2310.19127v1)|null|
+|**2023-10-29**|**Efficient IoT Inference via Context-Awareness**|Mohammad Mehdi Rastikerdar et.al.|[2310.19112v1](http://arxiv.org/abs/2310.19112v1)|null|
+|**2023-10-29**|**Pushdown Layers: Encoding Recursive Structure in Transformer Language Models**|Shikhar Murty et.al.|[2310.19089v1](http://arxiv.org/abs/2310.19089v1)|null|
 |**2023-10-27**|**Addressing GAN Training Instabilities via Tunable Classification Losses**|Monica Welfert et.al.|[2310.18291v1](http://arxiv.org/abs/2310.18291v1)|null|
 |**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268v1](http://arxiv.org/abs/2310.18268v1)|null|
 |**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263v1](http://arxiv.org/abs/2310.18263v1)|null|
@@ -3509,6 +3519,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216v1](http://arxiv.org/abs/2310.19216v1)|null|
+|**2023-10-29**|**Transfer Learning in Transformer-Based Demand Forecasting For Home Energy Management System**|Gargya Gokhale et.al.|[2310.19159v1](http://arxiv.org/abs/2310.19159v1)|null|
+|**2023-10-29**|**Out-of-distribution Object Detection through Bayesian Uncertainty Estimation**|Tianhao Zhang et.al.|[2310.19119v1](http://arxiv.org/abs/2310.19119v1)|null|
+|**2023-10-29**|**Intertwining operators between subregular Whittaker modules for $\mathfrak{gl}_N$ and non-standard quantizations**|Artem Kalmykov et.al.|[2310.19040v1](http://arxiv.org/abs/2310.19040v1)|null|
+|**2023-10-28**|**UniCat: Crafting a Stronger Fusion Baseline for Multimodal Re-Identification**|Jennifer Crawford et.al.|[2310.18812v1](http://arxiv.org/abs/2310.18812v1)|null|
+|**2023-10-28**|**Online Multi-view Anomaly Detection with Disentangled Product-of-Experts Modeling**|Hao Wang et.al.|[2310.18728v1](http://arxiv.org/abs/2310.18728v1)|null|
+|**2023-10-28**|**Audio-Visual Instance Segmentation**|Ruohao Guo et.al.|[2310.18709v1](http://arxiv.org/abs/2310.18709v1)|null|
+|**2023-10-28**|**Assessing global ion thermal confinement in critical-gradient-optimized stellarators**|A. Bañón Navarro et.al.|[2310.18705v1](http://arxiv.org/abs/2310.18705v1)|null|
+|**2023-10-27**|**Lowering the reactor breakeven requirements for proton-Boron 11 fusion**|Ian E. Ochs et.al.|[2310.18508v1](http://arxiv.org/abs/2310.18508v1)|null|
+|**2023-10-27**|**Fusion of the Power from Citations: Enhance your Influence by Integrating Information from References**|Cong Qi et.al.|[2310.18451v1](http://arxiv.org/abs/2310.18451v1)|null|
 |**2023-10-27**|**On $γ_5$ schemes and the interplay of SMEFT operators in the Higgs-gluon coupling**|Stefano Di Noi et.al.|[2310.18221v1](http://arxiv.org/abs/2310.18221v1)|null|
 |**2023-10-27**|**Semi-analytical derivation of the 2D all-FLR ICRH wave equation as a high-order partial differential equation**|Dirk Van Eester et.al.|[2310.18214v1](http://arxiv.org/abs/2310.18214v1)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|null|
