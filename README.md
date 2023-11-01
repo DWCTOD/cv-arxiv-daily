@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704v1](http://arxiv.org/abs/2310.20704v1)|null|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
+|**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666v1](http://arxiv.org/abs/2310.20666v1)|null|
+|**2023-10-31**|**Performance Improvement in Multi-class Classification via Automated Hierarchy Generation and Exploitation through Extended LCPN Schemes**|Celal Alagoz et.al.|[2310.20641v1](http://arxiv.org/abs/2310.20641v1)|null|
+|**2023-10-31**|**Deepfake detection by exploiting surface anomalies: the SurFake approach**|Andrea Ciamarra et.al.|[2310.20621v1](http://arxiv.org/abs/2310.20621v1)|null|
+|**2023-10-31**|**Enhanced Synthetic MRI Generation from CT Scans Using CycleGAN with Feature Extraction**|Saba Nikbakhsh et.al.|[2310.20604v1](http://arxiv.org/abs/2310.20604v1)|null|
+|**2023-10-31**|**Finiteness properties for Shimura curves and modified diagonal cycles**|Congling Qiu et.al.|[2310.20600v1](http://arxiv.org/abs/2310.20600v1)|null|
+|**2023-10-31**|**Brain-like Flexible Visual Inference by Harnessing Feedback-Feedforward Alignment**|Tahereh Toosi et.al.|[2310.20599v1](http://arxiv.org/abs/2310.20599v1)|**[link](https://github.com/toosi/feedback_feedforward_alignment)**|
+|**2023-10-31**|**Tracially Complete C*-Algebras**|José R. Carrión et.al.|[2310.20594v1](http://arxiv.org/abs/2310.20594v1)|null|
+|**2023-10-31**|**Strongly Magnetized Tidal Disruption Event Disks via Stream Injection in GRMHD**|Brandon Curd et.al.|[2310.20592v1](http://arxiv.org/abs/2310.20592v1)|null|
 |**2023-10-29**|**Improved Motor Imagery Classification Using Adaptive Spatial Filters Based on Particle Swarm Optimization Algorithm**|Xiong Xiong et.al.|[2310.19202v1](http://arxiv.org/abs/2310.19202v1)|null|
 |**2023-10-29**|**Enhancing Motor Imagery Decoding in Brain Computer Interfaces using Riemann Tangent Space Mapping and Cross Frequency Coupling**|Xiong Xiong et.al.|[2310.19198v1](http://arxiv.org/abs/2310.19198v1)|null|
 |**2023-10-29**|**A Survey on Watching Social Issue Videos among YouTube and TikTok Users**|Shuo Niu et.al.|[2310.19193v1](http://arxiv.org/abs/2310.19193v1)|null|
@@ -3519,6 +3529,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations**|Hui Ma et.al.|[2310.20494v1](http://arxiv.org/abs/2310.20494v1)|**[link](https://github.com/butterfliesss/sdt)**|
+|**2023-10-31**|**Multi-Base Station Cooperative Sensing with AI-Aided Tracking**|Elia Favarelli et.al.|[2310.20403v1](http://arxiv.org/abs/2310.20403v1)|null|
+|**2023-10-31**|**Bilateral Network with Residual U-blocks and Dual-Guided Attention for Real-time Semantic Segmentation**|Liang Liao et.al.|[2310.20305v1](http://arxiv.org/abs/2310.20305v1)|**[link](https://github.com/likelidoa/bidganet)**|
+|**2023-10-31**|**AutoMixer for Improved Multivariate Time-Series Forecasting on BizITOps Data**|Santosh Palaskar et.al.|[2310.20280v1](http://arxiv.org/abs/2310.20280v1)|null|
+|**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251v1](http://arxiv.org/abs/2310.20251v1)|null|
+|**2023-10-31**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Xuhang Chen et.al.|[2310.20210v1](http://arxiv.org/abs/2310.20210v1)|null|
+|**2023-10-31**|**Unlearn What You Want to Forget: Efficient Unlearning for LLMs**|Jiaao Chen et.al.|[2310.20150v1](http://arxiv.org/abs/2310.20150v1)|null|
+|**2023-10-30**|**Hybridizing Physics and Neural ODEs for Predicting Plasma Inductance Dynamics in Tokamak Fusion Reactors**|Allen M. Wang et.al.|[2310.20079v1](http://arxiv.org/abs/2310.20079v1)|null|
+|**2023-10-30**|**Early detection of inflammatory arthritis to improve referrals using multimodal machine learning from blood testing, semi-structured and unstructured patient records**|Bing Wang et.al.|[2310.19967v1](http://arxiv.org/abs/2310.19967v1)|null|
+|**2023-10-30**|**Self-duality under gauging a non-invertible symmetry**|Yichul Choi et.al.|[2310.19867v1](http://arxiv.org/abs/2310.19867v1)|null|
 |**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216v1](http://arxiv.org/abs/2310.19216v1)|null|
 |**2023-10-29**|**Transfer Learning in Transformer-Based Demand Forecasting For Home Energy Management System**|Gargya Gokhale et.al.|[2310.19159v1](http://arxiv.org/abs/2310.19159v1)|null|
 |**2023-10-29**|**Out-of-distribution Object Detection through Bayesian Uncertainty Estimation**|Tianhao Zhang et.al.|[2310.19119v1](http://arxiv.org/abs/2310.19119v1)|null|
