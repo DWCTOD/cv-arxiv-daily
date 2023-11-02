@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-11-01, **Software Repositories and Machine Learning Research in Cyber Security**, Mounika Vanamala et.al., Paper: [http://arxiv.org/abs/2311.00691v1](http://arxiv.org/abs/2311.00691v1)
+- 2023-11-01, **What User Behaviors Make the Differences During the Process of Visual Analytics?**, Shahin Doroudian et.al., Paper: [http://arxiv.org/abs/2311.00690v1](http://arxiv.org/abs/2311.00690v1)
+- 2023-11-01, **Deep Learning-Based Classification of Gamma Photon Interactions in Room-Temperature Semiconductor Radiation Detectors**, Sandeep K. Chaudhuri et.al., Paper: [http://arxiv.org/abs/2311.00682v1](http://arxiv.org/abs/2311.00682v1)
+- 2023-11-01, **Latent Space Translation via Semantic Alignment**, Valentino Maiorca et.al., Paper: [http://arxiv.org/abs/2311.00664v1](http://arxiv.org/abs/2311.00664v1), Code: **[https://github.com/flegyas/latent-translation](https://github.com/flegyas/latent-translation)**
+- 2023-11-01, **Rediscussion of eclipsing binaries. Paper XV. The B-type supergiant system V1765 Cygni**, John Southworth et.al., Paper: [http://arxiv.org/abs/2311.00655v1](http://arxiv.org/abs/2311.00655v1)
+- 2023-11-01, **Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**, Richard Bornemann et.al., Paper: [http://arxiv.org/abs/2311.00651v1](http://arxiv.org/abs/2311.00651v1)
+- 2023-11-01, **Understanding the Issues and Causes in WebAssembly Application Development: A Mining-based Study**, Muhammad Waseem et.al., Paper: [http://arxiv.org/abs/2311.00646v1](http://arxiv.org/abs/2311.00646v1)
+- 2023-11-01, **A Bi-level Framework for Traffic Accident Duration Prediction: Leveraging Weather and Road Condition Data within a Practical Optimum Pipeline**, Rafat Tabassum Sukonna et.al., Paper: [http://arxiv.org/abs/2311.00634v1](http://arxiv.org/abs/2311.00634v1)
+- 2023-11-01, **Controllable Music Production with Diffusion Models and Guidance Gradients**, Mark Levy et.al., Paper: [http://arxiv.org/abs/2311.00613v1](http://arxiv.org/abs/2311.00613v1)
+- 2023-11-01, **A Robust Deep Learning Method with Uncertainty Estimation for the Pathological Classification of Renal Cell Carcinoma based on CT Images**, Ni Yao et.al., Paper: [http://arxiv.org/abs/2311.00567v1](http://arxiv.org/abs/2311.00567v1)
 - 2023-10-31, **Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**, Srijan Das et.al., Paper: [http://arxiv.org/abs/2310.20704v1](http://arxiv.org/abs/2310.20704v1)
 - 2023-10-31, **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**, Xinyuan Chen et.al., Paper: [http://arxiv.org/abs/2310.20700v1](http://arxiv.org/abs/2310.20700v1)
 - 2023-10-31, **StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**, Andrew Garrett Kurbis et.al., Paper: [http://arxiv.org/abs/2310.20666v1](http://arxiv.org/abs/2310.20666v1)
@@ -3525,6 +3535,10 @@
 
 ## MultiModal
 
+- 2023-11-01, **Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2311.00436v1](http://arxiv.org/abs/2311.00436v1)
+- 2023-11-01, **From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**, Md Farhan Ishmam et.al., Paper: [http://arxiv.org/abs/2311.00308v1](http://arxiv.org/abs/2311.00308v1)
+- 2023-11-01, **Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**, Runze Fang et.al., Paper: [http://arxiv.org/abs/2311.00300v1](http://arxiv.org/abs/2311.00300v1)
+- 2023-11-01, **Graph Representation Learning for Infrared and Visible Image Fusion**, Jing Li et.al., Paper: [http://arxiv.org/abs/2311.00291v1](http://arxiv.org/abs/2311.00291v1)
 - 2023-10-31, **A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations**, Hui Ma et.al., Paper: [http://arxiv.org/abs/2310.20494v1](http://arxiv.org/abs/2310.20494v1), Code: **[https://github.com/butterfliesss/sdt](https://github.com/butterfliesss/sdt)**
 - 2023-10-31, **Multi-Base Station Cooperative Sensing with AI-Aided Tracking**, Elia Favarelli et.al., Paper: [http://arxiv.org/abs/2310.20403v1](http://arxiv.org/abs/2310.20403v1)
 - 2023-10-31, **Bilateral Network with Residual U-blocks and Dual-Guided Attention for Real-time Semantic Segmentation**, Liang Liao et.al., Paper: [http://arxiv.org/abs/2310.20305v1](http://arxiv.org/abs/2310.20305v1), Code: **[https://github.com/likelidoa/bidganet](https://github.com/likelidoa/bidganet)**
