@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@ layout: default
 |**2023-11-01**|**Deep Learning-Based Classification of Gamma Photon Interactions in Room-Temperature Semiconductor Radiation Detectors**|Sandeep K. Chaudhuri et.al.|[2311.00682v1](http://arxiv.org/abs/2311.00682v1)|null|
 |**2023-11-01**|**Latent Space Translation via Semantic Alignment**|Valentino Maiorca et.al.|[2311.00664v1](http://arxiv.org/abs/2311.00664v1)|**[link](https://github.com/flegyas/latent-translation)**|
 |**2023-11-01**|**Rediscussion of eclipsing binaries. Paper XV. The B-type supergiant system V1765 Cygni**|John Southworth et.al.|[2311.00655v1](http://arxiv.org/abs/2311.00655v1)|null|
-|**2023-11-01**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651v1](http://arxiv.org/abs/2311.00651v1)|null|
+|**2023-11-02**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651v2](http://arxiv.org/abs/2311.00651v2)|null|
 |**2023-11-01**|**Understanding the Issues and Causes in WebAssembly Application Development: A Mining-based Study**|Muhammad Waseem et.al.|[2311.00646v1](http://arxiv.org/abs/2311.00646v1)|null|
 |**2023-11-01**|**A Bi-level Framework for Traffic Accident Duration Prediction: Leveraging Weather and Road Condition Data within a Practical Optimum Pipeline**|Rafat Tabassum Sukonna et.al.|[2311.00634v1](http://arxiv.org/abs/2311.00634v1)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613v1](http://arxiv.org/abs/2311.00613v1)|null|
@@ -3550,7 +3550,7 @@ layout: default
 |**2023-10-31**|**A Transformer-Based Model With Self-Distillation for Multimodal Emotion Recognition in Conversations**|Hui Ma et.al.|[2310.20494v1](http://arxiv.org/abs/2310.20494v1)|**[link](https://github.com/butterfliesss/sdt)**|
 |**2023-10-31**|**Multi-Base Station Cooperative Sensing with AI-Aided Tracking**|Elia Favarelli et.al.|[2310.20403v1](http://arxiv.org/abs/2310.20403v1)|null|
 |**2023-10-31**|**Bilateral Network with Residual U-blocks and Dual-Guided Attention for Real-time Semantic Segmentation**|Liang Liao et.al.|[2310.20305v1](http://arxiv.org/abs/2310.20305v1)|**[link](https://github.com/likelidoa/bidganet)**|
-|**2023-10-31**|**AutoMixer for Improved Multivariate Time-Series Forecasting on BizITOps Data**|Santosh Palaskar et.al.|[2310.20280v1](http://arxiv.org/abs/2310.20280v1)|null|
+|**2023-11-02**|**AutoMixer for Improved Multivariate Time-Series Forecasting on Business and IT Observability Data**|Santosh Palaskar et.al.|[2310.20280v2](http://arxiv.org/abs/2310.20280v2)|null|
 |**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251v1](http://arxiv.org/abs/2310.20251v1)|null|
 |**2023-10-31**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Xuhang Chen et.al.|[2310.20210v1](http://arxiv.org/abs/2310.20210v1)|null|
 |**2023-10-31**|**Unlearn What You Want to Forget: Efficient Unlearning for LLMs**|Jiaao Chen et.al.|[2310.20150v1](http://arxiv.org/abs/2310.20150v1)|null|
