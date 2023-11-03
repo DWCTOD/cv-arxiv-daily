@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Tailoring Mixup to Data using Kernel Warping functions**|Quentin Bouniot et.al.|[2311.01434v1](http://arxiv.org/abs/2311.01434v1)|**[link](https://github.com/ensta-u2is/torch-uncertainty)**|
+|**2023-11-02**|**Identifying Alzheimer Disease Dementia Levels Using Machine Learning Methods**|Md Gulzar Hussain et.al.|[2311.01428v1](http://arxiv.org/abs/2311.01428v1)|null|
+|**2023-11-02**|**Exploring Deep Learning Techniques for Glaucoma Detection: A Comprehensive Review**|Aized Amin Soofi et.al.|[2311.01425v1](http://arxiv.org/abs/2311.01425v1)|null|
+|**2023-11-02**|**Holistic Transfer: Towards Non-Disruptive Fine-Tuning with Partial Target Data**|Cheng-Hao Tu et.al.|[2311.01420v1](http://arxiv.org/abs/2311.01420v1)|null|
+|**2023-11-02**|**Learning to See Physical Properties with Active Sensing Motor Policies**|Gabriel B. Margolis et.al.|[2311.01405v1](http://arxiv.org/abs/2311.01405v1)|null|
+|**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380v1](http://arxiv.org/abs/2311.01380v1)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
+|**2023-11-02**|**Deep learning based Image Compression for Microscopy Images: An Empirical Study**|Yu Zhou et.al.|[2311.01352v1](http://arxiv.org/abs/2311.01352v1)|null|
+|**2023-11-02**|**Unreading Race: Purging Protected Features from Chest X-ray Embeddings**|Tobias Weber et.al.|[2311.01349v1](http://arxiv.org/abs/2311.01349v1)|null|
+|**2023-11-02**|**Scattering Vision Transformer: Spectral Mixing Matters**|Badri N. Patro et.al.|[2311.01310v1](http://arxiv.org/abs/2311.01310v1)|null|
+|**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308v1](http://arxiv.org/abs/2311.01308v1)|null|
 |**2023-11-01**|**Software Repositories and Machine Learning Research in Cyber Security**|Mounika Vanamala et.al.|[2311.00691v1](http://arxiv.org/abs/2311.00691v1)|null|
 |**2023-11-01**|**What User Behaviors Make the Differences During the Process of Visual Analytics?**|Shahin Doroudian et.al.|[2311.00690v1](http://arxiv.org/abs/2311.00690v1)|null|
 |**2023-11-01**|**Deep Learning-Based Classification of Gamma Photon Interactions in Room-Temperature Semiconductor Radiation Detectors**|Sandeep K. Chaudhuri et.al.|[2311.00682v1](http://arxiv.org/abs/2311.00682v1)|null|
@@ -3543,6 +3553,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Low-depth unitary quantum circuits for dualities in one-dimensional quantum lattice models**|Laurens Lootens et.al.|[2311.01439v1](http://arxiv.org/abs/2311.01439v1)|null|
+|**2023-11-02**|**Server-side Rescoring of Spoken Entity-centric Knowledge Queries for Virtual Assistants**|Youyuan Zhang et.al.|[2311.01398v1](http://arxiv.org/abs/2311.01398v1)|null|
+|**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308v1](http://arxiv.org/abs/2311.01308v1)|null|
+|**2023-11-02**|**Unraveling Diffusion in Fusion Plasma: A Case Study of In Situ Processing and Particle Sorting**|Junmin Gu et.al.|[2311.01288v1](http://arxiv.org/abs/2311.01288v1)|null|
+|**2023-11-02**|**Log-Likelihood Score Level Fusion for Improved Cross-Sensor Smartphone Periocular Recognition**|Fernando Alonso-Fernandez et.al.|[2311.01237v1](http://arxiv.org/abs/2311.01237v1)|null|
+|**2023-11-02**|**AeroPath: An airway segmentation benchmark dataset with challenging pathology**|Karen-Helene Støverud et.al.|[2311.01138v1](http://arxiv.org/abs/2311.01138v1)|null|
+|**2023-11-02**|**A Review and Roadmap of Deep Causal Model from Different Causal Structures and Representations**|Hang Chen et.al.|[2311.00923v1](http://arxiv.org/abs/2311.00923v1)|null|
 |**2023-11-01**|**Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**|Zhanwen Liu et.al.|[2311.00436v1](http://arxiv.org/abs/2311.00436v1)|null|
 |**2023-11-01**|**From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**|Md Farhan Ishmam et.al.|[2311.00308v1](http://arxiv.org/abs/2311.00308v1)|null|
 |**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300v1](http://arxiv.org/abs/2311.00300v1)|null|
