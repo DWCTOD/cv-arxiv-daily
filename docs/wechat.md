@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-11-06, **A Classification of Graphs through Quadratic Embedding Constants and Clique Graph Insights**, Edy Tri Baskoro et.al., Paper: [http://arxiv.org/abs/2311.03342v1](http://arxiv.org/abs/2311.03342v1)
+- 2023-11-06, **Tackling Concept Shift in Text Classification using Entailment-style Modeling**, Sumegh Roychowdhury et.al., Paper: [http://arxiv.org/abs/2311.03320v1](http://arxiv.org/abs/2311.03320v1)
+- 2023-11-06, **A Foundation Model for Music Informatics**, Minz Won et.al., Paper: [http://arxiv.org/abs/2311.03318v1](http://arxiv.org/abs/2311.03318v1), Code: **[https://github.com/minzwon/musicfm](https://github.com/minzwon/musicfm)**
+- 2023-11-06, **FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data**, Lisa Weijler et.al., Paper: [http://arxiv.org/abs/2311.03314v1](http://arxiv.org/abs/2311.03314v1), Code: **[https://github.com/lisaweijler/fate](https://github.com/lisaweijler/fate)**
+- 2023-11-06, **A Single 2D Pose with Context is Worth Hundreds for 3D Human Pose Estimation**, Qitao Zhao et.al., Paper: [http://arxiv.org/abs/2311.03312v1](http://arxiv.org/abs/2311.03312v1)
+- 2023-11-06, **Advancing Post Hoc Case Based Explanation with Feature Highlighting**, Eoin Kenny et.al., Paper: [http://arxiv.org/abs/2311.03246v1](http://arxiv.org/abs/2311.03246v1)
+- 2023-11-06, **Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review**, Faruk Ahmed et.al., Paper: [http://arxiv.org/abs/2311.03240v1](http://arxiv.org/abs/2311.03240v1)
+- 2023-11-06, **Out-of-distribution Detection Learning with Unreliable Out-of-distribution Sources**, Haotian Zheng et.al., Paper: [http://arxiv.org/abs/2311.03236v1](http://arxiv.org/abs/2311.03236v1)
+- 2023-11-06, **Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet**, Hector Arroyo et.al., Paper: [http://arxiv.org/abs/2311.03221v1](http://arxiv.org/abs/2311.03221v1)
+- 2023-11-06, **Leveraging Transformers to Improve Breast Cancer Classification and Risk Assessment with Multi-modal and Longitudinal Data**, Yiqiu Shen et.al., Paper: [http://arxiv.org/abs/2311.03217v1](http://arxiv.org/abs/2311.03217v1)
 - 2023-11-03, **LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery**, Weikang Wan et.al., Paper: [http://arxiv.org/abs/2311.02058v1](http://arxiv.org/abs/2311.02058v1)
 - 2023-11-03, **MetaFast: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation**, Arvid E. Gollwitzer et.al., Paper: [http://arxiv.org/abs/2311.02029v1](http://arxiv.org/abs/2311.02029v1)
 - 2023-11-03, **A Structured Pruning Algorithm for Model-based Deep Learning**, Chicago Park et.al., Paper: [http://arxiv.org/abs/2311.02003v1](http://arxiv.org/abs/2311.02003v1)
@@ -3555,6 +3565,16 @@
 
 ## MultiModal
 
+- 2023-11-06, **Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization**, Kun Lei et.al., Paper: [http://arxiv.org/abs/2311.03351v1](http://arxiv.org/abs/2311.03351v1)
+- 2023-11-06, **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**, Zijie Zhou et.al., Paper: [http://arxiv.org/abs/2311.03198v1](http://arxiv.org/abs/2311.03198v1), Code: **[https://github.com/ZhouZijie77/LCPR](https://github.com/ZhouZijie77/LCPR)**
+- 2023-11-06, **Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**, Silvia Romero-Azpitarte et.al., Paper: [http://arxiv.org/abs/2311.03146v1](http://arxiv.org/abs/2311.03146v1)
+- 2023-11-06, **Properties of the Biot-Savart operator acting on surface currents**, Wadim Gerner et.al., Paper: [http://arxiv.org/abs/2311.03108v1](http://arxiv.org/abs/2311.03108v1)
+- 2023-11-06, **Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding**, Shengkai Sun et.al., Paper: [http://arxiv.org/abs/2311.03106v1](http://arxiv.org/abs/2311.03106v1), Code: **[https://github.com/huiguanlab/umurl](https://github.com/huiguanlab/umurl)**
+- 2023-11-06, **CogVLM: Visual Expert for Pretrained Language Models**, Weihan Wang et.al., Paper: [http://arxiv.org/abs/2311.03079v1](http://arxiv.org/abs/2311.03079v1), Code: **[https://github.com/thudm/cogvlm](https://github.com/thudm/cogvlm)**
+- 2023-11-06, **Multi-view learning for automatic classification of multi-wavelength auroral images**, Qiuju Yang et.al., Paper: [http://arxiv.org/abs/2311.02947v1](http://arxiv.org/abs/2311.02947v1)
+- 2023-11-06, **Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation**, Fuyun Wang et.al., Paper: [http://arxiv.org/abs/2311.02938v1](http://arxiv.org/abs/2311.02938v1)
+- 2023-11-06, **OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data**, Shiyang Lu et.al., Paper: [http://arxiv.org/abs/2311.02873v1](http://arxiv.org/abs/2311.02873v1), Code: **[https://github.com/shiyoung77/ovir-3d](https://github.com/shiyoung77/ovir-3d)**
+- 2023-11-05, **Search for high-mass exclusive diphoton production with tagged protons in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, CMS et.al., Paper: [http://arxiv.org/abs/2311.02725v1](http://arxiv.org/abs/2311.02725v1)
 - 2023-11-03, **Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**, Shichao Dong et.al., Paper: [http://arxiv.org/abs/2311.01989v1](http://arxiv.org/abs/2311.01989v1)
 - 2023-11-03, **From Chaos to Calibration: A Geometric Mutual Information Approach to Target-Free Camera LiDAR Extrinsic Calibration**, Jack Borer et.al., Paper: [http://arxiv.org/abs/2311.01905v1](http://arxiv.org/abs/2311.01905v1)
 - 2023-11-03, **Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**, Xilai Li et.al., Paper: [http://arxiv.org/abs/2311.01886v1](http://arxiv.org/abs/2311.01886v1)
