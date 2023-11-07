@@ -14,7 +14,7 @@ layout: default
 |**2023-11-03**|**Detection of keratoconus Diseases using deep Learning**|AKM Enzam-Ul Haque et.al.|[2311.01996v1](http://arxiv.org/abs/2311.01996v1)|null|
 |**2023-11-03**|**Obtaining Explainable Classification Models using Distributionally Robust Optimization**|Sanjeeb Dash et.al.|[2311.01994v1](http://arxiv.org/abs/2311.01994v1)|null|
 |**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
-|**2023-11-03**|**RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**|Jiayuan Gu et.al.|[2311.01977v1](http://arxiv.org/abs/2311.01977v1)|null|
+|**2023-11-06**|**RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**|Jiayuan Gu et.al.|[2311.01977v2](http://arxiv.org/abs/2311.01977v2)|null|
 |**2023-11-03**|**Welded graphs, Wirtinger groups and knotted punctured spheres**|Benjamin Audoux et.al.|[2311.01922v1](http://arxiv.org/abs/2311.01922v1)|null|
 |**2023-11-03**|**Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI**|Xinqi Li et.al.|[2311.01916v1](http://arxiv.org/abs/2311.01916v1)|null|
 |**2023-11-03**|**VQPy: An Object-Oriented Approach to Modern Video Analytics**|Shan Yu et.al.|[2311.01623v1](http://arxiv.org/abs/2311.01623v1)|null|
