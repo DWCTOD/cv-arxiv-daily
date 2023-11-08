@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212v1](http://arxiv.org/abs/2311.04212v1)|**[link](https://github.com/shi-labs/vim)**|
+|**2023-11-07**|**JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**|Zhongfen Deng et.al.|[2311.04196v1](http://arxiv.org/abs/2311.04196v1)|**[link](https://github.com/zhongfendeng/jpave)**|
+|**2023-11-07**|**Linear to circular conversion in the polarized radio emission of a magnetar**|Marcus E. Lower et.al.|[2311.04195v1](http://arxiv.org/abs/2311.04195v1)|null|
+|**2023-11-07**|**SpaDeLeF: A Dataset for Hierarchical Classification of Lexical Functions for Collocations in Spanish**|Yevhen Kostiuk et.al.|[2311.04189v1](http://arxiv.org/abs/2311.04189v1)|null|
+|**2023-11-07**|**A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis**|Dipanjyoti Paul et.al.|[2311.04157v1](http://arxiv.org/abs/2311.04157v1)|**[link](https://github.com/imageomics/intr)**|
+|**2023-11-07**|**Galaxy Spectra neural Network (GaSNet). II. Using Deep Learning for Spectral Classification and Redshift Predictions**|Fucheng Zhong et.al.|[2311.04146v1](http://arxiv.org/abs/2311.04146v1)|null|
+|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145v1](http://arxiv.org/abs/2311.04145v1)|null|
+|**2023-11-07**|**Modelling Sentiment Analysis: LLMs and data augmentation techniques**|Guillem Senabre Prades et.al.|[2311.04139v1](http://arxiv.org/abs/2311.04139v1)|null|
+|**2023-11-07**|**Improved Topological Preservation in 3D Axon Segmentation and Centerline Detection using Geometric Assessment-driven Topological Smoothing (GATS)**|Nina I. Shamsi et.al.|[2311.04116v1](http://arxiv.org/abs/2311.04116v1)|null|
+|**2023-11-07**|**Joint modelling of recurrent and terminal events with discretely-distributed non-parametric frailty: application on re-hospitalizations and death in heart failure patients**|Chiara Masci et.al.|[2311.04103v1](http://arxiv.org/abs/2311.04103v1)|null|
 |**2023-11-06**|**A Classification of Graphs through Quadratic Embedding Constants and Clique Graph Insights**|Edy Tri Baskoro et.al.|[2311.03342v1](http://arxiv.org/abs/2311.03342v1)|null|
 |**2023-11-06**|**Tackling Concept Shift in Text Classification using Entailment-style Modeling**|Sumegh Roychowdhury et.al.|[2311.03320v1](http://arxiv.org/abs/2311.03320v1)|null|
 |**2023-11-06**|**A Foundation Model for Music Informatics**|Minz Won et.al.|[2311.03318v1](http://arxiv.org/abs/2311.03318v1)|**[link](https://github.com/minzwon/musicfm)**|
@@ -3569,6 +3579,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Interactive Semantic Map Representation for Skill-based Visual Object Navigation**|Tatiana Zemskova et.al.|[2311.04107v1](http://arxiv.org/abs/2311.04107v1)|null|
+|**2023-11-07**|**Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset**|Jianjian Qin et.al.|[2311.04095v1](http://arxiv.org/abs/2311.04095v1)|null|
+|**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058v1](http://arxiv.org/abs/2311.04058v1)|null|
+|**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052v1](http://arxiv.org/abs/2311.04052v1)|null|
+|**2023-11-07**|**Chaotic transport in symplectic maps: Applications in plasma**|Matheus Silva Palmero et.al.|[2311.04028v1](http://arxiv.org/abs/2311.04028v1)|null|
+|**2023-11-07**|**Enhanced Information Extraction from Cylindrical Visual-Tactile Sensors via Image Fusion**|Zilan Li et.al.|[2311.04002v1](http://arxiv.org/abs/2311.04002v1)|null|
+|**2023-11-07**|**An AFM-based approach for quantification of guest particle deformation during mechano-fusion**|Phillip Gräfensteiner et.al.|[2311.03851v1](http://arxiv.org/abs/2311.03851v1)|null|
+|**2023-11-07**|**Data-informed uncertainty quantification for laser-based powder bed fusion additive manufacturing**|Mihaela Chiappetta et.al.|[2311.03823v1](http://arxiv.org/abs/2311.03823v1)|null|
+|**2023-11-07**|**Self-MI: Efficient Multimodal Fusion via Self-Supervised Multi-Task Learning with Auxiliary Mutual Information Maximization**|Cam-Van Thi Nguyen et.al.|[2311.03785v1](http://arxiv.org/abs/2311.03785v1)|null|
+|**2023-11-07**|**CapST: An Enhanced and Lightweight Method for Deepfake Video Classification**|Wasim Ahmad et.al.|[2311.03782v1](http://arxiv.org/abs/2311.03782v1)|null|
 |**2023-11-06**|**Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization**|Kun Lei et.al.|[2311.03351v1](http://arxiv.org/abs/2311.03351v1)|null|
 |**2023-11-06**|**LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**|Zijie Zhou et.al.|[2311.03198v1](http://arxiv.org/abs/2311.03198v1)|**[link](https://github.com/ZhouZijie77/LCPR)**|
 |**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
