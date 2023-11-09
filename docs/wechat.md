@@ -2,7 +2,7 @@
 
 ## Video_Classification
 
-- 2023-11-07, **Video Instance Matting**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2311.04212v1](http://arxiv.org/abs/2311.04212v1), Code: **[https://github.com/shi-labs/vim](https://github.com/shi-labs/vim)**
+- 2023-11-08, **Video Instance Matting**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2311.04212v2](http://arxiv.org/abs/2311.04212v2), Code: **[https://github.com/shi-labs/vim](https://github.com/shi-labs/vim)**
 - 2023-11-07, **JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**, Zhongfen Deng et.al., Paper: [http://arxiv.org/abs/2311.04196v1](http://arxiv.org/abs/2311.04196v1), Code: **[https://github.com/zhongfendeng/jpave](https://github.com/zhongfendeng/jpave)**
 - 2023-11-07, **Linear to circular conversion in the polarized radio emission of a magnetar**, Marcus E. Lower et.al., Paper: [http://arxiv.org/abs/2311.04195v1](http://arxiv.org/abs/2311.04195v1)
 - 2023-11-07, **SpaDeLeF: A Dataset for Hierarchical Classification of Lexical Functions for Collocations in Spanish**, Yevhen Kostiuk et.al., Paper: [http://arxiv.org/abs/2311.04189v1](http://arxiv.org/abs/2311.04189v1)
