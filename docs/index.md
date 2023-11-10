@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 
 ## Video_Classification
 
@@ -15,7 +15,7 @@ layout: default
 |**2023-11-08**|**A Lightweight Architecture for Real-Time Neuronal-Spike Classification**|Muhammad Ali Siddiqi et.al.|[2311.04808v1](http://arxiv.org/abs/2311.04808v1)|null|
 |**2023-11-08**|**Determination of toxic comments and unintended model bias minimization using Deep learning approach**|Md Azim Khan et.al.|[2311.04789v1](http://arxiv.org/abs/2311.04789v1)|null|
 |**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783v1](http://arxiv.org/abs/2311.04783v1)|null|
-|**2023-11-08**|**FetMRQC: an open-source machine learning framework for multi-centric fetal brain MRI quality control**|Thomas Sanchez et.al.|[2311.04780v1](http://arxiv.org/abs/2311.04780v1)|null|
+|**2023-11-08**|**FetMRQC: an open-source machine learning framework for multi-centric fetal brain MRI quality control**|Thomas Sanchez et.al.|[2311.04780v1](http://arxiv.org/abs/2311.04780v1)|**[link](https://github.com/medical-image-analysis-laboratory/fetal_brain_qc)**|
 |**2023-11-08**|**GCS-ICHNet: Assessment of Intracerebral Hemorrhage Prognosis using Self-Attention with Domain Knowledge Integration**|Xuhao Shan et.al.|[2311.04772v1](http://arxiv.org/abs/2311.04772v1)|**[link](https://github.com/Windbelll/Prognosis-analysis-of-cerebral-hemorrhage)**|
 |**2023-11-08**|**An attention-based deep learning network for predicting Platinum resistance in ovarian cancer**|Haoming Zhuang et.al.|[2311.04769v1](http://arxiv.org/abs/2311.04769v1)|null|
 |**2023-11-08**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212v2](http://arxiv.org/abs/2311.04212v2)|**[link](https://github.com/shi-labs/vim)**|
