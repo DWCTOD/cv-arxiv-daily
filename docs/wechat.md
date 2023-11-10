@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-11-09, **FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications**, Kaiyuan Chen et.al., Paper: [http://arxiv.org/abs/2311.05600v1](http://arxiv.org/abs/2311.05600v1)
+- 2023-11-09, **A Coefficient Makes SVRG Effective**, Yida Yin et.al., Paper: [http://arxiv.org/abs/2311.05589v1](http://arxiv.org/abs/2311.05589v1), Code: **[https://github.com/davidyyd/alpha-svrg](https://github.com/davidyyd/alpha-svrg)**
+- 2023-11-09, **Outlier-Robust Wasserstein DRO**, Sloan Nietert et.al., Paper: [http://arxiv.org/abs/2311.05573v1](http://arxiv.org/abs/2311.05573v1), Code: **[https://github.com/sbnietert/outlier-robust-wdro](https://github.com/sbnietert/outlier-robust-wdro)**
+- 2023-11-09, **Exploring Emotion Expression Recognition in Older Adults Interacting with a Virtual Coach**, Cristina Palmero et.al., Paper: [http://arxiv.org/abs/2311.05567v1](http://arxiv.org/abs/2311.05567v1)
+- 2023-11-09, **Disentangling Quantum and Classical Contributions in Hybrid Quantum Machine Learning Architectures**, Michael Kölle et.al., Paper: [http://arxiv.org/abs/2311.05559v1](http://arxiv.org/abs/2311.05559v1)
+- 2023-11-09, **L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**, Mirat Shah et.al., Paper: [http://arxiv.org/abs/2311.05548v1](http://arxiv.org/abs/2311.05548v1)
+- 2023-11-09, **BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**, Hao-Bin Duan et.al., Paper: [http://arxiv.org/abs/2311.05521v1](http://arxiv.org/abs/2311.05521v1)
+- 2023-11-09, **Dirichlet Active Learning**, Kevin Miller et.al., Paper: [http://arxiv.org/abs/2311.05501v1](http://arxiv.org/abs/2311.05501v1)
+- 2023-11-09, **Retinal OCT Synthesis with Denoising Diffusion Probabilistic Models for Layer Segmentation**, Yuli Wu et.al., Paper: [http://arxiv.org/abs/2311.05479v1](http://arxiv.org/abs/2311.05479v1)
+- 2023-11-09, **Robust Retraining-free GAN Fingerprinting via Personalized Normalization**, Jianwei Fei et.al., Paper: [http://arxiv.org/abs/2311.05478v1](http://arxiv.org/abs/2311.05478v1)
 - 2023-11-08, **Towards Few-Annotation Learning in Computer Vision: Application to Image Classification and Object Detection tasks**, Quentin Bouniot et.al., Paper: [http://arxiv.org/abs/2311.04888v1](http://arxiv.org/abs/2311.04888v1)
 - 2023-11-08, **Are foundation models efficient for medical image segmentation?**, Danielle Ferreira et.al., Paper: [http://arxiv.org/abs/2311.04847v1](http://arxiv.org/abs/2311.04847v1)
 - 2023-11-08, **Bayesian multi-band fitting of alerts for kilonovae detection**, Biswajit Biswas et.al., Paper: [http://arxiv.org/abs/2311.04845v1](http://arxiv.org/abs/2311.04845v1)
@@ -3585,6 +3595,16 @@
 
 ## MultiModal
 
+- 2023-11-09, **Spatial Attention-based Distribution Integration Network for Human Pose Estimation**, Sihan Gao et.al., Paper: [http://arxiv.org/abs/2311.05323v1](http://arxiv.org/abs/2311.05323v1)
+- 2023-11-09, **TLCFuse: Temporal Multi-Modality Fusion Towards Occlusion-Aware Semantic Segmentation-Aided Motion Planning**, Gustavo Salazar-Gomez et.al., Paper: [http://arxiv.org/abs/2311.05319v1](http://arxiv.org/abs/2311.05319v1)
+- 2023-11-09, **Few-Shot Recognition and Classification of Jamming Signal via CGAN-Based Fusion CNN Algorithm**, Xuhui Ding et.al., Paper: [http://arxiv.org/abs/2311.05273v1](http://arxiv.org/abs/2311.05273v1)
+- 2023-11-09, **BrainNetDiff: Generative AI Empowers Brain Network Generation via Multimodal Diffusion Model**, Yongcheng Zong et.al., Paper: [http://arxiv.org/abs/2311.05199v1](http://arxiv.org/abs/2311.05199v1)
+- 2023-11-09, **Dynamic Association Learning of Self-Attention and Convolution in Image Restoration**, Kui Jiang et.al., Paper: [http://arxiv.org/abs/2311.05147v1](http://arxiv.org/abs/2311.05147v1)
+- 2023-11-09, **POISE: Pose Guided Human Silhouette Extraction under Occlusions**, Arindam Dutta et.al., Paper: [http://arxiv.org/abs/2311.05077v1](http://arxiv.org/abs/2311.05077v1), Code: **[https://github.com/take2rohit/poise](https://github.com/take2rohit/poise)**
+- 2023-11-09, **On the Behavior of Audio-Visual Fusion Architectures in Identity Verification Tasks**, Daniel Claborne et.al., Paper: [http://arxiv.org/abs/2311.05071v1](http://arxiv.org/abs/2311.05071v1)
+- 2023-11-09, **Multiplicity correlations in the model with string clusters in pp collisions at LHC energies**, Svetlana Belokurova et.al., Paper: [http://arxiv.org/abs/2311.05070v1](http://arxiv.org/abs/2311.05070v1)
+- 2023-11-08, **The SPARC Primary Reference Discharge defined by cfsPOPCON**, Thomas Body et.al., Paper: [http://arxiv.org/abs/2311.05016v1](http://arxiv.org/abs/2311.05016v1)
+- 2023-11-08, **5d Conformal Matter**, Mario De Marco et.al., Paper: [http://arxiv.org/abs/2311.04984v1](http://arxiv.org/abs/2311.04984v1)
 - 2023-11-08, **Fusionize++: Improving Serverless Application Performance Using Dynamic Task Inlining and Infrastructure Optimization**, Trever Schirmer et.al., Paper: [http://arxiv.org/abs/2311.04875v1](http://arxiv.org/abs/2311.04875v1)
 - 2023-11-08, **MTGER: Multi-view Temporal Graph Enhanced Temporal Reasoning over Time-Involved Document**, Zheng Chu et.al., Paper: [http://arxiv.org/abs/2311.04816v1](http://arxiv.org/abs/2311.04816v1)
 - 2023-11-08, **Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing**, Peng Yi et.al., Paper: [http://arxiv.org/abs/2311.04791v1](http://arxiv.org/abs/2311.04791v1)
