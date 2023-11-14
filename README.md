@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547v1](http://arxiv.org/abs/2311.07547v1)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
+|**2023-11-13**|**mlscorecheck: Testing the consistency of reported performance scores and experiments in machine learning**|György Kovács et.al.|[2311.07541v1](http://arxiv.org/abs/2311.07541v1)|null|
+|**2023-11-13**|**FEMDA: a unified framework for discriminant analysis**|Pierre Houdouin et.al.|[2311.07518v1](http://arxiv.org/abs/2311.07518v1)|null|
+|**2023-11-13**|**Reducing the Need for Backpropagation and Discovering Better Optima With Explicit Optimizations of Neural Networks**|Jake Ryland Williams et.al.|[2311.07498v1](http://arxiv.org/abs/2311.07498v1)|null|
+|**2023-11-13**|**Towards Robotic Tree Manipulation: Leveraging Graph Representations**|Chung Hee Kim et.al.|[2311.07479v1](http://arxiv.org/abs/2311.07479v1)|null|
+|**2023-11-13**|**Temporal Performance Prediction for Deep Convolutional Long Short-Term Memory Networks**|Laura Fieback et.al.|[2311.07477v1](http://arxiv.org/abs/2311.07477v1)|null|
+|**2023-11-13**|**Masked Face Dataset Generation and Masked Face Recognition**|Rui Cai et.al.|[2311.07475v1](http://arxiv.org/abs/2311.07475v1)|null|
+|**2023-11-13**|**A Bayesian Approach to Strong Lens Finding in the Era of Wide-area Surveys**|Philip Holloway et.al.|[2311.07455v1](http://arxiv.org/abs/2311.07455v1)|null|
+|**2023-11-13**|**On the Robustness of Neural Collapse and the Neural Collapse of Robustness**|Jingtong Su et.al.|[2311.07444v1](http://arxiv.org/abs/2311.07444v1)|null|
+|**2023-11-13**|**Optimising Human-AI Collaboration by Learning Convincing Explanations**|Alex J. Chan et.al.|[2311.07426v1](http://arxiv.org/abs/2311.07426v1)|null|
 |**2023-11-10**|**Learning Human Action Recognition Representations Without Real Humans**|Howard Zhong et.al.|[2311.06231v1](http://arxiv.org/abs/2311.06231v1)|**[link](https://github.com/howardzh01/ppma)**|
 |**2023-11-10**|**Semantic-aware Video Representation for Few-shot Action Recognition**|Yutao Tang et.al.|[2311.06218v1](http://arxiv.org/abs/2311.06218v1)|null|
 |**2023-11-10**|**MultiIoT: Towards Large-scale Multisensory Learning for the Internet of Things**|Shentong Mo et.al.|[2311.06217v1](http://arxiv.org/abs/2311.06217v1)|null|
@@ -3609,6 +3619,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**A Federated Data Fusion-Based Prognostic Model for Applications with Multi-Stream Incomplete Signals**|Madi Arabi et.al.|[2311.07474v1](http://arxiv.org/abs/2311.07474v1)|null|
+|**2023-11-13**|**Energetic Particle Tracing in Optimized Quasisymmetric Stellarator Equilibria**|P. A. Figueiredo et.al.|[2311.07467v1](http://arxiv.org/abs/2311.07467v1)|null|
+|**2023-11-13**|**Story-to-Motion: Synthesizing Infinite and Controllable Character Animation from Long Text**|Zhongfei Qing et.al.|[2311.07446v1](http://arxiv.org/abs/2311.07446v1)|null|
+|**2023-11-13**|**SOLPS-ITER simulation of an X-point radiator in TCV**|G. Sun et.al.|[2311.07295v1](http://arxiv.org/abs/2311.07295v1)|null|
+|**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez et.al.|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
+|**2023-11-13**|**Knowledge Graph Representations to enhance Intensive Care Time-Series Predictions**|Samyak Jain et.al.|[2311.07180v1](http://arxiv.org/abs/2311.07180v1)|null|
+|**2023-11-13**|**A new quasilinear model for turbulent momentum transport in tokamaks with flow shear and plasma shaping**|Haomin Sun et.al.|[2311.07159v1](http://arxiv.org/abs/2311.07159v1)|null|
+|**2023-11-13**|**Detecting As Labeling: Rethinking LiDAR-camera Fusion in 3D Object Detection**|Junjie Huang et.al.|[2311.07152v1](http://arxiv.org/abs/2311.07152v1)|**[link](https://github.com/HuangJunJie2017/BEVDet)**|
+|**2023-11-13**|**Optimal colliding energy for the synthesis of superheavy element $Z$=119**|Avazbek Nasirov et.al.|[2311.07145v1](http://arxiv.org/abs/2311.07145v1)|null|
+|**2023-11-13**|**Wood fusion for magmal comonads**|Ross Street et.al.|[2311.07088v1](http://arxiv.org/abs/2311.07088v1)|null|
 |**2023-11-10**|**Learning material synthesis-structure-property relationship by data fusion: Bayesian Co-regionalization N-Dimensional Piecewise Function Learning**|A. Gilad Kusne et.al.|[2311.06228v1](http://arxiv.org/abs/2311.06228v1)|null|
 |**2023-11-10**|**Semantic-aware Video Representation for Few-shot Action Recognition**|Yutao Tang et.al.|[2311.06218v1](http://arxiv.org/abs/2311.06218v1)|null|
 |**2023-11-10**|**Kinetic versus Magnetic Chaos in Toroidal Plasmas: A systematic quantitative comparison**|Henok T. Moges et.al.|[2311.06213v1](http://arxiv.org/abs/2311.06213v1)|null|
