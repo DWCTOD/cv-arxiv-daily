@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
+|**2023-11-14**|**USLR: an open-source tool for unbiased and smooth longitudinal registration of brain MR**|Adrià Casamitjana et.al.|[2311.08371v1](http://arxiv.org/abs/2311.08371v1)|**[link](https://github.com/acasamitjana/uslr)**|
+|**2023-11-14**|**Inverse Learning with Extremely Sparse Feedback for Recommendation**|Guanyu Lin et.al.|[2311.08302v1](http://arxiv.org/abs/2311.08302v1)|null|
+|**2023-11-14**|**Level Set KSVD**|Omer Sapir et.al.|[2311.08284v1](http://arxiv.org/abs/2311.08284v1)|null|
+|**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
+|**2023-11-14**|**MCMC to address model misspecification in Deep Learning classification of Radio Galaxies**|Devina Mohan et.al.|[2311.08243v1](http://arxiv.org/abs/2311.08243v1)|null|
+|**2023-11-14**|**Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks**|Anna Reithmeir et.al.|[2311.08239v1](http://arxiv.org/abs/2311.08239v1)|**[link](https://github.com/annareithmeir/elastic-regularization-hypermorph)**|
+|**2023-11-14**|**Counterfactual Explanation for Regression via Disentanglement in Latent Space**|Xuan Zhao et.al.|[2311.08228v1](http://arxiv.org/abs/2311.08228v1)|null|
+|**2023-11-14**|**Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images**|Zhiyun Song et.al.|[2311.08225v1](http://arxiv.org/abs/2311.08225v1)|null|
+|**2023-11-14**|**Eval-GCSC: A New Metric for Evaluating ChatGPT's Performance in Chinese Spelling Correction**|Kunting Li et.al.|[2311.08219v1](http://arxiv.org/abs/2311.08219v1)|**[link](https://github.com/ktlktl/eval-gcsc)**|
 |**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547v1](http://arxiv.org/abs/2311.07547v1)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
 |**2023-11-13**|**mlscorecheck: Testing the consistency of reported performance scores and experiments in machine learning**|György Kovács et.al.|[2311.07541v1](http://arxiv.org/abs/2311.07541v1)|null|
 |**2023-11-13**|**FEMDA: a unified framework for discriminant analysis**|Pierre Houdouin et.al.|[2311.07518v1](http://arxiv.org/abs/2311.07518v1)|null|
@@ -3623,6 +3633,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**On-the-Fly Fusion of Large Language Models and Machine Translation**|Hieu Hoang et.al.|[2311.08306v1](http://arxiv.org/abs/2311.08306v1)|null|
+|**2023-11-14**|**Mixed Attention Network for Cross-domain Sequential Recommendation**|Guanyu Lin et.al.|[2311.08272v1](http://arxiv.org/abs/2311.08272v1)|**[link](https://github.com/guanyu-lin/man)**|
+|**2023-11-14**|**Federated Skewed Label Learning with Logits Fusion**|Yuwei Wang et.al.|[2311.08202v1](http://arxiv.org/abs/2311.08202v1)|null|
+|**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
+|**2023-11-14**|**Applying hybrid clustering in pulsar candidate sifting with multi-modality for FAST survey**|Zi-Yi You et.al.|[2311.08134v1](http://arxiv.org/abs/2311.08134v1)|null|
+|**2023-11-14**|**Data and models for stance and premise detection in COVID-19 tweets: insights from the Social Media Mining for Health (SMM4H) 2022 shared task**|Vera Davydova et.al.|[2311.08057v1](http://arxiv.org/abs/2311.08057v1)|null|
+|**2023-11-14**|**ELF: An End-to-end Local and Global Multimodal Fusion Framework for Glaucoma Grading**|Wenyun Li et.al.|[2311.08032v1](http://arxiv.org/abs/2311.08032v1)|null|
+|**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
+|**2023-11-14**|**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection**|Aiheng Zhang et.al.|[2311.08000v1](http://arxiv.org/abs/2311.08000v1)|**[link](https://github.com/wangkai-tech23/LiPar)**|
+|**2023-11-14**|**Comparison of two data fusion approaches for land use classification**|Martin Cubaud et.al.|[2311.07967v1](http://arxiv.org/abs/2311.07967v1)|null|
 |**2023-11-13**|**A Federated Data Fusion-Based Prognostic Model for Applications with Multi-Stream Incomplete Signals**|Madi Arabi et.al.|[2311.07474v1](http://arxiv.org/abs/2311.07474v1)|null|
 |**2023-11-13**|**Energetic Particle Tracing in Optimized Quasisymmetric Stellarator Equilibria**|P. A. Figueiredo et.al.|[2311.07467v1](http://arxiv.org/abs/2311.07467v1)|null|
 |**2023-11-13**|**Story-to-Motion: Synthesizing Infinite and Controllable Character Animation from Long Text**|Zhongfei Qing et.al.|[2311.07446v1](http://arxiv.org/abs/2311.07446v1)|null|
