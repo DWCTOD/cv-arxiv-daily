@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-11-15, **Single-Image 3D Human Digitization with Shape-Guided Diffusion**, Badour AlBahar et.al., Paper: [http://arxiv.org/abs/2311.09221v1](http://arxiv.org/abs/2311.09221v1)
+- 2023-11-15, **ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy**, Kirill Vishniakov et.al., Paper: [http://arxiv.org/abs/2311.09215v1](http://arxiv.org/abs/2311.09215v1), Code: **[https://github.com/kirill-vish/beyond-inet](https://github.com/kirill-vish/beyond-inet)**
+- 2023-11-15, **Topology of Pulsar Profiles (ToPP). I. Graph theory method and classification of the EPN**, D. Vohl et.al., Paper: [http://arxiv.org/abs/2311.09201v1](http://arxiv.org/abs/2311.09201v1)
+- 2023-11-15, **ExpM+NF: Differentially Private Machine Learning that Surpasses DPSGD**, Robert A. Bridges et.al., Paper: [http://arxiv.org/abs/2311.09200v1](http://arxiv.org/abs/2311.09200v1)
+- 2023-11-15, **Domain Aligned CLIP for Few-shot Classification**, Muhammad Waleed Gondal et.al., Paper: [http://arxiv.org/abs/2311.09191v1](http://arxiv.org/abs/2311.09191v1)
+- 2023-11-15, **ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models**, Jierui Li et.al., Paper: [http://arxiv.org/abs/2311.09182v1](http://arxiv.org/abs/2311.09182v1)
+- 2023-11-15, **RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**, Dareen Hussein et.al., Paper: [http://arxiv.org/abs/2311.09178v1](http://arxiv.org/abs/2311.09178v1)
+- 2023-11-15, **Model Agnostic Explainable Selective Regression via Uncertainty Estimation**, Andrea Pugnana et.al., Paper: [http://arxiv.org/abs/2311.09145v1](http://arxiv.org/abs/2311.09145v1)
+- 2023-11-15, **Explainable Text Classification Techniques in Legal Document Review: Locating Rationales without Using Human Annotated Training Text Snippets**, Christian Mahoney et.al., Paper: [http://arxiv.org/abs/2311.09133v1](http://arxiv.org/abs/2311.09133v1)
+- 2023-11-15, **Cross-view and Cross-pose Completion for 3D Human Understanding**, Matthieu Armando et.al., Paper: [http://arxiv.org/abs/2311.09104v1](http://arxiv.org/abs/2311.09104v1)
 - 2023-11-14, **MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**, Ehsan Asali et.al., Paper: [http://arxiv.org/abs/2311.08393v1](http://arxiv.org/abs/2311.08393v1)
 - 2023-11-14, **USLR: an open-source tool for unbiased and smooth longitudinal registration of brain MR**, Adrià Casamitjana et.al., Paper: [http://arxiv.org/abs/2311.08371v1](http://arxiv.org/abs/2311.08371v1), Code: **[https://github.com/acasamitjana/uslr](https://github.com/acasamitjana/uslr)**
 - 2023-11-14, **Inverse Learning with Extremely Sparse Feedback for Recommendation**, Guanyu Lin et.al., Paper: [http://arxiv.org/abs/2311.08302v1](http://arxiv.org/abs/2311.08302v1)
@@ -3625,6 +3635,16 @@
 
 ## MultiModal
 
+- 2023-11-15, **Fusion-Eval: Integrating Evaluators with LLMs**, Lei Shu et.al., Paper: [http://arxiv.org/abs/2311.09204v1](http://arxiv.org/abs/2311.09204v1)
+- 2023-11-15, **HEALNet -- Hybrid Multi-Modal Fusion for Heterogeneous Biomedical Data**, Konstantin Hemker et.al., Paper: [http://arxiv.org/abs/2311.09115v1](http://arxiv.org/abs/2311.09115v1)
+- 2023-11-15, **Soliton approximation in continuum models of leader-follower behavior**, F. Terragni et.al., Paper: [http://arxiv.org/abs/2311.09080v1](http://arxiv.org/abs/2311.09080v1)
+- 2023-11-15, **Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**, Abhishek Goudar et.al., Paper: [http://arxiv.org/abs/2311.09056v1](http://arxiv.org/abs/2311.09056v1)
+- 2023-11-15, **Measurements of evaporation residue cross-sections and evaporation residue-gated $γ$-ray fold distributions for $^{32}$S+$^{154}$Sm system**, R. Sariyal et.al., Paper: [http://arxiv.org/abs/2311.09046v1](http://arxiv.org/abs/2311.09046v1)
+- 2023-11-15, **AI-based soundscape analysis: Jointly identifying sound sources and predicting annoyance**, Yuanbo Hou et.al., Paper: [http://arxiv.org/abs/2311.09030v1](http://arxiv.org/abs/2311.09030v1)
+- 2023-11-15, **Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach**, Zixiao Wang et.al., Paper: [http://arxiv.org/abs/2311.09015v1](http://arxiv.org/abs/2311.09015v1)
+- 2023-11-15, **A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**, Jianjun Liu et.al., Paper: [http://arxiv.org/abs/2311.08955v1](http://arxiv.org/abs/2311.08955v1)
+- 2023-11-15, **Violet: A Vision-Language Model for Arabic Image Captioning with Gemini Decoder**, Abdelrahman Mohamed et.al., Paper: [http://arxiv.org/abs/2311.08844v1](http://arxiv.org/abs/2311.08844v1)
+- 2023-11-15, **CLN-VC: Text-Free Voice Conversion Based on Fine-Grained Style Control and Contrastive Learning with Negative Samples Augmentation**, Yimin Deng et.al., Paper: [http://arxiv.org/abs/2311.08670v1](http://arxiv.org/abs/2311.08670v1)
 - 2023-11-14, **On-the-Fly Fusion of Large Language Models and Machine Translation**, Hieu Hoang et.al., Paper: [http://arxiv.org/abs/2311.08306v1](http://arxiv.org/abs/2311.08306v1)
 - 2023-11-14, **Mixed Attention Network for Cross-domain Sequential Recommendation**, Guanyu Lin et.al., Paper: [http://arxiv.org/abs/2311.08272v1](http://arxiv.org/abs/2311.08272v1), Code: **[https://github.com/guanyu-lin/man](https://github.com/guanyu-lin/man)**
 - 2023-11-14, **Federated Skewed Label Learning with Logits Fusion**, Yuwei Wang et.al., Paper: [http://arxiv.org/abs/2311.08202v1](http://arxiv.org/abs/2311.08202v1)
