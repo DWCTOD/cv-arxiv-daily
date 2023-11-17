@@ -3646,9 +3646,9 @@ layout: default
 |**2023-11-15**|**Fusion-Eval: Integrating Evaluators with LLMs**|Lei Shu et.al.|[2311.09204v1](http://arxiv.org/abs/2311.09204v1)|null|
 |**2023-11-15**|**HEALNet -- Hybrid Multi-Modal Fusion for Heterogeneous Biomedical Data**|Konstantin Hemker et.al.|[2311.09115v1](http://arxiv.org/abs/2311.09115v1)|null|
 |**2023-11-15**|**Soliton approximation in continuum models of leader-follower behavior**|F. Terragni et.al.|[2311.09080v1](http://arxiv.org/abs/2311.09080v1)|null|
-|**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056v1](http://arxiv.org/abs/2311.09056v1)|null|
+|**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056v1](http://arxiv.org/abs/2311.09056v1)|**[link](https://github.com/utiasdsl/ra_lan)**|
 |**2023-11-15**|**Measurements of evaporation residue cross-sections and evaporation residue-gated $γ$-ray fold distributions for $^{32}$S+$^{154}$Sm system**|R. Sariyal et.al.|[2311.09046v1](http://arxiv.org/abs/2311.09046v1)|null|
-|**2023-11-15**|**AI-based soundscape analysis: Jointly identifying sound sources and predicting annoyance**|Yuanbo Hou et.al.|[2311.09030v1](http://arxiv.org/abs/2311.09030v1)|null|
+|**2023-11-15**|**AI-based soundscape analysis: Jointly identifying sound sources and predicting annoyance**|Yuanbo Hou et.al.|[2311.09030v1](http://arxiv.org/abs/2311.09030v1)|**[link](https://github.com/yuanbo2020/ai-soundscape)**|
 |**2023-11-15**|**Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach**|Zixiao Wang et.al.|[2311.09015v1](http://arxiv.org/abs/2311.09015v1)|null|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
 |**2023-11-15**|**Violet: A Vision-Language Model for Arabic Image Captioning with Gemini Decoder**|Abdelrahman Mohamed et.al.|[2311.08844v1](http://arxiv.org/abs/2311.08844v1)|null|
