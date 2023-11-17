@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-11-16, **Traffic Video Object Detection using Motion Prior**, Lihao Liu et.al., Paper: [http://arxiv.org/abs/2311.10092v1](http://arxiv.org/abs/2311.10092v1)
+- 2023-11-16, **Moduli space of rank three logarithmic connections on the projective line with three poles**, Takafumi Matsumoto et.al., Paper: [http://arxiv.org/abs/2311.10071v1](http://arxiv.org/abs/2311.10071v1)
+- 2023-11-16, **Inherently Interpretable Time Series Classification via Multiple Instance Learning**, Joseph Early et.al., Paper: [http://arxiv.org/abs/2311.10049v1](http://arxiv.org/abs/2311.10049v1), Code: **[https://github.com/jaearly/miltimeseriesclassification](https://github.com/jaearly/miltimeseriesclassification)**
+- 2023-11-16, **On the potential of Carbon-Enhanced Metal-Poor stars for Galactic Archaeology**, Aruna Goswami et.al., Paper: [http://arxiv.org/abs/2311.10043v1](http://arxiv.org/abs/2311.10043v1)
+- 2023-11-16, **Match and Locate: low-frequency monocular odometry based on deep feature matching**, Stepan Konev et.al., Paper: [http://arxiv.org/abs/2311.10034v1](http://arxiv.org/abs/2311.10034v1)
+- 2023-11-16, **Revolutionizing Customer Interactions: Insights and Challenges in Deploying ChatGPT and Generative Chatbots for FAQs**, Feriel Khennouche et.al., Paper: [http://arxiv.org/abs/2311.09976v1](http://arxiv.org/abs/2311.09976v1)
+- 2023-11-16, **From Pretext to Purpose: Batch-Adaptive Self-Supervised Learning**, Jiansong Zhang et.al., Paper: [http://arxiv.org/abs/2311.09974v1](http://arxiv.org/abs/2311.09974v1)
+- 2023-11-16, **VertDetect: Fully End-to-End 3D Vertebral Instance Segmentation Model**, Geoff Klein et.al., Paper: [http://arxiv.org/abs/2311.09958v1](http://arxiv.org/abs/2311.09958v1)
+- 2023-11-16, **Harnessing Transformers: A Leap Forward in Lung Cancer Image Detection**, Amine Bechar et.al., Paper: [http://arxiv.org/abs/2311.09942v1](http://arxiv.org/abs/2311.09942v1)
+- 2023-11-16, **A Framework for Monitoring and Retraining Language Models in Real-World Applications**, Jaykumar Kasundra et.al., Paper: [http://arxiv.org/abs/2311.09930v1](http://arxiv.org/abs/2311.09930v1)
 - 2023-11-15, **Single-Image 3D Human Digitization with Shape-Guided Diffusion**, Badour AlBahar et.al., Paper: [http://arxiv.org/abs/2311.09221v1](http://arxiv.org/abs/2311.09221v1)
 - 2023-11-15, **ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy**, Kirill Vishniakov et.al., Paper: [http://arxiv.org/abs/2311.09215v1](http://arxiv.org/abs/2311.09215v1), Code: **[https://github.com/kirill-vish/beyond-inet](https://github.com/kirill-vish/beyond-inet)**
 - 2023-11-15, **Topology of Pulsar Profiles (ToPP). I. Graph theory method and classification of the EPN**, D. Vohl et.al., Paper: [http://arxiv.org/abs/2311.09201v1](http://arxiv.org/abs/2311.09201v1)
@@ -3635,6 +3645,16 @@
 
 ## MultiModal
 
+- 2023-11-16, **FENDL: A library for fusion research and applications**, G. Schnabel et.al., Paper: [http://arxiv.org/abs/2311.10063v1](http://arxiv.org/abs/2311.10063v1)
+- 2023-11-16, **On the Overconfidence Problem in Semantic 3D Mapping**, Joao Marcos Correia Marques et.al., Paper: [http://arxiv.org/abs/2311.10018v1](http://arxiv.org/abs/2311.10018v1)
+- 2023-11-16, **From Pretext to Purpose: Batch-Adaptive Self-Supervised Learning**, Jiansong Zhang et.al., Paper: [http://arxiv.org/abs/2311.09974v1](http://arxiv.org/abs/2311.09974v1)
+- 2023-11-16, **Self-supervised learning of multi-omics embeddings in the low-label, high-data regime**, Christian John Hurry et.al., Paper: [http://arxiv.org/abs/2311.09962v1](http://arxiv.org/abs/2311.09962v1)
+- 2023-11-16, **RED-DOT: Multimodal Fact-checking via Relevant Evidence Detection**, Stefanos-Iordanis Papadopoulos et.al., Paper: [http://arxiv.org/abs/2311.09939v1](http://arxiv.org/abs/2311.09939v1)
+- 2023-11-16, **DSR-Diff: Depth Map Super-Resolution with Diffusion Model**, Yuan Shi et.al., Paper: [http://arxiv.org/abs/2311.09919v1](http://arxiv.org/abs/2311.09919v1)
+- 2023-11-16, **Towards Formal Fault Injection for Safety Assessment of Automated Systems**, Ashfaq Farooqui et.al., Paper: [http://arxiv.org/abs/2311.09810v1](http://arxiv.org/abs/2311.09810v1)
+- 2023-11-16, **Search for the origin of wobbling motion in the $ A \approx 130 $ region: The case of $^{131}$Xe**, S. Chakraborty et.al., Paper: [http://arxiv.org/abs/2311.09713v1](http://arxiv.org/abs/2311.09713v1)
+- 2023-11-16, **Multi-View Spectrogram Transformer for Respiratory Sound Classification**, Wentao He et.al., Paper: [http://arxiv.org/abs/2311.09655v1](http://arxiv.org/abs/2311.09655v1)
+- 2023-11-16, **LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks**, Mihir Parmar et.al., Paper: [http://arxiv.org/abs/2311.09564v1](http://arxiv.org/abs/2311.09564v1), Code: **[https://github.com/mihir3009/longbox](https://github.com/mihir3009/longbox)**
 - 2023-11-15, **Fusion-Eval: Integrating Evaluators with LLMs**, Lei Shu et.al., Paper: [http://arxiv.org/abs/2311.09204v1](http://arxiv.org/abs/2311.09204v1)
 - 2023-11-15, **HEALNet -- Hybrid Multi-Modal Fusion for Heterogeneous Biomedical Data**, Konstantin Hemker et.al., Paper: [http://arxiv.org/abs/2311.09115v1](http://arxiv.org/abs/2311.09115v1)
 - 2023-11-15, **Soliton approximation in continuum models of leader-follower behavior**, F. Terragni et.al., Paper: [http://arxiv.org/abs/2311.09080v1](http://arxiv.org/abs/2311.09080v1)
