@@ -3653,7 +3653,7 @@
 |**2023-11-16**|**On the Overconfidence Problem in Semantic 3D Mapping**|Joao Marcos Correia Marques et.al.|[2311.10018v1](http://arxiv.org/abs/2311.10018v1)|null|
 |**2023-11-16**|**From Pretext to Purpose: Batch-Adaptive Self-Supervised Learning**|Jiansong Zhang et.al.|[2311.09974v1](http://arxiv.org/abs/2311.09974v1)|null|
 |**2023-11-16**|**Self-supervised learning of multi-omics embeddings in the low-label, high-data regime**|Christian John Hurry et.al.|[2311.09962v1](http://arxiv.org/abs/2311.09962v1)|null|
-|**2023-11-16**|**RED-DOT: Multimodal Fact-checking via Relevant Evidence Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2311.09939v1](http://arxiv.org/abs/2311.09939v1)|null|
+|**2023-11-16**|**RED-DOT: Multimodal Fact-checking via Relevant Evidence Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2311.09939v1](http://arxiv.org/abs/2311.09939v1)|**[link](https://github.com/stevejpapad/relevant-evidence-detection)**|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919v1](http://arxiv.org/abs/2311.09919v1)|null|
 |**2023-11-16**|**Towards Formal Fault Injection for Safety Assessment of Automated Systems**|Ashfaq Farooqui et.al.|[2311.09810v1](http://arxiv.org/abs/2311.09810v1)|null|
 |**2023-11-16**|**Search for the origin of wobbling motion in the $ A \approx 130 $ region: The case of $^{131}$Xe**|S. Chakraborty et.al.|[2311.09713v1](http://arxiv.org/abs/2311.09713v1)|null|
