@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
+|**2023-11-17**|**SpACNN-LDVAE: Spatial Attention Convolutional Latent Dirichlet Variational Autoencoder for Hyperspectral Pixel Unmixing**|Soham Chitnis et.al.|[2311.10701v1](http://arxiv.org/abs/2311.10701v1)|null|
+|**2023-11-17**|**A note on the convergence of the Bayesian entropy estimator for exchangeable partitions**|Servet Martinez et.al.|[2311.10698v1](http://arxiv.org/abs/2311.10698v1)|null|
+|**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678v1](http://arxiv.org/abs/2311.10678v1)|**[link](https://github.com/Stanford-ILIAD/droc)**|
+|**2023-11-17**|**3D-TexSeg: Unsupervised Segmentation of 3D Texture using Mutual Transformer Learning**|Iyyakutti Iyappan Ganapathi et.al.|[2311.10651v1](http://arxiv.org/abs/2311.10651v1)|null|
+|**2023-11-17**|**User Dynamics-Aware Edge Caching and Computing for Mobile Virtual Reality**|Mushu Li et.al.|[2311.10645v1](http://arxiv.org/abs/2311.10645v1)|null|
+|**2023-11-17**|**Image-Domain Material Decomposition for Dual-energy CT using Unsupervised Learning with Data-fidelity Loss**|Junbo Peng et.al.|[2311.10641v1](http://arxiv.org/abs/2311.10641v1)|null|
+|**2023-11-17**|**Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks**|Benjamin Feuer et.al.|[2311.10609v1](http://arxiv.org/abs/2311.10609v1)|null|
+|**2023-11-17**|**Designing Reconfigurable Intelligent Systems with Markov Blankets**|Boris Sedlak et.al.|[2311.10597v1](http://arxiv.org/abs/2311.10597v1)|null|
+|**2023-11-17**|**FOCAL: A Cost-Aware Video Dataset for Active Learning**|Kiran Kokilepersaud et.al.|[2311.10591v1](http://arxiv.org/abs/2311.10591v1)|**[link](https://github.com/olivesgatech/focal_dataset)**|
 |**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
 |**2023-11-16**|**Moduli space of rank three logarithmic connections on the projective line with three poles**|Takafumi Matsumoto et.al.|[2311.10071v1](http://arxiv.org/abs/2311.10071v1)|null|
 |**2023-11-16**|**Inherently Interpretable Time Series Classification via Multiple Instance Learning**|Joseph Early et.al.|[2311.10049v1](http://arxiv.org/abs/2311.10049v1)|**[link](https://github.com/jaearly/miltimeseriesclassification)**|
@@ -3649,6 +3659,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707v1](http://arxiv.org/abs/2311.10707v1)|null|
+|**2023-11-17**|**Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference**|Marvin Schmitt et.al.|[2311.10671v1](http://arxiv.org/abs/2311.10671v1)|null|
+|**2023-11-17**|**LE-SSL-MOS: Self-Supervised Learning MOS Prediction with Listener Enhancement**|Zili Qi et.al.|[2311.10656v1](http://arxiv.org/abs/2311.10656v1)|null|
+|**2023-11-17**|**Multimodal Indoor Localization Using Crowdsourced Radio Maps**|Zhaoguang Yi et.al.|[2311.10601v1](http://arxiv.org/abs/2311.10601v1)|null|
+|**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522v1](http://arxiv.org/abs/2311.10522v1)|null|
+|**2023-11-17**|**Collaborative Grid Mapping for Moving Object Tracking Evaluation**|Rémy Huet et.al.|[2311.10415v1](http://arxiv.org/abs/2311.10415v1)|null|
+|**2023-11-17**|**MSE-Nets: Multi-annotated Semi-supervised Ensemble Networks for Improving Segmentation of Medical Image with Ambiguous Boundaries**|Shuai Wang et.al.|[2311.10380v1](http://arxiv.org/abs/2311.10380v1)|null|
+|**2023-11-17**|**Pseudo Label-Guided Data Fusion and Output Consistency for Semi-Supervised Medical Image Segmentation**|Tao Wang et.al.|[2311.10349v1](http://arxiv.org/abs/2311.10349v1)|**[link](https://github.com/ortonwang/plgdf)**|
+|**2023-11-17**|**Cooperative Perception with Learning-Based V2V communications**|Chenguang Liu et.al.|[2311.10336v1](http://arxiv.org/abs/2311.10336v1)|null|
+|**2023-11-17**|**Leveraging Multimodal Fusion for Enhanced Diagnosis of Multiple Retinal Diseases in Ultra-wide OCTA**|Hao Wei et.al.|[2311.10331v1](http://arxiv.org/abs/2311.10331v1)|**[link](https://github.com/hwei-hw/m3octa)**|
 |**2023-11-17**|**FENDL: A library for fusion research and applications**|G. Schnabel et.al.|[2311.10063v2](http://arxiv.org/abs/2311.10063v2)|null|
 |**2023-11-16**|**On the Overconfidence Problem in Semantic 3D Mapping**|Joao Marcos Correia Marques et.al.|[2311.10018v1](http://arxiv.org/abs/2311.10018v1)|null|
 |**2023-11-16**|**From Pretext to Purpose: Batch-Adaptive Self-Supervised Learning**|Jiansong Zhang et.al.|[2311.09974v1](http://arxiv.org/abs/2311.09974v1)|null|
