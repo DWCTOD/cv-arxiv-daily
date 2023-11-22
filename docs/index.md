@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
+|**2023-11-21**|**Quantifying Impairment and Disease Severity Using AI Models Trained on Healthy Subjects**|Boyang Yu et.al.|[2311.12781v1](http://arxiv.org/abs/2311.12781v1)|**[link](https://github.com/fishneck/cobra)**|
+|**2023-11-21**|**Swift Parameter-free Attention Network for Efficient Super-Resolution**|Cheng Wan et.al.|[2311.12770v1](http://arxiv.org/abs/2311.12770v1)|**[link](https://github.com/hongyuanyu/span)**|
+|**2023-11-21**|**Investigating Weight-Perturbed Deep Neural Networks With Application in Iris Presentation Attack Detection**|Renu Sharma et.al.|[2311.12764v1](http://arxiv.org/abs/2311.12764v1)|**[link](https://github.com/redwankarimsony/weightperturbation-msu)**|
+|**2023-11-21**|**High-resolution Image-based Malware Classification using Multiple Instance Learning**|Tim Peters et.al.|[2311.12760v1](http://arxiv.org/abs/2311.12760v1)|**[link](https://github.com/timppeters/mil-malware-images)**|
+|**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|**[link](https://github.com/huang-yh/selfocc)**|
+|**2023-11-21**|**Image Transformation for IoT Time-Series Data: A Review**|Duygu Altunkaya et.al.|[2311.12742v1](http://arxiv.org/abs/2311.12742v1)|null|
+|**2023-11-21**|**Exploring Graph Classification Techniques Under Low Data Constraints: A Comprehensive Study**|Kush Kothari et.al.|[2311.12737v1](http://arxiv.org/abs/2311.12737v1)|null|
+|**2023-11-21**|**Not Just Training, Also Testing: High School Youths' Perspective-Taking through Peer Testing Machine Learning-Powered Applications**|L. Morales-Navarro et.al.|[2311.12733v1](http://arxiv.org/abs/2311.12733v1)|null|
+|**2023-11-21**|**Cascade Learning Localises Discriminant Features in Visual Scene Classification**|Junwen Wang et.al.|[2311.12704v1](http://arxiv.org/abs/2311.12704v1)|null|
 |**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028v1](http://arxiv.org/abs/2311.12028v1)|null|
 |**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
 |**2023-11-20**|**Evaluating Supervision Levels Trade-Offs for Infrared-Based People Counting**|David Latortue et.al.|[2311.11974v1](http://arxiv.org/abs/2311.11974v1)|null|
@@ -3673,6 +3683,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Mobile-Seed: Joint Semantic Segmentation and Boundary Detection for Mobile Robots**|Youqi Liao et.al.|[2311.12651v1](http://arxiv.org/abs/2311.12651v1)|null|
+|**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449v1](http://arxiv.org/abs/2311.12449v1)|null|
+|**2023-11-21**|**AR Visualization System for Ship Detection and Recognition Based on AI**|Ziqi Ye et.al.|[2311.12430v1](http://arxiv.org/abs/2311.12430v1)|null|
+|**2023-11-21**|**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**|Peiang Zhao et.al.|[2311.12342v1](http://arxiv.org/abs/2311.12342v1)|null|
+|**2023-11-21**|**QuGeo: An End-to-end Quantum Learning Framework for Geoscience -- A Case Study on Full-Waveform Inversion**|Weiwen Jiang et.al.|[2311.12333v1](http://arxiv.org/abs/2311.12333v1)|null|
+|**2023-11-20**|**Improvements in Interlayer Pipelining of CNN Accelerators Using Genetic Algorithms**|Mark Horeni et.al.|[2311.12235v1](http://arxiv.org/abs/2311.12235v1)|null|
+|**2023-11-20**|**Materials for Fusion Energy: Key Challenges and Guiding Principles for Developing Under High Design Uncertainty**|David Cohen-Tanugi et.al.|[2311.12187v1](http://arxiv.org/abs/2311.12187v1)|null|
+|**2023-11-20**|**Uncertainty Estimation in Contrast-Enhanced MR Image Translation with Multi-Axis Fusion**|Ivo M. Baltruschat et.al.|[2311.12153v1](http://arxiv.org/abs/2311.12153v1)|null|
+|**2023-11-20**|**PanBench: Towards High-Resolution and High-Performance Pansharpening**|Shiying Wang et.al.|[2311.12083v1](http://arxiv.org/abs/2311.12083v1)|null|
 |**2023-11-20**|**Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement**|Yanyan Wei et.al.|[2311.11695v1](http://arxiv.org/abs/2311.11695v1)|null|
 |**2023-11-20**|**MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features**|Mingxin Liu et.al.|[2311.11659v1](http://arxiv.org/abs/2311.11659v1)|null|
 |**2023-11-20**|**Control of energy spectra and enhancement of energy conversion of fast electrons generated by dual-color picosecond lasers**|Tie-Huai Zhang et.al.|[2311.11625v1](http://arxiv.org/abs/2311.11625v1)|null|
