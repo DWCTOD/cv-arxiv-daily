@@ -3686,10 +3686,10 @@
 ## MultiModal
 
 - 2023-11-22, **Irregular Fibonacci Conformal Blocks**, Xia Gu et.al., Paper: [http://arxiv.org/abs/2311.13358v1](http://arxiv.org/abs/2311.13358v1)
-- 2023-11-22, **Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**, Hazem Abaza et.al., Paper: [http://arxiv.org/abs/2311.13333v1](http://arxiv.org/abs/2311.13333v1)
+- 2023-11-23, **Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**, Hazem Abaza et.al., Paper: [http://arxiv.org/abs/2311.13333v2](http://arxiv.org/abs/2311.13333v2)
 - 2023-11-22, **DA-STC: Domain Adaptive Video Semantic Segmentation via Spatio-Temporal Consistency**, Zhe Zhang et.al., Paper: [http://arxiv.org/abs/2311.13254v1](http://arxiv.org/abs/2311.13254v1), Code: **[https://github.com/ZHE-SAPI/STCL](https://github.com/ZHE-SAPI/STCL)**
 - 2023-11-22, **FuseNet: Self-Supervised Dual-Path Network for Medical Image Segmentation**, Amirhossein Kazerouni et.al., Paper: [http://arxiv.org/abs/2311.13069v1](http://arxiv.org/abs/2311.13069v1), Code: **[https://github.com/xmindflow/fusenet](https://github.com/xmindflow/fusenet)**
-- 2023-11-21, **Mobile-Seed: Joint Semantic Segmentation and Boundary Detection for Mobile Robots**, Youqi Liao et.al., Paper: [http://arxiv.org/abs/2311.12651v1](http://arxiv.org/abs/2311.12651v1)
+- 2023-11-23, **Mobile-Seed: Joint Semantic Segmentation and Boundary Detection for Mobile Robots**, Youqi Liao et.al., Paper: [http://arxiv.org/abs/2311.12651v2](http://arxiv.org/abs/2311.12651v2), Code: **[https://github.com/whu-usi3dv/mobile-seed](https://github.com/whu-usi3dv/mobile-seed)**
 - 2023-11-21, **HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**, Murat Isik et.al., Paper: [http://arxiv.org/abs/2311.12449v1](http://arxiv.org/abs/2311.12449v1)
 - 2023-11-21, **AR Visualization System for Ship Detection and Recognition Based on AI**, Ziqi Ye et.al., Paper: [http://arxiv.org/abs/2311.12430v1](http://arxiv.org/abs/2311.12430v1)
 - 2023-11-21, **LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**, Peiang Zhao et.al., Paper: [http://arxiv.org/abs/2311.12342v1](http://arxiv.org/abs/2311.12342v1)
