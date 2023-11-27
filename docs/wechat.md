@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-11-24, **SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**, Lingchen Meng et.al., Paper: [http://arxiv.org/abs/2311.14671v1](http://arxiv.org/abs/2311.14671v1), Code: **[https://github.com/menglcool/segic](https://github.com/menglcool/segic)**
+- 2023-11-24, **JetLOV: Enhancing Jet Tree Tagging through Neural Network Learning of Optimal LundNet Variables**, Mauricio A. Diaz et.al., Paper: [http://arxiv.org/abs/2311.14654v1](http://arxiv.org/abs/2311.14654v1), Code: **[https://github.com/giorgiocerro/jetlov](https://github.com/giorgiocerro/jetlov)**
+- 2023-11-24, **Learning in Deep Factor Graphs with Gaussian Belief Propagation**, Seth Nabarro et.al., Paper: [http://arxiv.org/abs/2311.14649v1](http://arxiv.org/abs/2311.14649v1)
+- 2023-11-24, **Continuous football player tracking from discrete broadcast data**, Matthew J. Penn et.al., Paper: [http://arxiv.org/abs/2311.14642v1](http://arxiv.org/abs/2311.14642v1)
+- 2023-11-24, **Emergent Topology in Many-Body Dissipative Quantum Chaos**, Antonio M. García-García et.al., Paper: [http://arxiv.org/abs/2311.14640v1](http://arxiv.org/abs/2311.14640v1)
+- 2023-11-24, **Unsupervised high-throughput segmentation of cells and cell nuclei in quantitative phase images**, Julia Sistermanns et.al., Paper: [http://arxiv.org/abs/2311.14639v1](http://arxiv.org/abs/2311.14639v1)
+- 2023-11-24, **ARIA: On the interaction between Architectures, Aggregation methods and Initializations in federated visual classification**, Vasilis Siomos et.al., Paper: [http://arxiv.org/abs/2311.14625v1](http://arxiv.org/abs/2311.14625v1)
+- 2023-11-24, **Neural Style Transfer for Computer Games**, Eleftherios Ioannou et.al., Paper: [http://arxiv.org/abs/2311.14617v1](http://arxiv.org/abs/2311.14617v1)
+- 2023-11-24, **Animate124: Animating One Image to 4D Dynamic Scene**, Yuyang Zhao et.al., Paper: [http://arxiv.org/abs/2311.14603v1](http://arxiv.org/abs/2311.14603v1)
+- 2023-11-24, **A Metalearned Neural Circuit for Nonparametric Bayesian Inference**, Jake C. Snell et.al., Paper: [http://arxiv.org/abs/2311.14601v1](http://arxiv.org/abs/2311.14601v1), Code: **[https://github.com/jakesnell/neural-circuits](https://github.com/jakesnell/neural-circuits)**
 - 2023-11-22, **WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**, Katja Schwarz et.al., Paper: [http://arxiv.org/abs/2311.13570v1](http://arxiv.org/abs/2311.13570v1)
 - 2023-11-22, **Belted sum decompositions of fully augmented links**, Porter Morgan et.al., Paper: [http://arxiv.org/abs/2311.13540v1](http://arxiv.org/abs/2311.13540v1)
 - 2023-11-22, **Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression**, Tam Thuc Do et.al., Paper: [http://arxiv.org/abs/2311.13539v1](http://arxiv.org/abs/2311.13539v1)
@@ -3685,6 +3695,16 @@
 
 ## MultiModal
 
+- 2023-11-24, **Cooperative Multi-Monostatic Sensing for Object Localization in 6G Networks**, Maximiliano Rivera Figueroa et.al., Paper: [http://arxiv.org/abs/2311.14591v1](http://arxiv.org/abs/2311.14591v1)
+- 2023-11-24, **In situ Imaging of Precipitate Formation in Additively Manufactured Al-Alloys by Scanning X-ray Fluorescence**, Isac Lazar et.al., Paper: [http://arxiv.org/abs/2311.14529v1](http://arxiv.org/abs/2311.14529v1)
+- 2023-11-24, **Lightweight Framework for Automated Kidney Stone Detection using coronal CT images**, Fangyijie Wang et.al., Paper: [http://arxiv.org/abs/2311.14488v1](http://arxiv.org/abs/2311.14488v1)
+- 2023-11-24, **Receding Horizon Optimization with PPUM: An Approach for Autonomous Robot Path Planning in Uncertain Environments**, Zijian Ge et.al., Paper: [http://arxiv.org/abs/2311.14411v1](http://arxiv.org/abs/2311.14411v1)
+- 2023-11-24, **Cooperative Dual Attention for Audio-Visual Speech Enhancement with Facial Cues**, Feixiang Wang et.al., Paper: [http://arxiv.org/abs/2311.14275v1](http://arxiv.org/abs/2311.14275v1)
+- 2023-11-23, **MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**, Nathaniel Simon et.al., Paper: [http://arxiv.org/abs/2311.14100v1](http://arxiv.org/abs/2311.14100v1)
+- 2023-11-23, **Fission of 215Fr studied with gamma spectroscopic methods**, K. Miernik et.al., Paper: [http://arxiv.org/abs/2311.13931v1](http://arxiv.org/abs/2311.13931v1)
+- 2023-11-23, **PointPCA+: Extending PointPCA objective quality assessment metric**, Xuemei Zhou et.al., Paper: [http://arxiv.org/abs/2311.13880v1](http://arxiv.org/abs/2311.13880v1)
+- 2023-11-22, **Qudit Stabilizer Codes, CFTs, and Topological Surfaces**, Matthew Buican et.al., Paper: [http://arxiv.org/abs/2311.13680v1](http://arxiv.org/abs/2311.13680v1)
+- 2023-11-22, **Third-Family Lepton-Quark Fusion**, Arman Korajac et.al., Paper: [http://arxiv.org/abs/2311.13635v1](http://arxiv.org/abs/2311.13635v1)
 - 2023-11-22, **Irregular Fibonacci Conformal Blocks**, Xia Gu et.al., Paper: [http://arxiv.org/abs/2311.13358v1](http://arxiv.org/abs/2311.13358v1)
 - 2023-11-23, **Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**, Hazem Abaza et.al., Paper: [http://arxiv.org/abs/2311.13333v2](http://arxiv.org/abs/2311.13333v2)
 - 2023-11-22, **DA-STC: Domain Adaptive Video Semantic Segmentation via Spatio-Temporal Consistency**, Zhe Zhang et.al., Paper: [http://arxiv.org/abs/2311.13254v1](http://arxiv.org/abs/2311.13254v1), Code: **[https://github.com/ZHE-SAPI/STCL](https://github.com/ZHE-SAPI/STCL)**
