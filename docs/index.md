@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103v1](http://arxiv.org/abs/2311.16103v1)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-27**|**GART: Gaussian Articulated Template Models**|Jiahui Lei et.al.|[2311.16099v1](http://arxiv.org/abs/2311.16099v1)|null|
+|**2023-11-27**|**On Bringing Robots Home**|Nur Muhammad Mahi Shafiullah et.al.|[2311.16098v1](http://arxiv.org/abs/2311.16098v1)|**[link](https://github.com/notmahi/dobb-e)**|
+|**2023-11-27**|**CG-HOI: Contact-Guided 3D Human-Object Interaction Generation**|Christian Diller et.al.|[2311.16097v1](http://arxiv.org/abs/2311.16097v1)|null|
+|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096v1](http://arxiv.org/abs/2311.16096v1)|**[link](https://github.com/lizhe00/animatablegaussians)**|
+|**2023-11-27**|**Three-dimensional $\mathbb{Z}$ topological insulators without reflection symmetry**|Alexander C. Tyner et.al.|[2311.16092v1](http://arxiv.org/abs/2311.16092v1)|null|
+|**2023-11-27**|**BERT Goes Off-Topic: Investigating the Domain Transfer Challenge using Genre Classification**|Dmitri Roussinov et.al.|[2311.16083v1](http://arxiv.org/abs/2311.16083v1)|**[link](https://github.com/dminus1/genre)**|
+|**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081v1](http://arxiv.org/abs/2311.16081v1)|**[link](https://github.com/TencentARC/ViT-Lens)**|
+|**2023-11-27**|**Correlated Spectral and Recurrence Variations of Cygnus X-1**|E. M. Broadbent et.al.|[2311.16070v1](http://arxiv.org/abs/2311.16070v1)|null|
+|**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060v1](http://arxiv.org/abs/2311.16060v1)|**[link](https://github.com/jeffery9707/diffslva)**|
 |**2023-11-24**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671v1](http://arxiv.org/abs/2311.14671v1)|**[link](https://github.com/menglcool/segic)**|
 |**2023-11-24**|**JetLOV: Enhancing Jet Tree Tagging through Neural Network Learning of Optimal LundNet Variables**|Mauricio A. Diaz et.al.|[2311.14654v1](http://arxiv.org/abs/2311.14654v1)|**[link](https://github.com/giorgiocerro/jetlov)**|
 |**2023-11-24**|**Learning in Deep Factor Graphs with Gaussian Belief Propagation**|Seth Nabarro et.al.|[2311.14649v1](http://arxiv.org/abs/2311.14649v1)|null|
@@ -3703,6 +3713,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion**|Yuanxun Lu et.al.|[2311.15980v1](http://arxiv.org/abs/2311.15980v1)|null|
+|**2023-11-27**|**Computer Vision for Carriers: PATRIOT**|Ari Goodman et.al.|[2311.15914v1](http://arxiv.org/abs/2311.15914v1)|null|
+|**2023-11-27**|**MARIS: Referring Image Segmentation via Mutual-Aware Attention Features**|Mengxi Zhang et.al.|[2311.15727v1](http://arxiv.org/abs/2311.15727v1)|null|
+|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674v1](http://arxiv.org/abs/2311.15674v1)|null|
+|**2023-11-27**|**Technical Report for Argoverse Challenges on 4D Occupancy Forecasting**|Pengfei Zheng et.al.|[2311.15660v1](http://arxiv.org/abs/2311.15660v1)|null|
+|**2023-11-27**|**Classification of connected étale algebras in pre-modular fusion categories up to rank three**|Ken Kikuchi et.al.|[2311.15631v1](http://arxiv.org/abs/2311.15631v1)|null|
+|**2023-11-27**|**Operator-state correspondence in simple current extended conformal field theories: Toward a general understanding of chiral conformal field theories and topological orders**|Yoshiki Fukusumi et.al.|[2311.15621v1](http://arxiv.org/abs/2311.15621v1)|null|
+|**2023-11-27**|**Technical Report for Argoverse Challenges on Unified Sensor-based Detection, Tracking, and Forecasting**|Zhepeng Wang et.al.|[2311.15615v1](http://arxiv.org/abs/2311.15615v1)|null|
+|**2023-11-27**|**PF-DMD: Physics-fusion dynamic mode decomposition for accurate and robust forecasting of dynamical systems with imperfect data and physics**|Yuhui Yina et.al.|[2311.15604v1](http://arxiv.org/abs/2311.15604v1)|null|
+|**2023-11-27**|**SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation**|Bin Xie et.al.|[2311.15537v1](http://arxiv.org/abs/2311.15537v1)|**[link](https://github.com/xb534/sed)**|
 |**2023-11-24**|**Cooperative Multi-Monostatic Sensing for Object Localization in 6G Networks**|Maximiliano Rivera Figueroa et.al.|[2311.14591v1](http://arxiv.org/abs/2311.14591v1)|null|
 |**2023-11-24**|**In situ Imaging of Precipitate Formation in Additively Manufactured Al-Alloys by Scanning X-ray Fluorescence**|Isac Lazar et.al.|[2311.14529v1](http://arxiv.org/abs/2311.14529v1)|null|
 |**2023-11-24**|**Lightweight Framework for Automated Kidney Stone Detection using coronal CT images**|Fangyijie Wang et.al.|[2311.14488v1](http://arxiv.org/abs/2311.14488v1)|null|
