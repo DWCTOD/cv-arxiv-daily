@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103v1](http://arxiv.org/abs/2311.16103v1)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-28**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103v2](http://arxiv.org/abs/2311.16103v2)|**[link](https://github.com/pku-yuangroup/video-bench)**|
 |**2023-11-27**|**GART: Gaussian Articulated Template Models**|Jiahui Lei et.al.|[2311.16099v1](http://arxiv.org/abs/2311.16099v1)|null|
 |**2023-11-27**|**On Bringing Robots Home**|Nur Muhammad Mahi Shafiullah et.al.|[2311.16098v1](http://arxiv.org/abs/2311.16098v1)|**[link](https://github.com/notmahi/dobb-e)**|
 |**2023-11-27**|**CG-HOI: Contact-Guided 3D Human-Object Interaction Generation**|Christian Diller et.al.|[2311.16097v1](http://arxiv.org/abs/2311.16097v1)|null|
@@ -3717,7 +3717,7 @@
 |**2023-11-27**|**Classification of connected étale algebras in pre-modular fusion categories up to rank three**|Ken Kikuchi et.al.|[2311.15631v1](http://arxiv.org/abs/2311.15631v1)|null|
 |**2023-11-27**|**Operator-state correspondence in simple current extended conformal field theories: Toward a general understanding of chiral conformal field theories and topological orders**|Yoshiki Fukusumi et.al.|[2311.15621v1](http://arxiv.org/abs/2311.15621v1)|null|
 |**2023-11-27**|**Technical Report for Argoverse Challenges on Unified Sensor-based Detection, Tracking, and Forecasting**|Zhepeng Wang et.al.|[2311.15615v1](http://arxiv.org/abs/2311.15615v1)|null|
-|**2023-11-27**|**PF-DMD: Physics-fusion dynamic mode decomposition for accurate and robust forecasting of dynamical systems with imperfect data and physics**|Yuhui Yina et.al.|[2311.15604v1](http://arxiv.org/abs/2311.15604v1)|null|
+|**2023-11-28**|**PF-DMD: Physics-fusion dynamic mode decomposition for accurate and robust forecasting of dynamical systems with imperfect data and physics**|Yuhui Yin et.al.|[2311.15604v2](http://arxiv.org/abs/2311.15604v2)|null|
 |**2023-11-27**|**SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation**|Bin Xie et.al.|[2311.15537v1](http://arxiv.org/abs/2311.15537v1)|**[link](https://github.com/xb534/sed)**|
 |**2023-11-24**|**Cooperative Multi-Monostatic Sensing for Object Localization in 6G Networks**|Maximiliano Rivera Figueroa et.al.|[2311.14591v1](http://arxiv.org/abs/2311.14591v1)|null|
 |**2023-11-24**|**In situ Imaging of Precipitate Formation in Additively Manufactured Al-Alloys by Scanning X-ray Fluorescence**|Isac Lazar et.al.|[2311.14529v1](http://arxiv.org/abs/2311.14529v1)|null|
