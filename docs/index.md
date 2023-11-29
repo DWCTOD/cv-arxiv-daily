@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|**[link](https://github.com/lilydaytoy/pvsgannotation)**|
+|**2023-11-28**|**Self-Supervised Motion Magnification by Backpropagating Through Optical Flow**|Zhaoying Pan et.al.|[2311.17056v1](http://arxiv.org/abs/2311.17056v1)|null|
+|**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
+|**2023-11-28**|**Jets of foliations and $b^k$-algebroids**|Francis Bischoff et.al.|[2311.17045v1](http://arxiv.org/abs/2311.17045v1)|null|
+|**2023-11-28**|**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**|Yanwei Li et.al.|[2311.17043v1](http://arxiv.org/abs/2311.17043v1)|**[link](https://github.com/dvlab-research/llama-vid)**|
+|**2023-11-28**|**Efficient In-Context Learning in Vision-Language Models for Egocentric Videos**|Keunwoo Peter Yu et.al.|[2311.17041v1](http://arxiv.org/abs/2311.17041v1)|null|
+|**2023-11-28**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009v1](http://arxiv.org/abs/2311.17009v1)|null|
+|**2023-11-28**|**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**|Kunchang Li et.al.|[2311.17005v1](http://arxiv.org/abs/2311.17005v1)|**[link](https://github.com/opengvlab/ask-anything)**|
+|**2023-11-28**|**Mirković-Vilonen Polytopes from Combinatorics**|Mario Sanchez et.al.|[2311.16979v1](http://arxiv.org/abs/2311.16979v1)|null|
+|**2023-11-28**|**Natural Language Processing Through Transfer Learning: A Case Study on Sentiment Analysis**|Aman Yadav et.al.|[2311.16965v1](http://arxiv.org/abs/2311.16965v1)|null|
 |**2023-11-28**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103v2](http://arxiv.org/abs/2311.16103v2)|**[link](https://github.com/pku-yuangroup/video-bench)**|
 |**2023-11-27**|**GART: Gaussian Articulated Template Models**|Jiahui Lei et.al.|[2311.16099v1](http://arxiv.org/abs/2311.16099v1)|null|
 |**2023-11-27**|**On Bringing Robots Home**|Nur Muhammad Mahi Shafiullah et.al.|[2311.16098v1](http://arxiv.org/abs/2311.16098v1)|**[link](https://github.com/notmahi/dobb-e)**|
@@ -3713,6 +3723,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Gauging Non-Invertible Symmetries: Topological Interfaces and Generalized Orbifold Groupoid in 2d QFT**|Oleksandr Diatlyk et.al.|[2311.17044v1](http://arxiv.org/abs/2311.17044v1)|null|
+|**2023-11-28**|**Electroweak corrections to double Higgs production at the LHC**|Huan-Yu Bi et.al.|[2311.16963v1](http://arxiv.org/abs/2311.16963v1)|null|
+|**2023-11-28**|**The Hoyle and associated excited states from the viewpoint of pocket resonances in alpha + 8Be reactions**|Teck-Ghee Lee et.al.|[2311.16837v1](http://arxiv.org/abs/2311.16837v1)|null|
+|**2023-11-28**|**SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization**|Xiaojing Zhong et.al.|[2311.16828v1](http://arxiv.org/abs/2311.16828v1)|null|
+|**2023-11-28**|**On the Dualizability of Fusion 2-Categories, and the Relative 2-Deligne Tensor Product**|Thibault D. Décoppet et.al.|[2311.16827v1](http://arxiv.org/abs/2311.16827v1)|null|
+|**2023-11-28**|**A Survey of the Evolution of Language Model-Based Dialogue Systems**|Hongru Wang et.al.|[2311.16789v1](http://arxiv.org/abs/2311.16789v1)|null|
+|**2023-11-28**|**Detecting the coupling of axion-like particles with fermions at the ILC**|Chong-Xing Yue et.al.|[2311.16768v1](http://arxiv.org/abs/2311.16768v1)|null|
+|**2023-11-28**|**MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation**|Yunshan Ma et.al.|[2311.16751v1](http://arxiv.org/abs/2311.16751v1)|**[link](https://github.com/happypointer/multicbr)**|
+|**2023-11-28**|**Collisional radiative modelling with improved cross sections to investigate plasma molecular interactions in divertor plasmas**|Stijn Kobussen et.al.|[2311.16732v1](http://arxiv.org/abs/2311.16732v1)|null|
+|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668v1](http://arxiv.org/abs/2311.16668v1)|null|
 |**2023-11-27**|**Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion**|Yuanxun Lu et.al.|[2311.15980v1](http://arxiv.org/abs/2311.15980v1)|null|
 |**2023-11-27**|**Computer Vision for Carriers: PATRIOT**|Ari Goodman et.al.|[2311.15914v1](http://arxiv.org/abs/2311.15914v1)|null|
 |**2023-11-27**|**MARIS: Referring Image Segmentation via Mutual-Aware Attention Features**|Mengxi Zhang et.al.|[2311.15727v1](http://arxiv.org/abs/2311.15727v1)|null|
