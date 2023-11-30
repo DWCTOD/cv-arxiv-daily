@@ -1,10 +1,10 @@
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|**[link](https://github.com/lilydaytoy/pvsgannotation)**|
+|**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|**[link](https://github.com/jingkang50/openpvsg)**|
 |**2023-11-28**|**Self-Supervised Motion Magnification by Backpropagating Through Optical Flow**|Zhaoying Pan et.al.|[2311.17056v1](http://arxiv.org/abs/2311.17056v1)|null|
 |**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
 |**2023-11-28**|**Jets of foliations and $b^k$-algebroids**|Francis Bischoff et.al.|[2311.17045v1](http://arxiv.org/abs/2311.17045v1)|null|
