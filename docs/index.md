@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**|Yuqi Wang et.al.|[2311.17918v1](http://arxiv.org/abs/2311.17918v1)|**[link](https://github.com/bravegroup/drive-wm)**|
+|**2023-11-29**|**HUGS: Human Gaussian Splats**|Muhammed Kocabas et.al.|[2311.17910v1](http://arxiv.org/abs/2311.17910v1)|null|
+|**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901v1](http://arxiv.org/abs/2311.17901v1)|null|
+|**2023-11-29**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898v1](http://arxiv.org/abs/2311.17898v1)|null|
+|**2023-11-29**|**On the geometry of tensor products over finite fields**|Stefano Lia et.al.|[2311.17896v1](http://arxiv.org/abs/2311.17896v1)|null|
+|**2023-11-29**|**Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation**|Shuangrui Ding et.al.|[2311.17893v1](http://arxiv.org/abs/2311.17893v1)|null|
+|**2023-11-29**|**TSDF-Sampling: Efficient Sampling for Neural Surface Field using Truncated Signed Distance Field**|Chaerin Min et.al.|[2311.17878v1](http://arxiv.org/abs/2311.17878v1)|null|
+|**2023-11-29**|**Enhancing Post-Hoc Explanation Benchmark Reliability for Image Classification**|Tristan Gomez et.al.|[2311.17876v1](http://arxiv.org/abs/2311.17876v1)|null|
+|**2023-11-29**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853v1](http://arxiv.org/abs/2311.17853v1)|null|
 |**2023-11-28**|**Panoptic Video Scene Graph Generation**|Jingkang Yang et.al.|[2311.17058v1](http://arxiv.org/abs/2311.17058v1)|**[link](https://github.com/jingkang50/openpvsg)**|
 |**2023-11-28**|**Self-Supervised Motion Magnification by Backpropagating Through Optical Flow**|Zhaoying Pan et.al.|[2311.17056v1](http://arxiv.org/abs/2311.17056v1)|null|
 |**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
@@ -3723,6 +3733,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Towards Real-World Focus Stacking with Deep Learning**|Alexandre Araujo et.al.|[2311.17846v1](http://arxiv.org/abs/2311.17846v1)|**[link](https://github.com/araujoalexandre/focusstackingdataset)**|
+|**2023-11-29**|**FAT-HuBERT: Front-end Adaptive Training of Hidden-unit BERT for Distortion-Invariant Robust Speech Recognition**|Dongning Yang et.al.|[2311.17790v1](http://arxiv.org/abs/2311.17790v1)|null|
+|**2023-11-29**|**Fusion of Single and Integral Multispectral Aerial Images**|Mohamed Youssef et.al.|[2311.17515v1](http://arxiv.org/abs/2311.17515v1)|null|
+|**2023-11-29**|**SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation**|Qi Liu et.al.|[2311.17428v1](http://arxiv.org/abs/2311.17428v1)|**[link](https://github.com/liuqi-creat/sigformer)**|
+|**2023-11-29**|**VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model**|Haoyu Zhao et.al.|[2311.17338v1](http://arxiv.org/abs/2311.17338v1)|null|
+|**2023-11-29**|**eMotions: A Large-Scale Dataset for Emotion Recognition in Short Videos**|Xuecheng Wu et.al.|[2311.17335v1](http://arxiv.org/abs/2311.17335v1)|**[link](https://github.com/xuecwu/emotions)**|
+|**2023-11-28**|**Braided Zestings of Verlinde Modular Categories and Their Modular Data**|César Galindo et.al.|[2311.17255v1](http://arxiv.org/abs/2311.17255v1)|null|
+|**2023-11-28**|**PHG-Net: Persistent Homology Guided Medical Image Classification**|Yaopeng Peng et.al.|[2311.17243v1](http://arxiv.org/abs/2311.17243v1)|**[link](https://github.com/yaoppeng/topoclassification)**|
+|**2023-11-28**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Konstantin Klemmer et.al.|[2311.17179v1](http://arxiv.org/abs/2311.17179v1)|null|
 |**2023-11-28**|**Gauging Non-Invertible Symmetries: Topological Interfaces and Generalized Orbifold Groupoid in 2d QFT**|Oleksandr Diatlyk et.al.|[2311.17044v1](http://arxiv.org/abs/2311.17044v1)|null|
 |**2023-11-28**|**Electroweak corrections to double Higgs production at the LHC**|Huan-Yu Bi et.al.|[2311.16963v1](http://arxiv.org/abs/2311.16963v1)|null|
 |**2023-11-28**|**The Hoyle and associated excited states from the viewpoint of pocket resonances in alpha + 8Be reactions**|Teck-Ghee Lee et.al.|[2311.16837v1](http://arxiv.org/abs/2311.16837v1)|null|
