@@ -7,7 +7,7 @@
 - 2023-11-28, **MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**, Pavan Kumar Anasosalu Vasu et.al., Paper: [http://arxiv.org/abs/2311.17049v1](http://arxiv.org/abs/2311.17049v1)
 - 2023-11-28, **Jets of foliations and $b^k$-algebroids**, Francis Bischoff et.al., Paper: [http://arxiv.org/abs/2311.17045v1](http://arxiv.org/abs/2311.17045v1)
 - 2023-11-28, **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**, Yanwei Li et.al., Paper: [http://arxiv.org/abs/2311.17043v1](http://arxiv.org/abs/2311.17043v1), Code: **[https://github.com/dvlab-research/llama-vid](https://github.com/dvlab-research/llama-vid)**
-- 2023-11-28, **Efficient In-Context Learning in Vision-Language Models for Egocentric Videos**, Keunwoo Peter Yu et.al., Paper: [http://arxiv.org/abs/2311.17041v1](http://arxiv.org/abs/2311.17041v1)
+- 2023-11-29, **Efficient In-Context Learning in Vision-Language Models for Egocentric Videos**, Keunwoo Peter Yu et.al., Paper: [http://arxiv.org/abs/2311.17041v2](http://arxiv.org/abs/2311.17041v2)
 - 2023-11-28, **Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**, Danah Yatim et.al., Paper: [http://arxiv.org/abs/2311.17009v1](http://arxiv.org/abs/2311.17009v1)
 - 2023-11-28, **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**, Kunchang Li et.al., Paper: [http://arxiv.org/abs/2311.17005v1](http://arxiv.org/abs/2311.17005v1), Code: **[https://github.com/opengvlab/ask-anything](https://github.com/opengvlab/ask-anything)**
 - 2023-11-28, **Mirković-Vilonen Polytopes from Combinatorics**, Mario Sanchez et.al., Paper: [http://arxiv.org/abs/2311.16979v1](http://arxiv.org/abs/2311.16979v1)
@@ -3724,7 +3724,7 @@
 - 2023-11-28, **Detecting the coupling of axion-like particles with fermions at the ILC**, Chong-Xing Yue et.al., Paper: [http://arxiv.org/abs/2311.16768v1](http://arxiv.org/abs/2311.16768v1)
 - 2023-11-28, **MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation**, Yunshan Ma et.al., Paper: [http://arxiv.org/abs/2311.16751v1](http://arxiv.org/abs/2311.16751v1), Code: **[https://github.com/happypointer/multicbr](https://github.com/happypointer/multicbr)**
 - 2023-11-28, **Collisional radiative modelling with improved cross sections to investigate plasma molecular interactions in divertor plasmas**, Stijn Kobussen et.al., Paper: [http://arxiv.org/abs/2311.16732v1](http://arxiv.org/abs/2311.16732v1)
-- 2023-11-28, **LiveNVS: Neural View Synthesis on Live RGB-D Streams**, Laura Fink et.al., Paper: [http://arxiv.org/abs/2311.16668v1](http://arxiv.org/abs/2311.16668v1)
+- 2023-11-29, **LiveNVS: Neural View Synthesis on Live RGB-D Streams**, Laura Fink et.al., Paper: [http://arxiv.org/abs/2311.16668v2](http://arxiv.org/abs/2311.16668v2)
 - 2023-11-27, **Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion**, Yuanxun Lu et.al., Paper: [http://arxiv.org/abs/2311.15980v1](http://arxiv.org/abs/2311.15980v1)
 - 2023-11-27, **Computer Vision for Carriers: PATRIOT**, Ari Goodman et.al., Paper: [http://arxiv.org/abs/2311.15914v1](http://arxiv.org/abs/2311.15914v1)
 - 2023-11-27, **MARIS: Referring Image Segmentation via Mutual-Aware Attention Features**, Mengxi Zhang et.al., Paper: [http://arxiv.org/abs/2311.15727v1](http://arxiv.org/abs/2311.15727v1)
