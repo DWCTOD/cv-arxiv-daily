@@ -2,11 +2,11 @@
 
 ## Video_Classification
 
-- 2023-11-29, **Do text-free diffusion models learn discriminative visual representations?**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2311.17921v1](http://arxiv.org/abs/2311.17921v1)
+- 2023-11-30, **Do text-free diffusion models learn discriminative visual representations?**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2311.17921v2](http://arxiv.org/abs/2311.17921v2)
 - 2023-11-29, **Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2311.17918v1](http://arxiv.org/abs/2311.17918v1), Code: **[https://github.com/bravegroup/drive-wm](https://github.com/bravegroup/drive-wm)**
 - 2023-11-29, **HUGS: Human Gaussian Splats**, Muhammed Kocabas et.al., Paper: [http://arxiv.org/abs/2311.17910v1](http://arxiv.org/abs/2311.17910v1)
 - 2023-11-29, **SODA: Bottleneck Diffusion Models for Representation Learning**, Drew A. Hudson et.al., Paper: [http://arxiv.org/abs/2311.17901v1](http://arxiv.org/abs/2311.17901v1)
-- 2023-11-29, **Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**, Jinqi Luo et.al., Paper: [http://arxiv.org/abs/2311.17898v1](http://arxiv.org/abs/2311.17898v1)
+- 2023-11-30, **Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**, Jinqi Luo et.al., Paper: [http://arxiv.org/abs/2311.17898v2](http://arxiv.org/abs/2311.17898v2)
 - 2023-11-29, **On the geometry of tensor products over finite fields**, Stefano Lia et.al., Paper: [http://arxiv.org/abs/2311.17896v1](http://arxiv.org/abs/2311.17896v1)
 - 2023-11-29, **Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation**, Shuangrui Ding et.al., Paper: [http://arxiv.org/abs/2311.17893v1](http://arxiv.org/abs/2311.17893v1)
 - 2023-11-29, **TSDF-Sampling: Efficient Sampling for Neural Surface Field using Truncated Signed Distance Field**, Chaerin Min et.al., Paper: [http://arxiv.org/abs/2311.17878v1](http://arxiv.org/abs/2311.17878v1)
@@ -3725,7 +3725,7 @@
 
 ## MultiModal
 
-- 2023-11-29, **Do text-free diffusion models learn discriminative visual representations?**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2311.17921v1](http://arxiv.org/abs/2311.17921v1)
+- 2023-11-30, **Do text-free diffusion models learn discriminative visual representations?**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2311.17921v2](http://arxiv.org/abs/2311.17921v2)
 - 2023-11-29, **Towards Real-World Focus Stacking with Deep Learning**, Alexandre Araujo et.al., Paper: [http://arxiv.org/abs/2311.17846v1](http://arxiv.org/abs/2311.17846v1), Code: **[https://github.com/araujoalexandre/focusstackingdataset](https://github.com/araujoalexandre/focusstackingdataset)**
 - 2023-11-29, **FAT-HuBERT: Front-end Adaptive Training of Hidden-unit BERT for Distortion-Invariant Robust Speech Recognition**, Dongning Yang et.al., Paper: [http://arxiv.org/abs/2311.17790v1](http://arxiv.org/abs/2311.17790v1)
 - 2023-11-29, **Fusion of Single and Integral Multispectral Aerial Images**, Mohamed Youssef et.al., Paper: [http://arxiv.org/abs/2311.17515v1](http://arxiv.org/abs/2311.17515v1)
