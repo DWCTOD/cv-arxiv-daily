@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-11-30, **Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**, Dominick Reilly et.al., Paper: [http://arxiv.org/abs/2311.18840v1](http://arxiv.org/abs/2311.18840v1)
+- 2023-11-30, **TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**, Lihao Liu et.al., Paper: [http://arxiv.org/abs/2311.18839v1](http://arxiv.org/abs/2311.18839v1)
+- 2023-11-30, **VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**, Zhen Xing et.al., Paper: [http://arxiv.org/abs/2311.18837v1](http://arxiv.org/abs/2311.18837v1)
+- 2023-11-30, **ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**, Wenming Weng et.al., Paper: [http://arxiv.org/abs/2311.18834v1](http://arxiv.org/abs/2311.18834v1)
+- 2023-11-30, **MotionEditor: Editing Video Motion via Content-Aware Diffusion**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2311.18830v1](http://arxiv.org/abs/2311.18830v1), Code: **[https://github.com/Francis-Rings/MotionEditor](https://github.com/Francis-Rings/MotionEditor)**
+- 2023-11-30, **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**, Yanhui Wang et.al., Paper: [http://arxiv.org/abs/2311.18829v1](http://arxiv.org/abs/2311.18829v1)
+- 2023-11-30, **Motion-Conditioned Image Animation for Video Editing**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2311.18827v1](http://arxiv.org/abs/2311.18827v1)
+- 2023-11-30, **CAST: Cross-Attention in Space and Time for Video Action Recognition**, Dongho Lee et.al., Paper: [http://arxiv.org/abs/2311.18825v1](http://arxiv.org/abs/2311.18825v1), Code: **[https://github.com/khu-vll/cast](https://github.com/khu-vll/cast)**
+- 2023-11-30, **Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking**, Kaifeng Lyu et.al., Paper: [http://arxiv.org/abs/2311.18817v1](http://arxiv.org/abs/2311.18817v1), Code: **[https://github.com/vfleaking/grokking-dichotomy](https://github.com/vfleaking/grokking-dichotomy)**
+- 2023-11-30, **BIOCLIP: A Vision Foundation Model for the Tree of Life**, Samuel Stevens et.al., Paper: [http://arxiv.org/abs/2311.18803v1](http://arxiv.org/abs/2311.18803v1)
 - 2023-11-30, **Do text-free diffusion models learn discriminative visual representations?**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2311.17921v2](http://arxiv.org/abs/2311.17921v2)
 - 2023-11-29, **Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2311.17918v1](http://arxiv.org/abs/2311.17918v1), Code: **[https://github.com/bravegroup/drive-wm](https://github.com/bravegroup/drive-wm)**
 - 2023-11-29, **HUGS: Human Gaussian Splats**, Muhammed Kocabas et.al., Paper: [http://arxiv.org/abs/2311.17910v1](http://arxiv.org/abs/2311.17910v1)
@@ -3725,6 +3735,16 @@
 
 ## MultiModal
 
+- 2023-11-30, **Simple Semantic-Aided Few-Shot Learning**, Hai Zhang et.al., Paper: [http://arxiv.org/abs/2311.18649v1](http://arxiv.org/abs/2311.18649v1)
+- 2023-11-30, **JPPF: Multi-task Fusion for Consistent Panoptic-Part Segmentation**, Shishir Muralidhara et.al., Paper: [http://arxiv.org/abs/2311.18618v1](http://arxiv.org/abs/2311.18618v1)
+- 2023-11-30, **Semantic-Aware Frame-Event Fusion based Pattern Recognition via Large Vision-Language Models**, Dong Li et.al., Paper: [http://arxiv.org/abs/2311.18592v1](http://arxiv.org/abs/2311.18592v1), Code: **[https://github.com/event-ahu/safe_largevlm](https://github.com/event-ahu/safe_largevlm)**
+- 2023-11-30, **A knowledge-driven framework for synthesizing designs from modular components**, Constantin Chaumet et.al., Paper: [http://arxiv.org/abs/2311.18533v1](http://arxiv.org/abs/2311.18533v1)
+- 2023-11-30, **CLS-CAD: Synthesizing CAD Assemblies in Fusion 360**, Constantin Chaumet et.al., Paper: [http://arxiv.org/abs/2311.18492v1](http://arxiv.org/abs/2311.18492v1)
+- 2023-11-30, **TeG-DG: Textually Guided Domain Generalization for Face Anti-Spoofing**, Lianrui Mu et.al., Paper: [http://arxiv.org/abs/2311.18420v1](http://arxiv.org/abs/2311.18420v1)
+- 2023-11-30, **Search for light long-lived neutral particles from Higgs boson decays via vector-boson-fusion production from $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2311.18298v1](http://arxiv.org/abs/2311.18298v1)
+- 2023-11-30, **SimulFlow: Simultaneously Extracting Feature and Identifying Target for Unsupervised Video Object Segmentation**, Lingyi Hong et.al., Paper: [http://arxiv.org/abs/2311.18286v1](http://arxiv.org/abs/2311.18286v1)
+- 2023-11-30, **HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**, Zhuohao Yin et.al., Paper: [http://arxiv.org/abs/2311.18273v1](http://arxiv.org/abs/2311.18273v1), Code: **[https://github.com/thomas-yin/semeval-2023-task1](https://github.com/thomas-yin/semeval-2023-task1)**
+- 2023-11-30, **Automatic Detection of Alzheimer's Disease with Multi-Modal Fusion of Clinical MRI Scans**, Long Chen et.al., Paper: [http://arxiv.org/abs/2311.18245v1](http://arxiv.org/abs/2311.18245v1)
 - 2023-11-30, **Do text-free diffusion models learn discriminative visual representations?**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2311.17921v2](http://arxiv.org/abs/2311.17921v2)
 - 2023-11-29, **Towards Real-World Focus Stacking with Deep Learning**, Alexandre Araujo et.al., Paper: [http://arxiv.org/abs/2311.17846v1](http://arxiv.org/abs/2311.17846v1), Code: **[https://github.com/araujoalexandre/focusstackingdataset](https://github.com/araujoalexandre/focusstackingdataset)**
 - 2023-11-29, **FAT-HuBERT: Front-end Adaptive Training of Hidden-unit BERT for Distortion-Invariant Robust Speech Recognition**, Dongning Yang et.al., Paper: [http://arxiv.org/abs/2311.17790v1](http://arxiv.org/abs/2311.17790v1)
