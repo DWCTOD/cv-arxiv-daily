@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Dense Optical Tracking: Connecting the Dots**|Guillaume Le Moing et.al.|[2312.00786v1](http://arxiv.org/abs/2312.00786v1)|null|
+|**2023-12-01**|**Sequential Modeling Enables Scalable Learning for Large Vision Models**|Yutong Bai et.al.|[2312.00785v1](http://arxiv.org/abs/2312.00785v1)|null|
+|**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778v1](http://arxiv.org/abs/2312.00778v1)|null|
+|**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777v1](http://arxiv.org/abs/2312.00777v1)|null|
+|**2023-12-01**|**Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans**|Homanga Bharadhwaj et.al.|[2312.00775v1](http://arxiv.org/abs/2312.00775v1)|null|
+|**2023-12-01**|**Explaining Knock-on Effects of Bias Mitigation**|Svetoslav Nizhnichenkov et.al.|[2312.00765v1](http://arxiv.org/abs/2312.00765v1)|null|
+|**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761v1](http://arxiv.org/abs/2312.00761v1)|null|
+|**2023-12-01**|**Mitigating Over-smoothing in Transformers via Regularized Nonlocal Functionals**|Tam Nguyen et.al.|[2312.00751v1](http://arxiv.org/abs/2312.00751v1)|null|
+|**2023-12-01**|**Tight-minimal dichotomies in Banach spaces**|Alejandra C. Cáceres-Rigo et.al.|[2312.00721v1](http://arxiv.org/abs/2312.00721v1)|null|
+|**2023-12-01**|**GIFT: Generative Interpretable Fine-Tuning Transformers**|Chinmay Savadikar et.al.|[2312.00700v1](http://arxiv.org/abs/2312.00700v1)|**[link](https://github.com/savadikarc/gift)**|
 |**2023-11-30**|**Just Add $π$! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
 |**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
@@ -3743,6 +3753,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**PointBeV: A Sparse Approach to BeV Predictions**|Loick Chambon et.al.|[2312.00703v1](http://arxiv.org/abs/2312.00703v1)|**[link](https://github.com/valeoai/pointbev)**|
+|**2023-12-01**|**LightCLIP: Learning Multi-Level Interaction for Lightweight Vision-Language Models**|Ying Nie et.al.|[2312.00674v1](http://arxiv.org/abs/2312.00674v1)|null|
+|**2023-12-01**|**Dual-Domain Multi-Contrast MRI Reconstruction with Synthesis-based Fusion Network**|Junwei Yang et.al.|[2312.00661v1](http://arxiv.org/abs/2312.00661v1)|null|
+|**2023-12-01**|**EEG-Based Reaction Time Prediction with Fuzzy Common Spatial Patterns and Phase Cohesion using Deep Autoencoder Based Data Fusion**|Vivek Singh et.al.|[2312.00479v1](http://arxiv.org/abs/2312.00479v1)|null|
+|**2023-12-01**|**Towards Generalizable Referring Image Segmentation via Target Prompt and Visual Coherence**|Yajie Liu et.al.|[2312.00452v1](http://arxiv.org/abs/2312.00452v1)|null|
+|**2023-12-01**|**Investigation on data fusion of sun-induced chlorophyll fluorescence and reflectance for photosynthetic capacity of rice**|Yu-an Zhou et.al.|[2312.00437v1](http://arxiv.org/abs/2312.00437v1)|null|
+|**2023-12-01**|**Measurement and interpretation of same-sign $W$ boson pair production in association with two jets in $pp$ collisions at $\sqrt{s} = 13$ TeV with the ATLAS detector**|The ATLAS Collaboration et.al.|[2312.00420v1](http://arxiv.org/abs/2312.00420v1)|null|
+|**2023-12-01**|**Partition-based K-space Synthesis for Multi-contrast Parallel Imaging**|Yuxia Huang et.al.|[2312.00387v1](http://arxiv.org/abs/2312.00387v1)|null|
+|**2023-12-01**|**Unleashing Cheapfakes through Trojan Plugins of Large Language Models**|Tian Dong et.al.|[2312.00374v1](http://arxiv.org/abs/2312.00374v1)|null|
+|**2023-12-01**|**Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning**|Shaohua Dong et.al.|[2312.00360v1](http://arxiv.org/abs/2312.00360v1)|**[link](https://github.com/shaohuadong2021/dplnet)**|
 |**2023-11-30**|**Simple Semantic-Aided Few-Shot Learning**|Hai Zhang et.al.|[2311.18649v1](http://arxiv.org/abs/2311.18649v1)|null|
 |**2023-11-30**|**JPPF: Multi-task Fusion for Consistent Panoptic-Part Segmentation**|Shishir Muralidhara et.al.|[2311.18618v1](http://arxiv.org/abs/2311.18618v1)|null|
 |**2023-11-30**|**Semantic-Aware Frame-Event Fusion based Pattern Recognition via Large Vision-Language Models**|Dong Li et.al.|[2311.18592v1](http://arxiv.org/abs/2311.18592v1)|**[link](https://github.com/event-ahu/safe_largevlm)**|
