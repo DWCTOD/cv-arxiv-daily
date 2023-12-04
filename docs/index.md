@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 
 ## Video_Classification
 
@@ -3747,7 +3747,7 @@ layout: default
 |**2023-11-30**|**JPPF: Multi-task Fusion for Consistent Panoptic-Part Segmentation**|Shishir Muralidhara et.al.|[2311.18618v1](http://arxiv.org/abs/2311.18618v1)|null|
 |**2023-11-30**|**Semantic-Aware Frame-Event Fusion based Pattern Recognition via Large Vision-Language Models**|Dong Li et.al.|[2311.18592v1](http://arxiv.org/abs/2311.18592v1)|**[link](https://github.com/event-ahu/safe_largevlm)**|
 |**2023-11-30**|**A knowledge-driven framework for synthesizing designs from modular components**|Constantin Chaumet et.al.|[2311.18533v1](http://arxiv.org/abs/2311.18533v1)|null|
-|**2023-11-30**|**CLS-CAD: Synthesizing CAD Assemblies in Fusion 360**|Constantin Chaumet et.al.|[2311.18492v1](http://arxiv.org/abs/2311.18492v1)|null|
+|**2023-11-30**|**CLS-CAD: Synthesizing CAD Assemblies in Fusion 360**|Constantin Chaumet et.al.|[2311.18492v1](http://arxiv.org/abs/2311.18492v1)|**[link](https://github.com/tudo-seal/cls-cad)**|
 |**2023-11-30**|**TeG-DG: Textually Guided Domain Generalization for Face Anti-Spoofing**|Lianrui Mu et.al.|[2311.18420v1](http://arxiv.org/abs/2311.18420v1)|null|
 |**2023-11-30**|**Search for light long-lived neutral particles from Higgs boson decays via vector-boson-fusion production from $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2311.18298v1](http://arxiv.org/abs/2311.18298v1)|null|
 |**2023-11-30**|**SimulFlow: Simultaneously Extracting Feature and Identifying Target for Unsupervised Video Object Segmentation**|Lingyi Hong et.al.|[2311.18286v1](http://arxiv.org/abs/2311.18286v1)|null|
