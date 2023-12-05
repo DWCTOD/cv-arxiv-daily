@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
+|**2023-12-04**|**Fast View Synthesis of Casual Videos**|Yao-Chih Lee et.al.|[2312.02135v1](http://arxiv.org/abs/2312.02135v1)|null|
+|**2023-12-04**|**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**|Liangxiao Hu et.al.|[2312.02134v1](http://arxiv.org/abs/2312.02134v1)|null|
+|**2023-12-04**|**Hot PATE: Private Aggregation of Distributions for Diverse Task**|Edith Cohen et.al.|[2312.02132v1](http://arxiv.org/abs/2312.02132v1)|null|
+|**2023-12-04**|**Can we truly transfer an actor's genuine happiness to avatars? An investigation into virtual, real, posed and spontaneous faces**|Vitor Miguel Xavier Peres et.al.|[2312.02128v1](http://arxiv.org/abs/2312.02128v1)|null|
+|**2023-12-04**|**Cosmic star-formation history and black hole accretion history inferred from the JWST mid-infrared source counts**|Seong Jin Kim et.al.|[2312.02090v1](http://arxiv.org/abs/2312.02090v1)|null|
+|**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087v1](http://arxiv.org/abs/2312.02087v1)|null|
+|**2023-12-04**|**Integrating AI into CCTV Systems: A Comprehensive Evaluation of Smart Video Surveillance in Community Space**|Shanle Yao et.al.|[2312.02078v1](http://arxiv.org/abs/2312.02078v1)|null|
+|**2023-12-04**|**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**|Shenhan Qian et.al.|[2312.02069v1](http://arxiv.org/abs/2312.02069v1)|null|
+|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|null|
 |**2023-12-01**|**Dense Optical Tracking: Connecting the Dots**|Guillaume Le Moing et.al.|[2312.00786v1](http://arxiv.org/abs/2312.00786v1)|null|
 |**2023-12-01**|**Sequential Modeling Enables Scalable Learning for Large Vision Models**|Yutong Bai et.al.|[2312.00785v1](http://arxiv.org/abs/2312.00785v1)|null|
 |**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778v1](http://arxiv.org/abs/2312.00778v1)|null|
@@ -3753,6 +3763,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153v1](http://arxiv.org/abs/2312.02153v1)|**[link](https://github.com/shenyunhang/ape)**|
+|**2023-12-04**|**From High to Low: Simulating Nondeterminism and State with State**|Wenhao Tang et.al.|[2312.02054v1](http://arxiv.org/abs/2312.02054v1)|null|
+|**2023-12-04**|**A multi-channel cycleGAN for CBCT to CT synthesis**|Chelsea A. H. Sargeant et.al.|[2312.02017v1](http://arxiv.org/abs/2312.02017v1)|null|
+|**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015v1](http://arxiv.org/abs/2312.02015v1)|null|
+|**2023-12-04**|**Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data**|Jonathan Koh et.al.|[2312.01870v1](http://arxiv.org/abs/2312.01870v1)|null|
+|**2023-12-04**|**Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing**|Ying Yuan et.al.|[2312.01853v1](http://arxiv.org/abs/2312.01853v1)|null|
+|**2023-12-04**|**Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization**|Konstantinos Triaridis et.al.|[2312.01790v1](http://arxiv.org/abs/2312.01790v1)|**[link](https://github.com/idt-iti/mmfusion-iml)**|
+|**2023-12-04**|**Estimating Coronal Mass Ejection Mass and Kinetic Energy by Fusion of Multiple Deep-learning Models**|Khalid A. Alobaid et.al.|[2312.01691v1](http://arxiv.org/abs/2312.01691v1)|null|
+|**2023-12-04**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677v1](http://arxiv.org/abs/2312.01677v1)|null|
+|**2023-12-04**|**Quantum Algorithm for Radiative Transfer Equation**|Asuka Igarashi et.al.|[2312.01664v1](http://arxiv.org/abs/2312.01664v1)|null|
 |**2023-12-01**|**PointBeV: A Sparse Approach to BeV Predictions**|Loick Chambon et.al.|[2312.00703v1](http://arxiv.org/abs/2312.00703v1)|**[link](https://github.com/valeoai/pointbev)**|
 |**2023-12-01**|**LightCLIP: Learning Multi-Level Interaction for Lightweight Vision-Language Models**|Ying Nie et.al.|[2312.00674v1](http://arxiv.org/abs/2312.00674v1)|null|
 |**2023-12-01**|**Dual-Domain Multi-Contrast MRI Reconstruction with Synthesis-based Fusion Network**|Junwei Yang et.al.|[2312.00661v1](http://arxiv.org/abs/2312.00661v1)|null|
