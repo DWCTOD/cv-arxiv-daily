@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Dexterous Functional Grasping**|Ananye Agarwal et.al.|[2312.02975v1](http://arxiv.org/abs/2312.02975v1)|null|
+|**2023-12-05**|**Describing Differences in Image Sets with Natural Language**|Lisa Dunlap et.al.|[2312.02974v1](http://arxiv.org/abs/2312.02974v1)|**[link](https://github.com/understanding-visual-datasets/visdiff)**|
+|**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973v1](http://arxiv.org/abs/2312.02973v1)|**[link](https://github.com/skhu101/gauhuman)**|
+|**2023-12-05**|**Detecting algorithmic bias in medical AI-models**|Jeffrey Smith et.al.|[2312.02959v1](http://arxiv.org/abs/2312.02959v1)|null|
+|**2023-12-05**|**Classification for everyone : Building geography agnostic models for fairer recognition**|Akshat Jindal et.al.|[2312.02957v1](http://arxiv.org/abs/2312.02957v1)|null|
+|**2023-12-05**|**Choroidalyzer: An open-source, end-to-end pipeline for choroidal analysis in optical coherence tomography**|Justin Engelmann et.al.|[2312.02956v1](http://arxiv.org/abs/2312.02956v1)|null|
+|**2023-12-05**|**An alternating peak-optimization method for optimal trajectory generation of quadrotor drones**|Wytze A. B. de Vries et.al.|[2312.02944v1](http://arxiv.org/abs/2312.02944v1)|null|
+|**2023-12-05**|**Fast CT anatomic localization algorithm**|Amit Oved et.al.|[2312.02941v1](http://arxiv.org/abs/2312.02941v1)|null|
+|**2023-12-05**|**Drag-A-Video: Non-rigid Video Editing with Point-based Interaction**|Yao Teng et.al.|[2312.02936v1](http://arxiv.org/abs/2312.02936v1)|null|
+|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934v1](http://arxiv.org/abs/2312.02934v1)|**[link](https://github.com/fudan-zvg/wovogen)**|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
 |**2023-12-04**|**Fast View Synthesis of Casual Videos**|Yao-Chih Lee et.al.|[2312.02135v1](http://arxiv.org/abs/2312.02135v1)|null|
 |**2023-12-04**|**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**|Liangxiao Hu et.al.|[2312.02134v1](http://arxiv.org/abs/2312.02134v1)|null|
@@ -3763,6 +3773,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Semi-Supervised Health Index Monitoring with Feature Generation and Fusion**|Gaëtan Frusque et.al.|[2312.02867v1](http://arxiv.org/abs/2312.02867v1)|null|
+|**2023-12-05**|**Entanglement and Pseudo Entanglement Dynamics versus Fusion in CFT**|Song He et.al.|[2312.02679v1](http://arxiv.org/abs/2312.02679v1)|null|
+|**2023-12-05**|**TSVR+: Twin support vector regression with privileged information**|Anuradha Kumari et.al.|[2312.02596v1](http://arxiv.org/abs/2312.02596v1)|null|
+|**2023-12-05**|**Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery**|Yansheng Li et.al.|[2312.02481v1](http://arxiv.org/abs/2312.02481v1)|null|
+|**2023-12-04**|**Clifford Manipulations of Stabilizer States: A graphical rule book for Clifford unitaries and measurements on cluster states, and application to photonic quantum computing**|Ashlesha Patil et.al.|[2312.02377v1](http://arxiv.org/abs/2312.02377v1)|null|
+|**2023-12-04**|**CityTFT: Temporal Fusion Transformer for Urban Building Energy Modeling**|Ting-Yu Dai et.al.|[2312.02375v1](http://arxiv.org/abs/2312.02375v1)|null|
+|**2023-12-04**|**Representations of $g$-fusion frames in Hilbert $C^{\ast}$-Modules**|Abdelilah Karara et.al.|[2312.02329v1](http://arxiv.org/abs/2312.02329v1)|null|
+|**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284v1](http://arxiv.org/abs/2312.02284v1)|null|
 |**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153v1](http://arxiv.org/abs/2312.02153v1)|**[link](https://github.com/shenyunhang/ape)**|
 |**2023-12-04**|**From High to Low: Simulating Nondeterminism and State with State**|Wenhao Tang et.al.|[2312.02054v1](http://arxiv.org/abs/2312.02054v1)|null|
 |**2023-12-04**|**A multi-channel cycleGAN for CBCT to CT synthesis**|Chelsea A. H. Sargeant et.al.|[2312.02017v1](http://arxiv.org/abs/2312.02017v1)|null|
