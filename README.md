@@ -10,7 +10,7 @@
 |**2023-12-04**|**Hot PATE: Private Aggregation of Distributions for Diverse Task**|Edith Cohen et.al.|[2312.02132v1](http://arxiv.org/abs/2312.02132v1)|null|
 |**2023-12-04**|**Can we truly transfer an actor's genuine happiness to avatars? An investigation into virtual, real, posed and spontaneous faces**|Vitor Miguel Xavier Peres et.al.|[2312.02128v1](http://arxiv.org/abs/2312.02128v1)|null|
 |**2023-12-04**|**Cosmic star-formation history and black hole accretion history inferred from the JWST mid-infrared source counts**|Seong Jin Kim et.al.|[2312.02090v1](http://arxiv.org/abs/2312.02090v1)|null|
-|**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087v1](http://arxiv.org/abs/2312.02087v1)|null|
+|**2023-12-05**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087v2](http://arxiv.org/abs/2312.02087v2)|null|
 |**2023-12-04**|**Integrating AI into CCTV Systems: A Comprehensive Evaluation of Smart Video Surveillance in Community Space**|Shanle Yao et.al.|[2312.02078v1](http://arxiv.org/abs/2312.02078v1)|null|
 |**2023-12-04**|**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**|Shenhan Qian et.al.|[2312.02069v1](http://arxiv.org/abs/2312.02069v1)|null|
 |**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|null|
@@ -3767,7 +3767,7 @@
 |**2023-12-04**|**Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing**|Ying Yuan et.al.|[2312.01853v1](http://arxiv.org/abs/2312.01853v1)|null|
 |**2023-12-04**|**Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization**|Konstantinos Triaridis et.al.|[2312.01790v1](http://arxiv.org/abs/2312.01790v1)|**[link](https://github.com/idt-iti/mmfusion-iml)**|
 |**2023-12-04**|**Estimating Coronal Mass Ejection Mass and Kinetic Energy by Fusion of Multiple Deep-learning Models**|Khalid A. Alobaid et.al.|[2312.01691v1](http://arxiv.org/abs/2312.01691v1)|null|
-|**2023-12-04**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677v1](http://arxiv.org/abs/2312.01677v1)|null|
+|**2023-12-05**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677v2](http://arxiv.org/abs/2312.01677v2)|null|
 |**2023-12-04**|**Quantum Algorithm for Radiative Transfer Equation**|Asuka Igarashi et.al.|[2312.01664v1](http://arxiv.org/abs/2312.01664v1)|null|
 |**2023-12-01**|**PointBeV: A Sparse Approach to BeV Predictions**|Loick Chambon et.al.|[2312.00703v1](http://arxiv.org/abs/2312.00703v1)|**[link](https://github.com/valeoai/pointbev)**|
 |**2023-12-01**|**LightCLIP: Learning Multi-Level Interaction for Lightweight Vision-Language Models**|Ying Nie et.al.|[2312.00674v1](http://arxiv.org/abs/2312.00674v1)|null|
