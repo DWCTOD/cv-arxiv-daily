@@ -11,7 +11,7 @@
 - 2023-12-05, **An alternating peak-optimization method for optimal trajectory generation of quadrotor drones**, Wytze A. B. de Vries et.al., Paper: [http://arxiv.org/abs/2312.02944v1](http://arxiv.org/abs/2312.02944v1)
 - 2023-12-05, **Fast CT anatomic localization algorithm**, Amit Oved et.al., Paper: [http://arxiv.org/abs/2312.02941v1](http://arxiv.org/abs/2312.02941v1)
 - 2023-12-05, **Drag-A-Video: Non-rigid Video Editing with Point-based Interaction**, Yao Teng et.al., Paper: [http://arxiv.org/abs/2312.02936v1](http://arxiv.org/abs/2312.02936v1)
-- 2023-12-05, **WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2312.02934v1](http://arxiv.org/abs/2312.02934v1), Code: **[https://github.com/fudan-zvg/wovogen](https://github.com/fudan-zvg/wovogen)**
+- 2023-12-06, **WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2312.02934v2](http://arxiv.org/abs/2312.02934v2), Code: **[https://github.com/fudan-zvg/wovogen](https://github.com/fudan-zvg/wovogen)**
 - 2023-12-04, **iMatching: Imperative Correspondence Learning**, Zitong Zhan et.al., Paper: [http://arxiv.org/abs/2312.02141v1](http://arxiv.org/abs/2312.02141v1)
 - 2023-12-04, **Fast View Synthesis of Casual Videos**, Yao-Chih Lee et.al., Paper: [http://arxiv.org/abs/2312.02135v1](http://arxiv.org/abs/2312.02135v1)
 - 2023-12-04, **GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**, Liangxiao Hu et.al., Paper: [http://arxiv.org/abs/2312.02134v1](http://arxiv.org/abs/2312.02134v1)
