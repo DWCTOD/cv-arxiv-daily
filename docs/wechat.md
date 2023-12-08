@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-07, **GenDeF: Learning Generative Deformation Field for Video Generation**, Wen Wang et.al., Paper: [http://arxiv.org/abs/2312.04561v1](http://arxiv.org/abs/2312.04561v1)
+- 2023-12-07, **MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**, Yufan Chen et.al., Paper: [http://arxiv.org/abs/2312.04558v1](http://arxiv.org/abs/2312.04558v1)
+- 2023-12-07, **GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation**, Shoufa Chen et.al., Paper: [http://arxiv.org/abs/2312.04557v1](http://arxiv.org/abs/2312.04557v1)
+- 2023-12-07, **SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing**, Tomoki Ichikawa et.al., Paper: [http://arxiv.org/abs/2312.04553v1](http://arxiv.org/abs/2312.04553v1)
+- 2023-12-07, **PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**, Lili Chen et.al., Paper: [http://arxiv.org/abs/2312.04549v1](http://arxiv.org/abs/2312.04549v1)
+- 2023-12-07, **Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?**, Aritra Dutta et.al., Paper: [http://arxiv.org/abs/2312.04548v1](http://arxiv.org/abs/2312.04548v1)
+- 2023-12-07, **Dream2Real: Zero-Shot 3D Object Rearrangement with Vision-Language Models**, Ivan Kapelyukh et.al., Paper: [http://arxiv.org/abs/2312.04533v1](http://arxiv.org/abs/2312.04533v1)
+- 2023-12-07, **Camera Height Doesn't Change: Unsupervised Monocular Scale-Aware Road-Scene Depth Estimation**, Genki Kinoshita et.al., Paper: [http://arxiv.org/abs/2312.04530v1](http://arxiv.org/abs/2312.04530v1)
+- 2023-12-07, **RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**, Ozgur Kara et.al., Paper: [http://arxiv.org/abs/2312.04524v1](http://arxiv.org/abs/2312.04524v1), Code: **[https://github.com/rehg-lab/rave](https://github.com/rehg-lab/rave)**
+- 2023-12-07, **Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation**, Zhiwu Qing et.al., Paper: [http://arxiv.org/abs/2312.04483v1](http://arxiv.org/abs/2312.04483v1)
 - 2023-12-06, **OneLLM: One Framework to Align All Modalities with Language**, Jiaming Han et.al., Paper: [http://arxiv.org/abs/2312.03700v1](http://arxiv.org/abs/2312.03700v1), Code: **[https://github.com/csuhan/onellm](https://github.com/csuhan/onellm)**
 - 2023-12-07, **Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers**, Umberto Cappellazzo et.al., Paper: [http://arxiv.org/abs/2312.03694v2](http://arxiv.org/abs/2312.03694v2)
 - 2023-12-06, **Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**, Trevor N. Wolf et.al., Paper: [http://arxiv.org/abs/2312.03671v1](http://arxiv.org/abs/2312.03671v1)
@@ -3775,6 +3785,14 @@
 
 ## MultiModal
 
+- 2023-12-07, **FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2312.04484v1](http://arxiv.org/abs/2312.04484v1), Code: **[https://github.com/Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet)**
+- 2023-12-07, **Composite subsystem symmetries and decoration of sub-dimensional excitations**, Avi Vadali et.al., Paper: [http://arxiv.org/abs/2312.04467v1](http://arxiv.org/abs/2312.04467v1)
+- 2023-12-07, **A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**, Guang Yang et.al., Paper: [http://arxiv.org/abs/2312.04328v1](http://arxiv.org/abs/2312.04328v1), Code: **[https://github.com/ssyangguang/mda](https://github.com/ssyangguang/mda)**
+- 2023-12-07, **Joint-Individual Fusion Structure with Fusion Attention Module for Multi-Modal Skin Cancer Classification**, Peng Tang et.al., Paper: [http://arxiv.org/abs/2312.04189v1](http://arxiv.org/abs/2312.04189v1)
+- 2023-12-07, **An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**, Israt Zarin Era et.al., Paper: [http://arxiv.org/abs/2312.04063v1](http://arxiv.org/abs/2312.04063v1)
+- 2023-12-07, **Jointly spatial-temporal representation learning for individual trajectories**, Fei Huang et.al., Paper: [http://arxiv.org/abs/2312.04055v1](http://arxiv.org/abs/2312.04055v1)
+- 2023-12-07, **Moirai: Towards Optimal Placement for Distributed Inference on Heterogeneous Devices**, Beibei Zhang et.al., Paper: [http://arxiv.org/abs/2312.04025v1](http://arxiv.org/abs/2312.04025v1), Code: **[https://github.com/moirai-placement/moirai](https://github.com/moirai-placement/moirai)**
+- 2023-12-07, **Series2Vec: Similarity-based Self-supervised Representation Learning for Time Series Classification**, Navid Mohammadi Foumani et.al., Paper: [http://arxiv.org/abs/2312.03998v1](http://arxiv.org/abs/2312.03998v1), Code: **[https://github.com/navidfoumani/series2vec](https://github.com/navidfoumani/series2vec)**
 - 2023-12-06, **Transformer-Powered Surrogates Close the ICF Simulation-Experiment Gap with Extremely Limited Data**, Matthew L. Olson et.al., Paper: [http://arxiv.org/abs/2312.03642v1](http://arxiv.org/abs/2312.03642v1)
 - 2023-12-06, **DreamComposer: Controllable 3D Object Generation via Multi-View Conditions**, Yunhan Yang et.al., Paper: [http://arxiv.org/abs/2312.03611v1](http://arxiv.org/abs/2312.03611v1)
 - 2023-12-06, **Automated Multimodal Data Annotation via Calibration With Indoor Positioning System**, Ryan Rubel et.al., Paper: [http://arxiv.org/abs/2312.03608v1](http://arxiv.org/abs/2312.03608v1)
