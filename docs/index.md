@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**The Long Secondary Period (LSP) Variables: Overview and Some Analysis**|John R. Percy et.al.|[2312.05255v1](http://arxiv.org/abs/2312.05255v1)|null|
+|**2023-12-08**|**Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration**|Qi-Wei Wang et.al.|[2312.05229v1](http://arxiv.org/abs/2312.05229v1)|null|
+|**2023-12-08**|**Shape Matters: Detecting Vertebral Fractures Using Differentiable Point-Based Shape Decoding**|Hellena Hempe et.al.|[2312.05220v1](http://arxiv.org/abs/2312.05220v1)|**[link](https://github.com/multimodallearning/shape_matters)**|
+|**2023-12-08**|**Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning**|Houting Li et.al.|[2312.05219v1](http://arxiv.org/abs/2312.05219v1)|null|
+|**2023-12-08**|**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing**|Shaofei Wang et.al.|[2312.05210v1](http://arxiv.org/abs/2312.05210v1)|null|
+|**2023-12-08**|**Embedding theory in ML toward real-time tracking of structural dynamics through hyperspectral datasets**|Jonathan D Hollenbach et.al.|[2312.05201v1](http://arxiv.org/abs/2312.05201v1)|null|
+|**2023-12-08**|**Video-Based Rendering Techniques: A Survey**|Rafael Kuffner dos Anjos et.al.|[2312.05179v1](http://arxiv.org/abs/2312.05179v1)|null|
+|**2023-12-08**|**Enhancing Single-Frame Supervision for Better Temporal Action Localization**|Changjian Chen et.al.|[2312.05178v1](http://arxiv.org/abs/2312.05178v1)|null|
+|**2023-12-08**|**MRI Scan Synthesis Methods based on Clustering and Pix2Pix**|Giulia Baldini et.al.|[2312.05176v1](http://arxiv.org/abs/2312.05176v1)|null|
+|**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161v1](http://arxiv.org/abs/2312.05161v1)|null|
 |**2023-12-07**|**GenDeF: Learning Generative Deformation Field for Video Generation**|Wen Wang et.al.|[2312.04561v1](http://arxiv.org/abs/2312.04561v1)|null|
 |**2023-12-07**|**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**|Yufan Chen et.al.|[2312.04558v1](http://arxiv.org/abs/2312.04558v1)|null|
 |**2023-12-07**|**GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation**|Shoufa Chen et.al.|[2312.04557v1](http://arxiv.org/abs/2312.04557v1)|null|
@@ -3793,6 +3803,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Molecular Dynamics Simulation of Nanoporous Tungsten**|Jarod Worden et.al.|[2312.05227v1](http://arxiv.org/abs/2312.05227v1)|null|
+|**2023-12-08**|**High Absorptivity Nanotextured Powders for Additive Manufacturing**|Ottman A. Tertuliano et.al.|[2312.05174v1](http://arxiv.org/abs/2312.05174v1)|null|
+|**2023-12-08**|**Deep Learning Enabled Semantic Communication Systems for Video Transmission**|Zhenguo Zhang et.al.|[2312.05062v1](http://arxiv.org/abs/2312.05062v1)|null|
+|**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046v1](http://arxiv.org/abs/2312.05046v1)|null|
+|**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970v1](http://arxiv.org/abs/2312.04970v1)|null|
+|**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875v1](http://arxiv.org/abs/2312.04875v1)|null|
+|**2023-12-08**|**SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles**|Deyuan Qu et.al.|[2312.04822v1](http://arxiv.org/abs/2312.04822v1)|null|
+|**2023-12-08**|**User-Aware Prefix-Tuning is a Good Learner for Personalized Image Captioning**|Xuan Wang et.al.|[2312.04793v1](http://arxiv.org/abs/2312.04793v1)|null|
+|**2023-12-07**|**E2ENet: Dynamic Sparse Feature Fusion for Accurate and Efficient 3D Medical Image Segmentation**|Boqian Wu et.al.|[2312.04727v1](http://arxiv.org/abs/2312.04727v1)|**[link](https://github.com/boqian333/e2enet-medical)**|
+|**2023-12-07**|**Efficient algorithms for simulating percolation in photonic fusion networks**|Matthias C. Löbl et.al.|[2312.04639v1](http://arxiv.org/abs/2312.04639v1)|null|
 |**2023-12-07**|**FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation**|Xiang Xu et.al.|[2312.04484v1](http://arxiv.org/abs/2312.04484v1)|**[link](https://github.com/Xiangxu-0103/FRNet)**|
 |**2023-12-07**|**Composite subsystem symmetries and decoration of sub-dimensional excitations**|Avi Vadali et.al.|[2312.04467v1](http://arxiv.org/abs/2312.04467v1)|null|
 |**2023-12-07**|**A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion**|Guang Yang et.al.|[2312.04328v1](http://arxiv.org/abs/2312.04328v1)|**[link](https://github.com/ssyangguang/mda)**|
