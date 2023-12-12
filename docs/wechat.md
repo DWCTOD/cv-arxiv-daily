@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-11, **Photorealistic Video Generation with Diffusion Models**, Agrim Gupta et.al., Paper: [http://arxiv.org/abs/2312.06662v1](http://arxiv.org/abs/2312.06662v1)
+- 2023-12-11, **LightSim: Neural Lighting Simulation for Urban Scenes**, Ava Pun et.al., Paper: [http://arxiv.org/abs/2312.06654v1](http://arxiv.org/abs/2312.06654v1)
+- 2023-12-11, **Beyond Classification: Definition and Density-based Estimation of Calibration in Object Detection**, Teodora Popordanoska et.al., Paper: [http://arxiv.org/abs/2312.06645v1](http://arxiv.org/abs/2312.06645v1)
+- 2023-12-11, **Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**, Shangchen Zhou et.al., Paper: [http://arxiv.org/abs/2312.06640v1](http://arxiv.org/abs/2312.06640v1)
+- 2023-12-11, **TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation**, Rongkun Zheng et.al., Paper: [http://arxiv.org/abs/2312.06630v1](http://arxiv.org/abs/2312.06630v1), Code: **[https://github.com/rkzheng99/tmt-vis](https://github.com/rkzheng99/tmt-vis)**
+- 2023-12-11, **Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**, Georgios Milis et.al., Paper: [http://arxiv.org/abs/2312.06613v1](http://arxiv.org/abs/2312.06613v1), Code: **[https://github.com/g-milis/NEUTART](https://github.com/g-milis/NEUTART)**
+- 2023-12-11, **Early Action Recognition with Action Prototypes**, Guglielmo Camporese et.al., Paper: [http://arxiv.org/abs/2312.06598v1](http://arxiv.org/abs/2312.06598v1)
+- 2023-12-11, **Flexible visual prompts for in-context learning in computer vision**, Thomas Foster et.al., Paper: [http://arxiv.org/abs/2312.06592v1](http://arxiv.org/abs/2312.06592v1)
+- 2023-12-11, **QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection**, Yao Sun et.al., Paper: [http://arxiv.org/abs/2312.06587v1](http://arxiv.org/abs/2312.06587v1)
+- 2023-12-11, **ESO/HARPS Radial Velocities Catalog**, Mauro Barbieri et.al., Paper: [http://arxiv.org/abs/2312.06586v1](http://arxiv.org/abs/2312.06586v1)
 - 2023-12-08, **The Long Secondary Period (LSP) Variables: Overview and Some Analysis**, John R. Percy et.al., Paper: [http://arxiv.org/abs/2312.05255v1](http://arxiv.org/abs/2312.05255v1)
 - 2023-12-08, **Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration**, Qi-Wei Wang et.al., Paper: [http://arxiv.org/abs/2312.05229v1](http://arxiv.org/abs/2312.05229v1)
 - 2023-12-08, **Shape Matters: Detecting Vertebral Fractures Using Differentiable Point-Based Shape Decoding**, Hellena Hempe et.al., Paper: [http://arxiv.org/abs/2312.05220v1](http://arxiv.org/abs/2312.05220v1), Code: **[https://github.com/multimodallearning/shape_matters](https://github.com/multimodallearning/shape_matters)**
@@ -3795,6 +3805,16 @@
 
 ## MultiModal
 
+- 2023-12-11, **DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**, Haoyang He et.al., Paper: [http://arxiv.org/abs/2312.06607v1](http://arxiv.org/abs/2312.06607v1), Code: **[https://github.com/lewandofskee/DiAD](https://github.com/lewandofskee/DiAD)**
+- 2023-12-11, **Alterfold Topological Quantum Field Theory**, Zhengwei Liu et.al., Paper: [http://arxiv.org/abs/2312.06477v1](http://arxiv.org/abs/2312.06477v1)
+- 2023-12-11, **Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation**, Qi Yang et.al., Paper: [http://arxiv.org/abs/2312.06462v1](http://arxiv.org/abs/2312.06462v1)
+- 2023-12-11, **ASF-YOLO: A Novel YOLO Model with Attentional Scale Sequence Fusion for Cell Instance Segmentation**, Ming Kang et.al., Paper: [http://arxiv.org/abs/2312.06458v1](http://arxiv.org/abs/2312.06458v1), Code: **[https://github.com/mkang315/asf-yolo](https://github.com/mkang315/asf-yolo)**
+- 2023-12-11, **MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality**, Mengzhao Wang et.al., Paper: [http://arxiv.org/abs/2312.06397v1](http://arxiv.org/abs/2312.06397v1), Code: **[https://github.com/zju-daily/must](https://github.com/zju-daily/must)**
+- 2023-12-11, **SP-DiffDose: A Conditional Diffusion Model for Radiation Dose Prediction Based on Multi-Scale Fusion of Anatomical Structures, Guided by SwinTransformer and Projector**, Linjie Fu et.al., Paper: [http://arxiv.org/abs/2312.06187v1](http://arxiv.org/abs/2312.06187v1)
+- 2023-12-11, **Concrete Subspace Learning based Interference Elimination for Multi-task Model Fusion**, Anke Tang et.al., Paper: [http://arxiv.org/abs/2312.06173v1](http://arxiv.org/abs/2312.06173v1), Code: **[https://github.com/tanganke/subspace_fusion](https://github.com/tanganke/subspace_fusion)**
+- 2023-12-11, **Jointly Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis**, Qian Shao et.al., Paper: [http://arxiv.org/abs/2312.06171v1](http://arxiv.org/abs/2312.06171v1)
+- 2023-12-11, **ROSE: A Recognition-Oriented Speech Enhancement Framework in Air Traffic Control Using Multi-Objective Learning**, Xincheng Yu et.al., Paper: [http://arxiv.org/abs/2312.06118v1](http://arxiv.org/abs/2312.06118v1)
+- 2023-12-11, **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks**, Renxiang Guan et.al., Paper: [http://arxiv.org/abs/2312.06068v1](http://arxiv.org/abs/2312.06068v1)
 - 2023-12-08, **Molecular Dynamics Simulation of Nanoporous Tungsten**, Jarod Worden et.al., Paper: [http://arxiv.org/abs/2312.05227v1](http://arxiv.org/abs/2312.05227v1)
 - 2023-12-08, **High Absorptivity Nanotextured Powders for Additive Manufacturing**, Ottman A. Tertuliano et.al., Paper: [http://arxiv.org/abs/2312.05174v1](http://arxiv.org/abs/2312.05174v1)
 - 2023-12-08, **Deep Learning Enabled Semantic Communication Systems for Video Transmission**, Zhenguo Zhang et.al., Paper: [http://arxiv.org/abs/2312.05062v1](http://arxiv.org/abs/2312.05062v1)
