@@ -1,4 +1,4 @@
-> Updated on 2023.12.12
+> Updated on 2023.12.13
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 - 2023-12-11, **TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation**, Rongkun Zheng et.al., Paper: [http://arxiv.org/abs/2312.06630v1](http://arxiv.org/abs/2312.06630v1), Code: **[https://github.com/rkzheng99/tmt-vis](https://github.com/rkzheng99/tmt-vis)**
 - 2023-12-11, **Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**, Georgios Milis et.al., Paper: [http://arxiv.org/abs/2312.06613v1](http://arxiv.org/abs/2312.06613v1), Code: **[https://github.com/g-milis/NEUTART](https://github.com/g-milis/NEUTART)**
 - 2023-12-11, **Early Action Recognition with Action Prototypes**, Guglielmo Camporese et.al., Paper: [http://arxiv.org/abs/2312.06598v1](http://arxiv.org/abs/2312.06598v1)
-- 2023-12-11, **Flexible visual prompts for in-context learning in computer vision**, Thomas Foster et.al., Paper: [http://arxiv.org/abs/2312.06592v1](http://arxiv.org/abs/2312.06592v1)
+- 2023-12-11, **Flexible visual prompts for in-context learning in computer vision**, Thomas Foster et.al., Paper: [http://arxiv.org/abs/2312.06592v1](http://arxiv.org/abs/2312.06592v1), Code: **[https://github.com/v7labs/xmem_icl](https://github.com/v7labs/xmem_icl)**
 - 2023-12-11, **QuickQuakeBuildings: Post-earthquake SAR-Optical Dataset for Quick Damaged-building Detection**, Yao Sun et.al., Paper: [http://arxiv.org/abs/2312.06587v1](http://arxiv.org/abs/2312.06587v1)
 - 2023-12-11, **ESO/HARPS Radial Velocities Catalog**, Mauro Barbieri et.al., Paper: [http://arxiv.org/abs/2312.06586v1](http://arxiv.org/abs/2312.06586v1)
 - 2023-12-08, **The Long Secondary Period (LSP) Variables: Overview and Some Analysis**, John R. Percy et.al., Paper: [http://arxiv.org/abs/2312.05255v1](http://arxiv.org/abs/2312.05255v1)
