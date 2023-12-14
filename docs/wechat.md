@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-13, **VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering**, Xijun Wang et.al., Paper: [http://arxiv.org/abs/2312.08367v1](http://arxiv.org/abs/2312.08367v1)
+- 2023-12-13, **Challenges and Opportunities in Implementing Negative Differential Resistance Mode Reconfigurable Field Effect Transistors**, Lephe S et.al., Paper: [http://arxiv.org/abs/2312.08351v1](http://arxiv.org/abs/2312.08351v1)
+- 2023-12-13, **Ehancing CT Image synthesis from multi-modal MRI data based on a multi-task neural network framework**, Zhuoyao Xin et.al., Paper: [http://arxiv.org/abs/2312.08343v1](http://arxiv.org/abs/2312.08343v1)
+- 2023-12-13, **Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**, Yiqun Liu et.al., Paper: [http://arxiv.org/abs/2312.08330v1](http://arxiv.org/abs/2312.08330v1)
+- 2023-12-13, **Affine monoids of corank one**, Yulia Zaitseva et.al., Paper: [http://arxiv.org/abs/2312.08316v1](http://arxiv.org/abs/2312.08316v1)
+- 2023-12-13, **VQ-HPS: Human Pose and Shape Estimation in a Vector-Quantized Latent Space**, Guénolé Fiche et.al., Paper: [http://arxiv.org/abs/2312.08291v1](http://arxiv.org/abs/2312.08291v1)
+- 2023-12-13, **PhenDiff: Revealing Invisible Phenotypes with Conditional Diffusion Models**, Anis Bourou et.al., Paper: [http://arxiv.org/abs/2312.08290v1](http://arxiv.org/abs/2312.08290v1), Code: **[https://github.com/warmongeringbeaver/phendiff](https://github.com/warmongeringbeaver/phendiff)**
+- 2023-12-13, **On the verification of Embeddings using Hybrid Markov Logic**, Anup Shakya et.al., Paper: [http://arxiv.org/abs/2312.08287v1](http://arxiv.org/abs/2312.08287v1)
+- 2023-12-13, **High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**, Songchi Zhou et.al., Paper: [http://arxiv.org/abs/2312.08274v1](http://arxiv.org/abs/2312.08274v1)
+- 2023-12-13, **Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**, Arul Selvam Periyasamy et.al., Paper: [http://arxiv.org/abs/2312.08268v1](http://arxiv.org/abs/2312.08268v1)
 - 2023-12-12, **diff History for Long-Context Language Agents**, Ulyana Piterbarg et.al., Paper: [http://arxiv.org/abs/2312.07540v1](http://arxiv.org/abs/2312.07540v1)
 - 2023-12-12, **FreeInit: Bridging Initialization Gap in Video Diffusion Models**, Tianxing Wu et.al., Paper: [http://arxiv.org/abs/2312.07537v1](http://arxiv.org/abs/2312.07537v1), Code: **[https://github.com/tianxingwu/freeinit](https://github.com/tianxingwu/freeinit)**
 - 2023-12-12, **WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**, Soyong Shin et.al., Paper: [http://arxiv.org/abs/2312.07531v1](http://arxiv.org/abs/2312.07531v1)
@@ -3815,6 +3825,15 @@
 
 ## MultiModal
 
+- 2023-12-13, **Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**, Yiqun Liu et.al., Paper: [http://arxiv.org/abs/2312.08330v1](http://arxiv.org/abs/2312.08330v1)
+- 2023-12-13, **$^{12}$C and $α$-clusters, $0^+$ spectrum, and Hoyle-state candidates in $^{24}$Mg**, J. Cseh et.al., Paper: [http://arxiv.org/abs/2312.08318v1](http://arxiv.org/abs/2312.08318v1)
+- 2023-12-13, **Audio Deepfake Detection with Self-Supervised WavLM and Multi-Fusion Attentive Classifier**, Yinlin Guo et.al., Paper: [http://arxiv.org/abs/2312.08089v1](http://arxiv.org/abs/2312.08089v1)
+- 2023-12-13, **ReFusion: Learning Image Fusion from Reconstruction with Learnable Loss via Meta-Learning**, Haowen Bai et.al., Paper: [http://arxiv.org/abs/2312.07943v1](http://arxiv.org/abs/2312.07943v1)
+- 2023-12-13, **Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing**, Yuanbo Wen et.al., Paper: [http://arxiv.org/abs/2312.07849v1](http://arxiv.org/abs/2312.07849v1), Code: **[https://github.com/chdwyb/rshazenet](https://github.com/chdwyb/rshazenet)**
+- 2023-12-12, **Hierarchical Classification of Financial Transactions Through Context-Fusion of Transformer-based Embeddings and Taxonomy-aware Attention Layer**, Antonio J. G. Busson et.al., Paper: [http://arxiv.org/abs/2312.07730v1](http://arxiv.org/abs/2312.07730v1)
+- 2023-12-12, **GP+: A Python Library for Kernel-based learning via Gaussian Processes**, Amin Yousefpour et.al., Paper: [http://arxiv.org/abs/2312.07694v1](http://arxiv.org/abs/2312.07694v1)
+- 2023-12-12, **Electroweak Scattering at the Muon Shot**, Tao Han et.al., Paper: [http://arxiv.org/abs/2312.07670v1](http://arxiv.org/abs/2312.07670v1)
+- 2023-12-12, **Combining QED and Approximate N${}^3$LO QCD Corrections in a Global PDF Fit: MSHT20qed_an3lo PDFs**, T. Cridge et.al., Paper: [http://arxiv.org/abs/2312.07665v1](http://arxiv.org/abs/2312.07665v1)
 - 2023-12-12, **MinD-3D: Reconstruct High-quality 3D objects in Human Brain**, Jianxiong Gao et.al., Paper: [http://arxiv.org/abs/2312.07485v1](http://arxiv.org/abs/2312.07485v1)
 - 2023-12-12, **Microscale stress-geometry interactions in an additively manufactured NiTi cardiovascular stent: A synchrotron dual imaging tomography and diffraction study**, Himanshu Vashishtha et.al., Paper: [http://arxiv.org/abs/2312.07480v1](http://arxiv.org/abs/2312.07480v1)
 - 2023-12-12, **A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames**, Pinelopi Papalampidi et.al., Paper: [http://arxiv.org/abs/2312.07395v1](http://arxiv.org/abs/2312.07395v1)
