@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228v1](http://arxiv.org/abs/2312.09228v1)|null|
+|**2023-12-14**|**Efficient Online Learning of Contact Force Models for Connector Insertion**|Kevin Tracy et.al.|[2312.09190v1](http://arxiv.org/abs/2312.09190v1)|null|
+|**2023-12-14**|**General Object Foundation Model for Images and Videos at Scale**|Junfeng Wu et.al.|[2312.09158v1](http://arxiv.org/abs/2312.09158v1)|null|
+|**2023-12-14**|**Evaluating Augmented Reality Communication: How Can We Teach Procedural Skill in AR?**|Manuel Rebol et.al.|[2312.09152v1](http://arxiv.org/abs/2312.09152v1)|null|
+|**2023-12-14**|**Split-Ensemble: Efficient OOD-aware Ensemble via Task and Model Splitting**|Anthony Chen et.al.|[2312.09148v1](http://arxiv.org/abs/2312.09148v1)|null|
+|**2023-12-14**|**Class-Wise Buffer Management for Incremental Object Detection: An Effective Buffer Training Strategy**|Junsu Kim et.al.|[2312.09139v1](http://arxiv.org/abs/2312.09139v1)|null|
+|**2023-12-14**|**Less is more -- the Dispatcher/ Executor principle for multi-task Reinforcement Learning**|Martin Riedmiller et.al.|[2312.09120v1](http://arxiv.org/abs/2312.09120v1)|null|
+|**2023-12-14**|**VideoLCM: Video Latent Consistency Model**|Xiang Wang et.al.|[2312.09109v1](http://arxiv.org/abs/2312.09109v1)|null|
+|**2023-12-14**|**FastInject: Injecting Unpaired Text Data into CTC-based ASR training**|Keqi Deng et.al.|[2312.09100v1](http://arxiv.org/abs/2312.09100v1)|null|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874v1](http://arxiv.org/abs/2312.08874v1)|**[link](https://github.com/leaplabthu/agent-attention)**|
 |**2023-12-13**|**VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering**|Xijun Wang et.al.|[2312.08367v1](http://arxiv.org/abs/2312.08367v1)|null|
 |**2023-12-13**|**Challenges and Opportunities in Implementing Negative Differential Resistance Mode Reconfigurable Field Effect Transistors**|Lephe S et.al.|[2312.08351v1](http://arxiv.org/abs/2312.08351v1)|null|
 |**2023-12-13**|**Ehancing CT Image synthesis from multi-modal MRI data based on a multi-task neural network framework**|Zhuoyao Xin et.al.|[2312.08343v1](http://arxiv.org/abs/2312.08343v1)|null|
@@ -3829,6 +3839,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**CMG-Net: Robust Normal Estimation for Point Clouds via Chamfer Normal Distance and Multi-scale Geometry**|Yingrui Wu et.al.|[2312.09154v1](http://arxiv.org/abs/2312.09154v1)|null|
+|**2023-12-14**|**Composite resonances at a 10 TeV muon collider**|Da Liu et.al.|[2312.09117v1](http://arxiv.org/abs/2312.09117v1)|null|
+|**2023-12-14**|**Analysis of lattice locations of deuterium in tungsten and its application for predicting deuterium trapping conditions**|Xin Jin et.al.|[2312.09112v1](http://arxiv.org/abs/2312.09112v1)|null|
+|**2023-12-14**|**Learned Fusion: 3D Object Detection using Calibration-Free Transformer Feature Fusion**|Michael Fürst et.al.|[2312.09082v1](http://arxiv.org/abs/2312.09082v1)|null|
+|**2023-12-14**|**Photonic fusion of entangled resource states from a quantum emitter**|Yijian Meng et.al.|[2312.09070v1](http://arxiv.org/abs/2312.09070v1)|null|
+|**2023-12-14**|**Fusion of Audio and Visual Embeddings for Sound Event Localization and Detection**|Davide Berghi et.al.|[2312.09034v1](http://arxiv.org/abs/2312.09034v1)|null|
+|**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853v1](http://arxiv.org/abs/2312.08853v1)|null|
+|**2023-12-14**|**Achelous++: Power-Oriented Water-Surface Panoptic Perception Framework on Edge Devices based on Vision-Radar Fusion and Pruning of Heterogeneous Modalities**|Runwei Guan et.al.|[2312.08851v1](http://arxiv.org/abs/2312.08851v1)|**[link](https://github.com/GuanRunwei/Achelous)**|
+|**2023-12-14**|**Hourglass-AVSR: Down-Up Sampling-based Computational Efficiency Model for Audio-Visual Speech Recognition**|Fan Yu et.al.|[2312.08850v1](http://arxiv.org/abs/2312.08850v1)|null|
+|**2023-12-14**|**Bayesian Fused Lasso Modeling for Binary Data**|Yuko Kakikawa et.al.|[2312.08838v1](http://arxiv.org/abs/2312.08838v1)|null|
 |**2023-12-13**|**Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**|Yiqun Liu et.al.|[2312.08330v1](http://arxiv.org/abs/2312.08330v1)|null|
 |**2023-12-13**|**$^{12}$C and $α$-clusters, $0^+$ spectrum, and Hoyle-state candidates in $^{24}$Mg**|J. Cseh et.al.|[2312.08318v1](http://arxiv.org/abs/2312.08318v1)|null|
 |**2023-12-13**|**Audio Deepfake Detection with Self-Supervised WavLM and Multi-Fusion Attentive Classifier**|Yinlin Guo et.al.|[2312.08089v1](http://arxiv.org/abs/2312.08089v1)|null|
