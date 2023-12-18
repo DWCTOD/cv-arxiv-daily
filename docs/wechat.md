@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-15, **Understanding Probe Behaviors through Variational Bounds of Mutual Information**, Kwanghee Choi et.al., Paper: [http://arxiv.org/abs/2312.10019v1](http://arxiv.org/abs/2312.10019v1), Code: **[https://github.com/juice500ml/information_probing](https://github.com/juice500ml/information_probing)**
+- 2023-12-15, **Wearable Coaxially-shielded Metamaterial for Magnetic Resonance Imaging**, Xia Zhu et.al., Paper: [http://arxiv.org/abs/2312.10018v1](http://arxiv.org/abs/2312.10018v1)
+- 2023-12-15, **On the Invertibility of Euler Integral Transforms with Hyperplanes and Quadric Hypersurfaces**, Mattie Ji et.al., Paper: [http://arxiv.org/abs/2312.10002v1](http://arxiv.org/abs/2312.10002v1)
+- 2023-12-15, **Towards Architecture-Insensitive Untrained Network Priors for Accelerated MRI Reconstruction**, Yilin Liu et.al., Paper: [http://arxiv.org/abs/2312.09988v1](http://arxiv.org/abs/2312.09988v1)
+- 2023-12-15, **DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing**, Abdul Wasi et.al., Paper: [http://arxiv.org/abs/2312.09955v1](http://arxiv.org/abs/2312.09955v1)
+- 2023-12-15, **Multi-level graph learning for audio event classification and human-perceived annoyance rating prediction**, Yuanbo Hou et.al., Paper: [http://arxiv.org/abs/2312.09952v1](http://arxiv.org/abs/2312.09952v1)
+- 2023-12-15, **LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**, Yuxin Cao et.al., Paper: [http://arxiv.org/abs/2312.09935v1](http://arxiv.org/abs/2312.09935v1), Code: **[https://github.com/ziyuzhao-zzy/logostylefool](https://github.com/ziyuzhao-zzy/logostylefool)**
+- 2023-12-15, **RDR: the Recap, Deliberate, and Respond Method for Enhanced Language Understanding**, Yuxin Zi et.al., Paper: [http://arxiv.org/abs/2312.09932v1](http://arxiv.org/abs/2312.09932v1)
+- 2023-12-15, **Reliable Probabilistic Classification with Neural Networks**, Harris Papadopoulos et.al., Paper: [http://arxiv.org/abs/2312.09912v1](http://arxiv.org/abs/2312.09912v1)
+- 2023-12-15, **TMP: Temporal Motion Propagation for Online Video Super-Resolution**, Zhengqiang Zhang et.al., Paper: [http://arxiv.org/abs/2312.09909v1](http://arxiv.org/abs/2312.09909v1)
 - 2023-12-14, **3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**, Zhiyin Qian et.al., Paper: [http://arxiv.org/abs/2312.09228v1](http://arxiv.org/abs/2312.09228v1)
 - 2023-12-14, **Efficient Online Learning of Contact Force Models for Connector Insertion**, Kevin Tracy et.al., Paper: [http://arxiv.org/abs/2312.09190v1](http://arxiv.org/abs/2312.09190v1)
 - 2023-12-14, **General Object Foundation Model for Images and Videos at Scale**, Junfeng Wu et.al., Paper: [http://arxiv.org/abs/2312.09158v1](http://arxiv.org/abs/2312.09158v1)
@@ -3835,6 +3845,15 @@
 
 ## MultiModal
 
+- 2023-12-15, **Quantum Generative Adversarial Networks: Bridging Classical and Quantum Realms**, Sahil Nokhwal et.al., Paper: [http://arxiv.org/abs/2312.09939v1](http://arxiv.org/abs/2312.09939v1)
+- 2023-12-15, **Reactive collisions between electrons and BeH+ above dissociation threshold**, E. Djuissi et.al., Paper: [http://arxiv.org/abs/2312.09923v1](http://arxiv.org/abs/2312.09923v1)
+- 2023-12-15, **Improved Wong and classical approximations, and reduction of fusion data**, L. F. Canto et.al., Paper: [http://arxiv.org/abs/2312.09918v1](http://arxiv.org/abs/2312.09918v1)
+- 2023-12-15, **Automatic channel selection and spatial feature integration for multi-channel speech recognition across various array topologies**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2312.09746v1](http://arxiv.org/abs/2312.09746v1)
+- 2023-12-15, **Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval**, Zhe Ma et.al., Paper: [http://arxiv.org/abs/2312.09716v1](http://arxiv.org/abs/2312.09716v1), Code: **[https://github.com/maryeon/whiten_mtd](https://github.com/maryeon/whiten_mtd)**
+- 2023-12-15, **Multi-Modality is All You Need for Transferable Recommender Systems**, Youhua Li et.al., Paper: [http://arxiv.org/abs/2312.09602v1](http://arxiv.org/abs/2312.09602v1), Code: **[https://github.com/icde24/pmmrec](https://github.com/icde24/pmmrec)**
+- 2023-12-15, **A wearable Gait Assessment Method for Lumbar Disc Herniation Based on Adaptive Kalman Filtering**, Yongsong Wang et.al., Paper: [http://arxiv.org/abs/2312.09517v1](http://arxiv.org/abs/2312.09517v1)
+- 2023-12-14, **Text-Guided Face Recognition using Multi-Granularity Cross-Modal Contrastive Learning**, Md Mahedi Hasan et.al., Paper: [http://arxiv.org/abs/2312.09367v1](http://arxiv.org/abs/2312.09367v1)
+- 2023-12-14, **Worldsheet kinematics, dressing factors and odd crossing in mixed-flux AdS3 backgrounds**, Olof Ohlsson Sax et.al., Paper: [http://arxiv.org/abs/2312.09288v1](http://arxiv.org/abs/2312.09288v1)
 - 2023-12-14, **CMG-Net: Robust Normal Estimation for Point Clouds via Chamfer Normal Distance and Multi-scale Geometry**, Yingrui Wu et.al., Paper: [http://arxiv.org/abs/2312.09154v1](http://arxiv.org/abs/2312.09154v1)
 - 2023-12-14, **Composite resonances at a 10 TeV muon collider**, Da Liu et.al., Paper: [http://arxiv.org/abs/2312.09117v1](http://arxiv.org/abs/2312.09117v1)
 - 2023-12-14, **Analysis of lattice locations of deuterium in tungsten and its application for predicting deuterium trapping conditions**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2312.09112v1](http://arxiv.org/abs/2312.09112v1)
