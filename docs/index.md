@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Development and Evaluation of Ensemble Learning-based Environmental Methane Detection and Intensity Prediction Models**|Reek Majumder et.al.|[2312.10879v1](http://arxiv.org/abs/2312.10879v1)|null|
+|**2023-12-18**|**Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**|Hui Fu et.al.|[2312.10877v1](http://arxiv.org/abs/2312.10877v1)|null|
+|**2023-12-17**|**Global relaxation-based LP-Newton method for multiple hyperparameter selection in support vector classification with feature selection**|Qingna Li et.al.|[2312.10848v1](http://arxiv.org/abs/2312.10848v1)|null|
+|**2023-12-17**|**Online Boosting Adaptive Learning under Concept Drift for Multistream Classification**|En Yu et.al.|[2312.10841v1](http://arxiv.org/abs/2312.10841v1)|null|
+|**2023-12-17**|**Learning to Act without Actions**|Dominik Schmidt et.al.|[2312.10812v1](http://arxiv.org/abs/2312.10812v1)|null|
+|**2023-12-17**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798v1](http://arxiv.org/abs/2312.10798v1)|null|
+|**2023-12-17**|**Learning to Learn in Interactive Constraint Acquisition**|Dimos Tsouros et.al.|[2312.10795v1](http://arxiv.org/abs/2312.10795v1)|null|
+|**2023-12-17**|**Identification of Knowledge Neurons in Protein Language Models**|Divya Nori et.al.|[2312.10770v1](http://arxiv.org/abs/2312.10770v1)|null|
+|**2023-12-17**|**Multi-Label Classification of COVID-Tweets Using Large Language Models**|Aniket Deroy et.al.|[2312.10748v1](http://arxiv.org/abs/2312.10748v1)|**[link](https://github.com/anonmous1981/aisome)**|
+|**2023-12-17**|**Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach**|Faysal Mahmud et.al.|[2312.10740v1](http://arxiv.org/abs/2312.10740v1)|**[link](https://github.com/faysal-md/unmasking-deepfake-faces-from-videos-an-explainable-cost-sensitive-deep-learning-approach-ieee2023)**|
 |**2023-12-15**|**Understanding Probe Behaviors through Variational Bounds of Mutual Information**|Kwanghee Choi et.al.|[2312.10019v1](http://arxiv.org/abs/2312.10019v1)|**[link](https://github.com/juice500ml/information_probing)**|
 |**2023-12-15**|**Wearable Coaxially-shielded Metamaterial for Magnetic Resonance Imaging**|Xia Zhu et.al.|[2312.10018v1](http://arxiv.org/abs/2312.10018v1)|null|
 |**2023-12-15**|**On the Invertibility of Euler Integral Transforms with Hyperplanes and Quadric Hypersurfaces**|Mattie Ji et.al.|[2312.10002v1](http://arxiv.org/abs/2312.10002v1)|null|
@@ -3853,6 +3863,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**|Shivam Pande et.al.|[2312.10798v1](http://arxiv.org/abs/2312.10798v1)|null|
+|**2023-12-17**|**Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**|Xiao Wang et.al.|[2312.10692v1](http://arxiv.org/abs/2312.10692v1)|null|
+|**2023-12-17**|**Explorers at #SMM4H 2023: Enhancing BERT for Health Applications through Knowledge and Model Fusion**|Xutong Yue et.al.|[2312.10652v1](http://arxiv.org/abs/2312.10652v1)|null|
+|**2023-12-17**|**Bi-directional Adapter for Multi-modal Tracking**|Bing Cao et.al.|[2312.10611v1](http://arxiv.org/abs/2312.10611v1)|**[link](https://github.com/sparktempest/bat)**|
+|**2023-12-17**|**A Dual Domain Multi-exposure Image Fusion Network based on the Spatial-Frequency Integration**|Guang Yang et.al.|[2312.10604v1](http://arxiv.org/abs/2312.10604v1)|null|
+|**2023-12-17**|**DER-GCN: Dialogue and Event Relation-Aware Graph Convolutional Neural Network for Multimodal Dialogue Emotion Recognition**|Wei Ai et.al.|[2312.10579v1](http://arxiv.org/abs/2312.10579v1)|null|
+|**2023-12-16**|**Machine Learning-Enhanced Prediction of Surface Smoothness for Inertial Confinement Fusion Target Polishing Using Limited Data**|Antonios Alexos et.al.|[2312.10553v1](http://arxiv.org/abs/2312.10553v1)|null|
+|**2023-12-16**|**PETDet: Proposal Enhancement for Two-Stage Fine-Grained Object Detection**|Wentao Li et.al.|[2312.10515v1](http://arxiv.org/abs/2312.10515v1)|**[link](https://github.com/canoe-z/petdet)**|
+|**2023-12-16**|**Enhancing Person Re-Identification through Tensor Feature Fusion**|Akram Abderraouf Gharbi et.al.|[2312.10470v1](http://arxiv.org/abs/2312.10470v1)|null|
+|**2023-12-16**|**Fusion of Deep and Shallow Features for Face Kinship Verification**|Belabbaci El Ouanas et.al.|[2312.10462v1](http://arxiv.org/abs/2312.10462v1)|null|
 |**2023-12-15**|**Quantum Generative Adversarial Networks: Bridging Classical and Quantum Realms**|Sahil Nokhwal et.al.|[2312.09939v1](http://arxiv.org/abs/2312.09939v1)|null|
 |**2023-12-15**|**Reactive collisions between electrons and BeH+ above dissociation threshold**|E. Djuissi et.al.|[2312.09923v1](http://arxiv.org/abs/2312.09923v1)|null|
 |**2023-12-15**|**Improved Wong and classical approximations, and reduction of fusion data**|L. F. Canto et.al.|[2312.09918v1](http://arxiv.org/abs/2312.09918v1)|null|
