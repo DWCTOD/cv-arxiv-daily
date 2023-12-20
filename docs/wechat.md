@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-19, **Tracking Any Object Amodally**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2312.12433v1](http://arxiv.org/abs/2312.12433v1)
+- 2023-12-19, **The Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment: Official Splits and Benchmark**, Aditya Murali et.al., Paper: [http://arxiv.org/abs/2312.12429v1](http://arxiv.org/abs/2312.12429v1)
+- 2023-12-19, **Chasing Fairness in Graphs: A GNN Architecture Perspective**, Zhimeng Jiang et.al., Paper: [http://arxiv.org/abs/2312.12369v1](http://arxiv.org/abs/2312.12369v1), Code: **[https://github.com/zhimengj0326/fmp](https://github.com/zhimengj0326/fmp)**
+- 2023-12-19, **Easy quantum groups**, Teo Banica et.al., Paper: [http://arxiv.org/abs/2312.12368v1](http://arxiv.org/abs/2312.12368v1)
+- 2023-12-19, **SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation**, Feixiang Zhou et.al., Paper: [http://arxiv.org/abs/2312.12347v1](http://arxiv.org/abs/2312.12347v1)
+- 2023-12-19, **On the Effectiveness of Retrieval, Alignment, and Replay in Manipulation**, Norman Di Palo et.al., Paper: [http://arxiv.org/abs/2312.12345v1](http://arxiv.org/abs/2312.12345v1)
+- 2023-12-19, **Full-reference Video Quality Assessment for User Generated Content Transcoding**, Zihao Qi et.al., Paper: [http://arxiv.org/abs/2312.12317v1](http://arxiv.org/abs/2312.12317v1)
+- 2023-12-19, **First qualitative observations on deep learning vision model YOLO and DETR for automated driving in Austria**, Stefan Schoder et.al., Paper: [http://arxiv.org/abs/2312.12314v1](http://arxiv.org/abs/2312.12314v1)
+- 2023-12-19, **Holography of New Conformal Higher Spin Gravities in 3d**, I. Lovrekovic et.al., Paper: [http://arxiv.org/abs/2312.12301v1](http://arxiv.org/abs/2312.12301v1)
+- 2023-12-19, **Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**, Junxiang Wang et.al., Paper: [http://arxiv.org/abs/2312.12276v1](http://arxiv.org/abs/2312.12276v1)
 - 2023-12-18, **Development and Evaluation of Ensemble Learning-based Environmental Methane Detection and Intensity Prediction Models**, Reek Majumder et.al., Paper: [http://arxiv.org/abs/2312.10879v1](http://arxiv.org/abs/2312.10879v1)
 - 2023-12-18, **Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**, Hui Fu et.al., Paper: [http://arxiv.org/abs/2312.10877v1](http://arxiv.org/abs/2312.10877v1)
 - 2023-12-17, **Global relaxation-based LP-Newton method for multiple hyperparameter selection in support vector classification with feature selection**, Qingna Li et.al., Paper: [http://arxiv.org/abs/2312.10848v1](http://arxiv.org/abs/2312.10848v1)
@@ -3855,6 +3865,16 @@
 
 ## MultiModal
 
+- 2023-12-19, **Scalable Near-Field Localization Based on Array Partitioning and Angle-of-Arrival Fusion**, Yuqing Zheng et.al., Paper: [http://arxiv.org/abs/2312.12342v1](http://arxiv.org/abs/2312.12342v1)
+- 2023-12-19, **PowMix: A Versatile Regularizer for Multimodal Sentiment Analysis**, Efthymios Georgiou et.al., Paper: [http://arxiv.org/abs/2312.12334v1](http://arxiv.org/abs/2312.12334v1)
+- 2023-12-19, **Describing Robots from Design to Learning: Towards an Interactive Lifecycle Representation of Robots**, Nuofan Qiu et.al., Paper: [http://arxiv.org/abs/2312.12295v1](http://arxiv.org/abs/2312.12295v1)
+- 2023-12-19, **On the center of near-group fusion category of type $\mathbb{Z}_3+6$**, Zhiqiang Yu et.al., Paper: [http://arxiv.org/abs/2312.12195v1](http://arxiv.org/abs/2312.12195v1)
+- 2023-12-19, **Ms-senet: Enhancing Speech Emotion Recognition Through Multi-scale Feature Fusion With Squeeze-and-excitation Blocks**, Mengbo Li et.al., Paper: [http://arxiv.org/abs/2312.11974v1](http://arxiv.org/abs/2312.11974v1)
+- 2023-12-19, **A Case Study in CUDA Kernel Fusion: Implementing FlashAttention-2 on NVIDIA Hopper Architecture using the CUTLASS Library**, Ganesh Bikshandi et.al., Paper: [http://arxiv.org/abs/2312.11918v1](http://arxiv.org/abs/2312.11918v1)
+- 2023-12-19, **EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**, Weipeng Guan et.al., Paper: [http://arxiv.org/abs/2312.11911v1](http://arxiv.org/abs/2312.11911v1)
+- 2023-12-19, **Hierarchical and Incremental Structural Entropy Minimization for Unsupervised Social Event Detection**, Yuwei Cao et.al., Paper: [http://arxiv.org/abs/2312.11891v1](http://arxiv.org/abs/2312.11891v1), Code: **[https://github.com/selgroup/hisevent](https://github.com/selgroup/hisevent)**
+- 2023-12-19, **Conceptual Design of a Low-Energy Ion Beam Storage Ring and a Recoil Separator to Study Radiative Neutron Capture by Radioactive Ions**, Kihong Pak et.al., Paper: [http://arxiv.org/abs/2312.11859v1](http://arxiv.org/abs/2312.11859v1)
+- 2023-12-18, **Time-Transformer: Integrating Local and Global Features for Better Time Series Generation**, Yuansan Liu et.al., Paper: [http://arxiv.org/abs/2312.11714v1](http://arxiv.org/abs/2312.11714v1)
 - 2023-12-17, **Land use/land cover classification of fused Sentinel-1 and Sentinel-2 imageries using ensembles of Random Forests**, Shivam Pande et.al., Paper: [http://arxiv.org/abs/2312.10798v1](http://arxiv.org/abs/2312.10798v1)
 - 2023-12-17, **Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2312.10692v1](http://arxiv.org/abs/2312.10692v1)
 - 2023-12-17, **Explorers at #SMM4H 2023: Enhancing BERT for Health Applications through Knowledge and Model Fusion**, Xutong Yue et.al., Paper: [http://arxiv.org/abs/2312.10652v1](http://arxiv.org/abs/2312.10652v1)
