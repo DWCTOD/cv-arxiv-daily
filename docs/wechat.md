@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-20, **Deep Learning on 3D Neural Fields**, Pierluigi Zama Ramirez et.al., Paper: [http://arxiv.org/abs/2312.13277v1](http://arxiv.org/abs/2312.13277v1)
+- 2023-12-20, **The 1/4-BPS building blocks of brane interactions**, Ben Eckardt et.al., Paper: [http://arxiv.org/abs/2312.13269v1](http://arxiv.org/abs/2312.13269v1)
+- 2023-12-20, **ClassLIE: Structure- and Illumination-Adaptive Classification for Low-Light Image Enhancement**, Zixiang Wei et.al., Paper: [http://arxiv.org/abs/2312.13265v1](http://arxiv.org/abs/2312.13265v1)
+- 2023-12-20, **Putting the p back in Prym**, Jeff Achter et.al., Paper: [http://arxiv.org/abs/2312.13263v1](http://arxiv.org/abs/2312.13263v1)
+- 2023-12-20, **The role of data embedding in equivariant quantum convolutional neural networks**, Sreetama Das et.al., Paper: [http://arxiv.org/abs/2312.13250v1](http://arxiv.org/abs/2312.13250v1)
+- 2023-12-20, **Enhancing Neural Training via a Correlated Dynamics Model**, Jonathan Brokman et.al., Paper: [http://arxiv.org/abs/2312.13247v1](http://arxiv.org/abs/2312.13247v1)
+- 2023-12-20, **SISMIK for brain MRI: Deep-learning-based motion estimation and model-based motion correction in k-space**, Oscar Dabrowski et.al., Paper: [http://arxiv.org/abs/2312.13220v1](http://arxiv.org/abs/2312.13220v1)
+- 2023-12-20, **Boost recall in QSO selection from highly imbalanced photometric datasets**, Giorgio Calderone et.al., Paper: [http://arxiv.org/abs/2312.13194v1](http://arxiv.org/abs/2312.13194v1)
+- 2023-12-20, **Ergodic measures for periodic type $\mathbb{Z}^m$-skew-products over Interval Exchange Transformations**, Yuriy Tumarkin et.al., Paper: [http://arxiv.org/abs/2312.13165v1](http://arxiv.org/abs/2312.13165v1)
+- 2023-12-20, **Underwater Acoustic Signal Recognition Based on Salient Features**, Minghao Chen et.al., Paper: [http://arxiv.org/abs/2312.13143v1](http://arxiv.org/abs/2312.13143v1)
 - 2023-12-19, **Tracking Any Object Amodally**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2312.12433v1](http://arxiv.org/abs/2312.12433v1)
 - 2023-12-19, **The Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment: Official Splits and Benchmark**, Aditya Murali et.al., Paper: [http://arxiv.org/abs/2312.12429v1](http://arxiv.org/abs/2312.12429v1)
 - 2023-12-19, **Chasing Fairness in Graphs: A GNN Architecture Perspective**, Zhimeng Jiang et.al., Paper: [http://arxiv.org/abs/2312.12369v1](http://arxiv.org/abs/2312.12369v1), Code: **[https://github.com/zhimengj0326/fmp](https://github.com/zhimengj0326/fmp)**
@@ -3865,6 +3875,16 @@
 
 ## MultiModal
 
+- 2023-12-20, **ClassLIE: Structure- and Illumination-Adaptive Classification for Low-Light Image Enhancement**, Zixiang Wei et.al., Paper: [http://arxiv.org/abs/2312.13265v1](http://arxiv.org/abs/2312.13265v1)
+- 2023-12-20, **Gappy local conformal auto-encoders for heterogeneous data fusion: in praise of rigidity**, Erez Peterfreund et.al., Paper: [http://arxiv.org/abs/2312.13155v1](http://arxiv.org/abs/2312.13155v1)
+- 2023-12-20, **Double Higgs production at the HL-LHC: probing a loop-enhanced model with kinematical distributions**, Leandro Da Rold et.al., Paper: [http://arxiv.org/abs/2312.13149v1](http://arxiv.org/abs/2312.13149v1)
+- 2023-12-20, **Complete fusion of $^6$Li with $^{28}$Si and $^{64}$Ni nuclei in the framework of the continuum discretized coupled channel method**, S. R. Souza et.al., Paper: [http://arxiv.org/abs/2312.13101v1](http://arxiv.org/abs/2312.13101v1)
+- 2023-12-20, **Enhancing Disruption Prediction through Bayesian Neural Network in KSTAR**, Jinsu Kim et.al., Paper: [http://arxiv.org/abs/2312.12979v1](http://arxiv.org/abs/2312.12979v1)
+- 2023-12-20, **Integration and Performance Analysis of Artificial Intelligence and Computer Vision Based on Deep Learning Algorithms**, Bo Liu et.al., Paper: [http://arxiv.org/abs/2312.12872v1](http://arxiv.org/abs/2312.12872v1)
+- 2023-12-20, **Multi-stages attention Breast cancer classification based on nonlinear spiking neural P neurons with autapses**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2312.12804v1](http://arxiv.org/abs/2312.12804v1)
+- 2023-12-20, **AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**, Beibei Jing et.al., Paper: [http://arxiv.org/abs/2312.12763v1](http://arxiv.org/abs/2312.12763v1)
+- 2023-12-20, **3D-CLMI: A Motor Imagery EEG Classification Model via Fusion of 3D-CNN and LSTM with Attention**, Shiwei Cheng et.al., Paper: [http://arxiv.org/abs/2312.12744v1](http://arxiv.org/abs/2312.12744v1)
+- 2023-12-20, **MetaSegNet: Metadata-collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images**, Libo Wang et.al., Paper: [http://arxiv.org/abs/2312.12735v1](http://arxiv.org/abs/2312.12735v1)
 - 2023-12-19, **Scalable Near-Field Localization Based on Array Partitioning and Angle-of-Arrival Fusion**, Yuqing Zheng et.al., Paper: [http://arxiv.org/abs/2312.12342v1](http://arxiv.org/abs/2312.12342v1)
 - 2023-12-19, **PowMix: A Versatile Regularizer for Multimodal Sentiment Analysis**, Efthymios Georgiou et.al., Paper: [http://arxiv.org/abs/2312.12334v1](http://arxiv.org/abs/2312.12334v1)
 - 2023-12-19, **Describing Robots from Design to Learning: Towards an Interactive Lifecycle Representation of Robots**, Nuofan Qiu et.al., Paper: [http://arxiv.org/abs/2312.12295v1](http://arxiv.org/abs/2312.12295v1)
