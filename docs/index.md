@@ -3890,7 +3890,7 @@ layout: default
 |**2023-12-20**|**Enhancing Disruption Prediction through Bayesian Neural Network in KSTAR**|Jinsu Kim et.al.|[2312.12979v1](http://arxiv.org/abs/2312.12979v1)|null|
 |**2023-12-20**|**Integration and Performance Analysis of Artificial Intelligence and Computer Vision Based on Deep Learning Algorithms**|Bo Liu et.al.|[2312.12872v1](http://arxiv.org/abs/2312.12872v1)|null|
 |**2023-12-20**|**Multi-stages attention Breast cancer classification based on nonlinear spiking neural P neurons with autapses**|Bo Yang et.al.|[2312.12804v1](http://arxiv.org/abs/2312.12804v1)|null|
-|**2023-12-20**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763v1](http://arxiv.org/abs/2312.12763v1)|null|
+|**2023-12-21**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763v2](http://arxiv.org/abs/2312.12763v2)|null|
 |**2023-12-20**|**3D-CLMI: A Motor Imagery EEG Classification Model via Fusion of 3D-CNN and LSTM with Attention**|Shiwei Cheng et.al.|[2312.12744v1](http://arxiv.org/abs/2312.12744v1)|null|
 |**2023-12-20**|**MetaSegNet: Metadata-collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images**|Libo Wang et.al.|[2312.12735v1](http://arxiv.org/abs/2312.12735v1)|null|
 |**2023-12-19**|**Scalable Near-Field Localization Based on Array Partitioning and Angle-of-Arrival Fusion**|Yuqing Zheng et.al.|[2312.12342v1](http://arxiv.org/abs/2312.12342v1)|null|
