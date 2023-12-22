@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157v1](http://arxiv.org/abs/2312.14157v1)|null|
+|**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|null|
+|**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140v1](http://arxiv.org/abs/2312.14140v1)|null|
+|**2023-12-21**|**Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach**|Qinying Liu et.al.|[2312.14138v1](http://arxiv.org/abs/2312.14138v1)|**[link](https://github.com/qinying-liu/case)**|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134v1](http://arxiv.org/abs/2312.14134v1)|null|
+|**2023-12-21**|**WellFactor: Patient Profiling using Integrative Embedding of Healthcare Data**|Dongjin Choi et.al.|[2312.14129v1](http://arxiv.org/abs/2312.14129v1)|null|
+|**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125v1](http://arxiv.org/abs/2312.14125v1)|null|
+|**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[2312.14115v1](http://arxiv.org/abs/2312.14115v1)|**[link](https://github.com/wayveai/lingoqa)**|
+|**2023-12-21**|**LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding**|Senqiao Yang et.al.|[2312.14074v1](http://arxiv.org/abs/2312.14074v1)|null|
 |**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277v1](http://arxiv.org/abs/2312.13277v1)|null|
 |**2023-12-20**|**The 1/4-BPS building blocks of brane interactions**|Ben Eckardt et.al.|[2312.13269v1](http://arxiv.org/abs/2312.13269v1)|null|
 |**2023-12-20**|**ClassLIE: Structure- and Illumination-Adaptive Classification for Low-Light Image Enhancement**|Zixiang Wei et.al.|[2312.13265v1](http://arxiv.org/abs/2312.13265v1)|null|
@@ -3879,6 +3889,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints**|TaeYoung Kim et.al.|[2312.14035v1](http://arxiv.org/abs/2312.14035v1)|null|
+|**2023-12-21**|**The Lyubashenko Modular Functor for Drinfeld Centers via Non-Semisimple String-Nets**|Lukas Müller et.al.|[2312.14010v1](http://arxiv.org/abs/2312.14010v1)|null|
+|**2023-12-21**|**Joint Sensing and Task-Oriented Communications with Image and Wireless Data Modalities for Dynamic Spectrum Access**|Yalin E. Sagduyu et.al.|[2312.13931v1](http://arxiv.org/abs/2312.13931v1)|null|
+|**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v1](http://arxiv.org/abs/2312.13913v1)|**[link](https://github.com/opentexture/paint3d)**|
+|**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881v1](http://arxiv.org/abs/2312.13881v1)|null|
+|**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873v1](http://arxiv.org/abs/2312.13873v1)|null|
+|**2023-12-21**|**UHZ1 and the other three most distant quasars observed: possible evidence for Supermassive Dark Stars**|Cosmin Ilie et.al.|[2312.13837v1](http://arxiv.org/abs/2312.13837v1)|null|
+|**2023-12-21**|**Reconstructing algebra objects from NIM-reps in pointed, near-group and quantum group-like fusion categories**|Samuel Hannah et.al.|[2312.13796v1](http://arxiv.org/abs/2312.13796v1)|null|
+|**2023-12-21**|**Pose-based Tremor Type and Level Analysis for Parkinson's Disease from Video**|Haozheng Zhang et.al.|[2312.13776v1](http://arxiv.org/abs/2312.13776v1)|null|
+|**2023-12-21**|**Machine Learning Based Compton Suppression for Nuclear Fusion Plasma Diagnostics**|Kimberley Lennon et.al.|[2312.13685v1](http://arxiv.org/abs/2312.13685v1)|null|
 |**2023-12-20**|**ClassLIE: Structure- and Illumination-Adaptive Classification for Low-Light Image Enhancement**|Zixiang Wei et.al.|[2312.13265v1](http://arxiv.org/abs/2312.13265v1)|null|
 |**2023-12-20**|**Gappy local conformal auto-encoders for heterogeneous data fusion: in praise of rigidity**|Erez Peterfreund et.al.|[2312.13155v1](http://arxiv.org/abs/2312.13155v1)|null|
 |**2023-12-20**|**Double Higgs production at the HL-LHC: probing a loop-enhanced model with kinematical distributions**|Leandro Da Rold et.al.|[2312.13149v1](http://arxiv.org/abs/2312.13149v1)|null|
