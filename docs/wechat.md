@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-22, **Training Convolutional Neural Networks with the Forward-Forward algorithm**, Riccardo Scodellaro et.al., Paper: [http://arxiv.org/abs/2312.14924v1](http://arxiv.org/abs/2312.14924v1)
+- 2023-12-22, **DRStageNet: Deep Learning for Diabetic Retinopathy Staging from Fundus Images**, Yevgeniy Men et.al., Paper: [http://arxiv.org/abs/2312.14891v1](http://arxiv.org/abs/2312.14891v1)
+- 2023-12-22, **On rate-optimal classification from non-private and from private data**, Balázs Csanád Csáji et.al., Paper: [http://arxiv.org/abs/2312.14889v1](http://arxiv.org/abs/2312.14889v1)
+- 2023-12-22, **Classification of cubic tricirculant nut graphs**, Ivan Damnjanović et.al., Paper: [http://arxiv.org/abs/2312.14884v1](http://arxiv.org/abs/2312.14884v1)
+- 2023-12-22, **Neural-network-based regularization methods for inverse problems in imaging**, Andreas Habring et.al., Paper: [http://arxiv.org/abs/2312.14849v1](http://arxiv.org/abs/2312.14849v1)
+- 2023-12-22, **Classification of 3-GNDB Graphs**, Amir Hosseini et.al., Paper: [http://arxiv.org/abs/2312.14835v1](http://arxiv.org/abs/2312.14835v1)
+- 2023-12-22, **Dreaming of Electrical Waves: Generative Modeling of Cardiac Excitation Waves using Diffusion Models**, Tanish Baranwal et.al., Paper: [http://arxiv.org/abs/2312.14830v1](http://arxiv.org/abs/2312.14830v1)
+- 2023-12-22, **Classification of generalised higher-order Einstein-Maxwell Lagrangians**, Aimeric Colléaux et.al., Paper: [http://arxiv.org/abs/2312.14814v1](http://arxiv.org/abs/2312.14814v1)
+- 2023-12-22, **On support vector machines under a multiple-cost scenario**, Sandra Benítez-Peña et.al., Paper: [http://arxiv.org/abs/2312.14795v1](http://arxiv.org/abs/2312.14795v1)
+- 2023-12-22, **The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs**, Junli Fang et.al., Paper: [http://arxiv.org/abs/2312.14792v1](http://arxiv.org/abs/2312.14792v1)
 - 2023-12-21, **3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**, Christen Millerdurai et.al., Paper: [http://arxiv.org/abs/2312.14157v1](http://arxiv.org/abs/2312.14157v1)
 - 2023-12-21, **Virtual Pets: Animatable Animal Generation in 3D Scenes**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2312.14154v1](http://arxiv.org/abs/2312.14154v1)
 - 2023-12-21, **TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**, Qinying Liu et.al., Paper: [http://arxiv.org/abs/2312.14149v1](http://arxiv.org/abs/2312.14149v1), Code: **[https://github.com/Qinying-Liu/TagAlign_code](https://github.com/Qinying-Liu/TagAlign_code)**
@@ -3885,6 +3895,16 @@
 
 ## MultiModal
 
+- 2023-12-22, **Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**, James Gunn et.al., Paper: [http://arxiv.org/abs/2312.14919v1](http://arxiv.org/abs/2312.14919v1)
+- 2023-12-22, **Fusion of irreducible modules in the periodic Temperley--Lieb algebra**, Yacine Ikhlef et.al., Paper: [http://arxiv.org/abs/2312.14837v1](http://arxiv.org/abs/2312.14837v1)
+- 2023-12-22, **To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**, Christian Lanegger et.al., Paper: [http://arxiv.org/abs/2312.14730v1](http://arxiv.org/abs/2312.14730v1)
+- 2023-12-22, **SCUNet++: Assessment of Pulmonary Embolism CT Image Segmentation Leveraging Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection**, Yifei Chen et.al., Paper: [http://arxiv.org/abs/2312.14705v1](http://arxiv.org/abs/2312.14705v1), Code: **[https://github.com/justlfc03/scunet-plusplus](https://github.com/justlfc03/scunet-plusplus)**
+- 2023-12-22, **DDistill-SR: Reparameterized Dynamic Distillation Network for Lightweight Image Super-Resolution**, Yan Wang et.al., Paper: [http://arxiv.org/abs/2312.14551v1](http://arxiv.org/abs/2312.14551v1)
+- 2023-12-22, **Multi-view user representation learning for user matching without personal information**, Hongliu Cao et.al., Paper: [http://arxiv.org/abs/2312.14533v1](http://arxiv.org/abs/2312.14533v1)
+- 2023-12-22, **Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation**, Wenxi Yue et.al., Paper: [http://arxiv.org/abs/2312.14481v1](http://arxiv.org/abs/2312.14481v1), Code: **[https://github.com/wenxi-yue/surgicalpart-sam](https://github.com/wenxi-yue/surgicalpart-sam)**
+- 2023-12-22, **Prototype-based Cross-Modal Object Tracking**, Lei Liu et.al., Paper: [http://arxiv.org/abs/2312.14471v1](http://arxiv.org/abs/2312.14471v1)
+- 2023-12-22, **Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset**, Lei Liu et.al., Paper: [http://arxiv.org/abs/2312.14446v1](http://arxiv.org/abs/2312.14446v1)
+- 2023-12-22, **A Multi-Stage Adaptive Feature Fusion Neural Network for Multimodal Gait Recognition**, Shinan Zou et.al., Paper: [http://arxiv.org/abs/2312.14410v1](http://arxiv.org/abs/2312.14410v1), Code: **[https://github.com/shinanzou/msaff](https://github.com/shinanzou/msaff)**
 - 2023-12-21, **GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints**, TaeYoung Kim et.al., Paper: [http://arxiv.org/abs/2312.14035v1](http://arxiv.org/abs/2312.14035v1), Code: **[https://github.com/taeyoung96/gril-calib](https://github.com/taeyoung96/gril-calib)**
 - 2023-12-21, **The Lyubashenko Modular Functor for Drinfeld Centers via Non-Semisimple String-Nets**, Lukas Müller et.al., Paper: [http://arxiv.org/abs/2312.14010v1](http://arxiv.org/abs/2312.14010v1)
 - 2023-12-21, **Joint Sensing and Task-Oriented Communications with Image and Wireless Data Modalities for Dynamic Spectrum Access**, Yalin E. Sagduyu et.al., Paper: [http://arxiv.org/abs/2312.13931v1](http://arxiv.org/abs/2312.13931v1)
