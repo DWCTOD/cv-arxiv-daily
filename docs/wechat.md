@@ -2,7 +2,7 @@
 
 ## Video_Classification
 
-- 2023-12-22, **Training Convolutional Neural Networks with the Forward-Forward algorithm**, Riccardo Scodellaro et.al., Paper: [http://arxiv.org/abs/2312.14924v1](http://arxiv.org/abs/2312.14924v1)
+- 2023-12-25, **Training Convolutional Neural Networks with the Forward-Forward algorithm**, Riccardo Scodellaro et.al., Paper: [http://arxiv.org/abs/2312.14924v2](http://arxiv.org/abs/2312.14924v2)
 - 2023-12-22, **DRStageNet: Deep Learning for Diabetic Retinopathy Staging from Fundus Images**, Yevgeniy Men et.al., Paper: [http://arxiv.org/abs/2312.14891v1](http://arxiv.org/abs/2312.14891v1)
 - 2023-12-22, **On rate-optimal classification from non-private and from private data**, Balázs Csanád Csáji et.al., Paper: [http://arxiv.org/abs/2312.14889v1](http://arxiv.org/abs/2312.14889v1)
 - 2023-12-22, **Classification of cubic tricirculant nut graphs**, Ivan Damnjanović et.al., Paper: [http://arxiv.org/abs/2312.14884v1](http://arxiv.org/abs/2312.14884v1)
