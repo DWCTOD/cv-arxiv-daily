@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-26, **Microwave signal processing using an analog quantum reservoir computer**, Alen Senanian et.al., Paper: [http://arxiv.org/abs/2312.16166v1](http://arxiv.org/abs/2312.16166v1)
+- 2023-12-26, **Large-scale Long-tailed Disease Diagnosis on Radiology Images**, Qiaoyu Zheng et.al., Paper: [http://arxiv.org/abs/2312.16151v1](http://arxiv.org/abs/2312.16151v1)
+- 2023-12-26, **The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias**, Timo Spinde et.al., Paper: [http://arxiv.org/abs/2312.16148v1](http://arxiv.org/abs/2312.16148v1), Code: **[https://github.com/media-bias-group/media-bias-taxonomy](https://github.com/media-bias-group/media-bias-taxonomy)**
+- 2023-12-26, **The non-Abelian Aharonov-Bohm effect**, P. A. Horvathy et.al., Paper: [http://arxiv.org/abs/2312.16133v1](http://arxiv.org/abs/2312.16133v1)
+- 2023-12-26, **LangSplat: 3D Language Gaussian Splatting**, Minghan Qin et.al., Paper: [http://arxiv.org/abs/2312.16084v1](http://arxiv.org/abs/2312.16084v1)
+- 2023-12-26, **AdaNAS: Adaptively Post-processing with Self-supervised Neural Architecture Search for Ensemble Rainfall Forecasts**, Yingpeng Wen et.al., Paper: [http://arxiv.org/abs/2312.16046v1](http://arxiv.org/abs/2312.16046v1)
+- 2023-12-26, **An extended asymmetric sigmoid with Perceptron (SIGTRON) for imbalanced linear classification**, Hyenkyun Woo et.al., Paper: [http://arxiv.org/abs/2312.16043v1](http://arxiv.org/abs/2312.16043v1)
+- 2023-12-26, **Multi-scale Progressive Feature Embedding for Accurate NIR-to-RGB Spectral Domain Translation**, Xingxing Yang et.al., Paper: [http://arxiv.org/abs/2312.16040v1](http://arxiv.org/abs/2312.16040v1)
+- 2023-12-26, **Plug-and-Play Regularization on Magnitude with Deep Priors for 3D Near-Field MIMO Imaging**, Okyanus Oral et.al., Paper: [http://arxiv.org/abs/2312.16024v1](http://arxiv.org/abs/2312.16024v1)
+- 2023-12-26, **Classification of positive solutions of Hardy-Sobolev equation without the finite volume constraints**, Lu Chen et.al., Paper: [http://arxiv.org/abs/2312.16017v1](http://arxiv.org/abs/2312.16017v1)
 - 2023-12-25, **Training Convolutional Neural Networks with the Forward-Forward algorithm**, Riccardo Scodellaro et.al., Paper: [http://arxiv.org/abs/2312.14924v2](http://arxiv.org/abs/2312.14924v2)
 - 2023-12-22, **DRStageNet: Deep Learning for Diabetic Retinopathy Staging from Fundus Images**, Yevgeniy Men et.al., Paper: [http://arxiv.org/abs/2312.14891v1](http://arxiv.org/abs/2312.14891v1)
 - 2023-12-22, **On rate-optimal classification from non-private and from private data**, Balázs Csanád Csáji et.al., Paper: [http://arxiv.org/abs/2312.14889v1](http://arxiv.org/abs/2312.14889v1)
@@ -3895,6 +3905,16 @@
 
 ## MultiModal
 
+- 2023-12-26, **Dual-scale Enhanced and Cross-generative Consistency Learning for Semi-supervised Polyp Segmentation**, Yunqi Gu et.al., Paper: [http://arxiv.org/abs/2312.16039v1](http://arxiv.org/abs/2312.16039v1)
+- 2023-12-26, **Ensemble Learning to Assess Dynamics of Affective Experience Ratings and Physiological Change**, Felix Dollack et.al., Paper: [http://arxiv.org/abs/2312.16036v1](http://arxiv.org/abs/2312.16036v1)
+- 2023-12-26, **On a class of fusion 2-category symmetry: condensation completion of braided fusion category**, Wenjie Xi et.al., Paper: [http://arxiv.org/abs/2312.15947v1](http://arxiv.org/abs/2312.15947v1)
+- 2023-12-26, **Video Frame Interpolation with Region-Distinguishable Priors from SAM**, Yan Han et.al., Paper: [http://arxiv.org/abs/2312.15868v1](http://arxiv.org/abs/2312.15868v1)
+- 2023-12-26, **Geometric-Aware Low-Light Image and Video Enhancement via Depth Guidance**, Yingqi Lin et.al., Paper: [http://arxiv.org/abs/2312.15855v1](http://arxiv.org/abs/2312.15855v1)
+- 2023-12-25, **Lp-Norm Constrained One-Class Classifier Combination**, Sepehr Nourmohammadi et.al., Paper: [http://arxiv.org/abs/2312.15769v1](http://arxiv.org/abs/2312.15769v1)
+- 2023-12-25, **DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection**, Li Xiang et.al., Paper: [http://arxiv.org/abs/2312.15742v1](http://arxiv.org/abs/2312.15742v1)
+- 2023-12-25, **Notes on Information Propagation in Noisy Multichannel Data Models: Insights into Sensor Selection and Fusion in Multimodal Biomedical Applications**, Reza Sameni et.al., Paper: [http://arxiv.org/abs/2312.15725v1](http://arxiv.org/abs/2312.15725v1)
+- 2023-12-25, **UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces**, Jiannan Wu et.al., Paper: [http://arxiv.org/abs/2312.15715v1](http://arxiv.org/abs/2312.15715v1), Code: **[https://github.com/foundationvision/uniref](https://github.com/foundationvision/uniref)**
+- 2023-12-25, **Instruction Fusion: Advancing Prompt Evolution through Hybridization**, Weidong Guo et.al., Paper: [http://arxiv.org/abs/2312.15692v1](http://arxiv.org/abs/2312.15692v1)
 - 2023-12-22, **Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**, James Gunn et.al., Paper: [http://arxiv.org/abs/2312.14919v1](http://arxiv.org/abs/2312.14919v1)
 - 2023-12-22, **Fusion of irreducible modules in the periodic Temperley--Lieb algebra**, Yacine Ikhlef et.al., Paper: [http://arxiv.org/abs/2312.14837v1](http://arxiv.org/abs/2312.14837v1)
 - 2023-12-22, **To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**, Christian Lanegger et.al., Paper: [http://arxiv.org/abs/2312.14730v1](http://arxiv.org/abs/2312.14730v1)
