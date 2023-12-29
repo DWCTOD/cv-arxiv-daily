@@ -4,7 +4,7 @@
 
 - 2023-12-26, **Microwave signal processing using an analog quantum reservoir computer**, Alen Senanian et.al., Paper: [http://arxiv.org/abs/2312.16166v1](http://arxiv.org/abs/2312.16166v1)
 - 2023-12-26, **Large-scale Long-tailed Disease Diagnosis on Radiology Images**, Qiaoyu Zheng et.al., Paper: [http://arxiv.org/abs/2312.16151v1](http://arxiv.org/abs/2312.16151v1)
-- 2023-12-26, **The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias**, Timo Spinde et.al., Paper: [http://arxiv.org/abs/2312.16148v1](http://arxiv.org/abs/2312.16148v1), Code: **[https://github.com/media-bias-group/media-bias-taxonomy](https://github.com/media-bias-group/media-bias-taxonomy)**
+- 2023-12-27, **The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias**, Timo Spinde et.al., Paper: [http://arxiv.org/abs/2312.16148v2](http://arxiv.org/abs/2312.16148v2), Code: **[https://github.com/media-bias-group/media-bias-taxonomy](https://github.com/media-bias-group/media-bias-taxonomy)**
 - 2023-12-26, **The non-Abelian Aharonov-Bohm effect**, P. A. Horvathy et.al., Paper: [http://arxiv.org/abs/2312.16133v1](http://arxiv.org/abs/2312.16133v1)
 - 2023-12-26, **LangSplat: 3D Language Gaussian Splatting**, Minghan Qin et.al., Paper: [http://arxiv.org/abs/2312.16084v1](http://arxiv.org/abs/2312.16084v1)
 - 2023-12-26, **AdaNAS: Adaptively Post-processing with Self-supervised Neural Architecture Search for Ensemble Rainfall Forecasts**, Yingpeng Wen et.al., Paper: [http://arxiv.org/abs/2312.16046v1](http://arxiv.org/abs/2312.16046v1)
@@ -3914,7 +3914,7 @@
 - 2023-12-25, **DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection**, Li Xiang et.al., Paper: [http://arxiv.org/abs/2312.15742v1](http://arxiv.org/abs/2312.15742v1)
 - 2023-12-25, **Notes on Information Propagation in Noisy Multichannel Data Models: Insights into Sensor Selection and Fusion in Multimodal Biomedical Applications**, Reza Sameni et.al., Paper: [http://arxiv.org/abs/2312.15725v1](http://arxiv.org/abs/2312.15725v1)
 - 2023-12-25, **UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces**, Jiannan Wu et.al., Paper: [http://arxiv.org/abs/2312.15715v1](http://arxiv.org/abs/2312.15715v1), Code: **[https://github.com/foundationvision/uniref](https://github.com/foundationvision/uniref)**
-- 2023-12-25, **Instruction Fusion: Advancing Prompt Evolution through Hybridization**, Weidong Guo et.al., Paper: [http://arxiv.org/abs/2312.15692v1](http://arxiv.org/abs/2312.15692v1)
+- 2023-12-27, **Instruction Fusion: Advancing Prompt Evolution through Hybridization**, Weidong Guo et.al., Paper: [http://arxiv.org/abs/2312.15692v2](http://arxiv.org/abs/2312.15692v2)
 - 2023-12-22, **Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**, James Gunn et.al., Paper: [http://arxiv.org/abs/2312.14919v1](http://arxiv.org/abs/2312.14919v1)
 - 2023-12-22, **Fusion of irreducible modules in the periodic Temperley--Lieb algebra**, Yacine Ikhlef et.al., Paper: [http://arxiv.org/abs/2312.14837v1](http://arxiv.org/abs/2312.14837v1)
 - 2023-12-22, **To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**, Christian Lanegger et.al., Paper: [http://arxiv.org/abs/2312.14730v1](http://arxiv.org/abs/2312.14730v1)
