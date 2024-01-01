@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2023-12-29, **Computational Tools for Trees in Gauge Theory and Gravity**, Jacob L. Bourjaily et.al., Paper: [http://arxiv.org/abs/2312.17745v1](http://arxiv.org/abs/2312.17745v1)
+- 2023-12-29, **Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization**, Ioanna Ntinou et.al., Paper: [http://arxiv.org/abs/2312.17686v1](http://arxiv.org/abs/2312.17686v1)
+- 2023-12-29, **Malware Detection in IOT Systems Using Machine Learning Techniques**, Ali Mehrban et.al., Paper: [http://arxiv.org/abs/2312.17683v1](http://arxiv.org/abs/2312.17683v1)
+- 2023-12-29, **FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**, Feng Liang et.al., Paper: [http://arxiv.org/abs/2312.17681v1](http://arxiv.org/abs/2312.17681v1)
+- 2023-12-29, **Grasping, Part Identification, and Pose Refinement in One Shot with a Tactile Gripper**, Joyce Xin-Yan Lim et.al., Paper: [http://arxiv.org/abs/2312.17650v1](http://arxiv.org/abs/2312.17650v1)
+- 2023-12-29, **MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**, Yang Feng et.al., Paper: [http://arxiv.org/abs/2312.17641v1](http://arxiv.org/abs/2312.17641v1)
+- 2023-12-29, **A New Explanation of the Mechanism of Hadley Circulation**, Wei Huang et.al., Paper: [http://arxiv.org/abs/2312.17637v1](http://arxiv.org/abs/2312.17637v1)
+- 2023-12-29, **Towards Faithful Explanations for Text Classification with Robustness Improvement and Explanation Guided Training**, Dongfang Li et.al., Paper: [http://arxiv.org/abs/2312.17591v1](http://arxiv.org/abs/2312.17591v1)
+- 2023-12-29, **A Tool for the Procedural Generation of Shaders using Interactive Evolutionary Algorithms**, Elio Sasso et.al., Paper: [http://arxiv.org/abs/2312.17587v1](http://arxiv.org/abs/2312.17587v1), Code: **[https://github.com/pierlucalanzi/procedural-generation-of-shaders-using-interactive-evolutionary-algorithms](https://github.com/pierlucalanzi/procedural-generation-of-shaders-using-interactive-evolutionary-algorithms)**
+- 2023-12-29, **Distribution-based Low-rank Embedding**, Bardia Yousefi et.al., Paper: [http://arxiv.org/abs/2312.17579v1](http://arxiv.org/abs/2312.17579v1)
 - 2023-12-28, **A Simple LLM Framework for Long-Range Video Question-Answering**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2312.17235v1](http://arxiv.org/abs/2312.17235v1)
 - 2023-12-28, **4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**, Yuyang Yin et.al., Paper: [http://arxiv.org/abs/2312.17225v1](http://arxiv.org/abs/2312.17225v1)
 - 2023-12-28, **EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**, Trung Tuan Dao et.al., Paper: [http://arxiv.org/abs/2312.17205v1](http://arxiv.org/abs/2312.17205v1)
@@ -3915,6 +3925,14 @@
 
 ## MultiModal
 
+- 2023-12-29, **Prompt Fuzzing for Fuzz Driver Generation**, Yunlong Lyu et.al., Paper: [http://arxiv.org/abs/2312.17677v1](http://arxiv.org/abs/2312.17677v1)
+- 2023-12-29, **MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**, Yang Feng et.al., Paper: [http://arxiv.org/abs/2312.17641v1](http://arxiv.org/abs/2312.17641v1)
+- 2023-12-29, **Significance of the compound nucleus surface energy coefficients in the synthesis of the superheavy nuclei with $\textbf{Z=112-120}$**, R. Zargini et.al., Paper: [http://arxiv.org/abs/2312.17567v1](http://arxiv.org/abs/2312.17567v1)
+- 2023-12-29, **A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**, Giulia Di Teodoro et.al., Paper: [http://arxiv.org/abs/2312.17506v1](http://arxiv.org/abs/2312.17506v1)
+- 2023-12-29, **Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learning for Drug Property Prediction**, Xiaohua Lu et.al., Paper: [http://arxiv.org/abs/2312.17495v1](http://arxiv.org/abs/2312.17495v1)
+- 2023-12-28, **The Club Sandwich: Gapless Phases and Phase Transitions with Non-Invertible Symmetries**, Lakshya Bhardwaj et.al., Paper: [http://arxiv.org/abs/2312.17322v1](http://arxiv.org/abs/2312.17322v1)
+- 2023-12-28, **Combined Explanation of LHC Multi-Lepton, Di-Photon and Top-Quark Excesses**, Guglielmo Coloretti et.al., Paper: [http://arxiv.org/abs/2312.17314v1](http://arxiv.org/abs/2312.17314v1)
+- 2023-12-28, **Non-Invertible Symmetry in Calabi-Yau Conformal Field Theories**, Clay Cordova et.al., Paper: [http://arxiv.org/abs/2312.17308v1](http://arxiv.org/abs/2312.17308v1)
 - 2023-12-28, **Production of super-heavy nuclei in hot-fusion reactions**, V. Yu. Denisov et.al., Paper: [http://arxiv.org/abs/2312.17084v1](http://arxiv.org/abs/2312.17084v1)
 - 2023-12-28, **Multi-Attention Fusion Drowsy Driving Detection Model**, Shulei QU et.al., Paper: [http://arxiv.org/abs/2312.17052v1](http://arxiv.org/abs/2312.17052v1)
 - 2023-12-28, **AI Powered Road Network Prediction with Multi-Modal Data**, Necip Enes Gengec et.al., Paper: [http://arxiv.org/abs/2312.17040v1](http://arxiv.org/abs/2312.17040v1)
