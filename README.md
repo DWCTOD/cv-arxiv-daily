@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339v1](http://arxiv.org/abs/2401.01339v1)|null|
+|**2024-01-02**|**Classifying Words with 3-sort Automata**|Tomasz Jastrząb et.al.|[2401.01314v1](http://arxiv.org/abs/2401.01314v1)|null|
+|**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313v1](http://arxiv.org/abs/2401.01313v1)|null|
+|**2024-01-02**|**Integrating Edges into U-Net Models with Explainable Activation Maps for Brain Tumor Segmentation using MR Images**|Subin Sahayam et.al.|[2401.01303v1](http://arxiv.org/abs/2401.01303v1)|null|
+|**2024-01-02**|**$f$-Divergence Based Classification: Beyond the Use of Cross-Entropy**|Nicola Novello et.al.|[2401.01268v1](http://arxiv.org/abs/2401.01268v1)|**[link](https://github.com/tonellolab/discriminative-classification-fdiv)**|
+|**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256v1](http://arxiv.org/abs/2401.01256v1)|null|
+|**2024-01-02**|**An operational approach to classifying measurement incompatibility**|Arun Kumar Das et.al.|[2401.01236v1](http://arxiv.org/abs/2401.01236v1)|null|
+|**2024-01-02**|**Distribution Matching for Multi-Task Learning of Classification Tasks: a Large-Scale Study on Faces & Beyond**|Dimitrios Kollias et.al.|[2401.01219v1](http://arxiv.org/abs/2401.01219v1)|null|
+|**2024-01-02**|**FGENet: Fine-Grained Extraction Network for Congested Crowd Counting**|Hao-Yuan Ma et.al.|[2401.01208v1](http://arxiv.org/abs/2401.01208v1)|null|
+|**2024-01-02**|**Whole-examination AI estimation of fetal biometrics from 20-week ultrasound scans**|Lorenzo Venturini et.al.|[2401.01201v1](http://arxiv.org/abs/2401.01201v1)|null|
 |**2023-12-29**|**Computational Tools for Trees in Gauge Theory and Gravity**|Jacob L. Bourjaily et.al.|[2312.17745v1](http://arxiv.org/abs/2312.17745v1)|null|
 |**2023-12-29**|**Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization**|Ioanna Ntinou et.al.|[2312.17686v1](http://arxiv.org/abs/2312.17686v1)|null|
 |**2023-12-29**|**Malware Detection in IOT Systems Using Machine Learning Techniques**|Ali Mehrban et.al.|[2312.17683v1](http://arxiv.org/abs/2312.17683v1)|null|
@@ -3929,6 +3939,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Metastability of stratified magnetohydrostatic equilibria and their relaxation**|David N. Hosking et.al.|[2401.01336v1](http://arxiv.org/abs/2401.01336v1)|null|
+|**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304v1](http://arxiv.org/abs/2401.01304v1)|null|
+|**2024-01-02**|**FGENet: Fine-Grained Extraction Network for Congested Crowd Counting**|Hao-Yuan Ma et.al.|[2401.01208v1](http://arxiv.org/abs/2401.01208v1)|null|
+|**2024-01-02**|**Quadratic Time-Frequency Analysis of Vibration Signals for Diagnosing Bearing Faults**|Mohammad Al-Sa'd et.al.|[2401.01172v1](http://arxiv.org/abs/2401.01172v1)|null|
+|**2024-01-02**|**Privacy Preserving Personal Assistant with On-Device Diarization and Spoken Dialogue System for Home and Beyond**|Gérard Chollet et.al.|[2401.01146v1](http://arxiv.org/abs/2401.01146v1)|null|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v1](http://arxiv.org/abs/2401.01081v1)|null|
+|**2024-01-02**|**Braiding and fusion of Majorana fermions in minimal Kitaev spin liquid on a single hexagon with $5$ qubits**|Motohiko Ezawa et.al.|[2401.01051v1](http://arxiv.org/abs/2401.01051v1)|null|
+|**2024-01-02**|**Real-Time Object Detection in Occluded Environment with Background Cluttering Effects Using Deep Learning**|Syed Muhammad Aamir et.al.|[2401.00986v1](http://arxiv.org/abs/2401.00986v1)|null|
+|**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979v1](http://arxiv.org/abs/2401.00979v1)|null|
+|**2024-01-01**|**Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases**|Yifei Chen et.al.|[2401.00926v1](http://arxiv.org/abs/2401.00926v1)|**[link](https://github.com/justlfc03/mfds-detr)**|
 |**2023-12-29**|**Prompt Fuzzing for Fuzz Driver Generation**|Yunlong Lyu et.al.|[2312.17677v1](http://arxiv.org/abs/2312.17677v1)|null|
 |**2023-12-29**|**MoD2T:Model-Data-Driven Motion-Static Object Tracking Method**|Yang Feng et.al.|[2312.17641v1](http://arxiv.org/abs/2312.17641v1)|null|
 |**2023-12-29**|**Significance of the compound nucleus surface energy coefficients in the synthesis of the superheavy nuclei with $\textbf{Z=112-120}$**|R. Zargini et.al.|[2312.17567v1](http://arxiv.org/abs/2312.17567v1)|null|
