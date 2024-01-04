@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Profinite equivariant spectra and their tensor-triangular geometry**|Scott Balchin et.al.|[2401.01878v1](http://arxiv.org/abs/2401.01878v1)|null|
+|**2024-01-03**|**A spatial mixture model for spaceborne lidar observations over mixed forest and non-forest land types**|Paul B. May et.al.|[2401.01848v1](http://arxiv.org/abs/2401.01848v1)|null|
+|**2024-01-03**|**Teaching with a companion: the case of gravity**|Iuliia Zhurakovskaia et.al.|[2401.01832v1](http://arxiv.org/abs/2401.01832v1)|null|
+|**2024-01-03**|**Iterative Mask Filling: An Effective Text Augmentation Method Using Masked Language Modeling**|Himmet Toprak Kesgin et.al.|[2401.01830v1](http://arxiv.org/abs/2401.01830v1)|null|
+|**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827v1](http://arxiv.org/abs/2401.01827v1)|**[link](https://github.com/salesforce/lavis)**|
+|**2024-01-03**|**Detours for Navigating Instructional Videos**|Kumar Ashutosh et.al.|[2401.01823v1](http://arxiv.org/abs/2401.01823v1)|null|
+|**2024-01-03**|**SENS3: Multisensory Database of Finger-Surface Interactions and Corresponding Sensations**|Jagan K. Balasubramanian et.al.|[2401.01818v1](http://arxiv.org/abs/2401.01818v1)|null|
+|**2024-01-03**|**Signal Processing in the Retina: Interpretable Graph Classifier to Predict Ganglion Cell Responses**|Yasaman Parhizkar et.al.|[2401.01813v1](http://arxiv.org/abs/2401.01813v1)|null|
+|**2024-01-03**|**Efficient Computation of Confidence Sets Using Classification on Equidistributed Grids**|Lujie Zhou et.al.|[2401.01804v1](http://arxiv.org/abs/2401.01804v1)|null|
+|**2024-01-03**|**An experimental sorting method for improving metagenomic data encoding**|Diogo Pratas et.al.|[2401.01786v1](http://arxiv.org/abs/2401.01786v1)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339v1](http://arxiv.org/abs/2401.01339v1)|null|
 |**2024-01-02**|**Classifying Words with 3-sort Automata**|Tomasz Jastrząb et.al.|[2401.01314v1](http://arxiv.org/abs/2401.01314v1)|null|
 |**2024-01-03**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313v2](http://arxiv.org/abs/2401.01313v2)|null|
@@ -3943,6 +3953,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822v1](http://arxiv.org/abs/2401.01822v1)|null|
+|**2024-01-03**|**STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion**|Wei Yao et.al.|[2401.01730v1](http://arxiv.org/abs/2401.01730v1)|null|
+|**2024-01-03**|**Modality Exchange Network for Retinogeniculate Visual Pathway Segmentation**|Hua Han et.al.|[2401.01685v1](http://arxiv.org/abs/2401.01685v1)|null|
+|**2024-01-03**|**Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens**|Dengdi Sun et.al.|[2401.01674v1](http://arxiv.org/abs/2401.01674v1)|null|
+|**2024-01-03**|**CodeFuse-Query: A Data-Centric Static Code Analysis System for Large-Scale Organizations**|Xiaoheng Xie et.al.|[2401.01571v1](http://arxiv.org/abs/2401.01571v1)|null|
+|**2024-01-03**|**AttentionLut: Attention Fusion-based Canonical Polyadic LUT for Real-time Image Enhancement**|Kang Fu et.al.|[2401.01569v1](http://arxiv.org/abs/2401.01569v1)|null|
+|**2024-01-03**|**One-Step Late Fusion Multi-view Clustering with Compressed Subspace**|Qiyuan Ou et.al.|[2401.01558v1](http://arxiv.org/abs/2401.01558v1)|null|
+|**2024-01-03**|**A Two-Stage Multimodal Emotion Recognition Model Based on Graph Contrastive Learning**|Wei Ai et.al.|[2401.01495v1](http://arxiv.org/abs/2401.01495v1)|null|
+|**2024-01-02**|**Efficient Hybrid Zoom using Camera Fusion on Mobile Phones**|Xiaotong Wu et.al.|[2401.01461v1](http://arxiv.org/abs/2401.01461v1)|null|
+|**2024-01-02**|**Indoor Obstacle Discovery on Reflective Ground via Monocular Camera**|Feng Xue et.al.|[2401.01445v1](http://arxiv.org/abs/2401.01445v1)|**[link](https://github.com/xuefengbupt/indoorobstaclediscovery-rg)**|
 |**2024-01-02**|**Metastability of stratified magnetohydrostatic equilibria and their relaxation**|David N. Hosking et.al.|[2401.01336v1](http://arxiv.org/abs/2401.01336v1)|null|
 |**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304v1](http://arxiv.org/abs/2401.01304v1)|null|
 |**2024-01-02**|**FGENet: Fine-Grained Extraction Network for Congested Crowd Counting**|Hao-Yuan Ma et.al.|[2401.01208v1](http://arxiv.org/abs/2401.01208v1)|null|
