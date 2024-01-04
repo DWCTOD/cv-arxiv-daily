@@ -4,12 +4,12 @@
 
 - 2024-01-02, **Street Gaussians for Modeling Dynamic Urban Scenes**, Yunzhi Yan et.al., Paper: [http://arxiv.org/abs/2401.01339v1](http://arxiv.org/abs/2401.01339v1)
 - 2024-01-02, **Classifying Words with 3-sort Automata**, Tomasz Jastrząb et.al., Paper: [http://arxiv.org/abs/2401.01314v1](http://arxiv.org/abs/2401.01314v1)
-- 2024-01-02, **A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**, S. M Towhidul Islam Tonmoy et.al., Paper: [http://arxiv.org/abs/2401.01313v1](http://arxiv.org/abs/2401.01313v1)
+- 2024-01-03, **A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**, S. M Towhidul Islam Tonmoy et.al., Paper: [http://arxiv.org/abs/2401.01313v2](http://arxiv.org/abs/2401.01313v2)
 - 2024-01-02, **Integrating Edges into U-Net Models with Explainable Activation Maps for Brain Tumor Segmentation using MR Images**, Subin Sahayam et.al., Paper: [http://arxiv.org/abs/2401.01303v1](http://arxiv.org/abs/2401.01303v1)
 - 2024-01-02, **$f$-Divergence Based Classification: Beyond the Use of Cross-Entropy**, Nicola Novello et.al., Paper: [http://arxiv.org/abs/2401.01268v1](http://arxiv.org/abs/2401.01268v1), Code: **[https://github.com/tonellolab/discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)**
 - 2024-01-02, **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**, Fuchen Long et.al., Paper: [http://arxiv.org/abs/2401.01256v1](http://arxiv.org/abs/2401.01256v1)
 - 2024-01-02, **An operational approach to classifying measurement incompatibility**, Arun Kumar Das et.al., Paper: [http://arxiv.org/abs/2401.01236v1](http://arxiv.org/abs/2401.01236v1)
-- 2024-01-02, **Distribution Matching for Multi-Task Learning of Classification Tasks: a Large-Scale Study on Faces & Beyond**, Dimitrios Kollias et.al., Paper: [http://arxiv.org/abs/2401.01219v1](http://arxiv.org/abs/2401.01219v1)
+- 2024-01-03, **Distribution Matching for Multi-Task Learning of Classification Tasks: a Large-Scale Study on Faces & Beyond**, Dimitrios Kollias et.al., Paper: [http://arxiv.org/abs/2401.01219v2](http://arxiv.org/abs/2401.01219v2)
 - 2024-01-02, **FGENet: Fine-Grained Extraction Network for Congested Crowd Counting**, Hao-Yuan Ma et.al., Paper: [http://arxiv.org/abs/2401.01208v1](http://arxiv.org/abs/2401.01208v1)
 - 2024-01-02, **Whole-examination AI estimation of fetal biometrics from 20-week ultrasound scans**, Lorenzo Venturini et.al., Paper: [http://arxiv.org/abs/2401.01201v1](http://arxiv.org/abs/2401.01201v1)
 - 2023-12-29, **Computational Tools for Trees in Gauge Theory and Gravity**, Jacob L. Bourjaily et.al., Paper: [http://arxiv.org/abs/2312.17745v1](http://arxiv.org/abs/2312.17745v1)
