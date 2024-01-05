@@ -3945,7 +3945,7 @@
 
 ## MultiModal
 
-- 2024-01-03, **HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**, Ethan Zhu et.al., Paper: [http://arxiv.org/abs/2401.01822v1](http://arxiv.org/abs/2401.01822v1)
+- 2024-01-04, **HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**, Ethan Zhu et.al., Paper: [http://arxiv.org/abs/2401.01822v2](http://arxiv.org/abs/2401.01822v2)
 - 2024-01-03, **STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion**, Wei Yao et.al., Paper: [http://arxiv.org/abs/2401.01730v1](http://arxiv.org/abs/2401.01730v1)
 - 2024-01-03, **Modality Exchange Network for Retinogeniculate Visual Pathway Segmentation**, Hua Han et.al., Paper: [http://arxiv.org/abs/2401.01685v1](http://arxiv.org/abs/2401.01685v1)
 - 2024-01-03, **Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens**, Dengdi Sun et.al., Paper: [http://arxiv.org/abs/2401.01674v1](http://arxiv.org/abs/2401.01674v1)
