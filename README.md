@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-01-04**|**asimulation: Domain formation and impact on observables in resolved cosmological simulations of the (a)symmetron**|Øyvind Christiansen et.al.|[2401.02410v1](http://arxiv.org/abs/2401.02410v1)|**[link](https://github.com/oyvach/asevolution)**|
 |**2024-01-04**|**Gravitational waves from dark domain walls**|Øyvind Christiansen et.al.|[2401.02409v1](http://arxiv.org/abs/2401.02409v1)|**[link](https://github.com/oyvach/asgrd)**|
-|**2024-01-04**|**Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for Spatial Tasks**|Hartwig H. Hochmair et.al.|[2401.02404v1](http://arxiv.org/abs/2401.02404v1)|null|
+|**2024-01-05**|**Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for Spatial Tasks**|Hartwig H. Hochmair et.al.|[2401.02404v2](http://arxiv.org/abs/2401.02404v2)|null|
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402v1](http://arxiv.org/abs/2401.02402v1)|null|
 |**2024-01-04**|**Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai**|Scott A. Hale et.al.|[2401.02395v1](http://arxiv.org/abs/2401.02395v1)|null|
 |**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394v1](http://arxiv.org/abs/2401.02394v1)|null|
