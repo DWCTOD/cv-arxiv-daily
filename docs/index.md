@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105v1](http://arxiv.org/abs/2401.04105v1)|null|
+|**2024-01-08**|**RudolfV: A Foundation Model by Pathologists for Pathologists**|Jonas Dippel et.al.|[2401.04079v1](http://arxiv.org/abs/2401.04079v1)|null|
+|**2024-01-08**|**Variance Reduction in Ratio Metrics for Efficient Online Experiments**|Shubham Baweja et.al.|[2401.04062v1](http://arxiv.org/abs/2401.04062v1)|null|
+|**2024-01-08**|**Bjøntegaard Delta (BD): A Tutorial Overview of the Metric, Evolution, Challenges, and Recommendations**|Nabajeet Barman et.al.|[2401.04039v1](http://arxiv.org/abs/2401.04039v1)|null|
+|**2024-01-08**|**Blocks whose defect groups are Suzuki $2$-groups**|Charles W. Eaton et.al.|[2401.04028v1](http://arxiv.org/abs/2401.04028v1)|null|
+|**2024-01-08**|**IDoFew: Intermediate Training Using Dual-Clustering in Language Models for Few Labels Text Classification**|Abdullah Alsuhaibani et.al.|[2401.04025v1](http://arxiv.org/abs/2401.04025v1)|null|
+|**2024-01-08**|**Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04023v1](http://arxiv.org/abs/2401.04023v1)|null|
+|**2024-01-08**|**Resident space object detection method based on the connection between Fourier spectrum of the video data difference frame and the linear velocity projection**|V. S. Baranova et.al.|[2401.04021v1](http://arxiv.org/abs/2401.04021v1)|null|
+|**2024-01-08**|**Recognizing Blazars Using Radio Morphology from the VLA Sky Survey**|Zhang-Liang Xie et.al.|[2401.04009v1](http://arxiv.org/abs/2401.04009v1)|null|
+|**2024-01-08**|**Calabi-Yau Varieties via Cyclic Covers, and Complex Hyperbolic Structures for their Moduli Spaces**|Chenglong Yu et.al.|[2401.04006v1](http://arxiv.org/abs/2401.04006v1)|null|
 |**2024-01-05**|**Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**|Haobo Yuan et.al.|[2401.02955v1](http://arxiv.org/abs/2401.02955v1)|**[link](https://github.com/harboryuan/ovsam)**|
 |**2024-01-05**|**The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties**|M. Vincenzi et.al.|[2401.02945v1](http://arxiv.org/abs/2401.02945v1)|null|
 |**2024-01-05**|**Digital-analog quantum learning on Rydberg atom arrays**|Jonathan Z. Lu et.al.|[2401.02940v1](http://arxiv.org/abs/2401.02940v1)|null|
@@ -3973,6 +3983,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04023v1](http://arxiv.org/abs/2401.04023v1)|null|
+|**2024-01-08**|**Multi-scale attention-based instance segmentation for measuring crystals with large size variation**|Theresa Neubauer et.al.|[2401.03939v1](http://arxiv.org/abs/2401.03939v1)|null|
+|**2024-01-08**|**Quantification of Photon Fusion for Genuine Multiphoton Quantum Correlations**|Sheng-Yan Sun et.al.|[2401.03860v1](http://arxiv.org/abs/2401.03860v1)|null|
+|**2024-01-08**|**MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation**|Dong Yang et.al.|[2401.03800v1](http://arxiv.org/abs/2401.03800v1)|null|
+|**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661v1](http://arxiv.org/abs/2401.03661v1)|null|
+|**2024-01-08**|**Reproducibility Analysis and Enhancements for Multi-Aspect Dense Retriever with Aspect Learning**|Keping Bi et.al.|[2401.03648v1](http://arxiv.org/abs/2401.03648v1)|**[link](https://github.com/sunxiaojie99/reproducibility-for-madral)**|
+|**2024-01-07**|**MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition**|Zheng Lian et.al.|[2401.03429v1](http://arxiv.org/abs/2401.03429v1)|null|
+|**2024-01-07**|**Uncertainty Propagation and Bayesian Fusion on Unimodular Lie Groups from a Parametric Perspective**|Jikai Ye et.al.|[2401.03425v1](http://arxiv.org/abs/2401.03425v1)|null|
+|**2024-01-07**|**MLCA-AVSR: Multi-Layer Cross Attention Fusion based Audio-Visual Speech Recognition**|He Wang et.al.|[2401.03424v1](http://arxiv.org/abs/2401.03424v1)|null|
+|**2024-01-06**|**Autonomous Navigation in Complex Environments**|Andrew Gerstenslager et.al.|[2401.03267v1](http://arxiv.org/abs/2401.03267v1)|null|
 |**2024-01-05**|**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**|Yabin Zhu et.al.|[2401.02826v1](http://arxiv.org/abs/2401.02826v1)|null|
 |**2024-01-05**|**Fus-MAE: A cross-attention-based data fusion approach for Masked Autoencoders in remote sensing**|Hugo Chan-To-Hing et.al.|[2401.02764v1](http://arxiv.org/abs/2401.02764v1)|null|
 |**2024-01-05**|**Resonant Decay of Kinetic Alfvén Waves and Implication on Spectral Cascading**|Kexun Shen et.al.|[2401.02711v1](http://arxiv.org/abs/2401.02711v1)|null|
