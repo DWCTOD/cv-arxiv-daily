@@ -1,8 +1,8 @@
-> Updated on 2024.01.08
+> Updated on 2024.01.09
 
 ## Video_Classification
 
-- 2024-01-05, **Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**, Haobo Yuan et.al., Paper: [http://arxiv.org/abs/2401.02955v1](http://arxiv.org/abs/2401.02955v1)
+- 2024-01-05, **Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**, Haobo Yuan et.al., Paper: [http://arxiv.org/abs/2401.02955v1](http://arxiv.org/abs/2401.02955v1), Code: **[https://github.com/harboryuan/ovsam](https://github.com/harboryuan/ovsam)**
 - 2024-01-05, **The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties**, M. Vincenzi et.al., Paper: [http://arxiv.org/abs/2401.02945v1](http://arxiv.org/abs/2401.02945v1)
 - 2024-01-05, **Digital-analog quantum learning on Rydberg atom arrays**, Jonathan Z. Lu et.al., Paper: [http://arxiv.org/abs/2401.02940v1](http://arxiv.org/abs/2401.02940v1)
 - 2024-01-05, **Mixing Magnetic and Electric Ehlers-Harrison transformations: The Electromagnetic Swirling Spacetime and Novel Type I Backgrounds**, José Barrientos et.al., Paper: [http://arxiv.org/abs/2401.02924v1](http://arxiv.org/abs/2401.02924v1)
