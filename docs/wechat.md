@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-09, **A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**, Ronglai Zuo et.al., Paper: [http://arxiv.org/abs/2401.04730v1](http://arxiv.org/abs/2401.04730v1), Code: **[https://github.com/FangyunWei/SLRT](https://github.com/FangyunWei/SLRT)**
+- 2024-01-09, **U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation**, Jun Ma et.al., Paper: [http://arxiv.org/abs/2401.04722v1](http://arxiv.org/abs/2401.04722v1)
+- 2024-01-09, **Helicoidal surfaces of prescribed mean curvature in $\mathbb{R}^3$**, Aires Eduardo Menani Barbieri et.al., Paper: [http://arxiv.org/abs/2401.04721v1](http://arxiv.org/abs/2401.04721v1)
+- 2024-01-09, **Low-resource finetuning of foundation models beats state-of-the-art in histopathology**, Benedikt Roth et.al., Paper: [http://arxiv.org/abs/2401.04720v1](http://arxiv.org/abs/2401.04720v1)
+- 2024-01-09, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718v1](http://arxiv.org/abs/2401.04718v1)
+- 2024-01-09, **NIPn CHIPS**, Blaise Boissonneau et.al., Paper: [http://arxiv.org/abs/2401.04697v1](http://arxiv.org/abs/2401.04697v1)
+- 2024-01-09, **CoordGate: Efficiently Computing Spatially-Varying Convolutions in Convolutional Neural Networks**, Sunny Howard et.al., Paper: [http://arxiv.org/abs/2401.04680v1](http://arxiv.org/abs/2401.04680v1)
+- 2024-01-09, **Benchmark Analysis of Various Pre-trained Deep Learning Models on ASSIRA Cats and Dogs Dataset**, Galib Muhammad Shahriar Himel et.al., Paper: [http://arxiv.org/abs/2401.04666v1](http://arxiv.org/abs/2401.04666v1)
+- 2024-01-09, **DepressionEmo: A novel dataset for multilabel classification of depression emotions**, Abu Bakar Siddiqur Rahman et.al., Paper: [http://arxiv.org/abs/2401.04655v1](http://arxiv.org/abs/2401.04655v1), Code: **[https://github.com/abubakarsiddiqurrahman/depressionemo](https://github.com/abubakarsiddiqurrahman/depressionemo)**
+- 2024-01-09, **Hold 'em and Fold 'em: Towards Human-scale, Feedback-Controlled Soft Origami Robots**, Immanuel Ampomah Mensah et.al., Paper: [http://arxiv.org/abs/2401.04650v1](http://arxiv.org/abs/2401.04650v1)
 - 2024-01-08, **Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**, Chen Zhao et.al., Paper: [http://arxiv.org/abs/2401.04105v1](http://arxiv.org/abs/2401.04105v1)
 - 2024-01-08, **RudolfV: A Foundation Model by Pathologists for Pathologists**, Jonas Dippel et.al., Paper: [http://arxiv.org/abs/2401.04079v1](http://arxiv.org/abs/2401.04079v1)
 - 2024-01-08, **Variance Reduction in Ratio Metrics for Efficient Online Experiments**, Shubham Baweja et.al., Paper: [http://arxiv.org/abs/2401.04062v1](http://arxiv.org/abs/2401.04062v1)
@@ -3975,6 +3985,13 @@
 
 ## MultiModal
 
+- 2024-01-09, **Spatio-temporal data fusion for the analysis of in situ and remote sensing data using the INLA-SPDE approach**, Shiyu He et.al., Paper: [http://arxiv.org/abs/2401.04723v1](http://arxiv.org/abs/2401.04723v1)
+- 2024-01-09, **Production of para-true muonium in linearly polarized photon fusions**, Jian-Ping Dai et.al., Paper: [http://arxiv.org/abs/2401.04681v1](http://arxiv.org/abs/2401.04681v1)
+- 2024-01-09, **Knowledge-enhanced Multi-perspective Video Representation Learning for Scene Recognition**, Xuzheng Yu et.al., Paper: [http://arxiv.org/abs/2401.04354v1](http://arxiv.org/abs/2401.04354v1)
+- 2024-01-09, **RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**, Han Li et.al., Paper: [http://arxiv.org/abs/2401.04325v1](http://arxiv.org/abs/2401.04325v1)
+- 2024-01-08, **One-sweep moment-based semi-implicit-explicit integration for gray thermal radiation transport**, Ben S. Southworth et.al., Paper: [http://arxiv.org/abs/2401.04285v1](http://arxiv.org/abs/2401.04285v1)
+- 2024-01-08, **Detecting Face Synthesis Using a Concealed Fusion Model**, Roberto Leyva et.al., Paper: [http://arxiv.org/abs/2401.04257v1](http://arxiv.org/abs/2401.04257v1)
+- 2024-01-08, **Efficient Selective Audio Masked Multimodal Bottleneck Transformer for Audio-Video Classification**, Wentao Zhu et.al., Paper: [http://arxiv.org/abs/2401.04154v1](http://arxiv.org/abs/2401.04154v1)
 - 2024-01-08, **Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**, Wentao Zhu et.al., Paper: [http://arxiv.org/abs/2401.04023v1](http://arxiv.org/abs/2401.04023v1)
 - 2024-01-08, **Multi-scale attention-based instance segmentation for measuring crystals with large size variation**, Theresa Neubauer et.al., Paper: [http://arxiv.org/abs/2401.03939v1](http://arxiv.org/abs/2401.03939v1)
 - 2024-01-08, **Quantification of Photon Fusion for Genuine Multiphoton Quantum Correlations**, Sheng-Yan Sun et.al., Paper: [http://arxiv.org/abs/2401.03860v1](http://arxiv.org/abs/2401.03860v1)
