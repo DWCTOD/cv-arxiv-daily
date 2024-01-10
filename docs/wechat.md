@@ -1,4 +1,4 @@
-> Updated on 2024.01.09
+> Updated on 2024.01.10
 
 ## Video_Classification
 
