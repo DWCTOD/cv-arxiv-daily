@@ -16,7 +16,7 @@ layout: default
 |**2024-01-08**|**IDoFew: Intermediate Training Using Dual-Clustering in Language Models for Few Labels Text Classification**|Abdullah Alsuhaibani et.al.|[2401.04025v1](http://arxiv.org/abs/2401.04025v1)|null|
 |**2024-01-08**|**Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04023v1](http://arxiv.org/abs/2401.04023v1)|null|
 |**2024-01-08**|**Resident space object detection method based on the connection between Fourier spectrum of the video data difference frame and the linear velocity projection**|V. S. Baranova et.al.|[2401.04021v1](http://arxiv.org/abs/2401.04021v1)|null|
-|**2024-01-08**|**Recognizing Blazars Using Radio Morphology from the VLA Sky Survey**|Zhang-Liang Xie et.al.|[2401.04009v1](http://arxiv.org/abs/2401.04009v1)|null|
+|**2024-01-09**|**Recognizing Blazars Using Radio Morphology from the VLA Sky Survey**|Zhang-Liang Xie et.al.|[2401.04009v2](http://arxiv.org/abs/2401.04009v2)|null|
 |**2024-01-08**|**Calabi-Yau Varieties via Cyclic Covers, and Complex Hyperbolic Structures for their Moduli Spaces**|Chenglong Yu et.al.|[2401.04006v1](http://arxiv.org/abs/2401.04006v1)|null|
 |**2024-01-05**|**Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**|Haobo Yuan et.al.|[2401.02955v1](http://arxiv.org/abs/2401.02955v1)|**[link](https://github.com/harboryuan/ovsam)**|
 |**2024-01-05**|**The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties**|M. Vincenzi et.al.|[2401.02945v1](http://arxiv.org/abs/2401.02945v1)|null|
@@ -3986,7 +3986,7 @@ layout: default
 |**2024-01-08**|**Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04023v1](http://arxiv.org/abs/2401.04023v1)|null|
 |**2024-01-08**|**Multi-scale attention-based instance segmentation for measuring crystals with large size variation**|Theresa Neubauer et.al.|[2401.03939v1](http://arxiv.org/abs/2401.03939v1)|null|
 |**2024-01-08**|**Quantification of Photon Fusion for Genuine Multiphoton Quantum Correlations**|Sheng-Yan Sun et.al.|[2401.03860v1](http://arxiv.org/abs/2401.03860v1)|null|
-|**2024-01-08**|**MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation**|Dong Yang et.al.|[2401.03800v1](http://arxiv.org/abs/2401.03800v1)|null|
+|**2024-01-09**|**MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation**|Dong Yang et.al.|[2401.03800v2](http://arxiv.org/abs/2401.03800v2)|null|
 |**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661v1](http://arxiv.org/abs/2401.03661v1)|null|
 |**2024-01-08**|**Reproducibility Analysis and Enhancements for Multi-Aspect Dense Retriever with Aspect Learning**|Keping Bi et.al.|[2401.03648v1](http://arxiv.org/abs/2401.03648v1)|**[link](https://github.com/sunxiaojie99/reproducibility-for-madral)**|
 |**2024-01-07**|**MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition**|Zheng Lian et.al.|[2401.03429v1](http://arxiv.org/abs/2401.03429v1)|null|
