@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-10, **Towards Online Sign Language Recognition and Translation**, Ronglai Zuo et.al., Paper: [http://arxiv.org/abs/2401.05336v1](http://arxiv.org/abs/2401.05336v1), Code: **[https://github.com/FangyunWei/SLRT](https://github.com/FangyunWei/SLRT)**
+- 2024-01-10, **ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**, Kevin Cai et.al., Paper: [http://arxiv.org/abs/2401.05314v1](http://arxiv.org/abs/2401.05314v1)
+- 2024-01-10, **Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL Networks**, Amin Farajzadeh et.al., Paper: [http://arxiv.org/abs/2401.05308v1](http://arxiv.org/abs/2401.05308v1)
+- 2024-01-10, **Frame-like Fourier expansions for finite Borel measures on $\mathbb{R}$**, Chad Berner et.al., Paper: [http://arxiv.org/abs/2401.05243v1](http://arxiv.org/abs/2401.05243v1)
+- 2024-01-10, **Learning effective good variables from physical data**, Giulio Barletta et.al., Paper: [http://arxiv.org/abs/2401.05226v1](http://arxiv.org/abs/2401.05226v1), Code: **[https://github.com/giuliobarl/goodphysvariables](https://github.com/giuliobarl/goodphysvariables)**
+- 2024-01-10, **TOVAC: Tele-operated Vehicle Admission Control and Routing**, Jorge Martín-Pérez et.al., Paper: [http://arxiv.org/abs/2401.05225v1](http://arxiv.org/abs/2401.05225v1)
+- 2024-01-10, **Do Vision and Language Encoders Represent the World Similarly?**, Mayug Maniparambil et.al., Paper: [http://arxiv.org/abs/2401.05224v1](http://arxiv.org/abs/2401.05224v1)
+- 2024-01-10, **Exploring Vulnerabilities of No-Reference Image Quality Assessment Models: A Query-Based Black-Box Method**, Chenxi Yang et.al., Paper: [http://arxiv.org/abs/2401.05217v1](http://arxiv.org/abs/2401.05217v1)
+- 2024-01-10, **Pre-trained Large Language Models for Financial Sentiment Analysis**, Wei Luo et.al., Paper: [http://arxiv.org/abs/2401.05215v1](http://arxiv.org/abs/2401.05215v1)
+- 2024-01-10, **A Novel Prompt-tuning Method: Incorporating Scenario-specific Concepts into a Verbalizer**, Yong Ma et.al., Paper: [http://arxiv.org/abs/2401.05204v1](http://arxiv.org/abs/2401.05204v1)
 - 2024-01-09, **A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**, Ronglai Zuo et.al., Paper: [http://arxiv.org/abs/2401.04730v1](http://arxiv.org/abs/2401.04730v1), Code: **[https://github.com/FangyunWei/SLRT](https://github.com/FangyunWei/SLRT)**
 - 2024-01-09, **U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation**, Jun Ma et.al., Paper: [http://arxiv.org/abs/2401.04722v1](http://arxiv.org/abs/2401.04722v1)
 - 2024-01-09, **Helicoidal surfaces of prescribed mean curvature in $\mathbb{R}^3$**, Aires Eduardo Menani Barbieri et.al., Paper: [http://arxiv.org/abs/2401.04721v1](http://arxiv.org/abs/2401.04721v1)
@@ -3985,6 +3995,16 @@
 
 ## MultiModal
 
+- 2024-01-10, **Fused $\ell_{1}$ Trend Filtering on Graphs**, Vladimir Pastukhov et.al., Paper: [http://arxiv.org/abs/2401.05250v1](http://arxiv.org/abs/2401.05250v1)
+- 2024-01-10, **Stochastic modelling of blob-like plasma filaments in the scrape-off layer: Continuous velocity distributions**, J. M. Losada et.al., Paper: [http://arxiv.org/abs/2401.05198v1](http://arxiv.org/abs/2401.05198v1)
+- 2024-01-10, **CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**, Yinghui Xing et.al., Paper: [http://arxiv.org/abs/2401.05153v1](http://arxiv.org/abs/2401.05153v1)
+- 2024-01-10, **Electromagnetically Induced Transparency in Strongly Relativistic Regime**, Tie-Huai Zhang et.al., Paper: [http://arxiv.org/abs/2401.05081v1](http://arxiv.org/abs/2401.05081v1)
+- 2024-01-10, **Less is More : A Closer Look at Multi-Modal Few-Shot Learning**, Chunpeng Zhou et.al., Paper: [http://arxiv.org/abs/2401.05010v1](http://arxiv.org/abs/2401.05010v1)
+- 2024-01-10, **A Survey on Cross-Domain Sequential Recommendation**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2401.04971v1](http://arxiv.org/abs/2401.04971v1)
+- 2024-01-10, **Self-supervised speech representation and contextual text embedding for match-mismatch classification with EEG recording**, Bo Wang et.al., Paper: [http://arxiv.org/abs/2401.04964v1](http://arxiv.org/abs/2401.04964v1)
+- 2024-01-10, **HYPIC: A fast hybrid EM PIC-MCC code for ion cyclotron resonance energization in cylindrical coordinate system**, Mingyang Wu et.al., Paper: [http://arxiv.org/abs/2401.04897v1](http://arxiv.org/abs/2401.04897v1)
+- 2024-01-09, **CoNST: Code Generator for Sparse Tensor Networks**, Saurabh Raje et.al., Paper: [http://arxiv.org/abs/2401.04836v1](http://arxiv.org/abs/2401.04836v1)
+- 2024-01-09, **Phishing Website Detection through Multi-Model Analysis of HTML Content**, Furkan Çolhak et.al., Paper: [http://arxiv.org/abs/2401.04820v1](http://arxiv.org/abs/2401.04820v1)
 - 2024-01-09, **Spatio-temporal data fusion for the analysis of in situ and remote sensing data using the INLA-SPDE approach**, Shiyu He et.al., Paper: [http://arxiv.org/abs/2401.04723v1](http://arxiv.org/abs/2401.04723v1)
 - 2024-01-09, **Production of para-true muonium in linearly polarized photon fusions**, Jian-Ping Dai et.al., Paper: [http://arxiv.org/abs/2401.04681v1](http://arxiv.org/abs/2401.04681v1)
 - 2024-01-09, **Knowledge-enhanced Multi-perspective Video Representation Learning for Scene Recognition**, Xuzheng Yu et.al., Paper: [http://arxiv.org/abs/2401.04354v1](http://arxiv.org/abs/2401.04354v1)
