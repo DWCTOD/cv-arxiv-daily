@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-11, **Distilling Vision-Language Models on Millions of Videos**, Yue Zhao et.al., Paper: [http://arxiv.org/abs/2401.06129v1](http://arxiv.org/abs/2401.06129v1)
+- 2024-01-11, **Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2401.06126v1](http://arxiv.org/abs/2401.06126v1)
+- 2024-01-11, **Gaussian Shadow Casting for Neural Characters**, Luis Bolanos et.al., Paper: [http://arxiv.org/abs/2401.06116v1](http://arxiv.org/abs/2401.06116v1)
+- 2024-01-11, **A Closer Look at AUROC and AUPRC under Class Imbalance**, Matthew B. A. McDermott et.al., Paper: [http://arxiv.org/abs/2401.06091v1](http://arxiv.org/abs/2401.06091v1), Code: **[https://github.com/mmcdermott/auc_is_all_you_need](https://github.com/mmcdermott/auc_is_all_you_need)**
+- 2024-01-11, **LEGO:Language Enhanced Multi-modal Grounding Model**, Zhaowei Li et.al., Paper: [http://arxiv.org/abs/2401.06071v1](http://arxiv.org/abs/2401.06071v1), Code: **[https://github.com/lzw-lzw/lego](https://github.com/lzw-lzw/lego)**
+- 2024-01-11, **On the Power of Graph Neural Networks and Feature Augmentation Strategies to Classify Social Networks**, Walid Guettala et.al., Paper: [http://arxiv.org/abs/2401.06048v1](http://arxiv.org/abs/2401.06048v1)
+- 2024-01-11, **RAVEN: Rethinking Adversarial Video Generation with Efficient Tri-plane Networks**, Partha Ghosh et.al., Paper: [http://arxiv.org/abs/2401.06035v1](http://arxiv.org/abs/2401.06035v1)
+- 2024-01-11, **Attention to detail: inter-resolution knowledge distillation**, Rocío del Amor et.al., Paper: [http://arxiv.org/abs/2401.06010v1](http://arxiv.org/abs/2401.06010v1), Code: **[https://github.com/cvblab/kd_resolution](https://github.com/cvblab/kd_resolution)**
+- 2024-01-11, **Sea ice detection using concurrent multispectral and synthetic aperture radar imagery**, Martin S J Rogers et.al., Paper: [http://arxiv.org/abs/2401.06009v1](http://arxiv.org/abs/2401.06009v1)
+- 2024-01-11, **Boosting Mixed-Initiative Co-Creativity in Game Design: A Tutorial**, Solange Margarido et.al., Paper: [http://arxiv.org/abs/2401.05999v1](http://arxiv.org/abs/2401.05999v1)
 - 2024-01-10, **Towards Online Sign Language Recognition and Translation**, Ronglai Zuo et.al., Paper: [http://arxiv.org/abs/2401.05336v1](http://arxiv.org/abs/2401.05336v1), Code: **[https://github.com/FangyunWei/SLRT](https://github.com/FangyunWei/SLRT)**
 - 2024-01-10, **ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**, Kevin Cai et.al., Paper: [http://arxiv.org/abs/2401.05314v1](http://arxiv.org/abs/2401.05314v1)
 - 2024-01-10, **Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL Networks**, Amin Farajzadeh et.al., Paper: [http://arxiv.org/abs/2401.05308v1](http://arxiv.org/abs/2401.05308v1)
@@ -3995,6 +4005,12 @@
 
 ## MultiModal
 
+- 2024-01-11, **Sea ice detection using concurrent multispectral and synthetic aperture radar imagery**, Martin S J Rogers et.al., Paper: [http://arxiv.org/abs/2401.06009v1](http://arxiv.org/abs/2401.06009v1)
+- 2024-01-11, **Learning physics-based reduced models from data for the Hasegawa-Wakatani equations**, Constatin Gahr et.al., Paper: [http://arxiv.org/abs/2401.05972v1](http://arxiv.org/abs/2401.05972v1)
+- 2024-01-11, **A Lightweight Feature Fusion Architecture For Resource-Constrained Crowd Counting**, Yashwardhan Chaudhuri et.al., Paper: [http://arxiv.org/abs/2401.05968v1](http://arxiv.org/abs/2401.05968v1)
+- 2024-01-11, **On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**, Feng Zhu et.al., Paper: [http://arxiv.org/abs/2401.05836v1](http://arxiv.org/abs/2401.05836v1)
+- 2024-01-11, **Impact of the molecular resonances on the 12C+12C fusion reaction rate**, Yasutaka Taniguchi et.al., Paper: [http://arxiv.org/abs/2401.05803v1](http://arxiv.org/abs/2401.05803v1)
+- 2024-01-11, **Graph Spatiotemporal Process for Multivariate Time Series Anomaly Detection with Missing Values**, Yu Zheng et.al., Paper: [http://arxiv.org/abs/2401.05800v1](http://arxiv.org/abs/2401.05800v1)
 - 2024-01-10, **Fused $\ell_{1}$ Trend Filtering on Graphs**, Vladimir Pastukhov et.al., Paper: [http://arxiv.org/abs/2401.05250v1](http://arxiv.org/abs/2401.05250v1)
 - 2024-01-10, **Stochastic modelling of blob-like plasma filaments in the scrape-off layer: Continuous velocity distributions**, J. M. Losada et.al., Paper: [http://arxiv.org/abs/2401.05198v1](http://arxiv.org/abs/2401.05198v1)
 - 2024-01-10, **CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**, Yinghui Xing et.al., Paper: [http://arxiv.org/abs/2401.05153v1](http://arxiv.org/abs/2401.05153v1)
