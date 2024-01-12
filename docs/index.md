@@ -16,7 +16,7 @@ layout: default
 |**2024-01-10**|**TOVAC: Tele-operated Vehicle Admission Control and Routing**|Jorge Martín-Pérez et.al.|[2401.05225v1](http://arxiv.org/abs/2401.05225v1)|null|
 |**2024-01-10**|**Do Vision and Language Encoders Represent the World Similarly?**|Mayug Maniparambil et.al.|[2401.05224v1](http://arxiv.org/abs/2401.05224v1)|null|
 |**2024-01-10**|**Exploring Vulnerabilities of No-Reference Image Quality Assessment Models: A Query-Based Black-Box Method**|Chenxi Yang et.al.|[2401.05217v1](http://arxiv.org/abs/2401.05217v1)|null|
-|**2024-01-10**|**Pre-trained Large Language Models for Financial Sentiment Analysis**|Wei Luo et.al.|[2401.05215v1](http://arxiv.org/abs/2401.05215v1)|null|
+|**2024-01-10**|**Pre-trained Large Language Models for Financial Sentiment Analysis**|Wei Luo et.al.|[2401.05215v1](http://arxiv.org/abs/2401.05215v1)|**[link](https://github.com/luosting/LLaMA-Financial-sentiment-analysis)**|
 |**2024-01-10**|**A Novel Prompt-tuning Method: Incorporating Scenario-specific Concepts into a Verbalizer**|Yong Ma et.al.|[2401.05204v1](http://arxiv.org/abs/2401.05204v1)|null|
 |**2024-01-09**|**A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**|Ronglai Zuo et.al.|[2401.04730v1](http://arxiv.org/abs/2401.04730v1)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2024-01-09**|**U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation**|Jun Ma et.al.|[2401.04722v1](http://arxiv.org/abs/2401.04722v1)|null|
