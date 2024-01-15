@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-12, **Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**, Anton Voronov et.al., Paper: [http://arxiv.org/abs/2401.06766v1](http://arxiv.org/abs/2401.06766v1)
+- 2024-01-12, **Classification of singularities of cluster algebras of finite type II: coefficients**, Angélica Benito et.al., Paper: [http://arxiv.org/abs/2401.06758v1](http://arxiv.org/abs/2401.06758v1)
+- 2024-01-12, **Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**, Muhammad Naveed Riaz et.al., Paper: [http://arxiv.org/abs/2401.06757v1](http://arxiv.org/abs/2401.06757v1)
+- 2024-01-12, **Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**, Muhammad Tayyab Zamir et.al., Paper: [http://arxiv.org/abs/2401.06752v1](http://arxiv.org/abs/2401.06752v1)
+- 2024-01-12, **Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part II: Spatial and Tonal Data Optimization**, Niklas Kämper et.al., Paper: [http://arxiv.org/abs/2401.06747v1](http://arxiv.org/abs/2401.06747v1)
+- 2024-01-12, **Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**, Niklas Kämper et.al., Paper: [http://arxiv.org/abs/2401.06744v1](http://arxiv.org/abs/2401.06744v1)
+- 2024-01-12, **Complexity Classification of Product State Problems for Local Hamiltonians**, John Kallaugher et.al., Paper: [http://arxiv.org/abs/2401.06725v1](http://arxiv.org/abs/2401.06725v1)
+- 2024-01-12, **Obstacle-Aware Positioning of a Mobile Robotic Platform for 6G Networks**, Alexandre Costa et.al., Paper: [http://arxiv.org/abs/2401.06717v1](http://arxiv.org/abs/2401.06717v1)
+- 2024-01-12, **Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**, Muskan Garg et.al., Paper: [http://arxiv.org/abs/2401.06709v1](http://arxiv.org/abs/2401.06709v1)
+- 2024-01-12, **On the existence of charged electrostatic black holes in arbitrary topology**, Martin Reiris et.al., Paper: [http://arxiv.org/abs/2401.06702v1](http://arxiv.org/abs/2401.06702v1)
 - 2024-01-11, **Distilling Vision-Language Models on Millions of Videos**, Yue Zhao et.al., Paper: [http://arxiv.org/abs/2401.06129v1](http://arxiv.org/abs/2401.06129v1)
 - 2024-01-11, **Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2401.06126v1](http://arxiv.org/abs/2401.06126v1)
 - 2024-01-11, **Gaussian Shadow Casting for Neural Characters**, Luis Bolanos et.al., Paper: [http://arxiv.org/abs/2401.06116v1](http://arxiv.org/abs/2401.06116v1)
@@ -4005,6 +4015,15 @@
 
 ## MultiModal
 
+- 2024-01-12, **Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**, Muhammad Tayyab Zamir et.al., Paper: [http://arxiv.org/abs/2401.06752v1](http://arxiv.org/abs/2401.06752v1)
+- 2024-01-12, **Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**, Niklas Kämper et.al., Paper: [http://arxiv.org/abs/2401.06744v1](http://arxiv.org/abs/2401.06744v1)
+- 2024-01-12, **Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**, Giorgos Vernikos et.al., Paper: [http://arxiv.org/abs/2401.06688v1](http://arxiv.org/abs/2401.06688v1)
+- 2024-01-12, **WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**, Wenbin Wang et.al., Paper: [http://arxiv.org/abs/2401.06659v1](http://arxiv.org/abs/2401.06659v1)
+- 2024-01-12, **Exploring Diverse Representations for Open Set Recognition**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2401.06521v1](http://arxiv.org/abs/2401.06521v1), Code: **[https://github.com/vanixxz/medaf](https://github.com/vanixxz/medaf)**
+- 2024-01-12, **Mutual Distillation Learning For Person Re-Identification**, Huiyuan Fu et.al., Paper: [http://arxiv.org/abs/2401.06430v1](http://arxiv.org/abs/2401.06430v1), Code: **[https://github.com/kuilongcui/mdpr](https://github.com/kuilongcui/mdpr)**
+- 2024-01-12, **Knowledge-Informed Machine Learning for Cancer Diagnosis and Prognosis: A review**, Lingchao Mao et.al., Paper: [http://arxiv.org/abs/2401.06406v1](http://arxiv.org/abs/2401.06406v1)
+- 2024-01-12, **A Temporal-Spectral Fusion Transformer with Subject-specific Adapter for Enhancing RSVP-BCI Decoding**, Xujin Li et.al., Paper: [http://arxiv.org/abs/2401.06340v1](http://arxiv.org/abs/2401.06340v1)
+- 2024-01-11, **Leveraging Frequency Domain Learning in 3D Vessel Segmentation**, Xinyuan Wang et.al., Paper: [http://arxiv.org/abs/2401.06224v1](http://arxiv.org/abs/2401.06224v1)
 - 2024-01-11, **Sea ice detection using concurrent multispectral and synthetic aperture radar imagery**, Martin S J Rogers et.al., Paper: [http://arxiv.org/abs/2401.06009v1](http://arxiv.org/abs/2401.06009v1)
 - 2024-01-11, **Learning physics-based reduced models from data for the Hasegawa-Wakatani equations**, Constatin Gahr et.al., Paper: [http://arxiv.org/abs/2401.05972v1](http://arxiv.org/abs/2401.05972v1)
 - 2024-01-11, **A Lightweight Feature Fusion Architecture For Resource-Constrained Crowd Counting**, Yashwardhan Chaudhuri et.al., Paper: [http://arxiv.org/abs/2401.05968v1](http://arxiv.org/abs/2401.05968v1)
