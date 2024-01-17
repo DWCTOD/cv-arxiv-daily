@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-16, **From Coarse to Fine: Efficient Training for Audio Spectrogram Transformers**, Jiu Feng et.al., Paper: [http://arxiv.org/abs/2401.08415v1](http://arxiv.org/abs/2401.08415v1)
+- 2024-01-16, **Faster ISNet for Background Bias Mitigation on Deep Neural Networks**, Pedro R. A. S. Bassi et.al., Paper: [http://arxiv.org/abs/2401.08409v1](http://arxiv.org/abs/2401.08409v1)
+- 2024-01-16, **Training and Comparison of nnU-Net and DeepMedic Methods for Autosegmentation of Pediatric Brain Tumors**, Arastoo Vossough et.al., Paper: [http://arxiv.org/abs/2401.08404v1](http://arxiv.org/abs/2401.08404v1)
+- 2024-01-16, **High-Quality Mesh Blendshape Generation from Face Videos via Neural Inverse Rendering**, Xin Ming et.al., Paper: [http://arxiv.org/abs/2401.08398v1](http://arxiv.org/abs/2401.08398v1)
+- 2024-01-16, **DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models**, Zongxin Yang et.al., Paper: [http://arxiv.org/abs/2401.08392v1](http://arxiv.org/abs/2401.08392v1), Code: **[https://github.com/z-x-yang/doraemongpt](https://github.com/z-x-yang/doraemongpt)**
+- 2024-01-16, **We don't need no labels: Estimating post-deployment model performance under covariate shift without ground truth**, Jakub Białek et.al., Paper: [http://arxiv.org/abs/2401.08348v1](http://arxiv.org/abs/2401.08348v1)
+- 2024-01-16, **Learn What You Need in Personalized Federated Learning**, Kexin Lv et.al., Paper: [http://arxiv.org/abs/2401.08327v1](http://arxiv.org/abs/2401.08327v1), Code: **[https://github.com/kelenlv/learn2pfed](https://github.com/kelenlv/learn2pfed)**
+- 2024-01-16, **Application of LLM Agents in Recruitment: A Novel Framework for Resume Screening**, Chengguang Gan et.al., Paper: [http://arxiv.org/abs/2401.08315v1](http://arxiv.org/abs/2401.08315v1)
+- 2024-01-16, **Central extensions of restricted Lie superalgebras and classification of $p$-nilpotent Lie superalgebras in dimension $4$**, Sofiane Bouarroudj et.al., Paper: [http://arxiv.org/abs/2401.08313v1](http://arxiv.org/abs/2401.08313v1)
+- 2024-01-16, **Evaluating online elasticity estimation of soft objects using standard robot grippers**, Shubhan P. Patni et.al., Paper: [http://arxiv.org/abs/2401.08298v1](http://arxiv.org/abs/2401.08298v1)
 - 2024-01-12, **Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**, Anton Voronov et.al., Paper: [http://arxiv.org/abs/2401.06766v1](http://arxiv.org/abs/2401.06766v1)
 - 2024-01-12, **Classification of singularities of cluster algebras of finite type II: coefficients**, Angélica Benito et.al., Paper: [http://arxiv.org/abs/2401.06758v1](http://arxiv.org/abs/2401.06758v1)
 - 2024-01-12, **Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**, Muhammad Naveed Riaz et.al., Paper: [http://arxiv.org/abs/2401.06757v1](http://arxiv.org/abs/2401.06757v1)
@@ -4015,6 +4025,16 @@
 
 ## MultiModal
 
+- 2024-01-16, **Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**, Zhehui Wang et.al., Paper: [http://arxiv.org/abs/2401.08390v1](http://arxiv.org/abs/2401.08390v1)
+- 2024-01-16, **SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**, Xilai Li et.al., Paper: [http://arxiv.org/abs/2401.08357v1](http://arxiv.org/abs/2401.08357v1), Code: **[https://github.com/ixilai/samf](https://github.com/ixilai/samf)**
+- 2024-01-16, **Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition(CLIP-$\mathrm{M^2}$DF)**, Fei Guo et.al., Paper: [http://arxiv.org/abs/2401.08345v1](http://arxiv.org/abs/2401.08345v1)
+- 2024-01-16, **End-to-End Optimized Image Compression with the Frequency-Oriented Transform**, Yuefeng Zhang et.al., Paper: [http://arxiv.org/abs/2401.08194v1](http://arxiv.org/abs/2401.08194v1)
+- 2024-01-16, **DPAFNet:Dual Path Attention Fusion Network for Single Image Deraining**, Bingcai Wei et.al., Paper: [http://arxiv.org/abs/2401.08185v1](http://arxiv.org/abs/2401.08185v1)
+- 2024-01-16, **S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**, Thanh Nguyen Canh et.al., Paper: [http://arxiv.org/abs/2401.08134v1](http://arxiv.org/abs/2401.08134v1)
+- 2024-01-16, **Deep Shape-Texture Statistics for Completely Blind Image Quality Evaluation**, Yixuan Li et.al., Paper: [http://arxiv.org/abs/2401.08107v1](http://arxiv.org/abs/2401.08107v1)
+- 2024-01-16, **Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion**, Ji Huang et.al., Paper: [http://arxiv.org/abs/2401.08017v1](http://arxiv.org/abs/2401.08017v1)
+- 2024-01-15, **GD-CAF: Graph Dual-stream Convolutional Attention Fusion for Precipitation Nowcasting**, Lorand Vatamany et.al., Paper: [http://arxiv.org/abs/2401.07958v1](http://arxiv.org/abs/2401.07958v1)
+- 2024-01-15, **Graphical Symplectic Algebra**, Robert I. Booth et.al., Paper: [http://arxiv.org/abs/2401.07914v1](http://arxiv.org/abs/2401.07914v1)
 - 2024-01-12, **Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**, Muhammad Tayyab Zamir et.al., Paper: [http://arxiv.org/abs/2401.06752v1](http://arxiv.org/abs/2401.06752v1)
 - 2024-01-12, **Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**, Niklas Kämper et.al., Paper: [http://arxiv.org/abs/2401.06744v1](http://arxiv.org/abs/2401.06744v1)
 - 2024-01-12, **Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**, Giorgos Vernikos et.al., Paper: [http://arxiv.org/abs/2401.06688v1](http://arxiv.org/abs/2401.06688v1)
