@@ -18,6 +18,11 @@ layout: default
 |**2024-01-16**|**Application of LLM Agents in Recruitment: A Novel Framework for Resume Screening**|Chengguang Gan et.al.|[2401.08315v1](http://arxiv.org/abs/2401.08315v1)|null|
 |**2024-01-16**|**Central extensions of restricted Lie superalgebras and classification of $p$-nilpotent Lie superalgebras in dimension $4$**|Sofiane Bouarroudj et.al.|[2401.08313v1](http://arxiv.org/abs/2401.08313v1)|null|
 |**2024-01-16**|**Evaluating online elasticity estimation of soft objects using standard robot grippers**|Shubhan P. Patni et.al.|[2401.08298v1](http://arxiv.org/abs/2401.08298v1)|null|
+|**2024-01-16**|**Multitask Learning in Minimally Invasive Surgical Vision: A Review**|Oluwatosin Alabi et.al.|[2401.08256v1](http://arxiv.org/abs/2401.08256v1)|null|
+|**2024-01-16**|**Multi-scale 2D Temporal Map Diffusion Models for Natural Language Video Localization**|Chongzhi Zhang et.al.|[2401.08232v1](http://arxiv.org/abs/2401.08232v1)|null|
+|**2024-01-16**|**Towards Causal Relationship in Indefinite Data: Baseline Model and New Datasets**|Hang Chen et.al.|[2401.08221v1](http://arxiv.org/abs/2401.08221v1)|null|
+|**2024-01-16**|**Ship Detection in SAR Images with Human-in-the-Loop**|Hecheng Jia et.al.|[2401.08213v1](http://arxiv.org/abs/2401.08213v1)|null|
+|**2024-01-16**|**ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification**|Zhongbin Fang et.al.|[2401.08210v1](http://arxiv.org/abs/2401.08210v1)|**[link](https://github.com/fanglaosi/pointmls)**|
 |**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766v1](http://arxiv.org/abs/2401.06766v1)|null|
 |**2024-01-12**|**Classification of singularities of cluster algebras of finite type II: coefficients**|Angélica Benito et.al.|[2401.06758v1](http://arxiv.org/abs/2401.06758v1)|null|
 |**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757v1](http://arxiv.org/abs/2401.06757v1)|null|
@@ -4043,6 +4048,7 @@ layout: default
 |**2024-01-16**|**Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion**|Ji Huang et.al.|[2401.08017v1](http://arxiv.org/abs/2401.08017v1)|null|
 |**2024-01-15**|**GD-CAF: Graph Dual-stream Convolutional Attention Fusion for Precipitation Nowcasting**|Lorand Vatamany et.al.|[2401.07958v1](http://arxiv.org/abs/2401.07958v1)|null|
 |**2024-01-15**|**Graphical Symplectic Algebra**|Robert I. Booth et.al.|[2401.07914v1](http://arxiv.org/abs/2401.07914v1)|null|
+|**2024-01-15**|**$M^{2}$Fusion: Bayesian-based Multimodal Multi-level Fusion on Colorectal Cancer Microsatellite Instability Prediction**|Quan Liu et.al.|[2401.07854v1](http://arxiv.org/abs/2401.07854v1)|null|
 |**2024-01-12**|**Stylometry Analysis of Multi-authored Documents for Authorship and Author Style Change Detection**|Muhammad Tayyab Zamir et.al.|[2401.06752v1](http://arxiv.org/abs/2401.06752v1)|null|
 |**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**|Niklas Kämper et.al.|[2401.06744v1](http://arxiv.org/abs/2401.06744v1)|null|
 |**2024-01-12**|**Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**|Giorgos Vernikos et.al.|[2401.06688v1](http://arxiv.org/abs/2401.06688v1)|null|
