@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-18, **Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**, Antonia Bronars et.al., Paper: [http://arxiv.org/abs/2401.10230v1](http://arxiv.org/abs/2401.10230v1)
+- 2024-01-18, **OMG-Seg: Is One Model Good Enough For All Segmentation?**, Xiangtai Li et.al., Paper: [http://arxiv.org/abs/2401.10229v1](http://arxiv.org/abs/2401.10229v1), Code: **[https://github.com/lxtgh/omg-seg](https://github.com/lxtgh/omg-seg)**
+- 2024-01-18, **RAP-SAM: Towards Real-Time All-Purpose Segment Anything**, Shilin Xu et.al., Paper: [http://arxiv.org/abs/2401.10228v1](http://arxiv.org/abs/2401.10228v1), Code: **[https://github.com/xushilin1/rap-sam](https://github.com/xushilin1/rap-sam)**
+- 2024-01-18, **Towards Language-Driven Video Inpainting via Multimodal Large Language Models**, Jianzong Wu et.al., Paper: [http://arxiv.org/abs/2401.10226v1](http://arxiv.org/abs/2401.10226v1)
+- 2024-01-18, **Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**, Namitha Padmanabhan et.al., Paper: [http://arxiv.org/abs/2401.10217v1](http://arxiv.org/abs/2401.10217v1)
+- 2024-01-18, **Transfer Learning in Human Activity Recognition: A Survey**, Sourish Gunesh Dhekane et.al., Paper: [http://arxiv.org/abs/2401.10185v1](http://arxiv.org/abs/2401.10185v1)
+- 2024-01-18, **SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild**, Andreas Engelhardt et.al., Paper: [http://arxiv.org/abs/2401.10171v1](http://arxiv.org/abs/2401.10171v1)
+- 2024-01-18, **Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**, Changgu Chen et.al., Paper: [http://arxiv.org/abs/2401.10150v1](http://arxiv.org/abs/2401.10150v1)
+- 2024-01-18, **Few-shot learning for COVID-19 Chest X-Ray Classification with Imbalanced Data: An Inter vs. Intra Domain Study**, Alejandro Galán-Cuenca et.al., Paper: [http://arxiv.org/abs/2401.10129v1](http://arxiv.org/abs/2401.10129v1)
+- 2024-01-18, **Sub2Full: split spectrum to boost OCT despeckling without clean data**, Lingyun Wang et.al., Paper: [http://arxiv.org/abs/2401.10128v1](http://arxiv.org/abs/2401.10128v1), Code: **[https://github.com/pittoct/sub2full-oct-denoising](https://github.com/pittoct/sub2full-oct-denoising)**
 - 2024-01-17, **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**, Lianghui Zhu et.al., Paper: [http://arxiv.org/abs/2401.09417v1](http://arxiv.org/abs/2401.09417v1), Code: **[https://github.com/hustvl/vim](https://github.com/hustvl/vim)**
 - 2024-01-17, **Vlogger: Make Your Dream A Vlog**, Shaobin Zhuang et.al., Paper: [http://arxiv.org/abs/2401.09414v1](http://arxiv.org/abs/2401.09414v1), Code: **[https://github.com/zhuangshaobin/vlogger](https://github.com/zhuangshaobin/vlogger)**
 - 2024-01-17, **Deciphering Textual Authenticity: A Generalized Strategy through the Lens of Large Language Semantics for Detecting Human vs. Machine-Generated Text**, Mazal Bethany et.al., Paper: [http://arxiv.org/abs/2401.09407v1](http://arxiv.org/abs/2401.09407v1)
@@ -4040,6 +4050,16 @@
 
 ## MultiModal
 
+- 2024-01-18, **GPAvatar: Generalizable and Precise Head Avatar from Image(s)**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2401.10215v1](http://arxiv.org/abs/2401.10215v1)
+- 2024-01-18, **CMFN: Cross-Modal Fusion Network for Irregular Scene Text Recognition**, Jinzhi Zheng et.al., Paper: [http://arxiv.org/abs/2401.10041v1](http://arxiv.org/abs/2401.10041v1)
+- 2024-01-18, **LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge**, Shaswata Mitra et.al., Paper: [http://arxiv.org/abs/2401.10036v1](http://arxiv.org/abs/2401.10036v1)
+- 2024-01-18, **A-KIT: Adaptive Kalman-Informed Transformer**, Nadav Cohen et.al., Paper: [http://arxiv.org/abs/2401.09987v1](http://arxiv.org/abs/2401.09987v1)
+- 2024-01-18, **False Discovery Rate Control for Gaussian Graphical Models via Neighborhood Screening**, Taulant Koka et.al., Paper: [http://arxiv.org/abs/2401.09979v1](http://arxiv.org/abs/2401.09979v1)
+- 2024-01-18, **SEINE: Structure Encoding and Interaction Network for Nuclei Instance Segmentation**, Ye Zhang et.al., Paper: [http://arxiv.org/abs/2401.09773v1](http://arxiv.org/abs/2401.09773v1)
+- 2024-01-18, **Mobility Accelerates Learning: Convergence Analysis on Hierarchical Federated Learning in Vehicular Networks**, Tan Chen et.al., Paper: [http://arxiv.org/abs/2401.09656v1](http://arxiv.org/abs/2401.09656v1)
+- 2024-01-17, **Heuristic predictions of RMP configurations for ELM suppression in ITER burning plasmas and their impact on divertor performance**, H. Frerichs et.al., Paper: [http://arxiv.org/abs/2401.09652v1](http://arxiv.org/abs/2401.09652v1)
+- 2024-01-17, **Automatic 3D Multi-modal Ultrasound Segmentation of Human Placenta using Fusion Strategies and Deep Learning**, Sonit Singh et.al., Paper: [http://arxiv.org/abs/2401.09638v1](http://arxiv.org/abs/2401.09638v1)
+- 2024-01-17, **Interferometric Single-Shot Parity Measurement in an InAs-Al Hybrid Device**, Morteza Aghaee et.al., Paper: [http://arxiv.org/abs/2401.09549v1](http://arxiv.org/abs/2401.09549v1)
 - 2024-01-17, **A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion**, R. Spencer Hallyburton et.al., Paper: [http://arxiv.org/abs/2401.09387v1](http://arxiv.org/abs/2401.09387v1)
 - 2024-01-17, **Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**, Wanting Xu et.al., Paper: [http://arxiv.org/abs/2401.09331v1](http://arxiv.org/abs/2401.09331v1), Code: **[https://github.com/gowanting/nhevo](https://github.com/gowanting/nhevo)**
 - 2024-01-17, **Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation**, Wanting Xu et.al., Paper: [http://arxiv.org/abs/2401.09296v1](http://arxiv.org/abs/2401.09296v1)
