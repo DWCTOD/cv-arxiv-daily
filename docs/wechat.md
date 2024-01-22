@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-19, **Classifying affine structures with focus-focus singularities**, Xiudi Tang et.al., Paper: [http://arxiv.org/abs/2401.10881v1](http://arxiv.org/abs/2401.10881v1)
+- 2024-01-19, **Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**, André O. Françani et.al., Paper: [http://arxiv.org/abs/2401.10857v1](http://arxiv.org/abs/2401.10857v1)
+- 2024-01-19, **Emotion Classification In Software Engineering Texts: A Comparative Analysis of Pre-trained Transformers Language Models**, Mia Mohammad Imran et.al., Paper: [http://arxiv.org/abs/2401.10845v1](http://arxiv.org/abs/2401.10845v1)
+- 2024-01-19, **Understanding Video Transformers via Universal Concept Discovery**, Matthew Kowal et.al., Paper: [http://arxiv.org/abs/2401.10831v1](http://arxiv.org/abs/2401.10831v1)
+- 2024-01-19, **Long-Term Monitoring of the Oe Star VES 735: Ope! Not So Quiet After All**, Brandon Marshall et.al., Paper: [http://arxiv.org/abs/2401.10829v1](http://arxiv.org/abs/2401.10829v1)
+- 2024-01-19, **ActAnywhere: Subject-Aware Video Background Generation**, Boxiao Pan et.al., Paper: [http://arxiv.org/abs/2401.10822v1](http://arxiv.org/abs/2401.10822v1)
+- 2024-01-19, **RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision**, Fernando Pérez-García et.al., Paper: [http://arxiv.org/abs/2401.10815v1](http://arxiv.org/abs/2401.10815v1)
+- 2024-01-19, **Learning to Visually Connect Actions and their Effects**, Eric Peh et.al., Paper: [http://arxiv.org/abs/2401.10805v1](http://arxiv.org/abs/2401.10805v1)
+- 2024-01-19, **Endovascular Detection of Catheter-Thrombus Contact by Vacuum Excitation**, Jared Lawson et.al., Paper: [http://arxiv.org/abs/2401.10804v1](http://arxiv.org/abs/2401.10804v1)
+- 2024-01-19, **TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**, Jack MacLean et.al., Paper: [http://arxiv.org/abs/2401.10793v1](http://arxiv.org/abs/2401.10793v1)
 - 2024-01-18, **Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**, Antonia Bronars et.al., Paper: [http://arxiv.org/abs/2401.10230v1](http://arxiv.org/abs/2401.10230v1)
 - 2024-01-18, **OMG-Seg: Is One Model Good Enough For All Segmentation?**, Xiangtai Li et.al., Paper: [http://arxiv.org/abs/2401.10229v1](http://arxiv.org/abs/2401.10229v1), Code: **[https://github.com/lxtgh/omg-seg](https://github.com/lxtgh/omg-seg)**
 - 2024-01-18, **RAP-SAM: Towards Real-Time All-Purpose Segment Anything**, Shilin Xu et.al., Paper: [http://arxiv.org/abs/2401.10228v1](http://arxiv.org/abs/2401.10228v1), Code: **[https://github.com/xushilin1/rap-sam](https://github.com/xushilin1/rap-sam)**
@@ -4050,6 +4060,15 @@
 
 ## MultiModal
 
+- 2024-01-19, **Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**, Ekin Ugurel et.al., Paper: [http://arxiv.org/abs/2401.10890v1](http://arxiv.org/abs/2401.10890v1)
+- 2024-01-19, **Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**, Tianyi Zhao et.al., Paper: [http://arxiv.org/abs/2401.10731v1](http://arxiv.org/abs/2401.10731v1)
+- 2024-01-19, **Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection**, Atanu Mandal et.al., Paper: [http://arxiv.org/abs/2401.10653v1](http://arxiv.org/abs/2401.10653v1), Code: **[https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)**
+- 2024-01-19, **3d TQFTs and 3-manifold invariants**, Kursat Sozer et.al., Paper: [http://arxiv.org/abs/2401.10587v1](http://arxiv.org/abs/2401.10587v1)
+- 2024-01-19, **A Two-Stage Framework in Cross-Spectrum Domain for Real-Time Speech Enhancement**, Yuewei Zhang et.al., Paper: [http://arxiv.org/abs/2401.10494v1](http://arxiv.org/abs/2401.10494v1)
+- 2024-01-19, **Knowledge Fusion of Large Language Models**, Fanqi Wan et.al., Paper: [http://arxiv.org/abs/2401.10491v1](http://arxiv.org/abs/2401.10491v1)
+- 2024-01-19, **Learning to Robustly Reconstruct Low-light Dynamic Scenes from Spike Streams**, Liwen Hu et.al., Paper: [http://arxiv.org/abs/2401.10461v1](http://arxiv.org/abs/2401.10461v1)
+- 2024-01-18, **M3BUNet: Mobile Mean Max UNet for Pancreas Segmentation on CT-Scans**, Juwita juwita et.al., Paper: [http://arxiv.org/abs/2401.10419v1](http://arxiv.org/abs/2401.10419v1)
+- 2024-01-18, **Whole Device Modeling of the FuZE Sheared-Flow-Stabilized Z Pinch**, I. A. M. Datta et.al., Paper: [http://arxiv.org/abs/2401.10366v1](http://arxiv.org/abs/2401.10366v1)
 - 2024-01-18, **GPAvatar: Generalizable and Precise Head Avatar from Image(s)**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2401.10215v1](http://arxiv.org/abs/2401.10215v1), Code: **[https://github.com/xg-chu/gpavatar](https://github.com/xg-chu/gpavatar)**
 - 2024-01-18, **CMFN: Cross-Modal Fusion Network for Irregular Scene Text Recognition**, Jinzhi Zheng et.al., Paper: [http://arxiv.org/abs/2401.10041v1](http://arxiv.org/abs/2401.10041v1)
 - 2024-01-18, **LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge**, Shaswata Mitra et.al., Paper: [http://arxiv.org/abs/2401.10036v1](http://arxiv.org/abs/2401.10036v1)
