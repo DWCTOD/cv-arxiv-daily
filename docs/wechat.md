@@ -1,4 +1,4 @@
-> Updated on 2024.01.21
+> Updated on 2024.01.22
 
 ## Video_Classification
 
@@ -4050,7 +4050,7 @@
 
 ## MultiModal
 
-- 2024-01-18, **GPAvatar: Generalizable and Precise Head Avatar from Image(s)**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2401.10215v1](http://arxiv.org/abs/2401.10215v1)
+- 2024-01-18, **GPAvatar: Generalizable and Precise Head Avatar from Image(s)**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2401.10215v1](http://arxiv.org/abs/2401.10215v1), Code: **[https://github.com/xg-chu/gpavatar](https://github.com/xg-chu/gpavatar)**
 - 2024-01-18, **CMFN: Cross-Modal Fusion Network for Irregular Scene Text Recognition**, Jinzhi Zheng et.al., Paper: [http://arxiv.org/abs/2401.10041v1](http://arxiv.org/abs/2401.10041v1)
 - 2024-01-18, **LOCALINTEL: Generating Organizational Threat Intelligence from Global and Local Cyber Knowledge**, Shaswata Mitra et.al., Paper: [http://arxiv.org/abs/2401.10036v1](http://arxiv.org/abs/2401.10036v1)
 - 2024-01-18, **A-KIT: Adaptive Kalman-Informed Transformer**, Nadav Cohen et.al., Paper: [http://arxiv.org/abs/2401.09987v1](http://arxiv.org/abs/2401.09987v1)
