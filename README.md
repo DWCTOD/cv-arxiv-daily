@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210v1](http://arxiv.org/abs/2401.12210v1)|null|
+|**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203v1](http://arxiv.org/abs/2401.12203v1)|**[link](https://github.com/samuelperezdi/umlcaxs)**|
+|**2024-01-22**|**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**|Peiqi Liu et.al.|[2401.12202v1](http://arxiv.org/abs/2401.12202v1)|null|
+|**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178v1](http://arxiv.org/abs/2401.12178v1)|null|
+|**2024-01-22**|**Broiler-Net: A Deep Convolutional Framework for Broiler Behavior Analysis in Poultry Houses**|Tahereh Zarrat Ehsan et.al.|[2401.12176v1](http://arxiv.org/abs/2401.12176v1)|**[link](https://github.com/taherehzarratehsan/chicken-behavior-analysis)**|
+|**2024-01-22**|**VRMN-bD: A Multi-modal Natural Behavior Dataset of Immersive Human Fear Responses in VR Stand-up Interactive Games**|He Zhang et.al.|[2401.12133v1](http://arxiv.org/abs/2401.12133v1)|**[link](https://github.com/kindopstar/vrmn-bd)**|
+|**2024-01-22**|**Evaluation of QCNN-LSTM for Disability Forecasting in Multiple Sclerosis Using Sequential Multisequence MRI**|John D. Mayfield et.al.|[2401.12132v1](http://arxiv.org/abs/2401.12132v1)|null|
+|**2024-01-22**|**Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**|Will LeVine et.al.|[2401.12129v1](http://arxiv.org/abs/2401.12129v1)|null|
+|**2024-01-22**|**Measures of the Capital Network of the U.S. Economy**|Ben Klemens et.al.|[2401.12118v1](http://arxiv.org/abs/2401.12118v1)|null|
+|**2024-01-22**|**A quantitative version of the Steinhaus theorem**|Alex Iosevich et.al.|[2401.12112v1](http://arxiv.org/abs/2401.12112v1)|null|
 |**2024-01-19**|**Classifying affine structures with focus-focus singularities**|Xiudi Tang et.al.|[2401.10881v1](http://arxiv.org/abs/2401.10881v1)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|
 |**2024-01-19**|**Emotion Classification In Software Engineering Texts: A Comparative Analysis of Pre-trained Transformers Language Models**|Mia Mohammad Imran et.al.|[2401.10845v1](http://arxiv.org/abs/2401.10845v1)|null|
@@ -4064,6 +4074,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Improved accuracy of continuum surface flux models for metal additive manufacturing melt pool simulations**|Nils Much et.al.|[2401.12114v1](http://arxiv.org/abs/2401.12114v1)|null|
+|**2024-01-22**|**Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training**|Vedant Dave et.al.|[2401.12024v1](http://arxiv.org/abs/2401.12024v1)|null|
+|**2024-01-22**|**Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning**|Jiyuan Shen et.al.|[2401.11968v1](http://arxiv.org/abs/2401.11968v1)|null|
+|**2024-01-22**|**A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network**|Rui Huang et.al.|[2401.11914v1](http://arxiv.org/abs/2401.11914v1)|null|
+|**2024-01-22**|**Large receptive field strategy and important feature extraction strategy in 3D object detection**|Leichao Cui et.al.|[2401.11913v1](http://arxiv.org/abs/2401.11913v1)|null|
+|**2024-01-22**|**Validation of Classical Transport Cross Section for Ion-Ion Interactions Under Repulsive Yukawa Potential**|Tian-Xing Hu et.al.|[2401.11891v1](http://arxiv.org/abs/2401.11891v1)|null|
+|**2024-01-22**|**MOSformer: Momentum encoder-based inter-slice fusion transformer for medical image segmentation**|De-Xing Huang et.al.|[2401.11856v1](http://arxiv.org/abs/2401.11856v1)|null|
+|**2024-01-22**|**Adaptive Fusion of Multi-view Remote Sensing data for Optimal Sub-field Crop Yield Prediction**|Francisco Mena et.al.|[2401.11844v1](http://arxiv.org/abs/2401.11844v1)|null|
+|**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836v1](http://arxiv.org/abs/2401.11836v1)|null|
+|**2024-01-22**|**MInD: Improving Multimodal Sentiment Analysis via Multimodal Information Disentanglement**|Weichen Dai et.al.|[2401.11818v1](http://arxiv.org/abs/2401.11818v1)|null|
 |**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890v1](http://arxiv.org/abs/2401.10890v1)|null|
 |**2024-01-19**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al.|[2401.10731v1](http://arxiv.org/abs/2401.10731v1)|null|
 |**2024-01-19**|**Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection**|Atanu Mandal et.al.|[2401.10653v1](http://arxiv.org/abs/2401.10653v1)|**[link](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)**|
