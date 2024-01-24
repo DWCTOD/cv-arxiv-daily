@@ -1,4 +1,4 @@
-> Updated on 2024.01.23
+> Updated on 2024.01.24
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 - 2024-01-22, **Broiler-Net: A Deep Convolutional Framework for Broiler Behavior Analysis in Poultry Houses**, Tahereh Zarrat Ehsan et.al., Paper: [http://arxiv.org/abs/2401.12176v1](http://arxiv.org/abs/2401.12176v1), Code: **[https://github.com/taherehzarratehsan/chicken-behavior-analysis](https://github.com/taherehzarratehsan/chicken-behavior-analysis)**
 - 2024-01-22, **VRMN-bD: A Multi-modal Natural Behavior Dataset of Immersive Human Fear Responses in VR Stand-up Interactive Games**, He Zhang et.al., Paper: [http://arxiv.org/abs/2401.12133v1](http://arxiv.org/abs/2401.12133v1), Code: **[https://github.com/kindopstar/vrmn-bd](https://github.com/kindopstar/vrmn-bd)**
 - 2024-01-22, **Evaluation of QCNN-LSTM for Disability Forecasting in Multiple Sclerosis Using Sequential Multisequence MRI**, John D. Mayfield et.al., Paper: [http://arxiv.org/abs/2401.12132v1](http://arxiv.org/abs/2401.12132v1)
-- 2024-01-22, **Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**, Will LeVine et.al., Paper: [http://arxiv.org/abs/2401.12129v1](http://arxiv.org/abs/2401.12129v1)
+- 2024-01-22, **Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**, Will LeVine et.al., Paper: [http://arxiv.org/abs/2401.12129v1](http://arxiv.org/abs/2401.12129v1), Code: **[https://github.com/anonymousoodauthor/abet](https://github.com/anonymousoodauthor/abet)**
 - 2024-01-22, **Measures of the Capital Network of the U.S. Economy**, Ben Klemens et.al., Paper: [http://arxiv.org/abs/2401.12118v1](http://arxiv.org/abs/2401.12118v1)
 - 2024-01-22, **A quantitative version of the Steinhaus theorem**, Alex Iosevich et.al., Paper: [http://arxiv.org/abs/2401.12112v1](http://arxiv.org/abs/2401.12112v1)
 - 2024-01-19, **Classifying affine structures with focus-focus singularities**, Xiudi Tang et.al., Paper: [http://arxiv.org/abs/2401.10881v1](http://arxiv.org/abs/2401.10881v1)
