@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-23, **SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI**, Hanxue Gu et.al., Paper: [http://arxiv.org/abs/2401.12974v1](http://arxiv.org/abs/2401.12974v1)
+- 2024-01-23, **On the Efficacy of Text-Based Input Modalities for Action Anticipation**, Apoorva Beedu et.al., Paper: [http://arxiv.org/abs/2401.12972v1](http://arxiv.org/abs/2401.12972v1)
+- 2024-01-23, **The role of environment and AGN feedback in quenching local galaxies: Comparing cosmological hydrodynamical simulations to the SDSS**, Paul H. Goubert et.al., Paper: [http://arxiv.org/abs/2401.12953v1](http://arxiv.org/abs/2401.12953v1)
+- 2024-01-23, **Lumiere: A Space-Time Diffusion Model for Video Generation**, Omer Bar-Tal et.al., Paper: [http://arxiv.org/abs/2401.12945v1](http://arxiv.org/abs/2401.12945v1)
+- 2024-01-23, **Long-range three-dimensional tracking of nanoparticles using interferometric scattering (iSCAT) microscopy**, Kiarash Kasaian et.al., Paper: [http://arxiv.org/abs/2401.12939v1](http://arxiv.org/abs/2401.12939v1)
+- 2024-01-23, **Neural deformation fields for template-based reconstruction of cortical surfaces from MRI**, Fabian Bongratz et.al., Paper: [http://arxiv.org/abs/2401.12938v1](http://arxiv.org/abs/2401.12938v1)
+- 2024-01-23, **Segmentation of tibiofemoral joint tissues from knee MRI using MtRA-Unet and incorporating shape information: Data from the Osteoarthritis Initiative**, Akshay Daydar et.al., Paper: [http://arxiv.org/abs/2401.12932v1](http://arxiv.org/abs/2401.12932v1)
+- 2024-01-23, **pyAKI - An Open Source Solution to Automated KDIGO classification**, Christian Porschen et.al., Paper: [http://arxiv.org/abs/2401.12930v1](http://arxiv.org/abs/2401.12930v1)
+- 2024-01-23, **Performance Analysis of Support Vector Machine (SVM) on Challenging Datasets for Forest Fire Detection**, Ankan Kar et.al., Paper: [http://arxiv.org/abs/2401.12924v1](http://arxiv.org/abs/2401.12924v1)
+- 2024-01-23, **Advancing Glitch Classification in Gravity Spy: Multi-view Fusion with Attention-based Machine Learning for Advanced LIGO's Fourth Observing Run**, Yunan Wu et.al., Paper: [http://arxiv.org/abs/2401.12913v1](http://arxiv.org/abs/2401.12913v1)
 - 2024-01-22, **Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**, Haz Sameen Shahgir et.al., Paper: [http://arxiv.org/abs/2401.12210v1](http://arxiv.org/abs/2401.12210v1)
 - 2024-01-22, **Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**, Víctor Samuel Pérez-Díaz et.al., Paper: [http://arxiv.org/abs/2401.12203v1](http://arxiv.org/abs/2401.12203v1), Code: **[https://github.com/samuelperezdi/umlcaxs](https://github.com/samuelperezdi/umlcaxs)**
 - 2024-01-22, **OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**, Peiqi Liu et.al., Paper: [http://arxiv.org/abs/2401.12202v1](http://arxiv.org/abs/2401.12202v1)
@@ -4070,6 +4080,16 @@
 
 ## MultiModal
 
+- 2024-01-23, **On the Efficacy of Text-Based Input Modalities for Action Anticipation**, Apoorva Beedu et.al., Paper: [http://arxiv.org/abs/2401.12972v1](http://arxiv.org/abs/2401.12972v1)
+- 2024-01-23, **Segmentation of tibiofemoral joint tissues from knee MRI using MtRA-Unet and incorporating shape information: Data from the Osteoarthritis Initiative**, Akshay Daydar et.al., Paper: [http://arxiv.org/abs/2401.12932v1](http://arxiv.org/abs/2401.12932v1)
+- 2024-01-23, **Advancing Glitch Classification in Gravity Spy: Multi-view Fusion with Attention-based Machine Learning for Advanced LIGO's Fourth Observing Run**, Yunan Wu et.al., Paper: [http://arxiv.org/abs/2401.12913v1](http://arxiv.org/abs/2401.12913v1)
+- 2024-01-23, **Optimal compilation of parametrised quantum circuits**, John van de Wetering et.al., Paper: [http://arxiv.org/abs/2401.12877v1](http://arxiv.org/abs/2401.12877v1)
+- 2024-01-23, **Multilingual and Fully Non-Autoregressive ASR with Large Language Model Fusion: A Comprehensive Study**, W. Ronny Huang et.al., Paper: [http://arxiv.org/abs/2401.12789v1](http://arxiv.org/abs/2401.12789v1)
+- 2024-01-23, **DVL Calibration using Data-driven Methods**, Zeev Yampolsky et.al., Paper: [http://arxiv.org/abs/2401.12687v1](http://arxiv.org/abs/2401.12687v1)
+- 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568v1](http://arxiv.org/abs/2401.12568v1)
+- 2024-01-23, **Multi-Sources Information Fusion Learning for Multi-Points NLOS Localization**, Bohao Wang et.al., Paper: [http://arxiv.org/abs/2401.12538v1](http://arxiv.org/abs/2401.12538v1), Code: **[https://github.com/Horizontal666/AMDNloc](https://github.com/Horizontal666/AMDNloc)**
+- 2024-01-23, **Explore Synergistic Interaction Across Frames for Interactive Video Object Segmentation**, Kexin Li et.al., Paper: [http://arxiv.org/abs/2401.12480v1](http://arxiv.org/abs/2401.12480v1)
+- 2024-01-23, **InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction**, Zhenxing Ming et.al., Paper: [http://arxiv.org/abs/2401.12422v1](http://arxiv.org/abs/2401.12422v1)
 - 2024-01-22, **Improved accuracy of continuum surface flux models for metal additive manufacturing melt pool simulations**, Nils Much et.al., Paper: [http://arxiv.org/abs/2401.12114v1](http://arxiv.org/abs/2401.12114v1)
 - 2024-01-22, **Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training**, Vedant Dave et.al., Paper: [http://arxiv.org/abs/2401.12024v1](http://arxiv.org/abs/2401.12024v1)
 - 2024-01-22, **Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning**, Jiyuan Shen et.al., Paper: [http://arxiv.org/abs/2401.11968v1](http://arxiv.org/abs/2401.11968v1)
