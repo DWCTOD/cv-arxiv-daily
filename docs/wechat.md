@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-01-25, **Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**, Yiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2401.14405v1](http://arxiv.org/abs/2401.14405v1), Code: **[https://github.com/ailab-cvc/m2pt](https://github.com/ailab-cvc/m2pt)**
+- 2024-01-25, **Adaptive Mobile Manipulation for Articulated Objects In the Open World**, Haoyu Xiong et.al., Paper: [http://arxiv.org/abs/2401.14403v1](http://arxiv.org/abs/2401.14403v1)
+- 2024-01-25, **Range-Agnostic Multi-View Depth Estimation With Keyframe Selection**, Andrea Conti et.al., Paper: [http://arxiv.org/abs/2401.14401v1](http://arxiv.org/abs/2401.14401v1), Code: **[https://github.com/andreaconti/ramdepth](https://github.com/andreaconti/ramdepth)**
+- 2024-01-25, **Rethinking Patch Dependence for Masked Autoencoders**, Letian Fu et.al., Paper: [http://arxiv.org/abs/2401.14391v1](http://arxiv.org/abs/2401.14391v1)
+- 2024-01-25, **Smooth Ranking SVM via Cutting-Plane Method**, Erhan Can Ozcan et.al., Paper: [http://arxiv.org/abs/2401.14388v1](http://arxiv.org/abs/2401.14388v1), Code: **[https://github.com/erhancanozcan/smoothrankingsvm](https://github.com/erhancanozcan/smoothrankingsvm)**
+- 2024-01-25, **Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label Pairs**, Michael R. H. Vorndran et.al., Paper: [http://arxiv.org/abs/2401.14387v1](http://arxiv.org/abs/2401.14387v1), Code: **[https://github.com/michaelvorndran/inconsistencymasks](https://github.com/michaelvorndran/inconsistencymasks)**
+- 2024-01-25, **A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts**, Kazi Toufique Elahi et.al., Paper: [http://arxiv.org/abs/2401.14360v1](http://arxiv.org/abs/2401.14360v1), Code: **[https://github.com/ktoufiquee/a-comparative-analysis-of-noise-reduction-methods-in-sentiment-analysis-on-noisy-bengali-texts](https://github.com/ktoufiquee/a-comparative-analysis-of-noise-reduction-methods-in-sentiment-analysis-on-noisy-bengali-texts)**
+- 2024-01-25, **Computing Derivations on Nilpotent Quadratic Lie Algebras**, Pilar Benito et.al., Paper: [http://arxiv.org/abs/2401.14348v1](http://arxiv.org/abs/2401.14348v1)
+- 2024-01-25, **Class-attribute Priors: Adapting Optimization to Heterogeneity and Fairness Objective**, Xuechen Zhang et.al., Paper: [http://arxiv.org/abs/2401.14343v1](http://arxiv.org/abs/2401.14343v1)
+- 2024-01-25, **Progressive Multi-task Anti-Noise Learning and Distilling Frameworks for Fine-grained Vehicle Recognition**, Dichao Liu et.al., Paper: [http://arxiv.org/abs/2401.14336v1](http://arxiv.org/abs/2401.14336v1), Code: **[https://github.com/dichao-liu/anti-noise_fgvr](https://github.com/dichao-liu/anti-noise_fgvr)**
 - 2024-01-24, **Tyche: Stochastic In-Context Learning for Medical Image Segmentation**, Marianne Rakic et.al., Paper: [http://arxiv.org/abs/2401.13650v1](http://arxiv.org/abs/2401.13650v1)
 - 2024-01-24, **Quantifying the Impact of Frame Preemption on Combined TSN Shapers**, Rubi Debnath et.al., Paper: [http://arxiv.org/abs/2401.13631v1](http://arxiv.org/abs/2401.13631v1)
 - 2024-01-24, **Can overfitted deep neural networks in adversarial training generalize? -- An approximation viewpoint**, Zhongjie Shi et.al., Paper: [http://arxiv.org/abs/2401.13624v1](http://arxiv.org/abs/2401.13624v1)
@@ -4090,6 +4100,15 @@
 
 ## MultiModal
 
+- 2024-01-25, **Bonding Grammars**, Tikhon Pshenitsyn et.al., Paper: [http://arxiv.org/abs/2401.14377v1](http://arxiv.org/abs/2401.14377v1)
+- 2024-01-25, **MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2401.14314v1](http://arxiv.org/abs/2401.14314v1)
+- 2024-01-25, **TDFNet: An Efficient Audio-Visual Speech Separation Model with Top-down Fusion**, Samuel Pegg et.al., Paper: [http://arxiv.org/abs/2401.14185v1](http://arxiv.org/abs/2401.14185v1)
+- 2024-01-25, **Runaway Electron Dynamics in ITER Disruptions with Shattered Pellet Injections**, Oskar Vallhagen et.al., Paper: [http://arxiv.org/abs/2401.14167v1](http://arxiv.org/abs/2401.14167v1)
+- 2024-01-25, **Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease**, Yihao Lin et.al., Paper: [http://arxiv.org/abs/2401.14130v1](http://arxiv.org/abs/2401.14130v1)
+- 2024-01-25, **MIFI: MultI-camera Feature Integration for Roust 3D Distracted Driver Activity Recognition**, Jian Kuang et.al., Paper: [http://arxiv.org/abs/2401.14115v1](http://arxiv.org/abs/2401.14115v1), Code: **[https://github.com/john828/mifi](https://github.com/john828/mifi)**
+- 2024-01-25, **An Extensible Framework for Open Heterogeneous Collaborative Perception**, Yifan Lu et.al., Paper: [http://arxiv.org/abs/2401.13964v1](http://arxiv.org/abs/2401.13964v1), Code: **[https://github.com/yifanlu0227/heal](https://github.com/yifanlu0227/heal)**
+- 2024-01-24, **Levin-Wen is a gauge theory: entanglement from topology**, Kyle Kawagoe et.al., Paper: [http://arxiv.org/abs/2401.13838v1](http://arxiv.org/abs/2401.13838v1)
+- 2024-01-24, **Faster Convergence with Less Communication: Broadcast-Based Subgraph Sampling for Decentralized Learning over Wireless Networks**, Daniel Pérez Herrera et.al., Paper: [http://arxiv.org/abs/2401.13779v1](http://arxiv.org/abs/2401.13779v1)
 - 2024-01-24, **Perception-latency aware distributed target tracking**, Rodrigo Aldana-López et.al., Paper: [http://arxiv.org/abs/2401.13602v1](http://arxiv.org/abs/2401.13602v1)
 - 2024-01-24, **Serial fusion of multi-modal biometric systems**, Gian Luca Marcialis et.al., Paper: [http://arxiv.org/abs/2401.13418v1](http://arxiv.org/abs/2401.13418v1)
 - 2024-01-24, **Privacy-Preserving Face Recognition in Hybrid Frequency-Color Domain**, Dong Han et.al., Paper: [http://arxiv.org/abs/2401.13386v1](http://arxiv.org/abs/2401.13386v1)
