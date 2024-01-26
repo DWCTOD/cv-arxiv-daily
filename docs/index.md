@@ -4105,7 +4105,7 @@ layout: default
 |**2024-01-24**|**Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models**|Hongzhan Lin et.al.|[2401.13298v1](http://arxiv.org/abs/2401.13298v1)|**[link](https://github.com/hkbunlp/explainhm-www2024)**|
 |**2024-01-24**|**Simplified Shielded MEG-MRI Multimodal System with Scalar-mode Optically Pumped Magnetometers as MEG Sensors**|Yosuke Ito et.al.|[2401.13287v1](http://arxiv.org/abs/2401.13287v1)|null|
 |**2024-01-24**|**MF-AED-AEC: Speech Emotion Recognition by Leveraging Multimodal Fusion, ASR Error Detection, and ASR Error Correction**|Jiajun He et.al.|[2401.13260v1](http://arxiv.org/abs/2401.13260v1)|null|
-|**2024-01-24**|**MOS-FAD: Improving Fake Audio Detection Via Automatic Mean Opinion Score Prediction**|Wangjin Zhou et.al.|[2401.13249v1](http://arxiv.org/abs/2401.13249v1)|null|
+|**2024-01-25**|**MOS-FAD: Improving Fake Audio Detection Via Automatic Mean Opinion Score Prediction**|Wangjin Zhou et.al.|[2401.13249v2](http://arxiv.org/abs/2401.13249v2)|null|
 |**2024-01-23**|**Dual-Domain Coarse-to-Fine Progressive Estimation Network for Simultaneous Denoising, Limited-View Reconstruction, and Attenuation Correction of Cardiac SPECT**|Xiongchao Chen et.al.|[2401.13140v1](http://arxiv.org/abs/2401.13140v1)|**[link](https://github.com/xiongchaochen/dudocfnet-multitask)**|
 |**2024-01-23**|**PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**|Shyam Sundar Kannan et.al.|[2401.13082v1](http://arxiv.org/abs/2401.13082v1)|null|
 |**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972v1](http://arxiv.org/abs/2401.12972v1)|null|
