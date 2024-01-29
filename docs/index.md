@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071v1](http://arxiv.org/abs/2401.15071v1)|null|
+|**2024-01-26**|**Deep learning-based approach for tomato classification in complex scenes**|Mikael A. Mousse et.al.|[2401.15055v1](http://arxiv.org/abs/2401.15055v1)|null|
+|**2024-01-26**|**Non-Unitary $3 \times 3$ Mixing in Majorana Neutrinos and Vector-like Quark Models**|Pedro M. F. Pereira et.al.|[2401.15049v1](http://arxiv.org/abs/2401.15049v1)|null|
+|**2024-01-26**|**Machine learning-based analysis of glioma tissue sections: a review**|Jan-Philipp Redlich et.al.|[2401.15022v1](http://arxiv.org/abs/2401.15022v1)|null|
+|**2024-01-26**|**Enhancement of a Text-Independent Speaker Verification System by using Feature Combination and Parallel-Structure Classifiers**|Kerlos Atia Abdalmalak et.al.|[2401.15018v1](http://arxiv.org/abs/2401.15018v1)|null|
+|**2024-01-26**|**Graph-based Active Learning for Entity Cluster Repair**|Victor Christen et.al.|[2401.14992v1](http://arxiv.org/abs/2401.14992v1)|null|
+|**2024-01-26**|**Stokes graphs of the Rabi problem with real parameters**|René Langøen et.al.|[2401.14991v1](http://arxiv.org/abs/2401.14991v1)|null|
+|**2024-01-26**|**Minimum-dissipation principle for synchronised stochastic oscillators far from equilibrium**|Jan Meibohm et.al.|[2401.14982v1](http://arxiv.org/abs/2401.14982v1)|null|
+|**2024-01-26**|**Microwave lymphedema assessment using deep learning with contour assisted backprojection**|Yuyi Chang et.al.|[2401.14970v1](http://arxiv.org/abs/2401.14970v1)|null|
+|**2024-01-26**|**Hold Tight: Identifying Behavioral Patterns During Prolonged Work in VR through Video Analysis**|Verena Biener et.al.|[2401.14920v1](http://arxiv.org/abs/2401.14920v1)|null|
 |**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405v1](http://arxiv.org/abs/2401.14405v1)|**[link](https://github.com/ailab-cvc/m2pt)**|
 |**2024-01-25**|**Adaptive Mobile Manipulation for Articulated Objects In the Open World**|Haoyu Xiong et.al.|[2401.14403v1](http://arxiv.org/abs/2401.14403v1)|null|
 |**2024-01-25**|**Range-Agnostic Multi-View Depth Estimation With Keyframe Selection**|Andrea Conti et.al.|[2401.14401v1](http://arxiv.org/abs/2401.14401v1)|**[link](https://github.com/andreaconti/ramdepth)**|
@@ -4108,6 +4118,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Robust Dual-Modal Speech Keyword Spotting for XR Headsets**|Zhuojiang Cai et.al.|[2401.14978v1](http://arxiv.org/abs/2401.14978v1)|null|
+|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
+|**2024-01-26**|**Multi-modality action recognition based on dual feature shift in vehicle cabin monitoring**|Dan Lin et.al.|[2401.14838v1](http://arxiv.org/abs/2401.14838v1)|null|
+|**2024-01-26**|**VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising**|Yuxiang Hui et.al.|[2401.14754v1](http://arxiv.org/abs/2401.14754v1)|null|
+|**2024-01-26**|**Turn-taking and Backchannel Prediction with Acoustic and Large Language Model Fusion**|Jinhan Wang et.al.|[2401.14717v1](http://arxiv.org/abs/2401.14717v1)|null|
+|**2024-01-26**|**Super Efficient Neural Network for Compression Artifacts Reduction and Super Resolution**|Wen Ma et.al.|[2401.14641v1](http://arxiv.org/abs/2401.14641v1)|null|
 |**2024-01-25**|**Bonding Grammars**|Tikhon Pshenitsyn et.al.|[2401.14377v1](http://arxiv.org/abs/2401.14377v1)|null|
 |**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314v1](http://arxiv.org/abs/2401.14314v1)|null|
 |**2024-01-25**|**TDFNet: An Efficient Audio-Visual Speech Separation Model with Top-down Fusion**|Samuel Pegg et.al.|[2401.14185v1](http://arxiv.org/abs/2401.14185v1)|null|
