@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Computer Vision for Primate Behavior Analysis in the Wild**|Richard Vogg et.al.|[2401.16424v1](http://arxiv.org/abs/2401.16424v1)|null|
+|**2024-01-29**|**Synchformer: Efficient Synchronization from Sparse Cues**|Vladimir Iashin et.al.|[2401.16423v1](http://arxiv.org/abs/2401.16423v1)|null|
+|**2024-01-29**|**Strategic Usage in a Multi-Learner Setting**|Eliot Shekhtman et.al.|[2401.16422v1](http://arxiv.org/abs/2401.16422v1)|null|
+|**2024-01-29**|**ReTaSA: A Nonparametric Functional Estimation Approach for Addressing Continuous Target Shift**|Hwanwoo Kim et.al.|[2401.16410v1](http://arxiv.org/abs/2401.16410v1)|null|
+|**2024-01-29**|**Is K-fold cross validation the best model selection method for Machine Learning?**|Juan M Gorriz et.al.|[2401.16407v1](http://arxiv.org/abs/2401.16407v1)|null|
+|**2024-01-29**|**Zero-shot Imitation Policy via Search in Demonstration Dataset**|Federco Malato et.al.|[2401.16398v1](http://arxiv.org/abs/2401.16398v1)|null|
+|**2024-01-29**|**Ovarian Cancer Diagnostics using Wavelet Packet Scaling Descriptors**|Raymond J. Hinton Jr. et.al.|[2401.16396v1](http://arxiv.org/abs/2401.16396v1)|null|
+|**2024-01-29**|**Evaluation of pseudo-healthy image reconstruction for anomaly detection with deep generative models: Application to brain FDG PET**|Ravi Hassanaly et.al.|[2401.16363v1](http://arxiv.org/abs/2401.16363v1)|**[link](https://github.com/ravih18/uad_evaluation_framework)**|
+|**2024-01-29**|**Curriculum-Based Reinforcement Learning for Quadrupedal Jumping: A Reference-free Design**|Vassil Atanassov et.al.|[2401.16337v1](http://arxiv.org/abs/2401.16337v1)|null|
+|**2024-01-29**|**Making the unmodulated Pyramid wavefront sensor smart. Closed-loop demonstration of neural network wavefront reconstruction with MagAO-X**|Rico Landman et.al.|[2401.16325v1](http://arxiv.org/abs/2401.16325v1)|null|
 |**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071v1](http://arxiv.org/abs/2401.15071v1)|null|
 |**2024-01-26**|**Deep learning-based approach for tomato classification in complex scenes**|Mikael A. Mousse et.al.|[2401.15055v1](http://arxiv.org/abs/2401.15055v1)|null|
 |**2024-01-26**|**Non-Unitary $3 \times 3$ Mixing in Majorana Neutrinos and Vector-like Quark Models**|Pedro M. F. Pereira et.al.|[2401.15049v1](http://arxiv.org/abs/2401.15049v1)|null|
@@ -4114,6 +4124,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Scalable Factor Graph-Based Heterogeneous Bayesian DDF for Dynamic Systems**|Ofer Dagan et.al.|[2401.16301v1](http://arxiv.org/abs/2401.16301v1)|null|
+|**2024-01-29**|**Competition between phase ordering and phase segregation in the Ti$_x$NbMoTaW and Ti$_x$VNbMoTaW refractory high-entropy alloys**|Christopher D. Woodgate et.al.|[2401.16243v1](http://arxiv.org/abs/2401.16243v1)|null|
+|**2024-01-29**|**Parametric analysis of electron beam quality in laser wakefield acceleration based on the truncated ionization injection mechanism**|Srimanta Maity et.al.|[2401.16082v1](http://arxiv.org/abs/2401.16082v1)|null|
+|**2024-01-29**|**A Hybrid MLP-Quantum approach in Graph Convolutional Neural Networks for Oceanic Nino Index (ONI) prediction**|Francesco Mauro et.al.|[2401.16049v1](http://arxiv.org/abs/2401.16049v1)|null|
+|**2024-01-29**|**DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems**|Youcheng Zeng et.al.|[2401.16017v1](http://arxiv.org/abs/2401.16017v1)|null|
+|**2024-01-29**|**An Information Aggregation Operator**|Heyang Gong et.al.|[2401.15867v1](http://arxiv.org/abs/2401.15867v1)|null|
+|**2024-01-29**|**Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression**|Xihua Sheng et.al.|[2401.15864v1](http://arxiv.org/abs/2401.15864v1)|null|
+|**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841v1](http://arxiv.org/abs/2401.15841v1)|null|
+|**2024-01-29**|**Knowledge-Aware Neuron Interpretation for Scene Classification**|Yong Guan et.al.|[2401.15820v1](http://arxiv.org/abs/2401.15820v1)|null|
+|**2024-01-28**|**An objective comparison of methods for augmented reality in laparoscopic liver resection by preoperative-to-intraoperative image fusion**|Sharib Ali et.al.|[2401.15753v1](http://arxiv.org/abs/2401.15753v1)|null|
 |**2024-01-26**|**Robust Dual-Modal Speech Keyword Spotting for XR Headsets**|Zhuojiang Cai et.al.|[2401.14978v1](http://arxiv.org/abs/2401.14978v1)|null|
 |**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
 |**2024-01-26**|**Multi-modality action recognition based on dual feature shift in vehicle cabin monitoring**|Dan Lin et.al.|[2401.14838v1](http://arxiv.org/abs/2401.14838v1)|null|
