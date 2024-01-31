@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**The SRG/eROSITA all-sky survey: Hard X-ray selected Active Galactic Nuclei**|Sophia G. H. Waddell et.al.|[2401.17306v1](http://arxiv.org/abs/2401.17306v1)|null|
+|**2024-01-30**|**Compact white-dwarf binaries in the combined SRG/eROSITA/SDSS eFEDS survey**|A. Schwope et.al.|[2401.17304v1](http://arxiv.org/abs/2401.17304v1)|null|
+|**2024-01-30**|**Searching for X-ray counterparts of unassociated Fermi-LAT sources and rotation-powered pulsars with SRG/eROSITA**|Martin G. F. Mayer et.al.|[2401.17295v1](http://arxiv.org/abs/2401.17295v1)|null|
+|**2024-01-30**|**X-ray AGNs with SRG/eROSITA: Multi-wavelength observations reveal merger triggering and post-coalescence circumnuclear blowout**|Robert W. Bickley et.al.|[2401.17277v1](http://arxiv.org/abs/2401.17277v1)|null|
+|**2024-01-30**|**ReacLLaMA: Merging chemical and textual information in chemical reactivity AI models**|Aline Hartgers et.al.|[2401.17267v1](http://arxiv.org/abs/2401.17267v1)|null|
+|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246v1](http://arxiv.org/abs/2401.17246v1)|null|
+|**2024-01-30**|**Faster coloring and embedding in dense hypergraphs via stability**|Jianfeng Hou et.al.|[2401.17219v1](http://arxiv.org/abs/2401.17219v1)|null|
+|**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217v1](http://arxiv.org/abs/2401.17217v1)|null|
+|**2024-01-30**|**Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers**|Lei Xu et.al.|[2401.17196v1](http://arxiv.org/abs/2401.17196v1)|null|
+|**2024-01-30**|**GraphViz2Vec: A Structure-aware Feature Generation Model to Improve Classification in GNNs**|Shraban Kumar Chatterjee et.al.|[2401.17178v1](http://arxiv.org/abs/2401.17178v1)|null|
 |**2024-01-29**|**Computer Vision for Primate Behavior Analysis in the Wild**|Richard Vogg et.al.|[2401.16424v1](http://arxiv.org/abs/2401.16424v1)|null|
 |**2024-01-29**|**Synchformer: Efficient Synchronization from Sparse Cues**|Vladimir Iashin et.al.|[2401.16423v1](http://arxiv.org/abs/2401.16423v1)|null|
 |**2024-01-29**|**Strategic Usage in a Multi-Learner Setting**|Eliot Shekhtman et.al.|[2401.16422v1](http://arxiv.org/abs/2401.16422v1)|null|
@@ -4124,6 +4134,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221v1](http://arxiv.org/abs/2401.17221v1)|null|
+|**2024-01-30**|**Vanishing of Dimits Shift in Realistic Fusion Plasmas with Negative Magnetic Shear**|Dingkun Yang et.al.|[2401.17162v1](http://arxiv.org/abs/2401.17162v1)|null|
+|**2024-01-30**|**Cell spheroid viscoelasticity is deformation-dependent**|Ruben C. Boot et.al.|[2401.17155v1](http://arxiv.org/abs/2401.17155v1)|null|
+|**2024-01-30**|**Explainable data-driven modeling via mixture of experts: towards effective blending of grey and black-box models**|Jessica Leoni et.al.|[2401.17118v1](http://arxiv.org/abs/2401.17118v1)|null|
+|**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064v1](http://arxiv.org/abs/2401.17064v1)|null|
+|**2024-01-30**|**Spectral gaps, critical exponents and representations of negatively curved groups**|Kevin Boucher et.al.|[2401.16962v1](http://arxiv.org/abs/2401.16962v1)|null|
+|**2024-01-30**|**Two Heads Are Better Than One: Integrating Knowledge from Knowledge Graphs and Large Language Models for Entity Alignment**|Linyao Yang et.al.|[2401.16960v1](http://arxiv.org/abs/2401.16960v1)|null|
+|**2024-01-30**|**Fourier Prompt Tuning for Modality-Incomplete Scene Segmentation**|Ruiping Liu et.al.|[2401.16923v1](http://arxiv.org/abs/2401.16923v1)|null|
+|**2024-01-30**|**CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation**|Ming Kang et.al.|[2401.16886v1](http://arxiv.org/abs/2401.16886v1)|null|
+|**2024-01-30**|**Checkmating One, by Using Many: Combining Mixture of Experts with MCTS to Improve in Chess**|Felix Helfenstein et.al.|[2401.16852v1](http://arxiv.org/abs/2401.16852v1)|**[link](https://github.com/helpstonex/crazyara)**|
 |**2024-01-29**|**Scalable Factor Graph-Based Heterogeneous Bayesian DDF for Dynamic Systems**|Ofer Dagan et.al.|[2401.16301v1](http://arxiv.org/abs/2401.16301v1)|null|
 |**2024-01-29**|**Competition between phase ordering and phase segregation in the Ti$_x$NbMoTaW and Ti$_x$VNbMoTaW refractory high-entropy alloys**|Christopher D. Woodgate et.al.|[2401.16243v1](http://arxiv.org/abs/2401.16243v1)|null|
 |**2024-01-29**|**Parametric analysis of electron beam quality in laser wakefield acceleration based on the truncated ionization injection mechanism**|Srimanta Maity et.al.|[2401.16082v1](http://arxiv.org/abs/2401.16082v1)|null|
