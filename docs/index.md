@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@ layout: default
 |**2024-01-30**|**Searching for X-ray counterparts of unassociated Fermi-LAT sources and rotation-powered pulsars with SRG/eROSITA**|Martin G. F. Mayer et.al.|[2401.17295v1](http://arxiv.org/abs/2401.17295v1)|null|
 |**2024-01-30**|**X-ray AGNs with SRG/eROSITA: Multi-wavelength observations reveal merger triggering and post-coalescence circumnuclear blowout**|Robert W. Bickley et.al.|[2401.17277v1](http://arxiv.org/abs/2401.17277v1)|null|
 |**2024-01-30**|**ReacLLaMA: Merging chemical and textual information in chemical reactivity AI models**|Aline Hartgers et.al.|[2401.17267v1](http://arxiv.org/abs/2401.17267v1)|null|
-|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246v1](http://arxiv.org/abs/2401.17246v1)|null|
+|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246v1](http://arxiv.org/abs/2401.17246v1)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
 |**2024-01-30**|**Faster coloring and embedding in dense hypergraphs via stability**|Jianfeng Hou et.al.|[2401.17219v1](http://arxiv.org/abs/2401.17219v1)|null|
 |**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217v1](http://arxiv.org/abs/2401.17217v1)|null|
 |**2024-01-30**|**Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers**|Lei Xu et.al.|[2401.17196v1](http://arxiv.org/abs/2401.17196v1)|null|
@@ -4138,7 +4138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221v1](http://arxiv.org/abs/2401.17221v1)|null|
+|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221v1](http://arxiv.org/abs/2401.17221v1)|**[link](https://github.com/fudannlplab/mousi)**|
 |**2024-01-30**|**Vanishing of Dimits Shift in Realistic Fusion Plasmas with Negative Magnetic Shear**|Dingkun Yang et.al.|[2401.17162v1](http://arxiv.org/abs/2401.17162v1)|null|
 |**2024-01-30**|**Cell spheroid viscoelasticity is deformation-dependent**|Ruben C. Boot et.al.|[2401.17155v1](http://arxiv.org/abs/2401.17155v1)|null|
 |**2024-01-30**|**Explainable data-driven modeling via mixture of experts: towards effective blending of grey and black-box models**|Jessica Leoni et.al.|[2401.17118v1](http://arxiv.org/abs/2401.17118v1)|null|
