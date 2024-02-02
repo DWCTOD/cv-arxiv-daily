@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**We're Not Using Videos Effectively: An Updated Domain Adaptive Video Segmentation Baseline**|Simar Kareer et.al.|[2402.00868v1](http://arxiv.org/abs/2402.00868v1)|**[link](https://github.com/simarkareer/unifiedvideoda)**|
+|**2024-02-01**|**Deep Room Impulse Response Completion**|Jackie Lin et.al.|[2402.00859v1](http://arxiv.org/abs/2402.00859v1)|null|
+|**2024-02-01**|**Early Time Classification with Accumulated Accuracy Gap Control**|Liran Ringel et.al.|[2402.00857v1](http://arxiv.org/abs/2402.00857v1)|**[link](https://github.com/liranringel/etc)**|
+|**2024-02-01**|**BootsTAP: Bootstrapped Training for Tracking-Any-Point**|Carl Doersch et.al.|[2402.00847v1](http://arxiv.org/abs/2402.00847v1)|null|
+|**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
+|**2024-02-01**|**Examining the Influence of Digital Phantom Models in Virtual Imaging Trials for Tomographic Breast Imaging**|Amar Kavuri et.al.|[2402.00812v1](http://arxiv.org/abs/2402.00812v1)|null|
+|**2024-02-01**|**ReAGent: Towards A Model-agnostic Feature Attribution Method for Generative Language Models**|Zhixue Zhao et.al.|[2402.00794v1](http://arxiv.org/abs/2402.00794v1)|null|
+|**2024-02-01**|**Distinguishing the Indistinguishable: Human Expertise in Algorithmic Prediction**|Rohan Alur et.al.|[2402.00793v1](http://arxiv.org/abs/2402.00793v1)|**[link](https://github.com/ralur/human-expertise-algorithmic-prediction)**|
+|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786v1](http://arxiv.org/abs/2402.00786v1)|null|
+|**2024-02-01**|**Hybrid Quantum Vision Transformers for Event Classification in High Energy Physics**|Eyup B. Unlu et.al.|[2402.00776v1](http://arxiv.org/abs/2402.00776v1)|null|
 |**2024-01-31**|**Classification-Oriented Semantic Wireless Communications**|Emrecan Kutay et.al.|[2401.18069v1](http://arxiv.org/abs/2401.18069v1)|null|
 |**2024-01-31**|**Rank Supervised Contrastive Learning for Time Series Classification**|Qianying Ren et.al.|[2401.18057v1](http://arxiv.org/abs/2401.18057v1)|null|
 |**2024-01-31**|**Variable selection for Naïve Bayes classification**|Rafael Blanquero et.al.|[2401.18039v1](http://arxiv.org/abs/2401.18039v1)|null|
@@ -4148,6 +4158,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**|Mateus Valverde Gasparino et.al.|[2402.00683v1](http://arxiv.org/abs/2402.00683v1)|null|
+|**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637v1](http://arxiv.org/abs/2402.00637v1)|null|
+|**2024-02-01**|**Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization**|Zhanhong Tan et.al.|[2402.00629v1](http://arxiv.org/abs/2402.00629v1)|null|
+|**2024-02-01**|**EXMOS: Explanatory Model Steering Through Multifaceted Explanations and Data Configurations**|Aditya Bhattacharya et.al.|[2402.00491v1](http://arxiv.org/abs/2402.00491v1)|**[link](https://github.com/adib0073/exmos)**|
+|**2024-02-01**|**Simulations of poloidal flow stabilization of ballooning modes in a classical l=2 stellarator using JOREK**|Bridget McGibbon et.al.|[2402.00458v1](http://arxiv.org/abs/2402.00458v1)|null|
+|**2024-02-01**|**Determination of the relative sign of the Higgs boson couplings to $W$ and $Z$ bosons using $WH$ production via vector-boson fusion with the ATLAS detector**|ATLAS Collaboration et.al.|[2402.00426v1](http://arxiv.org/abs/2402.00426v1)|null|
+|**2024-02-01**|**Classification of connected étale algebras in multiplicity-free modular fusion categories at rank six**|Ken Kikuchi et.al.|[2402.00403v1](http://arxiv.org/abs/2402.00403v1)|null|
+|**2024-02-01**|**Continuous-time Trajectory Estimation: A Comparative Study Between Gaussian Process and Spline-based Approaches**|Jacob Johnson et.al.|[2402.00399v1](http://arxiv.org/abs/2402.00399v1)|null|
+|**2024-02-01**|**SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism**|Yuang Zhang et.al.|[2402.00321v1](http://arxiv.org/abs/2402.00321v1)|null|
+|**2024-02-01**|**Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective**|Qun Ma et.al.|[2402.00262v1](http://arxiv.org/abs/2402.00262v1)|null|
 |**2024-01-31**|**PVLR: Prompt-driven Visual-Linguistic Representation Learning for Multi-Label Image Recognition**|Hao Tan et.al.|[2401.17881v1](http://arxiv.org/abs/2401.17881v1)|null|
 |**2024-01-31**|**Instruction-Guided Scene Text Recognition**|Yongkun Du et.al.|[2401.17851v1](http://arxiv.org/abs/2401.17851v1)|null|
 |**2024-01-31**|**Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation**|Rozhan Ahmadi et.al.|[2401.17828v1](http://arxiv.org/abs/2401.17828v1)|null|
