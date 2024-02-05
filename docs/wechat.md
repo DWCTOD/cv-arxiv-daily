@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-02-02, **From gas to stars: MUSEings on the internal evolution of IC 1613**, S. Taibi et.al., Paper: [http://arxiv.org/abs/2402.01631v1](http://arxiv.org/abs/2402.01631v1)
+- 2024-02-02, **Truncation technique for variational quantum eigensolver for Molecular Hamiltonians**, Qidong Xu et.al., Paper: [http://arxiv.org/abs/2402.01630v1](http://arxiv.org/abs/2402.01630v1)
+- 2024-02-02, **L2G2G: a Scalable Local-to-Global Network Embedding with Graph Autoencoders**, Ruikang Ouyang et.al., Paper: [http://arxiv.org/abs/2402.01614v1](http://arxiv.org/abs/2402.01614v1), Code: **[https://github.com/tonyauyeung/local2gae2global](https://github.com/tonyauyeung/local2gae2global)**
+- 2024-02-02, **Immersive Video Compression using Implicit Neural Representations**, Ho Man Kwan et.al., Paper: [http://arxiv.org/abs/2402.01596v1](http://arxiv.org/abs/2402.01596v1), Code: **[https://github.com/hmkx/mv-hinerv](https://github.com/hmkx/mv-hinerv)**
+- 2024-02-02, **NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**, Jingyuan Sun et.al., Paper: [http://arxiv.org/abs/2402.01590v1](http://arxiv.org/abs/2402.01590v1)
+- 2024-02-02, **Boximator: Generating Rich and Controllable Motions for Video Synthesis**, Jiawei Wang et.al., Paper: [http://arxiv.org/abs/2402.01566v1](http://arxiv.org/abs/2402.01566v1)
+- 2024-02-02, **Deep Continuous Networks**, Nergis Tomen et.al., Paper: [http://arxiv.org/abs/2402.01557v1](http://arxiv.org/abs/2402.01557v1), Code: **[https://github.com/ntomen/deep-continuous-networks](https://github.com/ntomen/deep-continuous-networks)**
+- 2024-02-02, **SLYKLatent, a Learning Framework for Facial Features Estimation**, Samuel Adebayo et.al., Paper: [http://arxiv.org/abs/2402.01555v1](http://arxiv.org/abs/2402.01555v1)
+- 2024-02-02, **Advancing Brain Tumor Inpainting with Generative Models**, Ruizhi Zhu et.al., Paper: [http://arxiv.org/abs/2402.01509v1](http://arxiv.org/abs/2402.01509v1)
+- 2024-02-02, **Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**, Mahboubeh Asadi et.al., Paper: [http://arxiv.org/abs/2402.01485v1](http://arxiv.org/abs/2402.01485v1)
 - 2024-02-01, **We're Not Using Videos Effectively: An Updated Domain Adaptive Video Segmentation Baseline**, Simar Kareer et.al., Paper: [http://arxiv.org/abs/2402.00868v1](http://arxiv.org/abs/2402.00868v1), Code: **[https://github.com/simarkareer/unifiedvideoda](https://github.com/simarkareer/unifiedvideoda)**
 - 2024-02-01, **Deep Room Impulse Response Completion**, Jackie Lin et.al., Paper: [http://arxiv.org/abs/2402.00859v1](http://arxiv.org/abs/2402.00859v1)
 - 2024-02-01, **Early Time Classification with Accumulated Accuracy Gap Control**, Liran Ringel et.al., Paper: [http://arxiv.org/abs/2402.00857v1](http://arxiv.org/abs/2402.00857v1), Code: **[https://github.com/liranringel/etc](https://github.com/liranringel/etc)**
@@ -4150,6 +4160,16 @@
 
 ## MultiModal
 
+- 2024-02-02, **SiMA-Hand: Boosting 3D Hand-Mesh Reconstruction by Single-to-Multi-View Adaptation**, Yinqiao Wang et.al., Paper: [http://arxiv.org/abs/2402.01389v1](http://arxiv.org/abs/2402.01389v1), Code: **[https://github.com/JoyboyWang/SiMA-Hand_Pytorch](https://github.com/JoyboyWang/SiMA-Hand_Pytorch)**
+- 2024-02-02, **FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**, Liping Yi et.al., Paper: [http://arxiv.org/abs/2402.01350v1](http://arxiv.org/abs/2402.01350v1)
+- 2024-02-02, **Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion**, Zexi Li et.al., Paper: [http://arxiv.org/abs/2402.01342v1](http://arxiv.org/abs/2402.01342v1)
+- 2024-02-02, **Deep Multimodal Fusion of Data with Heterogeneous Dimensionality via Projective Networks**, José Morano et.al., Paper: [http://arxiv.org/abs/2402.01311v1](http://arxiv.org/abs/2402.01311v1), Code: **[https://github.com/j-morano/multimodal-fusion-fpn](https://github.com/j-morano/multimodal-fusion-fpn)**
+- 2024-02-02, **TSJNet: A Multi-modality Target and Semantic Awareness Joint-driven Image Fusion Network**, Yuchan Jie et.al., Paper: [http://arxiv.org/abs/2402.01212v1](http://arxiv.org/abs/2402.01212v1)
+- 2024-02-02, **DeepBranchTracer: A Generally-Applicable Approach to Curvilinear Structure Reconstruction Using Multi-Feature Learning**, Chao Liu et.al., Paper: [http://arxiv.org/abs/2402.01187v1](http://arxiv.org/abs/2402.01187v1), Code: **[https://github.com/csdllab/deepbranchtracer](https://github.com/csdllab/deepbranchtracer)**
+- 2024-02-02, **Scale Equalization for Multi-Level Feature Fusion**, Bum Jun Kim et.al., Paper: [http://arxiv.org/abs/2402.01149v1](http://arxiv.org/abs/2402.01149v1)
+- 2024-02-01, **Compressed image quality assessment using stacking**, S. Farhad Hosseini-Benvidi et.al., Paper: [http://arxiv.org/abs/2402.00993v1](http://arxiv.org/abs/2402.00993v1)
+- 2024-02-01, **Enhanced fringe-to-phase framework using deep learning**, Won-Hoe Kim et.al., Paper: [http://arxiv.org/abs/2402.00977v1](http://arxiv.org/abs/2402.00977v1)
+- 2024-02-01, **FuseFormer: A Transformer for Visual and Thermal Image Fusion**, Aytekin Erdogan et.al., Paper: [http://arxiv.org/abs/2402.00971v1](http://arxiv.org/abs/2402.00971v1)
 - 2024-02-01, **WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**, Mateus Valverde Gasparino et.al., Paper: [http://arxiv.org/abs/2402.00683v1](http://arxiv.org/abs/2402.00683v1)
 - 2024-02-01, **Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**, Arindam Das et.al., Paper: [http://arxiv.org/abs/2402.00637v1](http://arxiv.org/abs/2402.00637v1)
 - 2024-02-01, **Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization**, Zhanhong Tan et.al., Paper: [http://arxiv.org/abs/2402.00629v1](http://arxiv.org/abs/2402.00629v1)
