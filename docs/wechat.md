@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-02-05, **Multiclass Classification Procedure for Detecting Attacks on MQTT-IoT Protocol**, Hector Alaiz-Moreton et.al., Paper: [http://arxiv.org/abs/2402.03270v1](http://arxiv.org/abs/2402.03270v1)
+- 2024-02-05, **Security Advice for Parents and Children About Content Filtering and Circumvention as Found on YouTube and TikTok**, Ran Elgedawy et.al., Paper: [http://arxiv.org/abs/2402.03255v1](http://arxiv.org/abs/2402.03255v1)
+- 2024-02-05, **JOBSKAPE: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching**, Antoine Magron et.al., Paper: [http://arxiv.org/abs/2402.03242v1](http://arxiv.org/abs/2402.03242v1), Code: **[https://github.com/magantoine/jobskape](https://github.com/magantoine/jobskape)**
+- 2024-02-05, **FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition**, Xiaohu Huang et.al., Paper: [http://arxiv.org/abs/2402.03241v1](http://arxiv.org/abs/2402.03241v1)
+- 2024-02-05, **IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**, Vincent Roca et.al., Paper: [http://arxiv.org/abs/2402.03227v1](http://arxiv.org/abs/2402.03227v1)
+- 2024-02-05, **English Prompts are Better for NLI-based Zero-Shot Emotion Classification than Target-Language Prompts**, Patrick Barreiß et.al., Paper: [http://arxiv.org/abs/2402.03223v1](http://arxiv.org/abs/2402.03223v1)
+- 2024-02-05, **"Define Your Terms" : Enhancing Efficient Offensive Speech Classification with Definition**, Huy Nghiem et.al., Paper: [http://arxiv.org/abs/2402.03221v1](http://arxiv.org/abs/2402.03221v1), Code: **[https://github.com/hnghiem-usc/define_your_terms](https://github.com/hnghiem-usc/define_your_terms)**
+- 2024-02-05, **Isotropy, Clusters, and Classifiers**, Timothee Mickus et.al., Paper: [http://arxiv.org/abs/2402.03191v1](http://arxiv.org/abs/2402.03191v1)
+- 2024-02-05, **Cool-chic video: Learned video coding with 800 parameters**, Thomas Leguay et.al., Paper: [http://arxiv.org/abs/2402.03179v1](http://arxiv.org/abs/2402.03179v1)
+- 2024-02-05, **Accurate and Well-Calibrated ICD Code Assignment Through Attention Over Diverse Label Embeddings**, Gonçalo Gomes et.al., Paper: [http://arxiv.org/abs/2402.03172v1](http://arxiv.org/abs/2402.03172v1), Code: **[https://github.com/gecgomes/icd_coding_msam](https://github.com/gecgomes/icd_coding_msam)**
 - 2024-02-02, **From gas to stars: MUSEings on the internal evolution of IC 1613**, S. Taibi et.al., Paper: [http://arxiv.org/abs/2402.01631v1](http://arxiv.org/abs/2402.01631v1)
 - 2024-02-02, **Truncation technique for variational quantum eigensolver for Molecular Hamiltonians**, Qidong Xu et.al., Paper: [http://arxiv.org/abs/2402.01630v1](http://arxiv.org/abs/2402.01630v1)
 - 2024-02-02, **L2G2G: a Scalable Local-to-Global Network Embedding with Graph Autoencoders**, Ruikang Ouyang et.al., Paper: [http://arxiv.org/abs/2402.01614v1](http://arxiv.org/abs/2402.01614v1), Code: **[https://github.com/tonyauyeung/local2gae2global](https://github.com/tonyauyeung/local2gae2global)**
@@ -4160,6 +4170,16 @@
 
 ## MultiModal
 
+- 2024-02-05, **AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**, Mohamad Qadri et.al., Paper: [http://arxiv.org/abs/2402.03309v1](http://arxiv.org/abs/2402.03309v1)
+- 2024-02-05, **FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion**, Xing Han et.al., Paper: [http://arxiv.org/abs/2402.03226v1](http://arxiv.org/abs/2402.03226v1)
+- 2024-02-05, **PFDM: Parser-Free Virtual Try-on via Diffusion Model**, Yunfang Niu et.al., Paper: [http://arxiv.org/abs/2402.03047v1](http://arxiv.org/abs/2402.03047v1)
+- 2024-02-05, **Nonlinear MHD modeling of soft $β$ limits in W7-AS**, Rohan Ramasamy et.al., Paper: [http://arxiv.org/abs/2402.02881v1](http://arxiv.org/abs/2402.02881v1)
+- 2024-02-05, **On combining acoustic and modulation spectrograms in an attention LSTM-based system for speech intelligibility level classification**, Ascensión Gallardo-Antolín et.al., Paper: [http://arxiv.org/abs/2402.02865v1](http://arxiv.org/abs/2402.02865v1)
+- 2024-02-05, **Joint Attention-Guided Feature Fusion Network for Saliency Detection of Surface Defects**, Xiaoheng Jiang et.al., Paper: [http://arxiv.org/abs/2402.02797v1](http://arxiv.org/abs/2402.02797v1)
+- 2024-02-05, **Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**, Yihao Huang et.al., Paper: [http://arxiv.org/abs/2402.02738v1](http://arxiv.org/abs/2402.02738v1)
+- 2024-02-05, **FDNet: Frequency Domain Denoising Network For Cell Segmentation in Astrocytes Derived From Induced Pluripotent Stem Cells**, Haoran Li et.al., Paper: [http://arxiv.org/abs/2402.02724v1](http://arxiv.org/abs/2402.02724v1)
+- 2024-02-04, **Lunar ore geology and feasibility of ore mineral detection using a far-IR spectrometer**, Jakub Ciazela et.al., Paper: [http://arxiv.org/abs/2402.02614v1](http://arxiv.org/abs/2402.02614v1)
+- 2024-02-04, **Generalizable Entity Grounding via Assistance of Large Language Model**, Lu Qi et.al., Paper: [http://arxiv.org/abs/2402.02555v1](http://arxiv.org/abs/2402.02555v1)
 - 2024-02-02, **SiMA-Hand: Boosting 3D Hand-Mesh Reconstruction by Single-to-Multi-View Adaptation**, Yinqiao Wang et.al., Paper: [http://arxiv.org/abs/2402.01389v1](http://arxiv.org/abs/2402.01389v1), Code: **[https://github.com/JoyboyWang/SiMA-Hand_Pytorch](https://github.com/JoyboyWang/SiMA-Hand_Pytorch)**
 - 2024-02-02, **FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**, Liping Yi et.al., Paper: [http://arxiv.org/abs/2402.01350v1](http://arxiv.org/abs/2402.01350v1)
 - 2024-02-02, **Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion**, Zexi Li et.al., Paper: [http://arxiv.org/abs/2402.01342v1](http://arxiv.org/abs/2402.01342v1)
