@@ -10,7 +10,7 @@
 - 2024-02-05, **English Prompts are Better for NLI-based Zero-Shot Emotion Classification than Target-Language Prompts**, Patrick Barreiß et.al., Paper: [http://arxiv.org/abs/2402.03223v1](http://arxiv.org/abs/2402.03223v1)
 - 2024-02-05, **"Define Your Terms" : Enhancing Efficient Offensive Speech Classification with Definition**, Huy Nghiem et.al., Paper: [http://arxiv.org/abs/2402.03221v1](http://arxiv.org/abs/2402.03221v1), Code: **[https://github.com/hnghiem-usc/define_your_terms](https://github.com/hnghiem-usc/define_your_terms)**
 - 2024-02-05, **Isotropy, Clusters, and Classifiers**, Timothee Mickus et.al., Paper: [http://arxiv.org/abs/2402.03191v1](http://arxiv.org/abs/2402.03191v1)
-- 2024-02-05, **Cool-chic video: Learned video coding with 800 parameters**, Thomas Leguay et.al., Paper: [http://arxiv.org/abs/2402.03179v1](http://arxiv.org/abs/2402.03179v1)
+- 2024-02-06, **Cool-chic video: Learned video coding with 800 parameters**, Thomas Leguay et.al., Paper: [http://arxiv.org/abs/2402.03179v2](http://arxiv.org/abs/2402.03179v2)
 - 2024-02-05, **Accurate and Well-Calibrated ICD Code Assignment Through Attention Over Diverse Label Embeddings**, Gonçalo Gomes et.al., Paper: [http://arxiv.org/abs/2402.03172v1](http://arxiv.org/abs/2402.03172v1), Code: **[https://github.com/gecgomes/icd_coding_msam](https://github.com/gecgomes/icd_coding_msam)**
 - 2024-02-02, **From gas to stars: MUSEings on the internal evolution of IC 1613**, S. Taibi et.al., Paper: [http://arxiv.org/abs/2402.01631v1](http://arxiv.org/abs/2402.01631v1)
 - 2024-02-02, **Truncation technique for variational quantum eigensolver for Molecular Hamiltonians**, Qidong Xu et.al., Paper: [http://arxiv.org/abs/2402.01630v1](http://arxiv.org/abs/2402.01630v1)
