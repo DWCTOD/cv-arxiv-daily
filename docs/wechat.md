@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-02-06, **EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters**, Quan Sun et.al., Paper: [http://arxiv.org/abs/2402.04252v1](http://arxiv.org/abs/2402.04252v1), Code: **[https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)**
+- 2024-02-06, **The spectrum of excisive functors**, Gregory Arone et.al., Paper: [http://arxiv.org/abs/2402.04244v1](http://arxiv.org/abs/2402.04244v1)
+- 2024-02-06, **A classification of nonzero skew immaculate functions**, Sarah Mason et.al., Paper: [http://arxiv.org/abs/2402.04219v1](http://arxiv.org/abs/2402.04219v1)
+- 2024-02-06, **Resource-Aware Hierarchical Federated Learning in Wireless Video Caching Networks**, Md Ferdous Pervej et.al., Paper: [http://arxiv.org/abs/2402.04216v1](http://arxiv.org/abs/2402.04216v1)
+- 2024-02-06, **"Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors**, Lin Guan et.al., Paper: [http://arxiv.org/abs/2402.04210v1](http://arxiv.org/abs/2402.04210v1)
+- 2024-02-06, **3D Volumetric Super-Resolution in Radiology Using 3D RRDB-GAN**, Juhyung Ha et.al., Paper: [http://arxiv.org/abs/2402.04171v1](http://arxiv.org/abs/2402.04171v1)
+- 2024-02-06, **Human Emotions Analysis and Recognition Using EEG Signals in Response to 360$^\circ$ Videos**, Haseeb ur Rahman Abbasi et.al., Paper: [http://arxiv.org/abs/2402.04142v1](http://arxiv.org/abs/2402.04142v1)
+- 2024-02-06, **Hierarchical Delay Attribution Classification using Unstructured Text in Train Management Systems**, Anton Borg et.al., Paper: [http://arxiv.org/abs/2402.04108v1](http://arxiv.org/abs/2402.04108v1)
+- 2024-02-06, **Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**, Shijun Liang et.al., Paper: [http://arxiv.org/abs/2402.04097v1](http://arxiv.org/abs/2402.04097v1)
+- 2024-02-06, **A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**, Zhengbo Wang et.al., Paper: [http://arxiv.org/abs/2402.04087v1](http://arxiv.org/abs/2402.04087v1), Code: **[https://github.com/mrflogs/iclr24](https://github.com/mrflogs/iclr24)**
 - 2024-02-05, **Multiclass Classification Procedure for Detecting Attacks on MQTT-IoT Protocol**, Hector Alaiz-Moreton et.al., Paper: [http://arxiv.org/abs/2402.03270v1](http://arxiv.org/abs/2402.03270v1)
 - 2024-02-05, **Security Advice for Parents and Children About Content Filtering and Circumvention as Found on YouTube and TikTok**, Ran Elgedawy et.al., Paper: [http://arxiv.org/abs/2402.03255v1](http://arxiv.org/abs/2402.03255v1)
 - 2024-02-05, **JOBSKAPE: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching**, Antoine Magron et.al., Paper: [http://arxiv.org/abs/2402.03242v1](http://arxiv.org/abs/2402.03242v1), Code: **[https://github.com/magantoine/jobskape](https://github.com/magantoine/jobskape)**
@@ -4170,6 +4180,16 @@
 
 ## MultiModal
 
+- 2024-02-06, **From zero-mode intermittency to hidden symmetry in random scalar advection**, Simon Thalabard et.al., Paper: [http://arxiv.org/abs/2402.04198v1](http://arxiv.org/abs/2402.04198v1)
+- 2024-02-06, **Composed multicore fiber structure for direction-sensitive curvature monitoring**, Joel Villatoro et.al., Paper: [http://arxiv.org/abs/2402.04162v1](http://arxiv.org/abs/2402.04162v1)
+- 2024-02-06, **Highly sensitive multicore fiber accelerometer for low frequency vibration sensing**, Josu Amorebieta et.al., Paper: [http://arxiv.org/abs/2402.04153v1](http://arxiv.org/abs/2402.04153v1)
+- 2024-02-06, **Interpretable Multi-Source Data Fusion Through Latent Variable Gaussian Process**, Sandipp Krishnan Ravi et.al., Paper: [http://arxiv.org/abs/2402.04146v1](http://arxiv.org/abs/2402.04146v1)
+- 2024-02-06, **Endmember Extraction Algorithms Fusing for Hyperspectral Unmixing**, H. M. K. D. Wickramathilaka et.al., Paper: [http://arxiv.org/abs/2402.03835v1](http://arxiv.org/abs/2402.03835v1)
+- 2024-02-06, **Energy-based Domain-Adaptive Segmentation with Depth Guidance**, Jinjing Zhu et.al., Paper: [http://arxiv.org/abs/2402.03795v1](http://arxiv.org/abs/2402.03795v1)
+- 2024-02-06, **SHMC-Net: A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification**, Nishchal Sapkota et.al., Paper: [http://arxiv.org/abs/2402.03697v1](http://arxiv.org/abs/2402.03697v1)
+- 2024-02-06, **Discretization form of the continuity condition at the polar axis, with application to the gyrokinetic simulation in a magnetic fusion torus**, Tiannan Wu et.al., Paper: [http://arxiv.org/abs/2402.03657v1](http://arxiv.org/abs/2402.03657v1)
+- 2024-02-06, **Retrieval Augmented Cross-Modal Tag Recommendation in Software Q&A Sites**, Sijin Lu et.al., Paper: [http://arxiv.org/abs/2402.03635v1](http://arxiv.org/abs/2402.03635v1)
+- 2024-02-05, **Improving Pediatric Low-Grade Neuroepithelial Tumors Molecular Subtype Identification Using a Novel AUROC Loss Function for Convolutional Neural Networks**, Khashayar Namdar et.al., Paper: [http://arxiv.org/abs/2402.03547v1](http://arxiv.org/abs/2402.03547v1)
 - 2024-02-05, **AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**, Mohamad Qadri et.al., Paper: [http://arxiv.org/abs/2402.03309v1](http://arxiv.org/abs/2402.03309v1)
 - 2024-02-05, **FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion**, Xing Han et.al., Paper: [http://arxiv.org/abs/2402.03226v1](http://arxiv.org/abs/2402.03226v1)
 - 2024-02-05, **PFDM: Parser-Free Virtual Try-on via Diffusion Model**, Yunfang Niu et.al., Paper: [http://arxiv.org/abs/2402.03047v1](http://arxiv.org/abs/2402.03047v1)
