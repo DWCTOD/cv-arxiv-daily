@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Edu-ConvoKit: An Open-Source Library for Education Conversation Data**|Rose E. Wang et.al.|[2402.05111v1](http://arxiv.org/abs/2402.05111v1)|**[link](https://github.com/stanfordnlp/edu-convokit)**|
+|**2024-02-07**|**Moduli Parameters of Complex Singularities with Non-Degenerate Newton Boundary**|Janko Boehm et.al.|[2402.05093v1](http://arxiv.org/abs/2402.05093v1)|null|
+|**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079v1](http://arxiv.org/abs/2402.05079v1)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068v1](http://arxiv.org/abs/2402.05068v1)|null|
+|**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045v1](http://arxiv.org/abs/2402.05045v1)|**[link](https://github.com/hvak/mimrf-bfm)**|
+|**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
+|**2024-02-07**|**Strong convexity-guided hyper-parameter optimization for flatter losses**|Rahul Yedida et.al.|[2402.05025v1](http://arxiv.org/abs/2402.05025v1)|null|
+|**2024-02-07**|**Example-based Explanations for Random Forests using Machine Unlearning**|Tanmay Surve et.al.|[2402.05007v1](http://arxiv.org/abs/2402.05007v1)|null|
+|**2024-02-07**|**Randomized Confidence Bounds for Stochastic Partial Monitoring**|Maxime Heuillet et.al.|[2402.05002v1](http://arxiv.org/abs/2402.05002v1)|null|
+|**2024-02-07**|**Beyond explaining: XAI-based Adaptive Learning with SHAP Clustering for Energy Consumption Prediction**|Tobias Clement et.al.|[2402.04982v1](http://arxiv.org/abs/2402.04982v1)|null|
 |**2024-02-06**|**EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters**|Quan Sun et.al.|[2402.04252v1](http://arxiv.org/abs/2402.04252v1)|**[link](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)**|
 |**2024-02-06**|**The spectrum of excisive functors**|Gregory Arone et.al.|[2402.04244v1](http://arxiv.org/abs/2402.04244v1)|null|
 |**2024-02-06**|**A classification of nonzero skew immaculate functions**|Sarah Mason et.al.|[2402.04219v1](http://arxiv.org/abs/2402.04219v1)|null|
@@ -4184,6 +4194,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045v1](http://arxiv.org/abs/2402.05045v1)|**[link](https://github.com/hvak/mimrf-bfm)**|
+|**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978v1](http://arxiv.org/abs/2402.04978v1)|null|
+|**2024-02-07**|**Dual-Path Coupled Image Deraining Network via Spatial-Frequency Interaction**|Yuhong He et.al.|[2402.04855v1](http://arxiv.org/abs/2402.04855v1)|**[link](https://github.com/madeline-hyh/dpcnet)**|
+|**2024-02-07**|**Compact omnidirectional multicore fiber-based vector bending sensor**|Josu Amorebieta et.al.|[2402.04661v1](http://arxiv.org/abs/2402.04661v1)|null|
+|**2024-02-07**|**SPLEND1D, a reduced one-dimensional model to investigate the physics of plasma detachment**|O. Février et.al.|[2402.04656v1](http://arxiv.org/abs/2402.04656v1)|null|
+|**2024-02-07**|**Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal-Viewpoint Alignment**|Lei Wang et.al.|[2402.04599v1](http://arxiv.org/abs/2402.04599v1)|null|
+|**2024-02-07**|**FM-Fusion: Instance-aware Semantic Mapping Boosted by Vision-Language Foundation Models**|Chuhao Liu et.al.|[2402.04555v1](http://arxiv.org/abs/2402.04555v1)|null|
+|**2024-02-06**|**Sensitivity-optimized strongly coupled multicore fiber-based thermometer**|Josu Amorebieta et.al.|[2402.04346v1](http://arxiv.org/abs/2402.04346v1)|null|
 |**2024-02-06**|**From zero-mode intermittency to hidden symmetry in random scalar advection**|Simon Thalabard et.al.|[2402.04198v1](http://arxiv.org/abs/2402.04198v1)|null|
 |**2024-02-06**|**Composed multicore fiber structure for direction-sensitive curvature monitoring**|Joel Villatoro et.al.|[2402.04162v1](http://arxiv.org/abs/2402.04162v1)|null|
 |**2024-02-06**|**Highly sensitive multicore fiber accelerometer for low frequency vibration sensing**|Josu Amorebieta et.al.|[2402.04153v1](http://arxiv.org/abs/2402.04153v1)|null|
