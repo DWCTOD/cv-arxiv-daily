@@ -4186,7 +4186,7 @@
 - 2024-02-06, **Interpretable Multi-Source Data Fusion Through Latent Variable Gaussian Process**, Sandipp Krishnan Ravi et.al., Paper: [http://arxiv.org/abs/2402.04146v1](http://arxiv.org/abs/2402.04146v1)
 - 2024-02-06, **Endmember Extraction Algorithms Fusing for Hyperspectral Unmixing**, H. M. K. D. Wickramathilaka et.al., Paper: [http://arxiv.org/abs/2402.03835v1](http://arxiv.org/abs/2402.03835v1)
 - 2024-02-06, **Energy-based Domain-Adaptive Segmentation with Depth Guidance**, Jinjing Zhu et.al., Paper: [http://arxiv.org/abs/2402.03795v1](http://arxiv.org/abs/2402.03795v1)
-- 2024-02-06, **SHMC-Net: A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification**, Nishchal Sapkota et.al., Paper: [http://arxiv.org/abs/2402.03697v1](http://arxiv.org/abs/2402.03697v1)
+- 2024-02-07, **SHMC-Net: A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification**, Nishchal Sapkota et.al., Paper: [http://arxiv.org/abs/2402.03697v2](http://arxiv.org/abs/2402.03697v2)
 - 2024-02-06, **Discretization form of the continuity condition at the polar axis, with application to the gyrokinetic simulation in a magnetic fusion torus**, Tiannan Wu et.al., Paper: [http://arxiv.org/abs/2402.03657v1](http://arxiv.org/abs/2402.03657v1)
 - 2024-02-06, **Retrieval Augmented Cross-Modal Tag Recommendation in Software Q&A Sites**, Sijin Lu et.al., Paper: [http://arxiv.org/abs/2402.03635v1](http://arxiv.org/abs/2402.03635v1)
 - 2024-02-05, **Improving Pediatric Low-Grade Neuroepithelial Tumors Molecular Subtype Identification Using a Novel AUROC Loss Function for Convolutional Neural Networks**, Khashayar Namdar et.al., Paper: [http://arxiv.org/abs/2402.03547v1](http://arxiv.org/abs/2402.03547v1)
