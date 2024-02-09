@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934v1](http://arxiv.org/abs/2402.05934v1)|**[link](https://github.com/dani3lwinter/cohop)**|
+|**2024-02-08**|**An Interactive Agent Foundation Model**|Zane Durante et.al.|[2402.05929v1](http://arxiv.org/abs/2402.05929v1)|null|
+|**2024-02-08**|**Point-VOS: Pointing Up Video Object Segmentation**|Idil Esen Zulfikar et.al.|[2402.05917v1](http://arxiv.org/abs/2402.05917v1)|null|
+|**2024-02-08**|**A Survey on Detection, Classification, and Tracking of Aerial Threats using Radar and Communications Systems**|Wahab Khawaja et.al.|[2402.05909v1](http://arxiv.org/abs/2402.05909v1)|null|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
+|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892v1](http://arxiv.org/abs/2402.05892v1)|null|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889v1](http://arxiv.org/abs/2402.05889v1)|null|
+|**2024-02-08**|**Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**|Onur G. Guleryuz et.al.|[2402.05887v1](http://arxiv.org/abs/2402.05887v1)|**[link](https://github.com/google/sandwiched_compression)**|
+|**2024-02-08**|**GET-Tok: A GenAI-Enriched Multimodal TikTok Dataset Documenting the 2022 Attempted Coup in Peru**|Gabriela Pinto et.al.|[2402.05882v1](http://arxiv.org/abs/2402.05882v1)|null|
+|**2024-02-08**|**You've Got to Feel It To Believe It: Multi-Modal Bayesian Inference for Semantic and Property Prediction**|Parker Ewen et.al.|[2402.05872v1](http://arxiv.org/abs/2402.05872v1)|null|
 |**2024-02-07**|**Edu-ConvoKit: An Open-Source Library for Education Conversation Data**|Rose E. Wang et.al.|[2402.05111v1](http://arxiv.org/abs/2402.05111v1)|**[link](https://github.com/stanfordnlp/edu-convokit)**|
 |**2024-02-07**|**Moduli Parameters of Complex Singularities with Non-Degenerate Newton Boundary**|Janko Boehm et.al.|[2402.05093v1](http://arxiv.org/abs/2402.05093v1)|null|
 |**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079v1](http://arxiv.org/abs/2402.05079v1)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
@@ -4194,6 +4204,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889v1](http://arxiv.org/abs/2402.05889v1)|null|
+|**2024-02-08**|**FusionSF: Fuse Heterogeneous Modalities in a Vector Quantized Framework for Robust Solar Power Forecasting**|Ziqing Ma et.al.|[2402.05823v1](http://arxiv.org/abs/2402.05823v1)|null|
+|**2024-02-08**|**On Convolutional Vision Transformers for Yield Prediction**|Alvin Inderka et.al.|[2402.05557v1](http://arxiv.org/abs/2402.05557v1)|null|
+|**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540v1](http://arxiv.org/abs/2402.05540v1)|null|
+|**2024-02-08**|**It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition**|Chen Chen et.al.|[2402.05457v1](http://arxiv.org/abs/2402.05457v1)|null|
+|**2024-02-08**|**VSHPIC: A Particle-In-Cell Algorithm Based On Vector Spherical Harmonics Expansion**|Jianzhao Wang et.al.|[2402.05446v1](http://arxiv.org/abs/2402.05446v1)|null|
+|**2024-02-07**|**Examining Modality Incongruity in Multimodal Federated Learning for Medical Vision and Language-based Disease Detection**|Pramit Saha et.al.|[2402.05294v1](http://arxiv.org/abs/2402.05294v1)|null|
+|**2024-02-07**|**FLARE: field line analysis and reconstruction for 3D plasma boundary modeling**|H. Frerichs et.al.|[2402.05225v1](http://arxiv.org/abs/2402.05225v1)|null|
 |**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045v1](http://arxiv.org/abs/2402.05045v1)|**[link](https://github.com/hvak/mimrf-bfm)**|
 |**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978v1](http://arxiv.org/abs/2402.04978v1)|null|
 |**2024-02-07**|**Dual-Path Coupled Image Deraining Network via Spatial-Frequency Interaction**|Yuhong He et.al.|[2402.04855v1](http://arxiv.org/abs/2402.04855v1)|**[link](https://github.com/madeline-hyh/dpcnet)**|
