@@ -6,7 +6,7 @@
 - 2024-02-08, **An Interactive Agent Foundation Model**, Zane Durante et.al., Paper: [http://arxiv.org/abs/2402.05929v1](http://arxiv.org/abs/2402.05929v1)
 - 2024-02-08, **Point-VOS: Pointing Up Video Object Segmentation**, Idil Esen Zulfikar et.al., Paper: [http://arxiv.org/abs/2402.05917v1](http://arxiv.org/abs/2402.05917v1)
 - 2024-02-08, **A Survey on Detection, Classification, and Tracking of Aerial Threats using Radar and Communications Systems**, Wahab Khawaja et.al., Paper: [http://arxiv.org/abs/2402.05909v1](http://arxiv.org/abs/2402.05909v1)
-- 2024-02-08, **Large Language Model Meets Graph Neural Network in Knowledge Distillation**, Shengxiang Hu et.al., Paper: [http://arxiv.org/abs/2402.05894v1](http://arxiv.org/abs/2402.05894v1)
+- 2024-02-09, **Large Language Model Meets Graph Neural Network in Knowledge Distillation**, Shengxiang Hu et.al., Paper: [http://arxiv.org/abs/2402.05894v2](http://arxiv.org/abs/2402.05894v2)
 - 2024-02-08, **Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**, Shufan Li et.al., Paper: [http://arxiv.org/abs/2402.05892v1](http://arxiv.org/abs/2402.05892v1)
 - 2024-02-08, **CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**, Shoubin Yu et.al., Paper: [http://arxiv.org/abs/2402.05889v1](http://arxiv.org/abs/2402.05889v1)
 - 2024-02-08, **Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**, Onur G. Guleryuz et.al., Paper: [http://arxiv.org/abs/2402.05887v1](http://arxiv.org/abs/2402.05887v1), Code: **[https://github.com/google/sandwiched_compression](https://github.com/google/sandwiched_compression)**
