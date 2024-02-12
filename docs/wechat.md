@@ -1,4 +1,4 @@
-> Updated on 2024.02.11
+> Updated on 2024.02.12
 
 ## Video_Classification
 
@@ -10,7 +10,7 @@
 - 2024-02-08, **Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**, Shufan Li et.al., Paper: [http://arxiv.org/abs/2402.05892v1](http://arxiv.org/abs/2402.05892v1)
 - 2024-02-08, **CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**, Shoubin Yu et.al., Paper: [http://arxiv.org/abs/2402.05889v1](http://arxiv.org/abs/2402.05889v1)
 - 2024-02-08, **Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**, Onur G. Guleryuz et.al., Paper: [http://arxiv.org/abs/2402.05887v1](http://arxiv.org/abs/2402.05887v1), Code: **[https://github.com/google/sandwiched_compression](https://github.com/google/sandwiched_compression)**
-- 2024-02-08, **GET-Tok: A GenAI-Enriched Multimodal TikTok Dataset Documenting the 2022 Attempted Coup in Peru**, Gabriela Pinto et.al., Paper: [http://arxiv.org/abs/2402.05882v1](http://arxiv.org/abs/2402.05882v1)
+- 2024-02-08, **GET-Tok: A GenAI-Enriched Multimodal TikTok Dataset Documenting the 2022 Attempted Coup in Peru**, Gabriela Pinto et.al., Paper: [http://arxiv.org/abs/2402.05882v1](http://arxiv.org/abs/2402.05882v1), Code: **[https://github.com/gabbypinto/get-tok-peru](https://github.com/gabbypinto/get-tok-peru)**
 - 2024-02-08, **You've Got to Feel It To Believe It: Multi-Modal Bayesian Inference for Semantic and Property Prediction**, Parker Ewen et.al., Paper: [http://arxiv.org/abs/2402.05872v1](http://arxiv.org/abs/2402.05872v1)
 - 2024-02-07, **Edu-ConvoKit: An Open-Source Library for Education Conversation Data**, Rose E. Wang et.al., Paper: [http://arxiv.org/abs/2402.05111v1](http://arxiv.org/abs/2402.05111v1), Code: **[https://github.com/stanfordnlp/edu-convokit](https://github.com/stanfordnlp/edu-convokit)**
 - 2024-02-07, **Moduli Parameters of Complex Singularities with Non-Degenerate Newton Boundary**, Janko Boehm et.al., Paper: [http://arxiv.org/abs/2402.05093v1](http://arxiv.org/abs/2402.05093v1)
