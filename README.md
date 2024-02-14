@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682v1](http://arxiv.org/abs/2402.08682v1)|null|
+|**2024-02-13**|**A Convergence Analysis of Approximate Message Passing with Non-Separable Functions and Applications to Multi-Class Classification**|Burak Çakmak et.al.|[2402.08676v1](http://arxiv.org/abs/2402.08676v1)|null|
+|**2024-02-13**|**Learning Emergent Gaits with Decentralized Phase Oscillators: on the role of Observations, Rewards, and Feedback**|Jenny Zhang et.al.|[2402.08662v1](http://arxiv.org/abs/2402.08662v1)|null|
+|**2024-02-13**|**BdSLW60: A Word-Level Bangla Sign Language Dataset**|Husne Ara Rubaiyeat et.al.|[2402.08635v1](http://arxiv.org/abs/2402.08635v1)|**[link](https://github.com/hasanssl/bdslw60_code)**|
+|**2024-02-13**|**Convolutional Neural Networks Towards Facial Skin Lesions Detection**|Reza Sarshar et.al.|[2402.08592v1](http://arxiv.org/abs/2402.08592v1)|null|
+|**2024-02-13**|**Totally geodesic submanifolds and polar actions on Stiefel manifolds**|Claudio Gorodski et.al.|[2402.08585v1](http://arxiv.org/abs/2402.08585v1)|null|
+|**2024-02-13**|**Motion-Adaptive Inference for Flexible Learned B-Frame Compression**|M. Akin Yilmaz et.al.|[2402.08550v1](http://arxiv.org/abs/2402.08550v1)|null|
+|**2024-02-13**|**Approximately Piecewise E(3) Equivariant Point Networks**|Matan Atzmon et.al.|[2402.08529v1](http://arxiv.org/abs/2402.08529v1)|null|
+|**2024-02-13**|**Reduced-order modeling of the dynamics of an inverted flag from experimental data**|Zhenwei Xu et.al.|[2402.08504v1](http://arxiv.org/abs/2402.08504v1)|null|
+|**2024-02-13**|**Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models**|Shaeke Salman et.al.|[2402.08473v1](http://arxiv.org/abs/2402.08473v1)|null|
 |**2024-02-13**|**Wavefront Randomization Improves Deconvolution**|Amit Kohli et.al.|[2402.07900v2](http://arxiv.org/abs/2402.07900v2)|null|
 |**2024-02-12**|**Detection of Spider Mites on Labrador Beans through Machine Learning Approaches Using Custom Datasets**|Violet Liu et.al.|[2402.07895v1](http://arxiv.org/abs/2402.07895v1)|null|
 |**2024-02-12**|**Perfect stable regularity lemma and slice-wise stable hypergraphs**|Artem Chernikov et.al.|[2402.07870v1](http://arxiv.org/abs/2402.07870v1)|null|
@@ -4224,6 +4234,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Data efficiency and long term prediction capabilities for neural operator surrogate models of core and edge plasma codes**|N. Carey et.al.|[2402.08561v1](http://arxiv.org/abs/2402.08561v1)|null|
+|**2024-02-13**|**A Physics-Informed Deep Learning Description of Knudsen Layer Reactivity Reduction**|Christopher J. McDevitt et.al.|[2402.08495v1](http://arxiv.org/abs/2402.08495v1)|null|
+|**2024-02-13**|**Transferring Ultrahigh-Field Representations for Intensity-Guided Brain Segmentation of Low-Field Magnetic Resonance Imaging**|Kwanseok Oh et.al.|[2402.08409v1](http://arxiv.org/abs/2402.08409v1)|null|
+|**2024-02-13**|**Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
+|**2024-02-13**|**Gaussian Ensemble Belief Propagation for Efficient Inference in High-Dimensional Systems**|Dan MacKinlay et.al.|[2402.08193v1](http://arxiv.org/abs/2402.08193v1)|null|
+|**2024-02-13**|**Early Exploration of a Flexible Framework for Efficient Quantum Linear Solvers in Power Systems**|Muqing Zheng et.al.|[2402.08136v1](http://arxiv.org/abs/2402.08136v1)|null|
+|**2024-02-12**|**Relatively endotrivial complexes**|Sam K. Miller et.al.|[2402.08042v1](http://arxiv.org/abs/2402.08042v1)|null|
 |**2024-02-12**|**Creating pair plasmas with observable collective effects**|Kenan Qu et.al.|[2402.07840v1](http://arxiv.org/abs/2402.07840v1)|null|
 |**2024-02-13**|**Towards Meta-Pruning via Optimal Transport**|Alexander Theus et.al.|[2402.07839v2](http://arxiv.org/abs/2402.07839v2)|**[link](https://github.com/alexandertheus/intra-fusion)**|
 |**2024-02-13**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787v2](http://arxiv.org/abs/2402.07787v2)|**[link](https://github.com/TYZY89/EMGF)**|
