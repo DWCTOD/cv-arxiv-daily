@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392v1](http://arxiv.org/abs/2402.09392v1)|null|
+|**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|**[link](https://github.com/aliaaz99/grassrep)**|
+|**2024-02-14**|**Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge**|Jiancheng Yang et.al.|[2402.09372v1](http://arxiv.org/abs/2402.09372v1)|null|
+|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|null|
+|**2024-02-14**|**Small instanton-induced flavor invariants and the axion potential**|Ravneet Bedi et.al.|[2402.09361v1](http://arxiv.org/abs/2402.09361v1)|null|
+|**2024-02-14**|**Pruning Sparse Tensor Neural Networks Enables Deep Learning for 3D Ultrasound Localization Microscopy**|Brice Rauby et.al.|[2402.09359v1](http://arxiv.org/abs/2402.09359v1)|null|
+|**2024-02-14**|**DoRA: Weight-Decomposed Low-Rank Adaptation**|Shih-Yang Liu et.al.|[2402.09353v1](http://arxiv.org/abs/2402.09353v1)|null|
+|**2024-02-14**|**Irreducible representations of the crystallisation of the $C^{*}$-algebra $C(SU_{q}(n+1))$**|Manabendra Giri et.al.|[2402.09347v1](http://arxiv.org/abs/2402.09347v1)|null|
+|**2024-02-14**|**Registration of Longitudinal Spine CTs for Monitoring Lesion Growth**|Malika Sanhinova et.al.|[2402.09341v1](http://arxiv.org/abs/2402.09341v1)|null|
+|**2024-02-14**|**Stability and Multigroup Fairness in Ranking with Uncertain Predictions**|Siddartha Devic et.al.|[2402.09326v1](http://arxiv.org/abs/2402.09326v1)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682v1](http://arxiv.org/abs/2402.08682v1)|null|
 |**2024-02-13**|**A Convergence Analysis of Approximate Message Passing with Non-Separable Functions and Applications to Multi-Class Classification**|Burak Çakmak et.al.|[2402.08676v1](http://arxiv.org/abs/2402.08676v1)|null|
 |**2024-02-13**|**Learning Emergent Gaits with Decentralized Phase Oscillators: on the role of Observations, Rewards, and Feedback**|Jenny Zhang et.al.|[2402.08662v1](http://arxiv.org/abs/2402.08662v1)|null|
@@ -4238,6 +4248,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Active Disruption Avoidance and Trajectory Design for Tokamak Ramp-downs with Neural Differential Equations and Reinforcement Learning**|Allen M. Wang et.al.|[2402.09387v1](http://arxiv.org/abs/2402.09387v1)|null|
+|**2024-02-14**|**Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**|Michael Lanier et.al.|[2402.09290v1](http://arxiv.org/abs/2402.09290v1)|null|
+|**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|**[link](https://github.com/lancezpf/kefs)**|
+|**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101v1](http://arxiv.org/abs/2402.09101v1)|null|
+|**2024-02-14**|**Can Text-to-image Model Assist Multi-modal Learning for Visual Recognition with Visual Modality Missing?**|Tiantian Feng et.al.|[2402.09036v1](http://arxiv.org/abs/2402.09036v1)|null|
+|**2024-02-14**|**Doubly heavy dibaryons as seen by string theory**|Oleg Andreev et.al.|[2402.09026v1](http://arxiv.org/abs/2402.09026v1)|null|
+|**2024-02-14**|**Multi-modality transrectal ultrasound vudei classification for identification of clinically significant prostate cancer**|Hong Wu et.al.|[2402.08987v1](http://arxiv.org/abs/2402.08987v1)|**[link](https://github.com/2313595986/prostatetrus)**|
+|**2024-02-14**|**Detecting Adversarial Spectrum Attacks via Distance to Decision Boundary Statistics**|Wenwei Zhao et.al.|[2402.08986v1](http://arxiv.org/abs/2402.08986v1)|null|
+|**2024-02-14**|**Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**|Desh Raj et.al.|[2402.08932v1](http://arxiv.org/abs/2402.08932v1)|null|
+|**2024-02-14**|**Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation**|Juanhui Li et.al.|[2402.08921v1](http://arxiv.org/abs/2402.08921v1)|**[link](https://github.com/juanhui28/alterrec)**|
 |**2024-02-13**|**Data efficiency and long term prediction capabilities for neural operator surrogate models of core and edge plasma codes**|N. Carey et.al.|[2402.08561v1](http://arxiv.org/abs/2402.08561v1)|null|
 |**2024-02-13**|**A Physics-Informed Deep Learning Description of Knudsen Layer Reactivity Reduction**|Christopher J. McDevitt et.al.|[2402.08495v1](http://arxiv.org/abs/2402.08495v1)|null|
 |**2024-02-13**|**Transferring Ultrahigh-Field Representations for Intensity-Guided Brain Segmentation of Low-Field Magnetic Resonance Imaging**|Kwanseok Oh et.al.|[2402.08409v1](http://arxiv.org/abs/2402.08409v1)|null|
