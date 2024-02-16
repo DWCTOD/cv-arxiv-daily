@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-02-15, **Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**, Raunaq Bhirangi et.al., Paper: [http://arxiv.org/abs/2402.10211v1](http://arxiv.org/abs/2402.10211v1)
+- 2024-02-15, **FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**, Xinchi Qiu et.al., Paper: [http://arxiv.org/abs/2402.10191v1](http://arxiv.org/abs/2402.10191v1)
+- 2024-02-15, **Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2402.10187v1](http://arxiv.org/abs/2402.10187v1)
+- 2024-02-15, **DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**, Sathwik Tejaswi Madhusudhan et.al., Paper: [http://arxiv.org/abs/2402.10168v1](http://arxiv.org/abs/2402.10168v1)
+- 2024-02-15, **Holographic covering and the fortuity of black holes**, Chi-Ming Chang et.al., Paper: [http://arxiv.org/abs/2402.10129v1](http://arxiv.org/abs/2402.10129v1)
+- 2024-02-15, **Classification Diffusion Models**, Shahar Yadin et.al., Paper: [http://arxiv.org/abs/2402.10095v1](http://arxiv.org/abs/2402.10095v1)
+- 2024-02-15, **MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations**, Benedikt Alkin et.al., Paper: [http://arxiv.org/abs/2402.10093v1](http://arxiv.org/abs/2402.10093v1), Code: **[https://github.com/ml-jku/MIM-Refiner](https://github.com/ml-jku/MIM-Refiner)**
+- 2024-02-15, **GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning**, Chengcheng Yu et.al., Paper: [http://arxiv.org/abs/2402.10074v1](http://arxiv.org/abs/2402.10074v1)
+- 2024-02-15, **Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence**, Weixiang Zhao et.al., Paper: [http://arxiv.org/abs/2402.10073v1](http://arxiv.org/abs/2402.10073v1)
+- 2024-02-15, **NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction**, Sadaf Khademi et.al., Paper: [http://arxiv.org/abs/2402.10066v1](http://arxiv.org/abs/2402.10066v1)
 - 2024-02-14, **LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**, Adithya Raman et.al., Paper: [http://arxiv.org/abs/2402.09392v1](http://arxiv.org/abs/2402.09392v1)
 - 2024-02-14, **GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**, Ali Azizpour et.al., Paper: [http://arxiv.org/abs/2402.09381v1](http://arxiv.org/abs/2402.09381v1), Code: **[https://github.com/aliaaz99/grassrep](https://github.com/aliaaz99/grassrep)**
 - 2024-02-14, **Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge**, Jiancheng Yang et.al., Paper: [http://arxiv.org/abs/2402.09372v1](http://arxiv.org/abs/2402.09372v1)
@@ -4240,6 +4250,12 @@
 
 ## MultiModal
 
+- 2024-02-15, **An advanced data fabric architecture leveraging homomorphic encryption and federated learning**, Sakib Anwar Rieyan et.al., Paper: [http://arxiv.org/abs/2402.09795v1](http://arxiv.org/abs/2402.09795v1)
+- 2024-02-15, **Quickest Detection of False Data Injection Attack in Distributed Process Tracking**, Saqib Abbas Baba et.al., Paper: [http://arxiv.org/abs/2402.09743v1](http://arxiv.org/abs/2402.09743v1)
+- 2024-02-15, **Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection**, Eftekhar Hossain et.al., Paper: [http://arxiv.org/abs/2402.09738v1](http://arxiv.org/abs/2402.09738v1)
+- 2024-02-14, **Advanced fuel fusion, phase space engineering, and structure-preserving geometric algorithms**, Hong Qin et.al., Paper: [http://arxiv.org/abs/2402.09622v1](http://arxiv.org/abs/2402.09622v1)
+- 2024-02-14, **Advancing Building Energy Modeling with Large Language Models: Exploration and Case Studies**, Liang Zhang et.al., Paper: [http://arxiv.org/abs/2402.09579v1](http://arxiv.org/abs/2402.09579v1)
+- 2024-02-14, **C3NN: Cosmological Correlator Convolutional Neural Network -- an interpretable machine learning tool for cosmological analyses**, Zhengyangguang Gong et.al., Paper: [http://arxiv.org/abs/2402.09526v1](http://arxiv.org/abs/2402.09526v1)
 - 2024-02-14, **Active Disruption Avoidance and Trajectory Design for Tokamak Ramp-downs with Neural Differential Equations and Reinforcement Learning**, Allen M. Wang et.al., Paper: [http://arxiv.org/abs/2402.09387v1](http://arxiv.org/abs/2402.09387v1)
 - 2024-02-14, **Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**, Michael Lanier et.al., Paper: [http://arxiv.org/abs/2402.09290v1](http://arxiv.org/abs/2402.09290v1)
 - 2024-02-14, **Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**, Pengfei Zhou et.al., Paper: [http://arxiv.org/abs/2402.09242v1](http://arxiv.org/abs/2402.09242v1), Code: **[https://github.com/lancezpf/kefs](https://github.com/lancezpf/kefs)**
