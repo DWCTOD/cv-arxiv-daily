@@ -1,10 +1,10 @@
-> Updated on 2024.02.18
+> Updated on 2024.02.19
 
 ## Video_Classification
 
 - 2024-02-15, **Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**, Raunaq Bhirangi et.al., Paper: [http://arxiv.org/abs/2402.10211v1](http://arxiv.org/abs/2402.10211v1)
 - 2024-02-15, **FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**, Xinchi Qiu et.al., Paper: [http://arxiv.org/abs/2402.10191v1](http://arxiv.org/abs/2402.10191v1)
-- 2024-02-15, **Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2402.10187v1](http://arxiv.org/abs/2402.10187v1)
+- 2024-02-15, **Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2402.10187v1](http://arxiv.org/abs/2402.10187v1), Code: **[https://github.com/baussel/zooboteuclid](https://github.com/baussel/zooboteuclid)**
 - 2024-02-15, **DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**, Sathwik Tejaswi Madhusudhan et.al., Paper: [http://arxiv.org/abs/2402.10168v1](http://arxiv.org/abs/2402.10168v1)
 - 2024-02-15, **Holographic covering and the fortuity of black holes**, Chi-Ming Chang et.al., Paper: [http://arxiv.org/abs/2402.10129v1](http://arxiv.org/abs/2402.10129v1)
 - 2024-02-15, **Classification Diffusion Models**, Shahar Yadin et.al., Paper: [http://arxiv.org/abs/2402.10095v1](http://arxiv.org/abs/2402.10095v1)
