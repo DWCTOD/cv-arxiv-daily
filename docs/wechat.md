@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-02-19, **Short-Period Variables in TESS Full-Frame Image Light Curves Identified via Convolutional Neural Networks**, Greg Olmschenk et.al., Paper: [http://arxiv.org/abs/2402.12369v1](http://arxiv.org/abs/2402.12369v1)
+- 2024-02-19, **The first all-sky survey of star-forming galaxies with eROSITA: Scaling relations and a population of X-ray luminous starbursts**, E. Kyritsis et.al., Paper: [http://arxiv.org/abs/2402.12367v1](http://arxiv.org/abs/2402.12367v1)
+- 2024-02-19, **An Adversarial Approach to Evaluating the Robustness of Event Identification Models**, Obai Bahwal et.al., Paper: [http://arxiv.org/abs/2402.12338v1](http://arxiv.org/abs/2402.12338v1)
+- 2024-02-19, **Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**, Christian Schlarmann et.al., Paper: [http://arxiv.org/abs/2402.12336v1](http://arxiv.org/abs/2402.12336v1), Code: **[https://github.com/chs20/robustvlm](https://github.com/chs20/robustvlm)**
+- 2024-02-19, **Generating Survival Interpretable Trajectories and Data**, Andrei V. Konstantinov et.al., Paper: [http://arxiv.org/abs/2402.12331v1](http://arxiv.org/abs/2402.12331v1)
+- 2024-02-19, **Asymptotic Gaussian Fluctuations of Eigenvectors in Spectral Clustering**, Hugo Lebeau et.al., Paper: [http://arxiv.org/abs/2402.12302v1](http://arxiv.org/abs/2402.12302v1)
+- 2024-02-19, **Time-periodic behaviour in one- and two-dimensional interacting particle systems**, Jonas Köppl et.al., Paper: [http://arxiv.org/abs/2402.12300v1](http://arxiv.org/abs/2402.12300v1)
+- 2024-02-19, **Is Open-Source There Yet? A Comparative Study on Commercial and Open-Source LLMs in Their Ability to Label Chest X-Ray Reports**, Felix J. Dorfner et.al., Paper: [http://arxiv.org/abs/2402.12298v1](http://arxiv.org/abs/2402.12298v1)
+- 2024-02-19, **Revisiting registration-based synthesis: A focus on unsupervised MR image synthesis**, Savannah P. Hays et.al., Paper: [http://arxiv.org/abs/2402.12288v1](http://arxiv.org/abs/2402.12288v1)
+- 2024-02-19, **Significance of Chirp MFCC as a Feature in Speech and Audio Applications**, S. Johanan Joysingh et.al., Paper: [http://arxiv.org/abs/2402.12239v1](http://arxiv.org/abs/2402.12239v1)
 - 2024-02-16, **PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**, Junfei Xiao et.al., Paper: [http://arxiv.org/abs/2402.10896v1](http://arxiv.org/abs/2402.10896v1)
 - 2024-02-16, **Fusion of Diffusion Weighted MRI and Clinical Data for Predicting Functional Outcome after Acute Ischemic Stroke with Deep Contrastive Learning**, Chia-Ling Tsai et.al., Paper: [http://arxiv.org/abs/2402.10894v1](http://arxiv.org/abs/2402.10894v1)
 - 2024-02-16, **Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**, Ziyang Wang et.al., Paper: [http://arxiv.org/abs/2402.10887v1](http://arxiv.org/abs/2402.10887v1), Code: **[https://github.com/ziyangwang007/mamba-unet](https://github.com/ziyangwang007/mamba-unet)**
@@ -4260,6 +4270,16 @@
 
 ## MultiModal
 
+- 2024-02-19, **Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**, Christian Reiser et.al., Paper: [http://arxiv.org/abs/2402.12377v1](http://arxiv.org/abs/2402.12377v1)
+- 2024-02-19, **Multi-View Conformal Learning for Heterogeneous Sensor Fusion**, Enrique Garcia-Ceja et.al., Paper: [http://arxiv.org/abs/2402.12307v1](http://arxiv.org/abs/2402.12307v1), Code: **[https://github.com/enriquegit/multiview-conformal-prediction-paper](https://github.com/enriquegit/multiview-conformal-prediction-paper)**
+- 2024-02-19, **Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion**, Ziyue Wang et.al., Paper: [http://arxiv.org/abs/2402.12195v1](http://arxiv.org/abs/2402.12195v1)
+- 2024-02-19, **Pan-Mamba: Effective pan-sharpening with State Space Model**, Xuanhua He et.al., Paper: [http://arxiv.org/abs/2402.12192v1](http://arxiv.org/abs/2402.12192v1)
+- 2024-02-19, **MultiFIX: An XAI-friendly feature inducing approach to building models from multimodal data**, Mafalda Malafaia et.al., Paper: [http://arxiv.org/abs/2402.12183v1](http://arxiv.org/abs/2402.12183v1)
+- 2024-02-19, **MLFEF: Machine Learning Fusion Model with Empirical Formula to Explore the Momentum in Competitive Sports**, Ruixin Peng et.al., Paper: [http://arxiv.org/abs/2402.12149v1](http://arxiv.org/abs/2402.12149v1)
+- 2024-02-19, **A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography**, Stefan Ploner et.al., Paper: [http://arxiv.org/abs/2402.12114v1](http://arxiv.org/abs/2402.12114v1)
+- 2024-02-19, **Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models**, Didi Zhu et.al., Paper: [http://arxiv.org/abs/2402.12048v1](http://arxiv.org/abs/2402.12048v1)
+- 2024-02-19, **Semantic Textual Similarity Assessment in Chest X-ray Reports Using a Domain-Specific Cosine-Based Metric**, Sayeh Gholipour Picha et.al., Paper: [http://arxiv.org/abs/2402.11908v1](http://arxiv.org/abs/2402.11908v1), Code: **[https://github.com/sayeh1994/medical-corpus-semantic-similarity-evaluation](https://github.com/sayeh1994/medical-corpus-semantic-similarity-evaluation)**
+- 2024-02-19, **An Endoscopic Chisel: Intraoperative Imaging Carves 3D Anatomical Models**, Jan Emily Mangulabnan et.al., Paper: [http://arxiv.org/abs/2402.11840v1](http://arxiv.org/abs/2402.11840v1)
 - 2024-02-16, **Fusion of Diffusion Weighted MRI and Clinical Data for Predicting Functional Outcome after Acute Ischemic Stroke with Deep Contrastive Learning**, Chia-Ling Tsai et.al., Paper: [http://arxiv.org/abs/2402.10894v1](http://arxiv.org/abs/2402.10894v1)
 - 2024-02-16, **Enhancing ESG Impact Type Identification through Early Fusion and Multilingual Models**, Hariram Veeramani et.al., Paper: [http://arxiv.org/abs/2402.10772v1](http://arxiv.org/abs/2402.10772v1)
 - 2024-02-16, **STF: Spatio-Temporal Fusion Module for Improving Video Object Detection**, Noreen Anwar et.al., Paper: [http://arxiv.org/abs/2402.10752v1](http://arxiv.org/abs/2402.10752v1), Code: **[https://github.com/noreenanwar/stf-module](https://github.com/noreenanwar/stf-module)**
