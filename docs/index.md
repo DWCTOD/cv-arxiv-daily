@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Video ReCap: Recursive Captioning of Hour-Long Videos**|Md Mohaiminul Islam et.al.|[2402.13250v1](http://arxiv.org/abs/2402.13250v1)|null|
+|**2024-02-20**|**SMORE: Similarity-based Hyperdimensional Domain Adaptation for Multi-Sensor Time Series Classification**|Junyao Wang et.al.|[2402.13233v1](http://arxiv.org/abs/2402.13233v1)|null|
+|**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232v1](http://arxiv.org/abs/2402.13232v1)|null|
+|**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226v1](http://arxiv.org/abs/2402.13226v1)|null|
+|**2024-02-20**|**VideoPrism: A Foundational Visual Encoder for Video Understanding**|Long Zhao et.al.|[2402.13217v1](http://arxiv.org/abs/2402.13217v1)|null|
+|**2024-02-20**|**How do Hyenas deal with Human Speech? Speech Recognition and Translation with ConfHyena**|Marco Gaido et.al.|[2402.13208v1](http://arxiv.org/abs/2402.13208v1)|null|
+|**2024-02-20**|**A novel image correction method for cloud-affected observations with Imaging Atmospheric Cherenkov Telescopes**|Natalia Żywucka et.al.|[2402.13190v1](http://arxiv.org/abs/2402.13190v1)|null|
+|**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185v1](http://arxiv.org/abs/2402.13185v1)|null|
+|**2024-02-20**|**DINOBot: Robot Manipulation via Retrieval and Alignment with Vision Foundation Models**|Norman Di Palo et.al.|[2402.13181v1](http://arxiv.org/abs/2402.13181v1)|null|
+|**2024-02-20**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172v1](http://arxiv.org/abs/2402.13172v1)|null|
 |**2024-02-19**|**Short-Period Variables in TESS Full-Frame Image Light Curves Identified via Convolutional Neural Networks**|Greg Olmschenk et.al.|[2402.12369v1](http://arxiv.org/abs/2402.12369v1)|null|
 |**2024-02-19**|**The first all-sky survey of star-forming galaxies with eROSITA: Scaling relations and a population of X-ray luminous starbursts**|E. Kyritsis et.al.|[2402.12367v1](http://arxiv.org/abs/2402.12367v1)|null|
 |**2024-02-19**|**An Adversarial Approach to Evaluating the Robustness of Event Identification Models**|Obai Bahwal et.al.|[2402.12338v1](http://arxiv.org/abs/2402.12338v1)|null|
@@ -4278,6 +4288,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Multistatic OFDM Radar Fusion of MUSIC-based Angle Estimation**|Martin Willame et.al.|[2402.13118v1](http://arxiv.org/abs/2402.13118v1)|null|
+|**2024-02-20**|**RhythmFormer: Extracting rPPG Signals Based on Hierarchical Temporal Periodic Transformer**|Bochao Zou et.al.|[2402.12788v1](http://arxiv.org/abs/2402.12788v1)|**[link](https://github.com/zizheng-guo/rhythmformer)**|
+|**2024-02-20**|**Fingerprint Presentation Attack Detector Using Global-Local Model**|Haozhe Liu et.al.|[2402.12754v1](http://arxiv.org/abs/2402.12754v1)|null|
+|**2024-02-20**|**Energy exchange between electrons and ions in ion temperature gradient turbulence**|T. Kato et.al.|[2402.12748v1](http://arxiv.org/abs/2402.12748v1)|null|
+|**2024-02-20**|**APT-MMF: An advanced persistent threat actor attribution method based on multimodal and multilevel feature fusion**|Nan Xiao et.al.|[2402.12743v1](http://arxiv.org/abs/2402.12743v1)|null|
+|**2024-02-20**|**Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering**|Junnan Dong et.al.|[2402.12728v1](http://arxiv.org/abs/2402.12728v1)|null|
+|**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551v1](http://arxiv.org/abs/2402.12551v1)|null|
 |**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377v1](http://arxiv.org/abs/2402.12377v1)|null|
 |**2024-02-19**|**Multi-View Conformal Learning for Heterogeneous Sensor Fusion**|Enrique Garcia-Ceja et.al.|[2402.12307v1](http://arxiv.org/abs/2402.12307v1)|**[link](https://github.com/enriquegit/multiview-conformal-prediction-paper)**|
 |**2024-02-19**|**Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion**|Ziyue Wang et.al.|[2402.12195v1](http://arxiv.org/abs/2402.12195v1)|null|
