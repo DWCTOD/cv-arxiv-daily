@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**A Simple and Yet Fairly Effective Defense for Graph Neural Networks**|Sofiane Ennadir et.al.|[2402.13987v1](http://arxiv.org/abs/2402.13987v1)|**[link](https://github.com/sennadir/noisygnn)**|
+|**2024-02-21**|**On modular representations of inner forms of $\mathrm{GL}_n$ over a local non-archimedean field**|Johannes Droschl et.al.|[2402.13969v1](http://arxiv.org/abs/2402.13969v1)|null|
+|**2024-02-21**|**New directions in algebraic statistics: Three challenges from 2023**|Yulia Alexandr et.al.|[2402.13961v1](http://arxiv.org/abs/2402.13961v1)|null|
+|**2024-02-21**|**On the topological classification of complex plane curve singularities**|Alberto Fernández-Hernández et.al.|[2402.13941v1](http://arxiv.org/abs/2402.13941v1)|null|
+|**2024-02-21**|**Verifying message-passing neural networks via topology-based bounds tightening**|Christopher Hojny et.al.|[2402.13937v1](http://arxiv.org/abs/2402.13937v1)|null|
+|**2024-02-21**|**Tumor segmentation on whole slide images: training or prompting?**|Huaqian Wu et.al.|[2402.13932v1](http://arxiv.org/abs/2402.13932v1)|null|
+|**2024-02-21**|**BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery**|Loddo Fabio et.al.|[2402.13918v1](http://arxiv.org/abs/2402.13918v1)|**[link](https://github.com/toelt-llc/cloud_segmentation_comparative)**|
+|**2024-02-21**|**An Explainable Transformer-based Model for Phishing Email Detection: A Large Language Model Approach**|Mohammad Amaz Uddin et.al.|[2402.13871v1](http://arxiv.org/abs/2402.13871v1)|null|
+|**2024-02-21**|**RFI-DRUnet: Restoring dynamic spectra corrupted by radio frequency interference -- Application to pulsar observations**|Xiao Zhang et.al.|[2402.13867v1](http://arxiv.org/abs/2402.13867v1)|null|
+|**2024-02-21**|**What we can learn from TikTok through its Research API**|Francesco Corso et.al.|[2402.13855v1](http://arxiv.org/abs/2402.13855v1)|null|
 |**2024-02-20**|**Video ReCap: Recursive Captioning of Hour-Long Videos**|Md Mohaiminul Islam et.al.|[2402.13250v1](http://arxiv.org/abs/2402.13250v1)|null|
 |**2024-02-20**|**SMORE: Similarity-based Hyperdimensional Domain Adaptation for Multi-Sensor Time Series Classification**|Junyao Wang et.al.|[2402.13233v1](http://arxiv.org/abs/2402.13233v1)|null|
 |**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232v1](http://arxiv.org/abs/2402.13232v1)|null|
@@ -4284,6 +4294,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**BEE-NET: A deep neural network to identify in-the-wild Bodily Expression of Emotions**|Mohammad Mahdi Dehshibi et.al.|[2402.13955v1](http://arxiv.org/abs/2402.13955v1)|null|
+|**2024-02-21**|**The Maintenance of Coherent Vortex Topology by Lagrangian Chaos in Drift-Rossby Wave Turbulence**|Norman M. Cao et.al.|[2402.13942v1](http://arxiv.org/abs/2402.13942v1)|null|
+|**2024-02-21**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v1](http://arxiv.org/abs/2402.13876v1)|null|
+|**2024-02-21**|**Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**|Mingkun Yang et.al.|[2402.13643v1](http://arxiv.org/abs/2402.13643v1)|**[link](https://github.com/melosy/cam)**|
+|**2024-02-21**|**Prediction of the Economic Behavior of Fishery Biotechnology Companies Based on Machine Learning-Based Deep Metacellular Automata**|Liguo Chen et.al.|[2402.13509v1](http://arxiv.org/abs/2402.13509v1)|null|
 |**2024-02-20**|**Multistatic OFDM Radar Fusion of MUSIC-based Angle Estimation**|Martin Willame et.al.|[2402.13118v1](http://arxiv.org/abs/2402.13118v1)|null|
 |**2024-02-20**|**RhythmFormer: Extracting rPPG Signals Based on Hierarchical Temporal Periodic Transformer**|Bochao Zou et.al.|[2402.12788v1](http://arxiv.org/abs/2402.12788v1)|**[link](https://github.com/zizheng-guo/rhythmformer)**|
 |**2024-02-20**|**Fingerprint Presentation Attack Detector Using Global-Local Model**|Haozhe Liu et.al.|[2402.12754v1](http://arxiv.org/abs/2402.12754v1)|null|
