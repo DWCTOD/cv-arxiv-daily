@@ -4312,7 +4312,7 @@
 |**2024-02-21**|**GDTM: An Indoor Geospatial Tracking Dataset with Distributed Multimodal Sensors**|Ho Lyun Jeong et.al.|[2402.14136v1](http://arxiv.org/abs/2402.14136v1)|**[link](https://github.com/nesl/gdtm)**|
 |**2024-02-21**|**BEE-NET: A deep neural network to identify in-the-wild Bodily Expression of Emotions**|Mohammad Mahdi Dehshibi et.al.|[2402.13955v1](http://arxiv.org/abs/2402.13955v1)|null|
 |**2024-02-21**|**The Maintenance of Coherent Vortex Topology by Lagrangian Chaos in Drift-Rossby Wave Turbulence**|Norman M. Cao et.al.|[2402.13942v1](http://arxiv.org/abs/2402.13942v1)|null|
-|**2024-02-21**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v1](http://arxiv.org/abs/2402.13876v1)|null|
+|**2024-02-23**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v2](http://arxiv.org/abs/2402.13876v2)|null|
 |**2024-02-21**|**Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**|Mingkun Yang et.al.|[2402.13643v1](http://arxiv.org/abs/2402.13643v1)|**[link](https://github.com/melosy/cam)**|
 |**2024-02-21**|**Prediction of the Economic Behavior of Fishery Biotechnology Companies Based on Machine Learning-Based Deep Metacellular Automata**|Liguo Chen et.al.|[2402.13509v1](http://arxiv.org/abs/2402.13509v1)|null|
 |**2024-02-20**|**Multistatic OFDM Radar Fusion of MUSIC-based Angle Estimation**|Martin Willame et.al.|[2402.13118v1](http://arxiv.org/abs/2402.13118v1)|null|
