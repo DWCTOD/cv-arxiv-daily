@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-02-23, **A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**, Abolfazl Younesi et.al., Paper: [http://arxiv.org/abs/2402.15490v1](http://arxiv.org/abs/2402.15490v1)
+- 2024-02-23, **Retinotopic Mapping Enhances the Robustness of Convolutional Neural Networks**, Jean-Nicolas Jérémie et.al., Paper: [http://arxiv.org/abs/2402.15480v1](http://arxiv.org/abs/2402.15480v1)
+- 2024-02-23, **FAIR: Filtering of Automatically Induced Rules**, Divya Jyoti Bajpai et.al., Paper: [http://arxiv.org/abs/2402.15472v1](http://arxiv.org/abs/2402.15472v1)
+- 2024-02-23, **GROS: A General Robust Aggregation Strategy**, Alejandro Cholaquidis et.al., Paper: [http://arxiv.org/abs/2402.15442v1](http://arxiv.org/abs/2402.15442v1)
+- 2024-02-23, **Hierarchical Invariance for Robust and Interpretable Vision Tasks at Larger Scales**, Shuren Qi et.al., Paper: [http://arxiv.org/abs/2402.15430v1](http://arxiv.org/abs/2402.15430v1), Code: **[https://github.com/shurenqi/hir](https://github.com/shurenqi/hir)**
+- 2024-02-23, **ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2402.15429v1](http://arxiv.org/abs/2402.15429v1), Code: **[https://github.com/wellzline/protip](https://github.com/wellzline/protip)**
+- 2024-02-23, **Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**, Eike Schneiders et.al., Paper: [http://arxiv.org/abs/2402.15427v1](http://arxiv.org/abs/2402.15427v1)
+- 2024-02-23, **PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**, Simon Holk et.al., Paper: [http://arxiv.org/abs/2402.15420v1](http://arxiv.org/abs/2402.15420v1)
+- 2024-02-23, **G-RepsNet: A Fast and General Construction of Equivariant Networks for Arbitrary Matrix Groups**, Sourya Basu et.al., Paper: [http://arxiv.org/abs/2402.15413v1](http://arxiv.org/abs/2402.15413v1)
+- 2024-02-23, **A Universal Method for Solar Filament Detection from H-alpha Observations using Semi-supervised Deep Learning**, Andrea Diercke et.al., Paper: [http://arxiv.org/abs/2402.15407v1](http://arxiv.org/abs/2402.15407v1)
 - 2024-02-22, **Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**, Andrea Giuseppe Di Francesco et.al., Paper: [http://arxiv.org/abs/2402.14802v1](http://arxiv.org/abs/2402.14802v1)
 - 2024-02-22, **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis**, Willi Menapace et.al., Paper: [http://arxiv.org/abs/2402.14797v1](http://arxiv.org/abs/2402.14797v1)
 - 2024-02-22, **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**, Yixuan Ren et.al., Paper: [http://arxiv.org/abs/2402.14780v1](http://arxiv.org/abs/2402.14780v1)
@@ -4300,6 +4310,14 @@
 
 ## MultiModal
 
+- 2024-02-23, **Assessing the Impact of Nuclear Mass Models on the Prediction of Synthesis Cross Sections for Superheavy Elements**, Chang Geng et.al., Paper: [http://arxiv.org/abs/2402.15304v1](http://arxiv.org/abs/2402.15304v1)
+- 2024-02-23, **EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2402.15272v1](http://arxiv.org/abs/2402.15272v1), Code: **[https://github.com/bosszhe/emiff](https://github.com/bosszhe/emiff)**
+- 2024-02-23, **Combined thermal and particle shape effects on powder spreading in additive manufacturing via discrete element simulations**, Sudeshna Roy et.al., Paper: [http://arxiv.org/abs/2402.15271v1](http://arxiv.org/abs/2402.15271v1)
+- 2024-02-23, **How to distinguish capture events from mass-energy distributions**, Hong Yao et.al., Paper: [http://arxiv.org/abs/2402.15224v1](http://arxiv.org/abs/2402.15224v1)
+- 2024-02-23, **The AffectToolbox: Affect Analysis for Everyone**, Silvan Mertes et.al., Paper: [http://arxiv.org/abs/2402.15195v1](http://arxiv.org/abs/2402.15195v1)
+- 2024-02-23, **Networked Collaborative Sensing using Multi-domain Measurements: Architectures, Performance Limits and Algorithms**, Yihua Ma et.al., Paper: [http://arxiv.org/abs/2402.15047v1](http://arxiv.org/abs/2402.15047v1)
+- 2024-02-22, **An image-based transfer learning approach for using in situ processing data to predict laser powder bed fusion additively manufactured Ti-6Al-4V mechanical properties**, Qixiang Luo et.al., Paper: [http://arxiv.org/abs/2402.14945v1](http://arxiv.org/abs/2402.14945v1)
+- 2024-02-22, **Non-Invertible Duality Interfaces in Field Theories with Exotic Symmetries**, Ryan C. Spieler et.al., Paper: [http://arxiv.org/abs/2402.14944v1](http://arxiv.org/abs/2402.14944v1)
 - 2024-02-22, **A method for describing the maximal ideal in universal affine vertex algebras at non-admissible levels**, Drazen Adamovic et.al., Paper: [http://arxiv.org/abs/2402.14722v1](http://arxiv.org/abs/2402.14722v1)
 - 2024-02-22, **CLCE: An Approach to Refining Cross-Entropy and Contrastive Learning for Optimized Learning Fusion**, Zijun Long et.al., Paper: [http://arxiv.org/abs/2402.14551v1](http://arxiv.org/abs/2402.14551v1)
 - 2024-02-22, **Deep vessel segmentation based on a new combination of vesselness filters**, Guillaume Garret et.al., Paper: [http://arxiv.org/abs/2402.14509v1](http://arxiv.org/abs/2402.14509v1)
