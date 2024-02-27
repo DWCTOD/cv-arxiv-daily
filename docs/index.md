@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Open Your Ears to Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization**|Kajetan Enge et.al.|[2402.16558v1](http://arxiv.org/abs/2402.16558v1)|null|
+|**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515v1](http://arxiv.org/abs/2402.16515v1)|null|
+|**2024-02-26**|**Photonic Neural Network Fabricated on Thin Film Lithium Niobate for High-Fidelity and Power-Efficient Matrix Computation**|Yong Zheng et.al.|[2402.16513v1](http://arxiv.org/abs/2402.16513v1)|null|
+|**2024-02-26**|**Intelligent Known and Novel Aircraft Recognition -- A Shift from Classification to Similarity Learning for Combat Identification**|Ahmad Saeed et.al.|[2402.16486v1](http://arxiv.org/abs/2402.16486v1)|null|
+|**2024-02-26**|**Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**|Jin Ding et.al.|[2402.16479v1](http://arxiv.org/abs/2402.16479v1)|null|
+|**2024-02-26**|**Autonomous Integration of TSN-unaware Applications with QoS Requirements in TSN Networks**|Moritz Fluechter et.al.|[2402.16454v1](http://arxiv.org/abs/2402.16454v1)|null|
+|**2024-02-26**|**Retrouver l'inventeur-auteur : la lev{é}e d'homonymies d'autorat entre les brevets et les publications scientifiques**|David Reymond et.al.|[2402.16440v1](http://arxiv.org/abs/2402.16440v1)|null|
+|**2024-02-26**|**Improving behavior based authentication against adversarial attack using XAI**|Dong Qin et.al.|[2402.16430v1](http://arxiv.org/abs/2402.16430v1)|null|
+|**2024-02-26**|**Adaptive Online Learning of Separable Path Graph Transforms for Intra-prediction**|Wen-Yang Lu et.al.|[2402.16371v1](http://arxiv.org/abs/2402.16371v1)|null|
+|**2024-02-26**|**DEYO: DETR with YOLO for End-to-End Object Detection**|Haodong Ouyang et.al.|[2402.16370v1](http://arxiv.org/abs/2402.16370v1)|null|
 |**2024-02-23**|**A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**|Abolfazl Younesi et.al.|[2402.15490v1](http://arxiv.org/abs/2402.15490v1)|null|
 |**2024-02-23**|**Retinotopic Mapping Enhances the Robustness of Convolutional Neural Networks**|Jean-Nicolas Jérémie et.al.|[2402.15480v1](http://arxiv.org/abs/2402.15480v1)|null|
 |**2024-02-23**|**FAIR: Filtering of Automatically Induced Rules**|Divya Jyoti Bajpai et.al.|[2402.15472v1](http://arxiv.org/abs/2402.15472v1)|null|
@@ -4318,6 +4328,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Audio-Visual Speech Enhancement in Noisy Environments via Emotion-Based Contextual Cues**|Tassadaq Hussain et.al.|[2402.16394v1](http://arxiv.org/abs/2402.16394v1)|null|
+|**2024-02-26**|**MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer**|Sushmita Sarker et.al.|[2402.16298v1](http://arxiv.org/abs/2402.16298v1)|**[link](https://github.com/prithuls/mv-swin-t)**|
+|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267v1](http://arxiv.org/abs/2402.16267v1)|null|
+|**2024-02-25**|**System size scaling of triangularity effects on global temperature gradient-driven gyrokinetic simulations**|Giovanni Di Giannatale et.al.|[2402.16216v1](http://arxiv.org/abs/2402.16216v1)|null|
+|**2024-02-25**|**FuseChat: Knowledge Fusion of Chat Models**|Fanqi Wan et.al.|[2402.16107v1](http://arxiv.org/abs/2402.16107v1)|**[link](https://github.com/fanqiwan/fusellm)**|
+|**2024-02-25**|**Molecular Code-Division Multiple-Access: Signaling, Detection, and Performance**|Weidong Gao et.al.|[2402.16097v1](http://arxiv.org/abs/2402.16097v1)|null|
+|**2024-02-25**|**Microscopic study of deformation and orientation effects in heavy-ion reactions above Coulomb barrier using the Boltzmann-Uehling-Uhlenbeck model**|Yujie Feng et.al.|[2402.16019v1](http://arxiv.org/abs/2402.16019v1)|null|
+|**2024-02-24**|**Bridging the Gap between 2D and 3D Visual Question Answering: A Fusion Approach for 3D VQA**|Wentao Mo et.al.|[2402.15933v1](http://arxiv.org/abs/2402.15933v1)|**[link](https://github.com/matthewdm0816/bridgeqa)**|
+|**2024-02-24**|**MMW-Carry: Enhancing Carry Object Detection through Millimeter-Wave Radar-Camera Fusion**|Xiangyu Gao et.al.|[2402.15897v1](http://arxiv.org/abs/2402.15897v1)|null|
+|**2024-02-24**|**Fusion Encoder Networks**|Stephen Pasteris et.al.|[2402.15883v1](http://arxiv.org/abs/2402.15883v1)|null|
 |**2024-02-23**|**Assessing the Impact of Nuclear Mass Models on the Prediction of Synthesis Cross Sections for Superheavy Elements**|Chang Geng et.al.|[2402.15304v1](http://arxiv.org/abs/2402.15304v1)|null|
 |**2024-02-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang et.al.|[2402.15272v1](http://arxiv.org/abs/2402.15272v1)|**[link](https://github.com/bosszhe/emiff)**|
 |**2024-02-23**|**Combined thermal and particle shape effects on powder spreading in additive manufacturing via discrete element simulations**|Sudeshna Roy et.al.|[2402.15271v1](http://arxiv.org/abs/2402.15271v1)|null|
