@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|null|
+|**2024-02-27**|**Towards Optimal Learning of Language Models**|Yuxian Gu et.al.|[2402.17759v1](http://arxiv.org/abs/2402.17759v1)|null|
+|**2024-02-27**|**An Eye Gaze Heatmap Analysis of Uncertainty Head-Up Display Designs for Conditional Automated Driving**|Michael A. Gerber et.al.|[2402.17751v1](http://arxiv.org/abs/2402.17751v1)|null|
+|**2024-02-27**|**Scaling on-chip photonic neural processors using arbitrarily programmable wave propagation**|Tatsuhiro Onodera et.al.|[2402.17750v1](http://arxiv.org/abs/2402.17750v1)|**[link](https://github.com/mcmahon-lab/2d-programmable-waveguide)**|
+|**2024-02-27**|**Linking Order to Strength in Metals**|Nicolas Argibay et.al.|[2402.17728v1](http://arxiv.org/abs/2402.17728v1)|null|
+|**2024-02-27**|**MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation**|Hanan Gani et.al.|[2402.17725v1](http://arxiv.org/abs/2402.17725v1)|**[link](https://github.com/hananshafi/medcontext)**|
+|**2024-02-27**|**Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners**|Yazhou Xing et.al.|[2402.17723v1](http://arxiv.org/abs/2402.17723v1)|null|
+|**2024-02-27**|**Understanding Neural Network Binarization with Forward and Backward Proximal Quantizers**|Yiwei Lu et.al.|[2402.17710v1](http://arxiv.org/abs/2402.17710v1)|null|
+|**2024-02-27**|**NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents**|Tamara Czinczoll et.al.|[2402.17682v1](http://arxiv.org/abs/2402.17682v1)|null|
+|**2024-02-27**|**MCF-VC: Mitigate Catastrophic Forgetting in Class-Incremental Learning for Multimodal Video Captioning**|Huiyu Xiong et.al.|[2402.17680v1](http://arxiv.org/abs/2402.17680v1)|null|
 |**2024-02-26**|**Open Your Ears to Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization**|Kajetan Enge et.al.|[2402.16558v1](http://arxiv.org/abs/2402.16558v1)|null|
 |**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515v1](http://arxiv.org/abs/2402.16515v1)|null|
 |**2024-02-26**|**Photonic Neural Network Fabricated on Thin Film Lithium Niobate for High-Fidelity and Power-Efficient Matrix Computation**|Yong Zheng et.al.|[2402.16513v1](http://arxiv.org/abs/2402.16513v1)|null|
@@ -4331,6 +4341,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**SDF2Net: Shallow to Deep Feature Fusion Network for PolSAR Image Classification**|Mohammed Q. Alkhatib et.al.|[2402.17672v1](http://arxiv.org/abs/2402.17672v1)|**[link](https://github.com/mqalkhatib/sdf2net)**|
+|**2024-02-27**|**REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering**|Yuhao Wang et.al.|[2402.17497v1](http://arxiv.org/abs/2402.17497v1)|null|
+|**2024-02-27**|**AlignMiF: Geometry-Aligned Multimodal Implicit Field for LiDAR-Camera Joint Synthesis**|Tao Tang et.al.|[2402.17483v1](http://arxiv.org/abs/2402.17483v1)|**[link](https://github.com/tangtaogo/alignmif)**|
+|**2024-02-27**|**Fraud Detection with Binding Global and Local Relational Interaction**|Haolin Li et.al.|[2402.17472v1](http://arxiv.org/abs/2402.17472v1)|null|
+|**2024-02-27**|**Explicit Interaction for Fusion-Based Place Recognition**|Jingyi Xu et.al.|[2402.17264v1](http://arxiv.org/abs/2402.17264v1)|**[link](https://github.com/bit-xjy/einet)**|
+|**2024-02-27**|**EDTC: enhance depth of text comprehension in automated audio captioning**|Liwen Tan et.al.|[2402.17259v1](http://arxiv.org/abs/2402.17259v1)|null|
+|**2024-02-27**|**Deep Learning-based Kinetic Analysis in Paper-based Analytical Cartridges Integrated with Field-effect Transistors**|Hyun-June Jang et.al.|[2402.17209v1](http://arxiv.org/abs/2402.17209v1)|null|
+|**2024-02-27**|**PE-MVCNet: Multi-view and Cross-modal Fusion Network for Pulmonary Embolism Prediction**|Zhaoxin Guo et.al.|[2402.17187v1](http://arxiv.org/abs/2402.17187v1)|null|
+|**2024-02-26**|**Neural Mesh Fusion: Unsupervised 3D Planar Surface Understanding**|Farhad G. Zanjani et.al.|[2402.16739v1](http://arxiv.org/abs/2402.16739v1)|null|
+|**2024-02-26**|**DRSI-Net: Dual-Residual Spatial Interaction Network for Multi-Person Pose Estimation**|Shang Wu et.al.|[2402.16640v1](http://arxiv.org/abs/2402.16640v1)|null|
 |**2024-02-26**|**Audio-Visual Speech Enhancement in Noisy Environments via Emotion-Based Contextual Cues**|Tassadaq Hussain et.al.|[2402.16394v1](http://arxiv.org/abs/2402.16394v1)|null|
 |**2024-02-26**|**MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer**|Sushmita Sarker et.al.|[2402.16298v1](http://arxiv.org/abs/2402.16298v1)|**[link](https://github.com/prithuls/mv-swin-t)**|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267v1](http://arxiv.org/abs/2402.16267v1)|null|
