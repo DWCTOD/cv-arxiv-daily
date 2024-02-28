@@ -4335,7 +4335,7 @@ layout: default
 |**2024-02-26**|**MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer**|Sushmita Sarker et.al.|[2402.16298v1](http://arxiv.org/abs/2402.16298v1)|**[link](https://github.com/prithuls/mv-swin-t)**|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267v1](http://arxiv.org/abs/2402.16267v1)|null|
 |**2024-02-25**|**System size scaling of triangularity effects on global temperature gradient-driven gyrokinetic simulations**|Giovanni Di Giannatale et.al.|[2402.16216v1](http://arxiv.org/abs/2402.16216v1)|null|
-|**2024-02-25**|**FuseChat: Knowledge Fusion of Chat Models**|Fanqi Wan et.al.|[2402.16107v1](http://arxiv.org/abs/2402.16107v1)|**[link](https://github.com/fanqiwan/fusellm)**|
+|**2024-02-27**|**FuseChat: Knowledge Fusion of Chat Models**|Fanqi Wan et.al.|[2402.16107v2](http://arxiv.org/abs/2402.16107v2)|**[link](https://github.com/fanqiwan/fusellm)**|
 |**2024-02-25**|**Molecular Code-Division Multiple-Access: Signaling, Detection, and Performance**|Weidong Gao et.al.|[2402.16097v1](http://arxiv.org/abs/2402.16097v1)|null|
 |**2024-02-25**|**Microscopic study of deformation and orientation effects in heavy-ion reactions above Coulomb barrier using the Boltzmann-Uehling-Uhlenbeck model**|Yujie Feng et.al.|[2402.16019v1](http://arxiv.org/abs/2402.16019v1)|null|
 |**2024-02-24**|**Bridging the Gap between 2D and 3D Visual Question Answering: A Fusion Approach for 3D VQA**|Wentao Mo et.al.|[2402.15933v1](http://arxiv.org/abs/2402.15933v1)|**[link](https://github.com/matthewdm0816/bridgeqa)**|
