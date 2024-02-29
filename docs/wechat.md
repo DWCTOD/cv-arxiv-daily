@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-02-28, **Time-efficient filtering of polarimetric data by checking physical realizability of experimental Mueller matrices**, Tatiana Novikova et.al., Paper: [http://arxiv.org/abs/2402.18555v1](http://arxiv.org/abs/2402.18555v1)
+- 2024-02-28, **Selection of appropriate multispectral camera exposure settings and radiometric calibration methods for applications in phenotyping and precision agriculture**, Vaishali Swaminathan et.al., Paper: [http://arxiv.org/abs/2402.18553v1](http://arxiv.org/abs/2402.18553v1)
+- 2024-02-28, **Implicit Bias of Next-Token Prediction**, Christos Thrampoulidis et.al., Paper: [http://arxiv.org/abs/2402.18551v1](http://arxiv.org/abs/2402.18551v1)
+- 2024-02-28, **Defect Detection in Tire X-Ray Images: Conventional Methods Meet Deep Structures**, Andrei Cozma et.al., Paper: [http://arxiv.org/abs/2402.18527v1](http://arxiv.org/abs/2402.18527v1)
+- 2024-02-28, **Do galaxy mergers prefer under-dense environments?**, U. Sureshkumar et.al., Paper: [http://arxiv.org/abs/2402.18520v1](http://arxiv.org/abs/2402.18520v1)
+- 2024-02-28, **Log Neural Controlled Differential Equations: The Lie Brackets Make a Difference**, Benjamin Walker et.al., Paper: [http://arxiv.org/abs/2402.18512v1](http://arxiv.org/abs/2402.18512v1)
+- 2024-02-28, **Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling**, Mahdi Karami et.al., Paper: [http://arxiv.org/abs/2402.18508v1](http://arxiv.org/abs/2402.18508v1)
+- 2024-02-28, **Detection of Micromobility Vehicles in Urban Traffic Videos**, Khalil Sabri et.al., Paper: [http://arxiv.org/abs/2402.18503v1](http://arxiv.org/abs/2402.18503v1), Code: **[https://github.com/sabrikhalil/micro_mobility_detection](https://github.com/sabrikhalil/micro_mobility_detection)**
+- 2024-02-28, **Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**, Garima Chhikara et.al., Paper: [http://arxiv.org/abs/2402.18502v1](http://arxiv.org/abs/2402.18502v1)
+- 2024-02-28, **ROG$_{PL}$: Robust Open-Set Graph Learning via Region-Based Prototype Learning**, Qin Zhang et.al., Paper: [http://arxiv.org/abs/2402.18495v1](http://arxiv.org/abs/2402.18495v1)
 - 2024-02-27, **Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2402.17768v1](http://arxiv.org/abs/2402.17768v1)
 - 2024-02-27, **Towards Optimal Learning of Language Models**, Yuxian Gu et.al., Paper: [http://arxiv.org/abs/2402.17759v1](http://arxiv.org/abs/2402.17759v1)
 - 2024-02-27, **An Eye Gaze Heatmap Analysis of Uncertainty Head-Up Display Designs for Conditional Automated Driving**, Michael A. Gerber et.al., Paper: [http://arxiv.org/abs/2402.17751v1](http://arxiv.org/abs/2402.17751v1)
@@ -4333,6 +4343,16 @@
 
 ## MultiModal
 
+- 2024-02-28, **Detection of Micromobility Vehicles in Urban Traffic Videos**, Khalil Sabri et.al., Paper: [http://arxiv.org/abs/2402.18503v1](http://arxiv.org/abs/2402.18503v1), Code: **[https://github.com/sabrikhalil/micro_mobility_detection](https://github.com/sabrikhalil/micro_mobility_detection)**
+- 2024-02-28, **UKF-Based Sensor Fusion for Joint-Torque Sensorless Humanoid Robots**, Ines Sorrentino et.al., Paper: [http://arxiv.org/abs/2402.18380v1](http://arxiv.org/abs/2402.18380v1)
+- 2024-02-28, **EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving**, Jiacheng Lin et.al., Paper: [http://arxiv.org/abs/2402.18302v1](http://arxiv.org/abs/2402.18302v1), Code: **[https://github.com/lab206/echotrack](https://github.com/lab206/echotrack)**
+- 2024-02-28, **Comparative Analysis of XGBoost and Minirocket Algortihms for Human Activity Recognition**, Celal Alagoz et.al., Paper: [http://arxiv.org/abs/2402.18296v1](http://arxiv.org/abs/2402.18296v1)
+- 2024-02-28, **Distributed Intelligent Integrated Sensing and Communications: The 6G-DISAC Approach**, Emilio Calvanese Strinati et.al., Paper: [http://arxiv.org/abs/2402.18271v1](http://arxiv.org/abs/2402.18271v1)
+- 2024-02-28, **Optical Widefield Nuclear Magnetic Resonance Microscopy**, Karl D. Briegel et.al., Paper: [http://arxiv.org/abs/2402.18239v1](http://arxiv.org/abs/2402.18239v1)
+- 2024-02-28, **NiteDR: Nighttime Image De-Raining with Cross-View Sensor Cooperative Learning for Dynamic Driving Scenes**, Cidan Shi et.al., Paper: [http://arxiv.org/abs/2402.18172v1](http://arxiv.org/abs/2402.18172v1), Code: **[https://github.com/cidanshi/nitedr-nighttime-image-de-raining](https://github.com/cidanshi/nitedr-nighttime-image-de-raining)**
+- 2024-02-28, **Sequence-level Semantic Representation Fusion for Recommender Systems**, Lanling Xu et.al., Paper: [http://arxiv.org/abs/2402.18166v1](http://arxiv.org/abs/2402.18166v1), Code: **[https://github.com/rucaibox/tedrec](https://github.com/rucaibox/tedrec)**
+- 2024-02-28, **Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions**, Mengying Jiang et.al., Paper: [http://arxiv.org/abs/2402.18127v1](http://arxiv.org/abs/2402.18127v1), Code: **[https://github.com/mengyingjiang/hmgrl](https://github.com/mengyingjiang/hmgrl)**
+- 2024-02-28, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122v1](http://arxiv.org/abs/2402.18122v1)
 - 2024-02-27, **SDF2Net: Shallow to Deep Feature Fusion Network for PolSAR Image Classification**, Mohammed Q. Alkhatib et.al., Paper: [http://arxiv.org/abs/2402.17672v1](http://arxiv.org/abs/2402.17672v1), Code: **[https://github.com/mqalkhatib/sdf2net](https://github.com/mqalkhatib/sdf2net)**
 - 2024-02-27, **REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering**, Yuhao Wang et.al., Paper: [http://arxiv.org/abs/2402.17497v1](http://arxiv.org/abs/2402.17497v1)
 - 2024-02-27, **AlignMiF: Geometry-Aligned Multimodal Implicit Field for LiDAR-Camera Joint Synthesis**, Tao Tang et.al., Paper: [http://arxiv.org/abs/2402.17483v1](http://arxiv.org/abs/2402.17483v1), Code: **[https://github.com/tangtaogo/alignmif](https://github.com/tangtaogo/alignmif)**
