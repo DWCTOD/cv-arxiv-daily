@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479v1](http://arxiv.org/abs/2402.19479v1)|null|
+|**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470v1](http://arxiv.org/abs/2402.19470v1)|null|
+|**2024-02-29**|**Humanoid Locomotion as Next Token Prediction**|Ilija Radosavovic et.al.|[2402.19469v1](http://arxiv.org/abs/2402.19469v1)|null|
+|**2024-02-29**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467v1](http://arxiv.org/abs/2402.19467v1)|null|
+|**2024-02-29**|**Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models**|Frederik Kunstner et.al.|[2402.19449v1](http://arxiv.org/abs/2402.19449v1)|null|
+|**2024-02-29**|**Probing the Information Encoded in Neural-based Acoustic Models of Automatic Speech Recognition Systems**|Quentin Raymondaud et.al.|[2402.19443v1](http://arxiv.org/abs/2402.19443v1)|null|
+|**2024-02-29**|**Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation**|Jonathan Yang et.al.|[2402.19432v1](http://arxiv.org/abs/2402.19432v1)|null|
+|**2024-02-29**|**PaECTER: Patent-level Representation Learning using Citation-informed Transformers**|Mainak Ghosh et.al.|[2402.19411v1](http://arxiv.org/abs/2402.19411v1)|null|
+|**2024-02-29**|**Navigating Hallucinations for Reasoning of Unintentional Activities**|Shresth Grover et.al.|[2402.19405v1](http://arxiv.org/abs/2402.19405v1)|null|
+|**2024-02-29**|**A Newborn AGN in a Starforming Galaxy**|P. Arévalo et.al.|[2402.19403v1](http://arxiv.org/abs/2402.19403v1)|null|
 |**2024-02-28**|**Time-efficient filtering of polarimetric data by checking physical realizability of experimental Mueller matrices**|Tatiana Novikova et.al.|[2402.18555v1](http://arxiv.org/abs/2402.18555v1)|null|
 |**2024-02-28**|**Selection of appropriate multispectral camera exposure settings and radiometric calibration methods for applications in phenotyping and precision agriculture**|Vaishali Swaminathan et.al.|[2402.18553v1](http://arxiv.org/abs/2402.18553v1)|null|
 |**2024-02-28**|**Implicit Bias of Next-Token Prediction**|Christos Thrampoulidis et.al.|[2402.18551v1](http://arxiv.org/abs/2402.18551v1)|null|
@@ -4347,6 +4357,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348v1](http://arxiv.org/abs/2402.19348v1)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
+|**2024-02-29**|**Integrate on a closed stratified surface**|Xiao-Xue Wei et.al.|[2402.19342v1](http://arxiv.org/abs/2402.19342v1)|null|
+|**2024-02-29**|**RoadRunner -- Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341v1](http://arxiv.org/abs/2402.19341v1)|null|
+|**2024-02-29**|**Suppress and Rebalance: Towards Generalized Multi-Modal Face Anti-Spoofing**|Xun Lin et.al.|[2402.19298v1](http://arxiv.org/abs/2402.19298v1)|**[link](https://github.com/omggggg/mmdg)**|
+|**2024-02-29**|**Condensation Completion and Defects in 2+1D Topological Orders**|Gen Yue et.al.|[2402.19253v1](http://arxiv.org/abs/2402.19253v1)|null|
+|**2024-02-29**|**An asymptotic-preserving method for the three-temperature radiative transfer model**|Ruo Li et.al.|[2402.19191v1](http://arxiv.org/abs/2402.19191v1)|null|
+|**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160v1](http://arxiv.org/abs/2402.19160v1)|null|
+|**2024-02-29**|**Unraveling electronic correlations in warm dense quantum plasmas**|Tobias Dornheim et.al.|[2402.19113v1](http://arxiv.org/abs/2402.19113v1)|null|
+|**2024-02-29**|**A Protein Structure Prediction Approach Leveraging Transformer and CNN Integration**|Yanlin Zhou et.al.|[2402.19095v1](http://arxiv.org/abs/2402.19095v1)|null|
+|**2024-02-29**|**Improving Group Connectivity for Generalization of Federated Deep Learning**|Zexi Li et.al.|[2402.18949v1](http://arxiv.org/abs/2402.18949v1)|null|
 |**2024-02-28**|**Detection of Micromobility Vehicles in Urban Traffic Videos**|Khalil Sabri et.al.|[2402.18503v1](http://arxiv.org/abs/2402.18503v1)|**[link](https://github.com/sabrikhalil/micro_mobility_detection)**|
 |**2024-02-28**|**UKF-Based Sensor Fusion for Joint-Torque Sensorless Humanoid Robots**|Ines Sorrentino et.al.|[2402.18380v1](http://arxiv.org/abs/2402.18380v1)|null|
 |**2024-02-28**|**EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving**|Jiacheng Lin et.al.|[2402.18302v1](http://arxiv.org/abs/2402.18302v1)|**[link](https://github.com/lab206/echotrack)**|
