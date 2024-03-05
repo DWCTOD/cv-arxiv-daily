@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-03**|**Enhancing Retinal Vascular Structure Segmentation in Images With a Novel Design Two-Path Interactive Fusion Module Model**|Rui Yang et.al.|[2403.01362v1](http://arxiv.org/abs/2403.01362v1)|null|
+|**2024-03-02**|**Improve Cost Efficiency of Active Learning over Noisy Dataset**|Zan-Kai Chong et.al.|[2403.01346v1](http://arxiv.org/abs/2403.01346v1)|null|
+|**2024-03-02**|**An eternal hypersurface flow arising in centro-affine geometry**|Xinjie Jiang et.al.|[2403.01340v1](http://arxiv.org/abs/2403.01340v1)|null|
+|**2024-03-02**|**Image-Based Dietary Assessment: A Healthy Eating Plate Estimation System**|Assylzhan Izbassar et.al.|[2403.01310v1](http://arxiv.org/abs/2403.01310v1)|null|
+|**2024-03-02**|**VNLP: Turkish NLP Package**|Meliksah Turker et.al.|[2403.01309v1](http://arxiv.org/abs/2403.01309v1)|null|
+|**2024-03-02**|**Towards a classification of $p^2$-discriminant ideal twins over number fields**|Alyson Deines et.al.|[2403.01287v1](http://arxiv.org/abs/2403.01287v1)|null|
+|**2024-03-02**|**$π$-systems and the Embedding problem for rank $2$ Kac-Moody Lie algebras**|Irfan Habib et.al.|[2403.01285v1](http://arxiv.org/abs/2403.01285v1)|null|
+|**2024-03-02**|**Fast Low-parameter Video Activity Localization in Collaborative Learning Environments**|Venkatesh Jatla et.al.|[2403.01281v1](http://arxiv.org/abs/2403.01281v1)|null|
+|**2024-03-02**|**Rigidity results for group von Neumann algebras with diffuse center**|Ionuţ Chifan et.al.|[2403.01280v1](http://arxiv.org/abs/2403.01280v1)|null|
+|**2024-03-02**|**Can a Confident Prior Replace a Cold Posterior?**|Martin Marek et.al.|[2403.01272v1](http://arxiv.org/abs/2403.01272v1)|**[link](https://github.com/martin-marek/dirclip)**|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479v1](http://arxiv.org/abs/2402.19479v1)|null|
 |**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470v1](http://arxiv.org/abs/2402.19470v1)|null|
 |**2024-02-29**|**Humanoid Locomotion as Next Token Prediction**|Ilija Radosavovic et.al.|[2402.19469v1](http://arxiv.org/abs/2402.19469v1)|null|
@@ -4357,6 +4367,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-03**|**Enhancing Retinal Vascular Structure Segmentation in Images With a Novel Design Two-Path Interactive Fusion Module Model**|Rui Yang et.al.|[2403.01362v1](http://arxiv.org/abs/2403.01362v1)|null|
+|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316v1](http://arxiv.org/abs/2403.01316v1)|null|
+|**2024-03-02**|**Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment**|Luyao Wang et.al.|[2403.01203v1](http://arxiv.org/abs/2403.01203v1)|null|
+|**2024-03-02**|**Multi-Source Interactive Resilient Fusion Algorithm Based on RIEKF**|Ye Xiaoyu et.al.|[2403.01134v1](http://arxiv.org/abs/2403.01134v1)|null|
+|**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091v1](http://arxiv.org/abs/2403.01091v1)|null|
+|**2024-03-02**|**Beyond Night Visibility: Adaptive Multi-Scale Fusion of Infrared and Visible Images**|Shufan Pei et.al.|[2403.01083v1](http://arxiv.org/abs/2403.01083v1)|null|
+|**2024-03-01**|**Hasse Diagrams for Gapless SPT and SSB Phases with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2403.00905v1](http://arxiv.org/abs/2403.00905v1)|null|
+|**2024-03-01**|**Tokamak to Stellarator Conversion using Permanent Magnets**|M. Madeira et.al.|[2403.00901v1](http://arxiv.org/abs/2403.00901v1)|null|
+|**2024-03-01**|**Few-Shot Relation Extraction with Hybrid Visual Evidence**|Jiaying Gong et.al.|[2403.00724v1](http://arxiv.org/abs/2403.00724v1)|null|
+|**2024-03-01**|**Asymmetric Feature Fusion for Image Retrieval**|Hui Wu et.al.|[2403.00671v1](http://arxiv.org/abs/2403.00671v1)|null|
 |**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348v1](http://arxiv.org/abs/2402.19348v1)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
 |**2024-02-29**|**Integrate on a closed stratified surface**|Xiao-Xue Wei et.al.|[2402.19342v1](http://arxiv.org/abs/2402.19342v1)|null|
 |**2024-02-29**|**RoadRunner -- Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341v1](http://arxiv.org/abs/2402.19341v1)|null|
