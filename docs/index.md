@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Extension Theory and Fermionic Strongly Fusion 2-Categories**|Thibault D. Décoppet et.al.|[2403.03211v1](http://arxiv.org/abs/2403.03211v1)|null|
+|**2024-03-05**|**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**|Patrick Esser et.al.|[2403.03206v1](http://arxiv.org/abs/2403.03206v1)|null|
+|**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181v1](http://arxiv.org/abs/2403.03181v1)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
+|**2024-03-05**|**Deep-Learned Compression for Radio-Frequency Signal Classification**|Armani Rodriguez et.al.|[2403.03150v1](http://arxiv.org/abs/2403.03150v1)|null|
+|**2024-03-05**|**Dual Mean-Teacher: An Unbiased Semi-Supervised Framework for Audio-Visual Source Localization**|Yuxin Guo et.al.|[2403.03145v1](http://arxiv.org/abs/2403.03145v1)|**[link](https://github.com/gyx-gloria/dmt)**|
+|**2024-03-05**|**Motion-Corrected Moving Average: Including Post-Hoc Temporal Information for Improved Video Segmentation**|Robert Mendel et.al.|[2403.03120v1](http://arxiv.org/abs/2403.03120v1)|null|
+|**2024-03-05**|**Equilibria in Two-Stage Facility Location with Atomic Clients**|Simon Krogmann et.al.|[2403.03114v1](http://arxiv.org/abs/2403.03114v1)|null|
+|**2024-03-05**|**Galaxies in the Zone of Avoidance: Misclassifications using machine learning tools**|P. Marchant Cortés et.al.|[2403.03098v1](http://arxiv.org/abs/2403.03098v1)|null|
+|**2024-03-05**|**Collective self-caging of active filaments in virtual confinement**|Maximilian Kurjahn et.al.|[2403.03093v1](http://arxiv.org/abs/2403.03093v1)|null|
+|**2024-03-05**|**A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives**|Simone Alberto Peirone et.al.|[2403.03037v1](http://arxiv.org/abs/2403.03037v1)|null|
 |**2024-03-03**|**Enhancing Retinal Vascular Structure Segmentation in Images With a Novel Design Two-Path Interactive Fusion Module Model**|Rui Yang et.al.|[2403.01362v1](http://arxiv.org/abs/2403.01362v1)|null|
 |**2024-03-02**|**Improve Cost Efficiency of Active Learning over Noisy Dataset**|Zan-Kai Chong et.al.|[2403.01346v1](http://arxiv.org/abs/2403.01346v1)|null|
 |**2024-03-02**|**An eternal hypersurface flow arising in centro-affine geometry**|Xinjie Jiang et.al.|[2403.01340v1](http://arxiv.org/abs/2403.01340v1)|null|
@@ -4371,6 +4381,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217v1](http://arxiv.org/abs/2403.03217v1)|null|
+|**2024-03-05**|**Extension Theory and Fermionic Strongly Fusion 2-Categories**|Thibault D. Décoppet et.al.|[2403.03211v1](http://arxiv.org/abs/2403.03211v1)|null|
+|**2024-03-05**|**CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections**|Zhen Yao et.al.|[2403.03063v1](http://arxiv.org/abs/2403.03063v1)|**[link](https://github.com/zy1296/cracknex)**|
+|**2024-03-05**|**MMoFusion: Multi-modal Co-Speech Motion Generation with Diffusion Model**|Sen Wang et.al.|[2403.02905v1](http://arxiv.org/abs/2403.02905v1)|null|
+|**2024-03-05**|**Canonical Hamiltonian Guiding Center Dynamics and Its Intrinsic Magnetic Moment**|Ruili Zhang et.al.|[2403.02883v1](http://arxiv.org/abs/2403.02883v1)|null|
+|**2024-03-05**|**Differential cross-sections for events with missing transverse momentum and jets measured with the ATLAS detector in 13 TeV proton-proton collisions**|ATLAS Collaboration et.al.|[2403.02793v1](http://arxiv.org/abs/2403.02793v1)|null|
+|**2024-03-05**|**DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation**|Lingyan Ran et.al.|[2403.02784v1](http://arxiv.org/abs/2403.02784v1)|null|
+|**2024-03-05**|**Ultrahigh Resolution X-ray Thomson Scattering Measurements of Electronic Structures**|Thomas Gawne et.al.|[2403.02776v1](http://arxiv.org/abs/2403.02776v1)|null|
+|**2024-03-05**|**Implementation of the microscopic nuclear potential in the coupled channels calculations to study the fusion dynamics of Oxygen based reactions**|N. Jain et.al.|[2403.02739v1](http://arxiv.org/abs/2403.02739v1)|null|
+|**2024-03-05**|**Reducing computational effort in topology optimization considering the deformation in additive manufacturing**|Takao Miki et.al.|[2403.02711v1](http://arxiv.org/abs/2403.02711v1)|null|
 |**2024-03-03**|**Enhancing Retinal Vascular Structure Segmentation in Images With a Novel Design Two-Path Interactive Fusion Module Model**|Rui Yang et.al.|[2403.01362v1](http://arxiv.org/abs/2403.01362v1)|null|
 |**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316v1](http://arxiv.org/abs/2403.01316v1)|null|
 |**2024-03-02**|**Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment**|Luyao Wang et.al.|[2403.01203v1](http://arxiv.org/abs/2403.01203v1)|null|
