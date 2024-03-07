@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954v1](http://arxiv.org/abs/2403.03954v1)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
+|**2024-03-06**|**Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**|Jesse Farebrother et.al.|[2403.03950v1](http://arxiv.org/abs/2403.03950v1)|null|
+|**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949v1](http://arxiv.org/abs/2403.03949v1)|null|
+|**2024-03-06**|**DART: Implicit Doppler Tomography for Radar Novel View Synthesis**|Tianshu Huang et.al.|[2403.03896v1](http://arxiv.org/abs/2403.03896v1)|null|
+|**2024-03-06**|**Joint multi-task learning improves weakly-supervised biomarker prediction in computational pathology**|Omar S. M. El Nahhas et.al.|[2403.03891v1](http://arxiv.org/abs/2403.03891v1)|**[link](https://github.com/avic3nna/joint-mtl-cpath)**|
+|**2024-03-06**|**Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**|Xiao Ma et.al.|[2403.03890v1](http://arxiv.org/abs/2403.03890v1)|null|
+|**2024-03-06**|**Decoupled Vertical Federated Learning for Practical Training on Vertically Partitioned Data**|Avi Amalanshu et.al.|[2403.03871v1](http://arxiv.org/abs/2403.03871v1)|null|
+|**2024-03-06**|**X-Shot: A Unified System to Handle Frequent, Few-shot and Zero-shot Learning Simultaneously in Classification**|Hanzi Xu et.al.|[2403.03863v1](http://arxiv.org/abs/2403.03863v1)|**[link](https://github.com/xhz0809/x-shot)**|
+|**2024-03-06**|**ProxNF: Neural Field Proximal Training for High-Resolution 4D Dynamic Image Reconstruction**|Luke Lozenski et.al.|[2403.03860v1](http://arxiv.org/abs/2403.03860v1)|null|
+|**2024-03-06**|**MedMamba: Vision Mamba for Medical Image Classification**|Yubiao Yue et.al.|[2403.03849v1](http://arxiv.org/abs/2403.03849v1)|**[link](https://github.com/YubiaoYue/MedMamba)**|
 |**2024-03-05**|**Extension Theory and Fermionic Strongly Fusion 2-Categories**|Thibault D. Décoppet et.al.|[2403.03211v1](http://arxiv.org/abs/2403.03211v1)|null|
 |**2024-03-05**|**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**|Patrick Esser et.al.|[2403.03206v1](http://arxiv.org/abs/2403.03206v1)|null|
 |**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181v1](http://arxiv.org/abs/2403.03181v1)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
@@ -4377,6 +4387,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Learning to Decode Collaboratively with Multiple Language Models**|Shannon Zejiang Shen et.al.|[2403.03870v1](http://arxiv.org/abs/2403.03870v1)|**[link](https://github.com/clinicalml/co-llm)**|
+|**2024-03-06**|**KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**|Ruoqi Liu et.al.|[2403.03791v1](http://arxiv.org/abs/2403.03791v1)|**[link](https://github.com/ruoqi-liu/kg-treat)**|
+|**2024-03-06**|**MeaCap: Memory-Augmented Zero-shot Image Captioning**|Zequn Zeng et.al.|[2403.03715v1](http://arxiv.org/abs/2403.03715v1)|null|
+|**2024-03-06**|**Split Covariance Intersection with Correlated Components for Distributed Estimation**|Colin Cros et.al.|[2403.03543v1](http://arxiv.org/abs/2403.03543v1)|null|
+|**2024-03-06**|**LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features**|Xuying Xiong et.al.|[2403.03527v1](http://arxiv.org/abs/2403.03527v1)|null|
+|**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v1](http://arxiv.org/abs/2403.03463v1)|null|
+|**2024-03-06**|**DLP-GAN: Learning to Draw Modern Chinese Landscape Photos with Generative Adversarial Network**|Xiangquan Gui et.al.|[2403.03456v1](http://arxiv.org/abs/2403.03456v1)|null|
+|**2024-03-05**|**F$^3$Loc: Fusion and Filtering for Floorplan Localization**|Changan Chen et.al.|[2403.03370v1](http://arxiv.org/abs/2403.03370v1)|null|
+|**2024-03-05**|**Credibility-Aware Multi-Modal Fusion Using Probabilistic Circuits**|Sahil Sidheekh et.al.|[2403.03281v1](http://arxiv.org/abs/2403.03281v1)|null|
+|**2024-03-05**|**Towards an AI-Enhanced Cyber Threat Intelligence Processing Pipeline**|Lampis Alevizos et.al.|[2403.03265v1](http://arxiv.org/abs/2403.03265v1)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217v1](http://arxiv.org/abs/2403.03217v1)|null|
 |**2024-03-05**|**Extension Theory and Fermionic Strongly Fusion 2-Categories**|Thibault D. Décoppet et.al.|[2403.03211v1](http://arxiv.org/abs/2403.03211v1)|null|
 |**2024-03-05**|**CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections**|Zhen Yao et.al.|[2403.03063v1](http://arxiv.org/abs/2403.03063v1)|**[link](https://github.com/zy1296/cracknex)**|
