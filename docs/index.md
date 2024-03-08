@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**DeepSee: Multidimensional Visualizations of Seabed Ecosystems**|Adam Coscia et.al.|[2403.04761v1](http://arxiv.org/abs/2403.04761v1)|null|
+|**2024-03-07**|**iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries**|Adam Coscia et.al.|[2403.04760v1](http://arxiv.org/abs/2403.04760v1)|null|
+|**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758v1](http://arxiv.org/abs/2403.04758v1)|null|
+|**2024-03-07**|**Preliminary Guidelines For Combining Data Integration and Visual Data Analysis**|Adam Coscia et.al.|[2403.04757v1](http://arxiv.org/abs/2403.04757v1)|null|
+|**2024-03-07**|**Photonic probabilistic machine learning using quantum vacuum noise**|Seou Choi et.al.|[2403.04731v1](http://arxiv.org/abs/2403.04731v1)|null|
+|**2024-03-07**|**Analysis of Systems' Performance in Natural Language Processing Competitions**|Sergio Nava-Muñoz et.al.|[2403.04693v1](http://arxiv.org/abs/2403.04693v1)|null|
+|**2024-03-07**|**CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**|Qilang Ye et.al.|[2403.04640v1](http://arxiv.org/abs/2403.04640v1)|**[link](https://github.com/rikeilong/bay-cat)**|
+|**2024-03-07**|**Scalable, Simulation-Guided Compliant Tactile Finger Design**|Yuxiang Ma et.al.|[2403.04638v1](http://arxiv.org/abs/2403.04638v1)|null|
+|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634v1](http://arxiv.org/abs/2403.04634v1)|null|
+|**2024-03-07**|**MedFLIP: Medical Vision-and-Language Self-supervised Fast Pre-Training with Masked Autoencoder**|Lei Li et.al.|[2403.04626v1](http://arxiv.org/abs/2403.04626v1)|null|
 |**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954v1](http://arxiv.org/abs/2403.03954v1)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
 |**2024-03-06**|**Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**|Jesse Farebrother et.al.|[2403.03950v1](http://arxiv.org/abs/2403.03950v1)|null|
 |**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949v1](http://arxiv.org/abs/2403.03949v1)|null|
@@ -4391,6 +4401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Dynamic Cross Attention for Audio-Visual Person Verification**|R. Gnana Praveen et.al.|[2403.04661v1](http://arxiv.org/abs/2403.04661v1)|null|
+|**2024-03-07**|**Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**|R. Gnana Praveen et.al.|[2403.04654v1](http://arxiv.org/abs/2403.04654v1)|null|
+|**2024-03-07**|**Context-Based Multimodal Fusion**|Bilal Faye et.al.|[2403.04650v1](http://arxiv.org/abs/2403.04650v1)|null|
+|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443v1](http://arxiv.org/abs/2403.04443v1)|null|
+|**2024-03-07**|**Medium Assisted Low Energy Nuclear Fusion**|Pankaj Jain et.al.|[2403.04428v1](http://arxiv.org/abs/2403.04428v1)|null|
+|**2024-03-07**|**Portable GPU implementation of the WP-CCC ion-atom collisions code**|I. B. Abdurakhmanov et.al.|[2403.04252v1](http://arxiv.org/abs/2403.04252v1)|null|
+|**2024-03-07**|**Single-Image HDR Reconstruction Assisted Ghost Suppression and Detail Preservation Network for Multi-Exposure HDR Imaging**|Huafeng Li et.al.|[2403.04228v1](http://arxiv.org/abs/2403.04228v1)|**[link](https://github.com/lhf12278/samhdr)**|
+|**2024-03-07**|**ACC-ViT : Atrous Convolution's Comeback in Vision Transformers**|Nabil Ibtehaz et.al.|[2403.04200v1](http://arxiv.org/abs/2403.04200v1)|null|
+|**2024-03-07**|**SDPL: Shifting-Dense Partition Learning for UAV-View Geo-Localization**|Quan Chen et.al.|[2403.04172v1](http://arxiv.org/abs/2403.04172v1)|null|
+|**2024-03-06**|**Multi-Object Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Riccardo Pieroni et.al.|[2403.04112v1](http://arxiv.org/abs/2403.04112v1)|null|
 |**2024-03-06**|**Learning to Decode Collaboratively with Multiple Language Models**|Shannon Zejiang Shen et.al.|[2403.03870v1](http://arxiv.org/abs/2403.03870v1)|**[link](https://github.com/clinicalml/co-llm)**|
 |**2024-03-06**|**KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**|Ruoqi Liu et.al.|[2403.03791v1](http://arxiv.org/abs/2403.03791v1)|**[link](https://github.com/ruoqi-liu/kg-treat)**|
 |**2024-03-06**|**MeaCap: Memory-Augmented Zero-shot Image Captioning**|Zequn Zeng et.al.|[2403.03715v1](http://arxiv.org/abs/2403.03715v1)|null|
