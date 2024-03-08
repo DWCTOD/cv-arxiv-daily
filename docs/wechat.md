@@ -4389,7 +4389,7 @@
 - 2024-03-06, **Split Covariance Intersection with Correlated Components for Distributed Estimation**, Colin Cros et.al., Paper: [http://arxiv.org/abs/2403.03543v1](http://arxiv.org/abs/2403.03543v1)
 - 2024-03-06, **LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features**, Xuying Xiong et.al., Paper: [http://arxiv.org/abs/2403.03527v1](http://arxiv.org/abs/2403.03527v1)
 - 2024-03-06, **FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2403.03463v1](http://arxiv.org/abs/2403.03463v1)
-- 2024-03-06, **DLP-GAN: Learning to Draw Modern Chinese Landscape Photos with Generative Adversarial Network**, Xiangquan Gui et.al., Paper: [http://arxiv.org/abs/2403.03456v1](http://arxiv.org/abs/2403.03456v1)
+- 2024-03-07, **DLP-GAN: learning to draw modern Chinese landscape photos with generative adversarial network**, Xiangquan Gui et.al., Paper: [http://arxiv.org/abs/2403.03456v2](http://arxiv.org/abs/2403.03456v2)
 - 2024-03-05, **F$^3$Loc: Fusion and Filtering for Floorplan Localization**, Changan Chen et.al., Paper: [http://arxiv.org/abs/2403.03370v1](http://arxiv.org/abs/2403.03370v1)
 - 2024-03-05, **Credibility-Aware Multi-Modal Fusion Using Probabilistic Circuits**, Sahil Sidheekh et.al., Paper: [http://arxiv.org/abs/2403.03281v1](http://arxiv.org/abs/2403.03281v1)
 - 2024-03-05, **Towards an AI-Enhanced Cyber Threat Intelligence Processing Pipeline**, Lampis Alevizos et.al., Paper: [http://arxiv.org/abs/2403.03265v1](http://arxiv.org/abs/2403.03265v1)
