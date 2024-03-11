@@ -1,4 +1,4 @@
-> Updated on 2024.03.10
+> Updated on 2024.03.11
 
 ## Video_Classification
 
@@ -4395,7 +4395,7 @@
 
 - 2024-03-07, **Dynamic Cross Attention for Audio-Visual Person Verification**, R. Gnana Praveen et.al., Paper: [http://arxiv.org/abs/2403.04661v1](http://arxiv.org/abs/2403.04661v1)
 - 2024-03-07, **Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention**, R. Gnana Praveen et.al., Paper: [http://arxiv.org/abs/2403.04654v1](http://arxiv.org/abs/2403.04654v1)
-- 2024-03-07, **Context-Based Multimodal Fusion**, Bilal Faye et.al., Paper: [http://arxiv.org/abs/2403.04650v1](http://arxiv.org/abs/2403.04650v1)
+- 2024-03-08, **Context-Based Multimodal Fusion**, Bilal Faye et.al., Paper: [http://arxiv.org/abs/2403.04650v2](http://arxiv.org/abs/2403.04650v2)
 - 2024-03-07, **FriendNet: Detection-Friendly Dehazing Network**, Yihua Fan et.al., Paper: [http://arxiv.org/abs/2403.04443v1](http://arxiv.org/abs/2403.04443v1)
 - 2024-03-07, **Medium Assisted Low Energy Nuclear Fusion**, Pankaj Jain et.al., Paper: [http://arxiv.org/abs/2403.04428v1](http://arxiv.org/abs/2403.04428v1)
 - 2024-03-07, **Portable GPU implementation of the WP-CCC ion-atom collisions code**, I. B. Abdurakhmanov et.al., Paper: [http://arxiv.org/abs/2403.04252v1](http://arxiv.org/abs/2403.04252v1)
