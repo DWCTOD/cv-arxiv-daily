@@ -10,7 +10,7 @@
 - 2024-03-07, **Analysis of Systems' Performance in Natural Language Processing Competitions**, Sergio Nava-Muñoz et.al., Paper: [http://arxiv.org/abs/2403.04693v1](http://arxiv.org/abs/2403.04693v1)
 - 2024-03-07, **CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**, Qilang Ye et.al., Paper: [http://arxiv.org/abs/2403.04640v1](http://arxiv.org/abs/2403.04640v1), Code: **[https://github.com/rikeilong/bay-cat](https://github.com/rikeilong/bay-cat)**
 - 2024-03-07, **Scalable, Simulation-Guided Compliant Tactile Finger Design**, Yuxiang Ma et.al., Paper: [http://arxiv.org/abs/2403.04638v1](http://arxiv.org/abs/2403.04638v1)
-- 2024-03-07, **Pix2Gif: Motion-Guided Diffusion for GIF Generation**, Hitesh Kandala et.al., Paper: [http://arxiv.org/abs/2403.04634v1](http://arxiv.org/abs/2403.04634v1)
+- 2024-03-08, **Pix2Gif: Motion-Guided Diffusion for GIF Generation**, Hitesh Kandala et.al., Paper: [http://arxiv.org/abs/2403.04634v2](http://arxiv.org/abs/2403.04634v2)
 - 2024-03-07, **MedFLIP: Medical Vision-and-Language Self-supervised Fast Pre-Training with Masked Autoencoder**, Lei Li et.al., Paper: [http://arxiv.org/abs/2403.04626v1](http://arxiv.org/abs/2403.04626v1)
 - 2024-03-06, **3D Diffusion Policy**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2403.03954v1](http://arxiv.org/abs/2403.03954v1), Code: **[https://github.com/YanjieZe/3D-Diffusion-Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)**
 - 2024-03-06, **Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**, Jesse Farebrother et.al., Paper: [http://arxiv.org/abs/2403.03950v1](http://arxiv.org/abs/2403.03950v1)
