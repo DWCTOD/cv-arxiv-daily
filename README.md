@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978v1](http://arxiv.org/abs/2403.06978v1)|**[link](https://github.com/wgcban/apt)**|
+|**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977v1](http://arxiv.org/abs/2403.06977v1)|**[link](https://github.com/opengvlab/videomamba)**|
+|**2024-03-11**|**Memory-based Adapters for Online 3D Scene Perception**|Xiuwei Xu et.al.|[2403.06974v1](http://arxiv.org/abs/2403.06974v1)|null|
+|**2024-03-11**|**Explainable Transformer Prototypes for Medical Diagnoses**|Ugur Demir et.al.|[2403.06961v1](http://arxiv.org/abs/2403.06961v1)|**[link](https://github.com/nubagcilab/r2r_proto)**|
+|**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954v1](http://arxiv.org/abs/2403.06954v1)|null|
+|**2024-03-11**|**Optimizing Latent Graph Representations of Surgical Scenes for Zero-Shot Domain Transfer**|Siddhant Satyanaik et.al.|[2403.06953v1](http://arxiv.org/abs/2403.06953v1)|null|
+|**2024-03-11**|**Advancing Generalizable Remote Physiological Measurement through the Integration of Explicit and Implicit Prior Knowledge**|Yuting Zhang et.al.|[2403.06947v1](http://arxiv.org/abs/2403.06947v1)|**[link](https://github.com/keke-nice/greip)**|
+|**2024-03-11**|**Conditional Score-Based Diffusion Model for Cortical Thickness Trajectory Prediction**|Qing Xiao et.al.|[2403.06940v1](http://arxiv.org/abs/2403.06940v1)|null|
+|**2024-03-11**|**FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks**|Muhammad Saif Ullah Khan et.al.|[2403.06904v1](http://arxiv.org/abs/2403.06904v1)|null|
+|**2024-03-11**|**Benign overfitting in leaky ReLU networks with moderate input dimension**|Kedar Karhadkar et.al.|[2403.06903v1](http://arxiv.org/abs/2403.06903v1)|null|
 |**2024-03-08**|**Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in Images and Videos**|Tarun Kalluri et.al.|[2403.05535v1](http://arxiv.org/abs/2403.05535v1)|null|
 |**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532v1](http://arxiv.org/abs/2403.05532v1)|null|
 |**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530v1](http://arxiv.org/abs/2403.05530v1)|null|
@@ -4407,6 +4417,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973v1](http://arxiv.org/abs/2403.06973v1)|null|
+|**2024-03-11**|**Multiobject Tracking for Thresholded Cell Measurements**|Thomas Kropfreiter et.al.|[2403.06899v1](http://arxiv.org/abs/2403.06899v1)|null|
+|**2024-03-11**|**Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head**|Tiancheng Zhao et.al.|[2403.06892v1](http://arxiv.org/abs/2403.06892v1)|null|
+|**2024-03-11**|**DiaLoc: An Iterative Approach to Embodied Dialog Localization**|Chao Zhang et.al.|[2403.06846v1](http://arxiv.org/abs/2403.06846v1)|null|
+|**2024-03-11**|**HDRTransDC: High Dynamic Range Image Reconstruction with Transformer Deformation Convolution**|Shuaikang Shang et.al.|[2403.06831v1](http://arxiv.org/abs/2403.06831v1)|null|
+|**2024-03-11**|**CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging**|Ibrahim Ethem Hamamci et.al.|[2403.06801v1](http://arxiv.org/abs/2403.06801v1)|null|
+|**2024-03-11**|**Multimodal Transformers for Real-Time Surgical Activity Prediction**|Keshara Weerasinghe et.al.|[2403.06705v1](http://arxiv.org/abs/2403.06705v1)|null|
+|**2024-03-11**|**Answering Diverse Questions via Text Attached with Key Audio-Visual Clues**|Qilang Ye et.al.|[2403.06679v1](http://arxiv.org/abs/2403.06679v1)|null|
+|**2024-03-11**|**CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learnin**|Xinyuan Gao et.al.|[2403.06670v1](http://arxiv.org/abs/2403.06670v1)|null|
+|**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577v1](http://arxiv.org/abs/2403.06577v1)|null|
 |**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332v1](http://arxiv.org/abs/2403.05332v1)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329v1](http://arxiv.org/abs/2403.05329v1)|null|
 |**2024-03-08**|**Search for soft unclustered energy patterns in proton-proton collisions at 13 TeV**|CMS Collaboration et.al.|[2403.05311v1](http://arxiv.org/abs/2403.05311v1)|null|
