@@ -1,4 +1,4 @@
-> Updated on 2024.03.12
+> Updated on 2024.03.13
 
 ## Video_Classification
 
@@ -4421,7 +4421,7 @@
 - 2024-03-11, **CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging**, Ibrahim Ethem Hamamci et.al., Paper: [http://arxiv.org/abs/2403.06801v1](http://arxiv.org/abs/2403.06801v1)
 - 2024-03-11, **Multimodal Transformers for Real-Time Surgical Activity Prediction**, Keshara Weerasinghe et.al., Paper: [http://arxiv.org/abs/2403.06705v1](http://arxiv.org/abs/2403.06705v1)
 - 2024-03-11, **Answering Diverse Questions via Text Attached with Key Audio-Visual Clues**, Qilang Ye et.al., Paper: [http://arxiv.org/abs/2403.06679v1](http://arxiv.org/abs/2403.06679v1)
-- 2024-03-11, **CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learnin**, Xinyuan Gao et.al., Paper: [http://arxiv.org/abs/2403.06670v1](http://arxiv.org/abs/2403.06670v1)
+- 2024-03-12, **CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning**, Xinyuan Gao et.al., Paper: [http://arxiv.org/abs/2403.06670v2](http://arxiv.org/abs/2403.06670v2)
 - 2024-03-11, **Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**, Erkut Akdag et.al., Paper: [http://arxiv.org/abs/2403.06577v1](http://arxiv.org/abs/2403.06577v1)
 - 2024-03-08, **Degradation Resilient LiDAR-Radar-Inertial Odometry**, Morten Nissov et.al., Paper: [http://arxiv.org/abs/2403.05332v1](http://arxiv.org/abs/2403.05332v1)
 - 2024-03-08, **OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**, Ji Zhang et.al., Paper: [http://arxiv.org/abs/2403.05329v1](http://arxiv.org/abs/2403.05329v1)
