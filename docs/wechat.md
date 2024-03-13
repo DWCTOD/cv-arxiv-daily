@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-03-12, **OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation**, Aadhithya Iyer et.al., Paper: [http://arxiv.org/abs/2403.07870v1](http://arxiv.org/abs/2403.07870v1)
+- 2024-03-12, **TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**, Shivin Dass et.al., Paper: [http://arxiv.org/abs/2403.07869v1](http://arxiv.org/abs/2403.07869v1)
+- 2024-03-12, **Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**, Harish G. Naik et.al., Paper: [http://arxiv.org/abs/2403.07849v1](http://arxiv.org/abs/2403.07849v1)
+- 2024-03-12, **When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis**, Sahar Moradizeyveh et.al., Paper: [http://arxiv.org/abs/2403.07834v1](http://arxiv.org/abs/2403.07834v1)
+- 2024-03-12, **DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**, William Xie et.al., Paper: [http://arxiv.org/abs/2403.07832v1](http://arxiv.org/abs/2403.07832v1)
+- 2024-03-12, **A geometric model for the module category of a string algebra**, Karin Baur et.al., Paper: [http://arxiv.org/abs/2403.07810v1](http://arxiv.org/abs/2403.07810v1)
+- 2024-03-12, **BraSyn 2023 challenge: Missing MRI synthesis and the effect of different learning objectives**, Ivo M. Baltruschat et.al., Paper: [http://arxiv.org/abs/2403.07800v1](http://arxiv.org/abs/2403.07800v1)
+- 2024-03-12, **A robust SVM-based approach with feature selection and outliers detection for classification problems**, Marta Baldomero-Naranjo et.al., Paper: [http://arxiv.org/abs/2403.07753v1](http://arxiv.org/abs/2403.07753v1)
+- 2024-03-12, **Vision-based Vehicle Re-identification in Bridge Scenario using Flock Similarity**, Chunfeng Zhang et.al., Paper: [http://arxiv.org/abs/2403.07752v1](http://arxiv.org/abs/2403.07752v1)
+- 2024-03-12, **Harnessing two-photon dissipation for enhanced quantum measurement and control**, Antoine Marquet et.al., Paper: [http://arxiv.org/abs/2403.07744v1](http://arxiv.org/abs/2403.07744v1)
 - 2024-03-11, **Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**, Wele Gedara Chaminda Bandara et.al., Paper: [http://arxiv.org/abs/2403.06978v1](http://arxiv.org/abs/2403.06978v1), Code: **[https://github.com/wgcban/apt](https://github.com/wgcban/apt)**
 - 2024-03-12, **VideoMamba: State Space Model for Efficient Video Understanding**, Kunchang Li et.al., Paper: [http://arxiv.org/abs/2403.06977v2](http://arxiv.org/abs/2403.06977v2), Code: **[https://github.com/opengvlab/videomamba](https://github.com/opengvlab/videomamba)**
 - 2024-03-11, **Memory-based Adapters for Online 3D Scene Perception**, Xiuwei Xu et.al., Paper: [http://arxiv.org/abs/2403.06974v1](http://arxiv.org/abs/2403.06974v1)
@@ -4413,6 +4423,16 @@
 
 ## MultiModal
 
+- 2024-03-12, **A Machine learning and Empirical Bayesian Approach for Predictive Buying in B2B E-commerce**, Tuhin Subhra De et.al., Paper: [http://arxiv.org/abs/2403.07843v1](http://arxiv.org/abs/2403.07843v1)
+- 2024-03-12, **Higher Witt Groups for 2-Categories I: Centralizers**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2403.07768v1](http://arxiv.org/abs/2403.07768v1)
+- 2024-03-12, **Distributed Estimation by Two Agents with Different Feature Spaces**, Aneesh Raghavan et.al., Paper: [http://arxiv.org/abs/2403.07749v1](http://arxiv.org/abs/2403.07749v1)
+- 2024-03-12, **Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**, Philipp Wolters et.al., Paper: [http://arxiv.org/abs/2403.07746v1](http://arxiv.org/abs/2403.07746v1)
+- 2024-03-12, **Equipping Computational Pathology Systems with Artifact Processing Pipelines: A Showcase for Computation and Performance Trade-offs**, Neel Kanwal et.al., Paper: [http://arxiv.org/abs/2403.07743v1](http://arxiv.org/abs/2403.07743v1), Code: **[https://github.com/neelkanwal/equipping-computational-pathology-systems-with-artifact-processing-pipeline](https://github.com/neelkanwal/equipping-computational-pathology-systems-with-artifact-processing-pipeline)**
+- 2024-03-12, **Radiative corrections and threshold resummed predictions to pseudoscalar Higgs boson production in QCD**, Arunima Bhattacharya et.al., Paper: [http://arxiv.org/abs/2403.07615v1](http://arxiv.org/abs/2403.07615v1)
+- 2024-03-12, **Accurate Spatial Gene Expression Prediction by integrating Multi-resolution features**, Youngmin Chung et.al., Paper: [http://arxiv.org/abs/2403.07592v1](http://arxiv.org/abs/2403.07592v1), Code: **[https://github.com/nexgem/triplex](https://github.com/nexgem/triplex)**
+- 2024-03-12, **FPT: Fine-grained Prompt Tuning for Parameter and Memory Efficient Fine Tuning in High-resolution Medical Image Classification**, Yijin Huang et.al., Paper: [http://arxiv.org/abs/2403.07576v1](http://arxiv.org/abs/2403.07576v1)
+- 2024-03-12, **Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**, JunDa Cheng et.al., Paper: [http://arxiv.org/abs/2403.07535v1](http://arxiv.org/abs/2403.07535v1)
+- 2024-03-12, **Evaluation and thermodynamic optimization of phase diagram of lithium niobate tantalate solid solutions**, Umar Bashir et.al., Paper: [http://arxiv.org/abs/2403.07527v1](http://arxiv.org/abs/2403.07527v1)
 - 2024-03-11, **Bayesian Diffusion Models for 3D Shape Reconstruction**, Haiyang Xu et.al., Paper: [http://arxiv.org/abs/2403.06973v1](http://arxiv.org/abs/2403.06973v1)
 - 2024-03-11, **Multiobject Tracking for Thresholded Cell Measurements**, Thomas Kropfreiter et.al., Paper: [http://arxiv.org/abs/2403.06899v1](http://arxiv.org/abs/2403.06899v1)
 - 2024-03-11, **Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head**, Tiancheng Zhao et.al., Paper: [http://arxiv.org/abs/2403.06892v1](http://arxiv.org/abs/2403.06892v1)
