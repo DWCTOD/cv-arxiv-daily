@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764v1](http://arxiv.org/abs/2403.08764v1)|null|
+|**2024-03-13**|**Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**|Yun Xin Teoh et.al.|[2403.08761v1](http://arxiv.org/abs/2403.08761v1)|null|
+|**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760v1](http://arxiv.org/abs/2403.08760v1)|**[link](https://github.com/hustvl/mim4d)**|
+|**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758v1](http://arxiv.org/abs/2403.08758v1)|null|
+|**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755v1](http://arxiv.org/abs/2403.08755v1)|**[link](https://github.com/klauscc/dam)**|
+|**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749v1](http://arxiv.org/abs/2403.08749v1)|null|
+|**2024-03-13**|**Torsion pairs, t-structures, and co-t-structures for completions of discrete cluster categories**|Sofia Franchini et.al.|[2403.08735v1](http://arxiv.org/abs/2403.08735v1)|null|
+|**2024-03-13**|**Euclid: Testing photometric selection of emission-line galaxy targets**|M. S. Cagliari et.al.|[2403.08726v1](http://arxiv.org/abs/2403.08726v1)|null|
+|**2024-03-13**|**Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**|Paraskevas Pegios et.al.|[2403.08700v1](http://arxiv.org/abs/2403.08700v1)|null|
+|**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699v1](http://arxiv.org/abs/2403.08699v1)|null|
 |**2024-03-12**|**OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation**|Aadhithya Iyer et.al.|[2403.07870v1](http://arxiv.org/abs/2403.07870v1)|null|
 |**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869v1](http://arxiv.org/abs/2403.07869v1)|null|
 |**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849v1](http://arxiv.org/abs/2403.07849v1)|null|
@@ -4431,6 +4441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surface**|Linyi Jin et.al.|[2403.08768v1](http://arxiv.org/abs/2403.08768v1)|null|
+|**2024-03-13**|**A Distributed Adaptive Algorithm for Non-Smooth Spatial Filtering Problems in Wireless Sensor Networks**|Charles Hovine et.al.|[2403.08658v1](http://arxiv.org/abs/2403.08658v1)|null|
+|**2024-03-13**|**Ab initio Density Response and Local Field Factor of Warm Dense Hydrogen**|Tobias Dornheim et.al.|[2403.08570v1](http://arxiv.org/abs/2403.08570v1)|null|
+|**2024-03-13**|**Deep Learning based Positioning with Multi-task Learning and Uncertainty-based Fusion**|Anastasios Foliadis et.al.|[2403.08565v1](http://arxiv.org/abs/2403.08565v1)|null|
+|**2024-03-13**|**A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**|Ao Xiang et.al.|[2403.08511v1](http://arxiv.org/abs/2403.08511v1)|null|
+|**2024-03-13**|**Effect of the charge asymmetry and orbital angular momentum in the entrance channel on the hindrance to complete fusion**|Elzod Khusanov et.al.|[2403.08489v1](http://arxiv.org/abs/2403.08489v1)|null|
+|**2024-03-13**|**A Novel Feature Learning-based Bio-inspired Neural Network for Real-time Collision-free Rescue of Multi-Robot Systems**|Junfei Li et.al.|[2403.08238v1](http://arxiv.org/abs/2403.08238v1)|null|
+|**2024-03-13**|**A Parallel Beam Splitting Based on Gradient Metasurface: Preparation and Fusion of Quantum Entanglement**|Qi Liu et.al.|[2403.08233v1](http://arxiv.org/abs/2403.08233v1)|null|
+|**2024-03-13**|**Probing the heavy Higgs boson production and decay $H_0$ of the Bestest Little Higgs Model at the LHC and the FCC-hh**|E. Cruz-Albaro et.al.|[2403.08225v1](http://arxiv.org/abs/2403.08225v1)|null|
+|**2024-03-13**|**LIX: Implicitly Infusing Spatial Geometric Prior Knowledge into Visual Semantic Segmentation for Autonomous Driving**|Sicen Guo et.al.|[2403.08215v1](http://arxiv.org/abs/2403.08215v1)|null|
 |**2024-03-12**|**A Machine learning and Empirical Bayesian Approach for Predictive Buying in B2B E-commerce**|Tuhin Subhra De et.al.|[2403.07843v1](http://arxiv.org/abs/2403.07843v1)|null|
 |**2024-03-12**|**Higher Witt Groups for 2-Categories I: Centralizers**|Hao Xu et.al.|[2403.07768v1](http://arxiv.org/abs/2403.07768v1)|null|
 |**2024-03-12**|**Distributed Estimation by Two Agents with Different Feature Spaces**|Aneesh Raghavan et.al.|[2403.07749v1](http://arxiv.org/abs/2403.07749v1)|null|
