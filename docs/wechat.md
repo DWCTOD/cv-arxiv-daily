@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-03-14, **Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**, Akhil Kedia et.al., Paper: [http://arxiv.org/abs/2403.09635v1](http://arxiv.org/abs/2403.09635v1), Code: **[https://github.com/akhilkedia/tranformersgetstable](https://github.com/akhilkedia/tranformersgetstable)**
+- 2024-03-14, **Generalized Predictive Model for Autonomous Driving**, Jiazhi Yang et.al., Paper: [http://arxiv.org/abs/2403.09630v1](http://arxiv.org/abs/2403.09630v1)
+- 2024-03-14, **From the Conformal Anomaly to the Virasoro Algebra**, Sid Maibach et.al., Paper: [http://arxiv.org/abs/2403.09628v1](http://arxiv.org/abs/2403.09628v1)
+- 2024-03-14, **Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**, Guo Chen et.al., Paper: [http://arxiv.org/abs/2403.09626v1](http://arxiv.org/abs/2403.09626v1), Code: **[https://github.com/opengvlab/video-mamba-suite](https://github.com/opengvlab/video-mamba-suite)**
+- 2024-03-14, **Score-Guided Diffusion for 3D Human Recovery**, Anastasis Stathopoulos et.al., Paper: [http://arxiv.org/abs/2403.09623v1](http://arxiv.org/abs/2403.09623v1), Code: **[https://github.com/statho/scorehmr](https://github.com/statho/scorehmr)**
+- 2024-03-14, **PosSAM: Panoptic Open-vocabulary Segment Anything**, Vibashan VS et.al., Paper: [http://arxiv.org/abs/2403.09620v1](http://arxiv.org/abs/2403.09620v1)
+- 2024-03-14, **Explore In-Context Segmentation via Latent Diffusion Models**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2403.09616v1](http://arxiv.org/abs/2403.09616v1)
+- 2024-03-14, **Compute-first optical detection for noise-resilient visual perception**, Jungmin Kim et.al., Paper: [http://arxiv.org/abs/2403.09612v1](http://arxiv.org/abs/2403.09612v1)
+- 2024-03-14, **Mixture of Mixups for Multi-label Classification of Rare Anuran Sounds**, Ilyass Moummad et.al., Paper: [http://arxiv.org/abs/2403.09598v1](http://arxiv.org/abs/2403.09598v1)
+- 2024-03-14, **DungeonMaker: Embedding Tangible Creation and Destruction in Hybrid Board Games through Personal Fabrication Technology**, Evgeny Stemasov et.al., Paper: [http://arxiv.org/abs/2403.09592v1](http://arxiv.org/abs/2403.09592v1)
 - 2024-03-13, **VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**, Enric Corona et.al., Paper: [http://arxiv.org/abs/2403.08764v1](http://arxiv.org/abs/2403.08764v1)
 - 2024-03-13, **Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**, Yun Xin Teoh et.al., Paper: [http://arxiv.org/abs/2403.08761v1](http://arxiv.org/abs/2403.08761v1)
 - 2024-03-13, **MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**, Jialv Zou et.al., Paper: [http://arxiv.org/abs/2403.08760v1](http://arxiv.org/abs/2403.08760v1), Code: **[https://github.com/hustvl/mim4d](https://github.com/hustvl/mim4d)**
@@ -4433,6 +4443,16 @@
 
 ## MultiModal
 
+- 2024-03-14, **Flat-top plasma operational space of the STEP power plant**, E. Tholerus et.al., Paper: [http://arxiv.org/abs/2403.09460v1](http://arxiv.org/abs/2403.09460v1)
+- 2024-03-14, **M&M: Multimodal-Multitask Model Integrating Audiovisual Cues in Cognitive Load Assessment**, Long Nguyen-Phuoc et.al., Paper: [http://arxiv.org/abs/2403.09451v1](http://arxiv.org/abs/2403.09451v1)
+- 2024-03-14, **DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**, Qianqian Wu et.al., Paper: [http://arxiv.org/abs/2403.09367v1](http://arxiv.org/abs/2403.09367v1)
+- 2024-03-14, **EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**, Jiaqing Zhang et.al., Paper: [http://arxiv.org/abs/2403.09323v1](http://arxiv.org/abs/2403.09323v1)
+- 2024-03-14, **MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion**, Arul Selvam Periyasamy et.al., Paper: [http://arxiv.org/abs/2403.09309v1](http://arxiv.org/abs/2403.09309v1)
+- 2024-03-14, **SELECTOR: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival**, Liangrui Pan et.al., Paper: [http://arxiv.org/abs/2403.09290v1](http://arxiv.org/abs/2403.09290v1), Code: **[https://github.com/panliangrui/selector](https://github.com/panliangrui/selector)**
+- 2024-03-14, **WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images**, Hong Liu et.al., Paper: [http://arxiv.org/abs/2403.09257v1](http://arxiv.org/abs/2403.09257v1)
+- 2024-03-14, **D-YOLO a robust framework for object detection in adverse weather conditions**, Zihan Chu et.al., Paper: [http://arxiv.org/abs/2403.09233v1](http://arxiv.org/abs/2403.09233v1)
+- 2024-03-14, **A Robust Semantic Communication System for Image**, Xiang Peng et.al., Paper: [http://arxiv.org/abs/2403.09222v1](http://arxiv.org/abs/2403.09222v1)
+- 2024-03-14, **PoIFusion: Multi-Modal 3D Object Detection via Fusion at Points of Interest**, Jiajun Deng et.al., Paper: [http://arxiv.org/abs/2403.09212v1](http://arxiv.org/abs/2403.09212v1)
 - 2024-03-13, **3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surface**, Linyi Jin et.al., Paper: [http://arxiv.org/abs/2403.08768v1](http://arxiv.org/abs/2403.08768v1)
 - 2024-03-13, **A Distributed Adaptive Algorithm for Non-Smooth Spatial Filtering Problems in Wireless Sensor Networks**, Charles Hovine et.al., Paper: [http://arxiv.org/abs/2403.08658v1](http://arxiv.org/abs/2403.08658v1)
 - 2024-03-13, **Ab initio Density Response and Local Field Factor of Warm Dense Hydrogen**, Tobias Dornheim et.al., Paper: [http://arxiv.org/abs/2403.08570v1](http://arxiv.org/abs/2403.08570v1)
