@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Strong and Controllable Blind Image Decomposition**|Zeyu Zhang et.al.|[2403.10520v1](http://arxiv.org/abs/2403.10520v1)|**[link](https://github.com/zhangzeyu97/cbd)**|
+|**2024-03-15**|**Frozen Feature Augmentation for Few-Shot Image Classification**|Andreas Bär et.al.|[2403.10519v1](http://arxiv.org/abs/2403.10519v1)|null|
+|**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517v1](http://arxiv.org/abs/2403.10517v1)|null|
+|**2024-03-15**|**Surveyor: Facilitating Discovery Within Video Games for Blind and Low Vision Players**|Vishnu Nair et.al.|[2403.10512v1](http://arxiv.org/abs/2403.10512v1)|null|
+|**2024-03-15**|**Benchmarking Zero-Shot Robustness of Multimodal Foundation Models: A Pilot Study**|Chenguang Wang et.al.|[2403.10499v1](http://arxiv.org/abs/2403.10499v1)|**[link](https://github.com/wang-research-lab/roz)**|
+|**2024-03-15**|**Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild**|Paul Waligora et.al.|[2403.10488v1](http://arxiv.org/abs/2403.10488v1)|null|
+|**2024-03-15**|**Tensor Star Decomposition**|Wuyang Zhou et.al.|[2403.10481v1](http://arxiv.org/abs/2403.10481v1)|null|
+|**2024-03-15**|**Using an LLM to Turn Sign Spottings into Spoken Language Sentences**|Ozge Mercanoglu Sincan et.al.|[2403.10434v1](http://arxiv.org/abs/2403.10434v1)|null|
+|**2024-03-15**|**Neural Networks Hear You Loud And Clear: Hearing Loss Compensation Using Deep Neural Networks**|Peter Leer et.al.|[2403.10420v1](http://arxiv.org/abs/2403.10420v1)|null|
+|**2024-03-15**|**A comparative study on machine learning approaches for rock mass classification using drilling data**|Tom F. Hansen et.al.|[2403.10404v1](http://arxiv.org/abs/2403.10404v1)|null|
 |**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635v1](http://arxiv.org/abs/2403.09635v1)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
 |**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630v1](http://arxiv.org/abs/2403.09630v1)|**[link](https://github.com/opendrivelab/driveagi)**|
 |**2024-03-14**|**From the Conformal Anomaly to the Virasoro Algebra**|Sid Maibach et.al.|[2403.09628v1](http://arxiv.org/abs/2403.09628v1)|null|
@@ -4447,6 +4457,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Emotion-Aware Multimodal Fusion for Meme Emotion Detection**|Shivam Sharma et.al.|[2403.10279v1](http://arxiv.org/abs/2403.10279v1)|null|
+|**2024-03-15**|**Iterative Confinement of Ions via the Quantum Zeno Effect: Probing Paradoxical Energy Consequences**|Varqa Abyaneh et.al.|[2403.10246v1](http://arxiv.org/abs/2403.10246v1)|null|
+|**2024-03-15**|**Tokamak H-mode edge-SOL global turbulence simulations with an electromagnetic, transcollisional drift-fluid model**|W. Zholobenko et.al.|[2403.10113v1](http://arxiv.org/abs/2403.10113v1)|null|
+|**2024-03-15**|**CSDNet: Detect Salient Object in Depth-Thermal via A Lightweight Cross Shallow and Deep Perception Network**|Xiaotong Yu et.al.|[2403.10104v1](http://arxiv.org/abs/2403.10104v1)|null|
+|**2024-03-15**|**What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception**|Wanfang Su et.al.|[2403.10068v1](http://arxiv.org/abs/2403.10068v1)|**[link](https://github.com/77swf/cmimc)**|
+|**2024-03-15**|**Hybrid Convolutional and Attention Network for Hyperspectral Image Denoising**|Shuai Hu et.al.|[2403.10067v1](http://arxiv.org/abs/2403.10067v1)|**[link](https://github.com/summitgao/hcanet)**|
+|**2024-03-15**|**Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment**|Ziyu Shan et.al.|[2403.10066v1](http://arxiv.org/abs/2403.10066v1)|null|
+|**2024-03-15**|**SparseFusion: Efficient Sparse Multi-Modal Fusion Framework for Long-Range 3D Perception**|Yiheng Li et.al.|[2403.10036v1](http://arxiv.org/abs/2403.10036v1)|null|
+|**2024-03-15**|**Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers**|Sanghyeok Lee et.al.|[2403.10030v1](http://arxiv.org/abs/2403.10030v1)|null|
+|**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996v1](http://arxiv.org/abs/2403.09996v1)|null|
 |**2024-03-14**|**Flat-top plasma operational space of the STEP power plant**|E. Tholerus et.al.|[2403.09460v1](http://arxiv.org/abs/2403.09460v1)|null|
 |**2024-03-14**|**M&M: Multimodal-Multitask Model Integrating Audiovisual Cues in Cognitive Load Assessment**|Long Nguyen-Phuoc et.al.|[2403.09451v1](http://arxiv.org/abs/2403.09451v1)|null|
 |**2024-03-14**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367v1](http://arxiv.org/abs/2403.09367v1)|null|
