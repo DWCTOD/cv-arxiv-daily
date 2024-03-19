@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-03-18, **Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation**, Johannes Pöppelbaum et.al., Paper: [http://arxiv.org/abs/2403.11722v1](http://arxiv.org/abs/2403.11722v1)
+- 2024-03-18, **Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2403.11700v1](http://arxiv.org/abs/2403.11700v1)
+- 2024-03-18, **A Spatial-Temporal Progressive Fusion Network for Breast Lesion Segmentation in Ultrasound Videos**, Zhengzheng Tu et.al., Paper: [http://arxiv.org/abs/2403.11699v1](http://arxiv.org/abs/2403.11699v1)
+- 2024-03-18, **Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**, Zhuoyuan Li et.al., Paper: [http://arxiv.org/abs/2403.11694v1](http://arxiv.org/abs/2403.11694v1)
+- 2024-03-18, **MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation**, Haoyu Zhao et.al., Paper: [http://arxiv.org/abs/2403.11689v1](http://arxiv.org/abs/2403.11689v1)
+- 2024-03-18, **Better (pseudo-)labels for semi-supervised instance segmentation**, François Porcher et.al., Paper: [http://arxiv.org/abs/2403.11675v1](http://arxiv.org/abs/2403.11675v1)
+- 2024-03-18, **WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising**, Haoyu Zhao et.al., Paper: [http://arxiv.org/abs/2403.11672v1](http://arxiv.org/abs/2403.11672v1)
+- 2024-03-18, **Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**, Julia Wolleb et.al., Paper: [http://arxiv.org/abs/2403.11667v1](http://arxiv.org/abs/2403.11667v1)
+- 2024-03-18, **Combining Local and Global Perception for Autonomous Navigation on Nano-UAVs**, Lorenzo Lamberti et.al., Paper: [http://arxiv.org/abs/2403.11661v1](http://arxiv.org/abs/2403.11661v1)
+- 2024-03-18, **LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**, Yuxin Cao et.al., Paper: [http://arxiv.org/abs/2403.11656v1](http://arxiv.org/abs/2403.11656v1)
 - 2024-03-15, **Strong and Controllable Blind Image Decomposition**, Zeyu Zhang et.al., Paper: [http://arxiv.org/abs/2403.10520v1](http://arxiv.org/abs/2403.10520v1), Code: **[https://github.com/zhangzeyu97/cbd](https://github.com/zhangzeyu97/cbd)**
 - 2024-03-15, **Frozen Feature Augmentation for Few-Shot Image Classification**, Andreas Bär et.al., Paper: [http://arxiv.org/abs/2403.10519v1](http://arxiv.org/abs/2403.10519v1)
 - 2024-03-15, **VideoAgent: Long-form Video Understanding with Large Language Model as Agent**, Xiaohan Wang et.al., Paper: [http://arxiv.org/abs/2403.10517v1](http://arxiv.org/abs/2403.10517v1)
@@ -4453,6 +4463,16 @@
 
 ## MultiModal
 
+- 2024-03-18, **A Spatial-Temporal Progressive Fusion Network for Breast Lesion Segmentation in Ultrasound Videos**, Zhengzheng Tu et.al., Paper: [http://arxiv.org/abs/2403.11699v1](http://arxiv.org/abs/2403.11699v1)
+- 2024-03-18, **NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**, Yiming Ji et.al., Paper: [http://arxiv.org/abs/2403.11679v1](http://arxiv.org/abs/2403.11679v1)
+- 2024-03-18, **Combining Local and Global Perception for Autonomous Navigation on Nano-UAVs**, Lorenzo Lamberti et.al., Paper: [http://arxiv.org/abs/2403.11661v1](http://arxiv.org/abs/2403.11661v1)
+- 2024-03-18, **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**, Yang Yang et.al., Paper: [http://arxiv.org/abs/2403.11627v1](http://arxiv.org/abs/2403.11627v1), Code: **[https://github.com/young98cn/lora_composer](https://github.com/young98cn/lora_composer)**
+- 2024-03-18, **3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**, Quentin Herau et.al., Paper: [http://arxiv.org/abs/2403.11577v1](http://arxiv.org/abs/2403.11577v1)
+- 2024-03-18, **Hierarchical Spatial Proximity Reasoning for Vision-and-Language Navigation**, Ming Xu et.al., Paper: [http://arxiv.org/abs/2403.11541v1](http://arxiv.org/abs/2403.11541v1), Code: **[https://github.com/18979705623/hspr](https://github.com/18979705623/hspr)**
+- 2024-03-18, **OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System**, Chih-Chung Hsu et.al., Paper: [http://arxiv.org/abs/2403.11536v1](http://arxiv.org/abs/2403.11536v1)
+- 2024-03-18, **A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm**, Jun Lei et.al., Paper: [http://arxiv.org/abs/2403.11405v1](http://arxiv.org/abs/2403.11405v1)
+- 2024-03-17, **Bayesian multi-exposure image fusion for robust high dynamic range preprocessing in ptychography**, Shantanu Kodgirwar et.al., Paper: [http://arxiv.org/abs/2403.11344v1](http://arxiv.org/abs/2403.11344v1), Code: **[https://github.com/microscopic-image-analysis/bayes-mef](https://github.com/microscopic-image-analysis/bayes-mef)**
+- 2024-03-17, **Domain-Guided Masked Autoencoders for Unique Player Identification**, Bavesh Balaji et.al., Paper: [http://arxiv.org/abs/2403.11328v1](http://arxiv.org/abs/2403.11328v1)
 - 2024-03-15, **Emotion-Aware Multimodal Fusion for Meme Emotion Detection**, Shivam Sharma et.al., Paper: [http://arxiv.org/abs/2403.10279v1](http://arxiv.org/abs/2403.10279v1)
 - 2024-03-15, **Iterative Confinement of Ions via the Quantum Zeno Effect: Probing Paradoxical Energy Consequences**, Varqa Abyaneh et.al., Paper: [http://arxiv.org/abs/2403.10246v1](http://arxiv.org/abs/2403.10246v1)
 - 2024-03-15, **Tokamak H-mode edge-SOL global turbulence simulations with an electromagnetic, transcollisional drift-fluid model**, W. Zholobenko et.al., Paper: [http://arxiv.org/abs/2403.10113v1](http://arxiv.org/abs/2403.10113v1)
