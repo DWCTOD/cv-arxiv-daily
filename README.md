@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968v1](http://arxiv.org/abs/2403.12968v1)|null|
+|**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962v1](http://arxiv.org/abs/2403.12962v1)|**[link](https://github.com/williamyang1991/fresco)**|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|null|
+|**2024-03-19**|**FutureDepth: Learning to Predict the Future Improves Video Depth Estimation**|Rajeev Yasarla et.al.|[2403.12953v1](http://arxiv.org/abs/2403.12953v1)|null|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952v1](http://arxiv.org/abs/2403.12952v1)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Legendrian loops and cluster modular groups**|James Hughes et.al.|[2403.12951v1](http://arxiv.org/abs/2403.12951v1)|null|
+|**2024-03-19**|**Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers**|Vidhi Jain et.al.|[2403.12943v1](http://arxiv.org/abs/2403.12943v1)|null|
+|**2024-03-19**|**Contextual AD Narration with Interleaved Multimodal Sequence**|Hanlin Wang et.al.|[2403.12922v1](http://arxiv.org/abs/2403.12922v1)|null|
+|**2024-03-19**|**Semantic Layering in Room Segmentation via LLMs**|Taehyeon Kim et.al.|[2403.12920v1](http://arxiv.org/abs/2403.12920v1)|null|
+|**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910v1](http://arxiv.org/abs/2403.12910v1)|null|
 |**2024-03-18**|**Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation**|Johannes Pöppelbaum et.al.|[2403.11722v1](http://arxiv.org/abs/2403.11722v1)|null|
 |**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700v1](http://arxiv.org/abs/2403.11700v1)|null|
 |**2024-03-18**|**A Spatial-Temporal Progressive Fusion Network for Breast Lesion Segmentation in Ultrasound Videos**|Zhengzheng Tu et.al.|[2403.11699v1](http://arxiv.org/abs/2403.11699v1)|null|
@@ -4467,6 +4477,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v1](http://arxiv.org/abs/2403.12837v1)|null|
+|**2024-03-19**|**Audio-Visual Compound Expression Recognition Method based on Late Modality Fusion and Rule-based Decision**|Elena Ryumina et.al.|[2403.12687v1](http://arxiv.org/abs/2403.12687v1)|null|
+|**2024-03-19**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686v1](http://arxiv.org/abs/2403.12686v1)|null|
+|**2024-03-19**|**Optimisation of Gyrokinetic Microstability Using Adjoint Methods**|Georgia Acton et.al.|[2403.12621v1](http://arxiv.org/abs/2403.12621v1)|null|
+|**2024-03-19**|**SUN Team's Contribution to ABAW 2024 Competition: Audio-visual Valence-Arousal Estimation and Expression Recognition**|Denis Dresvyanskiy et.al.|[2403.12609v1](http://arxiv.org/abs/2403.12609v1)|null|
+|**2024-03-19**|**Compound Expression Recognition via Multi Model Ensemble**|Jun Yu et.al.|[2403.12572v1](http://arxiv.org/abs/2403.12572v1)|null|
+|**2024-03-19**|**M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving**|Dongyang Xu et.al.|[2403.12552v1](http://arxiv.org/abs/2403.12552v1)|null|
+|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550v1](http://arxiv.org/abs/2403.12550v1)|null|
+|**2024-03-19**|**Multi-View Active Sensing for Human-Robot Interaction via Hierarchically Connected Tree**|Yuanjiong Ying et.al.|[2403.12538v1](http://arxiv.org/abs/2403.12538v1)|null|
+|**2024-03-19**|**Vox-Fusion++: Voxel-based Neural Implicit Dense Tracking and Mapping with Multi-maps**|Hongjia Zhai et.al.|[2403.12536v1](http://arxiv.org/abs/2403.12536v1)|null|
 |**2024-03-18**|**A Spatial-Temporal Progressive Fusion Network for Breast Lesion Segmentation in Ultrasound Videos**|Zhengzheng Tu et.al.|[2403.11699v1](http://arxiv.org/abs/2403.11699v1)|null|
 |**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v1](http://arxiv.org/abs/2403.11679v1)|null|
 |**2024-03-18**|**Combining Local and Global Perception for Autonomous Navigation on Nano-UAVs**|Lorenzo Lamberti et.al.|[2403.11661v1](http://arxiv.org/abs/2403.11661v1)|null|
