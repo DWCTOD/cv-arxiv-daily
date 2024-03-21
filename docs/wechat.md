@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-03-20, **TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**, Jingxi Chen et.al., Paper: [http://arxiv.org/abs/2403.13800v1](http://arxiv.org/abs/2403.13800v1)
+- 2024-03-20, **Hierarchical NeuroSymbolic Approach for Action Quality Assessment**, Lauren Okamoto et.al., Paper: [http://arxiv.org/abs/2403.13798v1](http://arxiv.org/abs/2403.13798v1)
+- 2024-03-20, **Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**, Chao Yi et.al., Paper: [http://arxiv.org/abs/2403.13797v1](http://arxiv.org/abs/2403.13797v1)
+- 2024-03-20, **The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency and Usability in AI**, Matt White et.al., Paper: [http://arxiv.org/abs/2403.13784v1](http://arxiv.org/abs/2403.13784v1)
+- 2024-03-20, **Gradings on associative triple systems of the second kind**, Alberto Daza-Garcia et.al., Paper: [http://arxiv.org/abs/2403.13775v1](http://arxiv.org/abs/2403.13775v1)
+- 2024-03-20, **Towards Principled Representation Learning from Videos for Reinforcement Learning**, Dipendra Misra et.al., Paper: [http://arxiv.org/abs/2403.13765v1](http://arxiv.org/abs/2403.13765v1)
+- 2024-03-20, **Enhancing Gait Video Analysis in Neurodegenerative Diseases by Knowledge Augmentation in Vision Language Model**, Diwei Wang et.al., Paper: [http://arxiv.org/abs/2403.13756v1](http://arxiv.org/abs/2403.13756v1)
+- 2024-03-20, **Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**, Fu-Yun Wang et.al., Paper: [http://arxiv.org/abs/2403.13745v1](http://arxiv.org/abs/2403.13745v1)
+- 2024-03-20, **Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes**, Yifan Chen et.al., Paper: [http://arxiv.org/abs/2403.13724v1](http://arxiv.org/abs/2403.13724v1)
+- 2024-03-20, **Improving the Adaptive Moment Estimation (ADAM) stochastic optimizer through an Implicit-Explicit (IMEX) time-stepping approach**, Abhinab Bhattacharjee et.al., Paper: [http://arxiv.org/abs/2403.13704v1](http://arxiv.org/abs/2403.13704v1)
 - 2024-03-19, **LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**, Zhuoshi Pan et.al., Paper: [http://arxiv.org/abs/2403.12968v1](http://arxiv.org/abs/2403.12968v1)
 - 2024-03-19, **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**, Shuai Yang et.al., Paper: [http://arxiv.org/abs/2403.12962v1](http://arxiv.org/abs/2403.12962v1), Code: **[https://github.com/williamyang1991/fresco](https://github.com/williamyang1991/fresco)**
 - 2024-03-19, **WHAC: World-grounded Humans and Cameras**, Wanqi Yin et.al., Paper: [http://arxiv.org/abs/2403.12959v1](http://arxiv.org/abs/2403.12959v1)
@@ -4473,6 +4483,16 @@
 
 ## MultiModal
 
+- 2024-03-20, **DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**, Yuxuan Zhou et.al., Paper: [http://arxiv.org/abs/2403.13714v1](http://arxiv.org/abs/2403.13714v1)
+- 2024-03-20, **Locally finite two-loop amplitudes for electroweak production through gluon fusion**, Charalampos Anastasiou et.al., Paper: [http://arxiv.org/abs/2403.13712v1](http://arxiv.org/abs/2403.13712v1)
+- 2024-03-20, **Fostc3net:A Lightweight YOLOv5 Based On the Network Structure Optimization**, Danqing Ma et.al., Paper: [http://arxiv.org/abs/2403.13703v1](http://arxiv.org/abs/2403.13703v1)
+- 2024-03-20, **AUD-TGN: Advancing Action Unit Detection with Temporal Convolution and GPT-2 in Wild Audiovisual Contexts**, Jun Yu et.al., Paper: [http://arxiv.org/abs/2403.13678v1](http://arxiv.org/abs/2403.13678v1)
+- 2024-03-20, **Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition**, R. Gnana Praveen et.al., Paper: [http://arxiv.org/abs/2403.13659v1](http://arxiv.org/abs/2403.13659v1)
+- 2024-03-20, **Non-Equilibrium and Self-Organization Evolution in Hot-Spot Ignition Processes**, X. -Y. Fu et.al., Paper: [http://arxiv.org/abs/2403.13586v1](http://arxiv.org/abs/2403.13586v1)
+- 2024-03-20, **DL2Fence: Integrating Deep Learning and Frame Fusion for Enhanced Detection and Localization of Refined Denial-of-Service in Large-Scale NoCs**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2403.13563v1](http://arxiv.org/abs/2403.13563v1)
+- 2024-03-20, **Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments**, Djamahl Etchegaray et.al., Paper: [http://arxiv.org/abs/2403.13556v1](http://arxiv.org/abs/2403.13556v1)
+- 2024-03-20, **Mobile Robot Localization: a Modular, Odometry-Improving Approach**, Luca Mozzarelli et.al., Paper: [http://arxiv.org/abs/2403.13452v1](http://arxiv.org/abs/2403.13452v1)
+- 2024-03-20, **Spontaneous formation of Frenkel defects in high-entropy-alloys-type compound**, Rikuya Ishikawa et.al., Paper: [http://arxiv.org/abs/2403.13323v1](http://arxiv.org/abs/2403.13323v1)
 - 2024-03-19, **Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**, Kurran Singh et.al., Paper: [http://arxiv.org/abs/2403.12837v1](http://arxiv.org/abs/2403.12837v1)
 - 2024-03-19, **Audio-Visual Compound Expression Recognition Method based on Late Modality Fusion and Rule-based Decision**, Elena Ryumina et.al., Paper: [http://arxiv.org/abs/2403.12687v1](http://arxiv.org/abs/2403.12687v1)
 - 2024-03-19, **WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2403.12686v1](http://arxiv.org/abs/2403.12686v1)
