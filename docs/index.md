@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Language Repository for Long Video Understanding**|Kumara Kahatapitiya et.al.|[2403.14622v1](http://arxiv.org/abs/2403.14622v1)|**[link](https://github.com/kkahatapitiya/langrepo)**|
+|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v1](http://arxiv.org/abs/2403.14617v1)|null|
+|**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
+|**2024-03-21**|**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**|Zheng Zhang et.al.|[2403.14598v1](http://arxiv.org/abs/2403.14598v1)|**[link](https://github.com/zamling/psalm)**|
+|**2024-03-21**|**Large Language Models for Multi-Choice Question Classification of Medical Subjects**|Víctor Ponce-López et.al.|[2403.14582v1](http://arxiv.org/abs/2403.14582v1)|null|
+|**2024-03-21**|**DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video**|Narek Tumanyan et.al.|[2403.14548v1](http://arxiv.org/abs/2403.14548v1)|null|
+|**2024-03-21**|**Estimating Physical Information Consistency of Channel Data Augmentation for Remote Sensing Images**|Tom Burgert et.al.|[2403.14547v1](http://arxiv.org/abs/2403.14547v1)|null|
+|**2024-03-21**|**Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets**|Ahmet Alp Kindiroglu et.al.|[2403.14534v1](http://arxiv.org/abs/2403.14534v1)|**[link](https://github.com/alpk/tid-supervised-transfer-learning-dataset)**|
+|**2024-03-21**|**Invisible Needle Detection in Ultrasound: Leveraging Mechanism-Induced Vibration**|Chenyang Li et.al.|[2403.14523v1](http://arxiv.org/abs/2403.14523v1)|null|
+|**2024-03-21**|**Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting**|Alicia Durrer et.al.|[2403.14499v1](http://arxiv.org/abs/2403.14499v1)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
 |**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
 |**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
@@ -4491,6 +4501,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
+|**2024-03-21**|**Trivial source character tables of Frobenius groups of type $(C_p \times C_p) \rtimes H$**|Bernhard Boehmler et.al.|[2403.14571v1](http://arxiv.org/abs/2403.14571v1)|null|
+|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v1](http://arxiv.org/abs/2403.14520v1)|null|
+|**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487v1](http://arxiv.org/abs/2403.14487v1)|null|
+|**2024-03-21**|**Utilizing the LightGBM Algorithm for Operator User Credit Assessment Research**|Shaojie Li et.al.|[2403.14483v1](http://arxiv.org/abs/2403.14483v1)|null|
+|**2024-03-21**|**Towards Efficient Information Fusion: Concentric Dual Fusion Attention Based Multiple Instance Learning for Whole Slide Images**|Yujian Liu et.al.|[2403.14346v1](http://arxiv.org/abs/2403.14346v1)|null|
+|**2024-03-21**|**A Lightweight Attention-based Deep Network via Multi-Scale Feature Fusion for Multi-View Facial Expression Recognition**|Ali Ezati et.al.|[2403.14318v1](http://arxiv.org/abs/2403.14318v1)|**[link](https://github.com/ae-1129/lanmsff)**|
+|**2024-03-21**|**Exotic Fusion System on a Subgroup of the Monster**|Patrick Serwene et.al.|[2403.14265v1](http://arxiv.org/abs/2403.14265v1)|null|
+|**2024-03-21**|**Context Quality Matters in Training Fusion-in-Decoder for Extractive Open-Domain Question Answering**|Kosuke Akimoto et.al.|[2403.14197v1](http://arxiv.org/abs/2403.14197v1)|null|
+|**2024-03-21**|**Gen-T: Table Reclamation in Data Lakes**|Grace Fan et.al.|[2403.14128v1](http://arxiv.org/abs/2403.14128v1)|null|
 |**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714v1](http://arxiv.org/abs/2403.13714v1)|null|
 |**2024-03-20**|**Locally finite two-loop amplitudes for electroweak production through gluon fusion**|Charalampos Anastasiou et.al.|[2403.13712v1](http://arxiv.org/abs/2403.13712v1)|null|
 |**2024-03-20**|**Fostc3net:A Lightweight YOLOv5 Based On the Network Structure Optimization**|Danqing Ma et.al.|[2403.13703v1](http://arxiv.org/abs/2403.13703v1)|null|
