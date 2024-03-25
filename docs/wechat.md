@@ -3,7 +3,7 @@
 ## Video_Classification
 
 - 2024-03-21, **Language Repository for Long Video Understanding**, Kumara Kahatapitiya et.al., Paper: [http://arxiv.org/abs/2403.14622v1](http://arxiv.org/abs/2403.14622v1), Code: **[https://github.com/kkahatapitiya/langrepo](https://github.com/kkahatapitiya/langrepo)**
-- 2024-03-21, **Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**, Xiang Fan et.al., Paper: [http://arxiv.org/abs/2403.14617v1](http://arxiv.org/abs/2403.14617v1)
+- 2024-03-22, **Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**, Xiang Fan et.al., Paper: [http://arxiv.org/abs/2403.14617v2](http://arxiv.org/abs/2403.14617v2)
 - 2024-03-21, **Explorative Inbetweening of Time and Space**, Haiwen Feng et.al., Paper: [http://arxiv.org/abs/2403.14611v1](http://arxiv.org/abs/2403.14611v1)
 - 2024-03-21, **ReNoise: Real Image Inversion Through Iterative Noising**, Daniel Garibi et.al., Paper: [http://arxiv.org/abs/2403.14602v1](http://arxiv.org/abs/2403.14602v1)
 - 2024-03-21, **PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**, Zheng Zhang et.al., Paper: [http://arxiv.org/abs/2403.14598v1](http://arxiv.org/abs/2403.14598v1), Code: **[https://github.com/zamling/psalm](https://github.com/zamling/psalm)**
@@ -4496,7 +4496,7 @@
 
 - 2024-03-21, **Explorative Inbetweening of Time and Space**, Haiwen Feng et.al., Paper: [http://arxiv.org/abs/2403.14611v1](http://arxiv.org/abs/2403.14611v1)
 - 2024-03-21, **Trivial source character tables of Frobenius groups of type $(C_p \times C_p) \rtimes H$**, Bernhard Boehmler et.al., Paper: [http://arxiv.org/abs/2403.14571v1](http://arxiv.org/abs/2403.14571v1)
-- 2024-03-21, **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**, Han Zhao et.al., Paper: [http://arxiv.org/abs/2403.14520v1](http://arxiv.org/abs/2403.14520v1)
+- 2024-03-22, **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**, Han Zhao et.al., Paper: [http://arxiv.org/abs/2403.14520v2](http://arxiv.org/abs/2403.14520v2)
 - 2024-03-21, **DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**, Yueru Jia et.al., Paper: [http://arxiv.org/abs/2403.14487v1](http://arxiv.org/abs/2403.14487v1)
 - 2024-03-21, **Utilizing the LightGBM Algorithm for Operator User Credit Assessment Research**, Shaojie Li et.al., Paper: [http://arxiv.org/abs/2403.14483v1](http://arxiv.org/abs/2403.14483v1)
 - 2024-03-21, **Towards Efficient Information Fusion: Concentric Dual Fusion Attention Based Multiple Instance Learning for Whole Slide Images**, Yujian Liu et.al., Paper: [http://arxiv.org/abs/2403.14346v1](http://arxiv.org/abs/2403.14346v1)

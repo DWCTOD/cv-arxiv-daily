@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-21**|**Language Repository for Long Video Understanding**|Kumara Kahatapitiya et.al.|[2403.14622v1](http://arxiv.org/abs/2403.14622v1)|**[link](https://github.com/kkahatapitiya/langrepo)**|
-|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v1](http://arxiv.org/abs/2403.14617v1)|null|
+|**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v2](http://arxiv.org/abs/2403.14617v2)|null|
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602v1](http://arxiv.org/abs/2403.14602v1)|null|
 |**2024-03-21**|**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**|Zheng Zhang et.al.|[2403.14598v1](http://arxiv.org/abs/2403.14598v1)|**[link](https://github.com/zamling/psalm)**|
@@ -4500,7 +4500,7 @@
 |---|---|---|---|---|
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
 |**2024-03-21**|**Trivial source character tables of Frobenius groups of type $(C_p \times C_p) \rtimes H$**|Bernhard Boehmler et.al.|[2403.14571v1](http://arxiv.org/abs/2403.14571v1)|null|
-|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v1](http://arxiv.org/abs/2403.14520v1)|null|
+|**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v2](http://arxiv.org/abs/2403.14520v2)|null|
 |**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487v1](http://arxiv.org/abs/2403.14487v1)|null|
 |**2024-03-21**|**Utilizing the LightGBM Algorithm for Operator User Credit Assessment Research**|Shaojie Li et.al.|[2403.14483v1](http://arxiv.org/abs/2403.14483v1)|null|
 |**2024-03-21**|**Towards Efficient Information Fusion: Concentric Dual Fusion Attention Based Multiple Instance Learning for Whole Slide Images**|Yujian Liu et.al.|[2403.14346v1](http://arxiv.org/abs/2403.14346v1)|null|
