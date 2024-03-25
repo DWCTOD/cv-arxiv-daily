@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388v1](http://arxiv.org/abs/2403.15388v1)|null|
+|**2024-03-22**|**Time-efficient, high-resolution 3T whole-brain relaxometry using Cartesian 3D MR-STAT with CSF suppression**|Hongyan Liu et.al.|[2403.15379v1](http://arxiv.org/abs/2403.15379v1)|null|
+|**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378v1](http://arxiv.org/abs/2403.15378v1)|null|
+|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|null|
+|**2024-03-22**|**Cascading Blackout Severity Prediction with Statistically-Augmented Graph Neural Networks**|Joe Gorka et.al.|[2403.15363v1](http://arxiv.org/abs/2403.15363v1)|null|
+|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360v1](http://arxiv.org/abs/2403.15360v1)|null|
+|**2024-03-22**|**Ultrasound Imaging based on the Variance of a Diffusion Restoration Model**|Yuxin Zhang et.al.|[2403.15316v1](http://arxiv.org/abs/2403.15316v1)|null|
+|**2024-03-22**|**Global Control for Local SO(3)-Equivariant Scale-Invariant Vessel Segmentation**|Patryk Rygiel et.al.|[2403.15314v1](http://arxiv.org/abs/2403.15314v1)|null|
+|**2024-03-22**|**Quantum-inspired classification via efficient simulation of Helstrom measurement**|Wooseop Hwang et.al.|[2403.15308v1](http://arxiv.org/abs/2403.15308v1)|null|
+|**2024-03-22**|**Reconnaissance ultracool spectra in the Euclid Deep Fields**|Jerry Jun-Yan Zhang et.al.|[2403.15288v1](http://arxiv.org/abs/2403.15288v1)|null|
 |**2024-03-21**|**Language Repository for Long Video Understanding**|Kumara Kahatapitiya et.al.|[2403.14622v1](http://arxiv.org/abs/2403.14622v1)|**[link](https://github.com/kkahatapitiya/langrepo)**|
 |**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v2](http://arxiv.org/abs/2403.14617v2)|null|
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
@@ -4498,6 +4508,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Multi-Review Fusion-in-Context**|Aviv Slobodkin et.al.|[2403.15351v1](http://arxiv.org/abs/2403.15351v1)|null|
+|**2024-03-22**|**Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection**|Hongzhi Gao et.al.|[2403.15317v1](http://arxiv.org/abs/2403.15317v1)|null|
+|**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313v1](http://arxiv.org/abs/2403.15313v1)|null|
+|**2024-03-22**|**Reasoning-Enhanced Object-Centric Learning for Videos**|Jian Li et.al.|[2403.15245v1](http://arxiv.org/abs/2403.15245v1)|null|
+|**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241v1](http://arxiv.org/abs/2403.15241v1)|null|
+|**2024-03-22**|**MSCoTDet: Language-driven Multi-modal Fusion for Improved Multispectral Pedestrian Detection**|Taeheon Kim et.al.|[2403.15209v1](http://arxiv.org/abs/2403.15209v1)|null|
+|**2024-03-22**|**Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion**|Sofia Casarin et.al.|[2403.15194v1](http://arxiv.org/abs/2403.15194v1)|null|
+|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192v1](http://arxiv.org/abs/2403.15192v1)|**[link](https://github.com/yimeng-fan/SFOD)**|
+|**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183v1](http://arxiv.org/abs/2403.15183v1)|null|
+|**2024-03-22**|**Gauge invariant variational formulations of electromagnetic gyrokinetic theory**|Ronald Remmerswaal et.al.|[2403.15071v1](http://arxiv.org/abs/2403.15071v1)|null|
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
 |**2024-03-21**|**Trivial source character tables of Frobenius groups of type $(C_p \times C_p) \rtimes H$**|Bernhard Boehmler et.al.|[2403.14571v1](http://arxiv.org/abs/2403.14571v1)|null|
 |**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v2](http://arxiv.org/abs/2403.14520v2)|null|
