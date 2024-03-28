@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820v1](http://arxiv.org/abs/2403.18820v1)|null|
+|**2024-03-27**|**Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction**|Yiyao Zhang et.al.|[2403.18776v1](http://arxiv.org/abs/2403.18776v1)|null|
+|**2024-03-27**|**CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning**|Elliot Chane-Sane et.al.|[2403.18765v1](http://arxiv.org/abs/2403.18765v1)|null|
+|**2024-03-27**|**A vascular synthetic model for improved aneurysm segmentation and detection via Deep Neural Networks**|Rafic Nader et.al.|[2403.18734v1](http://arxiv.org/abs/2403.18734v1)|null|
+|**2024-03-27**|**Contrastive Learning with Orthonormal Anchors (CLOA)**|Huanran Li et.al.|[2403.18699v1](http://arxiv.org/abs/2403.18699v1)|null|
+|**2024-03-27**|**Annolid: Annotate, Segment, and Track Anything You Need**|Chen Yang et.al.|[2403.18690v1](http://arxiv.org/abs/2403.18690v1)|null|
+|**2024-03-27**|**InceptionTime vs. Wavelet -- A comparison for time series classification**|Daniel Klenkert et.al.|[2403.18687v1](http://arxiv.org/abs/2403.18687v1)|null|
+|**2024-03-27**|**TransFusion: Contrastive Learning with Transformers**|Huanran Li et.al.|[2403.18681v1](http://arxiv.org/abs/2403.18681v1)|null|
+|**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v1](http://arxiv.org/abs/2403.18666v1)|null|
+|**2024-03-27**|**Indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$**|Carsten Dietzel et.al.|[2403.18653v1](http://arxiv.org/abs/2403.18653v1)|null|
 |**2024-03-26**|**Efficient Video Object Segmentation via Modulated Cross-Attention Memory**|Abdelrahman Shaker et.al.|[2403.17937v1](http://arxiv.org/abs/2403.17937v1)|**[link](https://github.com/amshaker/mavos)**|
 |**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
 |**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935v1](http://arxiv.org/abs/2403.17935v1)|**[link](https://github.com/wangjk666/omnivid)**|
@@ -4534,6 +4544,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Solid lines in axial algebras of Jordan type half and Jordan algebras**|Jari Desmet et.al.|[2403.18808v1](http://arxiv.org/abs/2403.18808v1)|null|
+|**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715v1](http://arxiv.org/abs/2403.18715v1)|null|
+|**2024-03-27**|**Bringing Textual Prompt to AI-Generated Image Quality Assessment**|Bowen Qu et.al.|[2403.18714v1](http://arxiv.org/abs/2403.18714v1)|null|
+|**2024-03-27**|**Contrastive Learning with Orthonormal Anchors (CLOA)**|Huanran Li et.al.|[2403.18699v1](http://arxiv.org/abs/2403.18699v1)|null|
+|**2024-03-27**|**Fusion approaches for emotion recognition from speech using acoustic and text-based features**|Leonardo Pepino et.al.|[2403.18635v1](http://arxiv.org/abs/2403.18635v1)|null|
+|**2024-03-27**|**Multi-View Deep Learning for Imaging Atmospheric Cherenkov Telescopes**|Hannes Warnhofer et.al.|[2403.18516v1](http://arxiv.org/abs/2403.18516v1)|null|
+|**2024-03-27**|**DiffStyler: Diffusion-based Localized Image Style Transfer**|Shaoxu Li et.al.|[2403.18461v1](http://arxiv.org/abs/2403.18461v1)|null|
+|**2024-03-27**|**Backpropagation-free Network for 3D Test-time Adaptation**|Yanshuo Wang et.al.|[2403.18442v1](http://arxiv.org/abs/2403.18442v1)|null|
+|**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402v1](http://arxiv.org/abs/2403.18402v1)|null|
+|**2024-03-27**|**Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration**|Sangwoo Jung et.al.|[2403.18358v1](http://arxiv.org/abs/2403.18358v1)|null|
 |**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909v1](http://arxiv.org/abs/2403.17909v1)|**[link](https://github.com/techmn/elgcnet)**|
 |**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839v1](http://arxiv.org/abs/2403.17839v1)|null|
 |**2024-03-26**|**Ultrafast Heating Induced Suppression of $d$-band Dominance in the Electronic Excitation Spectrum of Cuprum**|Zhandos Moldabekov et.al.|[2403.17815v1](http://arxiv.org/abs/2403.17815v1)|null|
