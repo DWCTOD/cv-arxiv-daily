@@ -15,7 +15,7 @@ layout: default
 |**2024-03-28**|**Top-$k$ Classification and Cardinality-Aware Prediction**|Anqi Mao et.al.|[2403.19625v1](http://arxiv.org/abs/2403.19625v1)|null|
 |**2024-03-28**|**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**|Zeren Chen et.al.|[2403.19622v1](http://arxiv.org/abs/2403.19622v1)|null|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
-|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600v1](http://arxiv.org/abs/2403.19600v1)|null|
+|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600v1](http://arxiv.org/abs/2403.19600v1)|**[link](https://github.com/zhicaiwww/diff-mix)**|
 |**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593v1](http://arxiv.org/abs/2403.19593v1)|null|
 |**2024-03-28**|**Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation**|Zhongliang Zhou et.al.|[2403.19584v1](http://arxiv.org/abs/2403.19584v1)|null|
 |**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820v1](http://arxiv.org/abs/2403.18820v1)|null|
