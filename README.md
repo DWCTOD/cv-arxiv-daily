@@ -4571,7 +4571,7 @@
 |**2024-03-29**|**A novel decision fusion approach for sale price prediction using Elastic Net and MOPSO**|Amir Eshaghi Chaleshtori et.al.|[2403.20033v1](http://arxiv.org/abs/2403.20033v1)|null|
 |**2024-03-29**|**TDANet: A Novel Temporal Denoise Convolutional Neural Network With Attention for Fault Diagnosis**|Zhongzhi Li et.al.|[2403.19943v1](http://arxiv.org/abs/2403.19943v1)|null|
 |**2024-03-29**|**Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview**|Yingbai Hu et.al.|[2403.19916v1](http://arxiv.org/abs/2403.19916v1)|null|
-|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v1](http://arxiv.org/abs/2403.19886v1)|null|
+|**2024-04-01**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
 |**2024-03-28**|**2-Morita Equivalent Condensable Algebras in Topological Orders**|Rongge Xu et.al.|[2403.19779v1](http://arxiv.org/abs/2403.19779v1)|null|
 |**2024-03-28**|**CLoRA: A Contrastive Approach to Compose Multiple LoRA Models**|Tuna Han Salih Meral et.al.|[2403.19776v1](http://arxiv.org/abs/2403.19776v1)|null|
 |**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646v1](http://arxiv.org/abs/2403.19646v1)|**[link](https://github.com/chen-yang-liu/change-agent)**|
