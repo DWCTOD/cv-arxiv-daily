@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-02, **Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2404.02148v1](http://arxiv.org/abs/2404.02148v1), Code: **[https://github.com/fudan-zvg/diffusion-square](https://github.com/fudan-zvg/diffusion-square)**
+- 2024-04-02, **Multiparametric quantification and visualization of liver fat using ultrasound**, Jihye Baek et.al., Paper: [http://arxiv.org/abs/2404.02143v1](http://arxiv.org/abs/2404.02143v1)
+- 2024-04-02, **ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**, Ryan Donghan Kwon et.al., Paper: [http://arxiv.org/abs/2404.02135v1](http://arxiv.org/abs/2404.02135v1)
+- 2024-04-02, **ViTamin: Designing Scalable Vision Models in the Vision-Language Era**, Jienneg Chen et.al., Paper: [http://arxiv.org/abs/2404.02132v1](http://arxiv.org/abs/2404.02132v1), Code: **[https://github.com/beckschen/vitamin](https://github.com/beckschen/vitamin)**
+- 2024-04-02, **ImageNot: A contrast with ImageNet preserves model rankings**, Olawale Salaudeen et.al., Paper: [http://arxiv.org/abs/2404.02112v1](http://arxiv.org/abs/2404.02112v1)
+- 2024-04-02, **CameraCtrl: Enabling Camera Control for Text-to-Video Generation**, Hao He et.al., Paper: [http://arxiv.org/abs/2404.02101v1](http://arxiv.org/abs/2404.02101v1), Code: **[https://github.com/hehao13/cameractrl](https://github.com/hehao13/cameractrl)**
+- 2024-04-02, **Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**, Grace Guo et.al., Paper: [http://arxiv.org/abs/2404.02081v1](http://arxiv.org/abs/2404.02081v1)
+- 2024-04-02, **Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation**, Hui Xiao et.al., Paper: [http://arxiv.org/abs/2404.02065v1](http://arxiv.org/abs/2404.02065v1)
+- 2024-04-02, **Long-context LLMs Struggle with Long In-context Learning**, Tianle Li et.al., Paper: [http://arxiv.org/abs/2404.02060v1](http://arxiv.org/abs/2404.02060v1), Code: **[https://github.com/tiger-ai-lab/longiclbench](https://github.com/tiger-ai-lab/longiclbench)**
+- 2024-04-02, **Deconstructing In-Context Learning: Understanding Prompts via Corruption**, Namrata Shivagunde et.al., Paper: [http://arxiv.org/abs/2404.02054v1](http://arxiv.org/abs/2404.02054v1), Code: **[https://github.com/text-machine-lab/understanding_prompts_via_corruption](https://github.com/text-machine-lab/understanding_prompts_via_corruption)**
 - 2024-03-29, **Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations**, Jaisidh Singh et.al., Paper: [http://arxiv.org/abs/2403.20312v1](http://arxiv.org/abs/2403.20312v1), Code: **[https://github.com/jaisidhsingh/con-clip](https://github.com/jaisidhsingh/con-clip)**
 - 2024-03-29, **Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation**, Fangxu Yu et.al., Paper: [http://arxiv.org/abs/2403.20289v1](http://arxiv.org/abs/2403.20289v1), Code: **[https://github.com/yu-fangxu/eacl](https://github.com/yu-fangxu/eacl)**
 - 2024-03-29, **Prototype-based Interpretable Breast Cancer Prediction Models: Analysis and Challenges**, Shreyasi Pathak et.al., Paper: [http://arxiv.org/abs/2403.20260v1](http://arxiv.org/abs/2403.20260v1)
@@ -4560,6 +4570,16 @@
 
 ## MultiModal
 
+- 2024-04-02, **Segment Any 3D Object with Language**, Seungjun Lee et.al., Paper: [http://arxiv.org/abs/2404.02157v1](http://arxiv.org/abs/2404.02157v1)
+- 2024-04-02, **Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**, Jiyuan Zhong et.al., Paper: [http://arxiv.org/abs/2404.02084v1](http://arxiv.org/abs/2404.02084v1)
+- 2024-04-02, **Enhancing Portfolio Optimization with Transformer-GAN Integration: A Novel Approach in the Black-Litterman Framework**, Enmin Zhu et.al., Paper: [http://arxiv.org/abs/2404.02029v1](http://arxiv.org/abs/2404.02029v1)
+- 2024-04-02, **Specularity Factorization for Low-Light Enhancement**, Saurabh Saini et.al., Paper: [http://arxiv.org/abs/2404.01998v1](http://arxiv.org/abs/2404.01998v1)
+- 2024-04-02, **DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning**, Mengfei Du et.al., Paper: [http://arxiv.org/abs/2404.01994v1](http://arxiv.org/abs/2404.01994v1), Code: **[https://github.com/mengfeidu/delan](https://github.com/mengfeidu/delan)**
+- 2024-04-02, **MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels**, Lilin Xu et.al., Paper: [http://arxiv.org/abs/2404.01958v1](http://arxiv.org/abs/2404.01958v1), Code: **[https://github.com/initxu/mesen](https://github.com/initxu/mesen)**
+- 2024-04-02, **Event-assisted Low-Light Video Object Segmentation**, Hebei Li et.al., Paper: [http://arxiv.org/abs/2404.01945v1](http://arxiv.org/abs/2404.01945v1)
+- 2024-04-02, **Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**, Lachezar S. Georgiev et.al., Paper: [http://arxiv.org/abs/2404.01779v1](http://arxiv.org/abs/2404.01779v1)
+- 2024-04-02, **Braiding Fibonacci anyons**, Ludmil Hadjiivanov et.al., Paper: [http://arxiv.org/abs/2404.01778v1](http://arxiv.org/abs/2404.01778v1)
+- 2024-04-02, **CIRP: Cross-Item Relational Pre-training for Multimodal Product Bundling**, Yunshan Ma et.al., Paper: [http://arxiv.org/abs/2404.01735v1](http://arxiv.org/abs/2404.01735v1)
 - 2024-03-29, **Sparse multimodal fusion with modal channel attention**, Josiah Bjorgaard et.al., Paper: [http://arxiv.org/abs/2403.20280v1](http://arxiv.org/abs/2403.20280v1)
 - 2024-03-29, **An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT**, Haikuo Shao et.al., Paper: [http://arxiv.org/abs/2403.20230v1](http://arxiv.org/abs/2403.20230v1)
 - 2024-03-29, **Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning**, Duzhen Zhang et.al., Paper: [http://arxiv.org/abs/2403.20163v1](http://arxiv.org/abs/2403.20163v1)
