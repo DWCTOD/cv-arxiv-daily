@@ -1,4 +1,4 @@
-> Updated on 2024.04.03
+> Updated on 2024.04.04
 
 ## Video_Classification
 
@@ -4577,8 +4577,8 @@
 - 2024-04-02, **DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning**, Mengfei Du et.al., Paper: [http://arxiv.org/abs/2404.01994v1](http://arxiv.org/abs/2404.01994v1), Code: **[https://github.com/mengfeidu/delan](https://github.com/mengfeidu/delan)**
 - 2024-04-02, **MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels**, Lilin Xu et.al., Paper: [http://arxiv.org/abs/2404.01958v1](http://arxiv.org/abs/2404.01958v1), Code: **[https://github.com/initxu/mesen](https://github.com/initxu/mesen)**
 - 2024-04-02, **Event-assisted Low-Light Video Object Segmentation**, Hebei Li et.al., Paper: [http://arxiv.org/abs/2404.01945v1](http://arxiv.org/abs/2404.01945v1)
-- 2024-04-02, **Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**, Lachezar S. Georgiev et.al., Paper: [http://arxiv.org/abs/2404.01779v1](http://arxiv.org/abs/2404.01779v1)
-- 2024-04-02, **Braiding Fibonacci anyons**, Ludmil Hadjiivanov et.al., Paper: [http://arxiv.org/abs/2404.01778v1](http://arxiv.org/abs/2404.01778v1)
+- 2024-04-03, **Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**, Lachezar S. Georgiev et.al., Paper: [http://arxiv.org/abs/2404.01779v2](http://arxiv.org/abs/2404.01779v2)
+- 2024-04-03, **Braiding Fibonacci anyons**, Ludmil Hadjiivanov et.al., Paper: [http://arxiv.org/abs/2404.01778v2](http://arxiv.org/abs/2404.01778v2)
 - 2024-04-02, **CIRP: Cross-Item Relational Pre-training for Multimodal Product Bundling**, Yunshan Ma et.al., Paper: [http://arxiv.org/abs/2404.01735v1](http://arxiv.org/abs/2404.01735v1)
 - 2024-03-29, **Sparse multimodal fusion with modal channel attention**, Josiah Bjorgaard et.al., Paper: [http://arxiv.org/abs/2403.20280v1](http://arxiv.org/abs/2403.20280v1)
 - 2024-03-29, **An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT**, Haikuo Shao et.al., Paper: [http://arxiv.org/abs/2403.20230v1](http://arxiv.org/abs/2403.20230v1)
