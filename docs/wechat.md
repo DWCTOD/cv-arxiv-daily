@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-03, **LidarDM: Generative LiDAR Simulation in a Generated World**, Vlas Zyrianov et.al., Paper: [http://arxiv.org/abs/2404.02903v1](http://arxiv.org/abs/2404.02903v1)
+- 2024-04-03, **Guarantees of confidentiality via Hammersley-Chapman-Robbins bounds**, Kamalika Chaudhuri et.al., Paper: [http://arxiv.org/abs/2404.02866v1](http://arxiv.org/abs/2404.02866v1), Code: **[https://github.com/facebookresearch/hcrbounds](https://github.com/facebookresearch/hcrbounds)**
+- 2024-04-03, **Semisimple Algebras of Vector Fields on $\mathbb{C}^{3}$**, Sajid Ali et.al., Paper: [http://arxiv.org/abs/2404.02847v1](http://arxiv.org/abs/2404.02847v1)
+- 2024-04-03, **GPU-Accelerated RSF Level Set Evolution for Large-Scale Microvascular Segmentation**, Meher Niger et.al., Paper: [http://arxiv.org/abs/2404.02813v1](http://arxiv.org/abs/2404.02813v1)
+- 2024-04-03, **Generative-Contrastive Heterogeneous Graph Neural Network**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2404.02810v1](http://arxiv.org/abs/2404.02810v1)
+- 2024-04-03, **FPT: Feature Prompt Tuning for Few-shot Readability Assessment**, Ziyang Wang et.al., Paper: [http://arxiv.org/abs/2404.02772v1](http://arxiv.org/abs/2404.02772v1), Code: **[https://github.com/wzy232303/fpt](https://github.com/wzy232303/fpt)**
+- 2024-04-03, **DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement**, Hao Wu et.al., Paper: [http://arxiv.org/abs/2404.02755v1](http://arxiv.org/abs/2404.02755v1)
+- 2024-04-03, **Terraced Compression Method with Automated Threshold Selection for Multidimensional Image Clustering of Heterogeneous Bodies**, Jiatong Li et.al., Paper: [http://arxiv.org/abs/2404.02744v1](http://arxiv.org/abs/2404.02744v1)
+- 2024-04-03, **Event Camera Demosaicing via Swin Transformer and Pixel-focus Loss**, Yunfan Lu et.al., Paper: [http://arxiv.org/abs/2404.02731v1](http://arxiv.org/abs/2404.02731v1), Code: **[https://github.com/yunfanlu/ev-demosaic](https://github.com/yunfanlu/ev-demosaic)**
+- 2024-04-03, **Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2404.02706v1](http://arxiv.org/abs/2404.02706v1)
 - 2024-04-02, **Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2404.02148v1](http://arxiv.org/abs/2404.02148v1), Code: **[https://github.com/fudan-zvg/diffusion-square](https://github.com/fudan-zvg/diffusion-square)**
 - 2024-04-02, **Multiparametric quantification and visualization of liver fat using ultrasound**, Jihye Baek et.al., Paper: [http://arxiv.org/abs/2404.02143v1](http://arxiv.org/abs/2404.02143v1)
 - 2024-04-03, **ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**, Ryan Donghan Kwon et.al., Paper: [http://arxiv.org/abs/2404.02135v2](http://arxiv.org/abs/2404.02135v2)
@@ -4570,6 +4580,16 @@
 
 ## MultiModal
 
+- 2024-04-03, **Linear Attention Sequence Parallelism**, Weigao Sun et.al., Paper: [http://arxiv.org/abs/2404.02882v1](http://arxiv.org/abs/2404.02882v1), Code: **[https://github.com/opennlplab/lasp](https://github.com/opennlplab/lasp)**
+- 2024-04-03, **An Error-Bounded Lossy Compression Method with Bit-Adaptive Quantization for Particle Data**, Congrong Ren et.al., Paper: [http://arxiv.org/abs/2404.02826v1](http://arxiv.org/abs/2404.02826v1)
+- 2024-04-03, **PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders**, Yu Pan et.al., Paper: [http://arxiv.org/abs/2404.02702v1](http://arxiv.org/abs/2404.02702v1)
+- 2024-04-03, **Independently Keypoint Learning for Small Object Semantic Correspondence**, Hailong Jin et.al., Paper: [http://arxiv.org/abs/2404.02678v1](http://arxiv.org/abs/2404.02678v1)
+- 2024-04-03, **SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation**, Junyan Ye et.al., Paper: [http://arxiv.org/abs/2404.02638v1](http://arxiv.org/abs/2404.02638v1), Code: **[https://github.com/yejy53/sg-bev](https://github.com/yejy53/sg-bev)**
+- 2024-04-03, **Multi-Granularity Guided Fusion-in-Decoder**, Eunseong Choi et.al., Paper: [http://arxiv.org/abs/2404.02581v1](http://arxiv.org/abs/2404.02581v1), Code: **[https://github.com/eunseongc/mgfid](https://github.com/eunseongc/mgfid)**
+- 2024-04-03, **On-the-Go Tree Detection and Geometric Traits Estimation with Ground Mobile Robots in Fruit Tree Groves**, Dimitrios Chatziparaschis et.al., Paper: [http://arxiv.org/abs/2404.02516v1](http://arxiv.org/abs/2404.02516v1)
+- 2024-04-03, **Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots**, Taku Okawara et.al., Paper: [http://arxiv.org/abs/2404.02515v1](http://arxiv.org/abs/2404.02515v1)
+- 2024-04-03, **TSNet:A Two-stage Network for Image Dehazing with Multi-scale Fusion and Adaptive Learning**, Xiaolin Gong et.al., Paper: [http://arxiv.org/abs/2404.02460v1](http://arxiv.org/abs/2404.02460v1)
+- 2024-04-03, **A Novel Approach to Breast Cancer Histopathological Image Classification Using Cross-Colour Space Feature Fusion and Quantum-Classical Stack Ensemble Method**, Sambit Mallick et.al., Paper: [http://arxiv.org/abs/2404.02447v1](http://arxiv.org/abs/2404.02447v1)
 - 2024-04-02, **Segment Any 3D Object with Language**, Seungjun Lee et.al., Paper: [http://arxiv.org/abs/2404.02157v1](http://arxiv.org/abs/2404.02157v1)
 - 2024-04-02, **Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**, Jiyuan Zhong et.al., Paper: [http://arxiv.org/abs/2404.02084v1](http://arxiv.org/abs/2404.02084v1)
 - 2024-04-02, **Enhancing Portfolio Optimization with Transformer-GAN Integration: A Novel Approach in the Black-Litterman Framework**, Enmin Zhu et.al., Paper: [http://arxiv.org/abs/2404.02029v1](http://arxiv.org/abs/2404.02029v1)
