@@ -4,7 +4,7 @@
 
 - 2024-04-02, **Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2404.02148v1](http://arxiv.org/abs/2404.02148v1), Code: **[https://github.com/fudan-zvg/diffusion-square](https://github.com/fudan-zvg/diffusion-square)**
 - 2024-04-02, **Multiparametric quantification and visualization of liver fat using ultrasound**, Jihye Baek et.al., Paper: [http://arxiv.org/abs/2404.02143v1](http://arxiv.org/abs/2404.02143v1)
-- 2024-04-02, **ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**, Ryan Donghan Kwon et.al., Paper: [http://arxiv.org/abs/2404.02135v1](http://arxiv.org/abs/2404.02135v1)
+- 2024-04-03, **ResNet with Integrated Convolutional Block Attention Module for Ship Classification Using Transfer Learning on Optical Satellite Imagery**, Ryan Donghan Kwon et.al., Paper: [http://arxiv.org/abs/2404.02135v2](http://arxiv.org/abs/2404.02135v2)
 - 2024-04-02, **ViTamin: Designing Scalable Vision Models in the Vision-Language Era**, Jienneg Chen et.al., Paper: [http://arxiv.org/abs/2404.02132v1](http://arxiv.org/abs/2404.02132v1), Code: **[https://github.com/beckschen/vitamin](https://github.com/beckschen/vitamin)**
 - 2024-04-02, **ImageNot: A contrast with ImageNet preserves model rankings**, Olawale Salaudeen et.al., Paper: [http://arxiv.org/abs/2404.02112v1](http://arxiv.org/abs/2404.02112v1)
 - 2024-04-02, **CameraCtrl: Enabling Camera Control for Text-to-Video Generation**, Hao He et.al., Paper: [http://arxiv.org/abs/2404.02101v1](http://arxiv.org/abs/2404.02101v1), Code: **[https://github.com/hehao13/cameractrl](https://github.com/hehao13/cameractrl)**
