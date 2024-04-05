@@ -1,4 +1,4 @@
-> Updated on 2024.04.04
+> Updated on 2024.04.05
 
 ## Video_Classification
 
@@ -4581,7 +4581,7 @@
 ## MultiModal
 
 - 2024-04-03, **Linear Attention Sequence Parallelism**, Weigao Sun et.al., Paper: [http://arxiv.org/abs/2404.02882v1](http://arxiv.org/abs/2404.02882v1), Code: **[https://github.com/opennlplab/lasp](https://github.com/opennlplab/lasp)**
-- 2024-04-03, **An Error-Bounded Lossy Compression Method with Bit-Adaptive Quantization for Particle Data**, Congrong Ren et.al., Paper: [http://arxiv.org/abs/2404.02826v1](http://arxiv.org/abs/2404.02826v1)
+- 2024-04-04, **An Error-Bounded Lossy Compression Method with Bit-Adaptive Quantization for Particle Data**, Congrong Ren et.al., Paper: [http://arxiv.org/abs/2404.02826v2](http://arxiv.org/abs/2404.02826v2)
 - 2024-04-03, **PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders**, Yu Pan et.al., Paper: [http://arxiv.org/abs/2404.02702v1](http://arxiv.org/abs/2404.02702v1)
 - 2024-04-03, **Independently Keypoint Learning for Small Object Semantic Correspondence**, Hailong Jin et.al., Paper: [http://arxiv.org/abs/2404.02678v1](http://arxiv.org/abs/2404.02678v1)
 - 2024-04-03, **SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation**, Junyan Ye et.al., Paper: [http://arxiv.org/abs/2404.02638v1](http://arxiv.org/abs/2404.02638v1), Code: **[https://github.com/yejy53/sg-bev](https://github.com/yejy53/sg-bev)**
