@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-04, **OW-VISCap: Open-World Video Instance Segmentation and Captioning**, Anwesa Choudhuri et.al., Paper: [http://arxiv.org/abs/2404.03657v1](http://arxiv.org/abs/2404.03657v1)
+- 2024-04-04, **Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation**, Shuting He et.al., Paper: [http://arxiv.org/abs/2404.03645v1](http://arxiv.org/abs/2404.03645v1), Code: **[https://github.com/heshuting555/dshmp](https://github.com/heshuting555/dshmp)**
+- 2024-04-04, **On the Efficiency of Convolutional Neural Networks**, Andrew Lavin et.al., Paper: [http://arxiv.org/abs/2404.03617v1](http://arxiv.org/abs/2404.03617v1)
+- 2024-04-04, **Creator Hearts: Investigating the Impact Positive Signals from YouTube Creators in Shaping Comment Section Behavior**, Frederick Choi et.al., Paper: [http://arxiv.org/abs/2404.03612v1](http://arxiv.org/abs/2404.03612v1)
+- 2024-04-04, **InsectMamba: Insect Pest Classification with State Space Model**, Qianning Wang et.al., Paper: [http://arxiv.org/abs/2404.03611v1](http://arxiv.org/abs/2404.03611v1)
+- 2024-04-04, **DiffDet4SAR: Diffusion-based Aircraft Target Detection Network for SAR Images**, Zhou Jie et.al., Paper: [http://arxiv.org/abs/2404.03595v1](http://arxiv.org/abs/2404.03595v1), Code: **[https://github.com/JoyeZLearning/DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)**
+- 2024-04-04, **Alzheimer's disease detection in PSG signals**, Lorena Gallego-Viñarás et.al., Paper: [http://arxiv.org/abs/2404.03549v1](http://arxiv.org/abs/2404.03549v1)
+- 2024-04-04, **Towards Transcranial 3D Ultrasound Localization Microscopy of the Nonhuman Primate Brain**, Paul Xing et.al., Paper: [http://arxiv.org/abs/2404.03547v1](http://arxiv.org/abs/2404.03547v1)
+- 2024-04-04, **Segmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models**, Siyuan Mei et.al., Paper: [http://arxiv.org/abs/2404.03541v1](http://arxiv.org/abs/2404.03541v1)
+- 2024-04-04, **A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**, Iqra Bano et.al., Paper: [http://arxiv.org/abs/2404.03493v1](http://arxiv.org/abs/2404.03493v1)
 - 2024-04-03, **LidarDM: Generative LiDAR Simulation in a Generated World**, Vlas Zyrianov et.al., Paper: [http://arxiv.org/abs/2404.02903v1](http://arxiv.org/abs/2404.02903v1)
 - 2024-04-03, **Guarantees of confidentiality via Hammersley-Chapman-Robbins bounds**, Kamalika Chaudhuri et.al., Paper: [http://arxiv.org/abs/2404.02866v1](http://arxiv.org/abs/2404.02866v1), Code: **[https://github.com/facebookresearch/hcrbounds](https://github.com/facebookresearch/hcrbounds)**
 - 2024-04-03, **Semisimple Algebras of Vector Fields on $\mathbb{C}^{3}$**, Sajid Ali et.al., Paper: [http://arxiv.org/abs/2404.02847v1](http://arxiv.org/abs/2404.02847v1)
@@ -4580,6 +4590,16 @@
 
 ## MultiModal
 
+- 2024-04-04, **Reference-Based 3D-Aware Image Editing with Triplane**, Bahri Batuhan Bilecen et.al., Paper: [http://arxiv.org/abs/2404.03632v1](http://arxiv.org/abs/2404.03632v1)
+- 2024-04-04, **On the Efficiency of Convolutional Neural Networks**, Andrew Lavin et.al., Paper: [http://arxiv.org/abs/2404.03617v1](http://arxiv.org/abs/2404.03617v1)
+- 2024-04-04, **HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion**, Jiahang Li et.al., Paper: [http://arxiv.org/abs/2404.03527v1](http://arxiv.org/abs/2404.03527v1), Code: **[https://github.com/LiJiahang617/HAPNet](https://github.com/LiJiahang617/HAPNet)**
+- 2024-04-04, **Design and Optimization of Cooperative Sensing With Limited Backhaul Capacity**, Wenrui Li et.al., Paper: [http://arxiv.org/abs/2404.03440v1](http://arxiv.org/abs/2404.03440v1)
+- 2024-04-04, **Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**, Raffael Theiler et.al., Paper: [http://arxiv.org/abs/2404.03368v1](http://arxiv.org/abs/2404.03368v1)
+- 2024-04-04, **Fusion of Mixture of Experts and Generative Artificial Intelligence in Mobile Edge Metaverse**, Guangyuan Liu et.al., Paper: [http://arxiv.org/abs/2404.03321v1](http://arxiv.org/abs/2404.03321v1)
+- 2024-04-04, **Diverse and Tailored Image Generation for Zero-shot Multi-label Classification**, Kaixin Zhang et.al., Paper: [http://arxiv.org/abs/2404.03144v1](http://arxiv.org/abs/2404.03144v1)
+- 2024-04-03, **GeoT: Tensor Centric Library for Graph Neural Network via Efficient Segment Reduction on GPU**, Zhongming Yu et.al., Paper: [http://arxiv.org/abs/2404.03019v1](http://arxiv.org/abs/2404.03019v1), Code: **[https://github.com/fishmingyu/geot](https://github.com/fishmingyu/geot)**
+- 2024-04-03, **Incorporating non-linear effects in fast semi-analytical thermal modelling of powder bed fusion**, Shaun R. Cooke et.al., Paper: [http://arxiv.org/abs/2404.03018v1](http://arxiv.org/abs/2404.03018v1)
+- 2024-04-03, **DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**, Felix Fent et.al., Paper: [http://arxiv.org/abs/2404.03015v1](http://arxiv.org/abs/2404.03015v1)
 - 2024-04-03, **Linear Attention Sequence Parallelism**, Weigao Sun et.al., Paper: [http://arxiv.org/abs/2404.02882v1](http://arxiv.org/abs/2404.02882v1), Code: **[https://github.com/opennlplab/lasp](https://github.com/opennlplab/lasp)**
 - 2024-04-04, **An Error-Bounded Lossy Compression Method with Bit-Adaptive Quantization for Particle Data**, Congrong Ren et.al., Paper: [http://arxiv.org/abs/2404.02826v2](http://arxiv.org/abs/2404.02826v2)
 - 2024-04-03, **PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders**, Yu Pan et.al., Paper: [http://arxiv.org/abs/2404.02702v1](http://arxiv.org/abs/2404.02702v1)
