@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**On classification of global dynamics for energy-critical equivariant harmonic map heat flows and radial nonlinear heat equation**|Kihyun Kim et.al.|[2404.04247v1](http://arxiv.org/abs/2404.04247v1)|null|
+|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245v1](http://arxiv.org/abs/2404.04245v1)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234v1](http://arxiv.org/abs/2404.04234v1)|null|
+|**2024-04-05**|**Deep-learning Segmentation of Small Volumes in CT images for Radiotherapy Treatment Planning**|Jianxin Zhou et.al.|[2404.04202v1](http://arxiv.org/abs/2404.04202v1)|null|
+|**2024-04-05**|**SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers**|Weile Li et.al.|[2404.04179v1](http://arxiv.org/abs/2404.04179v1)|**[link](https://github.com/lisavilalee/scaresnet_mmdet)**|
+|**2024-04-05**|**Noisy Label Processing for Classification: A Survey**|Mengting Li et.al.|[2404.04159v1](http://arxiv.org/abs/2404.04159v1)|null|
+|**2024-04-05**|**Improving Detection in Aerial Images by Capturing Inter-Object Relationships**|Botao Ren et.al.|[2404.04140v1](http://arxiv.org/abs/2404.04140v1)|null|
+|**2024-04-05**|**Label Propagation for Zero-shot Classification with Vision-Language Models**|Vladan Stojnić et.al.|[2404.04072v1](http://arxiv.org/abs/2404.04072v1)|**[link](https://github.com/vladan-stojnic/zlap)**|
+|**2024-04-05**|**VoicePilot: Harnessing LLMs as Speech Interfaces for Physically Assistive Robots**|Akhil Padmanabha et.al.|[2404.04066v1](http://arxiv.org/abs/2404.04066v1)|null|
+|**2024-04-05**|**Phase Binarization in Mutually Synchronized Bias Field-free Spin Hall Nano-oscillators for Reservoir Computing**|Sourabh Manna et.al.|[2404.04023v1](http://arxiv.org/abs/2404.04023v1)|null|
 |**2024-04-04**|**OW-VISCap: Open-World Video Instance Segmentation and Captioning**|Anwesa Choudhuri et.al.|[2404.03657v1](http://arxiv.org/abs/2404.03657v1)|null|
 |**2024-04-04**|**Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation**|Shuting He et.al.|[2404.03645v1](http://arxiv.org/abs/2404.03645v1)|**[link](https://github.com/heshuting555/dshmp)**|
 |**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617v1](http://arxiv.org/abs/2404.03617v1)|null|
@@ -4598,6 +4608,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
+|**2024-04-05**|**Numerical study of neutral and charged microgel suspensions: from single-particle to collective behavior**|Giovanni Del Monte et.al.|[2404.04032v1](http://arxiv.org/abs/2404.04032v1)|null|
+|**2024-04-05**|**MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**|Chenyang Wu et.al.|[2404.04026v1](http://arxiv.org/abs/2404.04026v1)|null|
+|**2024-04-05**|**Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models**|Gihyun Kwon et.al.|[2404.03913v1](http://arxiv.org/abs/2404.03913v1)|null|
+|**2024-04-05**|**LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification**|Judy X Yang et.al.|[2404.03883v1](http://arxiv.org/abs/2404.03883v1)|null|
+|**2024-04-04**|**Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer**|Qinji Yu et.al.|[2404.03819v1](http://arxiv.org/abs/2404.03819v1)|null|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632v1](http://arxiv.org/abs/2404.03632v1)|null|
 |**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617v1](http://arxiv.org/abs/2404.03617v1)|null|
 |**2024-04-04**|**HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion**|Jiahang Li et.al.|[2404.03527v1](http://arxiv.org/abs/2404.03527v1)|**[link](https://github.com/LiJiahang617/HAPNet)**|
