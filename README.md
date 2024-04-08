@@ -1,4 +1,4 @@
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@
 |**2024-04-04**|**Alzheimer's disease detection in PSG signals**|Lorena Gallego-Viñarás et.al.|[2404.03549v1](http://arxiv.org/abs/2404.03549v1)|null|
 |**2024-04-04**|**Towards Transcranial 3D Ultrasound Localization Microscopy of the Nonhuman Primate Brain**|Paul Xing et.al.|[2404.03547v1](http://arxiv.org/abs/2404.03547v1)|null|
 |**2024-04-04**|**Segmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models**|Siyuan Mei et.al.|[2404.03541v1](http://arxiv.org/abs/2404.03541v1)|null|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v2](http://arxiv.org/abs/2404.03493v2)|null|
 |**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|null|
 |**2024-04-03**|**Guarantees of confidentiality via Hammersley-Chapman-Robbins bounds**|Kamalika Chaudhuri et.al.|[2404.02866v1](http://arxiv.org/abs/2404.02866v1)|**[link](https://github.com/facebookresearch/hcrbounds)**|
 |**2024-04-03**|**Semisimple Algebras of Vector Fields on $\mathbb{C}^{3}$**|Sajid Ali et.al.|[2404.02847v1](http://arxiv.org/abs/2404.02847v1)|null|
