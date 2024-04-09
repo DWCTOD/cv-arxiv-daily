@@ -1,4 +1,4 @@
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 
 ## Video_Classification
 
@@ -4613,7 +4613,7 @@
 |**2024-04-04**|**Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer**|Qinji Yu et.al.|[2404.03819v1](http://arxiv.org/abs/2404.03819v1)|null|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632v1](http://arxiv.org/abs/2404.03632v1)|null|
 |**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617v1](http://arxiv.org/abs/2404.03617v1)|null|
-|**2024-04-04**|**HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion**|Jiahang Li et.al.|[2404.03527v1](http://arxiv.org/abs/2404.03527v1)|**[link](https://github.com/LiJiahang617/HAPNet)**|
+|**2024-04-06**|**HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion**|Jiahang Li et.al.|[2404.03527v2](http://arxiv.org/abs/2404.03527v2)|**[link](https://github.com/LiJiahang617/HAPNet)**|
 |**2024-04-04**|**Design and Optimization of Cooperative Sensing With Limited Backhaul Capacity**|Wenrui Li et.al.|[2404.03440v1](http://arxiv.org/abs/2404.03440v1)|null|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368v1](http://arxiv.org/abs/2404.03368v1)|null|
 |**2024-04-04**|**Fusion of Mixture of Experts and Generative Artificial Intelligence in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2404.03321v1](http://arxiv.org/abs/2404.03321v1)|null|
