@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726v1](http://arxiv.org/abs/2404.05726v1)|null|
+|**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723v1](http://arxiv.org/abs/2404.05723v1)|null|
+|**2024-04-08**|**Case Study: Neural Network Malware Detection Verification for Feature and Image Datasets**|Preston K. Robinette et.al.|[2404.05703v1](http://arxiv.org/abs/2404.05703v1)|null|
+|**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694v1](http://arxiv.org/abs/2404.05694v1)|null|
+|**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693v1](http://arxiv.org/abs/2404.05693v1)|null|
+|**2024-04-08**|**AlignZeg: Mitigating Objective Misalignment for Zero-shot Semantic Segmentation**|Jiannan Ge et.al.|[2404.05667v1](http://arxiv.org/abs/2404.05667v1)|null|
+|**2024-04-08**|**Oblique photons, plasmons, and current-plasmons in relativistic plasmas and their topological implications**|Hong Qin et.al.|[2404.05636v1](http://arxiv.org/abs/2404.05636v1)|null|
+|**2024-04-08**|**AnchorAL: Computationally Efficient Active Learning for Large and Imbalanced Datasets**|Pietro Lesci et.al.|[2404.05623v1](http://arxiv.org/abs/2404.05623v1)|null|
+|**2024-04-08**|**Experimental observation of a time rondeau crystal: Temporal Disorder in Spatiotemporal Order**|Leo Joon Il Moon et.al.|[2404.05620v1](http://arxiv.org/abs/2404.05620v1)|null|
+|**2024-04-08**|**Self-Explainable Affordance Learning with Embodied Caption**|Zhipeng Zhang et.al.|[2404.05603v1](http://arxiv.org/abs/2404.05603v1)|null|
 |**2024-04-05**|**On classification of global dynamics for energy-critical equivariant harmonic map heat flows and radial nonlinear heat equation**|Kihyun Kim et.al.|[2404.04247v1](http://arxiv.org/abs/2404.04247v1)|null|
 |**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245v1](http://arxiv.org/abs/2404.04245v1)|null|
 |**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234v1](http://arxiv.org/abs/2404.04234v1)|null|
@@ -4608,6 +4618,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723v1](http://arxiv.org/abs/2404.05723v1)|null|
+|**2024-04-08**|**Complete NLO QCD Corrections to $ZZ$ Production in Gluon Fusion**|Bakul Agarwal et.al.|[2404.05684v1](http://arxiv.org/abs/2404.05684v1)|null|
+|**2024-04-08**|**CDAD-Net: Bridging Domain Gaps in Generalized Category Discovery**|Sai Bhargav Rongali et.al.|[2404.05366v1](http://arxiv.org/abs/2404.05366v1)|null|
+|**2024-04-08**|**A parameter-free clustering algorithm for missing datasets**|Qi Li et.al.|[2404.05363v1](http://arxiv.org/abs/2404.05363v1)|null|
+|**2024-04-08**|**Unsupervised Band Selection Using Fused HSI and LiDAR Attention Integrating With Autoencoder**|Judy X Yang et.al.|[2404.05258v1](http://arxiv.org/abs/2404.05258v1)|null|
+|**2024-04-08**|**Empirical Upscaling of Point-scale Soil Moisture Measurements for Spatial Evaluation of Model Simulations and Satellite Retrievals**|Yi Yu et.al.|[2404.05229v1](http://arxiv.org/abs/2404.05229v1)|null|
+|**2024-04-08**|**Conjugacy class fusion from four maximal subgroups of the Monster**|Anthony Pisani et.al.|[2404.05194v1](http://arxiv.org/abs/2404.05194v1)|null|
+|**2024-04-08**|**LGSDF: Continual Global Learning of Signed Distance Fields Aided by Local Updating**|Yufeng Yue et.al.|[2404.05187v1](http://arxiv.org/abs/2404.05187v1)|**[link](https://github.com/bit-dyn/lgsdf)**|
+|**2024-04-08**|**Progressive Alignment with VLM-LLM Feature to Augment Defect Classification for the ASE Dataset**|Chih-Chung Hsu et.al.|[2404.05183v1](http://arxiv.org/abs/2404.05183v1)|null|
+|**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
 |**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
 |**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
 |**2024-04-05**|**Numerical study of neutral and charged microgel suspensions: from single-particle to collective behavior**|Giovanni Del Monte et.al.|[2404.04032v1](http://arxiv.org/abs/2404.04032v1)|null|
