@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511v1](http://arxiv.org/abs/2404.06511v1)|null|
+|**2024-04-09**|**Reconstructing Hand-Held Objects in 3D**|Jane Wu et.al.|[2404.06507v1](http://arxiv.org/abs/2404.06507v1)|null|
+|**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499v1](http://arxiv.org/abs/2404.06499v1)|null|
+|**2024-04-09**|**Flying With Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493v1](http://arxiv.org/abs/2404.06493v1)|null|
+|**2024-04-09**|**Uncovering Tidal Treasures: Automated Classification of Faint Tidal Features in DECaLS Data**|Alexander J. Gordon et.al.|[2404.06487v1](http://arxiv.org/abs/2404.06487v1)|null|
+|**2024-04-09**|**RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**|Bochao Zou et.al.|[2404.06483v1](http://arxiv.org/abs/2404.06483v1)|null|
+|**2024-04-09**|**Laue Indexing with Optimal Transport**|Tomasz Kacprzak et.al.|[2404.06478v1](http://arxiv.org/abs/2404.06478v1)|null|
+|**2024-04-09**|**A comparative analysis of deep learning models for lung segmentation on X-ray images**|Weronika Hryniewska-Guzik et.al.|[2404.06455v1](http://arxiv.org/abs/2404.06455v1)|**[link](https://github.com/hryniewska/lung-segmentation-on-x-rays)**|
+|**2024-04-09**|**QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding**|Yash Mehan et.al.|[2404.06442v1](http://arxiv.org/abs/2404.06442v1)|null|
+|**2024-04-09**|**ClassiPyGRB: Machine Learning-Based Classification and Visualization of Gamma Ray Bursts using t-SNE**|Keneth Garcia-Cifuentes et.al.|[2404.06439v1](http://arxiv.org/abs/2404.06439v1)|null|
 |**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726v1](http://arxiv.org/abs/2404.05726v1)|null|
 |**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723v1](http://arxiv.org/abs/2404.05723v1)|null|
 |**2024-04-08**|**Case Study: Neural Network Malware Detection Verification for Feature and Image Datasets**|Preston K. Robinette et.al.|[2404.05703v1](http://arxiv.org/abs/2404.05703v1)|null|
@@ -4618,6 +4628,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Radon-Hurwitz Grassmannian codes**|Matthew Fickus et.al.|[2404.06417v1](http://arxiv.org/abs/2404.06417v1)|null|
+|**2024-04-09**|**Flow Fusion, Exploiting Measurement Redundancy for Smarter Allocation**|Christine Foss Sjulstad et.al.|[2404.06328v1](http://arxiv.org/abs/2404.06328v1)|null|
+|**2024-04-09**|**Playing to Vision Foundation Model's Strengths in Stereo Matching**|Chuang-Wei Liu et.al.|[2404.06261v1](http://arxiv.org/abs/2404.06261v1)|null|
+|**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[2404.06256v1](http://arxiv.org/abs/2404.06256v1)|null|
+|**2024-04-09**|**Streamlined Transmission: A Semantic-Aware XR Deployment Framework Enhanced by Generative AI**|Wanting Yang et.al.|[2404.06182v1](http://arxiv.org/abs/2404.06182v1)|null|
+|**2024-04-09**|**EPL: Evidential Prototype Learning for Semi-supervised Medical Image Segmentation**|Yuanpeng He et.al.|[2404.06181v1](http://arxiv.org/abs/2404.06181v1)|null|
+|**2024-04-09**|**Uncertainty-aware Evidential Fusion-based Learning for Semi-supervised Medical Image Segmentation**|Yuanpeng He et.al.|[2404.06177v1](http://arxiv.org/abs/2404.06177v1)|null|
+|**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165v1](http://arxiv.org/abs/2404.06165v1)|null|
+|**2024-04-09**|**FLEX: FLEXible Federated Learning Framework**|Francisco Herrera et.al.|[2404.06127v1](http://arxiv.org/abs/2404.06127v1)|**[link](https://github.com/SMILELab-FL/FedLab)**|
+|**2024-04-09**|**Hierarchical Insights: Exploiting Structural Similarities for Reliable 3D Semantic Segmentation**|Mariella Dreissig et.al.|[2404.06124v1](http://arxiv.org/abs/2404.06124v1)|null|
 |**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723v1](http://arxiv.org/abs/2404.05723v1)|null|
 |**2024-04-08**|**Complete NLO QCD Corrections to $ZZ$ Production in Gluon Fusion**|Bakul Agarwal et.al.|[2404.05684v1](http://arxiv.org/abs/2404.05684v1)|null|
 |**2024-04-08**|**CDAD-Net: Bridging Domain Gaps in Generalized Category Discovery**|Sai Bhargav Rongali et.al.|[2404.05366v1](http://arxiv.org/abs/2404.05366v1)|null|
