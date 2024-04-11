@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199v1](http://arxiv.org/abs/2404.07199v1)|null|
+|**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188v1](http://arxiv.org/abs/2404.07188v1)|null|
+|**2024-04-10**|**Adinkras and Pure Spinors**|Richard Eager et.al.|[2404.07167v1](http://arxiv.org/abs/2404.07167v1)|null|
+|**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153v1](http://arxiv.org/abs/2404.07153v1)|null|
+|**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128v1](http://arxiv.org/abs/2404.07128v1)|null|
+|**2024-04-10**|**Measuring proximity to standard planes during fetal brain ultrasound scanning**|Chiara Di Vece et.al.|[2404.07124v1](http://arxiv.org/abs/2404.07124v1)|null|
+|**2024-04-10**|**"My toxic trait is thinking I'll remember this": gaps in the learner experience of video tutorials for feature-rich software**|Ian Drosos et.al.|[2404.07114v1](http://arxiv.org/abs/2404.07114v1)|null|
+|**2024-04-10**|**The generic dual of p-adic groups and applications**|Chris Jantzen et.al.|[2404.07111v1](http://arxiv.org/abs/2404.07111v1)|null|
+|**2024-04-10**|**Learning Priors for Non Rigid SfM from Casual Videos**|Yoni Kasten et.al.|[2404.07097v1](http://arxiv.org/abs/2404.07097v1)|null|
+|**2024-04-10**|**VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning**|Alexandros Xenos et.al.|[2404.07078v1](http://arxiv.org/abs/2404.07078v1)|**[link](https://github.com/nickyfot/emocommonsense)**|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511v1](http://arxiv.org/abs/2404.06511v1)|null|
 |**2024-04-10**|**Reconstructing Hand-Held Objects in 3D**|Jane Wu et.al.|[2404.06507v2](http://arxiv.org/abs/2404.06507v2)|null|
 |**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499v1](http://arxiv.org/abs/2404.06499v1)|null|
@@ -4628,6 +4638,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Temperature Prediction for Stored Grain: A Multi-model Fusion Strategy Based on Machine Learning**|Donghao Chen et.al.|[2404.07175v1](http://arxiv.org/abs/2404.07175v1)|null|
+|**2024-04-10**|**TransTARec: Time-Adaptive Translating Embedding Model for Next POI Recommendation**|Yiping Sun et.al.|[2404.07096v1](http://arxiv.org/abs/2404.07096v1)|null|
+|**2024-04-10**|**Particle Scattering and Fusion for the Ablowitz-Ladik Chain**|Alberto Brollo et.al.|[2404.07095v1](http://arxiv.org/abs/2404.07095v1)|null|
+|**2024-04-10**|**Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model**|Yijia Chen et.al.|[2404.07072v1](http://arxiv.org/abs/2404.07072v1)|**[link](https://github.com/CXH-Research/IRFormer)**|
+|**2024-04-10**|**An Evidential-enhanced Tri-Branch Consistency Learning Method for Semi-supervised Medical Image Segmentation**|Zhenxi Zhang et.al.|[2404.07032v1](http://arxiv.org/abs/2404.07032v1)|null|
+|**2024-04-10**|**PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles**|Zhengru Fang et.al.|[2404.06891v1](http://arxiv.org/abs/2404.06891v1)|null|
+|**2024-04-10**|**Scaling Multi-Camera 3D Object Detection through Weak-to-Strong Eliciting**|Hao Lu et.al.|[2404.06700v1](http://arxiv.org/abs/2404.06700v1)|**[link](https://github.com/envision-research/scale-bev)**|
+|**2024-04-09**|**On Frobenius-Schur exponent bounds**|Agustina Czenky et.al.|[2404.06643v1](http://arxiv.org/abs/2404.06643v1)|null|
+|**2024-04-09**|**A General Identification Algorithm For Data Fusion Problems Under Systematic Selection**|Jaron J. R. Lee et.al.|[2404.06602v1](http://arxiv.org/abs/2404.06602v1)|null|
 |**2024-04-09**|**Radon-Hurwitz Grassmannian codes**|Matthew Fickus et.al.|[2404.06417v1](http://arxiv.org/abs/2404.06417v1)|null|
 |**2024-04-09**|**Flow Fusion, Exploiting Measurement Redundancy for Smarter Allocation**|Christine Foss Sjulstad et.al.|[2404.06328v1](http://arxiv.org/abs/2404.06328v1)|null|
 |**2024-04-09**|**Playing to Vision Foundation Model's Strengths in Stereo Matching**|Chuang-Wei Liu et.al.|[2404.06261v1](http://arxiv.org/abs/2404.06261v1)|null|
