@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-11, **Connecting NeRFs, Images, and Text**, Francesco Ballerini et.al., Paper: [http://arxiv.org/abs/2404.07993v1](http://arxiv.org/abs/2404.07993v1)
+- 2024-04-11, **GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh**, Jing Wen et.al., Paper: [http://arxiv.org/abs/2404.07991v1](http://arxiv.org/abs/2404.07991v1)
+- 2024-04-11, **WaveMo: Learning Wavefront Modulations to See Through Scattering**, Mingyang Xie et.al., Paper: [http://arxiv.org/abs/2404.07985v1](http://arxiv.org/abs/2404.07985v1)
+- 2024-04-11, **Gaga: Group Any Gaussians via 3D-aware Memory Bank**, Weijie Lyu et.al., Paper: [http://arxiv.org/abs/2404.07977v1](http://arxiv.org/abs/2404.07977v1)
+- 2024-04-11, **FusionMamba: Efficient Image Fusion with State Space Model**, Siran Peng et.al., Paper: [http://arxiv.org/abs/2404.07932v1](http://arxiv.org/abs/2404.07932v1)
+- 2024-04-11, **HGRN2: Gated Linear RNNs with State Expansion**, Zhen Qin et.al., Paper: [http://arxiv.org/abs/2404.07904v1](http://arxiv.org/abs/2404.07904v1), Code: **[https://github.com/opennlplab/hgrn2](https://github.com/opennlplab/hgrn2)**
+- 2024-04-11, **Q-ITAGS: Quality-Optimized Spatio-Temporal Heterogeneous Task Allocation with a Time Budget**, Glen Neville et.al., Paper: [http://arxiv.org/abs/2404.07902v1](http://arxiv.org/abs/2404.07902v1)
+- 2024-04-11, **Auditing health-related recommendations in social media: A Case Study of Abortion on YouTube**, Mohammed Lahsaini et.al., Paper: [http://arxiv.org/abs/2404.07896v1](http://arxiv.org/abs/2404.07896v1)
+- 2024-04-11, **Typical blocks of the category $\mathcal O$ and Whittaker modules for Takiff superalgebras**, Chih-Whi Chen et.al., Paper: [http://arxiv.org/abs/2404.07894v1](http://arxiv.org/abs/2404.07894v1)
+- 2024-04-11, **Context-aware Video Anomaly Detection in Long-Term Datasets**, Zhengye Yang et.al., Paper: [http://arxiv.org/abs/2404.07887v1](http://arxiv.org/abs/2404.07887v1)
 - 2024-04-10, **RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**, Jaidev Shriram et.al., Paper: [http://arxiv.org/abs/2404.07199v1](http://arxiv.org/abs/2404.07199v1)
 - 2024-04-10, **GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**, Bingyi Zhang et.al., Paper: [http://arxiv.org/abs/2404.07188v1](http://arxiv.org/abs/2404.07188v1)
 - 2024-04-10, **Adinkras and Pure Spinors**, Richard Eager et.al., Paper: [http://arxiv.org/abs/2404.07167v1](http://arxiv.org/abs/2404.07167v1)
@@ -4630,6 +4640,16 @@
 
 ## MultiModal
 
+- 2024-04-11, **FusionMamba: Efficient Image Fusion with State Space Model**, Siran Peng et.al., Paper: [http://arxiv.org/abs/2404.07932v1](http://arxiv.org/abs/2404.07932v1)
+- 2024-04-11, **Low-rank Adaptation for Spatio-Temporal Forecasting**, Weilin Ruan et.al., Paper: [http://arxiv.org/abs/2404.07919v1](http://arxiv.org/abs/2404.07919v1)
+- 2024-04-11, **Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting**, Lei Chen et.al., Paper: [http://arxiv.org/abs/2404.07847v1](http://arxiv.org/abs/2404.07847v1)
+- 2024-04-11, **VIFNet: An End-to-end Visible-Infrared Fusion Network for Image Dehazing**, Meng Yu et.al., Paper: [http://arxiv.org/abs/2404.07790v1](http://arxiv.org/abs/2404.07790v1)
+- 2024-04-11, **RMAFF-PSN: A Residual Multi-Scale Attention Feature Fusion Photometric Stereo Network**, Kai Luo et.al., Paper: [http://arxiv.org/abs/2404.07766v1](http://arxiv.org/abs/2404.07766v1)
+- 2024-04-11, **Homography Guided Temporal Fusion for Road Line and Marking Segmentation**, Shan Wang et.al., Paper: [http://arxiv.org/abs/2404.07626v1](http://arxiv.org/abs/2404.07626v1), Code: **[https://github.com/shanwang-shan/homofusion](https://github.com/shanwang-shan/homofusion)**
+- 2024-04-11, **Multi-Image Visual Question Answering for Unsupervised Anomaly Detection**, Jun Li et.al., Paper: [http://arxiv.org/abs/2404.07622v1](http://arxiv.org/abs/2404.07622v1)
+- 2024-04-11, **Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening**, Yule Duan et.al., Paper: [http://arxiv.org/abs/2404.07543v1](http://arxiv.org/abs/2404.07543v1), Code: **[https://github.com/duanyll/canconv](https://github.com/duanyll/canconv)**
+- 2024-04-11, **The Survey on Multi-Source Data Fusion in Cyber-Physical-Social Systems:Foundational Infrastructure for Industrial Metaverses and Industries 5.0**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2404.07476v1](http://arxiv.org/abs/2404.07476v1)
+- 2024-04-11, **LUCF-Net: Lightweight U-shaped Cascade Fusion Network for Medical Image Segmentation**, Songkai Sun et.al., Paper: [http://arxiv.org/abs/2404.07473v1](http://arxiv.org/abs/2404.07473v1)
 - 2024-04-10, **Temperature Prediction for Stored Grain: A Multi-model Fusion Strategy Based on Machine Learning**, Donghao Chen et.al., Paper: [http://arxiv.org/abs/2404.07175v1](http://arxiv.org/abs/2404.07175v1)
 - 2024-04-10, **TransTARec: Time-Adaptive Translating Embedding Model for Next POI Recommendation**, Yiping Sun et.al., Paper: [http://arxiv.org/abs/2404.07096v1](http://arxiv.org/abs/2404.07096v1)
 - 2024-04-10, **Particle Scattering and Fusion for the Ablowitz-Ladik Chain**, Alberto Brollo et.al., Paper: [http://arxiv.org/abs/2404.07095v1](http://arxiv.org/abs/2404.07095v1)
