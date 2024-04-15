@@ -1,7 +1,17 @@
-> Updated on 2024.04.14
+> Updated on 2024.04.15
 
 ## Video_Classification
 
+- 2024-04-12, **FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models**, Yanting Wang et.al., Paper: [http://arxiv.org/abs/2404.08631v1](http://arxiv.org/abs/2404.08631v1)
+- 2024-04-12, **Classification of Boolean Algebras through von Neumann regular $\mathcal{C}^{\infty}-$Rings**, Jean Cerqueira Berni et.al., Paper: [http://arxiv.org/abs/2404.08629v1](http://arxiv.org/abs/2404.08629v1)
+- 2024-04-12, **Training-free Boost for Open-Vocabulary Object Detection with Confidence Aggregation**, Yanhao Zheng et.al., Paper: [http://arxiv.org/abs/2404.08603v1](http://arxiv.org/abs/2404.08603v1), Code: **[https://github.com/warlockwendell/aggdet](https://github.com/warlockwendell/aggdet)**
+- 2024-04-12, **Pathological Primitive Segmentation Based on Visual Foundation Model with Zero-Shot Mask Generation**, Abu Bakor Hayat Arnob et.al., Paper: [http://arxiv.org/abs/2404.08584v1](http://arxiv.org/abs/2404.08584v1), Code: **[https://github.com/learner-codec/autoprom_sam](https://github.com/learner-codec/autoprom_sam)**
+- 2024-04-12, **Lossy Image Compression with Foundation Diffusion Models**, Lucas Relic et.al., Paper: [http://arxiv.org/abs/2404.08580v1](http://arxiv.org/abs/2404.08580v1)
+- 2024-04-12, **IDD-X: A Multi-View Dataset for Ego-relative Important Object Localization and Explanation in Dense and Unstructured Traffic**, Chirag Parikh et.al., Paper: [http://arxiv.org/abs/2404.08561v1](http://arxiv.org/abs/2404.08561v1)
+- 2024-04-12, **Scalability in Building Component Data Annotation: Enhancing Facade Material Classification with Synthetic Data**, Josie Harrison et.al., Paper: [http://arxiv.org/abs/2404.08557v1](http://arxiv.org/abs/2404.08557v1)
+- 2024-04-12, **Benchmarking the Cell Image Segmentation Models Robustness under the Microscope Optical Aberrations**, Boyuan Peng et.al., Paper: [http://arxiv.org/abs/2404.08549v1](http://arxiv.org/abs/2404.08549v1)
+- 2024-04-12, **VertAttack: Taking advantage of Text Classifiers' horizontal vision**, Jonathan Rusert et.al., Paper: [http://arxiv.org/abs/2404.08538v1](http://arxiv.org/abs/2404.08538v1)
+- 2024-04-12, **Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection**, Zhiwei Yang et.al., Paper: [http://arxiv.org/abs/2404.08531v1](http://arxiv.org/abs/2404.08531v1)
 - 2024-04-11, **Connecting NeRFs, Images, and Text**, Francesco Ballerini et.al., Paper: [http://arxiv.org/abs/2404.07993v1](http://arxiv.org/abs/2404.07993v1)
 - 2024-04-11, **GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh**, Jing Wen et.al., Paper: [http://arxiv.org/abs/2404.07991v1](http://arxiv.org/abs/2404.07991v1)
 - 2024-04-11, **WaveMo: Learning Wavefront Modulations to See Through Scattering**, Mingyang Xie et.al., Paper: [http://arxiv.org/abs/2404.07985v1](http://arxiv.org/abs/2404.07985v1)
@@ -4640,6 +4650,16 @@
 
 ## MultiModal
 
+- 2024-04-12, **Advanced wood species identification based on multiple anatomical sections and using deep feature transfer and fusion**, Kallil M. Zielinski et.al., Paper: [http://arxiv.org/abs/2404.08585v1](http://arxiv.org/abs/2404.08585v1)
+- 2024-04-12, **A Data Fusion Model for Meteorological Data using the INLA-SPDE method**, Stephen Jun Villejo et.al., Paper: [http://arxiv.org/abs/2404.08533v1](http://arxiv.org/abs/2404.08533v1)
+- 2024-04-12, **NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**, Rongjian Xu et.al., Paper: [http://arxiv.org/abs/2404.08514v1](http://arxiv.org/abs/2404.08514v1)
+- 2024-04-12, **Direct May Not Be the Best: An Incremental Evolution View of Pose Generation**, Yuelong Li et.al., Paper: [http://arxiv.org/abs/2404.08419v1](http://arxiv.org/abs/2404.08419v1), Code: **[https://github.com/xiaofei-cn/incremental-evolution-pose-generation](https://github.com/xiaofei-cn/incremental-evolution-pose-generation)**
+- 2024-04-12, **MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2404.08406v1](http://arxiv.org/abs/2404.08406v1)
+- 2024-04-12, **OmniSat: Self-Supervised Modality Fusion for Earth Observation**, Guillaume Astruc et.al., Paper: [http://arxiv.org/abs/2404.08351v1](http://arxiv.org/abs/2404.08351v1)
+- 2024-04-12, **Transfer Learning Study of Motion Transformer-based Trajectory Predictions**, Lars Ullrich et.al., Paper: [http://arxiv.org/abs/2404.08271v1](http://arxiv.org/abs/2404.08271v1)
+- 2024-04-12, **Adaptive Anomaly Detection Disruption Prediction Starting from First Discharge**, Xinkun Ai et.al., Paper: [http://arxiv.org/abs/2404.08241v1](http://arxiv.org/abs/2404.08241v1)
+- 2024-04-12, **Role of nonlocal heat transport on the laser ablative Rayleigh-Taylor instability**, Z. H. Chen et.al., Paper: [http://arxiv.org/abs/2404.08216v1](http://arxiv.org/abs/2404.08216v1)
+- 2024-04-11, **Richtmyer-Meshkov Instability at high Mach Number: Non-Newtonian Effects**, Usman Rana et.al., Paper: [http://arxiv.org/abs/2404.08119v1](http://arxiv.org/abs/2404.08119v1)
 - 2024-04-11, **FusionMamba: Efficient Image Fusion with State Space Model**, Siran Peng et.al., Paper: [http://arxiv.org/abs/2404.07932v1](http://arxiv.org/abs/2404.07932v1)
 - 2024-04-11, **Low-rank Adaptation for Spatio-Temporal Forecasting**, Weilin Ruan et.al., Paper: [http://arxiv.org/abs/2404.07919v1](http://arxiv.org/abs/2404.07919v1)
 - 2024-04-11, **Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting**, Lei Chen et.al., Paper: [http://arxiv.org/abs/2404.07847v1](http://arxiv.org/abs/2404.07847v1)
