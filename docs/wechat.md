@@ -1,4 +1,4 @@
-> Updated on 2024.04.16
+> Updated on 2024.04.17
 
 ## Video_Classification
 
@@ -4665,7 +4665,7 @@
 
 - 2024-04-15, **Amplitude-Phase Fusion for Enhanced Electrocardiogram Morphological Analysis**, Shuaicong Hu et.al., Paper: [http://arxiv.org/abs/2404.09729v1](http://arxiv.org/abs/2404.09729v1), Code: **[https://github.com/fdu-harry/ecg-mee-metric](https://github.com/fdu-harry/ecg-mee-metric)**
 - 2024-04-15, **Classification of finite type fusion quivers**, Ben Elias et.al., Paper: [http://arxiv.org/abs/2404.09714v1](http://arxiv.org/abs/2404.09714v1)
-- 2024-04-15, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v1](http://arxiv.org/abs/2404.09640v1), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
+- 2024-04-16, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v2](http://arxiv.org/abs/2404.09640v2), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
 - 2024-04-15, **Neutrino dipole portal at a high energy $μ-$collider**, Daniele Barducci et.al., Paper: [http://arxiv.org/abs/2404.09609v1](http://arxiv.org/abs/2404.09609v1)
 - 2024-04-15, **WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**, Bin Wang et.al., Paper: [http://arxiv.org/abs/2404.09533v1](http://arxiv.org/abs/2404.09533v1)
 - 2024-04-15, **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**, Teng Shi et.al., Paper: [http://arxiv.org/abs/2404.09520v1](http://arxiv.org/abs/2404.09520v1), Code: **[https://github.com/tengshi-ruc/unisar](https://github.com/tengshi-ruc/unisar)**
