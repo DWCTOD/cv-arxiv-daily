@@ -1,4 +1,4 @@
-> Updated on 2024.04.17
+> Updated on 2024.04.18
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 - 2024-04-16, **Integer-valued o-minimal functions**, Neer Bhardwaj et.al., Paper: [http://arxiv.org/abs/2404.10737v1](http://arxiv.org/abs/2404.10737v1)
 - 2024-04-16, **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**, Hao-Lun Hsu et.al., Paper: [http://arxiv.org/abs/2404.10728v1](http://arxiv.org/abs/2404.10728v1)
 - 2024-04-16, **AV-GAN: Attention-Based Varifocal Generative Adversarial Network for Uneven Medical Image Translation**, Zexin Li et.al., Paper: [http://arxiv.org/abs/2404.10714v1](http://arxiv.org/abs/2404.10714v1)
-- 2024-04-16, **Dual Modalities of Text: Visual and Textual Generative Pre-training**, Yekun Chai et.al., Paper: [http://arxiv.org/abs/2404.10710v1](http://arxiv.org/abs/2404.10710v1)
+- 2024-04-17, **Dual Modalities of Text: Visual and Textual Generative Pre-training**, Yekun Chai et.al., Paper: [http://arxiv.org/abs/2404.10710v2](http://arxiv.org/abs/2404.10710v2)
 - 2024-04-16, **Question Difficulty Ranking for Multiple-Choice Reading Comprehension**, Vatsal Raina et.al., Paper: [http://arxiv.org/abs/2404.10704v1](http://arxiv.org/abs/2404.10704v1)
 - 2024-04-16, **Retrieval Augmented Verification : Unveiling Disinformation with Structured Representations for Zero-Shot Real-Time Evidence-guided Fact-Checking of Multi-modal Social media posts**, Arka Ujjal Dey et.al., Paper: [http://arxiv.org/abs/2404.10702v1](http://arxiv.org/abs/2404.10702v1)
 - 2024-04-16, **Rawformer: Unpaired Raw-to-Raw Translation for Learnable Camera ISPs**, Georgy Perevozchikov et.al., Paper: [http://arxiv.org/abs/2404.10700v1](http://arxiv.org/abs/2404.10700v1)
