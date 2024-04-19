@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-18, **On the Content Bias in Fréchet Video Distance**, Songwei Ge et.al., Paper: [http://arxiv.org/abs/2404.12391v1](http://arxiv.org/abs/2404.12391v1)
+- 2024-04-18, **Moving Object Segmentation: All You Need Is SAM (and Flow)**, Junyu Xie et.al., Paper: [http://arxiv.org/abs/2404.12389v1](http://arxiv.org/abs/2404.12389v1)
+- 2024-04-18, **VideoGigaGAN: Towards Detail-rich Video Super-Resolution**, Yiran Xu et.al., Paper: [http://arxiv.org/abs/2404.12388v1](http://arxiv.org/abs/2404.12388v1)
+- 2024-04-18, **Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models**, Aitor Ormazabal et.al., Paper: [http://arxiv.org/abs/2404.12387v1](http://arxiv.org/abs/2404.12387v1)
+- 2024-04-18, **G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis**, Yufei Ye et.al., Paper: [http://arxiv.org/abs/2404.12383v1](http://arxiv.org/abs/2404.12383v1)
+- 2024-04-18, **Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos**, Isabella Liu et.al., Paper: [http://arxiv.org/abs/2404.12379v1](http://arxiv.org/abs/2404.12379v1)
+- 2024-04-18, **RoboDreamer: Learning Compositional World Models for Robot Imagination**, Siyuan Zhou et.al., Paper: [http://arxiv.org/abs/2404.12377v1](http://arxiv.org/abs/2404.12377v1)
+- 2024-04-18, **When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**, Asaf Yehudai et.al., Paper: [http://arxiv.org/abs/2404.12365v1](http://arxiv.org/abs/2404.12365v1)
+- 2024-04-18, **Inverse Neural Rendering for Explainable Multi-Object Tracking**, Julian Ost et.al., Paper: [http://arxiv.org/abs/2404.12359v1](http://arxiv.org/abs/2404.12359v1)
+- 2024-04-18, **Improving the interpretability of GNN predictions through conformal-based graph sparsification**, Pablo Sanchez-Martin et.al., Paper: [http://arxiv.org/abs/2404.12356v1](http://arxiv.org/abs/2404.12356v1)
 - 2024-04-18, **Dynamic Typography: Bringing Text to Life via Video Diffusion Prior**, Zichen Liu et.al., Paper: [http://arxiv.org/abs/2404.11614v2](http://arxiv.org/abs/2404.11614v2)
 - 2024-04-17, **VG4D: Vision-Language Model Goes 4D Video Recognition**, Zhichao Deng et.al., Paper: [http://arxiv.org/abs/2404.11605v1](http://arxiv.org/abs/2404.11605v1), Code: **[https://github.com/shark0-0/vg4d](https://github.com/shark0-0/vg4d)**
 - 2024-04-17, **Variational Bayesian Last Layers**, James Harrison et.al., Paper: [http://arxiv.org/abs/2404.11599v1](http://arxiv.org/abs/2404.11599v1), Code: **[https://github.com/vectorinstitute/vbll](https://github.com/vectorinstitute/vbll)**
@@ -4683,6 +4693,14 @@
 
 ## MultiModal
 
+- 2024-04-18, **DF-DM: A foundational process model for multimodal data fusion in the artificial intelligence era**, David Restrepo et.al., Paper: [http://arxiv.org/abs/2404.12278v1](http://arxiv.org/abs/2404.12278v1)
+- 2024-04-18, **Efficient Identification of Broad Absorption Line Quasars using Dimensionality Reduction and Machine Learning**, Wei-Bo Kao et.al., Paper: [http://arxiv.org/abs/2404.12270v1](http://arxiv.org/abs/2404.12270v1)
+- 2024-04-18, **The Fireball of November 24, 1970, as the Most Probable Source of the Ischgl Meteorite**, Maria Gritsevich et.al., Paper: [http://arxiv.org/abs/2404.11989v1](http://arxiv.org/abs/2404.11989v1)
+- 2024-04-18, **MTGA: Multi-view Temporal Granularity aligned Aggregation for Event-based Lip-reading**, Wenhao Zhang et.al., Paper: [http://arxiv.org/abs/2404.11979v1](http://arxiv.org/abs/2404.11979v1)
+- 2024-04-18, **Terrain-Aware Stride-Level Trajectory Forecasting for a Powered Hip Exoskeleton via Vision and Kinematics Fusion**, Ruoqi Zhao et.al., Paper: [http://arxiv.org/abs/2404.11945v1](http://arxiv.org/abs/2404.11945v1)
+- 2024-04-18, **AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**, Jingfeng Guo et.al., Paper: [http://arxiv.org/abs/2404.11897v1](http://arxiv.org/abs/2404.11897v1)
+- 2024-04-18, **From Image to Video, what do we need in multimodal LLMs?**, Suyuan Huang et.al., Paper: [http://arxiv.org/abs/2404.11865v1](http://arxiv.org/abs/2404.11865v1)
+- 2024-04-17, **Multimodal 3D Object Detection on Unseen Domains**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2404.11764v1](http://arxiv.org/abs/2404.11764v1)
 - 2024-04-17, **A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**, Feng Yu et.al., Paper: [http://arxiv.org/abs/2404.11590v1](http://arxiv.org/abs/2404.11590v1)
 - 2024-04-17, **Spatial Heterogeneous Additive Partial Linear Model: A Joint Approach of Bivariate Spline and Forest Lasso**, Xin Zhang et.al., Paper: [http://arxiv.org/abs/2404.11579v1](http://arxiv.org/abs/2404.11579v1)
 - 2024-04-17, **Bremsstrahlung Radiation Power in Fusion Plasmas Revisited: Towards Accurate Analytical Fitting**, Huasheng Xie et.al., Paper: [http://arxiv.org/abs/2404.11540v1](http://arxiv.org/abs/2404.11540v1), Code: **[https://github.com/hsxie/brem](https://github.com/hsxie/brem)**
