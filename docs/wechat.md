@@ -1,12 +1,12 @@
-> Updated on 2024.04.18
+> Updated on 2024.04.19
 
 ## Video_Classification
 
-- 2024-04-17, **Dynamic Typography: Bringing Words to Life**, Zichen Liu et.al., Paper: [http://arxiv.org/abs/2404.11614v1](http://arxiv.org/abs/2404.11614v1)
+- 2024-04-18, **Dynamic Typography: Bringing Text to Life via Video Diffusion Prior**, Zichen Liu et.al., Paper: [http://arxiv.org/abs/2404.11614v2](http://arxiv.org/abs/2404.11614v2)
 - 2024-04-17, **VG4D: Vision-Language Model Goes 4D Video Recognition**, Zhichao Deng et.al., Paper: [http://arxiv.org/abs/2404.11605v1](http://arxiv.org/abs/2404.11605v1), Code: **[https://github.com/shark0-0/vg4d](https://github.com/shark0-0/vg4d)**
 - 2024-04-17, **Variational Bayesian Last Layers**, James Harrison et.al., Paper: [http://arxiv.org/abs/2404.11599v1](http://arxiv.org/abs/2404.11599v1), Code: **[https://github.com/vectorinstitute/vbll](https://github.com/vectorinstitute/vbll)**
 - 2024-04-17, **State-space Decomposition Model for Video Prediction Considering Long-term Motion Trend**, Fei Cui et.al., Paper: [http://arxiv.org/abs/2404.11576v1](http://arxiv.org/abs/2404.11576v1)
-- 2024-04-17, **Simple Image Signal Processing using Global Context Guidance**, Omar Elezabi et.al., Paper: [http://arxiv.org/abs/2404.11569v1](http://arxiv.org/abs/2404.11569v1)
+- 2024-04-17, **Simple Image Signal Processing using Global Context Guidance**, Omar Elezabi et.al., Paper: [http://arxiv.org/abs/2404.11569v1](http://arxiv.org/abs/2404.11569v1), Code: **[https://github.com/mv-lab/AISP](https://github.com/mv-lab/AISP)**
 - 2024-04-17, **Spatio-Temporal Motion Retargeting for Quadruped Robots**, Taerim Yoon et.al., Paper: [http://arxiv.org/abs/2404.11557v1](http://arxiv.org/abs/2404.11557v1)
 - 2024-04-17, **Predicting Long-horizon Futures by Conditioning on Geometry and Time**, Tarasha Khurana et.al., Paper: [http://arxiv.org/abs/2404.11554v1](http://arxiv.org/abs/2404.11554v1)
 - 2024-04-17, **Carbon- and Oxygen-rich stars in MaStar: identification and classification**, Lewis Hill et.al., Paper: [http://arxiv.org/abs/2404.11541v1](http://arxiv.org/abs/2404.11541v1)
@@ -4685,14 +4685,14 @@
 
 - 2024-04-17, **A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**, Feng Yu et.al., Paper: [http://arxiv.org/abs/2404.11590v1](http://arxiv.org/abs/2404.11590v1)
 - 2024-04-17, **Spatial Heterogeneous Additive Partial Linear Model: A Joint Approach of Bivariate Spline and Forest Lasso**, Xin Zhang et.al., Paper: [http://arxiv.org/abs/2404.11579v1](http://arxiv.org/abs/2404.11579v1)
-- 2024-04-17, **Bremsstrahlung Radiation Power in Fusion Plasmas Revisited: Towards Accurate Analytical Fitting**, Huasheng Xie et.al., Paper: [http://arxiv.org/abs/2404.11540v1](http://arxiv.org/abs/2404.11540v1)
+- 2024-04-17, **Bremsstrahlung Radiation Power in Fusion Plasmas Revisited: Towards Accurate Analytical Fitting**, Huasheng Xie et.al., Paper: [http://arxiv.org/abs/2404.11540v1](http://arxiv.org/abs/2404.11540v1), Code: **[https://github.com/hsxie/brem](https://github.com/hsxie/brem)**
 - 2024-04-17, **SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**, Yu Zhong et.al., Paper: [http://arxiv.org/abs/2404.11537v1](http://arxiv.org/abs/2404.11537v1)
 - 2024-04-17, **Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization**, Costas Mavromatis et.al., Paper: [http://arxiv.org/abs/2404.11531v1](http://arxiv.org/abs/2404.11531v1)
 - 2024-04-17, **Uncertainty estimation and anomaly detection in chiral effective field theory studies of key nuclear electroweak processes**, Bijaya Acharya et.al., Paper: [http://arxiv.org/abs/2404.11522v1](http://arxiv.org/abs/2404.11522v1)
 - 2024-04-17, **Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**, Manasi Muglikar et.al., Paper: [http://arxiv.org/abs/2404.11511v1](http://arxiv.org/abs/2404.11511v1)
 - 2024-04-17, **A Federated Learning Approach to Privacy Preserving Offensive Language Identification**, Marcos Zampieri et.al., Paper: [http://arxiv.org/abs/2404.11470v1](http://arxiv.org/abs/2404.11470v1)
 - 2024-04-17, **A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**, Francesco Pro et.al., Paper: [http://arxiv.org/abs/2404.11302v1](http://arxiv.org/abs/2404.11302v1), Code: **[https://github.com/pro1944191/semanticalignnet](https://github.com/pro1944191/semanticalignnet)**
-- 2024-04-17, **Study on the static detection of ICF target based on muonic X-ray sphere encoded imaging**, Dikai Li et.al., Paper: [http://arxiv.org/abs/2404.11278v1](http://arxiv.org/abs/2404.11278v1)
+- 2024-04-18, **Study on the static detection of ICF target based on muonic X-ray sphere encoded imaging**, Dikai Li et.al., Paper: [http://arxiv.org/abs/2404.11278v2](http://arxiv.org/abs/2404.11278v2)
 - 2024-04-16, **Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes**, Zehao Yu et.al., Paper: [http://arxiv.org/abs/2404.10772v1](http://arxiv.org/abs/2404.10772v1)
 - 2024-04-16, **Mixed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation**, Lijian Li et.al., Paper: [http://arxiv.org/abs/2404.10717v1](http://arxiv.org/abs/2404.10717v1)
 - 2024-04-16, **Spectra of subrings of cohomology generated by characteristic classes for fusion systems**, Ian J. Leary et.al., Paper: [http://arxiv.org/abs/2404.10701v1](http://arxiv.org/abs/2404.10701v1)
