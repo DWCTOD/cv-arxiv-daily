@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-19, **Data Alignment for Zero-Shot Concept Generation in Dermatology AI**, Soham Gadgil et.al., Paper: [http://arxiv.org/abs/2404.13043v1](http://arxiv.org/abs/2404.13043v1)
+- 2024-04-19, **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2404.13026v1](http://arxiv.org/abs/2404.13026v1)
+- 2024-04-19, **BANF: Band-limited Neural Fields for Levels of Detail Reconstruction**, Ahan Shabanov et.al., Paper: [http://arxiv.org/abs/2404.13024v1](http://arxiv.org/abs/2404.13024v1)
+- 2024-04-19, **Stronger Random Baselines for In-Context Learning**, Gregory Yauney et.al., Paper: [http://arxiv.org/abs/2404.13020v1](http://arxiv.org/abs/2404.13020v1), Code: **[https://github.com/gyauney/max-random-baseline](https://github.com/gyauney/max-random-baseline)**
+- 2024-04-19, **A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**, Ronglei Ji et.al., Paper: [http://arxiv.org/abs/2404.13018v1](http://arxiv.org/abs/2404.13018v1)
+- 2024-04-19, **Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**, Paulo Henrique dos Santos et.al., Paper: [http://arxiv.org/abs/2404.13002v1](http://arxiv.org/abs/2404.13002v1)
+- 2024-04-19, **RadRotator: 3D Rotation of Radiographs with Diffusion Models**, Pouria Rouzrokh et.al., Paper: [http://arxiv.org/abs/2404.13000v1](http://arxiv.org/abs/2404.13000v1)
+- 2024-04-19, **Nuclei Instance Segmentation of Cryosectioned H&E Stained Histological Images using Triple U-Net Architecture**, Zarif Ahmed et.al., Paper: [http://arxiv.org/abs/2404.12986v1](http://arxiv.org/abs/2404.12986v1)
+- 2024-04-19, **Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**, Xiaofei Wang et.al., Paper: [http://arxiv.org/abs/2404.12973v1](http://arxiv.org/abs/2404.12973v1)
+- 2024-04-19, **Improving Pediatric Pneumonia Diagnosis with Adult Chest X-ray Images Utilizing Contrastive Learning and Embedding Similarity**, Mohammad Zunaed et.al., Paper: [http://arxiv.org/abs/2404.12958v1](http://arxiv.org/abs/2404.12958v1)
 - 2024-04-18, **On the Content Bias in Fréchet Video Distance**, Songwei Ge et.al., Paper: [http://arxiv.org/abs/2404.12391v1](http://arxiv.org/abs/2404.12391v1)
 - 2024-04-18, **Moving Object Segmentation: All You Need Is SAM (and Flow)**, Junyu Xie et.al., Paper: [http://arxiv.org/abs/2404.12389v1](http://arxiv.org/abs/2404.12389v1)
 - 2024-04-18, **VideoGigaGAN: Towards Detail-rich Video Super-Resolution**, Yiran Xu et.al., Paper: [http://arxiv.org/abs/2404.12388v1](http://arxiv.org/abs/2404.12388v1)
@@ -4693,6 +4703,16 @@
 
 ## MultiModal
 
+- 2024-04-19, **LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**, Tiancheng Gu et.al., Paper: [http://arxiv.org/abs/2404.13039v1](http://arxiv.org/abs/2404.13039v1), Code: **[https://github.com/garygutc/lapa_model](https://github.com/garygutc/lapa_model)**
+- 2024-04-19, **When will fusion energy truly become a reality?**, Renato Spigler et.al., Paper: [http://arxiv.org/abs/2404.12987v1](http://arxiv.org/abs/2404.12987v1)
+- 2024-04-19, **FineRec:Exploring Fine-grained Sequential Recommendation**, Xiaokun Zhang et.al., Paper: [http://arxiv.org/abs/2404.12975v1](http://arxiv.org/abs/2404.12975v1)
+- 2024-04-19, **The MEMENTO code for modelling of macroscopic melt motion in fusion devices**, K. Paschalidis et.al., Paper: [http://arxiv.org/abs/2404.12904v1](http://arxiv.org/abs/2404.12904v1)
+- 2024-04-19, **3D Multi-frame Fusion for Video Stabilization**, Zhan Peng et.al., Paper: [http://arxiv.org/abs/2404.12887v1](http://arxiv.org/abs/2404.12887v1)
+- 2024-04-19, **Linearly-evolved Transformer for Pan-sharpening**, Junming Hou et.al., Paper: [http://arxiv.org/abs/2404.12804v1](http://arxiv.org/abs/2404.12804v1)
+- 2024-04-19, **AutoInspect: Towards Long-Term Autonomous Industrial Inspection**, Michal Staniaszek et.al., Paper: [http://arxiv.org/abs/2404.12785v1](http://arxiv.org/abs/2404.12785v1)
+- 2024-04-19, **Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework**, Zhuohong Li et.al., Paper: [http://arxiv.org/abs/2404.12721v1](http://arxiv.org/abs/2404.12721v1), Code: **[https://github.com/lizhuohong/segland](https://github.com/lizhuohong/segland)**
+- 2024-04-19, **Enabling Ensemble Learning for Heterogeneous Large Language Models with Deep Parallel Collaboration**, Yichong Huang et.al., Paper: [http://arxiv.org/abs/2404.12715v1](http://arxiv.org/abs/2404.12715v1)
+- 2024-04-19, **Integrated Sensing and Communication enabled Multiple Base Stations Cooperative UAV Detection**, Xi Lu et.al., Paper: [http://arxiv.org/abs/2404.12705v1](http://arxiv.org/abs/2404.12705v1)
 - 2024-04-18, **DF-DM: A foundational process model for multimodal data fusion in the artificial intelligence era**, David Restrepo et.al., Paper: [http://arxiv.org/abs/2404.12278v1](http://arxiv.org/abs/2404.12278v1)
 - 2024-04-18, **Efficient Identification of Broad Absorption Line Quasars using Dimensionality Reduction and Machine Learning**, Wei-Bo Kao et.al., Paper: [http://arxiv.org/abs/2404.12270v1](http://arxiv.org/abs/2404.12270v1)
 - 2024-04-18, **The Fireball of November 24, 1970, as the Most Probable Source of the Ischgl Meteorite**, Maria Gritsevich et.al., Paper: [http://arxiv.org/abs/2404.11989v1](http://arxiv.org/abs/2404.11989v1)
