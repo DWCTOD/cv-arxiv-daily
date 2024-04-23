@@ -4717,7 +4717,7 @@ layout: default
 |**2024-04-19**|**The MEMENTO code for modelling of macroscopic melt motion in fusion devices**|K. Paschalidis et.al.|[2404.12904v1](http://arxiv.org/abs/2404.12904v1)|null|
 |**2024-04-19**|**3D Multi-frame Fusion for Video Stabilization**|Zhan Peng et.al.|[2404.12887v1](http://arxiv.org/abs/2404.12887v1)|null|
 |**2024-04-19**|**Linearly-evolved Transformer for Pan-sharpening**|Junming Hou et.al.|[2404.12804v1](http://arxiv.org/abs/2404.12804v1)|null|
-|**2024-04-19**|**AutoInspect: Towards Long-Term Autonomous Industrial Inspection**|Michal Staniaszek et.al.|[2404.12785v1](http://arxiv.org/abs/2404.12785v1)|null|
+|**2024-04-22**|**AutoInspect: Towards Long-Term Autonomous Industrial Inspection**|Michal Staniaszek et.al.|[2404.12785v2](http://arxiv.org/abs/2404.12785v2)|null|
 |**2024-04-19**|**Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework**|Zhuohong Li et.al.|[2404.12721v1](http://arxiv.org/abs/2404.12721v1)|**[link](https://github.com/lizhuohong/segland)**|
 |**2024-04-19**|**Enabling Ensemble Learning for Heterogeneous Large Language Models with Deep Parallel Collaboration**|Yichong Huang et.al.|[2404.12715v1](http://arxiv.org/abs/2404.12715v1)|null|
 |**2024-04-19**|**Integrated Sensing and Communication enabled Multiple Base Stations Cooperative UAV Detection**|Xi Lu et.al.|[2404.12705v1](http://arxiv.org/abs/2404.12705v1)|null|
