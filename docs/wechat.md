@@ -1,4 +1,4 @@
-> Updated on 2024.04.23
+> Updated on 2024.04.24
 
 ## Video_Classification
 
@@ -4721,7 +4721,7 @@
 - 2024-04-22, **A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities**, Ming Kang et.al., Paper: [http://arxiv.org/abs/2404.14019v1](http://arxiv.org/abs/2404.14019v1), Code: **[https://github.com/mkang315/mctseg](https://github.com/mkang315/mctseg)**
 - 2024-04-22, **Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion**, Yingxuan Li et.al., Paper: [http://arxiv.org/abs/2404.13993v1](http://arxiv.org/abs/2404.13993v1)
 - 2024-04-22, **NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**, Chi Huang et.al., Paper: [http://arxiv.org/abs/2404.13921v1](http://arxiv.org/abs/2404.13921v1)
-- 2024-04-22, **Retrieval-Augmented Audio Deepfake Detection**, Zuheng Kang et.al., Paper: [http://arxiv.org/abs/2404.13892v1](http://arxiv.org/abs/2404.13892v1)
+- 2024-04-23, **Retrieval-Augmented Audio Deepfake Detection**, Zuheng Kang et.al., Paper: [http://arxiv.org/abs/2404.13892v2](http://arxiv.org/abs/2404.13892v2)
 - 2024-04-22, **DSDRNet: Disentangling Representation and Reconstruct Network for Domain Generalization**, Juncheng Yang et.al., Paper: [http://arxiv.org/abs/2404.13848v1](http://arxiv.org/abs/2404.13848v1)
 - 2024-04-19, **LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**, Tiancheng Gu et.al., Paper: [http://arxiv.org/abs/2404.13039v1](http://arxiv.org/abs/2404.13039v1), Code: **[https://github.com/garygutc/lapa_model](https://github.com/garygutc/lapa_model)**
 - 2024-04-19, **When will fusion energy truly become a reality?**, Renato Spigler et.al., Paper: [http://arxiv.org/abs/2404.12987v1](http://arxiv.org/abs/2404.12987v1)
