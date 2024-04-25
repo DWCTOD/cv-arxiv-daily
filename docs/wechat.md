@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-24, **Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**, Xu Shen et.al., Paper: [http://arxiv.org/abs/2404.15625v1](http://arxiv.org/abs/2404.15625v1)
+- 2024-04-24, **Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**, Osama Yousuf et.al., Paper: [http://arxiv.org/abs/2404.15621v1](http://arxiv.org/abs/2404.15621v1)
+- 2024-04-24, **A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**, Zhixiong Yang et.al., Paper: [http://arxiv.org/abs/2404.15620v1](http://arxiv.org/abs/2404.15620v1)
+- 2024-04-24, **MDDD: Manifold-based Domain Adaptation with Dynamic Distribution for Non-Deep Transfer Learning in Cross-subject and Cross-session EEG-based Emotion Recognition**, Ting Luo et.al., Paper: [http://arxiv.org/abs/2404.15615v1](http://arxiv.org/abs/2404.15615v1)
+- 2024-04-24, **Federated Learning with Only Positive Labels by Exploring Label Correlations**, Xuming An et.al., Paper: [http://arxiv.org/abs/2404.15598v1](http://arxiv.org/abs/2404.15598v1)
+- 2024-04-24, **A Survey of Deep Long-Tail Classification Advancements**, Charika de Alvis et.al., Paper: [http://arxiv.org/abs/2404.15593v1](http://arxiv.org/abs/2404.15593v1)
+- 2024-04-24, **Domain Adaptation for Learned Image Compression with Supervised Adapters**, Alberto Presta et.al., Paper: [http://arxiv.org/abs/2404.15591v1](http://arxiv.org/abs/2404.15591v1)
+- 2024-04-24, **Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**, Liang Qu et.al., Paper: [http://arxiv.org/abs/2404.15585v1](http://arxiv.org/abs/2404.15585v1)
+- 2024-04-24, **Research on OPF control of three-phase four-wire low-voltage distribution network considering uncertainty**, Rui Wang et.al., Paper: [http://arxiv.org/abs/2404.15584v1](http://arxiv.org/abs/2404.15584v1)
+- 2024-04-24, **MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis**, Jiaxin Zhuang et.al., Paper: [http://arxiv.org/abs/2404.15580v1](http://arxiv.org/abs/2404.15580v1)
 - 2024-04-23, **ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**, Xuanhua He et.al., Paper: [http://arxiv.org/abs/2404.15275v1](http://arxiv.org/abs/2404.15275v1), Code: **[https://github.com/id-animator/id-animator](https://github.com/id-animator/id-animator)**
 - 2024-04-23, **Metric-guided Image Reconstruction Bounds via Conformal Prediction**, Matt Y Cheung et.al., Paper: [http://arxiv.org/abs/2404.15274v1](http://arxiv.org/abs/2404.15274v1), Code: **[https://github.com/matthewyccheung/conformal-metric](https://github.com/matthewyccheung/conformal-metric)**
 - 2024-04-23, **Quantum optical classifier with superexponential speedup**, Simone Roncallo et.al., Paper: [http://arxiv.org/abs/2404.15266v1](http://arxiv.org/abs/2404.15266v1)
@@ -4723,6 +4733,7 @@
 
 ## MultiModal
 
+- 2024-04-23, **Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensionality Reduction for Clustering Gravitational Wave Glitches**, Yi Li et.al., Paper: [http://arxiv.org/abs/2404.15552v1](http://arxiv.org/abs/2404.15552v1), Code: **[https://github.com/zod-l/ctsae](https://github.com/zod-l/ctsae)**
 - 2024-04-23, **Deep Models for Multi-View 3D Object Recognition: A Review**, Mona Alzahrani et.al., Paper: [http://arxiv.org/abs/2404.15224v1](http://arxiv.org/abs/2404.15224v1)
 - 2024-04-23, **Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**, Yu-Jie Liang et.al., Paper: [http://arxiv.org/abs/2404.15174v1](http://arxiv.org/abs/2404.15174v1)
 - 2024-04-23, **Adaptive Mixed-Scale Feature Fusion Network for Blind AI-Generated Image Quality Assessment**, Tianwei Zhou et.al., Paper: [http://arxiv.org/abs/2404.15163v1](http://arxiv.org/abs/2404.15163v1)
