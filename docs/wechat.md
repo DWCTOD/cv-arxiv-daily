@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-25, **Made to Order: Discovering monotonic temporal changes via self-supervised video ordering**, Charig Yang et.al., Paper: [http://arxiv.org/abs/2404.16828v1](http://arxiv.org/abs/2404.16828v1)
+- 2024-04-25, **ResVR: Joint Rescaling and Viewport Rendering of Omnidirectional Images**, Weiqi Li et.al., Paper: [http://arxiv.org/abs/2404.16825v1](http://arxiv.org/abs/2404.16825v1)
+- 2024-04-25, **V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**, Xuanyu Zhang et.al., Paper: [http://arxiv.org/abs/2404.16824v1](http://arxiv.org/abs/2404.16824v1)
+- 2024-04-25, **Learning Visuotactile Skills with Two Multifingered Hands**, Toru Lin et.al., Paper: [http://arxiv.org/abs/2404.16823v1](http://arxiv.org/abs/2404.16823v1)
+- 2024-04-25, **Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**, Zeynep Özdemir et.al., Paper: [http://arxiv.org/abs/2404.16814v1](http://arxiv.org/abs/2404.16814v1)
+- 2024-04-25, **Transformer-Based Local Feature Matching for Multimodal Image Registration**, Remi Delaunay et.al., Paper: [http://arxiv.org/abs/2404.16802v1](http://arxiv.org/abs/2404.16802v1)
+- 2024-04-25, **DrS: Learning Reusable Dense Rewards for Multi-Stage Tasks**, Tongzhou Mu et.al., Paper: [http://arxiv.org/abs/2404.16779v1](http://arxiv.org/abs/2404.16779v1)
+- 2024-04-25, **Modeling Selective Feature Attention for Representation-based Siamese Text Matching**, Jianxiang Zang et.al., Paper: [http://arxiv.org/abs/2404.16776v1](http://arxiv.org/abs/2404.16776v1)
+- 2024-04-25, **Classifying One-Dimensional Quantum States Prepared by a Single Round of Measurements**, Rahul Sahay et.al., Paper: [http://arxiv.org/abs/2404.16753v1](http://arxiv.org/abs/2404.16753v1)
+- 2024-04-25, **Characterizing Solar Center-to-Limb Radial-Velocity Variability with SDO**, Michael L. Palumbo III et.al., Paper: [http://arxiv.org/abs/2404.16747v1](http://arxiv.org/abs/2404.16747v1)
 - 2024-04-24, **Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**, Xu Shen et.al., Paper: [http://arxiv.org/abs/2404.15625v1](http://arxiv.org/abs/2404.15625v1)
 - 2024-04-24, **Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**, Osama Yousuf et.al., Paper: [http://arxiv.org/abs/2404.15621v1](http://arxiv.org/abs/2404.15621v1)
 - 2024-04-24, **A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**, Zhixiong Yang et.al., Paper: [http://arxiv.org/abs/2404.15620v1](http://arxiv.org/abs/2404.15620v1), Code: **[https://github.com/XYLGroup/DKP](https://github.com/XYLGroup/DKP)**
@@ -4733,6 +4743,16 @@
 
 ## MultiModal
 
+- 2024-04-25, **V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**, Xuanyu Zhang et.al., Paper: [http://arxiv.org/abs/2404.16824v1](http://arxiv.org/abs/2404.16824v1)
+- 2024-04-25, **Finch: Sparse and Structured Array Programming with Control Flow**, Willow Ahrens et.al., Paper: [http://arxiv.org/abs/2404.16730v1](http://arxiv.org/abs/2404.16730v1)
+- 2024-04-25, **Features Fusion for Dual-View Mammography Mass Detection**, Arina Varlamova et.al., Paper: [http://arxiv.org/abs/2404.16718v1](http://arxiv.org/abs/2404.16718v1)
+- 2024-04-25, **Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**, Daniel Dworak et.al., Paper: [http://arxiv.org/abs/2404.16548v1](http://arxiv.org/abs/2404.16548v1)
+- 2024-04-25, **Implementation of matrix compression in the coupling of JOREK to realistic 3D conducting wall structures**, Federico Cipolletta et.al., Paper: [http://arxiv.org/abs/2404.16546v1](http://arxiv.org/abs/2404.16546v1)
+- 2024-04-25, **Feature graph construction with static features for malware detection**, Binghui Zou et.al., Paper: [http://arxiv.org/abs/2404.16362v1](http://arxiv.org/abs/2404.16362v1)
+- 2024-04-25, **Preparing matrix product states via fusion: constraints and extensions**, David T. Stephen et.al., Paper: [http://arxiv.org/abs/2404.16360v1](http://arxiv.org/abs/2404.16360v1)
+- 2024-04-25, **An Improved Graph Pooling Network for Skeleton-Based Action Recognition**, Cong Wu et.al., Paper: [http://arxiv.org/abs/2404.16359v1](http://arxiv.org/abs/2404.16359v1)
+- 2024-04-25, **CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**, Haoyuan Li et.al., Paper: [http://arxiv.org/abs/2404.16302v1](http://arxiv.org/abs/2404.16302v1)
+- 2024-04-24, **Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**, Cuong Nhat Ha et.al., Paper: [http://arxiv.org/abs/2404.16192v1](http://arxiv.org/abs/2404.16192v1)
 - 2024-04-23, **Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensionality Reduction for Clustering Gravitational Wave Glitches**, Yi Li et.al., Paper: [http://arxiv.org/abs/2404.15552v1](http://arxiv.org/abs/2404.15552v1), Code: **[https://github.com/zod-l/ctsae](https://github.com/zod-l/ctsae)**
 - 2024-04-23, **Deep Models for Multi-View 3D Object Recognition: A Review**, Mona Alzahrani et.al., Paper: [http://arxiv.org/abs/2404.15224v1](http://arxiv.org/abs/2404.15224v1)
 - 2024-04-23, **Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**, Yu-Jie Liang et.al., Paper: [http://arxiv.org/abs/2404.15174v1](http://arxiv.org/abs/2404.15174v1)
