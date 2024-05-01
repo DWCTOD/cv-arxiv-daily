@@ -1,4 +1,4 @@
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 
 ## Video_Classification
 
@@ -4772,7 +4772,7 @@
 |**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849v1](http://arxiv.org/abs/2404.18849v1)|null|
 |**2024-04-29**|**Innovative Integration of Visual Foundation Model with a Robotic Arm on a Mobile Platform**|Shimian Zhang et.al.|[2404.18720v1](http://arxiv.org/abs/2404.18720v1)|null|
 |**2024-04-29**|**Massive stars evolution with new C12+C12 nuclear reaction rate -- the core carbon-burning phase**|T. Dumont et.al.|[2404.18662v1](http://arxiv.org/abs/2404.18662v1)|null|
-|**2024-04-29**|**Scheme for braiding Majorana zero modes in vortices using an STT-matrix**|Guangyao Huang et.al.|[2404.18578v1](http://arxiv.org/abs/2404.18578v1)|null|
+|**2024-04-30**|**Scheme for braiding Majorana zero modes in vortices using an STT-matrix**|Guangyao Huang et.al.|[2404.18578v2](http://arxiv.org/abs/2404.18578v2)|null|
 |**2024-04-29**|**High Fidelity simulations of the multi-species Vlasov equation in the electro-static, collisional-less limit**|Rostislav-Paul Wilhelm et.al.|[2404.18549v1](http://arxiv.org/abs/2404.18549v1)|null|
 |**2024-04-29**|**Multisensor Data Fusion for Automatized Insect Monitoring (KInsecta)**|Martin Tschaikner et.al.|[2404.18504v1](http://arxiv.org/abs/2404.18504v1)|null|
 |**2024-04-29**|**M3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework**|Zijian Zhang et.al.|[2404.18465v1](http://arxiv.org/abs/2404.18465v1)|**[link](https://github.com/applied-machine-learning-lab/m3oe)**|
