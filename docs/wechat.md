@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-04-30, **A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications**, Steph Buongiorno et.al., Paper: [http://arxiv.org/abs/2404.19729v1](http://arxiv.org/abs/2404.19729v1)
+- 2024-04-30, **Classification of simple 0-dimensional isolated complete intersection singularities**, Thuy Huong Pham et.al., Paper: [http://arxiv.org/abs/2404.19728v1](http://arxiv.org/abs/2404.19728v1)
+- 2024-04-30, **PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**, Jingbo Wang et.al., Paper: [http://arxiv.org/abs/2404.19722v1](http://arxiv.org/abs/2404.19722v1)
+- 2024-04-30, **PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games**, Steph Buongiorno et.al., Paper: [http://arxiv.org/abs/2404.19721v1](http://arxiv.org/abs/2404.19721v1)
+- 2024-04-30, **ThangDLU at #SMM4H 2024: Encoder-decoder models for classifying text data on social disorders in children and adolescents**, Hoang-Thang Ta et.al., Paper: [http://arxiv.org/abs/2404.19714v1](http://arxiv.org/abs/2404.19714v1)
+- 2024-04-30, **A rank decomposition for the topological classification of neural representations**, Kosio Beshkov et.al., Paper: [http://arxiv.org/abs/2404.19710v1](http://arxiv.org/abs/2404.19710v1)
+- 2024-04-30, **Neural Controlled Differential Equations with Quantum Hidden Evolutions**, Lingyi Yang et.al., Paper: [http://arxiv.org/abs/2404.19673v1](http://arxiv.org/abs/2404.19673v1), Code: **[https://github.com/lingyiyang/nqde](https://github.com/lingyiyang/nqde)**
+- 2024-04-30, **Beyond MOS: Subjective Image Quality Score Preprocessing Method Based on Perceptual Similarity**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2404.19666v1](http://arxiv.org/abs/2404.19666v1)
+- 2024-04-30, **Towards Generalist Robot Learning from Internet Video: A Survey**, Robert McCarthy et.al., Paper: [http://arxiv.org/abs/2404.19664v1](http://arxiv.org/abs/2404.19664v1)
+- 2024-04-30, **Regularization of Riemannian optimization: Application to process tomography and quantum machine learning**, Felix Soest et.al., Paper: [http://arxiv.org/abs/2404.19659v1](http://arxiv.org/abs/2404.19659v1)
 - 2024-04-29, **Hallucination of Multimodal Large Language Models: A Survey**, Zechen Bai et.al., Paper: [http://arxiv.org/abs/2404.18930v1](http://arxiv.org/abs/2404.18930v1), Code: **[https://github.com/showlab/awesome-mllm-hallucination](https://github.com/showlab/awesome-mllm-hallucination)**
 - 2024-04-29, **Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**, Leonardo Rossi et.al., Paper: [http://arxiv.org/abs/2404.18924v1](http://arxiv.org/abs/2404.18924v1)
 - 2024-04-29, **Anomaly and invertible field theory with higher-form symmetry: Extended group cohomology**, Shi Chen et.al., Paper: [http://arxiv.org/abs/2404.18921v1](http://arxiv.org/abs/2404.18921v1)
@@ -4763,6 +4773,16 @@
 
 ## MultiModal
 
+- 2024-04-30, **Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting**, Paul Engstler et.al., Paper: [http://arxiv.org/abs/2404.19758v1](http://arxiv.org/abs/2404.19758v1)
+- 2024-04-30, **Evaluation of An Indoor Localization Engine**, Christophe Villien et.al., Paper: [http://arxiv.org/abs/2404.19538v1](http://arxiv.org/abs/2404.19538v1)
+- 2024-04-30, **TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**, Teng Zhou et.al., Paper: [http://arxiv.org/abs/2404.19475v1](http://arxiv.org/abs/2404.19475v1)
+- 2024-04-30, **Effect of detachment on Magnum-PSI ELM-like pulses: I. Direct observations and qualitative results**, Fabio Federici et.al., Paper: [http://arxiv.org/abs/2404.19464v1](http://arxiv.org/abs/2404.19464v1)
+- 2024-04-30, **Exploring the potential of synthesizing unknown superheavy isotopes via cold-fusion reactions based on the dinuclear system model**, Hao Wu et.al., Paper: [http://arxiv.org/abs/2404.19446v1](http://arxiv.org/abs/2404.19446v1)
+- 2024-04-30, **AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion**, Jie Hu et.al., Paper: [http://arxiv.org/abs/2404.19444v1](http://arxiv.org/abs/2404.19444v1), Code: **[https://github.com/hujiecpp/mvtec-caption](https://github.com/hujiecpp/mvtec-caption)**
+- 2024-04-30, **Statistical Theory of Neutron-Induced Nuclear Fission and of Heavy-Ion Fusion**, Hans A. Weidenmüller et.al., Paper: [http://arxiv.org/abs/2404.19355v1](http://arxiv.org/abs/2404.19355v1)
+- 2024-04-30, **Fusing Depthwise and Pointwise Convolutions for Efficient Inference on GPUs**, Fareed Qararyah et.al., Paper: [http://arxiv.org/abs/2404.19331v1](http://arxiv.org/abs/2404.19331v1)
+- 2024-04-30, **A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**, Wang Zhang et.al., Paper: [http://arxiv.org/abs/2404.19311v1](http://arxiv.org/abs/2404.19311v1)
+- 2024-04-30, **Audio-Visual Traffic Light State Detection for Urban Robots**, Sagar Gupta et.al., Paper: [http://arxiv.org/abs/2404.19281v1](http://arxiv.org/abs/2404.19281v1)
 - 2024-04-29, **Gyrokinetic investigation of toroidal Alfven eigenmode (TAE) turbulence**, Ajay C. J. et.al., Paper: [http://arxiv.org/abs/2404.18910v1](http://arxiv.org/abs/2404.18910v1)
 - 2024-04-29, **Studies of $T_{cc}^+$ Decays and Transverse-Momentum-Dependent $J/ψ$ Production Using Effective Field Theory**, Reed Hodges et.al., Paper: [http://arxiv.org/abs/2404.18907v1](http://arxiv.org/abs/2404.18907v1)
 - 2024-04-29, **MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**, Heitor R. Medeiros et.al., Paper: [http://arxiv.org/abs/2404.18849v1](http://arxiv.org/abs/2404.18849v1)
