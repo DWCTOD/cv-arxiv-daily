@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Quantum algorithms for matrix geometric means**|Nana Liu et.al.|[2405.00673v1](http://arxiv.org/abs/2405.00673v1)|null|
+|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670v1](http://arxiv.org/abs/2405.00670v1)|null|
+|**2024-05-01**|**Screening of BindingDB database ligands against EGFR, HER2, Estrogen, Progesterone and NF-kB receptors based on machine learning and molecular docking**|Parham Rezaee et.al.|[2405.00647v1](http://arxiv.org/abs/2405.00647v1)|null|
+|**2024-05-01**|**Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling**|Yida Mu et.al.|[2405.00611v1](http://arxiv.org/abs/2405.00611v1)|null|
+|**2024-05-01**|**Investigating Automatic Scoring and Feedback using Large Language Models**|Gloria Ashiya Katuka et.al.|[2405.00602v1](http://arxiv.org/abs/2405.00602v1)|null|
+|**2024-05-01**|**Discovering robust biomarkers of neurological disorders from functional MRI using graph neural networks: A Review**|Yi Hao Chan et.al.|[2405.00577v1](http://arxiv.org/abs/2405.00577v1)|null|
+|**2024-05-01**|**EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model**|Deng Li et.al.|[2405.00574v1](http://arxiv.org/abs/2405.00574v1)|null|
+|**2024-05-01**|**Remote Sensing Data Assimilation with a Chained Hydrologic-hydraulic Model for Flood Forecasting**|Thanh Huy Nguyen et.al.|[2405.00567v1](http://arxiv.org/abs/2405.00567v1)|null|
+|**2024-05-01**|**Digital-analog quantum convolutional neural networks for image classification**|Anton Simen et.al.|[2405.00548v1](http://arxiv.org/abs/2405.00548v1)|null|
+|**2024-05-01**|**UWAFA-GAN: Ultra-Wide-Angle Fluorescein Angiography Transformation via Multi-scale Generation and Registration Enhancement**|Ruiquan Ge et.al.|[2405.00542v1](http://arxiv.org/abs/2405.00542v1)|**[link](https://github.com/tinysqua/uwafa-gan)**|
 |**2024-04-30**|**A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications**|Steph Buongiorno et.al.|[2404.19729v1](http://arxiv.org/abs/2404.19729v1)|null|
 |**2024-04-30**|**Classification of simple 0-dimensional isolated complete intersection singularities**|Thuy Huong Pham et.al.|[2404.19728v1](http://arxiv.org/abs/2404.19728v1)|null|
 |**2024-04-30**|**PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**|Jingbo Wang et.al.|[2404.19722v1](http://arxiv.org/abs/2404.19722v1)|null|
@@ -4781,6 +4791,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**WEST GCN-LSTM: Weighted Stacked Spatio-Temporal Graph Neural Networks for Regional Traffic Forecasting**|Theodoros Theodoropoulos et.al.|[2405.00570v1](http://arxiv.org/abs/2405.00570v1)|null|
+|**2024-05-01**|**New Benchmark Dataset and Fine-Grained Cross-Modal Fusion Framework for Vietnamese Multimodal Aspect-Category Sentiment Analysis**|Quy Hoang Nguyen et.al.|[2405.00543v1](http://arxiv.org/abs/2405.00543v1)|null|
+|**2024-05-01**|**DmADs-Net: Dense multiscale attention and depth-supervised network for medical image segmentation**|Zhaojin Fu et.al.|[2405.00472v1](http://arxiv.org/abs/2405.00472v1)|null|
+|**2024-05-01**|**Enhance Planning with Physics-informed Safety Controllor for End-to-end Autonomous Driving**|Hang Zhou et.al.|[2405.00316v1](http://arxiv.org/abs/2405.00316v1)|null|
+|**2024-04-30**|**Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method**|Zhangyong Tang et.al.|[2405.00168v1](http://arxiv.org/abs/2405.00168v1)|null|
 |**2024-04-30**|**Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting**|Paul Engstler et.al.|[2404.19758v1](http://arxiv.org/abs/2404.19758v1)|null|
 |**2024-04-30**|**Evaluation of An Indoor Localization Engine**|Christophe Villien et.al.|[2404.19538v1](http://arxiv.org/abs/2404.19538v1)|null|
 |**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475v1](http://arxiv.org/abs/2404.19475v1)|null|
