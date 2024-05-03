@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-02, **Confronting sparse Gaia DR3 photometry with TESS for a sample of about 60,000 hot massive non-radial pulsators**, Daniel Hey et.al., Paper: [http://arxiv.org/abs/2405.01539v1](http://arxiv.org/abs/2405.01539v1)
+- 2024-05-02, **Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**, Murtaza Dalal et.al., Paper: [http://arxiv.org/abs/2405.01534v1](http://arxiv.org/abs/2405.01534v1)
+- 2024-05-02, **Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**, Nishad Singhi et.al., Paper: [http://arxiv.org/abs/2405.01531v1](http://arxiv.org/abs/2405.01531v1)
+- 2024-05-02, **Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation**, Homanga Bharadhwaj et.al., Paper: [http://arxiv.org/abs/2405.01527v1](http://arxiv.org/abs/2405.01527v1)
+- 2024-05-02, **A separability-based approach to quantifying generalization: which layer is best?**, Luciano Dyballa et.al., Paper: [http://arxiv.org/abs/2405.01524v1](http://arxiv.org/abs/2405.01524v1)
+- 2024-05-02, **Grand Design vs. Multi-Armed Spiral Galaxies: Dependence on Galaxy Structure**, Beverly J. Smith et.al., Paper: [http://arxiv.org/abs/2405.01516v1](http://arxiv.org/abs/2405.01516v1)
+- 2024-05-02, **Accelerating Convergence in Bayesian Few-Shot Classification**, Tianjun Ke et.al., Paper: [http://arxiv.org/abs/2405.01507v1](http://arxiv.org/abs/2405.01507v1), Code: **[https://github.com/keanson/md-bsfc](https://github.com/keanson/md-bsfc)**
+- 2024-05-02, **PAM-UNet: Shifting Attention on Region of Interest in Medical Images**, Abhijit Das et.al., Paper: [http://arxiv.org/abs/2405.01503v1](http://arxiv.org/abs/2405.01503v1)
+- 2024-05-02, **Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**, Prajnamaya Dass et.al., Paper: [http://arxiv.org/abs/2405.01492v1](http://arxiv.org/abs/2405.01492v1)
+- 2024-05-02, **Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**, Bryce McLaughlin et.al., Paper: [http://arxiv.org/abs/2405.01484v1](http://arxiv.org/abs/2405.01484v1)
 - 2024-05-01, **Quantum algorithms for matrix geometric means**, Nana Liu et.al., Paper: [http://arxiv.org/abs/2405.00673v1](http://arxiv.org/abs/2405.00673v1)
 - 2024-05-01, **Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**, Andrei Chubarau et.al., Paper: [http://arxiv.org/abs/2405.00670v1](http://arxiv.org/abs/2405.00670v1)
 - 2024-05-01, **Screening of BindingDB database ligands against EGFR, HER2, Estrogen, Progesterone and NF-kB receptors based on machine learning and molecular docking**, Parham Rezaee et.al., Paper: [http://arxiv.org/abs/2405.00647v1](http://arxiv.org/abs/2405.00647v1)
@@ -4783,6 +4793,16 @@
 
 ## MultiModal
 
+- 2024-05-02, **Valuing maintenance strategies for fusion plants as part of a future electricity grid**, Jacob A. Schwartz et.al., Paper: [http://arxiv.org/abs/2405.01514v1](http://arxiv.org/abs/2405.01514v1)
+- 2024-05-02, **Reduced Order Modeling for Real-Time Monitoring of Structural Displacements due to Electromagnetic Forces in Large Scale Tokamaks**, Francesco Lucchini et.al., Paper: [http://arxiv.org/abs/2405.01406v1](http://arxiv.org/abs/2405.01406v1)
+- 2024-05-02, **Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations**, S. J. P. Pamela et.al., Paper: [http://arxiv.org/abs/2405.01355v1](http://arxiv.org/abs/2405.01355v1)
+- 2024-05-02, **Low-resource speech recognition and dialect identification of Irish in a multi-task framework**, Liam Lonergan et.al., Paper: [http://arxiv.org/abs/2405.01293v1](http://arxiv.org/abs/2405.01293v1)
+- 2024-05-02, **Causal Influence in Federated Edge Inference**, Mert Kayaalp et.al., Paper: [http://arxiv.org/abs/2405.01260v1](http://arxiv.org/abs/2405.01260v1)
+- 2024-05-02, **Self-Supervised Learning for Interventional Image Analytics: Towards Robust Device Trackers**, Saahil Islam et.al., Paper: [http://arxiv.org/abs/2405.01156v1](http://arxiv.org/abs/2405.01156v1)
+- 2024-05-02, **Enhancing Person Re-Identification via Uncertainty Feature Fusion and Wise Distance Aggregation**, Quang-Huy Che et.al., Paper: [http://arxiv.org/abs/2405.01101v1](http://arxiv.org/abs/2405.01101v1)
+- 2024-05-02, **Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification**, Muhammad Ahmad et.al., Paper: [http://arxiv.org/abs/2405.01095v1](http://arxiv.org/abs/2405.01095v1)
+- 2024-05-02, **MCMS: Multi-Category Information and Multi-Scale Stripe Attention for Blind Motion Deblurring**, Nianzu Qiao et.al., Paper: [http://arxiv.org/abs/2405.01083v1](http://arxiv.org/abs/2405.01083v1)
+- 2024-05-02, **MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information**, Zhenyang Huang et.al., Paper: [http://arxiv.org/abs/2405.01065v1](http://arxiv.org/abs/2405.01065v1), Code: **[https://github.com/aozakiiii/mfds-net](https://github.com/aozakiiii/mfds-net)**
 - 2024-05-01, **WEST GCN-LSTM: Weighted Stacked Spatio-Temporal Graph Neural Networks for Regional Traffic Forecasting**, Theodoros Theodoropoulos et.al., Paper: [http://arxiv.org/abs/2405.00570v1](http://arxiv.org/abs/2405.00570v1)
 - 2024-05-01, **New Benchmark Dataset and Fine-Grained Cross-Modal Fusion Framework for Vietnamese Multimodal Aspect-Category Sentiment Analysis**, Quy Hoang Nguyen et.al., Paper: [http://arxiv.org/abs/2405.00543v1](http://arxiv.org/abs/2405.00543v1)
 - 2024-05-01, **DmADs-Net: Dense multiscale attention and depth-supervised network for medical image segmentation**, Zhaojin Fu et.al., Paper: [http://arxiv.org/abs/2405.00472v1](http://arxiv.org/abs/2405.00472v1)
