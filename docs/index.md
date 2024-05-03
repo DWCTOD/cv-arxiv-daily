@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 
 ## Video_Classification
 
@@ -4800,7 +4800,7 @@ layout: default
 |**2024-04-30**|**Evaluation of An Indoor Localization Engine**|Christophe Villien et.al.|[2404.19538v1](http://arxiv.org/abs/2404.19538v1)|null|
 |**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475v1](http://arxiv.org/abs/2404.19475v1)|null|
 |**2024-04-30**|**Effect of detachment on Magnum-PSI ELM-like pulses: I. Direct observations and qualitative results**|Fabio Federici et.al.|[2404.19464v1](http://arxiv.org/abs/2404.19464v1)|null|
-|**2024-04-30**|**Exploring the potential of synthesizing unknown superheavy isotopes via cold-fusion reactions based on the dinuclear system model**|Hao Wu et.al.|[2404.19446v1](http://arxiv.org/abs/2404.19446v1)|null|
+|**2024-05-02**|**Exploring the potential of synthesizing unknown superheavy isotopes via cold-fusion reactions based on the dinuclear system model**|Hao Wu et.al.|[2404.19446v2](http://arxiv.org/abs/2404.19446v2)|null|
 |**2024-04-30**|**AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion**|Jie Hu et.al.|[2404.19444v1](http://arxiv.org/abs/2404.19444v1)|**[link](https://github.com/hujiecpp/mvtec-caption)**|
 |**2024-04-30**|**Statistical Theory of Neutron-Induced Nuclear Fission and of Heavy-Ion Fusion**|Hans A. Weidenmüller et.al.|[2404.19355v1](http://arxiv.org/abs/2404.19355v1)|null|
 |**2024-04-30**|**Fusing Depthwise and Pointwise Convolutions for Efficient Inference on GPUs**|Fareed Qararyah et.al.|[2404.19331v1](http://arxiv.org/abs/2404.19331v1)|null|

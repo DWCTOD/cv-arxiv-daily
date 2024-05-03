@@ -1,4 +1,4 @@
-> Updated on 2024.05.02
+> Updated on 2024.05.03
 
 ## Video_Classification
 
@@ -4792,7 +4792,7 @@
 - 2024-04-30, **Evaluation of An Indoor Localization Engine**, Christophe Villien et.al., Paper: [http://arxiv.org/abs/2404.19538v1](http://arxiv.org/abs/2404.19538v1)
 - 2024-04-30, **TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**, Teng Zhou et.al., Paper: [http://arxiv.org/abs/2404.19475v1](http://arxiv.org/abs/2404.19475v1)
 - 2024-04-30, **Effect of detachment on Magnum-PSI ELM-like pulses: I. Direct observations and qualitative results**, Fabio Federici et.al., Paper: [http://arxiv.org/abs/2404.19464v1](http://arxiv.org/abs/2404.19464v1)
-- 2024-04-30, **Exploring the potential of synthesizing unknown superheavy isotopes via cold-fusion reactions based on the dinuclear system model**, Hao Wu et.al., Paper: [http://arxiv.org/abs/2404.19446v1](http://arxiv.org/abs/2404.19446v1)
+- 2024-05-02, **Exploring the potential of synthesizing unknown superheavy isotopes via cold-fusion reactions based on the dinuclear system model**, Hao Wu et.al., Paper: [http://arxiv.org/abs/2404.19446v2](http://arxiv.org/abs/2404.19446v2)
 - 2024-04-30, **AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion**, Jie Hu et.al., Paper: [http://arxiv.org/abs/2404.19444v1](http://arxiv.org/abs/2404.19444v1), Code: **[https://github.com/hujiecpp/mvtec-caption](https://github.com/hujiecpp/mvtec-caption)**
 - 2024-04-30, **Statistical Theory of Neutron-Induced Nuclear Fission and of Heavy-Ion Fusion**, Hans A. Weidenmüller et.al., Paper: [http://arxiv.org/abs/2404.19355v1](http://arxiv.org/abs/2404.19355v1)
 - 2024-04-30, **Fusing Depthwise and Pointwise Convolutions for Efficient Inference on GPUs**, Fareed Qararyah et.al., Paper: [http://arxiv.org/abs/2404.19331v1](http://arxiv.org/abs/2404.19331v1)
