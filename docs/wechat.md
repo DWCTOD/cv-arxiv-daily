@@ -1,4 +1,4 @@
-> Updated on 2024.05.05
+> Updated on 2024.05.06
 
 ## Video_Classification
 
@@ -6,9 +6,9 @@
 - 2024-05-02, **Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**, Murtaza Dalal et.al., Paper: [http://arxiv.org/abs/2405.01534v1](http://arxiv.org/abs/2405.01534v1)
 - 2024-05-02, **Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**, Nishad Singhi et.al., Paper: [http://arxiv.org/abs/2405.01531v1](http://arxiv.org/abs/2405.01531v1)
 - 2024-05-02, **Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation**, Homanga Bharadhwaj et.al., Paper: [http://arxiv.org/abs/2405.01527v1](http://arxiv.org/abs/2405.01527v1)
-- 2024-05-02, **A separability-based approach to quantifying generalization: which layer is best?**, Luciano Dyballa et.al., Paper: [http://arxiv.org/abs/2405.01524v1](http://arxiv.org/abs/2405.01524v1)
+- 2024-05-03, **A separability-based approach to quantifying generalization: which layer is best?**, Luciano Dyballa et.al., Paper: [http://arxiv.org/abs/2405.01524v2](http://arxiv.org/abs/2405.01524v2)
 - 2024-05-02, **Grand Design vs. Multi-Armed Spiral Galaxies: Dependence on Galaxy Structure**, Beverly J. Smith et.al., Paper: [http://arxiv.org/abs/2405.01516v1](http://arxiv.org/abs/2405.01516v1)
-- 2024-05-02, **Accelerating Convergence in Bayesian Few-Shot Classification**, Tianjun Ke et.al., Paper: [http://arxiv.org/abs/2405.01507v1](http://arxiv.org/abs/2405.01507v1), Code: **[https://github.com/keanson/md-bsfc](https://github.com/keanson/md-bsfc)**
+- 2024-05-03, **Accelerating Convergence in Bayesian Few-Shot Classification**, Tianjun Ke et.al., Paper: [http://arxiv.org/abs/2405.01507v2](http://arxiv.org/abs/2405.01507v2), Code: **[https://github.com/keanson/md-bsfc](https://github.com/keanson/md-bsfc)**
 - 2024-05-02, **PAM-UNet: Shifting Attention on Region of Interest in Medical Images**, Abhijit Das et.al., Paper: [http://arxiv.org/abs/2405.01503v1](http://arxiv.org/abs/2405.01503v1)
 - 2024-05-02, **Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**, Prajnamaya Dass et.al., Paper: [http://arxiv.org/abs/2405.01492v1](http://arxiv.org/abs/2405.01492v1)
 - 2024-05-02, **Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**, Bryce McLaughlin et.al., Paper: [http://arxiv.org/abs/2405.01484v1](http://arxiv.org/abs/2405.01484v1)
