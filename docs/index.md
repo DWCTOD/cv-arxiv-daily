@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280v1](http://arxiv.org/abs/2405.02280v1)|null|
+|**2024-05-03**|**Transversely Projective Structures on Smooth Foliations on Surfaces**|Gabriel Fazoli et.al.|[2405.02273v1](http://arxiv.org/abs/2405.02273v1)|null|
+|**2024-05-03**|**On its way to the neutron star-white dwarf binary graveyard, IGR J16194-2810, a first ascent M giant X-ray binary**|K. H. Hinkle et.al.|[2405.02270v1](http://arxiv.org/abs/2405.02270v1)|null|
+|**2024-05-03**|**Validating Gaia DR3 Pulsating Variable Classifications with TESS: Building Reliable $δ$ Scuti and $γ$ Doradus Stars Catalogs (In Progress)**|Ai-Ying Zhou et.al.|[2405.02264v1](http://arxiv.org/abs/2405.02264v1)|null|
+|**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240v1](http://arxiv.org/abs/2405.02240v1)|null|
+|**2024-05-03**|**Fair Risk Control: A Generalized Framework for Calibrating Multi-group Fairness Risks**|Lujing Zhang et.al.|[2405.02225v1](http://arxiv.org/abs/2405.02225v1)|null|
+|**2024-05-03**|**Designed Dithering Sign Activation for Binary Neural Networks**|Brayan Monroy et.al.|[2405.02220v1](http://arxiv.org/abs/2405.02220v1)|null|
+|**2024-05-03**|**Multispectral Fine-Grained Classification of Blackgrass in Wheat and Barley Crops**|Madeleine Darbyshire et.al.|[2405.02218v1](http://arxiv.org/abs/2405.02218v1)|null|
+|**2024-05-03**|**Non-Destructive Peat Analysis using Hyperspectral Imaging and Machine Learning**|Yijun Yan et.al.|[2405.02191v1](http://arxiv.org/abs/2405.02191v1)|null|
+|**2024-05-03**|**Hoaxpedia: A Unified Wikipedia Hoax Articles Dataset**|Hsuvas Borkakoty et.al.|[2405.02175v1](http://arxiv.org/abs/2405.02175v1)|null|
 |**2024-05-02**|**Confronting sparse Gaia DR3 photometry with TESS for a sample of about 60,000 hot massive non-radial pulsators**|Daniel Hey et.al.|[2405.01539v1](http://arxiv.org/abs/2405.01539v1)|null|
 |**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534v1](http://arxiv.org/abs/2405.01534v1)|null|
 |**2024-05-02**|**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**|Nishad Singhi et.al.|[2405.01531v1](http://arxiv.org/abs/2405.01531v1)|null|
@@ -4801,6 +4811,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**|Zhilu Zhang et.al.|[2405.02171v1](http://arxiv.org/abs/2405.02171v1)|**[link](https://github.com/cszhilu1998/selfdzsr_plusplus)**|
+|**2024-05-03**|**Multipath-based SLAM with Cooperation and Map Fusion**|Erik Leitinger et.al.|[2405.02126v1](http://arxiv.org/abs/2405.02126v1)|null|
+|**2024-05-03**|**M${^2}$Depth: Self-supervised Two-Frame Multi-camera Metric Depth Estimation**|Yingshuang Zou et.al.|[2405.02004v1](http://arxiv.org/abs/2405.02004v1)|null|
+|**2024-05-03**|**SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation**|Yunsong Yang et.al.|[2405.01992v1](http://arxiv.org/abs/2405.01992v1)|**[link](https://github.com/yysdck/sffnet)**|
+|**2024-05-03**|**Systematic study of capture thresholds with time dependent Hartree-Fock theory**|Hong Yao et.al.|[2405.01985v1](http://arxiv.org/abs/2405.01985v1)|null|
+|**2024-05-02**|**Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design**|Jian Meng et.al.|[2405.01775v1](http://arxiv.org/abs/2405.01775v1)|**[link](https://github.com/seolabcornell/torch2chip)**|
+|**2024-05-02**|**Zero-Shot Monocular Motion Segmentation in the Wild by Combining Deep Learning with Geometric Motion Model Fusion**|Yuxiang Huang et.al.|[2405.01723v1](http://arxiv.org/abs/2405.01723v1)|null|
+|**2024-05-02**|**MMIST-ccRCC: A Real World Medical Dataset for the Development of Multi-Modal Systems**|Tiago Mota et.al.|[2405.01658v1](http://arxiv.org/abs/2405.01658v1)|null|
 |**2024-05-02**|**Valuing maintenance strategies for fusion plants as part of a future electricity grid**|Jacob A. Schwartz et.al.|[2405.01514v1](http://arxiv.org/abs/2405.01514v1)|null|
 |**2024-05-02**|**Reduced Order Modeling for Real-Time Monitoring of Structural Displacements due to Electromagnetic Forces in Large Scale Tokamaks**|Francesco Lucchini et.al.|[2405.01406v1](http://arxiv.org/abs/2405.01406v1)|null|
 |**2024-05-02**|**Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations**|S. J. P. Pamela et.al.|[2405.01355v1](http://arxiv.org/abs/2405.01355v1)|null|
