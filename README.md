@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690v1](http://arxiv.org/abs/2405.03690v1)|null|
+|**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
+|**2024-05-06**|**ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection**|Arpit Bahety et.al.|[2405.03666v1](http://arxiv.org/abs/2405.03666v1)|null|
+|**2024-05-06**|**CICA: Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification**|Sankalp Sinha et.al.|[2405.03660v1](http://arxiv.org/abs/2405.03660v1)|null|
+|**2024-05-06**|**Collecting Consistently High Quality Object Tracks with Minimal Human Involvement by Using Self-Supervised Learning to Detect Tracker Errors**|Samreen Anjum et.al.|[2405.03643v1](http://arxiv.org/abs/2405.03643v1)|null|
+|**2024-05-06**|**Classification of Breast Cancer Histopathology Images using a Modified Supervised Contrastive Learning Method**|Matina Mahdizadeh Sani et.al.|[2405.03642v1](http://arxiv.org/abs/2405.03642v1)|null|
+|**2024-05-06**|**Nonequilibrium relaxation and odd-even effect in finite-temperature electron gases**|Eric Nilsson et.al.|[2405.03635v1](http://arxiv.org/abs/2405.03635v1)|null|
+|**2024-05-06**|**Nonnegative Matrix Factorization in Dimensionality Reduction: A Survey**|Farid Saberi-Movahed et.al.|[2405.03615v1](http://arxiv.org/abs/2405.03615v1)|null|
+|**2024-05-06**|**Dual Relation Mining Network for Zero-Shot Learning**|Jinwei Han et.al.|[2405.03613v1](http://arxiv.org/abs/2405.03613v1)|null|
+|**2024-05-06**|**Communities for the Lagrangian Dynamics of the Turbulent Velocity Gradient Tensor: A Network Participation Approach**|Christopher J. Keylock et.al.|[2405.03589v1](http://arxiv.org/abs/2405.03589v1)|null|
 |**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280v1](http://arxiv.org/abs/2405.02280v1)|null|
 |**2024-05-03**|**Transversely Projective Structures on Smooth Foliations on Surfaces**|Gabriel Fazoli et.al.|[2405.02273v1](http://arxiv.org/abs/2405.02273v1)|null|
 |**2024-05-03**|**On its way to the neutron star-white dwarf binary graveyard, IGR J16194-2810, a first ascent M giant X-ray binary**|K. H. Hinkle et.al.|[2405.02270v1](http://arxiv.org/abs/2405.02270v1)|null|
@@ -4807,6 +4817,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Harnessing metastability for grain size control in multiprincipal element alloys during additive manufacturing**|Akane Wakai et.al.|[2405.03670v1](http://arxiv.org/abs/2405.03670v1)|null|
+|**2024-05-06**|**Dual Relation Mining Network for Zero-Shot Learning**|Jinwei Han et.al.|[2405.03613v1](http://arxiv.org/abs/2405.03613v1)|null|
+|**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519v1](http://arxiv.org/abs/2405.03519v1)|null|
+|**2024-05-06**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352v1](http://arxiv.org/abs/2405.03352v1)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351v1](http://arxiv.org/abs/2405.03351v1)|null|
+|**2024-05-06**|**Distributed Adaptive Spatial Filtering with Inexact Local Solvers**|Charles Hovine et.al.|[2405.03277v1](http://arxiv.org/abs/2405.03277v1)|null|
+|**2024-05-06**|**Deep Learning for Detecting and Early Predicting Chronic Obstructive Pulmonary Disease from Spirogram Time Series: A UK Biobank Study**|Shuhao Mei et.al.|[2405.03239v1](http://arxiv.org/abs/2405.03239v1)|null|
+|**2024-05-06**|**Hierarchical Space-Time Attention for Micro-Expression Recognition**|Haihong Hao et.al.|[2405.03202v1](http://arxiv.org/abs/2405.03202v1)|null|
+|**2024-05-06**|**Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion**|Yunfeng Li et.al.|[2405.03177v1](http://arxiv.org/abs/2405.03177v1)|null|
+|**2024-05-06**|**TF4CTR: Twin Focus Framework for CTR Prediction via Adaptive Sample Differentiation**|Honghao Li et.al.|[2405.03167v1](http://arxiv.org/abs/2405.03167v1)|**[link](https://github.com/salmon1802/tf4ctr)**|
 |**2024-05-03**|**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**|Zhilu Zhang et.al.|[2405.02171v1](http://arxiv.org/abs/2405.02171v1)|**[link](https://github.com/cszhilu1998/selfdzsr_plusplus)**|
 |**2024-05-03**|**Multipath-based SLAM with Cooperation and Map Fusion**|Erik Leitinger et.al.|[2405.02126v1](http://arxiv.org/abs/2405.02126v1)|null|
 |**2024-05-03**|**M${^2}$Depth: Self-supervised Two-Frame Multi-camera Metric Depth Estimation**|Yingshuang Zou et.al.|[2405.02004v1](http://arxiv.org/abs/2405.02004v1)|null|
