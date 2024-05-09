@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-08, **Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**, Nayantara Mudur et.al., Paper: [http://arxiv.org/abs/2405.05255v1](http://arxiv.org/abs/2405.05255v1)
+- 2024-05-08, **Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**, Hongjie Wang et.al., Paper: [http://arxiv.org/abs/2405.05252v1](http://arxiv.org/abs/2405.05252v1)
+- 2024-05-08, **DanceCam: atmospheric turbulence mitigation in wide-field astronomical images with short-exposure video streams**, Spencer Bialek et.al., Paper: [http://arxiv.org/abs/2405.05250v1](http://arxiv.org/abs/2405.05250v1)
+- 2024-05-08, **Deep learning-based variational autoencoder for classification of quantum and classical states of light**, Mahesh Bhupati et.al., Paper: [http://arxiv.org/abs/2405.05243v1](http://arxiv.org/abs/2405.05243v1)
+- 2024-05-08, **On $\operatorname{Alt}(n)$-modules with an additive dimension when $n\le6$**, Barry Chin et.al., Paper: [http://arxiv.org/abs/2405.05230v1](http://arxiv.org/abs/2405.05230v1)
+- 2024-05-08, **Are Economically Advanced Countries More Efficient in Basic and Applied Research?**, Vladimír Holý et.al., Paper: [http://arxiv.org/abs/2405.05227v1](http://arxiv.org/abs/2405.05227v1)
+- 2024-05-08, **Clustering Retail Products Based on Customer Behaviour**, Vladimír Holý et.al., Paper: [http://arxiv.org/abs/2405.05218v1](http://arxiv.org/abs/2405.05218v1)
+- 2024-05-08, **FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**, Jinglin Xu et.al., Paper: [http://arxiv.org/abs/2405.05216v1](http://arxiv.org/abs/2405.05216v1), Code: **[https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**
+- 2024-05-08, **Graded Relevance Scoring of Written Essays with Dense Retrieval**, Salam Albatarni et.al., Paper: [http://arxiv.org/abs/2405.05200v1](http://arxiv.org/abs/2405.05200v1)
+- 2024-05-08, **Is Transductive Learning Equivalent to PAC Learning?**, Shaddin Dughmi et.al., Paper: [http://arxiv.org/abs/2405.05190v1](http://arxiv.org/abs/2405.05190v1)
 - 2024-05-07, **Switchable Decision: Dynamic Neural Generation Networks**, Shujian Zhang et.al., Paper: [http://arxiv.org/abs/2405.04513v1](http://arxiv.org/abs/2405.04513v1)
 - 2024-05-07, **Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing**, Yi Zuo et.al., Paper: [http://arxiv.org/abs/2405.04496v1](http://arxiv.org/abs/2405.04496v1)
 - 2024-05-07, **Exploration of Novel Neuromorphic Methodologies for Materials Applications**, Derek Gobin et.al., Paper: [http://arxiv.org/abs/2405.04478v1](http://arxiv.org/abs/2405.04478v1)
@@ -4823,6 +4833,16 @@
 
 ## MultiModal
 
+- 2024-05-08, **Hybrid Quantum Graph Neural Network for Molecular Property Prediction**, Michael Vitz et.al., Paper: [http://arxiv.org/abs/2405.05205v1](http://arxiv.org/abs/2405.05205v1)
+- 2024-05-08, **Fusion rule in conformal field theories and topological orders: A unified view of correspondence and (fractional) supersymmetry and their relation to topological holography**, Yoshiki Fukusumi et.al., Paper: [http://arxiv.org/abs/2405.05178v1](http://arxiv.org/abs/2405.05178v1)
+- 2024-05-08, **A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**, Huaiyuan Xu et.al., Paper: [http://arxiv.org/abs/2405.05173v1](http://arxiv.org/abs/2405.05173v1)
+- 2024-05-08, **ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**, Bing Zhu et.al., Paper: [http://arxiv.org/abs/2405.05164v1](http://arxiv.org/abs/2405.05164v1)
+- 2024-05-08, **Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection**, Shengyang Sun et.al., Paper: [http://arxiv.org/abs/2405.05130v1](http://arxiv.org/abs/2405.05130v1), Code: **[https://github.com/shengyangsun/MSBT](https://github.com/shengyangsun/MSBT)**
+- 2024-05-08, **G-Loc: Tightly-coupled Graph Localization with Prior Topo-metric Information**, Lorenzo Montano-Oliván et.al., Paper: [http://arxiv.org/abs/2405.05059v1](http://arxiv.org/abs/2405.05059v1)
+- 2024-05-08, **TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking**, Pengcheng Shao et.al., Paper: [http://arxiv.org/abs/2405.05004v1](http://arxiv.org/abs/2405.05004v1)
+- 2024-05-08, **HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**, Shu-Chuan Chu et.al., Paper: [http://arxiv.org/abs/2405.05001v1](http://arxiv.org/abs/2405.05001v1), Code: **[https://github.com/korouuuuu/hma](https://github.com/korouuuuu/hma)**
+- 2024-05-08, **Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**, Yi Xiao et.al., Paper: [http://arxiv.org/abs/2405.04964v1](http://arxiv.org/abs/2405.04964v1)
+- 2024-05-08, **Self-supervised Gait-based Emotion Representation Learning from Selective Strongly Augmented Skeleton Sequences**, Cheng Song et.al., Paper: [http://arxiv.org/abs/2405.04900v1](http://arxiv.org/abs/2405.04900v1)
 - 2024-05-07, **Leveraging LSTM and GAN for Modern Malware Detection**, Ishita Gupta et.al., Paper: [http://arxiv.org/abs/2405.04373v1](http://arxiv.org/abs/2405.04373v1)
 - 2024-05-07, **Community Detection for Heterogeneous Multiple Social Networks**, Ziqing Zhu et.al., Paper: [http://arxiv.org/abs/2405.04371v1](http://arxiv.org/abs/2405.04371v1)
 - 2024-05-07, **Global Scale Self-Supervised Channel Charting with Sensor Fusion**, Omid Esrafilian et.al., Paper: [http://arxiv.org/abs/2405.04357v1](http://arxiv.org/abs/2405.04357v1)
