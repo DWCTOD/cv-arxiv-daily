@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-09, **A Universal Growth Rate for Learning with Smooth Surrogate Losses**, Anqi Mao et.al., Paper: [http://arxiv.org/abs/2405.05968v1](http://arxiv.org/abs/2405.05968v1)
+- 2024-05-09, **Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**, Zineb Senane et.al., Paper: [http://arxiv.org/abs/2405.05959v1](http://arxiv.org/abs/2405.05959v1), Code: **[https://github.com/eqtpartners/tsde](https://github.com/eqtpartners/tsde)**
+- 2024-05-09, **Frame Interpolation with Consecutive Brownian Bridge Diffusion**, Zonglin Lyu et.al., Paper: [http://arxiv.org/abs/2405.05953v1](http://arxiv.org/abs/2405.05953v1)
+- 2024-05-09, **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**, Peng Gao et.al., Paper: [http://arxiv.org/abs/2405.05945v1](http://arxiv.org/abs/2405.05945v1), Code: **[https://github.com/alpha-vllm/lumina-t2x](https://github.com/alpha-vllm/lumina-t2x)**
+- 2024-05-09, **MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI**, Yan Zhuang et.al., Paper: [http://arxiv.org/abs/2405.05944v1](http://arxiv.org/abs/2405.05944v1)
+- 2024-05-09, **Non-symplectic automorphisms of prime order of O'Grady's tenfolds and cubic fourfolds**, Simone Billi et.al., Paper: [http://arxiv.org/abs/2405.05932v1](http://arxiv.org/abs/2405.05932v1)
+- 2024-05-09, **Deep Multi-Task Learning for Malware Image Classification**, Ahmed Bensaoud et.al., Paper: [http://arxiv.org/abs/2405.05906v1](http://arxiv.org/abs/2405.05906v1)
+- 2024-05-09, **An RNN-policy gradient approach for quantum architecture search**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.05892v1](http://arxiv.org/abs/2405.05892v1)
+- 2024-05-09, **Composable Part-Based Manipulation**, Weiyu Liu et.al., Paper: [http://arxiv.org/abs/2405.05876v1](http://arxiv.org/abs/2405.05876v1)
+- 2024-05-09, **ExACT: An End-to-End Autonomous Excavator System Using Action Chunking With Transformers**, Liangliang Chen et.al., Paper: [http://arxiv.org/abs/2405.05861v1](http://arxiv.org/abs/2405.05861v1)
 - 2024-05-08, **Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**, Nayantara Mudur et.al., Paper: [http://arxiv.org/abs/2405.05255v1](http://arxiv.org/abs/2405.05255v1), Code: **[https://github.com/nmudur/diffusion-hmc](https://github.com/nmudur/diffusion-hmc)**
 - 2024-05-08, **Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**, Hongjie Wang et.al., Paper: [http://arxiv.org/abs/2405.05252v1](http://arxiv.org/abs/2405.05252v1)
 - 2024-05-08, **DanceCam: atmospheric turbulence mitigation in wide-field astronomical images with short-exposure video streams**, Spencer Bialek et.al., Paper: [http://arxiv.org/abs/2405.05250v1](http://arxiv.org/abs/2405.05250v1)
@@ -4833,6 +4843,16 @@
 
 ## MultiModal
 
+- 2024-05-09, **Lattice Models for Phases and Transitions with Non-Invertible Symmetries**, Lakshya Bhardwaj et.al., Paper: [http://arxiv.org/abs/2405.05964v1](http://arxiv.org/abs/2405.05964v1)
+- 2024-05-09, **Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**, Azarakhsh Jalalvand et.al., Paper: [http://arxiv.org/abs/2405.05908v1](http://arxiv.org/abs/2405.05908v1)
+- 2024-05-09, **SMARTINI3: Systematic Parametrization of Realistic Multi-Scale Membrane Models via Unsupervised Learning and Multi-Objective Evolutionary Algorithms**, Alireza Soleimani et.al., Paper: [http://arxiv.org/abs/2405.05864v1](http://arxiv.org/abs/2405.05864v1)
+- 2024-05-09, **Drift-Energy Replacement Effect in Multi-Ion Magnetized Plasmas**, M. E. Mlodik et.al., Paper: [http://arxiv.org/abs/2405.05829v1](http://arxiv.org/abs/2405.05829v1)
+- 2024-05-09, **Probing CPV mixing in the Higgs sector in VBF at 1 TeV ILC**, N. Vukašinović et.al., Paper: [http://arxiv.org/abs/2405.05820v1](http://arxiv.org/abs/2405.05820v1)
+- 2024-05-09, **Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion**, Huanyu Tian et.al., Paper: [http://arxiv.org/abs/2405.05817v1](http://arxiv.org/abs/2405.05817v1)
+- 2024-05-09, **MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**, Pinhuang Tan et.al., Paper: [http://arxiv.org/abs/2405.05814v1](http://arxiv.org/abs/2405.05814v1)
+- 2024-05-09, **Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**, Zhizhen Zhang et.al., Paper: [http://arxiv.org/abs/2405.05760v1](http://arxiv.org/abs/2405.05760v1)
+- 2024-05-09, **Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation**, Mo Guan et.al., Paper: [http://arxiv.org/abs/2405.05672v1](http://arxiv.org/abs/2405.05672v1)
+- 2024-05-09, **Depth Awakens: A Depth-perceptual Attention Fusion Network for RGB-D Camouflaged Object Detection**, Xinran Liua et.al., Paper: [http://arxiv.org/abs/2405.05614v1](http://arxiv.org/abs/2405.05614v1)
 - 2024-05-08, **Hybrid Quantum Graph Neural Network for Molecular Property Prediction**, Michael Vitz et.al., Paper: [http://arxiv.org/abs/2405.05205v1](http://arxiv.org/abs/2405.05205v1)
 - 2024-05-08, **Fusion rule in conformal field theories and topological orders: A unified view of correspondence and (fractional) supersymmetry and their relation to topological holography**, Yoshiki Fukusumi et.al., Paper: [http://arxiv.org/abs/2405.05178v1](http://arxiv.org/abs/2405.05178v1)
 - 2024-05-08, **A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**, Huaiyuan Xu et.al., Paper: [http://arxiv.org/abs/2405.05173v1](http://arxiv.org/abs/2405.05173v1)
