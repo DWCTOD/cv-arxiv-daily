@@ -1,8 +1,8 @@
-> Updated on 2024.05.09
+> Updated on 2024.05.10
 
 ## Video_Classification
 
-- 2024-05-08, **Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**, Nayantara Mudur et.al., Paper: [http://arxiv.org/abs/2405.05255v1](http://arxiv.org/abs/2405.05255v1)
+- 2024-05-08, **Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**, Nayantara Mudur et.al., Paper: [http://arxiv.org/abs/2405.05255v1](http://arxiv.org/abs/2405.05255v1), Code: **[https://github.com/nmudur/diffusion-hmc](https://github.com/nmudur/diffusion-hmc)**
 - 2024-05-08, **Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**, Hongjie Wang et.al., Paper: [http://arxiv.org/abs/2405.05252v1](http://arxiv.org/abs/2405.05252v1)
 - 2024-05-08, **DanceCam: atmospheric turbulence mitigation in wide-field astronomical images with short-exposure video streams**, Spencer Bialek et.al., Paper: [http://arxiv.org/abs/2405.05250v1](http://arxiv.org/abs/2405.05250v1)
 - 2024-05-08, **Deep learning-based variational autoencoder for classification of quantum and classical states of light**, Mahesh Bhupati et.al., Paper: [http://arxiv.org/abs/2405.05243v1](http://arxiv.org/abs/2405.05243v1)
