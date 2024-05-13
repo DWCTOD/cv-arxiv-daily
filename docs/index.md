@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[2405.06600v1](http://arxiv.org/abs/2405.06600v1)|**[link](https://github.com/ying-fu/lmot)**|
+|**2024-05-10**|**Ice phase classification made easy with score-based denoising**|Hong Sun et.al.|[2405.06599v1](http://arxiv.org/abs/2405.06599v1)|null|
+|**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586v1](http://arxiv.org/abs/2405.06586v1)|null|
+|**2024-05-10**|**Deep video representation learning: a survey**|Elham Ravanbakhsh et.al.|[2405.06574v1](http://arxiv.org/abs/2405.06574v1)|null|
+|**2024-05-10**|**The Role of Topological Photon Spheres in Constraining the Parameters of Black Holes**|Jafar Sadeghi et.al.|[2405.06568v1](http://arxiv.org/abs/2405.06568v1)|null|
+|**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547v1](http://arxiv.org/abs/2405.06547v1)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
+|**2024-05-10**|**Separating States in Astronomical Sources Using Hidden Markov Models: With a Case Study of Flaring and Quiescence on EV Lac**|Robert Zimmerman et.al.|[2405.06540v1](http://arxiv.org/abs/2405.06540v1)|null|
+|**2024-05-10**|**Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation**|Xiaowen Ma et.al.|[2405.06525v1](http://arxiv.org/abs/2405.06525v1)|**[link](https://github.com/xwmaxwma/ssa)**|
+|**2024-05-10**|**Aspect-based Sentiment Evaluation of Chess Moves (ASSESS): an NLP-based Method for Evaluating Chess Strategies from Textbooks**|Haifa Alrdahi et.al.|[2405.06499v1](http://arxiv.org/abs/2405.06499v1)|null|
+|**2024-05-10**|**Improving Deep Learning Model Calibration for Cardiac Applications using Deterministic Uncertainty Networks and Uncertainty-aware Training**|Tareen Dawood et.al.|[2405.06487v1](http://arxiv.org/abs/2405.06487v1)|null|
 |**2024-05-09**|**A Universal Growth Rate for Learning with Smooth Surrogate Losses**|Anqi Mao et.al.|[2405.05968v1](http://arxiv.org/abs/2405.05968v1)|null|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|**[link](https://github.com/eqtpartners/tsde)**|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953v1](http://arxiv.org/abs/2405.05953v1)|null|
@@ -4851,6 +4861,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Solar fusion III: New data and theory for hydrogen-burning stars**|B. Acharya et.al.|[2405.06470v1](http://arxiv.org/abs/2405.06470v1)|null|
+|**2024-05-10**|**Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting**|Tianxiang Zhan et.al.|[2405.06419v1](http://arxiv.org/abs/2405.06419v1)|**[link](https://github.com/ztxtech/Time-Evidence-Fusion-Network)**|
+|**2024-05-10**|**Electromagnetic Property Sensing in ISAC with Multiple Base Stations: Algorithm, Pilot Design,and Performance Analysis**|Yuhua Jiang et.al.|[2405.06364v1](http://arxiv.org/abs/2405.06364v1)|null|
+|**2024-05-10**|**ODC-SA Net: Orthogonal Direction Enhancement and Scale Aware Network for Polyp Segmentation**|Chenhao Xu et.al.|[2405.06191v1](http://arxiv.org/abs/2405.06191v1)|null|
+|**2024-05-09**|**Enhanced Multimodal Content Moderation of Children's Videos using Audiovisual Fusion**|Syed Hammad Ahmed et.al.|[2405.06128v1](http://arxiv.org/abs/2405.06128v1)|null|
+|**2024-05-09**|**Anomalous properties of spark plasma sintered boron nitride solids**|Abhijit Biswas et.al.|[2405.06007v1](http://arxiv.org/abs/2405.06007v1)|null|
 |**2024-05-09**|**Lattice Models for Phases and Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2405.05964v1](http://arxiv.org/abs/2405.05964v1)|null|
 |**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908v1](http://arxiv.org/abs/2405.05908v1)|null|
 |**2024-05-09**|**SMARTINI3: Systematic Parametrization of Realistic Multi-Scale Membrane Models via Unsupervised Learning and Multi-Objective Evolutionary Algorithms**|Alireza Soleimani et.al.|[2405.05864v1](http://arxiv.org/abs/2405.05864v1)|null|
