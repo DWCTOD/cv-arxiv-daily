@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-13, **MambaOut: Do We Really Need Mamba for Vision?**, Weihao Yu et.al., Paper: [http://arxiv.org/abs/2405.07992v1](http://arxiv.org/abs/2405.07992v1), Code: **[https://github.com/yuweihao/mambaout](https://github.com/yuweihao/mambaout)**
+- 2024-05-13, **SPIN: Simultaneous Perception, Interaction and Navigation**, Shagun Uppal et.al., Paper: [http://arxiv.org/abs/2405.07991v1](http://arxiv.org/abs/2405.07991v1)
+- 2024-05-13, **KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**, Wansong Liu et.al., Paper: [http://arxiv.org/abs/2405.07962v1](http://arxiv.org/abs/2405.07962v1)
+- 2024-05-13, **An Algorithmic Classification of Generalized Pseudo-Anosov Homeomorphisms via Geometric Markov Partitions**, Inti Cruz Diaz et.al., Paper: [http://arxiv.org/abs/2405.07954v1](http://arxiv.org/abs/2405.07954v1)
+- 2024-05-13, **Scene Action Maps: Behavioural Maps for Navigation without Metric Information**, Joel Loo et.al., Paper: [http://arxiv.org/abs/2405.07948v1](http://arxiv.org/abs/2405.07948v1)
+- 2024-05-13, **PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**, Ziyang Zhang et.al., Paper: [http://arxiv.org/abs/2405.07932v1](http://arxiv.org/abs/2405.07932v1), Code: **[https://github.com/ed-zh/parden](https://github.com/ed-zh/parden)**
+- 2024-05-13, **Improving Multimodal Learning with Multi-Loss Gradient Modulation**, Konstantinos Kontras et.al., Paper: [http://arxiv.org/abs/2405.07930v1](http://arxiv.org/abs/2405.07930v1)
+- 2024-05-13, **PLUTO: Pathology-Universal Transformer**, Dinkar Juyal et.al., Paper: [http://arxiv.org/abs/2405.07905v1](http://arxiv.org/abs/2405.07905v1)
+- 2024-05-13, **Enhancing Clinically Significant Prostate Cancer Prediction in T2-weighted Images through Transfer Learning from Breast Cancer**, Chi-en Amy Tai et.al., Paper: [http://arxiv.org/abs/2405.07869v1](http://arxiv.org/abs/2405.07869v1)
+- 2024-05-13, **Improving Breast Cancer Grade Prediction with Multiparametric MRI Created Using Optimized Synthetic Correlated Diffusion Imaging**, Chi-en Amy Tai et.al., Paper: [http://arxiv.org/abs/2405.07861v1](http://arxiv.org/abs/2405.07861v1)
 - 2024-05-10, **Multi-Object Tracking in the Dark**, Xinzhe Wang et.al., Paper: [http://arxiv.org/abs/2405.06600v1](http://arxiv.org/abs/2405.06600v1), Code: **[https://github.com/ying-fu/lmot](https://github.com/ying-fu/lmot)**
 - 2024-05-10, **Ice phase classification made easy with score-based denoising**, Hong Sun et.al., Paper: [http://arxiv.org/abs/2405.06599v1](http://arxiv.org/abs/2405.06599v1)
 - 2024-05-10, **Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**, Elham Ravanbakhsh et.al., Paper: [http://arxiv.org/abs/2405.06586v1](http://arxiv.org/abs/2405.06586v1)
@@ -4853,6 +4863,16 @@
 
 ## MultiModal
 
+- 2024-05-13, **Improving Multimodal Learning with Multi-Loss Gradient Modulation**, Konstantinos Kontras et.al., Paper: [http://arxiv.org/abs/2405.07930v1](http://arxiv.org/abs/2405.07930v1)
+- 2024-05-13, **Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**, Mahdi Morafah et.al., Paper: [http://arxiv.org/abs/2405.07925v1](http://arxiv.org/abs/2405.07925v1)
+- 2024-05-13, **Tritium $β$-decay and Proton-Proton Fusion in Pionless Effective Field Theory**, Ha S. Nguyen et.al., Paper: [http://arxiv.org/abs/2405.07889v1](http://arxiv.org/abs/2405.07889v1)
+- 2024-05-13, **Mapping the Invisible: A Framework for Tracking COVID-19 Spread Among College Students with Google Location Data**, Prajindra Sankar Krishnan et.al., Paper: [http://arxiv.org/abs/2405.07870v1](http://arxiv.org/abs/2405.07870v1)
+- 2024-05-13, **Multi-Task Learning for Fatigue Detection and Face Recognition of Drivers via Tree-Style Space-Channel Attention Fusion Network**, Shulei Qu et.al., Paper: [http://arxiv.org/abs/2405.07845v1](http://arxiv.org/abs/2405.07845v1)
+- 2024-05-13, **Integrating Multi-Physics Simulations and Machine Learning to Define the Spatter Mechanism and Process Window in Laser Powder Bed Fusion**, Olabode T. Ajenifujah et.al., Paper: [http://arxiv.org/abs/2405.07823v1](http://arxiv.org/abs/2405.07823v1)
+- 2024-05-13, **Localizing Task Information for Improved Model Merging and Compression**, Ke Wang et.al., Paper: [http://arxiv.org/abs/2405.07813v1](http://arxiv.org/abs/2405.07813v1)
+- 2024-05-13, **Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**, Amandeep Singh Bhatia et.al., Paper: [http://arxiv.org/abs/2405.07735v1](http://arxiv.org/abs/2405.07735v1)
+- 2024-05-13, **FORESEE: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival**, Liangrui Pan et.al., Paper: [http://arxiv.org/abs/2405.07702v1](http://arxiv.org/abs/2405.07702v1)
+- 2024-05-13, **Highly Efficient Observation Process based on FFT Filtering for Robot Swarm Collaborative Navigation in Unknown Environments**, Chenxi Li et.al., Paper: [http://arxiv.org/abs/2405.07687v1](http://arxiv.org/abs/2405.07687v1)
 - 2024-05-10, **Solar fusion III: New data and theory for hydrogen-burning stars**, B. Acharya et.al., Paper: [http://arxiv.org/abs/2405.06470v1](http://arxiv.org/abs/2405.06470v1)
 - 2024-05-10, **Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting**, Tianxiang Zhan et.al., Paper: [http://arxiv.org/abs/2405.06419v1](http://arxiv.org/abs/2405.06419v1), Code: **[https://github.com/ztxtech/Time-Evidence-Fusion-Network](https://github.com/ztxtech/Time-Evidence-Fusion-Network)**
 - 2024-05-10, **Electromagnetic Property Sensing in ISAC with Multiple Base Stations: Algorithm, Pilot Design,and Performance Analysis**, Yuhua Jiang et.al., Paper: [http://arxiv.org/abs/2405.06364v1](http://arxiv.org/abs/2405.06364v1)
