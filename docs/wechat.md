@@ -1,4 +1,4 @@
-> Updated on 2024.05.14
+> Updated on 2024.05.15
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 - 2024-05-13, **KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**, Wansong Liu et.al., Paper: [http://arxiv.org/abs/2405.07962v1](http://arxiv.org/abs/2405.07962v1)
 - 2024-05-13, **An Algorithmic Classification of Generalized Pseudo-Anosov Homeomorphisms via Geometric Markov Partitions**, Inti Cruz Diaz et.al., Paper: [http://arxiv.org/abs/2405.07954v1](http://arxiv.org/abs/2405.07954v1)
 - 2024-05-13, **Scene Action Maps: Behavioural Maps for Navigation without Metric Information**, Joel Loo et.al., Paper: [http://arxiv.org/abs/2405.07948v1](http://arxiv.org/abs/2405.07948v1)
-- 2024-05-13, **PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**, Ziyang Zhang et.al., Paper: [http://arxiv.org/abs/2405.07932v1](http://arxiv.org/abs/2405.07932v1), Code: **[https://github.com/ed-zh/parden](https://github.com/ed-zh/parden)**
+- 2024-05-14, **PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**, Ziyang Zhang et.al., Paper: [http://arxiv.org/abs/2405.07932v2](http://arxiv.org/abs/2405.07932v2), Code: **[https://github.com/ed-zh/parden](https://github.com/ed-zh/parden)**
 - 2024-05-13, **Improving Multimodal Learning with Multi-Loss Gradient Modulation**, Konstantinos Kontras et.al., Paper: [http://arxiv.org/abs/2405.07930v1](http://arxiv.org/abs/2405.07930v1)
 - 2024-05-13, **PLUTO: Pathology-Universal Transformer**, Dinkar Juyal et.al., Paper: [http://arxiv.org/abs/2405.07905v1](http://arxiv.org/abs/2405.07905v1)
 - 2024-05-13, **Enhancing Clinically Significant Prostate Cancer Prediction in T2-weighted Images through Transfer Learning from Breast Cancer**, Chi-en Amy Tai et.al., Paper: [http://arxiv.org/abs/2405.07869v1](http://arxiv.org/abs/2405.07869v1)
