@@ -2,7 +2,7 @@
 
 ## Video_Classification
 
-- 2024-05-13, **MambaOut: Do We Really Need Mamba for Vision?**, Weihao Yu et.al., Paper: [http://arxiv.org/abs/2405.07992v1](http://arxiv.org/abs/2405.07992v1), Code: **[https://github.com/yuweihao/mambaout](https://github.com/yuweihao/mambaout)**
+- 2024-05-14, **MambaOut: Do We Really Need Mamba for Vision?**, Weihao Yu et.al., Paper: [http://arxiv.org/abs/2405.07992v2](http://arxiv.org/abs/2405.07992v2), Code: **[https://github.com/yuweihao/mambaout](https://github.com/yuweihao/mambaout)**
 - 2024-05-13, **SPIN: Simultaneous Perception, Interaction and Navigation**, Shagun Uppal et.al., Paper: [http://arxiv.org/abs/2405.07991v1](http://arxiv.org/abs/2405.07991v1)
 - 2024-05-13, **KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**, Wansong Liu et.al., Paper: [http://arxiv.org/abs/2405.07962v1](http://arxiv.org/abs/2405.07962v1)
 - 2024-05-13, **An Algorithmic Classification of Generalized Pseudo-Anosov Homeomorphisms via Geometric Markov Partitions**, Inti Cruz Diaz et.al., Paper: [http://arxiv.org/abs/2405.07954v1](http://arxiv.org/abs/2405.07954v1)
