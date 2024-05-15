@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813v1](http://arxiv.org/abs/2405.08813v1)|null|
+|**2024-05-14**|**The Developing Human Connectome Project: A Fast Deep Learning-based Pipeline for Neonatal Cortical Surface Reconstruction**|Qiang Ma et.al.|[2405.08783v1](http://arxiv.org/abs/2405.08783v1)|null|
+|**2024-05-14**|**Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**|Gregory Holste et.al.|[2405.08780v1](http://arxiv.org/abs/2405.08780v1)|null|
+|**2024-05-14**|**FolkTalent: Enhancing Classification and Tagging of Indian Folk Paintings**|Nancy Hada et.al.|[2405.08776v1](http://arxiv.org/abs/2405.08776v1)|null|
+|**2024-05-14**|**From Text to Context: An Entailment Approach for News Stakeholder Classification**|Alapan Kuila et.al.|[2405.08751v1](http://arxiv.org/abs/2405.08751v1)|null|
+|**2024-05-14**|**Enhancing Blind Video Quality Assessment with Rich Quality-aware Features**|Wei Sun et.al.|[2405.08745v1](http://arxiv.org/abs/2405.08745v1)|null|
+|**2024-05-14**|**The impact of Compositionality in Zero-shot Multi-label action recognition for Object-based tasks**|Carmela Calabrese et.al.|[2405.08695v1](http://arxiv.org/abs/2405.08695v1)|null|
+|**2024-05-14**|**Latent group structure in linear panel data models with endogenous regressors**|Junho Choi et.al.|[2405.08687v1](http://arxiv.org/abs/2405.08687v1)|null|
+|**2024-05-14**|**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**|Qingpeng Kong et.al.|[2405.08681v1](http://arxiv.org/abs/2405.08681v1)|**[link](https://github.com/kqp1227/sensitive-channel-pruning)**|
+|**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679v1](http://arxiv.org/abs/2405.08679v1)|null|
 |**2024-05-14**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992v2](http://arxiv.org/abs/2405.07992v2)|**[link](https://github.com/yuweihao/mambaout)**|
 |**2024-05-13**|**SPIN: Simultaneous Perception, Interaction and Navigation**|Shagun Uppal et.al.|[2405.07991v1](http://arxiv.org/abs/2405.07991v1)|null|
 |**2024-05-13**|**KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**|Wansong Liu et.al.|[2405.07962v1](http://arxiv.org/abs/2405.07962v1)|null|
@@ -4867,6 +4877,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**|Lingdong Kong et.al.|[2405.08816v1](http://arxiv.org/abs/2405.08816v1)|null|
+|**2024-05-14**|**CATEcor: an Open Science, Shaded-Truss, Externally-Occulted Coronagraph**|Craig E. DeForest et.al.|[2405.08739v1](http://arxiv.org/abs/2405.08739v1)|null|
+|**2024-05-14**|**Enhancing Reinforcement Learning in Sensor Fusion: A Comparative Analysis of Cubature and Sampling-based Integration Methods for Rover Search Planning**|Jan-Hendrik Ewers et.al.|[2405.08691v1](http://arxiv.org/abs/2405.08691v1)|null|
+|**2024-05-14**|**Cryptography-Based Privacy-Preserving Method for Distributed Optimization over Time-Varying Directed Graphs with Enhanced Efficiency**|Bing Liu et.al.|[2405.08518v1](http://arxiv.org/abs/2405.08518v1)|null|
+|**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
+|**2024-05-14**|**Could Chemical LLMs benefit from Message Passing**|Jiaqing Xie et.al.|[2405.08334v1](http://arxiv.org/abs/2405.08334v1)|null|
+|**2024-05-14**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300v1](http://arxiv.org/abs/2405.08300v1)|null|
+|**2024-05-14**|**Airport Delay Prediction with Temporal Fusion Transformers**|Ke Liu et.al.|[2405.08293v1](http://arxiv.org/abs/2405.08293v1)|null|
+|**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246v1](http://arxiv.org/abs/2405.08246v1)|null|
+|**2024-05-13**|**IHC Matters: Incorporating IHC analysis to H&E Whole Slide Image Analysis for Improved Cancer Grading via Two-stage Multimodal Bilinear Pooling Fusion**|Jun Wang et.al.|[2405.08197v1](http://arxiv.org/abs/2405.08197v1)|null|
 |**2024-05-13**|**Improving Multimodal Learning with Multi-Loss Gradient Modulation**|Konstantinos Kontras et.al.|[2405.07930v1](http://arxiv.org/abs/2405.07930v1)|null|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925v1](http://arxiv.org/abs/2405.07925v1)|null|
 |**2024-05-13**|**Tritium $β$-decay and Proton-Proton Fusion in Pionless Effective Field Theory**|Ha S. Nguyen et.al.|[2405.07889v1](http://arxiv.org/abs/2405.07889v1)|null|
