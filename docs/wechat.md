@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-15, **Classifying geospatial objects from multiview aerial imagery using semantic meshes**, David Russell et.al., Paper: [http://arxiv.org/abs/2405.09544v1](http://arxiv.org/abs/2405.09544v1)
+- 2024-05-15, **Spectral complexity of deep neural networks**, Simmaco Di Lillo et.al., Paper: [http://arxiv.org/abs/2405.09541v1](http://arxiv.org/abs/2405.09541v1)
+- 2024-05-15, **MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**, Chengyu Wu et.al., Paper: [http://arxiv.org/abs/2405.09539v1](http://arxiv.org/abs/2405.09539v1), Code: **[https://github.com/wuchengyu123/mmfusion](https://github.com/wuchengyu123/mmfusion)**
+- 2024-05-15, **Restoring balance: principled under/oversampling of data for optimal classification**, Emanuele Loffredo et.al., Paper: [http://arxiv.org/abs/2405.09535v1](http://arxiv.org/abs/2405.09535v1)
+- 2024-05-15, **Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck**, Hongru Li et.al., Paper: [http://arxiv.org/abs/2405.09514v1](http://arxiv.org/abs/2405.09514v1)
+- 2024-05-15, **Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts**, Donya Rooein et.al., Paper: [http://arxiv.org/abs/2405.09482v1](http://arxiv.org/abs/2405.09482v1)
+- 2024-05-15, **Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**, Xinying Lin et.al., Paper: [http://arxiv.org/abs/2405.09472v1](http://arxiv.org/abs/2405.09472v1)
+- 2024-05-15, **Non-contact Lung Disease Classification via OFDM-based Passive 6G ISAC Sensing**, Hasan Mujtaba Buttar et.al., Paper: [http://arxiv.org/abs/2405.09458v1](http://arxiv.org/abs/2405.09458v1)
+- 2024-05-15, **Cohomogeneity one RCD-spaces**, Diego Corro et.al., Paper: [http://arxiv.org/abs/2405.09448v1](http://arxiv.org/abs/2405.09448v1)
+- 2024-05-15, **M$^4$oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts**, Yufeng Jiang et.al., Paper: [http://arxiv.org/abs/2405.09446v1](http://arxiv.org/abs/2405.09446v1)
 - 2024-05-14, **CinePile: A Long Video Question Answering Dataset and Benchmark**, Ruchit Rawal et.al., Paper: [http://arxiv.org/abs/2405.08813v1](http://arxiv.org/abs/2405.08813v1)
 - 2024-05-14, **The Developing Human Connectome Project: A Fast Deep Learning-based Pipeline for Neonatal Cortical Surface Reconstruction**, Qiang Ma et.al., Paper: [http://arxiv.org/abs/2405.08783v1](http://arxiv.org/abs/2405.08783v1)
 - 2024-05-14, **Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling**, Gregory Holste et.al., Paper: [http://arxiv.org/abs/2405.08780v1](http://arxiv.org/abs/2405.08780v1)
@@ -4873,6 +4883,16 @@
 
 ## MultiModal
 
+- 2024-05-15, **Geminate Exciton Fusion Fluorescence as a Probe of Triplet Exciton Transport after Singlet Fission**, Eric A. Wolf et.al., Paper: [http://arxiv.org/abs/2405.09440v1](http://arxiv.org/abs/2405.09440v1)
+- 2024-05-15, **Quantum operations for Kramers-Wannier duality**, Maaz Khan et.al., Paper: [http://arxiv.org/abs/2405.09361v1](http://arxiv.org/abs/2405.09361v1)
+- 2024-05-15, **On the Virasoro fusion and modular kernels at any irrational central charge**, Julien Roussillon et.al., Paper: [http://arxiv.org/abs/2405.09325v1](http://arxiv.org/abs/2405.09325v1)
+- 2024-05-15, **Sensitivity Decouple Learning for Image Compression Artifacts Reduction**, Li Ma et.al., Paper: [http://arxiv.org/abs/2405.09291v1](http://arxiv.org/abs/2405.09291v1)
+- 2024-05-15, **Origin and detection of nontopological soliton dark matter**, Nicholas Orlofsky et.al., Paper: [http://arxiv.org/abs/2405.09239v1](http://arxiv.org/abs/2405.09239v1)
+- 2024-05-15, **Integrated Sensing and Communication Enabled Cooperative Passive Sensing Using Mobile Communication System**, Zhiqing Wei et.al., Paper: [http://arxiv.org/abs/2405.09179v1](http://arxiv.org/abs/2405.09179v1)
+- 2024-05-15, **Scalable Image Coding for Humans and Machines Using Feature Fusion Network**, Takahiro Shindo et.al., Paper: [http://arxiv.org/abs/2405.09152v1](http://arxiv.org/abs/2405.09152v1)
+- 2024-05-15, **Role of melting and solidification in the spreading of an impacting water drop**, Wladimir Sarlin et.al., Paper: [http://arxiv.org/abs/2405.09143v1](http://arxiv.org/abs/2405.09143v1)
+- 2024-05-15, **A safety realignment framework via subspace-oriented model fusion for large language models**, Xin Yi et.al., Paper: [http://arxiv.org/abs/2405.09055v1](http://arxiv.org/abs/2405.09055v1)
+- 2024-05-15, **ICAL: Implicit Character-Aided Learning for Enhanced Handwritten Mathematical Expression Recognition**, Jianhua Zhu et.al., Paper: [http://arxiv.org/abs/2405.09032v1](http://arxiv.org/abs/2405.09032v1), Code: **[https://github.com/qingzhenduyu/ical](https://github.com/qingzhenduyu/ical)**
 - 2024-05-14, **The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2405.08816v1](http://arxiv.org/abs/2405.08816v1)
 - 2024-05-14, **CATEcor: an Open Science, Shaded-Truss, Externally-Occulted Coronagraph**, Craig E. DeForest et.al., Paper: [http://arxiv.org/abs/2405.08739v1](http://arxiv.org/abs/2405.08739v1)
 - 2024-05-15, **Enhancing Reinforcement Learning in Sensor Fusion: A Comparative Analysis of Cubature and Sampling-based Integration Methods for Rover Search Planning**, Jan-Hendrik Ewers et.al., Paper: [http://arxiv.org/abs/2405.08691v2](http://arxiv.org/abs/2405.08691v2)
