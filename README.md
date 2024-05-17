@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**|Yunfan Jiang et.al.|[2405.10315v1](http://arxiv.org/abs/2405.10315v1)|null|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**On Sample Selection for Continual Learning: a Video Streaming Case Study**|Alexander Dietmüller et.al.|[2405.10290v1](http://arxiv.org/abs/2405.10290v1)|null|
+|**2024-05-16**|**Quantum Vision Transformers for Quark-Gluon Classification**|Marçal Comajoan Cara et.al.|[2405.10284v1](http://arxiv.org/abs/2405.10284v1)|null|
+|**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272v1](http://arxiv.org/abs/2405.10272v1)|null|
+|**2024-05-16**|**A Tale of Two Languages: Large-Vocabulary Continuous Sign Language Recognition from Spoken Language Supervision**|Charles Raude et.al.|[2405.10266v1](http://arxiv.org/abs/2405.10266v1)|null|
+|**2024-05-16**|**PRISM: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology**|George Shaikovski et.al.|[2405.10254v1](http://arxiv.org/abs/2405.10254v1)|null|
+|**2024-05-16**|**A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts**|Xinru Zhang et.al.|[2405.10246v1](http://arxiv.org/abs/2405.10246v1)|null|
+|**2024-05-16**|**Ternary mappings of some evolution algebras**|Candido Martin Gonzalez et.al.|[2405.10241v1](http://arxiv.org/abs/2405.10241v1)|null|
+|**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218v1](http://arxiv.org/abs/2405.10218v1)|null|
 |**2024-05-15**|**Classifying geospatial objects from multiview aerial imagery using semantic meshes**|David Russell et.al.|[2405.09544v1](http://arxiv.org/abs/2405.09544v1)|null|
 |**2024-05-15**|**Spectral complexity of deep neural networks**|Simmaco Di Lillo et.al.|[2405.09541v1](http://arxiv.org/abs/2405.09541v1)|null|
 |**2024-05-16**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v2](http://arxiv.org/abs/2405.09539v2)|**[link](https://github.com/wuchengyu123/mmfusion)**|
@@ -4887,6 +4897,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**On bicrossed product of fusion categories and exact factorizations**|Monique Müller et.al.|[2405.10207v1](http://arxiv.org/abs/2405.10207v1)|null|
+|**2024-05-16**|**Distilling Implicit Multimodal Knowledge into LLMs for Zero-Resource Dialogue Generation**|Bo Zhang et.al.|[2405.10121v1](http://arxiv.org/abs/2405.10121v1)|null|
+|**2024-05-16**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029v1](http://arxiv.org/abs/2405.10029v1)|null|
+|**2024-05-16**|**Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance**|Junkai Fan et.al.|[2405.09996v1](http://arxiv.org/abs/2405.09996v1)|null|
+|**2024-05-16**|**Driver at 10 MJ and 1 shot per 30 minutes for inertial confinement fusion at high gain: efficient, compact, low laser-plasma instabilities, multi-color, low-cost, applicable to multiple fusion schemes**|Zhan Sui et.al.|[2405.09912v1](http://arxiv.org/abs/2405.09912v1)|null|
+|**2024-05-16**|**Chameleon: Mixed-Modal Early-Fusion Foundation Models**|Chameleon Team et.al.|[2405.09818v1](http://arxiv.org/abs/2405.09818v1)|null|
+|**2024-05-16**|**Fusion Intelligence: Confluence of Natural and Artificial Intelligence for Enhanced Problem-Solving Efficiency**|Rohan Reddy Kalavakonda et.al.|[2405.09763v1](http://arxiv.org/abs/2405.09763v1)|null|
+|**2024-05-16**|**Fermionic Non-Invertible Symmetries in (1+1)d: Gapped and Gapless Phases, Transitions, and Symmetry TFTs**|Lakshya Bhardwaj et.al.|[2405.09754v1](http://arxiv.org/abs/2405.09754v1)|null|
 |**2024-05-15**|**Geminate Exciton Fusion Fluorescence as a Probe of Triplet Exciton Transport after Singlet Fission**|Eric A. Wolf et.al.|[2405.09440v1](http://arxiv.org/abs/2405.09440v1)|null|
 |**2024-05-15**|**Quantum operations for Kramers-Wannier duality**|Maaz Khan et.al.|[2405.09361v1](http://arxiv.org/abs/2405.09361v1)|null|
 |**2024-05-15**|**On the Virasoro fusion and modular kernels at any irrational central charge**|Julien Roussillon et.al.|[2405.09325v1](http://arxiv.org/abs/2405.09325v1)|null|
