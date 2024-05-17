@@ -1,10 +1,10 @@
-> Updated on 2024.05.16
+> Updated on 2024.05.17
 
 ## Video_Classification
 
 - 2024-05-15, **Classifying geospatial objects from multiview aerial imagery using semantic meshes**, David Russell et.al., Paper: [http://arxiv.org/abs/2405.09544v1](http://arxiv.org/abs/2405.09544v1)
 - 2024-05-15, **Spectral complexity of deep neural networks**, Simmaco Di Lillo et.al., Paper: [http://arxiv.org/abs/2405.09541v1](http://arxiv.org/abs/2405.09541v1)
-- 2024-05-15, **MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**, Chengyu Wu et.al., Paper: [http://arxiv.org/abs/2405.09539v1](http://arxiv.org/abs/2405.09539v1), Code: **[https://github.com/wuchengyu123/mmfusion](https://github.com/wuchengyu123/mmfusion)**
+- 2024-05-16, **MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**, Chengyu Wu et.al., Paper: [http://arxiv.org/abs/2405.09539v2](http://arxiv.org/abs/2405.09539v2), Code: **[https://github.com/wuchengyu123/mmfusion](https://github.com/wuchengyu123/mmfusion)**
 - 2024-05-15, **Restoring balance: principled under/oversampling of data for optimal classification**, Emanuele Loffredo et.al., Paper: [http://arxiv.org/abs/2405.09535v1](http://arxiv.org/abs/2405.09535v1)
 - 2024-05-15, **Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck**, Hongru Li et.al., Paper: [http://arxiv.org/abs/2405.09514v1](http://arxiv.org/abs/2405.09514v1)
 - 2024-05-15, **Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts**, Donya Rooein et.al., Paper: [http://arxiv.org/abs/2405.09482v1](http://arxiv.org/abs/2405.09482v1)
