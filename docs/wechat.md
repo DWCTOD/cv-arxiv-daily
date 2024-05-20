@@ -4895,7 +4895,7 @@
 
 - 2024-05-16, **On bicrossed product of fusion categories and exact factorizations**, Monique Müller et.al., Paper: [http://arxiv.org/abs/2405.10207v1](http://arxiv.org/abs/2405.10207v1)
 - 2024-05-16, **Distilling Implicit Multimodal Knowledge into LLMs for Zero-Resource Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2405.10121v1](http://arxiv.org/abs/2405.10121v1)
-- 2024-05-16, **AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**, Ziyu Gong et.al., Paper: [http://arxiv.org/abs/2405.10029v1](http://arxiv.org/abs/2405.10029v1)
+- 2024-05-17, **AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**, Ziyu Gong et.al., Paper: [http://arxiv.org/abs/2405.10029v2](http://arxiv.org/abs/2405.10029v2)
 - 2024-05-16, **Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance**, Junkai Fan et.al., Paper: [http://arxiv.org/abs/2405.09996v1](http://arxiv.org/abs/2405.09996v1)
 - 2024-05-16, **Driver at 10 MJ and 1 shot per 30 minutes for inertial confinement fusion at high gain: efficient, compact, low laser-plasma instabilities, multi-color, low-cost, applicable to multiple fusion schemes**, Zhan Sui et.al., Paper: [http://arxiv.org/abs/2405.09912v1](http://arxiv.org/abs/2405.09912v1)
 - 2024-05-16, **Chameleon: Mixed-Modal Early-Fusion Foundation Models**, Chameleon Team et.al., Paper: [http://arxiv.org/abs/2405.09818v1](http://arxiv.org/abs/2405.09818v1)
