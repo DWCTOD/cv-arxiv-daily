@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Submodular Information Selection for Hypothesis Testing with Misclassification Penalties**|Jayanth Bhargav et.al.|[2405.10930v1](http://arxiv.org/abs/2405.10930v1)|null|
+|**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890v1](http://arxiv.org/abs/2405.10890v1)|null|
+|**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870v1](http://arxiv.org/abs/2405.10870v1)|null|
+|**2024-05-17**|**"Hall" transport of liquid crystal solitons in Couette flow**|Rodrigo C. V. Coelho et.al.|[2405.10850v1](http://arxiv.org/abs/2405.10850v1)|null|
+|**2024-05-17**|**Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans**|Sébastien Quetin et.al.|[2405.10833v1](http://arxiv.org/abs/2405.10833v1)|null|
+|**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832v1](http://arxiv.org/abs/2405.10832v1)|null|
+|**2024-05-17**|**Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities**|Hao Zhou et.al.|[2405.10825v1](http://arxiv.org/abs/2405.10825v1)|null|
+|**2024-05-17**|**ActiveLLM: Large Language Model-based Active Learning for Textual Few-Shot Scenarios**|Markus Bayer et.al.|[2405.10808v1](http://arxiv.org/abs/2405.10808v1)|null|
+|**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803v1](http://arxiv.org/abs/2405.10803v1)|null|
+|**2024-05-17**|**Reduced storage direct tensor ring decomposition for convolutional neural networks compression**|Mateusz Gabor et.al.|[2405.10802v1](http://arxiv.org/abs/2405.10802v1)|**[link](https://github.com/mateuszgabor/rsdtr_compression)**|
 |**2024-05-16**|**TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**|Yunfan Jiang et.al.|[2405.10315v1](http://arxiv.org/abs/2405.10315v1)|null|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305v1](http://arxiv.org/abs/2405.10305v1)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**On Sample Selection for Continual Learning: a Video Streaming Case Study**|Alexander Dietmüller et.al.|[2405.10290v1](http://arxiv.org/abs/2405.10290v1)|null|
@@ -4901,6 +4911,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Square-Root Inverse Filter-based GNSS-Visual-Inertial Navigation**|Jun Hu et.al.|[2405.10874v1](http://arxiv.org/abs/2405.10874v1)|null|
+|**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832v1](http://arxiv.org/abs/2405.10832v1)|null|
+|**2024-05-17**|**First principles simulations of dense hydrogen**|Michael Bonitz et.al.|[2405.10627v1](http://arxiv.org/abs/2405.10627v1)|null|
+|**2024-05-17**|**Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication**|Haotian Liu et.al.|[2405.10606v1](http://arxiv.org/abs/2405.10606v1)|null|
+|**2024-05-17**|**GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision**|Xin Tan et.al.|[2405.10591v1](http://arxiv.org/abs/2405.10591v1)|null|
+|**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577v1](http://arxiv.org/abs/2405.10577v1)|null|
+|**2024-05-17**|**Simultaneous Deep Learning of Myocardium Segmentation and T2 Quantification for Acute Myocardial Infarction MRI**|Yirong Zhou et.al.|[2405.10570v1](http://arxiv.org/abs/2405.10570v1)|null|
+|**2024-05-17**|**Team Samsung-RAL: Technical Report for 2024 RoboDrive Challenge-Robust Map Segmentation Track**|Xiaoshuai Hao et.al.|[2405.10567v1](http://arxiv.org/abs/2405.10567v1)|null|
+|**2024-05-17**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v1](http://arxiv.org/abs/2405.10561v1)|null|
+|**2024-05-17**|**CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**|Mushui Liu et.al.|[2405.10530v1](http://arxiv.org/abs/2405.10530v1)|**[link](https://github.com/xiaobul/cm-unet)**|
 |**2024-05-16**|**On bicrossed product of fusion categories and exact factorizations**|Monique Müller et.al.|[2405.10207v1](http://arxiv.org/abs/2405.10207v1)|null|
 |**2024-05-16**|**Distilling Implicit Multimodal Knowledge into LLMs for Zero-Resource Dialogue Generation**|Bo Zhang et.al.|[2405.10121v1](http://arxiv.org/abs/2405.10121v1)|null|
 |**2024-05-17**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029v2](http://arxiv.org/abs/2405.10029v2)|null|
