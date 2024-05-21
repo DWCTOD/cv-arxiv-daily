@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-20, **Images that Sound: Composing Images and Sounds on a Single Canvas**, Ziyang Chen et.al., Paper: [http://arxiv.org/abs/2405.12221v1](http://arxiv.org/abs/2405.12221v1)
+- 2024-05-20, **Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**, Nathaniel Cohen et.al., Paper: [http://arxiv.org/abs/2405.12211v1](http://arxiv.org/abs/2405.12211v1)
+- 2024-05-20, **The sign of scalar curvature on Kähler blowups**, Garrett M. Brown et.al., Paper: [http://arxiv.org/abs/2405.12189v1](http://arxiv.org/abs/2405.12189v1)
+- 2024-05-20, **Building Temporal Kernels with Orthogonal Polynomials**, Yan Ru Pei et.al., Paper: [http://arxiv.org/abs/2405.12179v1](http://arxiv.org/abs/2405.12179v1), Code: **[https://github.com/peabrane/pleiades](https://github.com/peabrane/pleiades)**
+- 2024-05-20, **Wireless vs. Traditional Ultrasound Assessed Knee Cartilage Outcomes Utilizing Automated Gain and Normalization Techniques**, Arjun Parmar et.al., Paper: [http://arxiv.org/abs/2405.12172v1](http://arxiv.org/abs/2405.12172v1)
+- 2024-05-20, **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**, Xuchen Li et.al., Paper: [http://arxiv.org/abs/2405.12139v1](http://arxiv.org/abs/2405.12139v1)
+- 2024-05-20, **Alzheimer's Magnetic Resonance Imaging Classification Using Deep and Meta-Learning Models**, Nida Nasir et.al., Paper: [http://arxiv.org/abs/2405.12126v1](http://arxiv.org/abs/2405.12126v1)
+- 2024-05-20, **An Active Learning Framework with a Class Balancing Strategy for Time Series Classification**, Shemonto Das et.al., Paper: [http://arxiv.org/abs/2405.12122v1](http://arxiv.org/abs/2405.12122v1)
+- 2024-05-20, **AGNfitter-rx: Modelling the radio-to-X-ray SEDs of AGNs**, L. N. Martínez-Ramírez et.al., Paper: [http://arxiv.org/abs/2405.12111v1](http://arxiv.org/abs/2405.12111v1)
+- 2024-05-20, **Real topological phonons in 3D carbon allotropes**, Xiaotian Wang et.al., Paper: [http://arxiv.org/abs/2405.12072v1](http://arxiv.org/abs/2405.12072v1)
 - 2024-05-17, **Submodular Information Selection for Hypothesis Testing with Misclassification Penalties**, Jayanth Bhargav et.al., Paper: [http://arxiv.org/abs/2405.10930v1](http://arxiv.org/abs/2405.10930v1)
 - 2024-05-17, **A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**, Mingxiang Fu et.al., Paper: [http://arxiv.org/abs/2405.10890v1](http://arxiv.org/abs/2405.10890v1)
 - 2024-05-17, **Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**, Yixing Huang et.al., Paper: [http://arxiv.org/abs/2405.10870v1](http://arxiv.org/abs/2405.10870v1)
@@ -4903,6 +4913,16 @@
 
 ## MultiModal
 
+- 2024-05-20, **EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**, Boyi Liu et.al., Paper: [http://arxiv.org/abs/2405.12120v1](http://arxiv.org/abs/2405.12120v1)
+- 2024-05-20, **Neighborhood Attention Transformer with Progressive Channel Fusion for Speaker Verification**, Nian Li et.al., Paper: [http://arxiv.org/abs/2405.12031v1](http://arxiv.org/abs/2405.12031v1)
+- 2024-05-20, **Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**, Weilian Zhou et.al., Paper: [http://arxiv.org/abs/2405.12003v1](http://arxiv.org/abs/2405.12003v1)
+- 2024-05-20, **Filtration of tensor product of local Weyl modules for $\mathfrak{sl}_{n+1}[t]$**, Divya Setia et.al., Paper: [http://arxiv.org/abs/2405.11944v1](http://arxiv.org/abs/2405.11944v1)
+- 2024-05-20, **ViViD: Video Virtual Try-on using Diffusion Models**, Zixun Fang et.al., Paper: [http://arxiv.org/abs/2405.11794v1](http://arxiv.org/abs/2405.11794v1)
+- 2024-05-20, **An Improved Design for All-Photonic Quantum Repeaters**, Ashlesha Patil et.al., Paper: [http://arxiv.org/abs/2405.11768v1](http://arxiv.org/abs/2405.11768v1)
+- 2024-05-20, **Modeling User Fatigue for Sequential Recommendation**, Li Nian et.al., Paper: [http://arxiv.org/abs/2405.11764v1](http://arxiv.org/abs/2405.11764v1), Code: **[https://github.com/tsinghua-fib-lab/sigir24-frec](https://github.com/tsinghua-fib-lab/sigir24-frec)**
+- 2024-05-20, **RHAML: Rendezvous-based Hierarchical Architecture for Mutual Localization**, Gaoming Chen et.al., Paper: [http://arxiv.org/abs/2405.11726v1](http://arxiv.org/abs/2405.11726v1)
+- 2024-05-20, **AI Algorithm for Predicting and Optimizing Trajectory of UAV Swarm**, Amit Raj et.al., Paper: [http://arxiv.org/abs/2405.11722v1](http://arxiv.org/abs/2405.11722v1)
+- 2024-05-20, **Non-Abelian Self-Correcting Quantum Memory**, Po-Shen Hsin et.al., Paper: [http://arxiv.org/abs/2405.11719v1](http://arxiv.org/abs/2405.11719v1)
 - 2024-05-17, **Square-Root Inverse Filter-based GNSS-Visual-Inertial Navigation**, Jun Hu et.al., Paper: [http://arxiv.org/abs/2405.10874v1](http://arxiv.org/abs/2405.10874v1)
 - 2024-05-17, **Open-Vocabulary Spatio-Temporal Action Detection**, Tao Wu et.al., Paper: [http://arxiv.org/abs/2405.10832v1](http://arxiv.org/abs/2405.10832v1)
 - 2024-05-17, **First principles simulations of dense hydrogen**, Michael Bonitz et.al., Paper: [http://arxiv.org/abs/2405.10627v1](http://arxiv.org/abs/2405.10627v1)
