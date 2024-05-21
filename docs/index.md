@@ -4919,7 +4919,7 @@ layout: default
 |**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577v1](http://arxiv.org/abs/2405.10577v1)|null|
 |**2024-05-17**|**Simultaneous Deep Learning of Myocardium Segmentation and T2 Quantification for Acute Myocardial Infarction MRI**|Yirong Zhou et.al.|[2405.10570v1](http://arxiv.org/abs/2405.10570v1)|null|
 |**2024-05-17**|**Team Samsung-RAL: Technical Report for 2024 RoboDrive Challenge-Robust Map Segmentation Track**|Xiaoshuai Hao et.al.|[2405.10567v1](http://arxiv.org/abs/2405.10567v1)|null|
-|**2024-05-17**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v1](http://arxiv.org/abs/2405.10561v1)|null|
+|**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v2](http://arxiv.org/abs/2405.10561v2)|null|
 |**2024-05-17**|**CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**|Mushui Liu et.al.|[2405.10530v1](http://arxiv.org/abs/2405.10530v1)|**[link](https://github.com/xiaobul/cm-unet)**|
 |**2024-05-16**|**On bicrossed product of fusion categories and exact factorizations**|Monique Müller et.al.|[2405.10207v1](http://arxiv.org/abs/2405.10207v1)|null|
 |**2024-05-16**|**Distilling Implicit Multimodal Knowledge into LLMs for Zero-Resource Dialogue Generation**|Bo Zhang et.al.|[2405.10121v1](http://arxiv.org/abs/2405.10121v1)|null|
