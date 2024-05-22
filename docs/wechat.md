@@ -1,4 +1,4 @@
-> Updated on 2024.05.21
+> Updated on 2024.05.22
 
 ## Video_Classification
 
@@ -4915,7 +4915,7 @@
 
 - 2024-05-20, **EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**, Boyi Liu et.al., Paper: [http://arxiv.org/abs/2405.12120v1](http://arxiv.org/abs/2405.12120v1)
 - 2024-05-20, **Neighborhood Attention Transformer with Progressive Channel Fusion for Speaker Verification**, Nian Li et.al., Paper: [http://arxiv.org/abs/2405.12031v1](http://arxiv.org/abs/2405.12031v1)
-- 2024-05-20, **Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**, Weilian Zhou et.al., Paper: [http://arxiv.org/abs/2405.12003v1](http://arxiv.org/abs/2405.12003v1)
+- 2024-05-20, **Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**, Weilian Zhou et.al., Paper: [http://arxiv.org/abs/2405.12003v1](http://arxiv.org/abs/2405.12003v1), Code: **[https://github.com/zhouweilian1904/mamba-in-mamba](https://github.com/zhouweilian1904/mamba-in-mamba)**
 - 2024-05-20, **Filtration of tensor product of local Weyl modules for $\mathfrak{sl}_{n+1}[t]$**, Divya Setia et.al., Paper: [http://arxiv.org/abs/2405.11944v1](http://arxiv.org/abs/2405.11944v1)
 - 2024-05-20, **ViViD: Video Virtual Try-on using Diffusion Models**, Zixun Fang et.al., Paper: [http://arxiv.org/abs/2405.11794v1](http://arxiv.org/abs/2405.11794v1)
 - 2024-05-20, **An Improved Design for All-Photonic Quantum Repeaters**, Ashlesha Patil et.al., Paper: [http://arxiv.org/abs/2405.11768v1](http://arxiv.org/abs/2405.11768v1)
