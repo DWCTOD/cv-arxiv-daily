@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-21, **Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**, Ahmed Gomaa et.al., Paper: [http://arxiv.org/abs/2405.12963v1](http://arxiv.org/abs/2405.12963v1)
+- 2024-05-21, **Online Learning of Halfspaces with Massart Noise**, Ilias Diakonikolas et.al., Paper: [http://arxiv.org/abs/2405.12958v1](http://arxiv.org/abs/2405.12958v1)
+- 2024-05-21, **Quantifying Uncertainty in Classification Performance: ROC Confidence Bands Using Conformal Prediction**, Zheshi Zheng et.al., Paper: [http://arxiv.org/abs/2405.12953v1](http://arxiv.org/abs/2405.12953v1)
+- 2024-05-21, **Tutorly: Turning Programming Videos Into Apprenticeship Learning Environments with LLMs**, Wengxi Li et.al., Paper: [http://arxiv.org/abs/2405.12946v1](http://arxiv.org/abs/2405.12946v1)
+- 2024-05-21, **Pytorch-Wildlife: A Collaborative Deep Learning Framework for Conservation**, Andres Hernandez et.al., Paper: [http://arxiv.org/abs/2405.12930v1](http://arxiv.org/abs/2405.12930v1), Code: **[https://github.com/microsoft/cameratraps](https://github.com/microsoft/cameratraps)**
+- 2024-05-21, **Streamlining Software Reviews: Efficient Predictive Modeling with Minimal Examples**, Tim Menzies et.al., Paper: [http://arxiv.org/abs/2405.12920v1](http://arxiv.org/abs/2405.12920v1)
+- 2024-05-21, **The $L_p$-dual space of a semisimple Lie group**, Bachir Bekka et.al., Paper: [http://arxiv.org/abs/2405.12919v1](http://arxiv.org/abs/2405.12919v1)
+- 2024-05-21, **Topic Modelling Case Law Using a Large Language Model and a New Taxonomy for UK Law: AI Insights into Summary Judgment**, Holli Sargeant et.al., Paper: [http://arxiv.org/abs/2405.12910v1](http://arxiv.org/abs/2405.12910v1)
+- 2024-05-21, **Decentralized Federated Learning Over Imperfect Communication Channels**, Weicai Li et.al., Paper: [http://arxiv.org/abs/2405.12894v1](http://arxiv.org/abs/2405.12894v1)
+- 2024-05-21, **Investigating Persuasion Techniques in Arabic: An Empirical Study Leveraging Large Language Models**, Abdurahmman Alzahrani et.al., Paper: [http://arxiv.org/abs/2405.12884v1](http://arxiv.org/abs/2405.12884v1)
 - 2024-05-20, **Images that Sound: Composing Images and Sounds on a Single Canvas**, Ziyang Chen et.al., Paper: [http://arxiv.org/abs/2405.12221v1](http://arxiv.org/abs/2405.12221v1)
 - 2024-05-20, **Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**, Nathaniel Cohen et.al., Paper: [http://arxiv.org/abs/2405.12211v1](http://arxiv.org/abs/2405.12211v1)
 - 2024-05-20, **The sign of scalar curvature on Kähler blowups**, Garrett M. Brown et.al., Paper: [http://arxiv.org/abs/2405.12189v1](http://arxiv.org/abs/2405.12189v1)
@@ -4913,6 +4923,16 @@
 
 ## MultiModal
 
+- 2024-05-21, **Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**, Ahmed Gomaa et.al., Paper: [http://arxiv.org/abs/2405.12963v1](http://arxiv.org/abs/2405.12963v1)
+- 2024-05-21, **AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection**, Zizhao Chen et.al., Paper: [http://arxiv.org/abs/2405.12944v1](http://arxiv.org/abs/2405.12944v1), Code: **[https://github.com/bigD233/AMFD](https://github.com/bigD233/AMFD)**
+- 2024-05-21, **Small cross section of the synthesis of darmstadtium in the $^{48}$Ca+$^{232}$Th reaction**, A. K. Nasirov et.al., Paper: [http://arxiv.org/abs/2405.12932v1](http://arxiv.org/abs/2405.12932v1)
+- 2024-05-21, **Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**, Xiaofei Yu et.al., Paper: [http://arxiv.org/abs/2405.12875v1](http://arxiv.org/abs/2405.12875v1), Code: **[https://github.com/fay-y/diffusion-rscc](https://github.com/fay-y/diffusion-rscc)**
+- 2024-05-21, **Inconsistency-Aware Cross-Attention for Audio-Visual Fusion in Dimensional Emotion Recognition**, R Gnana Praveen et.al., Paper: [http://arxiv.org/abs/2405.12853v1](http://arxiv.org/abs/2405.12853v1)
+- 2024-05-21, **Weakly supervised alignment and registration of MR-CT for cervical cancer radiotherapy**, Jjahao Zhang et.al., Paper: [http://arxiv.org/abs/2405.12850v1](http://arxiv.org/abs/2405.12850v1)
+- 2024-05-21, **A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data**, Xinyi Wang et.al., Paper: [http://arxiv.org/abs/2405.12833v1](http://arxiv.org/abs/2405.12833v1)
+- 2024-05-21, **Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2405.12821v1](http://arxiv.org/abs/2405.12821v1)
+- 2024-05-21, **Self-Supervised Modality-Agnostic Pre-Training of Swin Transformers**, Abhiroop Talasila et.al., Paper: [http://arxiv.org/abs/2405.12781v1](http://arxiv.org/abs/2405.12781v1), Code: **[https://github.com/devalab/swinfuse](https://github.com/devalab/swinfuse)**
+- 2024-05-21, **Hybrid Digital-Analog Semantic Communications**, Huiqiang Xie et.al., Paper: [http://arxiv.org/abs/2405.12580v1](http://arxiv.org/abs/2405.12580v1)
 - 2024-05-20, **EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**, Boyi Liu et.al., Paper: [http://arxiv.org/abs/2405.12120v1](http://arxiv.org/abs/2405.12120v1)
 - 2024-05-20, **Neighborhood Attention Transformer with Progressive Channel Fusion for Speaker Verification**, Nian Li et.al., Paper: [http://arxiv.org/abs/2405.12031v1](http://arxiv.org/abs/2405.12031v1)
 - 2024-05-20, **Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**, Weilian Zhou et.al., Paper: [http://arxiv.org/abs/2405.12003v1](http://arxiv.org/abs/2405.12003v1), Code: **[https://github.com/zhouweilian1904/mamba-in-mamba](https://github.com/zhouweilian1904/mamba-in-mamba)**
