@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869v1](http://arxiv.org/abs/2405.14869v1)|null|
+|**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|null|
+|**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864v1](http://arxiv.org/abs/2405.14864v1)|null|
+|**2024-05-23**|**Synergistic Global-space Camera and Human Reconstruction from Videos**|Yizhou Zhao et.al.|[2405.14855v1](http://arxiv.org/abs/2405.14855v1)|null|
+|**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851v1](http://arxiv.org/abs/2405.14851v1)|null|
+|**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841v1](http://arxiv.org/abs/2405.14841v1)|null|
+|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815v1](http://arxiv.org/abs/2405.14815v1)|null|
+|**2024-05-23**|**As an AI Language Model, "Yes I Would Recommend Calling the Police'': Norm Inconsistency in LLM Decision-Making**|Shomik Jain et.al.|[2405.14812v1](http://arxiv.org/abs/2405.14812v1)|null|
+|**2024-05-23**|**Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics**|Jonas Spinner et.al.|[2405.14806v1](http://arxiv.org/abs/2405.14806v1)|null|
+|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v1](http://arxiv.org/abs/2405.14802v1)|null|
 |**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963v1](http://arxiv.org/abs/2405.12963v1)|null|
 |**2024-05-21**|**Online Learning of Halfspaces with Massart Noise**|Ilias Diakonikolas et.al.|[2405.12958v1](http://arxiv.org/abs/2405.12958v1)|null|
 |**2024-05-21**|**Quantifying Uncertainty in Classification Performance: ROC Confidence Bands Using Conformal Prediction**|Zheshi Zheng et.al.|[2405.12953v1](http://arxiv.org/abs/2405.12953v1)|null|
@@ -4927,6 +4937,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Generative Plant Growth Simulation from Sequence-Informed Environmental Conditions**|Mohamed Debbagh et.al.|[2405.14796v1](http://arxiv.org/abs/2405.14796v1)|null|
+|**2024-05-23**|**Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography**|Shuo Han et.al.|[2405.14770v1](http://arxiv.org/abs/2405.14770v1)|null|
+|**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709v1](http://arxiv.org/abs/2405.14709v1)|null|
+|**2024-05-23**|**CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System**|Qinghua Guan et.al.|[2405.14691v1](http://arxiv.org/abs/2405.14691v1)|null|
+|**2024-05-23**|**PrivCirNet: Efficient Private Inference via Block Circulant Transformation**|Tianshi Xu et.al.|[2405.14569v1](http://arxiv.org/abs/2405.14569v1)|null|
+|**2024-05-23**|**Deep Learning Classification of Photoplethysmogram Signal for Hypertension Levels**|Nida Nasir et.al.|[2405.14556v1](http://arxiv.org/abs/2405.14556v1)|null|
+|**2024-05-23**|**A Cross-Field Fusion Strategy for Drug-Target Interaction Prediction**|Hongzhi Zhang et.al.|[2405.14545v1](http://arxiv.org/abs/2405.14545v1)|null|
+|**2024-05-23**|**Ghost-Stereo: GhostNet-based Cost Volume Enhancement and Aggregation for Stereo Matching Networks**|Xingguang Jiang et.al.|[2405.14520v1](http://arxiv.org/abs/2405.14520v1)|null|
+|**2024-05-23**|**Deep Learning Fusion For Effective Malware Detection: Leveraging Visual Features**|Jahez Abraham Johny et.al.|[2405.14311v1](http://arxiv.org/abs/2405.14311v1)|null|
+|**2024-05-23**|**Let's Fuse Step by Step: A Generative Fusion Decoding Algorithm with LLMs for Multi-modal Text Recognition**|Chan-Jan Hsu et.al.|[2405.14259v1](http://arxiv.org/abs/2405.14259v1)|null|
 |**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963v1](http://arxiv.org/abs/2405.12963v1)|null|
 |**2024-05-21**|**AMFD: Distillation via Adaptive Multimodal Fusion for Multispectral Pedestrian Detection**|Zizhao Chen et.al.|[2405.12944v1](http://arxiv.org/abs/2405.12944v1)|**[link](https://github.com/bigD233/AMFD)**|
 |**2024-05-21**|**Small cross section of the synthesis of darmstadtium in the $^{48}$Ca+$^{232}$Th reaction**|A. K. Nasirov et.al.|[2405.12932v1](http://arxiv.org/abs/2405.12932v1)|null|
