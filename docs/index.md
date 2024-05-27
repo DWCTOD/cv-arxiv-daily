@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Canonical Variates in Wasserstein Metric Space**|Jia Li et.al.|[2405.15768v1](http://arxiv.org/abs/2405.15768v1)|null|
+|**2024-05-24**|**Scaling Laws for Discriminative Classification in Large Language Models**|Dean Wyatte et.al.|[2405.15765v1](http://arxiv.org/abs/2405.15765v1)|null|
+|**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758v1](http://arxiv.org/abs/2405.15758v1)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
+|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757v1](http://arxiv.org/abs/2405.15757v1)|null|
+|**2024-05-24**|**Characterizing Discourse Group Roles in Inquiry-based University Science Labs**|Tong Wan et.al.|[2405.15746v1](http://arxiv.org/abs/2405.15746v1)|null|
+|**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719v1](http://arxiv.org/abs/2405.15719v1)|null|
+|**2024-05-24**|**EmpathicStories++: A Multimodal Dataset for Empathy towards Personal Experiences**|Jocelyn Shen et.al.|[2405.15708v1](http://arxiv.org/abs/2405.15708v1)|null|
+|**2024-05-24**|**Sums: Sniffing Unknown Multiband Signals under Low Sampling Rates**|Jinbo Peng et.al.|[2405.15705v1](http://arxiv.org/abs/2405.15705v1)|null|
+|**2024-05-24**|**realSEUDO for real-time calcium imaging analysis**|Iuliia Dmitrieva et.al.|[2405.15701v1](http://arxiv.org/abs/2405.15701v1)|null|
+|**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688v1](http://arxiv.org/abs/2405.15688v1)|null|
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869v1](http://arxiv.org/abs/2405.14869v1)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868v1](http://arxiv.org/abs/2405.14868v1)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864v1](http://arxiv.org/abs/2405.14864v1)|null|
@@ -4941,6 +4951,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**A journey on self-$G$-ality**|Takamasa Ando et.al.|[2405.15648v1](http://arxiv.org/abs/2405.15648v1)|null|
+|**2024-05-24**|**MCDFN: Supply Chain Demand Forecasting via an Explainable Multi-Channel Data Fusion Network Model Integrating CNN, LSTM, and GRU**|Md Abrar Jahin et.al.|[2405.15598v1](http://arxiv.org/abs/2405.15598v1)|null|
+|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596v1](http://arxiv.org/abs/2405.15596v1)|null|
+|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549v1](http://arxiv.org/abs/2405.15549v1)|**[link](https://github.com/htyao89/sep)**|
+|**2024-05-24**|**TD3 Based Collision Free Motion Planning for Robot Navigation**|Hao Liu et.al.|[2405.15460v1](http://arxiv.org/abs/2405.15460v1)|null|
+|**2024-05-24**|**Self-distilled Dynamic Fusion Network for Language-based Fashion Retrieval**|Yiming Wu et.al.|[2405.15451v1](http://arxiv.org/abs/2405.15451v1)|null|
+|**2024-05-24**|**Towards Precision Healthcare: Robust Fusion of Time Series and Image Data**|Ali Rasekh et.al.|[2405.15442v1](http://arxiv.org/abs/2405.15442v1)|null|
+|**2024-05-24**|**Leveraging Large Language Models for Semantic Query Processing in a Scholarly Knowledge Graph**|Runsong Jia et.al.|[2405.15374v1](http://arxiv.org/abs/2405.15374v1)|null|
+|**2024-05-24**|**U3M: Unbiased Multiscale Modal Fusion Model for Multimodal Semantic Segmentation**|Bingyu Li et.al.|[2405.15365v1](http://arxiv.org/abs/2405.15365v1)|**[link](https://github.com/libingyu01/u3m-multimodal-semantic-segmentation)**|
+|**2024-05-24**|**Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion**|Aoxue Li et.al.|[2405.15313v1](http://arxiv.org/abs/2405.15313v1)|null|
 |**2024-05-23**|**Generative Plant Growth Simulation from Sequence-Informed Environmental Conditions**|Mohamed Debbagh et.al.|[2405.14796v1](http://arxiv.org/abs/2405.14796v1)|null|
 |**2024-05-23**|**Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography**|Shuo Han et.al.|[2405.14770v1](http://arxiv.org/abs/2405.14770v1)|null|
 |**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709v1](http://arxiv.org/abs/2405.14709v1)|null|
