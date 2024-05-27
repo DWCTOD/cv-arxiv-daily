@@ -1,4 +1,4 @@
-> Updated on 2024.05.26
+> Updated on 2024.05.27
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2024-05-23, **Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**, Raymond Wang et.al., Paper: [http://arxiv.org/abs/2405.14815v1](http://arxiv.org/abs/2405.14815v1)
 - 2024-05-23, **As an AI Language Model, "Yes I Would Recommend Calling the Police'': Norm Inconsistency in LLM Decision-Making**, Shomik Jain et.al., Paper: [http://arxiv.org/abs/2405.14812v1](http://arxiv.org/abs/2405.14812v1)
 - 2024-05-23, **Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics**, Jonas Spinner et.al., Paper: [http://arxiv.org/abs/2405.14806v1](http://arxiv.org/abs/2405.14806v1)
-- 2024-05-23, **Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**, Hongxu Jiang et.al., Paper: [http://arxiv.org/abs/2405.14802v1](http://arxiv.org/abs/2405.14802v1)
+- 2024-05-24, **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**, Hongxu Jiang et.al., Paper: [http://arxiv.org/abs/2405.14802v2](http://arxiv.org/abs/2405.14802v2), Code: **[https://github.com/mirthai/fast-ddpm](https://github.com/mirthai/fast-ddpm)**
 - 2024-05-21, **Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**, Ahmed Gomaa et.al., Paper: [http://arxiv.org/abs/2405.12963v1](http://arxiv.org/abs/2405.12963v1)
 - 2024-05-21, **Online Learning of Halfspaces with Massart Noise**, Ilias Diakonikolas et.al., Paper: [http://arxiv.org/abs/2405.12958v1](http://arxiv.org/abs/2405.12958v1)
 - 2024-05-21, **Quantifying Uncertainty in Classification Performance: ROC Confidence Bands Using Conformal Prediction**, Zheshi Zheng et.al., Paper: [http://arxiv.org/abs/2405.12953v1](http://arxiv.org/abs/2405.12953v1)
