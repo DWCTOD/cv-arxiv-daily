@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-05-24**|**Canonical Variates in Wasserstein Metric Space**|Jia Li et.al.|[2405.15768v1](http://arxiv.org/abs/2405.15768v1)|null|
 |**2024-05-24**|**Scaling Laws for Discriminative Classification in Large Language Models**|Dean Wyatte et.al.|[2405.15765v1](http://arxiv.org/abs/2405.15765v1)|null|
 |**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758v1](http://arxiv.org/abs/2405.15758v1)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
-|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757v1](http://arxiv.org/abs/2405.15757v1)|null|
+|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757v1](http://arxiv.org/abs/2405.15757v1)|**[link](https://github.com/Jeff-LiangF/streamv2v)**|
 |**2024-05-24**|**Characterizing Discourse Group Roles in Inquiry-based University Science Labs**|Tong Wan et.al.|[2405.15746v1](http://arxiv.org/abs/2405.15746v1)|null|
 |**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719v1](http://arxiv.org/abs/2405.15719v1)|null|
 |**2024-05-24**|**EmpathicStories++: A Multimodal Dataset for Empathy towards Personal Experiences**|Jocelyn Shen et.al.|[2405.15708v1](http://arxiv.org/abs/2405.15708v1)|null|
