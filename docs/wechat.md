@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-27, **Matryoshka Multimodal Models**, Mu Cai et.al., Paper: [http://arxiv.org/abs/2405.17430v1](http://arxiv.org/abs/2405.17430v1)
+- 2024-05-27, **NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models**, Chankyu Lee et.al., Paper: [http://arxiv.org/abs/2405.17428v1](http://arxiv.org/abs/2405.17428v1)
+- 2024-05-27, **MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds**, Jiahui Lei et.al., Paper: [http://arxiv.org/abs/2405.17421v1](http://arxiv.org/abs/2405.17421v1)
+- 2024-05-27, **Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**, Zhengfei Kuang et.al., Paper: [http://arxiv.org/abs/2405.17414v1](http://arxiv.org/abs/2405.17414v1)
+- 2024-05-27, **Enhancing Music Genre Classification through Multi-Algorithm Analysis and User-Friendly Visualization**, Navin Kamuni et.al., Paper: [http://arxiv.org/abs/2405.17413v1](http://arxiv.org/abs/2405.17413v1)
+- 2024-05-27, **The Peripatetic Hater: Predicting Movement Among Hate Subreddits**, Daniel Hickey et.al., Paper: [http://arxiv.org/abs/2405.17410v1](http://arxiv.org/abs/2405.17410v1)
+- 2024-05-27, **Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**, Ruizhi Shao et.al., Paper: [http://arxiv.org/abs/2405.17405v1](http://arxiv.org/abs/2405.17405v1)
+- 2024-05-27, **Spectral Greedy Coresets for Graph Neural Networks**, Mucong Ding et.al., Paper: [http://arxiv.org/abs/2405.17404v1](http://arxiv.org/abs/2405.17404v1)
+- 2024-05-27, **Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability**, Shenyuan Gao et.al., Paper: [http://arxiv.org/abs/2405.17398v1](http://arxiv.org/abs/2405.17398v1), Code: **[https://github.com/opendrivelab/vista](https://github.com/opendrivelab/vista)**
+- 2024-05-27, **Non-Unitary Quantum Machine Learning**, Jamie Heredge et.al., Paper: [http://arxiv.org/abs/2405.17388v1](http://arxiv.org/abs/2405.17388v1)
 - 2024-05-24, **Canonical Variates in Wasserstein Metric Space**, Jia Li et.al., Paper: [http://arxiv.org/abs/2405.15768v1](http://arxiv.org/abs/2405.15768v1)
 - 2024-05-24, **Scaling Laws for Discriminative Classification in Large Language Models**, Dean Wyatte et.al., Paper: [http://arxiv.org/abs/2405.15765v1](http://arxiv.org/abs/2405.15765v1)
 - 2024-05-24, **InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**, Yuchi Wang et.al., Paper: [http://arxiv.org/abs/2405.15758v1](http://arxiv.org/abs/2405.15758v1), Code: **[https://github.com/wangyuchi369/InstructAvatar](https://github.com/wangyuchi369/InstructAvatar)**
@@ -4943,6 +4953,16 @@
 
 ## MultiModal
 
+- 2024-05-27, **MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds**, Jiahui Lei et.al., Paper: [http://arxiv.org/abs/2405.17421v1](http://arxiv.org/abs/2405.17421v1)
+- 2024-05-27, **Fusing uncalibrated IMUs and handheld smartphone video to reconstruct knee kinematics**, J. D. Peiffer et.al., Paper: [http://arxiv.org/abs/2405.17368v1](http://arxiv.org/abs/2405.17368v1)
+- 2024-05-27, **All-day Depth Completion**, Vadim Ezhov et.al., Paper: [http://arxiv.org/abs/2405.17315v1](http://arxiv.org/abs/2405.17315v1)
+- 2024-05-27, **Survey of Graph Neural Network for Internet of Things and NextG Networks**, Sabarish Krishna Moorthy et.al., Paper: [http://arxiv.org/abs/2405.17309v1](http://arxiv.org/abs/2405.17309v1)
+- 2024-05-27, **EF-Calib: Spatiotemporal Calibration of Event- and Frame-Based Cameras Using Continuous-Time Trajectories**, Shaoan Wang et.al., Paper: [http://arxiv.org/abs/2405.17278v1](http://arxiv.org/abs/2405.17278v1), Code: **[https://github.com/wsakobe/ef-calib](https://github.com/wsakobe/ef-calib)**
+- 2024-05-27, **WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence**, Jiawei Shao et.al., Paper: [http://arxiv.org/abs/2405.17053v1](http://arxiv.org/abs/2405.17053v1)
+- 2024-05-27, **SWAT: Scalable and Efficient Window Attention-based Transformers Acceleration on FPGAs**, Zhenyu Bai et.al., Paper: [http://arxiv.org/abs/2405.17025v1](http://arxiv.org/abs/2405.17025v1)
+- 2024-05-27, **Uncertainty Management in the Construction of Knowledge Graphs: a Survey**, Lucas Jarnac et.al., Paper: [http://arxiv.org/abs/2405.16929v1](http://arxiv.org/abs/2405.16929v1)
+- 2024-05-27, **ContrastAlign: Toward Robust BEV Feature Alignment via Contrastive Learning for Multi-Modal 3D Object Detection**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2405.16873v1](http://arxiv.org/abs/2405.16873v1)
+- 2024-05-27, **Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion**, Yichi Zhang et.al., Paper: [http://arxiv.org/abs/2405.16869v1](http://arxiv.org/abs/2405.16869v1), Code: **[https://github.com/zjukg/momok](https://github.com/zjukg/momok)**
 - 2024-05-24, **A journey on self-$G$-ality**, Takamasa Ando et.al., Paper: [http://arxiv.org/abs/2405.15648v1](http://arxiv.org/abs/2405.15648v1)
 - 2024-05-24, **MCDFN: Supply Chain Demand Forecasting via an Explainable Multi-Channel Data Fusion Network Model Integrating CNN, LSTM, and GRU**, Md Abrar Jahin et.al., Paper: [http://arxiv.org/abs/2405.15598v1](http://arxiv.org/abs/2405.15598v1)
 - 2024-05-24, **Multimodal Object Detection via Probabilistic a priori Information Integration**, Hafsa El Hafyani et.al., Paper: [http://arxiv.org/abs/2405.15596v1](http://arxiv.org/abs/2405.15596v1)
