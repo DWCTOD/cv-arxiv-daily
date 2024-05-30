@@ -4972,7 +4972,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-28**|**Actions of tensor categories on Kirchberg algebras**|Kan Kitamura et.al.|[2405.18429v1](http://arxiv.org/abs/2405.18429v1)|null|
-|**2024-05-28**|**Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning**|Yixiao Zhang et.al.|[2405.18386v1](http://arxiv.org/abs/2405.18386v1)|**[link](https://github.com/ldzhangyx/instruct-MusicGen)**|
+|**2024-05-29**|**Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning**|Yixiao Zhang et.al.|[2405.18386v2](http://arxiv.org/abs/2405.18386v2)|**[link](https://github.com/ldzhangyx/instruct-MusicGen)**|
 |**2024-05-28**|**Confidence-aware multi-modality learning for eye disease screening**|Ke Zou et.al.|[2405.18167v1](http://arxiv.org/abs/2405.18167v1)|**[link](https://github.com/cocofeat/eyemost)**|
 |**2024-05-28**|**Dual-Path Multi-Scale Transformer for High-Quality Image Deraining**|Huiling Zhou et.al.|[2405.18124v1](http://arxiv.org/abs/2405.18124v1)|null|
 |**2024-05-28**|**RT-GS2: Real-Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields**|Mihnea-Bogdan Jurca et.al.|[2405.18033v1](http://arxiv.org/abs/2405.18033v1)|null|
