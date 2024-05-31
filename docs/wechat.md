@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-30, **MotionLLM: Understanding Human Behaviors from Human Motions and Videos**, Ling-Hao Chen et.al., Paper: [http://arxiv.org/abs/2405.20340v1](http://arxiv.org/abs/2405.20340v1)
+- 2024-05-30, **OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2405.20337v1](http://arxiv.org/abs/2405.20337v1), Code: **[https://github.com/wzzheng/occsora](https://github.com/wzzheng/occsora)**
+- 2024-05-30, **VividDream: Generating 3D Scene with Ambient Dynamics**, Yao-Chih Lee et.al., Paper: [http://arxiv.org/abs/2405.20334v1](http://arxiv.org/abs/2405.20334v1)
+- 2024-05-30, **SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**, Chinedu Innocent Nwoye et.al., Paper: [http://arxiv.org/abs/2405.20333v1](http://arxiv.org/abs/2405.20333v1)
+- 2024-05-30, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v1](http://arxiv.org/abs/2405.20330v1)
+- 2024-05-30, **MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2405.20325v1](http://arxiv.org/abs/2405.20325v1)
+- 2024-05-30, **Vision-based Manipulation from Single Human Video with Open-World Object Graphs**, Yifeng Zhu et.al., Paper: [http://arxiv.org/abs/2405.20321v1](http://arxiv.org/abs/2405.20321v1)
+- 2024-05-30, **Improving the Training of Rectified Flows**, Sangyun Lee et.al., Paper: [http://arxiv.org/abs/2405.20320v1](http://arxiv.org/abs/2405.20320v1), Code: **[https://github.com/sangyun884/rfpp](https://github.com/sangyun884/rfpp)**
+- 2024-05-30, **CausalQuest: Collecting Natural Causal Questions for AI Agents**, Roberto Ceraolo et.al., Paper: [http://arxiv.org/abs/2405.20318v1](http://arxiv.org/abs/2405.20318v1), Code: **[https://github.com/roberto-ceraolo/causal-quest](https://github.com/roberto-ceraolo/causal-quest)**
+- 2024-05-30, **Can't make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models**, Himangi Mittal et.al., Paper: [http://arxiv.org/abs/2405.20305v1](http://arxiv.org/abs/2405.20305v1)
 - 2024-05-29, **X-VILA: Cross-Modality Alignment for Large Language Model**, Hanrong Ye et.al., Paper: [http://arxiv.org/abs/2405.19335v1](http://arxiv.org/abs/2405.19335v1)
 - 2024-05-29, **LLMs Meet Multimodal Generation and Editing: A Survey**, Yingqing He et.al., Paper: [http://arxiv.org/abs/2405.19334v1](http://arxiv.org/abs/2405.19334v1), Code: **[https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)**
 - 2024-05-29, **Multi-Modal Generative Embedding Model**, Feipeng Ma et.al., Paper: [http://arxiv.org/abs/2405.19333v1](http://arxiv.org/abs/2405.19333v1)
@@ -4973,6 +4983,16 @@
 
 ## MultiModal
 
+- 2024-05-30, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v1](http://arxiv.org/abs/2405.20330v1)
+- 2024-05-30, **Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation**, Guillaume Huguet et.al., Paper: [http://arxiv.org/abs/2405.20313v1](http://arxiv.org/abs/2405.20313v1)
+- 2024-05-30, **MANTA: A Negative-Triangularity NASEM-Compliant Fusion Pilot Plant**, MANTA Collaboration et.al., Paper: [http://arxiv.org/abs/2405.20243v1](http://arxiv.org/abs/2405.20243v1)
+- 2024-05-30, **On Low-Rank Multiplicity-Free Fusion Categories**, Gert Vercleyen et.al., Paper: [http://arxiv.org/abs/2405.20075v1](http://arxiv.org/abs/2405.20075v1)
+- 2024-05-30, **Cross-Training with Multi-View Knowledge Fusion for Heterogenous Federated Learning**, Zhuang Qi et.al., Paper: [http://arxiv.org/abs/2405.20046v1](http://arxiv.org/abs/2405.20046v1)
+- 2024-05-30, **MM-Lego: Modular Biomedical Multimodal Models with Minimal Fine-Tuning**, Konstantin Hemker et.al., Paper: [http://arxiv.org/abs/2405.19950v1](http://arxiv.org/abs/2405.19950v1)
+- 2024-05-30, **MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**, Angel Villar-Corrales et.al., Paper: [http://arxiv.org/abs/2405.19921v1](http://arxiv.org/abs/2405.19921v1), Code: **[https://github.com/angelvillar96/MCDS-VSS](https://github.com/angelvillar96/MCDS-VSS)**
+- 2024-05-30, **Deep Joint Semantic Coding and Beamforming for Near-Space Airship-Borne Massive MIMO Network**, Minghui Wu et.al., Paper: [http://arxiv.org/abs/2405.19889v1](http://arxiv.org/abs/2405.19889v1)
+- 2024-05-30, **Quasi-isodynamic stellarators with low turbulence as fusion reactor candidates**, Alan G. Goodman et.al., Paper: [http://arxiv.org/abs/2405.19860v1](http://arxiv.org/abs/2405.19860v1)
+- 2024-05-30, **Low-energy collisions between electrons and BeD$^+$**, S. Niyonzima et.al., Paper: [http://arxiv.org/abs/2405.19792v1](http://arxiv.org/abs/2405.19792v1)
 - 2024-05-29, **Causal Data Fusion with Quantum Confounders**, Pedro Lauand et.al., Paper: [http://arxiv.org/abs/2405.19278v1](http://arxiv.org/abs/2405.19278v1)
 - 2024-05-29, **Quantum Non-classicality from Causal Data Fusion**, Pedro Lauand et.al., Paper: [http://arxiv.org/abs/2405.19252v1](http://arxiv.org/abs/2405.19252v1)
 - 2024-05-29, **Vulnerable Road User Detection and Safety Enhancement: A Comprehensive Survey**, Renato M. Silva et.al., Paper: [http://arxiv.org/abs/2405.19202v1](http://arxiv.org/abs/2405.19202v1)
