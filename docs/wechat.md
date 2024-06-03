@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-05-31, **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**, Chaoyou Fu et.al., Paper: [http://arxiv.org/abs/2405.21075v1](http://arxiv.org/abs/2405.21075v1)
+- 2024-05-31, **Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights**, Xin Wen et.al., Paper: [http://arxiv.org/abs/2405.21070v1](http://arxiv.org/abs/2405.21070v1), Code: **[https://github.com/cvmi-lab/clip-beyond-tail](https://github.com/cvmi-lab/clip-beyond-tail)**
+- 2024-05-31, **You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**, Zhen Qin et.al., Paper: [http://arxiv.org/abs/2405.21022v1](http://arxiv.org/abs/2405.21022v1)
+- 2024-05-31, **Beyond Conventional Parametric Modeling: Data-Driven Framework for Estimation and Prediction of Time Activity Curves in Dynamic PET Imaging**, Niloufar Zakariaei et.al., Paper: [http://arxiv.org/abs/2405.21021v1](http://arxiv.org/abs/2405.21021v1)
+- 2024-05-31, **The classification of dp-minimal integral domains**, Christian d'Elbée et.al., Paper: [http://arxiv.org/abs/2405.21014v1](http://arxiv.org/abs/2405.21014v1)
+- 2024-05-31, **Early Stopping Criteria for Training Generative Adversarial Networks in Biomedical Imaging**, Muhammad Muneeb Saad et.al., Paper: [http://arxiv.org/abs/2405.20987v1](http://arxiv.org/abs/2405.20987v1)
+- 2024-05-31, **PUAL: A Classifier on Trifurcate Positive-Unlabeled Data**, Xiaoke Wang et.al., Paper: [http://arxiv.org/abs/2405.20970v1](http://arxiv.org/abs/2405.20970v1)
+- 2024-05-31, **Aligning Multiclass Neural Network Classifier Criterion with Task Performance via $F_β$-Score**, Nathan Tsoi et.al., Paper: [http://arxiv.org/abs/2405.20954v1](http://arxiv.org/abs/2405.20954v1)
+- 2024-05-31, **Standard model of electromagnetism and chirality in crystals**, R. Winkler et.al., Paper: [http://arxiv.org/abs/2405.20940v1](http://arxiv.org/abs/2405.20940v1)
+- 2024-05-31, **MALT: Multi-scale Action Learning Transformer for Online Action Detection**, Zhipeng Yang et.al., Paper: [http://arxiv.org/abs/2405.20892v1](http://arxiv.org/abs/2405.20892v1)
 - 2024-05-30, **MotionLLM: Understanding Human Behaviors from Human Motions and Videos**, Ling-Hao Chen et.al., Paper: [http://arxiv.org/abs/2405.20340v1](http://arxiv.org/abs/2405.20340v1)
 - 2024-05-30, **OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2405.20337v1](http://arxiv.org/abs/2405.20337v1), Code: **[https://github.com/wzzheng/occsora](https://github.com/wzzheng/occsora)**
 - 2024-05-30, **VividDream: Generating 3D Scene with Ambient Dynamics**, Yao-Chih Lee et.al., Paper: [http://arxiv.org/abs/2405.20334v1](http://arxiv.org/abs/2405.20334v1)
@@ -4983,6 +4993,16 @@
 
 ## MultiModal
 
+- 2024-05-31, **Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**, Jiesong Lian et.al., Paper: [http://arxiv.org/abs/2405.21027v1](http://arxiv.org/abs/2405.21027v1)
+- 2024-05-31, **Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**, Linlin Yu et.al., Paper: [http://arxiv.org/abs/2405.20986v1](http://arxiv.org/abs/2405.20986v1)
+- 2024-05-31, **Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes**, Evangelos Dimitriou et.al., Paper: [http://arxiv.org/abs/2405.20957v1](http://arxiv.org/abs/2405.20957v1)
+- 2024-05-31, **RASE: Efficient Privacy-preserving Data Aggregation against Disclosure Attacks for IoTs**, Zuyan Wang et.al., Paper: [http://arxiv.org/abs/2405.20914v1](http://arxiv.org/abs/2405.20914v1)
+- 2024-05-31, **MALT: Multi-scale Action Learning Transformer for Online Action Detection**, Zhipeng Yang et.al., Paper: [http://arxiv.org/abs/2405.20892v1](http://arxiv.org/abs/2405.20892v1)
+- 2024-05-31, **S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**, Haolong Ma et.al., Paper: [http://arxiv.org/abs/2405.20881v1](http://arxiv.org/abs/2405.20881v1)
+- 2024-05-31, **SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**, Yuxi Liu et.al., Paper: [http://arxiv.org/abs/2405.20878v1](http://arxiv.org/abs/2405.20878v1), Code: **[https://github.com/hkuds/selfgnn](https://github.com/hkuds/selfgnn)**
+- 2024-05-31, **Ovis: Structural Embedding Alignment for Multimodal Large Language Model**, Shiyin Lu et.al., Paper: [http://arxiv.org/abs/2405.20797v1](http://arxiv.org/abs/2405.20797v1)
+- 2024-05-31, **CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model**, Zhiming Meng et.al., Paper: [http://arxiv.org/abs/2405.20764v1](http://arxiv.org/abs/2405.20764v1)
+- 2024-05-31, **Enhancing Counterfactual Image Generation Using Mahalanobis Distance with Distribution Preferences in Feature Space**, Yukai Zhang et.al., Paper: [http://arxiv.org/abs/2405.20685v1](http://arxiv.org/abs/2405.20685v1)
 - 2024-05-31, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v2](http://arxiv.org/abs/2405.20330v2)
 - 2024-05-30, **Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation**, Guillaume Huguet et.al., Paper: [http://arxiv.org/abs/2405.20313v1](http://arxiv.org/abs/2405.20313v1)
 - 2024-05-30, **MANTA: A Negative-Triangularity NASEM-Compliant Fusion Pilot Plant**, MANTA Collaboration et.al., Paper: [http://arxiv.org/abs/2405.20243v1](http://arxiv.org/abs/2405.20243v1)
