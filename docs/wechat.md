@@ -1,4 +1,4 @@
-> Updated on 2024.06.02
+> Updated on 2024.06.03
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 - 2024-05-30, **OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2405.20337v1](http://arxiv.org/abs/2405.20337v1), Code: **[https://github.com/wzzheng/occsora](https://github.com/wzzheng/occsora)**
 - 2024-05-30, **VividDream: Generating 3D Scene with Ambient Dynamics**, Yao-Chih Lee et.al., Paper: [http://arxiv.org/abs/2405.20334v1](http://arxiv.org/abs/2405.20334v1)
 - 2024-05-30, **SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**, Chinedu Innocent Nwoye et.al., Paper: [http://arxiv.org/abs/2405.20333v1](http://arxiv.org/abs/2405.20333v1)
-- 2024-05-30, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v1](http://arxiv.org/abs/2405.20330v1)
+- 2024-05-31, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v2](http://arxiv.org/abs/2405.20330v2)
 - 2024-05-30, **MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2405.20325v1](http://arxiv.org/abs/2405.20325v1)
 - 2024-05-30, **Vision-based Manipulation from Single Human Video with Open-World Object Graphs**, Yifeng Zhu et.al., Paper: [http://arxiv.org/abs/2405.20321v1](http://arxiv.org/abs/2405.20321v1)
 - 2024-05-30, **Improving the Training of Rectified Flows**, Sangyun Lee et.al., Paper: [http://arxiv.org/abs/2405.20320v1](http://arxiv.org/abs/2405.20320v1), Code: **[https://github.com/sangyun884/rfpp](https://github.com/sangyun884/rfpp)**
@@ -4983,7 +4983,7 @@
 
 ## MultiModal
 
-- 2024-05-30, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v1](http://arxiv.org/abs/2405.20330v1)
+- 2024-05-31, **4DHands: Reconstructing Interactive Hands in 4D with Transformers**, Dixuan Lin et.al., Paper: [http://arxiv.org/abs/2405.20330v2](http://arxiv.org/abs/2405.20330v2)
 - 2024-05-30, **Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation**, Guillaume Huguet et.al., Paper: [http://arxiv.org/abs/2405.20313v1](http://arxiv.org/abs/2405.20313v1)
 - 2024-05-30, **MANTA: A Negative-Triangularity NASEM-Compliant Fusion Pilot Plant**, MANTA Collaboration et.al., Paper: [http://arxiv.org/abs/2405.20243v1](http://arxiv.org/abs/2405.20243v1)
 - 2024-05-30, **On Low-Rank Multiplicity-Free Fusion Categories**, Gert Vercleyen et.al., Paper: [http://arxiv.org/abs/2405.20075v1](http://arxiv.org/abs/2405.20075v1)
