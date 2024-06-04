@@ -4993,12 +4993,12 @@
 
 ## MultiModal
 
-- 2024-05-31, **Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**, Jiesong Lian et.al., Paper: [http://arxiv.org/abs/2405.21027v1](http://arxiv.org/abs/2405.21027v1)
+- 2024-06-03, **Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**, Jiesong Lian et.al., Paper: [http://arxiv.org/abs/2405.21027v2](http://arxiv.org/abs/2405.21027v2)
 - 2024-05-31, **Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**, Linlin Yu et.al., Paper: [http://arxiv.org/abs/2405.20986v1](http://arxiv.org/abs/2405.20986v1)
 - 2024-05-31, **Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes**, Evangelos Dimitriou et.al., Paper: [http://arxiv.org/abs/2405.20957v1](http://arxiv.org/abs/2405.20957v1)
 - 2024-05-31, **RASE: Efficient Privacy-preserving Data Aggregation against Disclosure Attacks for IoTs**, Zuyan Wang et.al., Paper: [http://arxiv.org/abs/2405.20914v1](http://arxiv.org/abs/2405.20914v1)
 - 2024-05-31, **MALT: Multi-scale Action Learning Transformer for Online Action Detection**, Zhipeng Yang et.al., Paper: [http://arxiv.org/abs/2405.20892v1](http://arxiv.org/abs/2405.20892v1)
-- 2024-05-31, **S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**, Haolong Ma et.al., Paper: [http://arxiv.org/abs/2405.20881v1](http://arxiv.org/abs/2405.20881v1)
+- 2024-06-03, **S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**, Haolong Ma et.al., Paper: [http://arxiv.org/abs/2405.20881v2](http://arxiv.org/abs/2405.20881v2)
 - 2024-05-31, **SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**, Yuxi Liu et.al., Paper: [http://arxiv.org/abs/2405.20878v1](http://arxiv.org/abs/2405.20878v1), Code: **[https://github.com/hkuds/selfgnn](https://github.com/hkuds/selfgnn)**
 - 2024-05-31, **Ovis: Structural Embedding Alignment for Multimodal Large Language Model**, Shiyin Lu et.al., Paper: [http://arxiv.org/abs/2405.20797v1](http://arxiv.org/abs/2405.20797v1)
 - 2024-05-31, **CoMoFusion: Fast and High-quality Fusion of Infrared and Visible Image with Consistency Model**, Zhiming Meng et.al., Paper: [http://arxiv.org/abs/2405.20764v1](http://arxiv.org/abs/2405.20764v1)
