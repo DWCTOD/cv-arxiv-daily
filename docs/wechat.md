@@ -5003,7 +5003,7 @@
 
 ## MultiModal
 
-- 2024-06-04, **A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**, Remi Genet et.al., Paper: [http://arxiv.org/abs/2406.02486v1](http://arxiv.org/abs/2406.02486v1), Code: **[https://github.com/remigenet/TKAT](https://github.com/remigenet/TKAT)**
+- 2024-06-05, **A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**, Remi Genet et.al., Paper: [http://arxiv.org/abs/2406.02486v2](http://arxiv.org/abs/2406.02486v2), Code: **[https://github.com/remigenet/TKAT](https://github.com/remigenet/TKAT)**
 - 2024-06-04, **Landscape-Aware Growing: The Power of a Little LAG**, Stefani Karp et.al., Paper: [http://arxiv.org/abs/2406.02469v1](http://arxiv.org/abs/2406.02469v1)
 - 2024-06-04, **A compact stellarator-tokamak hybrid**, S. A. Henneberg et.al., Paper: [http://arxiv.org/abs/2406.02353v1](http://arxiv.org/abs/2406.02353v1)
 - 2024-06-04, **AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**, Peiyu Liang et.al., Paper: [http://arxiv.org/abs/2406.02348v1](http://arxiv.org/abs/2406.02348v1)
