@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-06-05, **Grokking Modular Polynomials**, Darshil Doshi et.al., Paper: [http://arxiv.org/abs/2406.03495v1](http://arxiv.org/abs/2406.03495v1)
+- 2024-06-05, **The Logarithmic Memristor-Based Bayesian Machine**, Clément Turck et.al., Paper: [http://arxiv.org/abs/2406.03492v1](http://arxiv.org/abs/2406.03492v1)
+- 2024-06-05, **Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**, Sonia Bbouzidi et.al., Paper: [http://arxiv.org/abs/2406.03478v1](http://arxiv.org/abs/2406.03478v1)
+- 2024-06-05, **Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach**, Haoyu Han et.al., Paper: [http://arxiv.org/abs/2406.03464v1](http://arxiv.org/abs/2406.03464v1)
+- 2024-06-05, **Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**, Dominik Scheuble et.al., Paper: [http://arxiv.org/abs/2406.03461v1](http://arxiv.org/abs/2406.03461v1)
+- 2024-06-05, **FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**, Mona Ahmadian et.al., Paper: [http://arxiv.org/abs/2406.03447v1](http://arxiv.org/abs/2406.03447v1)
+- 2024-06-05, **Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**, Joachim Ott et.al., Paper: [http://arxiv.org/abs/2406.03439v1](http://arxiv.org/abs/2406.03439v1)
+- 2024-06-05, **Stabilizing massless fields with fluxes in Landau-Ginzburg models**, Katrin Becker et.al., Paper: [http://arxiv.org/abs/2406.03435v1](http://arxiv.org/abs/2406.03435v1)
+- 2024-06-05, **Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**, Moein Heidari et.al., Paper: [http://arxiv.org/abs/2406.03430v1](http://arxiv.org/abs/2406.03430v1), Code: **[https://github.com/xmindflow/awesome_mamba](https://github.com/xmindflow/awesome_mamba)**
+- 2024-06-05, **Post-hoc Part-prototype Networks**, Andong Tan et.al., Paper: [http://arxiv.org/abs/2406.03421v1](http://arxiv.org/abs/2406.03421v1)
 - 2024-06-05, **Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**, Inkyu Shin et.al., Paper: [http://arxiv.org/abs/2406.02541v2](http://arxiv.org/abs/2406.02541v2)
 - 2024-06-04, **ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**, Tianchen Zhao et.al., Paper: [http://arxiv.org/abs/2406.02540v1](http://arxiv.org/abs/2406.02540v1)
 - 2024-06-04, **Enhancing predictive imaging biomarker discovery through treatment effect analysis**, Shuhan Xiao et.al., Paper: [http://arxiv.org/abs/2406.02534v1](http://arxiv.org/abs/2406.02534v1)
@@ -5003,6 +5013,16 @@
 
 ## MultiModal
 
+- 2024-06-05, **Characterization of foam-filled hohlraums for inertial fusion experiments**, Sam Iaquinta et.al., Paper: [http://arxiv.org/abs/2406.03475v1](http://arxiv.org/abs/2406.03475v1)
+- 2024-06-05, **Methods for Class-Imbalanced Learning with Support Vector Machines: A Review and an Empirical Evaluation**, Salim rezvani et.al., Paper: [http://arxiv.org/abs/2406.03398v1](http://arxiv.org/abs/2406.03398v1)
+- 2024-06-05, **Form factor bootstrap in the thermally perturbed tricritical Ising model**, B. Fitos et.al., Paper: [http://arxiv.org/abs/2406.03300v1](http://arxiv.org/abs/2406.03300v1)
+- 2024-06-05, **FusionBench: A Comprehensive Benchmark of Deep Model Fusion**, Anke Tang et.al., Paper: [http://arxiv.org/abs/2406.03280v1](http://arxiv.org/abs/2406.03280v1)
+- 2024-06-05, **Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**, Eliraz Orfaig et.al., Paper: [http://arxiv.org/abs/2406.03129v1](http://arxiv.org/abs/2406.03129v1)
+- 2024-06-05, **Task-Oriented Wireless Communications for Collaborative Perception in Intelligent Unmanned Systems**, Sheng Zhou et.al., Paper: [http://arxiv.org/abs/2406.03086v1](http://arxiv.org/abs/2406.03086v1)
+- 2024-06-05, **Predicting Genetic Mutation from Whole Slide Images via Biomedical-Linguistic Knowledge Enhanced Multi-label Classification**, Gexin Huang et.al., Paper: [http://arxiv.org/abs/2406.02990v1](http://arxiv.org/abs/2406.02990v1), Code: **[https://github.com/gexinh/bpgt](https://github.com/gexinh/bpgt)**
+- 2024-06-05, **AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection**, Trevine Oorloff et.al., Paper: [http://arxiv.org/abs/2406.02951v1](http://arxiv.org/abs/2406.02951v1)
+- 2024-06-05, **Physical Origin of H-Mode**, Kwan Chul Lee et.al., Paper: [http://arxiv.org/abs/2406.02920v1](http://arxiv.org/abs/2406.02920v1)
+- 2024-06-05, **S$^2$GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis**, Bingfeng Chen et.al., Paper: [http://arxiv.org/abs/2406.02902v1](http://arxiv.org/abs/2406.02902v1)
 - 2024-06-05, **A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**, Remi Genet et.al., Paper: [http://arxiv.org/abs/2406.02486v2](http://arxiv.org/abs/2406.02486v2), Code: **[https://github.com/remigenet/TKAT](https://github.com/remigenet/TKAT)**
 - 2024-06-04, **Landscape-Aware Growing: The Power of a Little LAG**, Stefani Karp et.al., Paper: [http://arxiv.org/abs/2406.02469v1](http://arxiv.org/abs/2406.02469v1)
 - 2024-06-04, **A compact stellarator-tokamak hybrid**, S. A. Henneberg et.al., Paper: [http://arxiv.org/abs/2406.02353v1](http://arxiv.org/abs/2406.02353v1)
