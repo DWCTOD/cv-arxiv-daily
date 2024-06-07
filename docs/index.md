@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344v1](http://arxiv.org/abs/2406.04344v1)|null|
+|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|null|
+|**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330v1](http://arxiv.org/abs/2406.04330v1)|**[link](https://github.com/opengvlab/piip)**|
+|**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325v1](http://arxiv.org/abs/2406.04325v1)|null|
+|**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324v1](http://arxiv.org/abs/2406.04324v1)|null|
+|**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323v1](http://arxiv.org/abs/2406.04323v1)|null|
+|**2024-06-06**|**VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling**|Zeyue Tian et.al.|[2406.04321v1](http://arxiv.org/abs/2406.04321v1)|**[link](https://github.com/zeyuet/vidmuse)**|
+|**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320v1](http://arxiv.org/abs/2406.04320v1)|null|
+|**2024-06-06**|**Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**|Chen-Yu Yen et.al.|[2406.04318v1](http://arxiv.org/abs/2406.04318v1)|null|
+|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
 |**2024-06-05**|**Grokking Modular Polynomials**|Darshil Doshi et.al.|[2406.03495v1](http://arxiv.org/abs/2406.03495v1)|null|
 |**2024-06-05**|**The Logarithmic Memristor-Based Bayesian Machine**|Clément Turck et.al.|[2406.03492v1](http://arxiv.org/abs/2406.03492v1)|null|
 |**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478v1](http://arxiv.org/abs/2406.03478v1)|null|
@@ -5021,6 +5031,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345v1](http://arxiv.org/abs/2406.04345v1)|**[link](https://github.com/bartn8/vppstereo)**|
+|**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
+|**2024-06-06**|**Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry**|Kaichen Zhou et.al.|[2406.04301v1](http://arxiv.org/abs/2406.04301v1)|null|
+|**2024-06-06**|**Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks**|Han Zhang et.al.|[2406.04276v1](http://arxiv.org/abs/2406.04276v1)|null|
+|**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207v1](http://arxiv.org/abs/2406.04207v1)|null|
+|**2024-06-06**|**Observation of $γγ\toττ$ in proton-proton collisions and limits on the anomalous electromagnetic moments of the $τ$ lepton**|CMS Collaboration et.al.|[2406.03975v1](http://arxiv.org/abs/2406.03975v1)|null|
+|**2024-06-06**|**The asymmetric intrinsic charm in the nucleon and its implications for the $D^{0}$ production in the LHCb $p\!+\!\!^{20}\!N\!e$ fixed-target experiment**|Victor P. Goncalves et.al.|[2406.03943v1](http://arxiv.org/abs/2406.03943v1)|null|
+|**2024-06-06**|**The association scheme on the set of flags of a finite generalized quadrangle**|Francesco Colangelo et.al.|[2406.03942v1](http://arxiv.org/abs/2406.03942v1)|null|
+|**2024-06-06**|**Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models**|Ziyun Cui et.al.|[2406.03882v1](http://arxiv.org/abs/2406.03882v1)|null|
+|**2024-06-06**|**Model fusion for efficient learning of nonlinear dynamical systems**|Vatsal Kedia et.al.|[2406.03752v1](http://arxiv.org/abs/2406.03752v1)|null|
 |**2024-06-05**|**Characterization of foam-filled hohlraums for inertial fusion experiments**|Sam Iaquinta et.al.|[2406.03475v1](http://arxiv.org/abs/2406.03475v1)|null|
 |**2024-06-05**|**Methods for Class-Imbalanced Learning with Support Vector Machines: A Review and an Empirical Evaluation**|Salim rezvani et.al.|[2406.03398v1](http://arxiv.org/abs/2406.03398v1)|null|
 |**2024-06-05**|**Form factor bootstrap in the thermally perturbed tricritical Ising model**|B. Fitos et.al.|[2406.03300v1](http://arxiv.org/abs/2406.03300v1)|null|
