@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-06-07, **DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**, Keyhan Najafian et.al., Paper: [http://arxiv.org/abs/2406.05131v1](http://arxiv.org/abs/2406.05131v1)
+- 2024-06-07, **Compositional Curvature Bounds for Deep Neural Networks**, Taha Entesari et.al., Paper: [http://arxiv.org/abs/2406.05119v1](http://arxiv.org/abs/2406.05119v1)
+- 2024-06-07, **Large Generative Graph Models**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2406.05109v1](http://arxiv.org/abs/2406.05109v1)
+- 2024-06-07, **A Novel Time Series-to-Image Encoding Approach for Weather Phenomena Classification**, Christian Giannetti et.al., Paper: [http://arxiv.org/abs/2406.05096v1](http://arxiv.org/abs/2406.05096v1)
+- 2024-06-07, **Discovery of An Apparent Red, High-Velocity Type Ia Supernova at z = 2.9 with JWST**, J. D. R. Pierel et.al., Paper: [http://arxiv.org/abs/2406.05089v1](http://arxiv.org/abs/2406.05089v1)
+- 2024-06-07, **CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**, Xingrui Wang et.al., Paper: [http://arxiv.org/abs/2406.05082v1](http://arxiv.org/abs/2406.05082v1)
+- 2024-06-07, **Discovery of a Relativistic Stripped Envelope Type Ic-BL Supernova at z = 2.83 with JWST**, M. R. Siebert et.al., Paper: [http://arxiv.org/abs/2406.05076v1](http://arxiv.org/abs/2406.05076v1)
+- 2024-06-07, **Diving Deep into the Motion Representation of Video-Text Models**, Chinmaya Devaraj et.al., Paper: [http://arxiv.org/abs/2406.05075v1](http://arxiv.org/abs/2406.05075v1)
+- 2024-06-07, **Hibou: A Family of Foundational Vision Transformers for Pathology**, Dmitry Nechaev et.al., Paper: [http://arxiv.org/abs/2406.05074v1](http://arxiv.org/abs/2406.05074v1)
+- 2024-06-07, **Classification Metrics for Image Explanations: Towards Building Reliable XAI-Evaluations**, Benjamin Fresz et.al., Paper: [http://arxiv.org/abs/2406.05068v1](http://arxiv.org/abs/2406.05068v1), Code: **[https://github.com/lelo204/classificationmetricsforimageexplanations](https://github.com/lelo204/classificationmetricsforimageexplanations)**
 - 2024-06-06, **Verbalized Machine Learning: Revisiting Machine Learning with Language Models**, Tim Z. Xiao et.al., Paper: [http://arxiv.org/abs/2406.04344v1](http://arxiv.org/abs/2406.04344v1)
 - 2024-06-07, **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2406.04338v2](http://arxiv.org/abs/2406.04338v2)
 - 2024-06-06, **Parameter-Inverted Image Pyramid Networks**, Xizhou Zhu et.al., Paper: [http://arxiv.org/abs/2406.04330v1](http://arxiv.org/abs/2406.04330v1), Code: **[https://github.com/opengvlab/piip](https://github.com/opengvlab/piip)**
@@ -5023,6 +5033,16 @@
 
 ## MultiModal
 
+- 2024-06-07, **Contextual fusion enhances robustness to image blurring**, Shruti Joshi et.al., Paper: [http://arxiv.org/abs/2406.05120v1](http://arxiv.org/abs/2406.05120v1)
+- 2024-06-07, **Enhancing Indoor Temperature Forecasting through Synthetic Data in Low-Data Environments**, Zachari Thiry et.al., Paper: [http://arxiv.org/abs/2406.04890v1](http://arxiv.org/abs/2406.04890v1)
+- 2024-06-07, **Upright to supine image registration and contour propagation for thoracic patients**, M. C. Martire et.al., Paper: [http://arxiv.org/abs/2406.04883v1](http://arxiv.org/abs/2406.04883v1)
+- 2024-06-07, **3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation**, Feiyu Pan et.al., Paper: [http://arxiv.org/abs/2406.04842v1](http://arxiv.org/abs/2406.04842v1)
+- 2024-06-07, **Predictive Dynamic Fusion**, Bing Cao et.al., Paper: [http://arxiv.org/abs/2406.04802v1](http://arxiv.org/abs/2406.04802v1), Code: **[https://github.com/yinan-xia/pdf](https://github.com/yinan-xia/pdf)**
+- 2024-06-07, **CDeFuse: Continuous Decomposition for Infrared and Visible Image Fusion**, Haolong Ma et.al., Paper: [http://arxiv.org/abs/2406.04689v1](http://arxiv.org/abs/2406.04689v1)
+- 2024-06-07, **SMART: Scene-motion-aware human action recognition framework for mental disorder group**, Zengyuan Lai et.al., Paper: [http://arxiv.org/abs/2406.04649v1](http://arxiv.org/abs/2406.04649v1)
+- 2024-06-07, **Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition**, Junru Zhang et.al., Paper: [http://arxiv.org/abs/2406.04609v1](http://arxiv.org/abs/2406.04609v1)
+- 2024-06-07, **MeGA: Merging Multiple Independently Trained Neural Networks Based on Genetic Algorithm**, Daniel Yun et.al., Paper: [http://arxiv.org/abs/2406.04607v1](http://arxiv.org/abs/2406.04607v1), Code: **[https://github.com/yunblak/mega-merging-multiple-independently-trained-neural-networks-based-on-genetic-algorithm](https://github.com/yunblak/mega-merging-multiple-independently-trained-neural-networks-based-on-genetic-algorithm)**
+- 2024-06-07, **Pitch-Aware RNN-T for Mandarin Chinese Mispronunciation Detection and Diagnosis**, Xintong Wang et.al., Paper: [http://arxiv.org/abs/2406.04595v1](http://arxiv.org/abs/2406.04595v1)
 - 2024-06-06, **Stereo-Depth Fusion through Virtual Pattern Projection**, Luca Bartolomei et.al., Paper: [http://arxiv.org/abs/2406.04345v1](http://arxiv.org/abs/2406.04345v1), Code: **[https://github.com/bartn8/vppstereo](https://github.com/bartn8/vppstereo)**
 - 2024-06-06, **ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**, Sergey Zakharov et.al., Paper: [http://arxiv.org/abs/2406.04309v1](http://arxiv.org/abs/2406.04309v1)
 - 2024-06-06, **Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry**, Kaichen Zhou et.al., Paper: [http://arxiv.org/abs/2406.04301v1](http://arxiv.org/abs/2406.04301v1)
