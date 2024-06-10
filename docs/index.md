@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344v1](http://arxiv.org/abs/2406.04344v1)|null|
-|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|null|
+|**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v2](http://arxiv.org/abs/2406.04338v2)|null|
 |**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330v1](http://arxiv.org/abs/2406.04330v1)|**[link](https://github.com/opengvlab/piip)**|
 |**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325v1](http://arxiv.org/abs/2406.04325v1)|null|
 |**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324v1](http://arxiv.org/abs/2406.04324v1)|null|
