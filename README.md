@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing**|Ting-Hsuan Chen et.al.|[2406.06523v1](http://arxiv.org/abs/2406.06523v1)|null|
+|**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518v1](http://arxiv.org/abs/2406.06518v1)|null|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
+|**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508v1](http://arxiv.org/abs/2406.06508v1)|**[link](https://github.com/monkeyseedocg/momo-code)**|
+|**2024-06-10**|**Equivariant Neural Tangent Kernels**|Philipp Misof et.al.|[2406.06504v1](http://arxiv.org/abs/2406.06504v1)|null|
+|**2024-06-10**|**Viscous shock fluctuations in KPZ**|Alexander Dunlap et.al.|[2406.06502v1](http://arxiv.org/abs/2406.06502v1)|null|
+|**2024-06-10**|**NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative**|Asmar Nadeem et.al.|[2406.06499v1](http://arxiv.org/abs/2406.06499v1)|null|
+|**2024-06-10**|**Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace**|Chenxu Wang et.al.|[2406.06498v1](http://arxiv.org/abs/2406.06498v1)|null|
+|**2024-06-10**|**Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data**|Nicole Hayes et.al.|[2406.06479v1](http://arxiv.org/abs/2406.06479v1)|null|
+|**2024-06-10**|**DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents**|Olivia Figueira et.al.|[2406.06473v1](http://arxiv.org/abs/2406.06473v1)|null|
 |**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131v1](http://arxiv.org/abs/2406.05131v1)|null|
 |**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119v1](http://arxiv.org/abs/2406.05119v1)|null|
 |**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109v1](http://arxiv.org/abs/2406.05109v1)|null|
@@ -5037,6 +5047,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Multiple SLEs for $κ\in (0,8)$: Coulomb gas integrals and pure partition functions**|Yu Feng et.al.|[2406.06522v1](http://arxiv.org/abs/2406.06522v1)|null|
+|**2024-06-10**|**Spatiotemporal Graph Neural Network Modelling Perfusion MRI**|Ruodan Yan et.al.|[2406.06434v1](http://arxiv.org/abs/2406.06434v1)|null|
+|**2024-06-10**|**Stabilized Adaptive Steering for 3D Sonar Microphone Arrays with IMU Sensor Fusion**|Wouter Jansen et.al.|[2406.06255v1](http://arxiv.org/abs/2406.06255v1)|null|
+|**2024-06-10**|**RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection**|Yujie Chen et.al.|[2406.06086v1](http://arxiv.org/abs/2406.06086v1)|null|
+|**2024-06-10**|**Robust Latent Representation Tuning for Image-text Classification**|Hao Sun et.al.|[2406.06048v1](http://arxiv.org/abs/2406.06048v1)|null|
+|**2024-06-10**|**Neuro-TransUNet: Segmentation of stroke lesion in MRI using transformers**|Muhammad Nouman et.al.|[2406.06017v1](http://arxiv.org/abs/2406.06017v1)|null|
+|**2024-06-10**|**Simultaneous Enhancement of Tritium Burn Efficiency and Fusion Power with Low-Tritium Spin-Polarized Fuel**|J. F. Parisi et.al.|[2406.05970v1](http://arxiv.org/abs/2406.05970v1)|null|
+|**2024-06-09**|**Gentle-CLIP: Exploring Aligned Semantic In Low-Quality Multimodal Data With Soft Alignment**|Zijia Song et.al.|[2406.05766v1](http://arxiv.org/abs/2406.05766v1)|null|
+|**2024-06-09**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755v1](http://arxiv.org/abs/2406.05755v1)|**[link](https://github.com/hoiliu-0801/dntr)**|
+|**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**Contextual fusion enhances robustness to image blurring**|Shruti Joshi et.al.|[2406.05120v1](http://arxiv.org/abs/2406.05120v1)|null|
 |**2024-06-07**|**Enhancing Indoor Temperature Forecasting through Synthetic Data in Low-Data Environments**|Zachari Thiry et.al.|[2406.04890v1](http://arxiv.org/abs/2406.04890v1)|null|
 |**2024-06-07**|**Upright to supine image registration and contour propagation for thoracic patients**|M. C. Martire et.al.|[2406.04883v1](http://arxiv.org/abs/2406.04883v1)|null|
