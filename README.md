@@ -1,4 +1,4 @@
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 
 ## Video_Classification
 
@@ -5055,7 +5055,7 @@
 |**2024-06-10**|**Neuro-TransUNet: Segmentation of stroke lesion in MRI using transformers**|Muhammad Nouman et.al.|[2406.06017v1](http://arxiv.org/abs/2406.06017v1)|null|
 |**2024-06-10**|**Simultaneous Enhancement of Tritium Burn Efficiency and Fusion Power with Low-Tritium Spin-Polarized Fuel**|J. F. Parisi et.al.|[2406.05970v1](http://arxiv.org/abs/2406.05970v1)|null|
 |**2024-06-09**|**Gentle-CLIP: Exploring Aligned Semantic In Low-Quality Multimodal Data With Soft Alignment**|Zijia Song et.al.|[2406.05766v1](http://arxiv.org/abs/2406.05766v1)|null|
-|**2024-06-09**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755v1](http://arxiv.org/abs/2406.05755v1)|**[link](https://github.com/hoiliu-0801/dntr)**|
+|**2024-06-11**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755v2](http://arxiv.org/abs/2406.05755v2)|**[link](https://github.com/hoiliu-0801/dntr)**|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**Contextual fusion enhances robustness to image blurring**|Shruti Joshi et.al.|[2406.05120v1](http://arxiv.org/abs/2406.05120v1)|null|
 |**2024-06-07**|**Enhancing Indoor Temperature Forecasting through Synthetic Data in Low-Data Environments**|Zachari Thiry et.al.|[2406.04890v1](http://arxiv.org/abs/2406.04890v1)|null|
