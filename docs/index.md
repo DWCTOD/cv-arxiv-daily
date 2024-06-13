@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
+|**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476v1](http://arxiv.org/abs/2406.08476v1)|null|
+|**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455v1](http://arxiv.org/abs/2406.08455v1)|null|
+|**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443v1](http://arxiv.org/abs/2406.08443v1)|null|
+|**2024-06-12**|**A Sticker is Worth a Thousand Words: Characterizing the Use of Stickers in WhatsApp Political Groups in Brazil**|Philipe Melo et.al.|[2406.08429v1](http://arxiv.org/abs/2406.08429v1)|null|
+|**2024-06-12**|**Improving Noise Robustness through Abstractions and its Impact on Machine Learning**|Alfredo Ibias et.al.|[2406.08428v1](http://arxiv.org/abs/2406.08428v1)|null|
+|**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418v1](http://arxiv.org/abs/2406.08418v1)|**[link](https://github.com/opengvlab/omnicorpus)**|
+|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407v1](http://arxiv.org/abs/2406.08407v1)|**[link](https://github.com/eric-ai-lab/mmworld)**|
+|**2024-06-12**|**Eyes Wide Unshut: Unsupervised Mistake Detection in Egocentric Video by Detecting Unpredictable Gaze**|Michele Mazzamuto et.al.|[2406.08379v1](http://arxiv.org/abs/2406.08379v1)|null|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374v1](http://arxiv.org/abs/2406.08374v1)|null|
 |**2024-06-11**|**Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring**|Huicong Zhang et.al.|[2406.07551v1](http://arxiv.org/abs/2406.07551v1)|**[link](https://github.com/huicongzhang/bsstnet)**|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548v1](http://arxiv.org/abs/2406.07548v1)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
 |**2024-06-11**|**Zero-shot Image Editing with Reference Imitation**|Xi Chen et.al.|[2406.07547v1](http://arxiv.org/abs/2406.07547v1)|null|
@@ -5061,6 +5071,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Speech Emotion Recognition with ASR Transcripts: A Comprehensive Study on Word Error Rate and Fusion Techniques**|Yuanchao Li et.al.|[2406.08353v1](http://arxiv.org/abs/2406.08353v1)|null|
+|**2024-06-12**|**Familiar biological, chemical and physical events credibly evolve the Standard Genetic Code**|Michael Yarus et.al.|[2406.08302v1](http://arxiv.org/abs/2406.08302v1)|null|
+|**2024-06-12**|**A New Class Biorthogonal Spline Wavelet for Image Edge Detection**|Dujuan Zhou et.al.|[2406.08285v1](http://arxiv.org/abs/2406.08285v1)|null|
+|**2024-06-12**|**HTIM: Hybrid Text-Interaction Modeling for Broadening Political Leaning Inference in Social Media**|Joseba Fernandez de Landa et.al.|[2406.08201v1](http://arxiv.org/abs/2406.08201v1)|null|
+|**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152v1](http://arxiv.org/abs/2406.08152v1)|null|
+|**2024-06-12**|**Towards a unified description of isotopic fragment properties in spontaneous and fusion-induced fission within a 4D dynamical Langevin model**|K. Pomorski et.al.|[2406.08126v1](http://arxiv.org/abs/2406.08126v1)|null|
+|**2024-06-12**|**Low-Complexity Acoustic Scene Classification Using Parallel Attention-Convolution Network**|Yanxiong Li et.al.|[2406.08119v1](http://arxiv.org/abs/2406.08119v1)|null|
+|**2024-06-12**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096v1](http://arxiv.org/abs/2406.08096v1)|null|
+|**2024-06-12**|**FDLoRA: Personalized Federated Learning of Large Language Model via Dual LoRA Tuning**|Jiaxing QI et.al.|[2406.07925v1](http://arxiv.org/abs/2406.07925v1)|null|
+|**2024-06-12**|**Hierarchical Patch Diffusion Models for High-Resolution Video Generation**|Ivan Skorokhodov et.al.|[2406.07792v1](http://arxiv.org/abs/2406.07792v1)|null|
 |**2024-06-11**|**GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection**|Hang Yao et.al.|[2406.07487v1](http://arxiv.org/abs/2406.07487v1)|null|
 |**2024-06-11**|**Multimodal Belief Prediction**|John Murzaku et.al.|[2406.07466v1](http://arxiv.org/abs/2406.07466v1)|null|
 |**2024-06-11**|**Graph-based multi-Feature fusion method for speech emotion recognition**|Xueyu Liu et.al.|[2406.07437v1](http://arxiv.org/abs/2406.07437v1)|null|
