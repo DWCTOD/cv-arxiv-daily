@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding**|Muhammad Maaz et.al.|[2406.09418v1](http://arxiv.org/abs/2406.09418v1)|**[link](https://github.com/mbzuai-oryx/videogpt-plus)**|
+|**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415v1](http://arxiv.org/abs/2406.09415v1)|null|
+|**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409v1](http://arxiv.org/abs/2406.09409v1)|null|
+|**2024-06-13**|**Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion**|Linzhan Mou et.al.|[2406.09402v1](http://arxiv.org/abs/2406.09402v1)|null|
+|**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399v1](http://arxiv.org/abs/2406.09399v1)|**[link](https://github.com/foundationvision/omnitokenizer)**|
+|**2024-06-13**|**Too Many Frames, not all Useful:Efficient Strategies for Long-Form Video QA**|Jongwoo Park et.al.|[2406.09396v1](http://arxiv.org/abs/2406.09396v1)|null|
+|**2024-06-13**|**LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living**|Rajatsubhra Chakraborty et.al.|[2406.09390v1](http://arxiv.org/abs/2406.09390v1)|null|
+|**2024-06-13**|**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior**|Baiang Li et.al.|[2406.09389v1](http://arxiv.org/abs/2406.09389v1)|null|
+|**2024-06-13**|**Exploring the Spectrum of Visio-Linguistic Compositionality and Recognition**|Youngtaek Oh et.al.|[2406.09388v1](http://arxiv.org/abs/2406.09388v1)|**[link](https://github.com/ytaek-oh/vl_compo)**|
+|**2024-06-13**|**SimGen: Simulator-conditioned Driving Scene Generation**|Yunsong Zhou et.al.|[2406.09386v1](http://arxiv.org/abs/2406.09386v1)|null|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
 |**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476v1](http://arxiv.org/abs/2406.08476v1)|null|
 |**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455v1](http://arxiv.org/abs/2406.08455v1)|null|
@@ -5067,6 +5077,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Novel azimuthal observables from two-photon collision at $e^+e^-$ colliders**|Yu Jia et.al.|[2406.09381v1](http://arxiv.org/abs/2406.09381v1)|null|
+|**2024-06-13**|**Non-Invertible Surface Defects in 2+1d QFTs from Half Spacetime Gauging**|Wei Cui et.al.|[2406.09261v1](http://arxiv.org/abs/2406.09261v1)|null|
+|**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260v1](http://arxiv.org/abs/2406.09260v1)|null|
+|**2024-06-13**|**MGRQ: Post-Training Quantization For Vision Transformer With Mixed Granularity Reconstruction**|Lianwei Yang et.al.|[2406.09229v1](http://arxiv.org/abs/2406.09229v1)|null|
+|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014v1](http://arxiv.org/abs/2406.09014v1)|null|
+|**2024-06-13**|**Exploring Multilingual Unseen Speaker Emotion Recognition: Leveraging Co-Attention Cues in Multitask Learning**|Arnav Goel et.al.|[2406.08931v1](http://arxiv.org/abs/2406.08931v1)|**[link](https://github.com/arnav10goel/camulenet)**|
+|**2024-06-13**|**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**|Qihan Hu et.al.|[2406.08930v1](http://arxiv.org/abs/2406.08930v1)|null|
+|**2024-06-13**|**Dual Attribute-Spatial Relation Alignment for 3D Visual Grounding**|Yue Xu et.al.|[2406.08907v1](http://arxiv.org/abs/2406.08907v1)|null|
+|**2024-06-13**|**Zoom and Shift are All You Need**|Jiahao Qin et.al.|[2406.08866v1](http://arxiv.org/abs/2406.08866v1)|null|
+|**2024-06-13**|**Fusion of regional and sparse attention in Vision Transformers**|Nabil Ibtehaz et.al.|[2406.08859v1](http://arxiv.org/abs/2406.08859v1)|null|
 |**2024-06-12**|**Speech Emotion Recognition with ASR Transcripts: A Comprehensive Study on Word Error Rate and Fusion Techniques**|Yuanchao Li et.al.|[2406.08353v1](http://arxiv.org/abs/2406.08353v1)|**[link](https://github.com/yc-li20/SER-on-WER-and-Fusion)**|
 |**2024-06-12**|**Familiar biological, chemical and physical events credibly evolve the Standard Genetic Code**|Michael Yarus et.al.|[2406.08302v1](http://arxiv.org/abs/2406.08302v1)|null|
 |**2024-06-12**|**A New Class Biorthogonal Spline Wavelet for Image Edge Detection**|Dujuan Zhou et.al.|[2406.08285v1](http://arxiv.org/abs/2406.08285v1)|null|
