@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-06-18, **DrVideo: Document Retrieval Based Long Video Understanding**, Ziyu Ma et.al., Paper: [http://arxiv.org/abs/2406.12846v1](http://arxiv.org/abs/2406.12846v1)
+- 2024-06-18, **LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**, Jinuk Kim et.al., Paper: [http://arxiv.org/abs/2406.12837v1](http://arxiv.org/abs/2406.12837v1), Code: **[https://github.com/snu-mllab/layermerge](https://github.com/snu-mllab/layermerge)**
+- 2024-06-18, **GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**, Ci-Siang Lin et.al., Paper: [http://arxiv.org/abs/2406.12834v1](http://arxiv.org/abs/2406.12834v1)
+- 2024-06-18, **VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2406.12831v1](http://arxiv.org/abs/2406.12831v1)
+- 2024-06-18, **Neural Approximate Mirror Maps for Constrained Diffusion Models**, Berthy T. Feng et.al., Paper: [http://arxiv.org/abs/2406.12816v1](http://arxiv.org/abs/2406.12816v1)
+- 2024-06-18, **Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**, Nikolas Koutsoubis et.al., Paper: [http://arxiv.org/abs/2406.12815v1](http://arxiv.org/abs/2406.12815v1), Code: **[https://github.com/niko-k98/awesome-list-federated-learning-review](https://github.com/niko-k98/awesome-list-federated-learning-review)**
+- 2024-06-18, **Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**, Joshua Durso-Finley et.al., Paper: [http://arxiv.org/abs/2406.12807v1](http://arxiv.org/abs/2406.12807v1)
+- 2024-06-18, **Composited-Nested-Learning with Data Augmentation for Nested Named Entity Recognition**, Xingming Liao et.al., Paper: [http://arxiv.org/abs/2406.12779v1](http://arxiv.org/abs/2406.12779v1)
+- 2024-06-18, **Medvedev degrees of subshifts on groups**, Sebastián Barbieri et.al., Paper: [http://arxiv.org/abs/2406.12777v1](http://arxiv.org/abs/2406.12777v1)
+- 2024-06-18, **Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**, Xiangming Zhu et.al., Paper: [http://arxiv.org/abs/2406.12769v1](http://arxiv.org/abs/2406.12769v1)
 - 2024-06-17, **Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**, Lei Zhu et.al., Paper: [http://arxiv.org/abs/2406.11837v1](http://arxiv.org/abs/2406.11837v1), Code: **[https://github.com/zh460045050/vqgan-lc](https://github.com/zh460045050/vqgan-lc)**
 - 2024-06-17, **Spectral Introspection Identifies Group Training Dynamics in Deep Neural Networks for Neuroimaging**, Bradley T. Baker et.al., Paper: [http://arxiv.org/abs/2406.11825v1](http://arxiv.org/abs/2406.11825v1)
 - 2024-06-17, **Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation**, Alexander Raistrick et.al., Paper: [http://arxiv.org/abs/2406.11824v1](http://arxiv.org/abs/2406.11824v1)
@@ -5093,6 +5103,16 @@
 
 ## MultiModal
 
+- 2024-06-18, **Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**, Miaoyu Li et.al., Paper: [http://arxiv.org/abs/2406.12746v1](http://arxiv.org/abs/2406.12746v1)
+- 2024-06-18, **Enhancing Spatio-temporal Quantile Forecasting with Curriculum Learning: Lessons Learned**, Du Yin et.al., Paper: [http://arxiv.org/abs/2406.12709v1](http://arxiv.org/abs/2406.12709v1)
+- 2024-06-18, **News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**, Andreea Iana et.al., Paper: [http://arxiv.org/abs/2406.12634v1](http://arxiv.org/abs/2406.12634v1), Code: **[https://github.com/andreeaiana/nase](https://github.com/andreeaiana/nase)**
+- 2024-06-18, **Two-center harmonic oscillator basis for Skyrme-DFT calculations (I): formalism and Proof of Principle**, Adrián Sánchez-Fernández et.al., Paper: [http://arxiv.org/abs/2406.12545v1](http://arxiv.org/abs/2406.12545v1)
+- 2024-06-18, **ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**, Junhao Lin et.al., Paper: [http://arxiv.org/abs/2406.12536v1](http://arxiv.org/abs/2406.12536v1), Code: **[https://github.com/jhl-det/rgbd_video_sod](https://github.com/jhl-det/rgbd_video_sod)**
+- 2024-06-18, **FuseGen: PLM Fusion for Data-generation based Zero-shot Learning**, Tianyuan Zou et.al., Paper: [http://arxiv.org/abs/2406.12527v1](http://arxiv.org/abs/2406.12527v1)
+- 2024-06-18, **LiCAF: LiDAR-Camera Asymmetric Fusion for Gait Recognition**, Yunze Deng et.al., Paper: [http://arxiv.org/abs/2406.12355v1](http://arxiv.org/abs/2406.12355v1)
+- 2024-06-18, **PARAFAC2-based Coupled Matrix and Tensor Factorizations with Constraints**, Carla Schenker et.al., Paper: [http://arxiv.org/abs/2406.12338v1](http://arxiv.org/abs/2406.12338v1)
+- 2024-06-18, **VIRL: Volume-Informed Representation Learning towards Few-shot Manufacturability Estimation**, Yu-hsuan Chen et.al., Paper: [http://arxiv.org/abs/2406.12286v1](http://arxiv.org/abs/2406.12286v1)
+- 2024-06-18, **DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**, Haodong Li et.al., Paper: [http://arxiv.org/abs/2406.12285v1](http://arxiv.org/abs/2406.12285v1)
 - 2024-06-17, **Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**, Maximilian E. Tschuchnig et.al., Paper: [http://arxiv.org/abs/2406.11650v1](http://arxiv.org/abs/2406.11650v1)
 - 2024-06-17, **AV-CrossNet: an Audiovisual Complex Spectral Mapping Network for Speech Separation By Leveraging Narrow- and Cross-Band Modeling**, Vahid Ahmadi Kalkhorani et.al., Paper: [http://arxiv.org/abs/2406.11619v1](http://arxiv.org/abs/2406.11619v1), Code: **[https://github.com/ahmadikalkhorani/AVCrossNet](https://github.com/ahmadikalkhorani/AVCrossNet)**
 - 2024-06-17, **Learning from Exemplars for Interactive Image Segmentation**, Kun Li et.al., Paper: [http://arxiv.org/abs/2406.11472v1](http://arxiv.org/abs/2406.11472v1)
