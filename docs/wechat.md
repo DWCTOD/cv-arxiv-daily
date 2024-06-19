@@ -1,4 +1,4 @@
-> Updated on 2024.06.18
+> Updated on 2024.06.19
 
 ## Video_Classification
 
@@ -5094,9 +5094,9 @@
 ## MultiModal
 
 - 2024-06-17, **Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**, Maximilian E. Tschuchnig et.al., Paper: [http://arxiv.org/abs/2406.11650v1](http://arxiv.org/abs/2406.11650v1)
-- 2024-06-17, **AV-CrossNet: an Audiovisual Complex Spectral Mapping Network for Speech Separation By Leveraging Narrow- and Cross-Band Modeling**, Vahid Ahmadi Kalkhorani et.al., Paper: [http://arxiv.org/abs/2406.11619v1](http://arxiv.org/abs/2406.11619v1)
+- 2024-06-17, **AV-CrossNet: an Audiovisual Complex Spectral Mapping Network for Speech Separation By Leveraging Narrow- and Cross-Band Modeling**, Vahid Ahmadi Kalkhorani et.al., Paper: [http://arxiv.org/abs/2406.11619v1](http://arxiv.org/abs/2406.11619v1), Code: **[https://github.com/ahmadikalkhorani/AVCrossNet](https://github.com/ahmadikalkhorani/AVCrossNet)**
 - 2024-06-17, **Learning from Exemplars for Interactive Image Segmentation**, Kun Li et.al., Paper: [http://arxiv.org/abs/2406.11472v1](http://arxiv.org/abs/2406.11472v1)
-- 2024-06-17, **SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**, Zhenchao Lin et.al., Paper: [http://arxiv.org/abs/2406.11441v1](http://arxiv.org/abs/2406.11441v1)
+- 2024-06-17, **SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**, Zhenchao Lin et.al., Paper: [http://arxiv.org/abs/2406.11441v1](http://arxiv.org/abs/2406.11441v1), Code: **[https://github.com/Sylva-Lin/SWCF-Net](https://github.com/Sylva-Lin/SWCF-Net)**
 - 2024-06-17, **AnyTrans: Translate AnyText in the Image with Large Scale Models**, Zhipeng Qian et.al., Paper: [http://arxiv.org/abs/2406.11432v1](http://arxiv.org/abs/2406.11432v1)
 - 2024-06-17, **Fusion Makes Perfection: An Efficient Multi-Grained Matching Approach for Zero-Shot Relation Extraction**, Shilong Li et.al., Paper: [http://arxiv.org/abs/2406.11429v1](http://arxiv.org/abs/2406.11429v1), Code: **[https://github.com/longls777/emma](https://github.com/longls777/emma)**
 - 2024-06-17, **Multimodal Security of Iris and Fingerprint with Bloom Filters**, R. Sridevi et.al., Paper: [http://arxiv.org/abs/2406.11335v1](http://arxiv.org/abs/2406.11335v1)
