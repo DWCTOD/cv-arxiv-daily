@@ -1,4 +1,4 @@
-> Updated on 2024.06.20
+> Updated on 2024.06.21
 
 ## Video_Classification
 
@@ -5103,7 +5103,7 @@
 
 ## MultiModal
 
-- 2024-06-18, **Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**, Miaoyu Li et.al., Paper: [http://arxiv.org/abs/2406.12746v1](http://arxiv.org/abs/2406.12746v1)
+- 2024-06-19, **Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**, Miaoyu Li et.al., Paper: [http://arxiv.org/abs/2406.12746v2](http://arxiv.org/abs/2406.12746v2)
 - 2024-06-18, **Enhancing Spatio-temporal Quantile Forecasting with Curriculum Learning: Lessons Learned**, Du Yin et.al., Paper: [http://arxiv.org/abs/2406.12709v1](http://arxiv.org/abs/2406.12709v1)
 - 2024-06-18, **News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**, Andreea Iana et.al., Paper: [http://arxiv.org/abs/2406.12634v1](http://arxiv.org/abs/2406.12634v1), Code: **[https://github.com/andreeaiana/nase](https://github.com/andreeaiana/nase)**
 - 2024-06-18, **Two-center harmonic oscillator basis for Skyrme-DFT calculations (I): formalism and Proof of Principle**, Adrián Sánchez-Fernández et.al., Paper: [http://arxiv.org/abs/2406.12545v1](http://arxiv.org/abs/2406.12545v1)
