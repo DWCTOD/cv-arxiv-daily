@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-06-20, **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**, Xincheng Shuai et.al., Paper: [http://arxiv.org/abs/2406.14555v1](http://arxiv.org/abs/2406.14555v1), Code: **[https://github.com/xinchengshuai/awesome-image-editing](https://github.com/xinchengshuai/awesome-image-editing)**
+- 2024-06-20, **Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**, Eyal Michaeli et.al., Paper: [http://arxiv.org/abs/2406.14551v1](http://arxiv.org/abs/2406.14551v1), Code: **[https://github.com/eyalmichaeli/saspa-aug](https://github.com/eyalmichaeli/saspa-aug)**
+- 2024-06-20, **IRASim: Learning Interactive Real-Robot Action Simulators**, Fangqi Zhu et.al., Paper: [http://arxiv.org/abs/2406.14540v1](http://arxiv.org/abs/2406.14540v1)
+- 2024-06-20, **Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**, Long Lei et.al., Paper: [http://arxiv.org/abs/2406.14534v1](http://arxiv.org/abs/2406.14534v1)
+- 2024-06-20, **Local symmetries in partially ordered sets**, Christoph Minz et.al., Paper: [http://arxiv.org/abs/2406.14533v1](http://arxiv.org/abs/2406.14533v1)
+- 2024-06-20, **Fantastic Copyrighted Beasts and How (Not) to Generate Them**, Luxi He et.al., Paper: [http://arxiv.org/abs/2406.14526v1](http://arxiv.org/abs/2406.14526v1)
+- 2024-06-20, **MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**, Xinyu Fang et.al., Paper: [http://arxiv.org/abs/2406.14515v1](http://arxiv.org/abs/2406.14515v1), Code: **[https://github.com/open-compass/vlmevalkit](https://github.com/open-compass/vlmevalkit)**
+- 2024-06-20, **V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**, Rotem Shalev-Arkushin et.al., Paper: [http://arxiv.org/abs/2406.14510v1](http://arxiv.org/abs/2406.14510v1)
+- 2024-06-20, **LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**, Sheikh Asif Imran et.al., Paper: [http://arxiv.org/abs/2406.14498v1](http://arxiv.org/abs/2406.14498v1), Code: **[https://github.com/bashlab/llasa](https://github.com/bashlab/llasa)**
+- 2024-06-20, **African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification**, Gregor Geigle et.al., Paper: [http://arxiv.org/abs/2406.14496v1](http://arxiv.org/abs/2406.14496v1)
 - 2024-06-18, **DrVideo: Document Retrieval Based Long Video Understanding**, Ziyu Ma et.al., Paper: [http://arxiv.org/abs/2406.12846v1](http://arxiv.org/abs/2406.12846v1)
 - 2024-06-18, **LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**, Jinuk Kim et.al., Paper: [http://arxiv.org/abs/2406.12837v1](http://arxiv.org/abs/2406.12837v1), Code: **[https://github.com/snu-mllab/layermerge](https://github.com/snu-mllab/layermerge)**
 - 2024-06-18, **GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**, Ci-Siang Lin et.al., Paper: [http://arxiv.org/abs/2406.12834v1](http://arxiv.org/abs/2406.12834v1)
@@ -5103,6 +5113,16 @@
 
 ## MultiModal
 
+- 2024-06-20, **Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**, Long Lei et.al., Paper: [http://arxiv.org/abs/2406.14534v1](http://arxiv.org/abs/2406.14534v1)
+- 2024-06-20, **Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**, Xinyi Ying et.al., Paper: [http://arxiv.org/abs/2406.14482v1](http://arxiv.org/abs/2406.14482v1), Code: **[https://github.com/xinyiying24/rgbt-tiny](https://github.com/xinyiying24/rgbt-tiny)**
+- 2024-06-20, **Fusion of Movement and Naive Predictions for Point Forecasting in Univariate Random Walks**, Cheng Zhang et.al., Paper: [http://arxiv.org/abs/2406.14469v1](http://arxiv.org/abs/2406.14469v1)
+- 2024-06-20, **MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**, Luhui Cai et.al., Paper: [http://arxiv.org/abs/2406.14455v1](http://arxiv.org/abs/2406.14455v1)
+- 2024-06-20, **Anyon condensation in mixed-state topological order**, Ken Kikuchi et.al., Paper: [http://arxiv.org/abs/2406.14320v1](http://arxiv.org/abs/2406.14320v1)
+- 2024-06-20, **A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection**, Kyungbok Lee et.al., Paper: [http://arxiv.org/abs/2406.14176v1](http://arxiv.org/abs/2406.14176v1)
+- 2024-06-20, **Towards Multi-modality Fusion and Prototype-based Feature Refinement for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound**, Hong Wu et.al., Paper: [http://arxiv.org/abs/2406.14069v1](http://arxiv.org/abs/2406.14069v1), Code: **[https://github.com/2313595986/smilecode](https://github.com/2313595986/smilecode)**
+- 2024-06-20, **Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields**, Jintong Hu et.al., Paper: [http://arxiv.org/abs/2406.14052v1](http://arxiv.org/abs/2406.14052v1)
+- 2024-06-20, **Constrained Meta Agnostic Reinforcement Learning**, Karam Daaboul et.al., Paper: [http://arxiv.org/abs/2406.14047v1](http://arxiv.org/abs/2406.14047v1)
+- 2024-06-20, **Feature Fusion Based on Mutual-Cross-Attention Mechanism for EEG Emotion Recognition**, Yimin Zhao et.al., Paper: [http://arxiv.org/abs/2406.14014v1](http://arxiv.org/abs/2406.14014v1), Code: **[https://github.com/ztony0712/MCA](https://github.com/ztony0712/MCA)**
 - 2024-06-19, **Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**, Miaoyu Li et.al., Paper: [http://arxiv.org/abs/2406.12746v2](http://arxiv.org/abs/2406.12746v2)
 - 2024-06-18, **Enhancing Spatio-temporal Quantile Forecasting with Curriculum Learning: Lessons Learned**, Du Yin et.al., Paper: [http://arxiv.org/abs/2406.12709v1](http://arxiv.org/abs/2406.12709v1)
 - 2024-06-18, **News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**, Andreea Iana et.al., Paper: [http://arxiv.org/abs/2406.12634v1](http://arxiv.org/abs/2406.12634v1), Code: **[https://github.com/andreeaiana/nase](https://github.com/andreeaiana/nase)**
