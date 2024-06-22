@@ -1,11 +1,11 @@
-> Updated on 2024.06.21
+> Updated on 2024.06.22
 
 ## Video_Classification
 
 - 2024-06-20, **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**, Xincheng Shuai et.al., Paper: [http://arxiv.org/abs/2406.14555v1](http://arxiv.org/abs/2406.14555v1), Code: **[https://github.com/xinchengshuai/awesome-image-editing](https://github.com/xinchengshuai/awesome-image-editing)**
 - 2024-06-20, **Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**, Eyal Michaeli et.al., Paper: [http://arxiv.org/abs/2406.14551v1](http://arxiv.org/abs/2406.14551v1), Code: **[https://github.com/eyalmichaeli/saspa-aug](https://github.com/eyalmichaeli/saspa-aug)**
 - 2024-06-20, **IRASim: Learning Interactive Real-Robot Action Simulators**, Fangqi Zhu et.al., Paper: [http://arxiv.org/abs/2406.14540v1](http://arxiv.org/abs/2406.14540v1)
-- 2024-06-20, **Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**, Long Lei et.al., Paper: [http://arxiv.org/abs/2406.14534v1](http://arxiv.org/abs/2406.14534v1)
+- 2024-06-20, **Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**, Long Lei et.al., Paper: [http://arxiv.org/abs/2406.14534v1](http://arxiv.org/abs/2406.14534v1), Code: **[https://github.com/LLEIHIT/CU-Reg](https://github.com/LLEIHIT/CU-Reg)**
 - 2024-06-20, **Local symmetries in partially ordered sets**, Christoph Minz et.al., Paper: [http://arxiv.org/abs/2406.14533v1](http://arxiv.org/abs/2406.14533v1)
 - 2024-06-20, **Fantastic Copyrighted Beasts and How (Not) to Generate Them**, Luxi He et.al., Paper: [http://arxiv.org/abs/2406.14526v1](http://arxiv.org/abs/2406.14526v1)
 - 2024-06-20, **MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**, Xinyu Fang et.al., Paper: [http://arxiv.org/abs/2406.14515v1](http://arxiv.org/abs/2406.14515v1), Code: **[https://github.com/open-compass/vlmevalkit](https://github.com/open-compass/vlmevalkit)**
@@ -5113,7 +5113,7 @@
 
 ## MultiModal
 
-- 2024-06-20, **Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**, Long Lei et.al., Paper: [http://arxiv.org/abs/2406.14534v1](http://arxiv.org/abs/2406.14534v1)
+- 2024-06-20, **Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**, Long Lei et.al., Paper: [http://arxiv.org/abs/2406.14534v1](http://arxiv.org/abs/2406.14534v1), Code: **[https://github.com/LLEIHIT/CU-Reg](https://github.com/LLEIHIT/CU-Reg)**
 - 2024-06-20, **Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**, Xinyi Ying et.al., Paper: [http://arxiv.org/abs/2406.14482v1](http://arxiv.org/abs/2406.14482v1), Code: **[https://github.com/xinyiying24/rgbt-tiny](https://github.com/xinyiying24/rgbt-tiny)**
 - 2024-06-20, **Fusion of Movement and Naive Predictions for Point Forecasting in Univariate Random Walks**, Cheng Zhang et.al., Paper: [http://arxiv.org/abs/2406.14469v1](http://arxiv.org/abs/2406.14469v1)
 - 2024-06-20, **MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**, Luhui Cai et.al., Paper: [http://arxiv.org/abs/2406.14455v1](http://arxiv.org/abs/2406.14455v1)
