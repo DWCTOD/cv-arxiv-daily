@@ -1,11 +1,11 @@
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555v1](http://arxiv.org/abs/2406.14555v1)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
-|**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551v1](http://arxiv.org/abs/2406.14551v1)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
+|**2024-06-21**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551v2](http://arxiv.org/abs/2406.14551v2)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
 |**2024-06-20**|**IRASim: Learning Interactive Real-Robot Action Simulators**|Fangqi Zhu et.al.|[2406.14540v1](http://arxiv.org/abs/2406.14540v1)|null|
 |**2024-06-20**|**Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**|Long Lei et.al.|[2406.14534v1](http://arxiv.org/abs/2406.14534v1)|**[link](https://github.com/LLEIHIT/CU-Reg)**|
 |**2024-06-20**|**Local symmetries in partially ordered sets**|Christoph Minz et.al.|[2406.14533v1](http://arxiv.org/abs/2406.14533v1)|null|
