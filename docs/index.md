@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864v1](http://arxiv.org/abs/2406.16864v1)|null|
+|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863v1](http://arxiv.org/abs/2406.16863v1)|**[link](https://github.com/arthur-qiu/freetraj)**|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862v1](http://arxiv.org/abs/2406.16862v1)|null|
+|**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852v1](http://arxiv.org/abs/2406.16852v1)|**[link](https://github.com/evolvinglmms-lab/longva)**|
+|**2024-06-24**|**Unsupervised Domain Adaptation for Pediatric Brain Tumor Segmentation**|Jingru Fu et.al.|[2406.16848v1](http://arxiv.org/abs/2406.16848v1)|null|
+|**2024-06-24**|**Exploring Factual Entailment with NLI: A News Media Study**|Guy Mor-Lan et.al.|[2406.16842v1](http://arxiv.org/abs/2406.16842v1)|null|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837v1](http://arxiv.org/abs/2406.16837v1)|null|
+|**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$onversations**|Mounika Marreddy et.al.|[2406.16833v1](http://arxiv.org/abs/2406.16833v1)|null|
+|**2024-06-24**|**The classification of simple complex Lie superalgebras of polynomial vector fields and their deformations**|Dimitry Leites et.al.|[2406.16760v1](http://arxiv.org/abs/2406.16760v1)|null|
+|**2024-06-24**|**The MRI Scanner as a Diagnostic: Image-less Active Sampling**|Yuning Du et.al.|[2406.16754v1](http://arxiv.org/abs/2406.16754v1)|null|
 |**2024-06-21**|**Full-Scale Indexing and Semantic Annotation of CT Imaging: Boosting FAIRness**|Hannes Ulrich et.al.|[2406.15340v1](http://arxiv.org/abs/2406.15340v1)|null|
 |**2024-06-21**|**Image Conductor: Precision Control for Interactive Video Synthesis**|Yaowei Li et.al.|[2406.15339v1](http://arxiv.org/abs/2406.15339v1)|null|
 |**2024-06-21**|**An End-to-End, Segmentation-Free, Arabic Handwritten Recognition Model on KHATT**|Sondos Aabed et.al.|[2406.15329v1](http://arxiv.org/abs/2406.15329v1)|null|
@@ -5131,6 +5141,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853v1](http://arxiv.org/abs/2406.16853v1)|**[link](https://github.com/c-tl/geomformer)**|
+|**2024-06-24**|**Deterministic generation of concatenated graph codes from quantum emitters**|Love A. Pettersson et.al.|[2406.16684v1](http://arxiv.org/abs/2406.16684v1)|null|
+|**2024-06-24**|**Feature Fusion for Human Activity Recognition using Parameter-Optimized Multi-Stage Graph Convolutional Network and Transformer Models**|Mohammad Belal et.al.|[2406.16638v1](http://arxiv.org/abs/2406.16638v1)|null|
+|**2024-06-24**|**Personalized federated learning based on feature fusion**|Wolong Xing et.al.|[2406.16583v1](http://arxiv.org/abs/2406.16583v1)|null|
+|**2024-06-24**|**Star+: A New Multi-Domain Model for CTR Prediction**|Çağrı Yeşil et.al.|[2406.16568v1](http://arxiv.org/abs/2406.16568v1)|null|
+|**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513v1](http://arxiv.org/abs/2406.16513v1)|null|
+|**2024-06-24**|**Inferring the scrape-off layer heat flux width in a divertor with a low degree of axisymmetry**|C. Marsden et.al.|[2406.16471v1](http://arxiv.org/abs/2406.16471v1)|null|
+|**2024-06-24**|**Detachment scalings derived from 1D scrape-off-layer simulations**|Thomas Body et.al.|[2406.16375v1](http://arxiv.org/abs/2406.16375v1)|null|
+|**2024-06-24**|**Artistic-style text detector and a new Movie-Poster dataset**|Aoxiang Ning et.al.|[2406.16307v1](http://arxiv.org/abs/2406.16307v1)|null|
+|**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279v1](http://arxiv.org/abs/2406.16279v1)|**[link](https://github.com/nubot-nudt/segnet4d)**|
 |**2024-06-21**|**Exploring Audio-Visual Information Fusion for Sound Event Localization and Detection In Low-Resource Realistic Scenarios**|Ya Jiang et.al.|[2406.15160v1](http://arxiv.org/abs/2406.15160v1)|null|
 |**2024-06-21**|**A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion**|Ayush Roy et.al.|[2406.15128v1](http://arxiv.org/abs/2406.15128v1)|**[link](https://github.com/ayushroy2001/wagf-fusion)**|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121v1](http://arxiv.org/abs/2406.15121v1)|null|
