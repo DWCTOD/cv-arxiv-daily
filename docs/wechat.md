@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-06-25, **Text-Animator: Controllable Visual Text Video Generation**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2406.17777v1](http://arxiv.org/abs/2406.17777v1)
+- 2024-06-25, **MotionBooth: Motion-Aware Customized Text-to-Video Generation**, Jianzong Wu et.al., Paper: [http://arxiv.org/abs/2406.17758v1](http://arxiv.org/abs/2406.17758v1)
+- 2024-06-25, **Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**, Tushar Prasanna Swaminathan et.al., Paper: [http://arxiv.org/abs/2406.17749v1](http://arxiv.org/abs/2406.17749v1)
+- 2024-06-25, **Structured Unrestricted-Rank Matrices for Parameter Efficient Fine-tuning**, Arijit Sehanobish et.al., Paper: [http://arxiv.org/abs/2406.17740v1](http://arxiv.org/abs/2406.17740v1)
+- 2024-06-25, **Mask-Guided Attention U-Net for Enhanced Neonatal Brain Extraction and Image Preprocessing**, Bahram Jafrasteh et.al., Paper: [http://arxiv.org/abs/2406.17709v1](http://arxiv.org/abs/2406.17709v1), Code: **[https://github.com/bahramjafrasteh/mga-net](https://github.com/bahramjafrasteh/mga-net)**
+- 2024-06-25, **SurgeMOD: Translating image-space tissue motions into vision-based surgical forces**, Mikel De Iturrate Reyzabal et.al., Paper: [http://arxiv.org/abs/2406.17707v1](http://arxiv.org/abs/2406.17707v1)
+- 2024-06-25, **Dualities for universal (co)acting Hopf monoids**, Ana Agore et.al., Paper: [http://arxiv.org/abs/2406.17684v1](http://arxiv.org/abs/2406.17684v1)
+- 2024-06-25, **Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**, Xuming Zhang et.al., Paper: [http://arxiv.org/abs/2406.17679v1](http://arxiv.org/abs/2406.17679v1)
+- 2024-06-25, **Lifting of locally initial objects and universal (co)acting Hopf algebras**, Ana Agore et.al., Paper: [http://arxiv.org/abs/2406.17677v1](http://arxiv.org/abs/2406.17677v1)
+- 2024-06-25, **Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration**, Mohammad Ali Labbaf Khaniki et.al., Paper: [http://arxiv.org/abs/2406.17670v1](http://arxiv.org/abs/2406.17670v1)
 - 2024-06-24, **StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**, Chongjie Ye et.al., Paper: [http://arxiv.org/abs/2406.16864v1](http://arxiv.org/abs/2406.16864v1)
 - 2024-06-24, **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2406.16863v1](http://arxiv.org/abs/2406.16863v1), Code: **[https://github.com/arthur-qiu/freetraj](https://github.com/arthur-qiu/freetraj)**
 - 2024-06-24, **Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**, Junbang Liang et.al., Paper: [http://arxiv.org/abs/2406.16862v1](http://arxiv.org/abs/2406.16862v1)
@@ -5133,6 +5143,16 @@
 
 ## MultiModal
 
+- 2024-06-25, **MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**, Xiangyu Zhao et.al., Paper: [http://arxiv.org/abs/2406.17770v1](http://arxiv.org/abs/2406.17770v1), Code: **[https://github.com/phoenixz810/mg-llava](https://github.com/phoenixz810/mg-llava)**
+- 2024-06-25, **HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction**, Xi Xiao et.al., Paper: [http://arxiv.org/abs/2406.17697v1](http://arxiv.org/abs/2406.17697v1)
+- 2024-06-25, **Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**, Xuming Zhang et.al., Paper: [http://arxiv.org/abs/2406.17679v1](http://arxiv.org/abs/2406.17679v1)
+- 2024-06-25, **Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration**, Mohammad Ali Labbaf Khaniki et.al., Paper: [http://arxiv.org/abs/2406.17670v1](http://arxiv.org/abs/2406.17670v1)
+- 2024-06-25, **ACE: A Generative Cross-Modal Retrieval Framework with Coarse-To-Fine Semantic Modeling**, Minghui Fang et.al., Paper: [http://arxiv.org/abs/2406.17507v1](http://arxiv.org/abs/2406.17507v1)
+- 2024-06-25, **Anatomically and mechanically conforming patient-specific spinal fusion cages designed by full-scale topology optimization**, Thijs Smit et.al., Paper: [http://arxiv.org/abs/2406.17487v1](http://arxiv.org/abs/2406.17487v1)
+- 2024-06-25, **Additively manufacturable high-strength aluminum alloys with thermally stable microstructures enabled by hybrid machine learning-based design**, S. Mohadeseh Taheri-Mousavi et.al., Paper: [http://arxiv.org/abs/2406.17457v1](http://arxiv.org/abs/2406.17457v1)
+- 2024-06-25, **Depth-Guided Semi-Supervised Instance Segmentation**, Xin Chen et.al., Paper: [http://arxiv.org/abs/2406.17413v1](http://arxiv.org/abs/2406.17413v1)
+- 2024-06-25, **DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer**, Aihua Mao et.al., Paper: [http://arxiv.org/abs/2406.17319v1](http://arxiv.org/abs/2406.17319v1)
+- 2024-06-25, **Extended alternating structure-adapted proximal gradient algorithm for nonconvex nonsmooth problems**, Ying Gao et.al., Paper: [http://arxiv.org/abs/2406.17226v1](http://arxiv.org/abs/2406.17226v1)
 - 2024-06-24, **GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**, Tianlang Chen et.al., Paper: [http://arxiv.org/abs/2406.16853v1](http://arxiv.org/abs/2406.16853v1), Code: **[https://github.com/c-tl/geomformer](https://github.com/c-tl/geomformer)**
 - 2024-06-24, **Deterministic generation of concatenated graph codes from quantum emitters**, Love A. Pettersson et.al., Paper: [http://arxiv.org/abs/2406.16684v1](http://arxiv.org/abs/2406.16684v1)
 - 2024-06-24, **Feature Fusion for Human Activity Recognition using Parameter-Optimized Multi-Stage Graph Convolutional Network and Transformer Models**, Mohammad Belal et.al., Paper: [http://arxiv.org/abs/2406.16638v1](http://arxiv.org/abs/2406.16638v1)
