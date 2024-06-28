@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-06-26**|**MatchTime: Towards Automatic Soccer Game Commentary Generation**|Jiayuan Rao et.al.|[2406.18530v1](http://arxiv.org/abs/2406.18530v1)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524v1](http://arxiv.org/abs/2406.18524v1)|null|
 |**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522v1](http://arxiv.org/abs/2406.18522v1)|null|
-|**2024-06-26**|**Distinguishing mechanisms of social contagion from local network view**|Elsa Andres et.al.|[2406.18519v1](http://arxiv.org/abs/2406.18519v1)|null|
+|**2024-06-27**|**Distinguishing mechanisms of social contagion from local network view**|Elsa Andres et.al.|[2406.18519v2](http://arxiv.org/abs/2406.18519v2)|null|
 |**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508v1](http://arxiv.org/abs/2406.18508v1)|null|
 |**2024-06-26**|**Robust Surgical Phase Recognition From Annotation Efficient Supervision**|Or Rubin et.al.|[2406.18481v1](http://arxiv.org/abs/2406.18481v1)|null|
 |**2024-06-26**|**Universal Anomaly Detection at the LHC: Transforming Optimal Classifiers and the DDD Method**|Sascha Caron et.al.|[2406.18469v1](http://arxiv.org/abs/2406.18469v1)|null|
@@ -5162,8 +5162,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-26**|**Differential error feedback for communication-efficient decentralized learning**|Roula Nassif et.al.|[2406.18418v1](http://arxiv.org/abs/2406.18418v1)|null|
-|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414v1](http://arxiv.org/abs/2406.18414v1)|null|
-|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v1](http://arxiv.org/abs/2406.18361v1)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
+|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414v1](http://arxiv.org/abs/2406.18414v1)|**[link](https://github.com/kemo-huang/bitrack)**|
+|**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v2](http://arxiv.org/abs/2406.18361v2)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-06-26**|**Multi-modal Evidential Fusion Network for Trusted PET/CT Tumor Segmentation**|Yuxuan Qi et.al.|[2406.18327v1](http://arxiv.org/abs/2406.18327v1)|null|
 |**2024-06-26**|**The Influence of Experimental Imperfections on Photonic GHZ State Generation**|Fabian Wiesner et.al.|[2406.18257v1](http://arxiv.org/abs/2406.18257v1)|null|
 |**2024-06-26**|**Selective Prompting Tuning for Personalized Conversations with LLMs**|Qiushi Huang et.al.|[2406.18187v1](http://arxiv.org/abs/2406.18187v1)|**[link](https://github.com/hqsiswiliam/SPT)**|
