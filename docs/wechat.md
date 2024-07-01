@@ -1,14 +1,14 @@
-> Updated on 2024.06.30
+> Updated on 2024.07.01
 
 ## Video_Classification
 
 - 2024-06-27, **ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos**, Jr-Jen Chen et.al., Paper: [http://arxiv.org/abs/2406.19392v1](http://arxiv.org/abs/2406.19392v1), Code: **[https://github.com/rextime/rextime](https://github.com/rextime/rextime)**
-- 2024-06-27, **Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**, Ali Khaleghi Rahimian et.al., Paper: [http://arxiv.org/abs/2406.19391v1](http://arxiv.org/abs/2406.19391v1)
+- 2024-06-27, **Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**, Ali Khaleghi Rahimian et.al., Paper: [http://arxiv.org/abs/2406.19391v1](http://arxiv.org/abs/2406.19391v1), Code: **[https://github.com/charlotte-charmlab/fibottention](https://github.com/charlotte-charmlab/fibottention)**
 - 2024-06-27, **OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2406.19389v1](http://arxiv.org/abs/2406.19389v1)
 - 2024-06-27, **Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**, Haobo Yuan et.al., Paper: [http://arxiv.org/abs/2406.19369v1](http://arxiv.org/abs/2406.19369v1)
 - 2024-06-27, **IndoToxic2024: A Demographically-Enriched Dataset of Hate Speech and Toxicity Types for Indonesian Language**, Lucky Susanto et.al., Paper: [http://arxiv.org/abs/2406.19349v1](http://arxiv.org/abs/2406.19349v1)
 - 2024-06-27, **Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation**, Yushun Tang et.al., Paper: [http://arxiv.org/abs/2406.19341v1](http://arxiv.org/abs/2406.19341v1)
-- 2024-06-27, **LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**, Kaushalya Sivayogaraj et.al., Paper: [http://arxiv.org/abs/2406.19336v1](http://arxiv.org/abs/2406.19336v1)
+- 2024-06-28, **LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**, Kaushalya Sivayogaraj et.al., Paper: [http://arxiv.org/abs/2406.19336v2](http://arxiv.org/abs/2406.19336v2)
 - 2024-06-27, **PNeRV: A Polynomial Neural Representation for Videos**, Sonam Gupta et.al., Paper: [http://arxiv.org/abs/2406.19299v1](http://arxiv.org/abs/2406.19299v1)
 - 2024-06-27, **Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**, Jinsong Chen et.al., Paper: [http://arxiv.org/abs/2406.19258v1](http://arxiv.org/abs/2406.19258v1)
 - 2024-06-27, **Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**, Hao Fei et.al., Paper: [http://arxiv.org/abs/2406.19255v1](http://arxiv.org/abs/2406.19255v1)
@@ -5163,7 +5163,7 @@
 
 ## MultiModal
 
-- 2024-06-27, **SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues**, Yuxin Xie et.al., Paper: [http://arxiv.org/abs/2406.19364v1](http://arxiv.org/abs/2406.19364v1)
+- 2024-06-28, **SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues**, Yuxin Xie et.al., Paper: [http://arxiv.org/abs/2406.19364v2](http://arxiv.org/abs/2406.19364v2)
 - 2024-06-27, **Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**, Minghan Li et.al., Paper: [http://arxiv.org/abs/2406.19236v1](http://arxiv.org/abs/2406.19236v1), Code: **[https://github.com/lpercc/ha3d_simulator](https://github.com/lpercc/ha3d_simulator)**
 - 2024-06-27, **Heterogeneous Causal Metapath Graph Neural Network for Gene-Microbe-Disease Association Prediction**, Kexin Zhang et.al., Paper: [http://arxiv.org/abs/2406.19156v1](http://arxiv.org/abs/2406.19156v1)
 - 2024-06-27, **Design and First Tests of the Trapped Electrons Experiment T-REX**, Francesco Romano et.al., Paper: [http://arxiv.org/abs/2406.19123v1](http://arxiv.org/abs/2406.19123v1)
