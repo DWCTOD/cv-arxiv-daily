@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-06-28, **Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**, Sukmin Yun et.al., Paper: [http://arxiv.org/abs/2406.20098v1](http://arxiv.org/abs/2406.20098v1), Code: **[https://github.com/mbzuai-llm/web2code](https://github.com/mbzuai-llm/web2code)**
+- 2024-06-28, **LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**, Jieneng Chen et.al., Paper: [http://arxiv.org/abs/2406.20092v1](http://arxiv.org/abs/2406.20092v1), Code: **[https://github.com/beckschen/llavolta](https://github.com/beckschen/llavolta)**
+- 2024-06-28, **Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**, Arnab Auddy et.al., Paper: [http://arxiv.org/abs/2406.20088v1](http://arxiv.org/abs/2406.20088v1)
+- 2024-06-28, **Extreme horizon equation**, Wojciech Kamiński et.al., Paper: [http://arxiv.org/abs/2406.20068v1](http://arxiv.org/abs/2406.20068v1)
+- 2024-06-28, **Modeling and LQR Control of Insect Sized Flapping Wing Robot**, Daksh Dhingra et.al., Paper: [http://arxiv.org/abs/2406.20061v1](http://arxiv.org/abs/2406.20061v1)
+- 2024-06-28, **Pairwise Difference Learning for Classification**, Mohamed Karim Belaid et.al., Paper: [http://arxiv.org/abs/2406.20031v1](http://arxiv.org/abs/2406.20031v1), Code: **[https://github.com/karim-53/pdll](https://github.com/karim-53/pdll)**
+- 2024-06-28, **On the Trade-off between Flatness and Optimization in Distributed Learning**, Ying Cao et.al., Paper: [http://arxiv.org/abs/2406.20006v1](http://arxiv.org/abs/2406.20006v1)
+- 2024-06-28, **Malaria Cell Detection Using Deep Neural Networks**, Saurabh Sawant et.al., Paper: [http://arxiv.org/abs/2406.20005v1](http://arxiv.org/abs/2406.20005v1)
+- 2024-06-28, **Impact of Initialization on Intra-subject Pediatric Brain MR Image Registration: A Comparative Analysis between SyN ANTs and Deep Learning-Based Approaches**, Andjela Dimitrijevic et.al., Paper: [http://arxiv.org/abs/2406.19943v1](http://arxiv.org/abs/2406.19943v1), Code: **[https://github.com/neuropoly/pediatric-dl-registration](https://github.com/neuropoly/pediatric-dl-registration)**
+- 2024-06-28, **GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**, Chih-Chung Hsu et.al., Paper: [http://arxiv.org/abs/2406.19941v1](http://arxiv.org/abs/2406.19941v1), Code: **[https://github.com/ming053l/grace](https://github.com/ming053l/grace)**
 - 2024-06-27, **ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos**, Jr-Jen Chen et.al., Paper: [http://arxiv.org/abs/2406.19392v1](http://arxiv.org/abs/2406.19392v1), Code: **[https://github.com/rextime/rextime](https://github.com/rextime/rextime)**
 - 2024-06-27, **Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**, Ali Khaleghi Rahimian et.al., Paper: [http://arxiv.org/abs/2406.19391v1](http://arxiv.org/abs/2406.19391v1), Code: **[https://github.com/charlotte-charmlab/fibottention](https://github.com/charlotte-charmlab/fibottention)**
 - 2024-06-27, **OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2406.19389v1](http://arxiv.org/abs/2406.19389v1)
@@ -5163,6 +5173,16 @@
 
 ## MultiModal
 
+- 2024-06-28, **EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**, Yuxuan Zhang et.al., Paper: [http://arxiv.org/abs/2406.20076v1](http://arxiv.org/abs/2406.20076v1)
+- 2024-06-28, **eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**, Yucheng Chen et.al., Paper: [http://arxiv.org/abs/2406.20024v1](http://arxiv.org/abs/2406.20024v1)
+- 2024-06-28, **Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case**, Artem Glova et.al., Paper: [http://arxiv.org/abs/2406.20018v1](http://arxiv.org/abs/2406.20018v1)
+- 2024-06-28, **MDF: A Dynamic Fusion Model for Multi-modal Fake News Detection**, Hongzhen Lv et.al., Paper: [http://arxiv.org/abs/2406.19776v1](http://arxiv.org/abs/2406.19776v1)
+- 2024-06-28, **SPIRONet: Spatial-Frequency Learning and Topological Channel Interaction Network for Vessel Segmentation**, De-Xing Huang et.al., Paper: [http://arxiv.org/abs/2406.19749v1](http://arxiv.org/abs/2406.19749v1), Code: **[https://github.com/dxhuang-casia/spironet](https://github.com/dxhuang-casia/spironet)**
+- 2024-06-28, **Pseudoscalar heavy quarkonium production in heavy ion ultraperipheral collision**, Jun Jiang et.al., Paper: [http://arxiv.org/abs/2406.19735v1](http://arxiv.org/abs/2406.19735v1)
+- 2024-06-28, **Deep Fusion Model for Brain Tumor Classification Using Fine-Grained Gradient Preservation**, Niful Islam et.al., Paper: [http://arxiv.org/abs/2406.19690v1](http://arxiv.org/abs/2406.19690v1)
+- 2024-06-28, **MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2406.19680v1](http://arxiv.org/abs/2406.19680v1)
+- 2024-06-28, **CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**, Chih-Chung Hsu et.al., Paper: [http://arxiv.org/abs/2406.19666v1](http://arxiv.org/abs/2406.19666v1), Code: **[https://github.com/ming053l/csakd](https://github.com/ming053l/csakd)**
+- 2024-06-28, **Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion**, Quanmin Liang et.al., Paper: [http://arxiv.org/abs/2406.19640v1](http://arxiv.org/abs/2406.19640v1), Code: **[https://github.com/lqm26/rmfnet](https://github.com/lqm26/rmfnet)**
 - 2024-06-28, **SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues**, Yuxin Xie et.al., Paper: [http://arxiv.org/abs/2406.19364v2](http://arxiv.org/abs/2406.19364v2)
 - 2024-06-27, **Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**, Minghan Li et.al., Paper: [http://arxiv.org/abs/2406.19236v1](http://arxiv.org/abs/2406.19236v1), Code: **[https://github.com/lpercc/ha3d_simulator](https://github.com/lpercc/ha3d_simulator)**
 - 2024-06-27, **Heterogeneous Causal Metapath Graph Neural Network for Gene-Microbe-Disease Association Prediction**, Kexin Zhang et.al., Paper: [http://arxiv.org/abs/2406.19156v1](http://arxiv.org/abs/2406.19156v1)
