@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-02, **Characterizing the Interpretability of Attention Maps in Digital Pathology**, Tomé Albuquerque et.al., Paper: [http://arxiv.org/abs/2407.02484v1](http://arxiv.org/abs/2407.02484v1)
+- 2024-07-02, **Ensemble of pre-trained language models and data augmentation for hate speech detection from Arabic tweets**, Kheir Eddine Daouadi et.al., Paper: [http://arxiv.org/abs/2407.02448v1](http://arxiv.org/abs/2407.02448v1)
+- 2024-07-02, **PLeaS -- Merging Models with Permutations and Least Squares**, Anshul Nasery et.al., Paper: [http://arxiv.org/abs/2407.02447v1](http://arxiv.org/abs/2407.02447v1)
+- 2024-07-02, **Evaluating the Robustness of Adverse Drug Event Classification Models Using Templates**, Dorothea MacPhail et.al., Paper: [http://arxiv.org/abs/2407.02432v1](http://arxiv.org/abs/2407.02432v1)
+- 2024-07-02, **AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**, Gabriele Lozupone et.al., Paper: [http://arxiv.org/abs/2407.02418v1](http://arxiv.org/abs/2407.02418v1), Code: **[https://github.com/GabrieleLozupone/AXIAL](https://github.com/GabrieleLozupone/AXIAL)**
+- 2024-07-02, **Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**, Jinmin Li et.al., Paper: [http://arxiv.org/abs/2407.02411v1](http://arxiv.org/abs/2407.02411v1)
+- 2024-07-02, **Tiny-PULP-Dronets: Squeezing Neural Networks for Faster and Lighter Inference on Multi-Tasking Autonomous Nano-Drones**, Lorenzo Lamberti et.al., Paper: [http://arxiv.org/abs/2407.02405v1](http://arxiv.org/abs/2407.02405v1)
+- 2024-07-02, **A neural networks method to search for long transient gravitational waves**, Francesca Attadio et.al., Paper: [http://arxiv.org/abs/2407.02391v1](http://arxiv.org/abs/2407.02391v1)
+- 2024-07-02, **Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**, Shuangliang Li et.al., Paper: [http://arxiv.org/abs/2407.02387v1](http://arxiv.org/abs/2407.02387v1), Code: **[https://github.com/rs-lsl/cssnet](https://github.com/rs-lsl/cssnet)**
+- 2024-07-02, **OpenSlot: Mixed Open-set Recognition with Object-centric Learning**, Xu Yin et.al., Paper: [http://arxiv.org/abs/2407.02386v1](http://arxiv.org/abs/2407.02386v1)
 - 2024-06-28, **Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**, Sukmin Yun et.al., Paper: [http://arxiv.org/abs/2406.20098v1](http://arxiv.org/abs/2406.20098v1), Code: **[https://github.com/mbzuai-llm/web2code](https://github.com/mbzuai-llm/web2code)**
 - 2024-06-28, **LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**, Jieneng Chen et.al., Paper: [http://arxiv.org/abs/2406.20092v1](http://arxiv.org/abs/2406.20092v1), Code: **[https://github.com/beckschen/llavolta](https://github.com/beckschen/llavolta)**
 - 2024-06-28, **Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**, Arnab Auddy et.al., Paper: [http://arxiv.org/abs/2406.20088v1](http://arxiv.org/abs/2406.20088v1)
@@ -5173,6 +5183,16 @@
 
 ## MultiModal
 
+- 2024-07-02, **SafaRi:Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation**, Sayan Nag et.al., Paper: [http://arxiv.org/abs/2407.02389v1](http://arxiv.org/abs/2407.02389v1)
+- 2024-07-02, **Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**, Shuangliang Li et.al., Paper: [http://arxiv.org/abs/2407.02387v1](http://arxiv.org/abs/2407.02387v1), Code: **[https://github.com/rs-lsl/cssnet](https://github.com/rs-lsl/cssnet)**
+- 2024-07-02, **Hybrid Feature Collaborative Reconstruction Network for Few-Shot Fine-Grained Image Classification**, Shulei Qiu et.al., Paper: [http://arxiv.org/abs/2407.02123v1](http://arxiv.org/abs/2407.02123v1)
+- 2024-07-02, **The USTC-NERCSLIP Systems for The ICMC-ASR Challenge**, Minghui Wu et.al., Paper: [http://arxiv.org/abs/2407.02052v1](http://arxiv.org/abs/2407.02052v1)
+- 2024-07-02, **Fake News Detection and Manipulation Reasoning via Large Vision-Language Models**, Ruihan Jin et.al., Paper: [http://arxiv.org/abs/2407.02042v1](http://arxiv.org/abs/2407.02042v1)
+- 2024-07-02, **An End-to-End Speech Summarization Using Large Language Model**, Hengchao Shang et.al., Paper: [http://arxiv.org/abs/2407.02005v1](http://arxiv.org/abs/2407.02005v1)
+- 2024-07-02, **SAVE: Segment Audio-Visual Easy way using Segment Anything Model**, Khanh-Binh Nguyen et.al., Paper: [http://arxiv.org/abs/2407.02004v1](http://arxiv.org/abs/2407.02004v1)
+- 2024-07-02, **CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**, Yupeng Cao et.al., Paper: [http://arxiv.org/abs/2407.01953v1](http://arxiv.org/abs/2407.01953v1)
+- 2024-07-02, **Enhancing Multi-Class Anomaly Detection via Diffusion Refinement with Dual Conditioning**, Jiawei Zhan et.al., Paper: [http://arxiv.org/abs/2407.01905v1](http://arxiv.org/abs/2407.01905v1)
+- 2024-07-02, **Adaptive Modality Balanced Online Knowledge Distillation for Brain-Eye-Computer based Dim Object Detection**, Zixing Li et.al., Paper: [http://arxiv.org/abs/2407.01894v1](http://arxiv.org/abs/2407.01894v1), Code: **[https://github.com/lizixing23/AMBOKD](https://github.com/lizixing23/AMBOKD)**
 - 2024-06-28, **EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**, Yuxuan Zhang et.al., Paper: [http://arxiv.org/abs/2406.20076v1](http://arxiv.org/abs/2406.20076v1)
 - 2024-06-28, **eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**, Yucheng Chen et.al., Paper: [http://arxiv.org/abs/2406.20024v1](http://arxiv.org/abs/2406.20024v1)
 - 2024-06-28, **Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case**, Artem Glova et.al., Paper: [http://arxiv.org/abs/2406.20018v1](http://arxiv.org/abs/2406.20018v1)
