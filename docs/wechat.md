@@ -1,4 +1,4 @@
-> Updated on 2024.07.03
+> Updated on 2024.07.04
 
 ## Video_Classification
 
@@ -7,9 +7,9 @@
 - 2024-07-02, **PLeaS -- Merging Models with Permutations and Least Squares**, Anshul Nasery et.al., Paper: [http://arxiv.org/abs/2407.02447v1](http://arxiv.org/abs/2407.02447v1)
 - 2024-07-02, **Evaluating the Robustness of Adverse Drug Event Classification Models Using Templates**, Dorothea MacPhail et.al., Paper: [http://arxiv.org/abs/2407.02432v1](http://arxiv.org/abs/2407.02432v1)
 - 2024-07-02, **AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**, Gabriele Lozupone et.al., Paper: [http://arxiv.org/abs/2407.02418v1](http://arxiv.org/abs/2407.02418v1), Code: **[https://github.com/GabrieleLozupone/AXIAL](https://github.com/GabrieleLozupone/AXIAL)**
-- 2024-07-02, **Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**, Jinmin Li et.al., Paper: [http://arxiv.org/abs/2407.02411v1](http://arxiv.org/abs/2407.02411v1)
+- 2024-07-03, **Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**, Jinmin Li et.al., Paper: [http://arxiv.org/abs/2407.02411v2](http://arxiv.org/abs/2407.02411v2)
 - 2024-07-02, **Tiny-PULP-Dronets: Squeezing Neural Networks for Faster and Lighter Inference on Multi-Tasking Autonomous Nano-Drones**, Lorenzo Lamberti et.al., Paper: [http://arxiv.org/abs/2407.02405v1](http://arxiv.org/abs/2407.02405v1)
-- 2024-07-02, **A neural networks method to search for long transient gravitational waves**, Francesca Attadio et.al., Paper: [http://arxiv.org/abs/2407.02391v1](http://arxiv.org/abs/2407.02391v1)
+- 2024-07-03, **A neural networks method to search for long transient gravitational waves**, Francesca Attadio et.al., Paper: [http://arxiv.org/abs/2407.02391v2](http://arxiv.org/abs/2407.02391v2)
 - 2024-07-02, **Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**, Shuangliang Li et.al., Paper: [http://arxiv.org/abs/2407.02387v1](http://arxiv.org/abs/2407.02387v1), Code: **[https://github.com/rs-lsl/cssnet](https://github.com/rs-lsl/cssnet)**
 - 2024-07-02, **OpenSlot: Mixed Open-set Recognition with Object-centric Learning**, Xu Yin et.al., Paper: [http://arxiv.org/abs/2407.02386v1](http://arxiv.org/abs/2407.02386v1)
 - 2024-06-28, **Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**, Sukmin Yun et.al., Paper: [http://arxiv.org/abs/2406.20098v1](http://arxiv.org/abs/2406.20098v1), Code: **[https://github.com/mbzuai-llm/web2code](https://github.com/mbzuai-llm/web2code)**
