@@ -3,7 +3,7 @@
 ## Video_Classification
 
 - 2024-07-03, **InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**, Pan Zhang et.al., Paper: [http://arxiv.org/abs/2407.03320v1](http://arxiv.org/abs/2407.03320v1), Code: **[https://github.com/internlm/internlm-xcomposer](https://github.com/internlm/internlm-xcomposer)**
-- 2024-07-03, **Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**, Trevor Ablett et.al., Paper: [http://arxiv.org/abs/2407.03311v1](http://arxiv.org/abs/2407.03311v1)
+- 2024-07-03, **Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**, Trevor Ablett et.al., Paper: [http://arxiv.org/abs/2407.03311v1](http://arxiv.org/abs/2407.03311v1), Code: **[https://github.com/utiasSTARS/vpace](https://github.com/utiasSTARS/vpace)**
 - 2024-07-03, **Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**, Sijie Xu et.al., Paper: [http://arxiv.org/abs/2407.03308v1](http://arxiv.org/abs/2407.03308v1)
 - 2024-07-03, **HoloHisto: End-to-end Gigapixel WSI Segmentation with 4K Resolution Sequential Tokenization**, Yucheng Tang et.al., Paper: [http://arxiv.org/abs/2407.03307v1](http://arxiv.org/abs/2407.03307v1)
 - 2024-07-03, **VCHAR:Variance-Driven Complex Human Activity Recognition framework with Generative Representation**, Yuan Sun et.al., Paper: [http://arxiv.org/abs/2407.03291v1](http://arxiv.org/abs/2407.03291v1)
