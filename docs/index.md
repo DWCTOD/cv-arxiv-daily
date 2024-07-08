@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**VCoME: Verbal Video Composition with Multimodal Editing Effects**|Weibo Gong et.al.|[2407.04697v1](http://arxiv.org/abs/2407.04697v1)|null|
+|**2024-07-05**|**Enhancing Vehicle Re-identification and Matching for Weaving Analysis**|Mei Qiu et.al.|[2407.04688v1](http://arxiv.org/abs/2407.04688v1)|null|
+|**2024-07-05**|**Embracing Massive Medical Data**|Yu-Cheng Chou et.al.|[2407.04687v1](http://arxiv.org/abs/2407.04687v1)|**[link](https://github.com/mrgiovanni/onlinelearning)**|
+|**2024-07-05**|**Is plantar thermography a valid digital biomarker for characterising diabetic foot ulceration risk?**|Akshay Jagadeesh et.al.|[2407.04676v1](http://arxiv.org/abs/2407.04676v1)|null|
+|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603v1](http://arxiv.org/abs/2407.04603v1)|null|
+|**2024-07-05**|**Multimodal Classification via Modal-Aware Interactive Enhancement**|Qing-Yuan Jiang et.al.|[2407.04587v1](http://arxiv.org/abs/2407.04587v1)|null|
+|**2024-07-05**|**A Degree Bound for Planar Functions**|Christof Beierle et.al.|[2407.04570v1](http://arxiv.org/abs/2407.04570v1)|null|
+|**2024-07-05**|**Pencils of plane cubics with one base point**|Riccardo Moschetti et.al.|[2407.04569v1](http://arxiv.org/abs/2407.04569v1)|null|
+|**2024-07-05**|**Anticipating Solar Flares**|Hugh S. Hudson et.al.|[2407.04567v1](http://arxiv.org/abs/2407.04567v1)|null|
+|**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560v1](http://arxiv.org/abs/2407.04560v1)|null|
 |**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320v1](http://arxiv.org/abs/2407.03320v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311v1](http://arxiv.org/abs/2407.03311v1)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308v1](http://arxiv.org/abs/2407.03308v1)|**[link](https://github.com/minipuding/fastmrt)**|
@@ -5201,6 +5211,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Electroweak corrections to Higgs boson pair production: The top-Yukawa and self-coupling contributions**|Gudrun Heinrich et.al.|[2407.04653v1](http://arxiv.org/abs/2407.04653v1)|null|
+|**2024-07-05**|**Multi-Branch Auxiliary Fusion YOLO with Re-parameterization Heterogeneous Convolutional for accurate object detection**|Zhiqiang Yang et.al.|[2407.04381v1](http://arxiv.org/abs/2407.04381v1)|**[link](https://github.com/yang-0201/MAF-YOLO)**|
+|**2024-07-05**|**ZARRIO @ Ego4D Short Term Object Interaction Anticipation Challenge: Leveraging Affordances and Attention-based models for STA**|Lorenzo Mur-Labadia et.al.|[2407.04369v1](http://arxiv.org/abs/2407.04369v1)|null|
+|**2024-07-05**|**Conformally covariant probabilities, operator product expansions, and logarithmic correlations in two-dimensional critical percolation**|Federico Camia et.al.|[2407.04246v1](http://arxiv.org/abs/2407.04246v1)|null|
+|**2024-07-05**|**Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction**|Zhongnuo Yan et.al.|[2407.04242v1](http://arxiv.org/abs/2407.04242v1)|null|
+|**2024-07-05**|**Compact Ion Beam System for Fusion Demonstration**|Allan Xi Chen et.al.|[2407.04197v1](http://arxiv.org/abs/2407.04197v1)|null|
+|**2024-07-04**|**Gemini: Integrating Full-fledged Sensing upon Millimeter Wave Communications**|Yilong Li et.al.|[2407.04174v1](http://arxiv.org/abs/2407.04174v1)|null|
+|**2024-07-04**|**Flexible Stellarator Physics Facility**|F. I. Parra et.al.|[2407.04039v1](http://arxiv.org/abs/2407.04039v1)|null|
+|**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992v1](http://arxiv.org/abs/2407.03992v1)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
+|**2024-07-04**|**Runaway electron beam formation, vertical motion, termination and wall loads in EU-DEMO**|F. Vannini et.al.|[2407.03940v1](http://arxiv.org/abs/2407.03940v1)|null|
 |**2024-07-03**|**Quantum Curved Tetrahedron, Quantum Group Intertwiner Space, and Coherent States**|Chen-Hung Hsiao et.al.|[2407.03242v1](http://arxiv.org/abs/2407.03242v1)|null|
 |**2024-07-03**|**Cyclic Refiner: Object-Aware Temporal Representation Learning for Multi-View 3D Detection and Tracking**|Mingzhe Guo et.al.|[2407.03240v1](http://arxiv.org/abs/2407.03240v1)|null|
 |**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|**[link](https://github.com/wayfear/brainnetworktransformer)**|
