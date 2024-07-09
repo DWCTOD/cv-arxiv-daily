@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|null|
+|**2024-07-08**|**Classification of Cellular Automata based on the Hamming distance**|Gaspar Alfaro et.al.|[2407.06175v1](http://arxiv.org/abs/2407.06175v1)|null|
+|**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174v1](http://arxiv.org/abs/2407.06174v1)|null|
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
+|**2024-07-08**|**Physics-informed machine learning approaches to reactor antineutrino detection**|Sophia Farrell et.al.|[2407.06139v1](http://arxiv.org/abs/2407.06139v1)|null|
+|**2024-07-08**|**Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities**|Avinash Anand et.al.|[2407.06125v1](http://arxiv.org/abs/2407.06125v1)|null|
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095v1](http://arxiv.org/abs/2407.06095v1)|null|
+|**2024-07-08**|**ERR@HRI 2024 Challenge: Multimodal Detection of Errors and Failures in Human-Robot Interactions**|Micol Spitale et.al.|[2407.06094v1](http://arxiv.org/abs/2407.06094v1)|null|
+|**2024-07-08**|**Artificial Intuition: Efficient Classification of Scientific Abstracts**|Harsh Sakhrani et.al.|[2407.06093v1](http://arxiv.org/abs/2407.06093v1)|null|
+|**2024-07-08**|**Assessing Cardiomegaly in Dogs Using a Simple CNN Model**|Nikhil Deekonda et.al.|[2407.06092v1](http://arxiv.org/abs/2407.06092v1)|null|
 |**2024-07-05**|**VCoME: Verbal Video Composition with Multimodal Editing Effects**|Weibo Gong et.al.|[2407.04697v1](http://arxiv.org/abs/2407.04697v1)|null|
 |**2024-07-05**|**Enhancing Vehicle Re-identification and Matching for Weaving Analysis**|Mei Qiu et.al.|[2407.04688v1](http://arxiv.org/abs/2407.04688v1)|null|
 |**2024-07-05**|**Embracing Massive Medical Data**|Yu-Cheng Chou et.al.|[2407.04687v1](http://arxiv.org/abs/2407.04687v1)|**[link](https://github.com/mrgiovanni/onlinelearning)**|
@@ -5207,6 +5217,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Laser-scanning of induction-melted Al alloys: are they representative of additively manufactured ones?**|Zhaoxuan Ge et.al.|[2407.06138v1](http://arxiv.org/abs/2407.06138v1)|null|
+|**2024-07-08**|**Changes in Dislocation Punching Behavior Due to Hydrogen-Seeded Helium Bubble Growth in Tungsten**|Peter Hatton et.al.|[2407.06080v1](http://arxiv.org/abs/2407.06080v1)|null|
+|**2024-07-08**|**Investigation of microstructural evolution of irradiation-induced defects in tungsten: an experimental-numerical approach**|Salahudeen Mohamed et.al.|[2407.06022v1](http://arxiv.org/abs/2407.06022v1)|null|
+|**2024-07-08**|**Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**|Hao Jing et.al.|[2407.05769v1](http://arxiv.org/abs/2407.05769v1)|null|
+|**2024-07-08**|**TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery**|Kun Wu et.al.|[2407.05736v1](http://arxiv.org/abs/2407.05736v1)|null|
+|**2024-07-08**|**Multi-Fidelity Bayesian Neural Network for Uncertainty Quantification in Transonic Aerodynamic Loads**|Andrea Vaiuso et.al.|[2407.05684v1](http://arxiv.org/abs/2407.05684v1)|null|
+|**2024-07-08**|**Deep Learning-based Anomaly Detection and Log Analysis for Computer Networks**|Shuzhan Wang et.al.|[2407.05639v1](http://arxiv.org/abs/2407.05639v1)|null|
+|**2024-07-08**|**HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion**|Junhao Su et.al.|[2407.05638v1](http://arxiv.org/abs/2407.05638v1)|**[link](https://github.com/zeudfish/hpff)**|
+|**2024-07-08**|**Two-Path GMM-ResNet and GMM-SENet for ASV Spoofing Detection**|Zhenchun Lei et.al.|[2407.05605v1](http://arxiv.org/abs/2407.05605v1)|null|
+|**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518v1](http://arxiv.org/abs/2407.05518v1)|null|
 |**2024-07-05**|**Electroweak corrections to Higgs boson pair production: The top-Yukawa and self-coupling contributions**|Gudrun Heinrich et.al.|[2407.04653v1](http://arxiv.org/abs/2407.04653v1)|null|
 |**2024-07-05**|**Multi-Branch Auxiliary Fusion YOLO with Re-parameterization Heterogeneous Convolutional for accurate object detection**|Zhiqiang Yang et.al.|[2407.04381v1](http://arxiv.org/abs/2407.04381v1)|**[link](https://github.com/yang-0201/MAF-YOLO)**|
 |**2024-07-05**|**ZARRIO @ Ego4D Short Term Object Interaction Anticipation Challenge: Leveraging Affordances and Attention-based models for STA**|Lorenzo Mur-Labadia et.al.|[2407.04369v1](http://arxiv.org/abs/2407.04369v1)|null|
