@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**Classification of Cellular Automata based on the Hamming distance**|Gaspar Alfaro et.al.|[2407.06175v1](http://arxiv.org/abs/2407.06175v1)|null|
 |**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174v1](http://arxiv.org/abs/2407.06174v1)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
@@ -5228,7 +5228,7 @@ layout: default
 |**2024-07-08**|**TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery**|Kun Wu et.al.|[2407.05736v1](http://arxiv.org/abs/2407.05736v1)|null|
 |**2024-07-08**|**Multi-Fidelity Bayesian Neural Network for Uncertainty Quantification in Transonic Aerodynamic Loads**|Andrea Vaiuso et.al.|[2407.05684v1](http://arxiv.org/abs/2407.05684v1)|null|
 |**2024-07-08**|**Deep Learning-based Anomaly Detection and Log Analysis for Computer Networks**|Shuzhan Wang et.al.|[2407.05639v1](http://arxiv.org/abs/2407.05639v1)|null|
-|**2024-07-08**|**HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion**|Junhao Su et.al.|[2407.05638v1](http://arxiv.org/abs/2407.05638v1)|**[link](https://github.com/zeudfish/hpff)**|
+|**2024-07-09**|**HPFF: Hierarchical Locally Supervised Learning with Patch Feature Fusion**|Junhao Su et.al.|[2407.05638v2](http://arxiv.org/abs/2407.05638v2)|**[link](https://github.com/zeudfish/hpff)**|
 |**2024-07-08**|**Two-Path GMM-ResNet and GMM-SENet for ASV Spoofing Detection**|Zhenchun Lei et.al.|[2407.05605v1](http://arxiv.org/abs/2407.05605v1)|null|
 |**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518v1](http://arxiv.org/abs/2407.05518v1)|null|
 |**2024-07-05**|**Electroweak corrections to Higgs boson pair production: The top-Yukawa and self-coupling contributions**|Gudrun Heinrich et.al.|[2407.04653v1](http://arxiv.org/abs/2407.04653v1)|null|
