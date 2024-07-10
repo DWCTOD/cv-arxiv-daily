@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-09, **V-VIPE: Variational View Invariant Pose Embedding**, Mara Levy et.al., Paper: [http://arxiv.org/abs/2407.07092v1](http://arxiv.org/abs/2407.07092v1)
+- 2024-07-09, **Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic**, Ruochen Jin et.al., Paper: [http://arxiv.org/abs/2407.07089v1](http://arxiv.org/abs/2407.07089v1)
+- 2024-07-09, **MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images**, Ziyang Xu et.al., Paper: [http://arxiv.org/abs/2407.07078v1](http://arxiv.org/abs/2407.07078v1), Code: **[https://github.com/ZyoungXu/MoSt-DSA](https://github.com/ZyoungXu/MoSt-DSA)**
+- 2024-07-09, **MADE-for-ASD: A Multi-Atlas Deep Ensemble Network for Diagnosing Autism Spectrum Disorder**, Md Rakibul Hasan et.al., Paper: [http://arxiv.org/abs/2407.07076v1](http://arxiv.org/abs/2407.07076v1)
+- 2024-07-09, **CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**, Wang Wei et.al., Paper: [http://arxiv.org/abs/2407.07056v1](http://arxiv.org/abs/2407.07056v1)
+- 2024-07-09, **Latent Space Imaging**, Matheus Souza et.al., Paper: [http://arxiv.org/abs/2407.07052v1](http://arxiv.org/abs/2407.07052v1)
+- 2024-07-09, **Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**, Christian Riefolo et.al., Paper: [http://arxiv.org/abs/2407.07045v1](http://arxiv.org/abs/2407.07045v1)
+- 2024-07-09, **Free Fermionic Constructions of Heterotic Strings**, Ioannis Florakis et.al., Paper: [http://arxiv.org/abs/2407.07034v1](http://arxiv.org/abs/2407.07034v1)
+- 2024-07-09, **Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition**, Daiqing Wu et.al., Paper: [http://arxiv.org/abs/2407.07026v1](http://arxiv.org/abs/2407.07026v1)
+- 2024-07-09, **Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**, Jeongseok Hyun et.al., Paper: [http://arxiv.org/abs/2407.07024v1](http://arxiv.org/abs/2407.07024v1), Code: **[https://github.com/hyunjs/stov-tal](https://github.com/hyunjs/stov-tal)**
 - 2024-07-08, **Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**, Orr Zohar et.al., Paper: [http://arxiv.org/abs/2407.06189v1](http://arxiv.org/abs/2407.06189v1), Code: **[https://github.com/orrzohar/Video-STaR](https://github.com/orrzohar/Video-STaR)**
 - 2024-07-08, **Classification of Cellular Automata based on the Hamming distance**, Gaspar Alfaro et.al., Paper: [http://arxiv.org/abs/2407.06175v1](http://arxiv.org/abs/2407.06175v1)
 - 2024-07-08, **The Tug-of-War Between Deepfake Generation and Detection**, Hannah Lee et.al., Paper: [http://arxiv.org/abs/2407.06174v1](http://arxiv.org/abs/2407.06174v1)
@@ -5213,6 +5223,16 @@
 
 ## MultiModal
 
+- 2024-07-09, **A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**, Linh Tran et.al., Paper: [http://arxiv.org/abs/2407.07054v1](http://arxiv.org/abs/2407.07054v1)
+- 2024-07-09, **Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition**, Daiqing Wu et.al., Paper: [http://arxiv.org/abs/2407.07026v1](http://arxiv.org/abs/2407.07026v1)
+- 2024-07-09, **Chat-Edit-3D: Interactive 3D Scene Editing via Text Prompts**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2407.06842v1](http://arxiv.org/abs/2407.06842v1)
+- 2024-07-09, **Explicit Modelling of Theory of Mind for Belief Prediction in Nonverbal Social Interactions**, Matteo Bortoletto et.al., Paper: [http://arxiv.org/abs/2407.06762v1](http://arxiv.org/abs/2407.06762v1)
+- 2024-07-09, **A Neutron Spectrometry for Fusion Plasmas**, Iskender Atilla Reyhancan et.al., Paper: [http://arxiv.org/abs/2407.06743v1](http://arxiv.org/abs/2407.06743v1)
+- 2024-07-09, **LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**, Teng Wang et.al., Paper: [http://arxiv.org/abs/2407.06730v1](http://arxiv.org/abs/2407.06730v1)
+- 2024-07-09, **High Yield of Alpha Particles Generated in Proton-Boron Nuclear Fusion Reactions Induced in Solid Boron Hydride B${}_{18}$H${}_{22}$**, M. Krůs et.al., Paper: [http://arxiv.org/abs/2407.06729v1](http://arxiv.org/abs/2407.06729v1)
+- 2024-07-09, **Analyzing the Effectiveness of Listwise Reranking with Positional Invariance on Temporal Generalizability**, Soyoung Yoon et.al., Paper: [http://arxiv.org/abs/2407.06716v1](http://arxiv.org/abs/2407.06716v1)
+- 2024-07-09, **CTRL-F: Pairing Convolution with Transformer for Image Classification via Multi-Level Feature Cross-Attention and Representation Learning Fusion**, Hosam S. EL-Assiouti et.al., Paper: [http://arxiv.org/abs/2407.06673v1](http://arxiv.org/abs/2407.06673v1)
+- 2024-07-09, **Variational Zero-shot Multispectral Pansharpening**, Xiangyu Rui et.al., Paper: [http://arxiv.org/abs/2407.06633v1](http://arxiv.org/abs/2407.06633v1), Code: **[https://github.com/xyrui/psdip](https://github.com/xyrui/psdip)**
 - 2024-07-08, **Laser-scanning of induction-melted Al alloys: are they representative of additively manufactured ones?**, Zhaoxuan Ge et.al., Paper: [http://arxiv.org/abs/2407.06138v1](http://arxiv.org/abs/2407.06138v1)
 - 2024-07-08, **Changes in Dislocation Punching Behavior Due to Hydrogen-Seeded Helium Bubble Growth in Tungsten**, Peter Hatton et.al., Paper: [http://arxiv.org/abs/2407.06080v1](http://arxiv.org/abs/2407.06080v1)
 - 2024-07-08, **Investigation of microstructural evolution of irradiation-induced defects in tungsten: an experimental-numerical approach**, Salahudeen Mohamed et.al., Paper: [http://arxiv.org/abs/2407.06022v1](http://arxiv.org/abs/2407.06022v1)
