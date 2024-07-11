@@ -9,10 +9,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092v1](http://arxiv.org/abs/2407.07092v1)|null|
-|**2024-07-09**|**Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic**|Ruochen Jin et.al.|[2407.07089v1](http://arxiv.org/abs/2407.07089v1)|null|
+|**2024-07-09**|**Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic**|Ruochen Jin et.al.|[2407.07089v1](http://arxiv.org/abs/2407.07089v1)|**[link](https://github.com/kyrie-23/linear_task_arithmetic)**|
 |**2024-07-09**|**MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images**|Ziyang Xu et.al.|[2407.07078v1](http://arxiv.org/abs/2407.07078v1)|**[link](https://github.com/ZyoungXu/MoSt-DSA)**|
 |**2024-07-09**|**MADE-for-ASD: A Multi-Atlas Deep Ensemble Network for Diagnosing Autism Spectrum Disorder**|Md Rakibul Hasan et.al.|[2407.07076v1](http://arxiv.org/abs/2407.07076v1)|null|
-|**2024-07-09**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wang Wei et.al.|[2407.07056v1](http://arxiv.org/abs/2407.07056v1)|null|
+|**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056v2](http://arxiv.org/abs/2407.07056v2)|null|
 |**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052v1](http://arxiv.org/abs/2407.07052v1)|null|
 |**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045v1](http://arxiv.org/abs/2407.07045v1)|null|
 |**2024-07-09**|**Free Fermionic Constructions of Heterotic Strings**|Ioannis Florakis et.al.|[2407.07034v1](http://arxiv.org/abs/2407.07034v1)|null|
@@ -5233,7 +5233,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054v1](http://arxiv.org/abs/2407.07054v1)|null|
 |**2024-07-09**|**Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition**|Daiqing Wu et.al.|[2407.07026v1](http://arxiv.org/abs/2407.07026v1)|null|
-|**2024-07-09**|**Chat-Edit-3D: Interactive 3D Scene Editing via Text Prompts**|Shuangkang Fang et.al.|[2407.06842v1](http://arxiv.org/abs/2407.06842v1)|null|
+|**2024-07-10**|**Chat-Edit-3D: Interactive 3D Scene Editing via Text Prompts**|Shuangkang Fang et.al.|[2407.06842v2](http://arxiv.org/abs/2407.06842v2)|null|
 |**2024-07-09**|**Explicit Modelling of Theory of Mind for Belief Prediction in Nonverbal Social Interactions**|Matteo Bortoletto et.al.|[2407.06762v1](http://arxiv.org/abs/2407.06762v1)|null|
 |**2024-07-09**|**A Neutron Spectrometry for Fusion Plasmas**|Iskender Atilla Reyhancan et.al.|[2407.06743v1](http://arxiv.org/abs/2407.06743v1)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730v1](http://arxiv.org/abs/2407.06730v1)|null|
