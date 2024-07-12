@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-07-10**|**LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**|Feng Li et.al.|[2407.07895v1](http://arxiv.org/abs/2407.07895v1)|**[link](https://github.com/LLaVA-VL/LLaVA-NeXT)**|
 |**2024-07-10**|**Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**|Tao Chen et.al.|[2407.07884v1](http://arxiv.org/abs/2407.07884v1)|null|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
-|**2024-07-10**|**Functional Assessment of Cerebral Capillaries using Single Capillary Reporters in Ultrasound Localization Microscopy**|Stephen A Lee et.al.|[2407.07857v1](http://arxiv.org/abs/2407.07857v1)|null|
+|**2024-07-11**|**Functional Assessment of Cerebral Capillaries using Single Capillary Reporters in Ultrasound Localization Microscopy**|Stephen A Lee et.al.|[2407.07857v2](http://arxiv.org/abs/2407.07857v2)|null|
 |**2024-07-10**|**Study on Aspect Ratio Variability toward Robustness of Vision Transformer-based Vehicle Re-identification**|Mei Qiu et.al.|[2407.07842v1](http://arxiv.org/abs/2407.07842v1)|null|
 |**2024-07-10**|**Benchmarking Embedding Aggregation Methods in Computational Pathology: A Clinical Data Perspective**|Shengjia Chen et.al.|[2407.07841v1](http://arxiv.org/abs/2407.07841v1)|**[link](https://github.com/fuchs-lab-public/cpath_sabenchmark)**|
 |**2024-07-10**|**Probe and Prejudice: Classification of compact objects and model comparison using EOS knowledge**|Hauke Koehn et.al.|[2407.07837v1](http://arxiv.org/abs/2407.07837v1)|null|
@@ -5242,7 +5242,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-10**|**OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion**|Hao Wang et.al.|[2407.07844v1](http://arxiv.org/abs/2407.07844v1)|**[link](https://github.com/wanghao9610/ov-dino)**|
-|**2024-07-10**|**AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**|Jongsuk Kim et.al.|[2407.07801v1](http://arxiv.org/abs/2407.07801v1)|null|
+|**2024-07-11**|**AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**|Jongsuk Kim et.al.|[2407.07801v2](http://arxiv.org/abs/2407.07801v2)|null|
 |**2024-07-10**|**First demonstration of Super-X divertor exhaust control for transient heat load management in compact fusion reactors**|B. Kool et.al.|[2407.07784v1](http://arxiv.org/abs/2407.07784v1)|null|
 |**2024-07-10**|**Multi-task Prompt Words Learning for Social Media Content Generation**|Haochen Xue et.al.|[2407.07771v1](http://arxiv.org/abs/2407.07771v1)|null|
 |**2024-07-10**|**Fusion of atomic W-like states in cavity QED systems**|Cheng-Yun Ding et.al.|[2407.07626v1](http://arxiv.org/abs/2407.07626v1)|null|
@@ -5250,7 +5250,7 @@ layout: default
 |**2024-07-10**|**Beat-It: Beat-Synchronized Multi-Condition 3D Dance Generation**|Zikai Huang et.al.|[2407.07554v1](http://arxiv.org/abs/2407.07554v1)|null|
 |**2024-07-10**|**Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval**|Shiqi Li et.al.|[2407.07525v1](http://arxiv.org/abs/2407.07525v1)|null|
 |**2024-07-10**|**Multi-modal Crowd Counting via a Broker Modality**|Haoliang Meng et.al.|[2407.07518v1](http://arxiv.org/abs/2407.07518v1)|**[link](https://github.com/henrycilence/broker-modality-crowd-counting)**|
-|**2024-07-10**|**HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation**|Guoan Xu et.al.|[2407.07441v1](http://arxiv.org/abs/2407.07441v1)|null|
+|**2024-07-11**|**HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation**|Guoan Xu et.al.|[2407.07441v2](http://arxiv.org/abs/2407.07441v2)|null|
 |**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054v1](http://arxiv.org/abs/2407.07054v1)|null|
 |**2024-07-09**|**Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition**|Daiqing Wu et.al.|[2407.07026v1](http://arxiv.org/abs/2407.07026v1)|null|
 |**2024-07-10**|**Chat-Edit-3D: Interactive 3D Scene Editing via Text Prompts**|Shuangkang Fang et.al.|[2407.06842v2](http://arxiv.org/abs/2407.06842v2)|null|
