@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-11, **Video Diffusion Alignment via Reward Gradients**, Mihir Prabhudesai et.al., Paper: [http://arxiv.org/abs/2407.08737v1](http://arxiv.org/abs/2407.08737v1), Code: **[https://github.com/mihirp1998/vader](https://github.com/mihirp1998/vader)**
+- 2024-07-11, **Real-Time Anomaly Detection and Reactive Planning with Large Language Models**, Rohan Sinha et.al., Paper: [http://arxiv.org/abs/2407.08735v1](http://arxiv.org/abs/2407.08735v1)
+- 2024-07-11, **WhisperNetV2: SlowFast Siamese Network For Lip-Based Biometrics**, Abdollah Zakeri et.al., Paper: [http://arxiv.org/abs/2407.08717v1](http://arxiv.org/abs/2407.08717v1)
+- 2024-07-11, **Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**, Dina Hussein et.al., Paper: [http://arxiv.org/abs/2407.08715v1](http://arxiv.org/abs/2407.08715v1)
+- 2024-07-11, **Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**, James Seekings et.al., Paper: [http://arxiv.org/abs/2407.08704v1](http://arxiv.org/abs/2407.08704v1)
+- 2024-07-11, **Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**, Zhening Xing et.al., Paper: [http://arxiv.org/abs/2407.08701v1](http://arxiv.org/abs/2407.08701v1)
+- 2024-07-11, **ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions**, Jiu Feng et.al., Paper: [http://arxiv.org/abs/2407.08691v1](http://arxiv.org/abs/2407.08691v1), Code: **[https://github.com/jiufengsc/elasticast](https://github.com/jiufengsc/elasticast)**
+- 2024-07-11, **Generalizable Implicit Motion Modeling for Video Frame Interpolation**, Zujin Guo et.al., Paper: [http://arxiv.org/abs/2407.08680v1](http://arxiv.org/abs/2407.08680v1)
+- 2024-07-11, **Still-Moving: Customized Video Generation without Customized Video Data**, Hila Chefer et.al., Paper: [http://arxiv.org/abs/2407.08674v1](http://arxiv.org/abs/2407.08674v1)
+- 2024-07-11, **NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2407.08672v1](http://arxiv.org/abs/2407.08672v1)
 - 2024-07-10, **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**, Feng Li et.al., Paper: [http://arxiv.org/abs/2407.07895v1](http://arxiv.org/abs/2407.07895v1), Code: **[https://github.com/LLaVA-VL/LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)**
 - 2024-07-10, **Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2407.07884v1](http://arxiv.org/abs/2407.07884v1)
 - 2024-07-10, **Controlling Space and Time with Diffusion Models**, Daniel Watson et.al., Paper: [http://arxiv.org/abs/2407.07860v1](http://arxiv.org/abs/2407.07860v1)
@@ -5233,6 +5243,16 @@
 
 ## MultiModal
 
+- 2024-07-11, **Towards Building Specialized Generalist AI with System 1 and System 2 Fusion**, Kaiyan Zhang et.al., Paper: [http://arxiv.org/abs/2407.08642v1](http://arxiv.org/abs/2407.08642v1)
+- 2024-07-11, **BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**, Hang Wu et.al., Paper: [http://arxiv.org/abs/2407.08526v1](http://arxiv.org/abs/2407.08526v1)
+- 2024-07-11, **DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception**, Xiaotong Li et.al., Paper: [http://arxiv.org/abs/2407.08303v1](http://arxiv.org/abs/2407.08303v1), Code: **[https://github.com/baaivision/densefusion](https://github.com/baaivision/densefusion)**
+- 2024-07-11, **PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**, Dominika Przewlocka-Rus et.al., Paper: [http://arxiv.org/abs/2407.08272v1](http://arxiv.org/abs/2407.08272v1)
+- 2024-07-11, **Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation**, Miao Yan et.al., Paper: [http://arxiv.org/abs/2407.08265v1](http://arxiv.org/abs/2407.08265v1), Code: **[https://github.com/eloeszhang/nlmtrack](https://github.com/eloeszhang/nlmtrack)**
+- 2024-07-11, **Higgs pair production at NNLO**, Joshua Davies et.al., Paper: [http://arxiv.org/abs/2407.08264v1](http://arxiv.org/abs/2407.08264v1)
+- 2024-07-11, **The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**, Marcel Vosshans et.al., Paper: [http://arxiv.org/abs/2407.08261v1](http://arxiv.org/abs/2407.08261v1)
+- 2024-07-11, **DSCENet: Dynamic Screening and Clinical-Enhanced Multimodal Fusion for MPNs Subtype Classification**, Yuan Zhang et.al., Paper: [http://arxiv.org/abs/2407.08167v1](http://arxiv.org/abs/2407.08167v1), Code: **[https://github.com/yuanzhang7/dscenet](https://github.com/yuanzhang7/dscenet)**
+- 2024-07-11, **DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing**, Minghang Zhou et.al., Paper: [http://arxiv.org/abs/2407.08132v1](http://arxiv.org/abs/2407.08132v1)
+- 2024-07-11, **Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning**, Wenrui Li et.al., Paper: [http://arxiv.org/abs/2407.08130v1](http://arxiv.org/abs/2407.08130v1)
 - 2024-07-10, **OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2407.07844v1](http://arxiv.org/abs/2407.07844v1), Code: **[https://github.com/wanghao9610/ov-dino](https://github.com/wanghao9610/ov-dino)**
 - 2024-07-11, **AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**, Jongsuk Kim et.al., Paper: [http://arxiv.org/abs/2407.07801v2](http://arxiv.org/abs/2407.07801v2)
 - 2024-07-10, **First demonstration of Super-X divertor exhaust control for transient heat load management in compact fusion reactors**, B. Kool et.al., Paper: [http://arxiv.org/abs/2407.07784v1](http://arxiv.org/abs/2407.07784v1)
