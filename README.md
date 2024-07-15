@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Non-Hermitian Origin of Wannier Localizability and Detachable Topological Boundary States**|Daichi Nakamura et.al.|[2407.09458v1](http://arxiv.org/abs/2407.09458v1)|null|
+|**2024-07-12**|**Let Me DeCode You: Decoder Conditioning with Tabular Data**|Tomasz Szczepański et.al.|[2407.09437v1](http://arxiv.org/abs/2407.09437v1)|**[link](https://github.com/sanoscience/decode)**|
+|**2024-07-12**|**Rethinking temporal self-similarity for repetitive action counting**|Yanan Luo et.al.|[2407.09431v1](http://arxiv.org/abs/2407.09431v1)|null|
+|**2024-07-12**|**TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models**|Hang Zou et.al.|[2407.09424v1](http://arxiv.org/abs/2407.09424v1)|null|
+|**2024-07-12**|**A grid of self-consistent MSG (MARCS-StaticWeather-GGchem) cool stellar, sub-stellar, and exoplanetary model atmospheres**|Uffe G. Jørgensen et.al.|[2407.09397v1](http://arxiv.org/abs/2407.09397v1)|null|
+|**2024-07-12**|**Open-Canopy: A Country-Scale Benchmark for Canopy Height Estimation at Very High Resolution**|Fajwel Fogel et.al.|[2407.09392v1](http://arxiv.org/abs/2407.09392v1)|**[link](https://github.com/fajwel/open-canopy)**|
+|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
+|**2024-07-12**|**Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation**|Zhilin Zhu et.al.|[2407.09367v1](http://arxiv.org/abs/2407.09367v1)|**[link](https://github.com/z1358/obao)**|
+|**2024-07-12**|**Novel clustered federated learning based on local loss**|Endong Gu et.al.|[2407.09360v1](http://arxiv.org/abs/2407.09360v1)|null|
+|**2024-07-12**|**Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems**|Ziyuan Luo et.al.|[2407.09352v1](http://arxiv.org/abs/2407.09352v1)|null|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737v1](http://arxiv.org/abs/2407.08737v1)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735v1](http://arxiv.org/abs/2407.08735v1)|null|
 |**2024-07-11**|**WhisperNetV2: SlowFast Siamese Network For Lip-Based Biometrics**|Abdollah Zakeri et.al.|[2407.08717v1](http://arxiv.org/abs/2407.08717v1)|null|
@@ -5247,6 +5257,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**QCD corrections to Higgs boson production and $H \to b \bar{b}$ decay in weak boson fusion**|Konstantin Asteriadis et.al.|[2407.09363v1](http://arxiv.org/abs/2407.09363v1)|null|
+|**2024-07-12**|**ProDepth: Boosting Self-Supervised Multi-Frame Monocular Depth with Probabilistic Fusion**|Sungmin Woo et.al.|[2407.09303v1](http://arxiv.org/abs/2407.09303v1)|**[link](https://github.com/sungmin-woo/ProDepth)**|
+|**2024-07-12**|**Search for light neutral particles decaying promptly into collimated pairs of electrons or muons in $pp$ collisions at $\sqrt{s}$ = 13 TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2407.09168v1](http://arxiv.org/abs/2407.09168v1)|null|
+|**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157v1](http://arxiv.org/abs/2407.09157v1)|null|
+|**2024-07-12**|**Accurate Prior-centric Monocular Positioning with Offline LiDAR Fusion**|Jinhao He et.al.|[2407.09091v1](http://arxiv.org/abs/2407.09091v1)|null|
+|**2024-07-12**|**Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation**|Zihao Li et.al.|[2407.08994v1](http://arxiv.org/abs/2407.08994v1)|null|
+|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950v1](http://arxiv.org/abs/2407.08950v1)|null|
+|**2024-07-12**|**KGpose: Keypoint-Graph Driven End-to-End Multi-Object 6D Pose Estimation via Point-Wise Pose Voting**|Andrew Jeong et.al.|[2407.08909v1](http://arxiv.org/abs/2407.08909v1)|null|
+|**2024-07-11**|**NNLO+PS predictions for Higgs production through bottom-quark fusion**|Christian Biello et.al.|[2407.08864v1](http://arxiv.org/abs/2407.08864v1)|null|
 |**2024-07-11**|**Towards Building Specialized Generalist AI with System 1 and System 2 Fusion**|Kaiyan Zhang et.al.|[2407.08642v1](http://arxiv.org/abs/2407.08642v1)|null|
 |**2024-07-11**|**BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**|Hang Wu et.al.|[2407.08526v1](http://arxiv.org/abs/2407.08526v1)|null|
 |**2024-07-11**|**DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception**|Xiaotong Li et.al.|[2407.08303v1](http://arxiv.org/abs/2407.08303v1)|**[link](https://github.com/baaivision/densefusion)**|
