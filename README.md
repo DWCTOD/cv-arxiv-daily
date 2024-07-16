@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964v1](http://arxiv.org/abs/2407.10964v1)|**[link](https://github.com/waltersimoncini/fungivision)**|
+|**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958v1](http://arxiv.org/abs/2407.10958v1)|null|
+|**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953v1](http://arxiv.org/abs/2407.10953v1)|null|
+|**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937v1](http://arxiv.org/abs/2407.10937v1)|**[link](https://github.com/yhZhai/idol)**|
+|**2024-07-15**|**Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together**|Dilara Soylu et.al.|[2407.10930v1](http://arxiv.org/abs/2407.10930v1)|null|
+|**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926v1](http://arxiv.org/abs/2407.10926v1)|null|
+|**2024-07-15**|**A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection**|Pandiyaraju V et.al.|[2407.10921v1](http://arxiv.org/abs/2407.10921v1)|null|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v1](http://arxiv.org/abs/2407.10910v1)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-15**|**Interpreting Hand gestures using Object Detection and Digits Classification**|Sangeetha K et.al.|[2407.10902v1](http://arxiv.org/abs/2407.10902v1)|null|
+|**2024-07-15**|**Leveraging Multimodal CycleGAN for the Generation of Anatomically Accurate Synthetic CT Scans from MRIs**|Leonardo Crespi et.al.|[2407.10888v1](http://arxiv.org/abs/2407.10888v1)|null|
 |**2024-07-12**|**Non-Hermitian Origin of Wannier Localizability and Detachable Topological Boundary States**|Daichi Nakamura et.al.|[2407.09458v1](http://arxiv.org/abs/2407.09458v1)|null|
 |**2024-07-12**|**Let Me DeCode You: Decoder Conditioning with Tabular Data**|Tomasz Szczepański et.al.|[2407.09437v1](http://arxiv.org/abs/2407.09437v1)|**[link](https://github.com/sanoscience/decode)**|
 |**2024-07-12**|**Rethinking temporal self-similarity for repetitive action counting**|Yanan Luo et.al.|[2407.09431v1](http://arxiv.org/abs/2407.09431v1)|null|
@@ -5257,6 +5267,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923v1](http://arxiv.org/abs/2407.10923v1)|null|
+|**2024-07-15**|**Linear-optical fusion boosted by high-dimensional entanglement**|Tomohiro Yamazaki et.al.|[2407.10893v1](http://arxiv.org/abs/2407.10893v1)|null|
+|**2024-07-15**|**Combination of searches for singly and doubly charged Higgs bosons produced via vector-boson fusion in proton-proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2407.10798v1](http://arxiv.org/abs/2407.10798v1)|null|
+|**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|**[link](https://github.com/irenezihuili/cgprompt)**|
+|**2024-07-15**|**General algorithm of assigning raster features to vector maps at any resolution or scale**|Nan Xu et.al.|[2407.10599v1](http://arxiv.org/abs/2407.10599v1)|null|
+|**2024-07-15**|**Multi-source Knowledge Enhanced Graph Attention Networks for Multimodal Fact Verification**|Han Cao et.al.|[2407.10474v1](http://arxiv.org/abs/2407.10474v1)|null|
+|**2024-07-15**|**An Empirical Study of Mamba-based Pedestrian Attribute Recognition**|Xiao Wang et.al.|[2407.10374v1](http://arxiv.org/abs/2407.10374v1)|**[link](https://github.com/event-ahu/openpar)**|
+|**2024-07-14**|**MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis**|Adamu Lawan et.al.|[2407.10347v1](http://arxiv.org/abs/2407.10347v1)|null|
+|**2024-07-14**|**Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors**|Jae Joong Lee et.al.|[2407.10330v1](http://arxiv.org/abs/2407.10330v1)|null|
+|**2024-07-14**|**Improving Neural Biasing for Contextual Speech Recognition by Early Context Injection and Text Perturbation**|Ruizhe Huang et.al.|[2407.10303v1](http://arxiv.org/abs/2407.10303v1)|null|
 |**2024-07-12**|**QCD corrections to Higgs boson production and $H \to b \bar{b}$ decay in weak boson fusion**|Konstantin Asteriadis et.al.|[2407.09363v1](http://arxiv.org/abs/2407.09363v1)|null|
 |**2024-07-12**|**ProDepth: Boosting Self-Supervised Multi-Frame Monocular Depth with Probabilistic Fusion**|Sungmin Woo et.al.|[2407.09303v1](http://arxiv.org/abs/2407.09303v1)|**[link](https://github.com/sungmin-woo/ProDepth)**|
 |**2024-07-12**|**Search for light neutral particles decaying promptly into collimated pairs of electrons or muons in $pp$ collisions at $\sqrt{s}$ = 13 TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2407.09168v1](http://arxiv.org/abs/2407.09168v1)|null|
