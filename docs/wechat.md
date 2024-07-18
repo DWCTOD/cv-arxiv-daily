@@ -1,4 +1,4 @@
-> Updated on 2024.07.17
+> Updated on 2024.07.18
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 - 2024-07-16, **A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets**, Ahmad Abdellatif et.al., Paper: [http://arxiv.org/abs/2407.11955v1](http://arxiv.org/abs/2407.11955v1)
 - 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
 - 2024-07-16, **Temporally Consistent Stereo Matching**, Jiaxi Zeng et.al., Paper: [http://arxiv.org/abs/2407.11950v1](http://arxiv.org/abs/2407.11950v1), Code: **[https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)**
-- 2024-07-16, **Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**, Ping Wang et.al., Paper: [http://arxiv.org/abs/2407.11946v1](http://arxiv.org/abs/2407.11946v1), Code: **[https://github.com/pwangcs/hisvit](https://github.com/pwangcs/hisvit)**
+- 2024-07-17, **Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**, Ping Wang et.al., Paper: [http://arxiv.org/abs/2407.11946v2](http://arxiv.org/abs/2407.11946v2), Code: **[https://github.com/pwangcs/hisvit](https://github.com/pwangcs/hisvit)**
 - 2024-07-16, **Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based Approach**, Tanvir Hossain et.al., Paper: [http://arxiv.org/abs/2407.11928v1](http://arxiv.org/abs/2407.11928v1)
 - 2024-07-16, **The Strength of Bisymmetric Modes in SDSS-IV/MaNGA Barred Galaxy Kinematics**, Brian DiGiorgio Zanger et.al., Paper: [http://arxiv.org/abs/2407.11908v1](http://arxiv.org/abs/2407.11908v1)
 - 2024-07-16, **GraphFM: A Scalable Framework for Multi-Graph Pretraining**, Divyansha Lachi et.al., Paper: [http://arxiv.org/abs/2407.11907v1](http://arxiv.org/abs/2407.11907v1)
@@ -5274,10 +5274,10 @@
 ## MultiModal
 
 - 2024-07-16, **Learning Multi-view Anomaly Detection**, Haoyang He et.al., Paper: [http://arxiv.org/abs/2407.11935v1](http://arxiv.org/abs/2407.11935v1)
-- 2024-07-16, **Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**, Manh Do Duc et.al., Paper: [http://arxiv.org/abs/2407.11870v1](http://arxiv.org/abs/2407.11870v1)
+- 2024-07-17, **Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**, Manh Do Duc et.al., Paper: [http://arxiv.org/abs/2407.11870v2](http://arxiv.org/abs/2407.11870v2)
 - 2024-07-16, **Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**, Juncheng Ma et.al., Paper: [http://arxiv.org/abs/2407.11820v1](http://arxiv.org/abs/2407.11820v1)
 - 2024-07-16, **XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**, Truong Thanh Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2407.11771v1](http://arxiv.org/abs/2407.11771v1)
-- 2024-07-16, **Harnessing Large Language Models for Multimodal Product Bundling**, Xiaohao Liu et.al., Paper: [http://arxiv.org/abs/2407.11712v1](http://arxiv.org/abs/2407.11712v1)
+- 2024-07-17, **Harnessing Large Language Models for Multimodal Product Bundling**, Xiaohao Liu et.al., Paper: [http://arxiv.org/abs/2407.11712v2](http://arxiv.org/abs/2407.11712v2)
 - 2024-07-16, **MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2407.11682v1](http://arxiv.org/abs/2407.11682v1)
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
 - 2024-07-16, **Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes**, Seifallah Fetni et.al., Paper: [http://arxiv.org/abs/2407.11580v1](http://arxiv.org/abs/2407.11580v1)
