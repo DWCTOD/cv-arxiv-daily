@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-17, **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**, Sherwin Bahmani et.al., Paper: [http://arxiv.org/abs/2407.12781v1](http://arxiv.org/abs/2407.12781v1)
+- 2024-07-17, **Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**, Matthew Tivnan et.al., Paper: [http://arxiv.org/abs/2407.12780v1](http://arxiv.org/abs/2407.12780v1)
+- 2024-07-17, **LookupViT: Compressing visual information to a limited number of tokens**, Rajat Koner et.al., Paper: [http://arxiv.org/abs/2407.12753v1](http://arxiv.org/abs/2407.12753v1)
+- 2024-07-17, **4Dynamic: Text-to-4D Generation with Hybrid Priors**, Yu-Jie Yuan et.al., Paper: [http://arxiv.org/abs/2407.12684v1](http://arxiv.org/abs/2407.12684v1)
+- 2024-07-17, **Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**, Kirolos Ataallah et.al., Paper: [http://arxiv.org/abs/2407.12679v1](http://arxiv.org/abs/2407.12679v1)
+- 2024-07-17, **Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**, Yiqing Shen et.al., Paper: [http://arxiv.org/abs/2407.12678v1](http://arxiv.org/abs/2407.12678v1)
+- 2024-07-17, **CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems**, Jiankun Zhao et.al., Paper: [http://arxiv.org/abs/2407.12676v1](http://arxiv.org/abs/2407.12676v1), Code: **[https://github.com/biomed-ai-lab-u-michgan/cosign](https://github.com/biomed-ai-lab-u-michgan/cosign)**
+- 2024-07-17, **Distilling Tiny and Ultra-fast Deep Neural Networks for Autonomous Navigation on Nano-UAVs**, Lorenzo Lamberti et.al., Paper: [http://arxiv.org/abs/2407.12675v1](http://arxiv.org/abs/2407.12675v1)
+- 2024-07-17, **Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**, Richard Osuala et.al., Paper: [http://arxiv.org/abs/2407.12669v1](http://arxiv.org/abs/2407.12669v1)
+- 2024-07-17, **Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**, Andrea Albanese et.al., Paper: [http://arxiv.org/abs/2407.12663v1](http://arxiv.org/abs/2407.12663v1)
 - 2024-07-16, **Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**, Jaehyeok Kim et.al., Paper: [http://arxiv.org/abs/2407.11962v1](http://arxiv.org/abs/2407.11962v1)
 - 2024-07-16, **A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets**, Ahmad Abdellatif et.al., Paper: [http://arxiv.org/abs/2407.11955v1](http://arxiv.org/abs/2407.11955v1)
 - 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
@@ -5273,6 +5283,16 @@
 
 ## MultiModal
 
+- 2024-07-17, **Deconfined quantum criticality of frustrated hard-core dipolar bosons**, Ya-Nan Wang et.al., Paper: [http://arxiv.org/abs/2407.12770v1](http://arxiv.org/abs/2407.12770v1)
+- 2024-07-17, **In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**, Shawn Hinnebusch et.al., Paper: [http://arxiv.org/abs/2407.12682v1](http://arxiv.org/abs/2407.12682v1)
+- 2024-07-17, **Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**, Andrea Albanese et.al., Paper: [http://arxiv.org/abs/2407.12663v1](http://arxiv.org/abs/2407.12663v1)
+- 2024-07-17, **Fusion Flow-enhanced Graph Pooling Residual Networks for Unmanned Aerial Vehicles Surveillance in Day and Night Dual Visions**, Alam Noor et.al., Paper: [http://arxiv.org/abs/2407.12647v1](http://arxiv.org/abs/2407.12647v1)
+- 2024-07-17, **Numerical simulation of a helium Plasma-Material Interaction experiment in GyM linear device through SOLPS-ITER and ERO2.0 codes**, F. Mombelli et.al., Paper: [http://arxiv.org/abs/2407.12643v1](http://arxiv.org/abs/2407.12643v1)
+- 2024-07-17, **EvSign: Sign Language Recognition and Translation with Streaming Events**, Pengyu Zhang et.al., Paper: [http://arxiv.org/abs/2407.12593v1](http://arxiv.org/abs/2407.12593v1)
+- 2024-07-17, **Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection**, Hu Cao et.al., Paper: [http://arxiv.org/abs/2407.12582v1](http://arxiv.org/abs/2407.12582v1)
+- 2024-07-17, **Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective**, Zhaoxin Wang et.al., Paper: [http://arxiv.org/abs/2407.12443v1](http://arxiv.org/abs/2407.12443v1)
+- 2024-07-17, **On the E-DeltaE low pressure pentane filled detection module of DGFRS-2 setup**, D. Ibadullayev et.al., Paper: [http://arxiv.org/abs/2407.12418v1](http://arxiv.org/abs/2407.12418v1)
+- 2024-07-17, **Not All Frequencies Are Created Equal:Towards a Dynamic Fusion of Frequencies in Time-Series Forecasting**, Xingyu Zhang et.al., Paper: [http://arxiv.org/abs/2407.12415v1](http://arxiv.org/abs/2407.12415v1)
 - 2024-07-16, **Learning Multi-view Anomaly Detection**, Haoyang He et.al., Paper: [http://arxiv.org/abs/2407.11935v1](http://arxiv.org/abs/2407.11935v1)
 - 2024-07-17, **Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**, Manh Do Duc et.al., Paper: [http://arxiv.org/abs/2407.11870v2](http://arxiv.org/abs/2407.11870v2)
 - 2024-07-16, **Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation**, Juncheng Ma et.al., Paper: [http://arxiv.org/abs/2407.11820v1](http://arxiv.org/abs/2407.11820v1)
