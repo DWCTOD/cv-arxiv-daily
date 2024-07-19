@@ -2,12 +2,22 @@
 layout: default
 ---
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**|Abdelrahman Shaker et.al.|[2407.13772v1](http://arxiv.org/abs/2407.13772v1)|null|
+|**2024-07-18**|**Addressing Imbalance for Class Incremental Learning in Medical Image Classification**|Xuze Hao et.al.|[2407.13768v1](http://arxiv.org/abs/2407.13768v1)|null|
+|**2024-07-18**|**Shape of Motion: 4D Reconstruction from a Single Video**|Qianqian Wang et.al.|[2407.13764v1](http://arxiv.org/abs/2407.13764v1)|null|
+|**2024-07-18**|**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion**|Boyang Deng et.al.|[2407.13759v1](http://arxiv.org/abs/2407.13759v1)|null|
+|**2024-07-18**|**Exploring Facial Biomarkers for Depression through Temporal Analysis of Action Units**|Aditya Parikh et.al.|[2407.13753v1](http://arxiv.org/abs/2407.13753v1)|null|
+|**2024-07-18**|**Temporal Representation Learning for Stock Similarities and Its Applications in Investment Management**|Yoontae Hwang et.al.|[2407.13751v1](http://arxiv.org/abs/2407.13751v1)|null|
+|**2024-07-18**|**Pose-guided multi-task video transformer for driver action recognition**|Ricardo Pizarro et.al.|[2407.13750v1](http://arxiv.org/abs/2407.13750v1)|null|
+|**2024-07-18**|**Multi-Label Learning with Stronger Consistency Guarantees**|Anqi Mao et.al.|[2407.13746v1](http://arxiv.org/abs/2407.13746v1)|null|
+|**2024-07-18**|**Realizable $H$-Consistent and Bayes-Consistent Loss Functions for Learning to Defer**|Anqi Mao et.al.|[2407.13732v1](http://arxiv.org/abs/2407.13732v1)|null|
+|**2024-07-18**|**Enhanced $H$-Consistency Bounds**|Anqi Mao et.al.|[2407.13722v1](http://arxiv.org/abs/2407.13722v1)|null|
 |**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781v1](http://arxiv.org/abs/2407.12781v1)|null|
 |**2024-07-17**|**Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**|Matthew Tivnan et.al.|[2407.12780v1](http://arxiv.org/abs/2407.12780v1)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753v1](http://arxiv.org/abs/2407.12753v1)|null|
@@ -5291,6 +5301,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**CogniVoice: Multimodal and Multilingual Fusion Networks for Mild Cognitive Impairment Assessment from Spontaneous Speech**|Jiali Cheng et.al.|[2407.13660v1](http://arxiv.org/abs/2407.13660v1)|null|
+|**2024-07-18**|**Fusing Gathers with Integer Linear Programming**|David van Balen et.al.|[2407.13585v1](http://arxiv.org/abs/2407.13585v1)|null|
+|**2024-07-18**|**The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**|Thomas Eich et.al.|[2407.13539v1](http://arxiv.org/abs/2407.13539v1)|null|
+|**2024-07-18**|**Combining Constraint Programming Reasoning with Large Language Model Predictions**|Florian Régin et.al.|[2407.13490v1](http://arxiv.org/abs/2407.13490v1)|null|
+|**2024-07-18**|**DCNv3: Towards Next Generation Deep Cross Network for CTR Prediction**|Honghao Li et.al.|[2407.13349v1](http://arxiv.org/abs/2407.13349v1)|**[link](https://github.com/salmon1802/DCNv3)**|
+|**2024-07-18**|**Long-Term 3D Point Tracking By Cost Volume Fusion**|Hung Nguyen et.al.|[2407.13337v1](http://arxiv.org/abs/2407.13337v1)|null|
+|**2024-07-18**|**Can nuclear energy contribute to the energy transition?**|Axel Kleidon et.al.|[2407.13325v1](http://arxiv.org/abs/2407.13325v1)|null|
+|**2024-07-18**|**Semantic-aware Representation Learning for Homography Estimation**|Yuhan Liu et.al.|[2407.13284v1](http://arxiv.org/abs/2407.13284v1)|null|
+|**2024-07-18**|**LIDIA: Precise Liver Tumor Diagnosis on Multi-Phase Contrast-Enhanced CT via Iterative Fusion and Asymmetric Contrastive Learning**|Wei Huang et.al.|[2407.13217v1](http://arxiv.org/abs/2407.13217v1)|null|
+|**2024-07-18**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193v1](http://arxiv.org/abs/2407.13193v1)|null|
 |**2024-07-17**|**Deconfined quantum criticality of frustrated hard-core dipolar bosons**|Ya-Nan Wang et.al.|[2407.12770v1](http://arxiv.org/abs/2407.12770v1)|null|
 |**2024-07-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al.|[2407.12682v1](http://arxiv.org/abs/2407.12682v1)|null|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|
