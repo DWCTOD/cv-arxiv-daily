@@ -1,4 +1,4 @@
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 
 ## Video_Classification
 
@@ -5301,12 +5301,12 @@
 |**2024-07-18**|**Fusing Gathers with Integer Linear Programming**|David van Balen et.al.|[2407.13585v1](http://arxiv.org/abs/2407.13585v1)|null|
 |**2024-07-18**|**The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**|Thomas Eich et.al.|[2407.13539v1](http://arxiv.org/abs/2407.13539v1)|null|
 |**2024-07-18**|**Combining Constraint Programming Reasoning with Large Language Model Predictions**|Florian Régin et.al.|[2407.13490v1](http://arxiv.org/abs/2407.13490v1)|null|
-|**2024-07-18**|**DCNv3: Towards Next Generation Deep Cross Network for CTR Prediction**|Honghao Li et.al.|[2407.13349v1](http://arxiv.org/abs/2407.13349v1)|**[link](https://github.com/salmon1802/DCNv3)**|
+|**2024-07-19**|**DCNv3: Towards Next Generation Deep Cross Network for CTR Prediction**|Honghao Li et.al.|[2407.13349v2](http://arxiv.org/abs/2407.13349v2)|**[link](https://github.com/salmon1802/DCNv3)**|
 |**2024-07-18**|**Long-Term 3D Point Tracking By Cost Volume Fusion**|Hung Nguyen et.al.|[2407.13337v1](http://arxiv.org/abs/2407.13337v1)|null|
 |**2024-07-18**|**Can nuclear energy contribute to the energy transition?**|Axel Kleidon et.al.|[2407.13325v1](http://arxiv.org/abs/2407.13325v1)|null|
 |**2024-07-18**|**Semantic-aware Representation Learning for Homography Estimation**|Yuhan Liu et.al.|[2407.13284v1](http://arxiv.org/abs/2407.13284v1)|null|
 |**2024-07-18**|**LIDIA: Precise Liver Tumor Diagnosis on Multi-Phase Contrast-Enhanced CT via Iterative Fusion and Asymmetric Contrastive Learning**|Wei Huang et.al.|[2407.13217v1](http://arxiv.org/abs/2407.13217v1)|null|
-|**2024-07-18**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193v1](http://arxiv.org/abs/2407.13193v1)|null|
+|**2024-07-19**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193v2](http://arxiv.org/abs/2407.13193v2)|null|
 |**2024-07-17**|**Deconfined quantum criticality of frustrated hard-core dipolar bosons**|Ya-Nan Wang et.al.|[2407.12770v1](http://arxiv.org/abs/2407.12770v1)|null|
 |**2024-07-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al.|[2407.12682v1](http://arxiv.org/abs/2407.12682v1)|null|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663v1](http://arxiv.org/abs/2407.12663v1)|null|
