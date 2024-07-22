@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-19, **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks**, Sarah Jabbour et.al., Paper: [http://arxiv.org/abs/2407.14509v1](http://arxiv.org/abs/2407.14509v1)
+- 2024-07-19, **T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation**, Kaiyue Sun et.al., Paper: [http://arxiv.org/abs/2407.14505v1](http://arxiv.org/abs/2407.14505v1)
+- 2024-07-19, **Nonlinear Schrödinger Network**, Yiming Zhou et.al., Paper: [http://arxiv.org/abs/2407.14504v1](http://arxiv.org/abs/2407.14504v1)
+- 2024-07-19, **Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**, Sukrut Rao et.al., Paper: [http://arxiv.org/abs/2407.14499v1](http://arxiv.org/abs/2407.14499v1), Code: **[https://github.com/neuroexplicit-saar/discover-then-name](https://github.com/neuroexplicit-saar/discover-then-name)**
+- 2024-07-19, **Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**, Dongyang Wu et.al., Paper: [http://arxiv.org/abs/2407.14498v1](http://arxiv.org/abs/2407.14498v1)
+- 2024-07-19, **Evaluating the Reliability of Self-Explanations in Large Language Models**, Korbinian Randl et.al., Paper: [http://arxiv.org/abs/2407.14487v1](http://arxiv.org/abs/2407.14487v1), Code: **[https://github.com/k-randl/self-explaining_llms](https://github.com/k-randl/self-explaining_llms)**
+- 2024-07-19, **Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model**, Seonghui Min et.al., Paper: [http://arxiv.org/abs/2407.14434v1](http://arxiv.org/abs/2407.14434v1)
+- 2024-07-19, **Dataset Distillation in Medical Imaging: A Feasibility Study**, Muyang Li et.al., Paper: [http://arxiv.org/abs/2407.14429v1](http://arxiv.org/abs/2407.14429v1)
+- 2024-07-19, **Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**, Hyun-Jic Oh et.al., Paper: [http://arxiv.org/abs/2407.14426v1](http://arxiv.org/abs/2407.14426v1)
+- 2024-07-19, **Improving classification of road surface conditions via road area extraction and contrastive learning**, Linh Trinh et.al., Paper: [http://arxiv.org/abs/2407.14418v1](http://arxiv.org/abs/2407.14418v1)
 - 2024-07-18, **GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**, Abdelrahman Shaker et.al., Paper: [http://arxiv.org/abs/2407.13772v1](http://arxiv.org/abs/2407.13772v1)
 - 2024-07-18, **Addressing Imbalance for Class Incremental Learning in Medical Image Classification**, Xuze Hao et.al., Paper: [http://arxiv.org/abs/2407.13768v1](http://arxiv.org/abs/2407.13768v1)
 - 2024-07-18, **Shape of Motion: 4D Reconstruction from a Single Video**, Qianqian Wang et.al., Paper: [http://arxiv.org/abs/2407.13764v1](http://arxiv.org/abs/2407.13764v1)
@@ -5293,6 +5303,16 @@
 
 ## MultiModal
 
+- 2024-07-19, **Improving Retrieval in Sponsored Search by Leveraging Query Context Signals**, Akash Kumar Mohankumar et.al., Paper: [http://arxiv.org/abs/2407.14346v1](http://arxiv.org/abs/2407.14346v1)
+- 2024-07-19, **Modality-Order Matters! A Novel Hierarchical Feature Fusion Method for CoSAm: A Code-Switched Autism Corpus**, Mohd Mujtaba Akhtar et.al., Paper: [http://arxiv.org/abs/2407.14328v1](http://arxiv.org/abs/2407.14328v1)
+- 2024-07-19, **Ray tracing methods for wave propagation in moving anisotropic media : application to magnetized plasmas**, Aymeric Braud et.al., Paper: [http://arxiv.org/abs/2407.14308v1](http://arxiv.org/abs/2407.14308v1)
+- 2024-07-19, **OpenSU3D: Open World 3D Scene Understanding using Foundation Models**, Rafay Mohiuddin et.al., Paper: [http://arxiv.org/abs/2407.14279v1](http://arxiv.org/abs/2407.14279v1)
+- 2024-07-19, **ETSCL: An Evidence Theory-Based Supervised Contrastive Learning Framework for Multi-modal Glaucoma Grading**, Zhiyuan Yang et.al., Paper: [http://arxiv.org/abs/2407.14230v1](http://arxiv.org/abs/2407.14230v1), Code: **[https://github.com/master-Shix/ETSCL](https://github.com/master-Shix/ETSCL)**
+- 2024-07-19, **Double-Shot 3D Shape Measurement with a Dual-Branch Network**, Mingyang Lei et.al., Paper: [http://arxiv.org/abs/2407.14198v1](http://arxiv.org/abs/2407.14198v1)
+- 2024-07-19, **TaGAT: Topology-Aware Graph Attention Network For Multi-modal Retinal Image Fusion**, Xin Tian et.al., Paper: [http://arxiv.org/abs/2407.14188v1](http://arxiv.org/abs/2407.14188v1), Code: **[https://github.com/xintian-99/tagat](https://github.com/xintian-99/tagat)**
+- 2024-07-19, **Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion**, Linlan Huang et.al., Paper: [http://arxiv.org/abs/2407.14143v1](http://arxiv.org/abs/2407.14143v1)
+- 2024-07-19, **Mono-ViFI: A Unified Learning Framework for Self-supervised Single- and Multi-frame Monocular Depth Estimation**, Jinfeng Liu et.al., Paper: [http://arxiv.org/abs/2407.14126v1](http://arxiv.org/abs/2407.14126v1), Code: **[https://github.com/liujf1226/mono-vifi](https://github.com/liujf1226/mono-vifi)**
+- 2024-07-19, **MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion**, Qiyan Li et.al., Paper: [http://arxiv.org/abs/2407.14102v1](http://arxiv.org/abs/2407.14102v1)
 - 2024-07-18, **CogniVoice: Multimodal and Multilingual Fusion Networks for Mild Cognitive Impairment Assessment from Spontaneous Speech**, Jiali Cheng et.al., Paper: [http://arxiv.org/abs/2407.13660v1](http://arxiv.org/abs/2407.13660v1)
 - 2024-07-18, **Fusing Gathers with Integer Linear Programming**, David van Balen et.al., Paper: [http://arxiv.org/abs/2407.13585v1](http://arxiv.org/abs/2407.13585v1)
 - 2024-07-18, **The separatrix operational space of next-step fusion experiments: From ASDEX Upgrade data to SPARC scenarios**, Thomas Eich et.al., Paper: [http://arxiv.org/abs/2407.13539v1](http://arxiv.org/abs/2407.13539v1)
