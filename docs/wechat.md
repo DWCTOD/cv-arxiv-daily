@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-22, **AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**, Junyu Xie et.al., Paper: [http://arxiv.org/abs/2407.15850v1](http://arxiv.org/abs/2407.15850v1), Code: **[https://github.com/Jyxarthur/AutoAD-Zero](https://github.com/Jyxarthur/AutoAD-Zero)**
+- 2024-07-22, **SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**, Mingze Xu et.al., Paper: [http://arxiv.org/abs/2407.15841v1](http://arxiv.org/abs/2407.15841v1)
+- 2024-07-22, **QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**, Atharva Mete et.al., Paper: [http://arxiv.org/abs/2407.15840v1](http://arxiv.org/abs/2407.15840v1)
+- 2024-07-22, **Enhancing Cell Instance Segmentation in Scanning Electron Microscopy Images via a Deep Contour Closing Operator**, Florian Robert et.al., Paper: [http://arxiv.org/abs/2407.15817v1](http://arxiv.org/abs/2407.15817v1)
+- 2024-07-22, **Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning**, Zhecheng Yuan et.al., Paper: [http://arxiv.org/abs/2407.15815v1](http://arxiv.org/abs/2407.15815v1)
+- 2024-07-22, **The Evaporating Massive Embedded Stellar Cluster IRS 13 Close to Sgr A*. II. Kinematic structure**, Florian Peißker et.al., Paper: [http://arxiv.org/abs/2407.15800v1](http://arxiv.org/abs/2407.15800v1)
+- 2024-07-22, **Adaptive Extensions of Unbiased Risk Estimators for Unsupervised Magnetic Resonance Image Denoising**, Reeshad Khan et.al., Paper: [http://arxiv.org/abs/2407.15799v1](http://arxiv.org/abs/2407.15799v1)
+- 2024-07-22, **Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**, Guiqiu Liao et.al., Paper: [http://arxiv.org/abs/2407.15794v1](http://arxiv.org/abs/2407.15794v1)
+- 2024-07-22, **LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding**, Haoning Wu et.al., Paper: [http://arxiv.org/abs/2407.15754v1](http://arxiv.org/abs/2407.15754v1), Code: **[https://github.com/longvideobench/longvideobench](https://github.com/longvideobench/longvideobench)**
+- 2024-07-22, **SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**, Dimitrios Kollias et.al., Paper: [http://arxiv.org/abs/2407.15728v1](http://arxiv.org/abs/2407.15728v1)
 - 2024-07-19, **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks**, Sarah Jabbour et.al., Paper: [http://arxiv.org/abs/2407.14509v1](http://arxiv.org/abs/2407.14509v1)
 - 2024-07-19, **T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation**, Kaiyue Sun et.al., Paper: [http://arxiv.org/abs/2407.14505v1](http://arxiv.org/abs/2407.14505v1)
 - 2024-07-19, **Nonlinear Schrödinger Network**, Yiming Zhou et.al., Paper: [http://arxiv.org/abs/2407.14504v1](http://arxiv.org/abs/2407.14504v1)
@@ -5303,6 +5313,16 @@
 
 ## MultiModal
 
+- 2024-07-22, **Optimization complexity and resource minimization of emitter-based photonic graph state generation protocols**, Evangelia Takou et.al., Paper: [http://arxiv.org/abs/2407.15777v1](http://arxiv.org/abs/2407.15777v1)
+- 2024-07-22, **GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI**, Zhaojie Fang et.al., Paper: [http://arxiv.org/abs/2407.15719v1](http://arxiv.org/abs/2407.15719v1), Code: **[https://github.com/tinysqua/gfe-mamba](https://github.com/tinysqua/gfe-mamba)**
+- 2024-07-22, **MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**, Alexander Melekhin et.al., Paper: [http://arxiv.org/abs/2407.15663v1](http://arxiv.org/abs/2407.15663v1), Code: **[https://github.com/alexmelekhin/mssplace](https://github.com/alexmelekhin/mssplace)**
+- 2024-07-22, **MuTT: A Multimodal Trajectory Transformer for Robot Skills**, Claudius Kienle et.al., Paper: [http://arxiv.org/abs/2407.15660v1](http://arxiv.org/abs/2407.15660v1)
+- 2024-07-22, **Best of both worlds: Fusing hyperspectral data from two generations of spectro-imagers for X-ray astrophysics**, Julia Lascar et.al., Paper: [http://arxiv.org/abs/2407.15639v1](http://arxiv.org/abs/2407.15639v1)
+- 2024-07-22, **Probing Fine-Grained Action Understanding and Cross-View Generalization of Foundation Models**, Thinesh Thiyakesan Ponbagavathi et.al., Paper: [http://arxiv.org/abs/2407.15605v1](http://arxiv.org/abs/2407.15605v1)
+- 2024-07-22, **All rivers run into the sea: Unified Modality Brain-like Emotional Central Mechanism**, Xinji Mai et.al., Paper: [http://arxiv.org/abs/2407.15590v1](http://arxiv.org/abs/2407.15590v1)
+- 2024-07-22, **MODRL-TA:A Multi-Objective Deep Reinforcement Learning Framework for Traffic Allocation in E-Commerce Search**, Peng Cheng et.al., Paper: [http://arxiv.org/abs/2407.15476v1](http://arxiv.org/abs/2407.15476v1)
+- 2024-07-22, **X-Recon: Learning-based Patient-specific High-Resolution CT Reconstruction from Orthogonal X-Ray Images**, Yunpeng Wang et.al., Paper: [http://arxiv.org/abs/2407.15356v1](http://arxiv.org/abs/2407.15356v1), Code: **[https://github.com/wangyunpengbio/x-recon](https://github.com/wangyunpengbio/x-recon)**
+- 2024-07-22, **Explore the LiDAR-Camera Dynamic Adjustment Fusion for 3D Object Detection**, Yiran Yang et.al., Paper: [http://arxiv.org/abs/2407.15334v1](http://arxiv.org/abs/2407.15334v1)
 - 2024-07-19, **Improving Retrieval in Sponsored Search by Leveraging Query Context Signals**, Akash Kumar Mohankumar et.al., Paper: [http://arxiv.org/abs/2407.14346v1](http://arxiv.org/abs/2407.14346v1)
 - 2024-07-19, **Modality-Order Matters! A Novel Hierarchical Feature Fusion Method for CoSAm: A Code-Switched Autism Corpus**, Mohd Mujtaba Akhtar et.al., Paper: [http://arxiv.org/abs/2407.14328v1](http://arxiv.org/abs/2407.14328v1)
 - 2024-07-19, **Ray tracing methods for wave propagation in moving anisotropic media : application to magnetized plasmas**, Aymeric Braud et.al., Paper: [http://arxiv.org/abs/2407.14308v1](http://arxiv.org/abs/2407.14308v1)
