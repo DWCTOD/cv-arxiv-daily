@@ -1,15 +1,15 @@
-> Updated on 2024.07.23
+> Updated on 2024.07.24
 
 ## Video_Classification
 
 - 2024-07-22, **AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**, Junyu Xie et.al., Paper: [http://arxiv.org/abs/2407.15850v1](http://arxiv.org/abs/2407.15850v1), Code: **[https://github.com/Jyxarthur/AutoAD-Zero](https://github.com/Jyxarthur/AutoAD-Zero)**
 - 2024-07-22, **SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**, Mingze Xu et.al., Paper: [http://arxiv.org/abs/2407.15841v1](http://arxiv.org/abs/2407.15841v1)
-- 2024-07-22, **QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**, Atharva Mete et.al., Paper: [http://arxiv.org/abs/2407.15840v1](http://arxiv.org/abs/2407.15840v1)
+- 2024-07-23, **QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**, Atharva Mete et.al., Paper: [http://arxiv.org/abs/2407.15840v2](http://arxiv.org/abs/2407.15840v2)
 - 2024-07-22, **Enhancing Cell Instance Segmentation in Scanning Electron Microscopy Images via a Deep Contour Closing Operator**, Florian Robert et.al., Paper: [http://arxiv.org/abs/2407.15817v1](http://arxiv.org/abs/2407.15817v1)
 - 2024-07-22, **Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning**, Zhecheng Yuan et.al., Paper: [http://arxiv.org/abs/2407.15815v1](http://arxiv.org/abs/2407.15815v1)
 - 2024-07-22, **The Evaporating Massive Embedded Stellar Cluster IRS 13 Close to Sgr A*. II. Kinematic structure**, Florian Peißker et.al., Paper: [http://arxiv.org/abs/2407.15800v1](http://arxiv.org/abs/2407.15800v1)
 - 2024-07-22, **Adaptive Extensions of Unbiased Risk Estimators for Unsupervised Magnetic Resonance Image Denoising**, Reeshad Khan et.al., Paper: [http://arxiv.org/abs/2407.15799v1](http://arxiv.org/abs/2407.15799v1)
-- 2024-07-22, **Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**, Guiqiu Liao et.al., Paper: [http://arxiv.org/abs/2407.15794v1](http://arxiv.org/abs/2407.15794v1)
+- 2024-07-23, **Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**, Guiqiu Liao et.al., Paper: [http://arxiv.org/abs/2407.15794v2](http://arxiv.org/abs/2407.15794v2)
 - 2024-07-22, **LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding**, Haoning Wu et.al., Paper: [http://arxiv.org/abs/2407.15754v1](http://arxiv.org/abs/2407.15754v1), Code: **[https://github.com/longvideobench/longvideobench](https://github.com/longvideobench/longvideobench)**
 - 2024-07-22, **SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**, Dimitrios Kollias et.al., Paper: [http://arxiv.org/abs/2407.15728v1](http://arxiv.org/abs/2407.15728v1)
 - 2024-07-19, **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks**, Sarah Jabbour et.al., Paper: [http://arxiv.org/abs/2407.14509v1](http://arxiv.org/abs/2407.14509v1)
