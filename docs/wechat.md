@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-24, **SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2407.17470v1](http://arxiv.org/abs/2407.17470v1)
+- 2024-07-24, **SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**, Jianpeng Yao et.al., Paper: [http://arxiv.org/abs/2407.17460v1](http://arxiv.org/abs/2407.17460v1)
+- 2024-07-24, **EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**, Joana Reuss et.al., Paper: [http://arxiv.org/abs/2407.17458v1](http://arxiv.org/abs/2407.17458v1)
+- 2024-07-24, **HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2407.17438v1](http://arxiv.org/abs/2407.17438v1), Code: **[https://github.com/zhenzhiwang/humanvid](https://github.com/zhenzhiwang/humanvid)**
+- 2024-07-24, **Systematic study of High $E_J/E_C$ transmon qudits up to $d = 12$**, Z. Wang et.al., Paper: [http://arxiv.org/abs/2407.17407v1](http://arxiv.org/abs/2407.17407v1)
+- 2024-07-24, **Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**, Sébastien Herbreteau et.al., Paper: [http://arxiv.org/abs/2407.17399v1](http://arxiv.org/abs/2407.17399v1)
+- 2024-07-24, **Sampling-Based Hierarchical Trajectory Planning for Formation Flight**, Qingzhao Liu et.al., Paper: [http://arxiv.org/abs/2407.17392v1](http://arxiv.org/abs/2407.17392v1)
+- 2024-07-24, **2D and 3D Deep Learning Models for MRI-based Parkinson's Disease Classification: A Comparative Analysis of Convolutional Kolmogorov-Arnold Networks, Convolutional Neural Networks, and Graph Convolutional Networks**, Salil B Patel et.al., Paper: [http://arxiv.org/abs/2407.17380v1](http://arxiv.org/abs/2407.17380v1)
+- 2024-07-24, **Entropy Reweighted Conformal Classification**, Rui Luo et.al., Paper: [http://arxiv.org/abs/2407.17377v1](http://arxiv.org/abs/2407.17377v1)
+- 2024-07-24, **MuST: Multi-Scale Transformers for Surgical Phase Recognition**, Alejandra Pérez et.al., Paper: [http://arxiv.org/abs/2407.17361v1](http://arxiv.org/abs/2407.17361v1)
 - 2024-07-23, **Explanation Regularisation through the Lens of Attributions**, Pedro Ferreira et.al., Paper: [http://arxiv.org/abs/2407.16693v1](http://arxiv.org/abs/2407.16693v1)
 - 2024-07-23, **On the local cohomology of secant varieties**, Sebastian Olano et.al., Paper: [http://arxiv.org/abs/2407.16688v1](http://arxiv.org/abs/2407.16688v1)
 - 2024-07-23, **AutoRG-Brain: Grounded Report Generation for Brain MRI**, Jiayu Lei et.al., Paper: [http://arxiv.org/abs/2407.16684v1](http://arxiv.org/abs/2407.16684v1)
@@ -5323,6 +5333,12 @@
 
 ## MultiModal
 
+- 2024-07-24, **AHMF: Adaptive Hybrid-Memory-Fusion Model for Driver Attention Prediction**, Dongyang Xu et.al., Paper: [http://arxiv.org/abs/2407.17442v1](http://arxiv.org/abs/2407.17442v1)
+- 2024-07-24, **Enhanced SMC$^2$: Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**, Conor Rosato et.al., Paper: [http://arxiv.org/abs/2407.17296v1](http://arxiv.org/abs/2407.17296v1)
+- 2024-07-24, **Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion**, Guanyuan Yu et.al., Paper: [http://arxiv.org/abs/2407.17190v1](http://arxiv.org/abs/2407.17190v1)
+- 2024-07-24, **Trans2Unet: Neural fusion for Nuclei Semantic Segmentation**, Dinh-Phu Tran et.al., Paper: [http://arxiv.org/abs/2407.17181v1](http://arxiv.org/abs/2407.17181v1)
+- 2024-07-24, **Affective Behaviour Analysis via Progressive Learning**, Chen Liu et.al., Paper: [http://arxiv.org/abs/2407.16945v1](http://arxiv.org/abs/2407.16945v1)
+- 2024-07-23, **Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**, Abhi Kamboj et.al., Paper: [http://arxiv.org/abs/2407.16803v1](http://arxiv.org/abs/2407.16803v1)
 - 2024-07-24, **Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**, Seamie Hayes et.al., Paper: [http://arxiv.org/abs/2407.16636v2](http://arxiv.org/abs/2407.16636v2)
 - 2024-07-23, **HAPFI: History-Aware Planning based on Fused Information**, Sujin Jeon et.al., Paper: [http://arxiv.org/abs/2407.16533v1](http://arxiv.org/abs/2407.16533v1)
 - 2024-07-23, **SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval**, Longtao Jiang et.al., Paper: [http://arxiv.org/abs/2407.16394v1](http://arxiv.org/abs/2407.16394v1), Code: **[https://github.com/longtaojiang/seds](https://github.com/longtaojiang/seds)**
