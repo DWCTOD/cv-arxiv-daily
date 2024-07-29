@@ -1,17 +1,17 @@
-> Updated on 2024.07.28
+> Updated on 2024.07.29
 
 ## Video_Classification
 
 - 2024-07-25, **Review of Degenerate Higher Order Scalar Tensor Theories in Cosmology**, Andrei Lazanu et.al., Paper: [http://arxiv.org/abs/2407.18234v1](http://arxiv.org/abs/2407.18234v1)
 - 2024-07-25, **One-point Statistics in various cosmic environments in the presence of massive neutrinos**, Mohadese Khoshtinat et.al., Paper: [http://arxiv.org/abs/2407.18233v1](http://arxiv.org/abs/2407.18233v1)
-- 2024-07-25, **Advanced depth estimation and 3D geometry reconstruction using Bayesian Helmholtz stereopsis with belief propagation**, Razieh Azizi et.al., Paper: [http://arxiv.org/abs/2407.18195v1](http://arxiv.org/abs/2407.18195v1)
+- 2024-07-26, **Enhanced Depth Estimation and 3D Geometry Reconstruction using Bayesian Helmholtz Stereopsis with Belief Propagation**, Razieh Azizi et.al., Paper: [http://arxiv.org/abs/2407.18195v2](http://arxiv.org/abs/2407.18195v2)
 - 2024-07-25, **PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations**, Cheng Qian et.al., Paper: [http://arxiv.org/abs/2407.18178v1](http://arxiv.org/abs/2407.18178v1)
-- 2024-07-25, **On-chip near-infrared spectroscopic sensing with over 520nm bandwidth**, Chunhui Yao et.al., Paper: [http://arxiv.org/abs/2407.18172v1](http://arxiv.org/abs/2407.18172v1)
+- 2024-07-26, **On-chip near-infrared spectroscopic sensing with over 520nm bandwidth**, Chunhui Yao et.al., Paper: [http://arxiv.org/abs/2407.18172v2](http://arxiv.org/abs/2407.18172v2)
 - 2024-07-25, **IRIS: Wireless Ring for Vision-based Smart Home Interaction**, Maruchi Kim et.al., Paper: [http://arxiv.org/abs/2407.18141v1](http://arxiv.org/abs/2407.18141v1)
 - 2024-07-25, **XS-VID: An Extremely Small Video Object Detection Dataset**, Jiahao Guo et.al., Paper: [http://arxiv.org/abs/2407.18137v1](http://arxiv.org/abs/2407.18137v1)
 - 2024-07-25, **Estimating Earthquake Magnitude in Sentinel-1 Imagery via Ranking**, Daniele Rege Cambrin et.al., Paper: [http://arxiv.org/abs/2407.18128v1](http://arxiv.org/abs/2407.18128v1)
 - 2024-07-25, **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**, Roberto Di Via et.al., Paper: [http://arxiv.org/abs/2407.18125v1](http://arxiv.org/abs/2407.18125v1)
-- 2024-07-25, **Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**, Jack Breen et.al., Paper: [http://arxiv.org/abs/2407.18105v1](http://arxiv.org/abs/2407.18105v1)
+- 2024-07-25, **Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**, Jack Breen et.al., Paper: [http://arxiv.org/abs/2407.18105v1](http://arxiv.org/abs/2407.18105v1), Code: **[https://github.com/scjjb/MultiscalePathGraph](https://github.com/scjjb/MultiscalePathGraph)**
 - 2024-07-24, **SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2407.17470v1](http://arxiv.org/abs/2407.17470v1)
 - 2024-07-24, **SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**, Jianpeng Yao et.al., Paper: [http://arxiv.org/abs/2407.17460v1](http://arxiv.org/abs/2407.17460v1)
 - 2024-07-24, **EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**, Joana Reuss et.al., Paper: [http://arxiv.org/abs/2407.17458v1](http://arxiv.org/abs/2407.17458v1)
