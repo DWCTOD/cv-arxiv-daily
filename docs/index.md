@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction**|Çağhan Köksal et.al.|[2407.20214v1](http://arxiv.org/abs/2407.20214v1)|null|
+|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v1](http://arxiv.org/abs/2407.20198v1)|null|
+|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|null|
+|**2024-07-29**|**Theia: Distilling Diverse Vision Foundation Models for Robot Learning**|Jinghuan Shang et.al.|[2407.20179v1](http://arxiv.org/abs/2407.20179v1)|**[link](https://github.com/bdaiinstitute/theia)**|
+|**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172v1](http://arxiv.org/abs/2407.20172v1)|**[link](https://github.com/bugs-creator/latentartifusion)**|
+|**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v1](http://arxiv.org/abs/2407.20171v1)|null|
+|**2024-07-29**|**Language-Conditioned Offline RL for Multi-Robot Navigation**|Steven Morad et.al.|[2407.20164v1](http://arxiv.org/abs/2407.20164v1)|null|
+|**2024-07-29**|**Quantum Machine Learning Architecture Search via Deep Reinforcement Learning**|Xin Dai et.al.|[2407.20147v1](http://arxiv.org/abs/2407.20147v1)|null|
+|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v1](http://arxiv.org/abs/2407.20124v1)|**[link](https://github.com/zeyuzhangzyz/axiomvision)**|
+|**2024-07-29**|**Integrable and superintegrable quantum mechanical systems with position dependent masses invariant with respect to one parametric Lie groups. 2. Systems with dilatation and shift symmetries**|A. G. Nikitin et.al.|[2407.20112v1](http://arxiv.org/abs/2407.20112v1)|null|
 |**2024-07-26**|**HRP: Human Affordances for Robotic Pre-Training**|Mohan Kumar Srirama et.al.|[2407.18911v1](http://arxiv.org/abs/2407.18911v1)|null|
 |**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908v1](http://arxiv.org/abs/2407.18908v1)|null|
 |**2024-07-26**|**A Scalable Quantum Non-local Neural Network for Image Classification**|Sparsh Gupta et.al.|[2407.18906v1](http://arxiv.org/abs/2407.18906v1)|**[link](https://github.com/sparshgup/QNL-Net)**|
@@ -5361,6 +5371,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Propagation of Uncertainty with the Koopman Operator**|Simone Servadio et.al.|[2407.20170v1](http://arxiv.org/abs/2407.20170v1)|null|
+|**2024-07-29**|**Strong Copyright Protection for Language Models via Adaptive Model Fusion**|Javier Abad et.al.|[2407.20105v1](http://arxiv.org/abs/2407.20105v1)|null|
+|**2024-07-29**|**Infrared Small Target Detection based on Adjustable Sensitivity Strategy and Multi-Scale Fusion**|Jinmiao Zhao et.al.|[2407.20090v1](http://arxiv.org/abs/2407.20090v1)|null|
+|**2024-07-29**|**Systematic study of complete fusion suppression for 6,7 Li nuclei using artificial neural network**|D. Chattopadhyay et.al.|[2407.20049v1](http://arxiv.org/abs/2407.20049v1)|null|
+|**2024-07-29**|**MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion**|Chencan Fu et.al.|[2407.19976v1](http://arxiv.org/abs/2407.19976v1)|null|
+|**2024-07-29**|**Integrated Scenario-based Analysis: A data-driven approach to support automated driving systems development and safety evaluation**|Gibran Ali et.al.|[2407.19975v1](http://arxiv.org/abs/2407.19975v1)|null|
+|**2024-07-29**|**A Unified Graph Transformer for Overcoming Isolations in Multi-modal Recommendation**|Zixuan Yi et.al.|[2407.19886v1](http://arxiv.org/abs/2407.19886v1)|null|
+|**2024-07-29**|**Exploring Robust Face-Voice Matching in Multilingual Environments**|Jiehui Tang et.al.|[2407.19875v1](http://arxiv.org/abs/2407.19875v1)|null|
+|**2024-07-29**|**Cool-Fusion: Fuse Large Language Models without Training**|Cong Liu et.al.|[2407.19807v1](http://arxiv.org/abs/2407.19807v1)|null|
+|**2024-07-29**|**Rethinking RGB-D Fusion for Semantic Segmentation in Surgical Datasets**|Muhammad Abdullah Jamal et.al.|[2407.19714v1](http://arxiv.org/abs/2407.19714v1)|null|
 |**2024-07-26**|**Cross-Calibration and First Vertical ECE Measurement of Electron Energy Distribution in the TCV Tokamak**|A. Tema Biwole et.al.|[2407.18780v1](http://arxiv.org/abs/2407.18780v1)|null|
 |**2024-07-26**|**Content-driven Magnitude-Derivative Spectrum Complementary Learning for Hyperspectral Image Classification**|Huiyan Bai et.al.|[2407.18593v1](http://arxiv.org/abs/2407.18593v1)|null|
 |**2024-07-26**|**Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention**|Joe Dhanith P R et.al.|[2407.18552v1](http://arxiv.org/abs/2407.18552v1)|null|
