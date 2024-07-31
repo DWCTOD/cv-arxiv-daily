@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-07-30, **Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**, Marcelo Matheus Gauy et.al., Paper: [http://arxiv.org/abs/2407.20989v1](http://arxiv.org/abs/2407.20989v1)
+- 2024-07-30, **Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**, Isaiah A. Moses et.al., Paper: [http://arxiv.org/abs/2407.20975v1](http://arxiv.org/abs/2407.20975v1)
+- 2024-07-30, **MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**, Xiaowei Chi et.al., Paper: [http://arxiv.org/abs/2407.20962v1](http://arxiv.org/abs/2407.20962v1), Code: **[https://github.com/litwellchi/mmtrail](https://github.com/litwellchi/mmtrail)**
+- 2024-07-30, **EAR: Edge-Aware Reconstruction of 3-D vertebrae structures from bi-planar X-ray images**, Lixing Tan et.al., Paper: [http://arxiv.org/abs/2407.20937v1](http://arxiv.org/abs/2407.20937v1)
+- 2024-07-30, **Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**, Yanpeng Zhao et.al., Paper: [http://arxiv.org/abs/2407.20908v1](http://arxiv.org/abs/2407.20908v1), Code: **[https://github.com/zyp123494/dynavol](https://github.com/zyp123494/dynavol)**
+- 2024-07-30, **Simultaneous Multi-Slice Diffusion Imaging using Navigator-free Multishot Spiral Acquisition**, Yuancheng Jiang et.al., Paper: [http://arxiv.org/abs/2407.20904v1](http://arxiv.org/abs/2407.20904v1)
+- 2024-07-30, **Faithful and Plausible Natural Language Explanations for Image Classification: A Pipeline Approach**, Adam Wojciechowski et.al., Paper: [http://arxiv.org/abs/2407.20899v1](http://arxiv.org/abs/2407.20899v1)
+- 2024-07-30, **MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network**, Yinlong Xu et.al., Paper: [http://arxiv.org/abs/2407.20893v1](http://arxiv.org/abs/2407.20893v1)
+- 2024-07-30, **Shift operators and their classification**, Maria Carvalho et.al., Paper: [http://arxiv.org/abs/2407.20890v1](http://arxiv.org/abs/2407.20890v1)
+- 2024-07-30, **Effective Black Box Testing of Sentiment Analysis Classification Networks**, Parsa Karbasizadeh et.al., Paper: [http://arxiv.org/abs/2407.20884v1](http://arxiv.org/abs/2407.20884v1)
 - 2024-07-29, **SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow Prediction**, Çağhan Köksal et.al., Paper: [http://arxiv.org/abs/2407.20214v1](http://arxiv.org/abs/2407.20214v1)
 - 2024-07-30, **SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**, Jian Wang et.al., Paper: [http://arxiv.org/abs/2407.20198v2](http://arxiv.org/abs/2407.20198v2)
 - 2024-07-29, **Radiance Fields for Robotic Teleoperation**, Maximum Wilder-Smith et.al., Paper: [http://arxiv.org/abs/2407.20194v1](http://arxiv.org/abs/2407.20194v1)
@@ -5363,6 +5373,16 @@
 
 ## MultiModal
 
+- 2024-07-30, **Comparative Analyses of the Type D ASEP: Stochastic Fusion and Crystal Bases**, Erik Brodsky et.al., Paper: [http://arxiv.org/abs/2407.21015v1](http://arxiv.org/abs/2407.21015v1)
+- 2024-07-30, **NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding**, Hongjia Zhai et.al., Paper: [http://arxiv.org/abs/2407.20853v1](http://arxiv.org/abs/2407.20853v1)
+- 2024-07-30, **Exact boundary-value solution for an electromagnetic wave propagating in a linearly-varying index of refraction**, N. A. Lopez et.al., Paper: [http://arxiv.org/abs/2407.20838v1](http://arxiv.org/abs/2407.20838v1)
+- 2024-07-30, **Dynamics and Fusion of Majorana Zero Modes in Quantum-dot based Interacting Kitaev Chains**, Bradraj Pandey et.al., Paper: [http://arxiv.org/abs/2407.20783v1](http://arxiv.org/abs/2407.20783v1)
+- 2024-07-30, **On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**, Xu Chen et.al., Paper: [http://arxiv.org/abs/2407.20710v1](http://arxiv.org/abs/2407.20710v1)
+- 2024-07-30, **HEFT's appraisal of triple (versus double) Higgs weak boson fusion**, Anisha et.al., Paper: [http://arxiv.org/abs/2407.20706v1](http://arxiv.org/abs/2407.20706v1)
+- 2024-07-30, **Investigating Mass Reduction Capabilities of Additive Manufacturing through the Re-Design of a Space-Based Mirror**, Rhys Tuck et.al., Paper: [http://arxiv.org/abs/2407.20681v1](http://arxiv.org/abs/2407.20681v1)
+- 2024-07-30, **Knowledge Fused Recognition: Fusing Hierarchical Knowledge for Image Recognition through Quantitative Relativity Modeling and Deep Metric Learning**, Yunfeng Zhao et.al., Paper: [http://arxiv.org/abs/2407.20600v1](http://arxiv.org/abs/2407.20600v1)
+- 2024-07-30, **Robust CNN Multi-Nested-LSTM Framework with Compound Loss for Patch-based Multi-Push Ultrasound Shear Wave Imaging and Segmentation**, Md. Jahin Alam et.al., Paper: [http://arxiv.org/abs/2407.20558v1](http://arxiv.org/abs/2407.20558v1)
+- 2024-07-30, **SuperCodec: A Neural Speech Codec with Selective Back-Projection Network**, Youqiang Zheng et.al., Paper: [http://arxiv.org/abs/2407.20530v1](http://arxiv.org/abs/2407.20530v1)
 - 2024-07-29, **Propagation of Uncertainty with the Koopman Operator**, Simone Servadio et.al., Paper: [http://arxiv.org/abs/2407.20170v1](http://arxiv.org/abs/2407.20170v1)
 - 2024-07-29, **Strong Copyright Protection for Language Models via Adaptive Model Fusion**, Javier Abad et.al., Paper: [http://arxiv.org/abs/2407.20105v1](http://arxiv.org/abs/2407.20105v1)
 - 2024-07-29, **Infrared Small Target Detection based on Adjustable Sensitivity Strategy and Multi-Scale Fusion**, Jinmiao Zhao et.al., Paper: [http://arxiv.org/abs/2407.20090v1](http://arxiv.org/abs/2407.20090v1)
