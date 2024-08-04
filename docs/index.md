@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759v1](http://arxiv.org/abs/2408.00759v1)|null|
+|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
+|**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754v1](http://arxiv.org/abs/2408.00754v1)|null|
+|**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728v1](http://arxiv.org/abs/2408.00728v1)|null|
+|**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714v1](http://arxiv.org/abs/2408.00714v1)|null|
+|**2024-08-01**|**Investigating Brain Connectivity and Regional Statistics from EEG for early stage Parkinson's Classification**|Amarpal Sahota et.al.|[2408.00711v1](http://arxiv.org/abs/2408.00711v1)|null|
+|**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
+|**2024-08-01**|**Granular-Balls based Fuzzy Twin Support Vector Machine for Classification**|Lixi Zhao et.al.|[2408.00699v1](http://arxiv.org/abs/2408.00699v1)|null|
+|**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672v1](http://arxiv.org/abs/2408.00672v1)|null|
+|**2024-08-01**|**AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models**|Daqin Luo et.al.|[2408.00665v1](http://arxiv.org/abs/2408.00665v1)|null|
 |**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783v1](http://arxiv.org/abs/2407.21783v1)|null|
 |**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773v1](http://arxiv.org/abs/2407.21773v1)|null|
 |**2024-07-31**|**ReplanVLM: Replanning Robotic Tasks with Visual Language Models**|Aoran Mei et.al.|[2407.21762v1](http://arxiv.org/abs/2407.21762v1)|null|
@@ -5391,6 +5401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565v1](http://arxiv.org/abs/2408.00565v1)|null|
+|**2024-08-01**|**Identifying the Hierarchical Emotional Areas in the Human Brain Through Information Fusion**|Zhongyu Huang et.al.|[2408.00525v1](http://arxiv.org/abs/2408.00525v1)|null|
+|**2024-08-01**|**Asymptotic windings, surface helicity and their applications in plasma physics**|Wadim Gerner et.al.|[2408.00492v1](http://arxiv.org/abs/2408.00492v1)|null|
+|**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438v1](http://arxiv.org/abs/2408.00438v1)|null|
+|**2024-08-01**|**Few-shot Defect Image Generation based on Consistency Modeling**|Qingfeng Shi et.al.|[2408.00372v1](http://arxiv.org/abs/2408.00372v1)|null|
+|**2024-08-01**|**Multimodal Fusion and Coherence Modeling for Video Topic Segmentation**|Hai Yu et.al.|[2408.00365v1](http://arxiv.org/abs/2408.00365v1)|null|
+|**2024-08-01**|**Effects of plasma nonuniformity on zero frequency zonal structure generation by drift Alfven wave instabilities in toroidal plasmas**|Zhiyong Qiu et.al.|[2408.00324v1](http://arxiv.org/abs/2408.00324v1)|null|
+|**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280v1](http://arxiv.org/abs/2408.00280v1)|null|
+|**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257v1](http://arxiv.org/abs/2408.00257v1)|null|
+|**2024-07-31**|**CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation**|Shreyank N Gowda et.al.|[2408.00181v1](http://arxiv.org/abs/2408.00181v1)|null|
 |**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770v1](http://arxiv.org/abs/2407.21770v1)|null|
 |**2024-07-31**|**Minimal Quantum Circuits for Simulating Fibonacci Anyons**|Sary Bseiso et.al.|[2407.21761v1](http://arxiv.org/abs/2407.21761v1)|null|
 |**2024-07-31**|**Unifying Event-based Flow, Stereo and Depth Estimation via Feature Similarity Matching**|Pengjie Zhang et.al.|[2407.21735v1](http://arxiv.org/abs/2407.21735v1)|null|
