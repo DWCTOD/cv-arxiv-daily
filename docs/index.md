@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415v1](http://arxiv.org/abs/2408.01415v1)|null|
+|**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408v1](http://arxiv.org/abs/2408.01408v1)|null|
+|**2024-08-02**|**NOLO: Navigate Only Look Once**|Bohan Zhou et.al.|[2408.01384v1](http://arxiv.org/abs/2408.01384v1)|null|
+|**2024-08-02**|**Explaining a probabilistic prediction on the simplex with Shapley compositions**|Paul-Gauthier Noé et.al.|[2408.01382v1](http://arxiv.org/abs/2408.01382v1)|null|
+|**2024-08-02**|**Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01372v1](http://arxiv.org/abs/2408.01372v1)|null|
+|**2024-08-02**|**Classification of marked elliptic root systems with non-reduced quotient**|A. Fialowski et.al.|[2408.01358v1](http://arxiv.org/abs/2408.01358v1)|null|
+|**2024-08-02**|**Harmonized connectome resampling for variance in voxel sizes**|Elyssa M. McMaster et.al.|[2408.01351v1](http://arxiv.org/abs/2408.01351v1)|null|
+|**2024-08-02**|**Human foraging strategies flexibly adapt to resource distribution and time constraints**|Valeria Simonelli et.al.|[2408.01350v1](http://arxiv.org/abs/2408.01350v1)|null|
+|**2024-08-02**|**PC$^2$: Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**|Yue Duan et.al.|[2408.01349v1](http://arxiv.org/abs/2408.01349v1)|null|
+|**2024-08-02**|**Prompt Refinement or Fine-tuning? Best Practices for using LLMs in Computational Social Science Tasks**|Anders Giovanni Møller et.al.|[2408.01346v1](http://arxiv.org/abs/2408.01346v1)|null|
 |**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759v1](http://arxiv.org/abs/2408.00759v1)|null|
 |**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754v1](http://arxiv.org/abs/2408.00754v1)|null|
@@ -5401,6 +5411,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01372v1](http://arxiv.org/abs/2408.01372v1)|null|
+|**2024-08-02**|**Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**|Ruoxuan Feng et.al.|[2408.01366v1](http://arxiv.org/abs/2408.01366v1)|null|
+|**2024-08-02**|**StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation**|Bingyu Li et.al.|[2408.01343v1](http://arxiv.org/abs/2408.01343v1)|null|
+|**2024-08-02**|**Deep Learning based Visually Rich Document Content Understanding: A Survey**|Yihao Ding et.al.|[2408.01287v1](http://arxiv.org/abs/2408.01287v1)|null|
+|**2024-08-02**|**A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness**|Lutao Jiang et.al.|[2408.01269v1](http://arxiv.org/abs/2408.01269v1)|null|
+|**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225v1](http://arxiv.org/abs/2408.01225v1)|null|
+|**2024-08-02**|**Access and sustainment of ELMy H-mode operation for ITER Pre-Fusion Power Operation plasmas using JINTRAC**|E. Tholerus et.al.|[2408.01222v1](http://arxiv.org/abs/2408.01222v1)|null|
+|**2024-08-02**|**From Problem to Solution: Bio-inspired 3D Printing for Bonding Soft and Rigid Materials via Underextrusions**|Arman Goshtasbi et.al.|[2408.01210v1](http://arxiv.org/abs/2408.01210v1)|null|
+|**2024-08-02**|**DERA: Dense Entity Retrieval for Entity Alignment in Knowledge Graphs**|Zhichun Wang et.al.|[2408.01154v1](http://arxiv.org/abs/2408.01154v1)|null|
+|**2024-08-02**|**An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding**|Wei Chen et.al.|[2408.01120v1](http://arxiv.org/abs/2408.01120v1)|null|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565v1](http://arxiv.org/abs/2408.00565v1)|null|
 |**2024-08-01**|**Identifying the Hierarchical Emotional Areas in the Human Brain Through Information Fusion**|Zhongyu Huang et.al.|[2408.00525v1](http://arxiv.org/abs/2408.00525v1)|null|
 |**2024-08-02**|**Asymptotic windings, surface helicity and their applications in plasma physics**|Wadim Gerner et.al.|[2408.00492v2](http://arxiv.org/abs/2408.00492v2)|null|
