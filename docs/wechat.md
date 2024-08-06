@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-05, **Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**, Shishira R Maiya et.al., Paper: [http://arxiv.org/abs/2408.02672v1](http://arxiv.org/abs/2408.02672v1)
+- 2024-08-05, **Interactive 3D Medical Image Segmentation with SAM 2**, Chuyun Shen et.al., Paper: [http://arxiv.org/abs/2408.02635v1](http://arxiv.org/abs/2408.02635v1)
+- 2024-08-05, **VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2408.02629v1](http://arxiv.org/abs/2408.02629v1)
+- 2024-08-05, **DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions**, Siying Hu et.al., Paper: [http://arxiv.org/abs/2408.02574v1](http://arxiv.org/abs/2408.02574v1)
+- 2024-08-05, **Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification**, Paweł Zyblewski et.al., Paper: [http://arxiv.org/abs/2408.02568v1](http://arxiv.org/abs/2408.02568v1)
+- 2024-08-05, **HQOD: Harmonious Quantization for Object Detection**, Long Huang et.al., Paper: [http://arxiv.org/abs/2408.02561v1](http://arxiv.org/abs/2408.02561v1)
+- 2024-08-05, **The effect of dynamical states on galaxy clusters populations. I. Classification of dynamical states**, S. Véliz Astudillo et.al., Paper: [http://arxiv.org/abs/2408.02519v1](http://arxiv.org/abs/2408.02519v1)
+- 2024-08-05, **Automatic rating of incomplete hippocampal inversions evaluated across multiple cohorts**, Lisa Hemforth et.al., Paper: [http://arxiv.org/abs/2408.02496v1](http://arxiv.org/abs/2408.02496v1)
+- 2024-08-05, **HyperSpaceX: Radial and Angular Exploration of HyperSpherical Dimensions**, Chiranjeev Chiranjeev et.al., Paper: [http://arxiv.org/abs/2408.02494v1](http://arxiv.org/abs/2408.02494v1)
+- 2024-08-05, **Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**, Ting Lei et.al., Paper: [http://arxiv.org/abs/2408.02484v1](http://arxiv.org/abs/2408.02484v1)
 - 2024-08-02, **Conditional LoRA Parameter Generation**, Xiaolong Jin et.al., Paper: [http://arxiv.org/abs/2408.01415v1](http://arxiv.org/abs/2408.01415v1)
 - 2024-08-02, **Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**, Yen-Che Hsiao et.al., Paper: [http://arxiv.org/abs/2408.01408v1](http://arxiv.org/abs/2408.01408v1)
 - 2024-08-02, **NOLO: Navigate Only Look Once**, Bohan Zhou et.al., Paper: [http://arxiv.org/abs/2408.01384v1](http://arxiv.org/abs/2408.01384v1)
@@ -5403,6 +5413,16 @@
 
 ## MultiModal
 
+- 2024-08-05, **Noninvertible Gauge Symmetry in (2+1)d Topological Orders: A String-Net Model Realization**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2408.02664v1](http://arxiv.org/abs/2408.02664v1)
+- 2024-08-05, **Language Model Can Listen While Speaking**, Ziyang Ma et.al., Paper: [http://arxiv.org/abs/2408.02622v1](http://arxiv.org/abs/2408.02622v1)
+- 2024-08-05, **Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**, Sajal Aggarwal et.al., Paper: [http://arxiv.org/abs/2408.02595v1](http://arxiv.org/abs/2408.02595v1)
+- 2024-08-05, **Contrastive Learning-based Multi Modal Architecture for Emoticon Prediction by Employing Image-Text Pairs**, Ananya Pandey et.al., Paper: [http://arxiv.org/abs/2408.02571v1](http://arxiv.org/abs/2408.02571v1)
+- 2024-08-05, **Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification**, Paweł Zyblewski et.al., Paper: [http://arxiv.org/abs/2408.02568v1](http://arxiv.org/abs/2408.02568v1)
+- 2024-08-05, **Estimating Pore Location of PBF-LB/M Processes with Segmentation Models**, Hans Aoyang Zhou et.al., Paper: [http://arxiv.org/abs/2408.02507v1](http://arxiv.org/abs/2408.02507v1)
+- 2024-08-05, **RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation**, Shuolong Chen et.al., Paper: [http://arxiv.org/abs/2408.02444v1](http://arxiv.org/abs/2408.02444v1)
+- 2024-08-05, **FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification**, Yijin Huang et.al., Paper: [http://arxiv.org/abs/2408.02426v1](http://arxiv.org/abs/2408.02426v1)
+- 2024-08-05, **Fusion and specialization for type ADE shuffle algebras**, Andrei Neguţ et.al., Paper: [http://arxiv.org/abs/2408.02411v1](http://arxiv.org/abs/2408.02411v1)
+- 2024-08-05, **Strategic Federated Learning: Application to Smart Meter Data Clustering**, Hassan Mohamad et.al., Paper: [http://arxiv.org/abs/2408.02384v1](http://arxiv.org/abs/2408.02384v1)
 - 2024-08-02, **Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**, Muhammad Ahmad et.al., Paper: [http://arxiv.org/abs/2408.01372v1](http://arxiv.org/abs/2408.01372v1)
 - 2024-08-02, **Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**, Ruoxuan Feng et.al., Paper: [http://arxiv.org/abs/2408.01366v1](http://arxiv.org/abs/2408.01366v1)
 - 2024-08-02, **StitchFusion: Weaving Any Visual Modalities to Enhance Multimodal Semantic Segmentation**, Bingyu Li et.al., Paper: [http://arxiv.org/abs/2408.01343v1](http://arxiv.org/abs/2408.01343v1)
