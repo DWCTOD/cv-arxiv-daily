@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-07, **How Well Can Vision Language Models See Image Details?**, Chenhui Gou et.al., Paper: [http://arxiv.org/abs/2408.03940v1](http://arxiv.org/abs/2408.03940v1)
+- 2024-08-07, **Fast Sprite Decomposition from Animated Graphics**, Tomoyuki Suzuki et.al., Paper: [http://arxiv.org/abs/2408.03923v1](http://arxiv.org/abs/2408.03923v1)
+- 2024-08-07, **FMiFood: Multi-modal Contrastive Learning for Food Image Classification**, Xinyue Pan et.al., Paper: [http://arxiv.org/abs/2408.03922v1](http://arxiv.org/abs/2408.03922v1)
+- 2024-08-07, **Holomorphic foliations tangent to Rolle-pfaffian hypersurfaces**, Arturo Fernández-Pérez et.al., Paper: [http://arxiv.org/abs/2408.03914v1](http://arxiv.org/abs/2408.03914v1)
+- 2024-08-07, **AdapMTL: Adaptive Pruning Framework for Multitask Learning Model**, Mingcan Xiang et.al., Paper: [http://arxiv.org/abs/2408.03913v1](http://arxiv.org/abs/2408.03913v1)
+- 2024-08-07, **Achieving Human Level Competitive Robot Table Tennis**, David B. D'Ambrosio et.al., Paper: [http://arxiv.org/abs/2408.03906v1](http://arxiv.org/abs/2408.03906v1)
+- 2024-08-07, **Lightweight Video Denoising Using a Classic Bayesian Backbone**, Clément Bled et.al., Paper: [http://arxiv.org/abs/2408.03904v1](http://arxiv.org/abs/2408.03904v1)
+- 2024-08-07, **Retrieval Augmentation via User Interest Clustering**, Hanjia Lyu et.al., Paper: [http://arxiv.org/abs/2408.03886v1](http://arxiv.org/abs/2408.03886v1)
+- 2024-08-07, **Global-Local Progressive Integration Network for Blind Image Quality Assessment**, Xiaoqi Wang et.al., Paper: [http://arxiv.org/abs/2408.03885v1](http://arxiv.org/abs/2408.03885v1)
+- 2024-08-07, **Knowledge Probing for Graph Representation Learning**, Mingyu Zhao et.al., Paper: [http://arxiv.org/abs/2408.03877v1](http://arxiv.org/abs/2408.03877v1)
 - 2024-08-06, **LLaVA-OneVision: Easy Visual Task Transfer**, Bo Li et.al., Paper: [http://arxiv.org/abs/2408.03326v1](http://arxiv.org/abs/2408.03326v1)
 - 2024-08-06, **ClassiFIM: An Unsupervised Method To Detect Phase Transitions**, Victor Kasatkin et.al., Paper: [http://arxiv.org/abs/2408.03323v1](http://arxiv.org/abs/2408.03323v1)
 - 2024-08-06, **Segment Anything in Medical Images and Videos: Benchmark and Deployment**, Jun Ma et.al., Paper: [http://arxiv.org/abs/2408.03322v1](http://arxiv.org/abs/2408.03322v1)
@@ -5423,6 +5433,15 @@
 
 ## MultiModal
 
+- 2024-08-07, **Variable Landscape Search: A Novel Metaheuristic Paradigm for Unlocking Hidden Dimensions in Global Optimization**, Rustam Mussabayev et.al., Paper: [http://arxiv.org/abs/2408.03895v1](http://arxiv.org/abs/2408.03895v1)
+- 2024-08-07, **Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection**, Xinyue Liu et.al., Paper: [http://arxiv.org/abs/2408.03888v1](http://arxiv.org/abs/2408.03888v1)
+- 2024-08-07, **Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/2408.03717v1](http://arxiv.org/abs/2408.03717v1), Code: **[https://github.com/grokcv/serankdet](https://github.com/grokcv/serankdet)**
+- 2024-08-07, **L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**, Xun Huang et.al., Paper: [http://arxiv.org/abs/2408.03677v1](http://arxiv.org/abs/2408.03677v1)
+- 2024-08-07, **Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**, Zebin Yao et.al., Paper: [http://arxiv.org/abs/2408.03632v1](http://arxiv.org/abs/2408.03632v1)
+- 2024-08-07, **DRAMA: An Efficient End-to-end Motion Planner for Autonomous Driving with Mamba**, Chengran Yuan et.al., Paper: [http://arxiv.org/abs/2408.03601v1](http://arxiv.org/abs/2408.03601v1)
+- 2024-08-07, **A deeper investigation of the Primordial Binary Cluster**, Qingshun Hu et.al., Paper: [http://arxiv.org/abs/2408.03552v1](http://arxiv.org/abs/2408.03552v1)
+- 2024-08-07, **VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction**, Junsu Kim et.al., Paper: [http://arxiv.org/abs/2408.03551v1](http://arxiv.org/abs/2408.03551v1)
+- 2024-08-06, **Demonstrating anyonic non-Abelian statistics with a minimal $d = 6$ qudit lattice**, Lucy Byles et.al., Paper: [http://arxiv.org/abs/2408.03377v1](http://arxiv.org/abs/2408.03377v1)
 - 2024-08-06, **LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion**, Jinyu Zhang et.al., Paper: [http://arxiv.org/abs/2408.03238v1](http://arxiv.org/abs/2408.03238v1)
 - 2024-08-06, **Excess of Fusion Frames: A Comprehensive Approach**, Ehsan Ameli et.al., Paper: [http://arxiv.org/abs/2408.03179v1](http://arxiv.org/abs/2408.03179v1)
 - 2024-08-06, **Prototype Learning for Micro-gesture Classification**, Guoliang Chen et.al., Paper: [http://arxiv.org/abs/2408.03097v1](http://arxiv.org/abs/2408.03097v1)
