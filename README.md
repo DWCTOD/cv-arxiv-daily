@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631v1](http://arxiv.org/abs/2408.04631v1)|null|
+|**2024-08-08**|**LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP**|Danlu Chen et.al.|[2408.04628v1](http://arxiv.org/abs/2408.04628v1)|null|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619v1](http://arxiv.org/abs/2408.04619v1)|null|
+|**2024-08-08**|**Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation**|Kate Čevora et.al.|[2408.04610v1](http://arxiv.org/abs/2408.04610v1)|null|
+|**2024-08-08**|**Enhanced Prototypical Part Network (EPPNet) For Explainable Image Classification Via Prototypes**|Bhushan Atote et.al.|[2408.04606v1](http://arxiv.org/abs/2408.04606v1)|null|
+|**2024-08-08**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593v1](http://arxiv.org/abs/2408.04593v1)|null|
+|**2024-08-08**|**Learn To Learn More Precisely**|Runxi Cheng et.al.|[2408.04590v1](http://arxiv.org/abs/2408.04590v1)|null|
+|**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575v1](http://arxiv.org/abs/2408.04575v1)|null|
+|**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567v1](http://arxiv.org/abs/2408.04567v1)|null|
+|**2024-08-08**|**MemeMind at ArAIEval Shared Task: Spotting Persuasive Spans in Arabic Text with Persuasion Techniques Identification**|Md Rafiul Biswas et.al.|[2408.04540v1](http://arxiv.org/abs/2408.04540v1)|null|
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940v1](http://arxiv.org/abs/2408.03940v1)|null|
 |**2024-08-07**|**Fast Sprite Decomposition from Animated Graphics**|Tomoyuki Suzuki et.al.|[2408.03923v1](http://arxiv.org/abs/2408.03923v1)|null|
 |**2024-08-07**|**FMiFood: Multi-modal Contrastive Learning for Food Image Classification**|Xinyue Pan et.al.|[2408.03922v1](http://arxiv.org/abs/2408.03922v1)|null|
@@ -5437,6 +5447,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633v1](http://arxiv.org/abs/2408.04633v1)|**[link](https://github.com/bartn8/eventvppstereo)**|
+|**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586v1](http://arxiv.org/abs/2408.04586v1)|null|
+|**2024-08-08**|**Emotional Cues Extraction and Fusion for Multi-modal Emotion Prediction and Recognition in Conversation**|Haoxiang Shi et.al.|[2408.04547v1](http://arxiv.org/abs/2408.04547v1)|null|
+|**2024-08-08**|**Self-Supervised Contrastive Graph Clustering Network via Structural Information Fusion**|Xiaoyang Ji et.al.|[2408.04339v1](http://arxiv.org/abs/2408.04339v1)|null|
+|**2024-08-08**|**Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection**|Shixuan Gao et.al.|[2408.04326v1](http://arxiv.org/abs/2408.04326v1)|null|
+|**2024-08-08**|**UHNet: An Ultra-Lightweight and High-Speed Edge Detection Network**|Fuzhang Li et.al.|[2408.04258v1](http://arxiv.org/abs/2408.04258v1)|null|
+|**2024-08-08**|**MU-MAE: Multimodal Masked Autoencoders-Based One-Shot Learning**|Rex Liu et.al.|[2408.04243v1](http://arxiv.org/abs/2408.04243v1)|null|
+|**2024-08-08**|**Enhanced Traffic Flow Prediction with Multi-Segment Fusion Tensor Graph Convolutional Networks**|Wei Zhang et.al.|[2408.04232v1](http://arxiv.org/abs/2408.04232v1)|null|
+|**2024-08-08**|**Quantum integrable system associated with the $G_2$ exceptional Lie algebra**|Guang-Liang Li et.al.|[2408.04201v1](http://arxiv.org/abs/2408.04201v1)|null|
+|**2024-08-08**|**pyBregMan: A Python library for Bregman Manifolds**|Frank Nielsen et.al.|[2408.04175v1](http://arxiv.org/abs/2408.04175v1)|null|
 |**2024-08-07**|**Variable Landscape Search: A Novel Metaheuristic Paradigm for Unlocking Hidden Dimensions in Global Optimization**|Rustam Mussabayev et.al.|[2408.03895v1](http://arxiv.org/abs/2408.03895v1)|null|
 |**2024-08-07**|**Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection**|Xinyue Liu et.al.|[2408.03888v1](http://arxiv.org/abs/2408.03888v1)|null|
 |**2024-08-07**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717v1](http://arxiv.org/abs/2408.03717v1)|**[link](https://github.com/grokcv/serankdet)**|
