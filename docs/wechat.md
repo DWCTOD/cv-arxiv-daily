@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-09, **VITA: Towards Open-Source Interactive Omni Multimodal LLM**, Chaoyou Fu et.al., Paper: [http://arxiv.org/abs/2408.05211v1](http://arxiv.org/abs/2408.05211v1)
+- 2024-08-09, **Kalman-Inspired Feature Propagation for Video Face Super-Resolution**, Ruicheng Feng et.al., Paper: [http://arxiv.org/abs/2408.05205v1](http://arxiv.org/abs/2408.05205v1)
+- 2024-08-09, **HistoKernel: Whole Slide Image Level Maximum Mean Discrepancy Kernels for Pan-Cancer Predictive Modelling**, Piotr Keller et.al., Paper: [http://arxiv.org/abs/2408.05195v1](http://arxiv.org/abs/2408.05195v1), Code: **[https://github.com/pkeller00/histokernel](https://github.com/pkeller00/histokernel)**
+- 2024-08-09, **Cross-Domain Learning for Video Anomaly Detection with Limited Supervision**, Yashika Jain et.al., Paper: [http://arxiv.org/abs/2408.05191v1](http://arxiv.org/abs/2408.05191v1)
+- 2024-08-09, **Holomorphic vector fields with real integral manifolds**, Martin Kolář et.al., Paper: [http://arxiv.org/abs/2408.05186v1](http://arxiv.org/abs/2408.05186v1)
+- 2024-08-09, **MADE-WIC: Multiple Annotated Datasets for Exploring Weaknesses In Code**, Moritz Mock et.al., Paper: [http://arxiv.org/abs/2408.05163v1](http://arxiv.org/abs/2408.05163v1)
+- 2024-08-09, **Meta-Learning Guided Label Noise Distillation for Robust Signal Modulation Classification**, Xiaoyang Hao et.al., Paper: [http://arxiv.org/abs/2408.05151v1](http://arxiv.org/abs/2408.05151v1)
+- 2024-08-09, **Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video**, Chunggi Lee et.al., Paper: [http://arxiv.org/abs/2408.05123v1](http://arxiv.org/abs/2408.05123v1)
+- 2024-08-09, **Cautious Calibration in Binary Classification**, Mari-Liis Allikivi et.al., Paper: [http://arxiv.org/abs/2408.05120v1](http://arxiv.org/abs/2408.05120v1)
+- 2024-08-09, **Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images**, Shouyue Liu et.al., Paper: [http://arxiv.org/abs/2408.05117v1](http://arxiv.org/abs/2408.05117v1)
 - 2024-08-08, **Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**, Ruining Li et.al., Paper: [http://arxiv.org/abs/2408.04631v1](http://arxiv.org/abs/2408.04631v1)
 - 2024-08-08, **LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP**, Danlu Chen et.al., Paper: [http://arxiv.org/abs/2408.04628v1](http://arxiv.org/abs/2408.04628v1)
 - 2024-08-08, **Transformer Explainer: Interactive Learning of Text-Generative Models**, Aeree Cho et.al., Paper: [http://arxiv.org/abs/2408.04619v1](http://arxiv.org/abs/2408.04619v1)
@@ -5443,6 +5453,14 @@
 
 ## MultiModal
 
+- 2024-08-09, **Holographic thermal correlators and quasinormal modes from semiclassical Virasoro blocks**, Hewei Frederic Jia et.al., Paper: [http://arxiv.org/abs/2408.05208v1](http://arxiv.org/abs/2408.05208v1)
+- 2024-08-09, **Multi-Garment Customized Model Generation**, Yichen Liu et.al., Paper: [http://arxiv.org/abs/2408.05206v1](http://arxiv.org/abs/2408.05206v1)
+- 2024-08-09, **Time-resolved measurement of neutron energy isotropy in a sheared-flow-stabilized Z pinch**, R. A. Ryan et.al., Paper: [http://arxiv.org/abs/2408.05171v1](http://arxiv.org/abs/2408.05171v1)
+- 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
+- 2024-08-09, **ProFuser: Progressive Fusion of Large Language Models**, Tianyuan Shi et.al., Paper: [http://arxiv.org/abs/2408.04998v1](http://arxiv.org/abs/2408.04998v1)
+- 2024-08-09, **Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery**, Long Bai et.al., Paper: [http://arxiv.org/abs/2408.04958v1](http://arxiv.org/abs/2408.04958v1), Code: **[https://github.com/longbai1006/surgical-vqlaplus](https://github.com/longbai1006/surgical-vqlaplus)**
+- 2024-08-09, **Unleashing Artificial Cognition: Integrating Multiple AI Systems**, Muntasir Adnan et.al., Paper: [http://arxiv.org/abs/2408.04910v1](http://arxiv.org/abs/2408.04910v1), Code: **[https://github.com/TheOpenSI/cognitive_AI_experiments](https://github.com/TheOpenSI/cognitive_AI_experiments)**
+- 2024-08-08, **SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2408.04786v1](http://arxiv.org/abs/2408.04786v1)
 - 2024-08-08, **LiDAR-Event Stereo Fusion with Hallucinations**, Luca Bartolomei et.al., Paper: [http://arxiv.org/abs/2408.04633v1](http://arxiv.org/abs/2408.04633v1), Code: **[https://github.com/bartn8/eventvppstereo](https://github.com/bartn8/eventvppstereo)**
 - 2024-08-08, **Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**, Ravi Ramamoorthi et.al., Paper: [http://arxiv.org/abs/2408.04586v1](http://arxiv.org/abs/2408.04586v1)
 - 2024-08-08, **Emotional Cues Extraction and Fusion for Multi-modal Emotion Prediction and Recognition in Conversation**, Haoxiang Shi et.al., Paper: [http://arxiv.org/abs/2408.04547v1](http://arxiv.org/abs/2408.04547v1)
