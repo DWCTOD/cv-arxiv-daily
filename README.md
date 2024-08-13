@@ -1,4 +1,4 @@
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 
 ## Video_Classification
 
@@ -5463,7 +5463,7 @@
 |**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075v1](http://arxiv.org/abs/2408.05075v1)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
 |**2024-08-09**|**ProFuser: Progressive Fusion of Large Language Models**|Tianyuan Shi et.al.|[2408.04998v1](http://arxiv.org/abs/2408.04998v1)|null|
 |**2024-08-09**|**Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery**|Long Bai et.al.|[2408.04958v1](http://arxiv.org/abs/2408.04958v1)|**[link](https://github.com/longbai1006/surgical-vqlaplus)**|
-|**2024-08-09**|**Unleashing Artificial Cognition: Integrating Multiple AI Systems**|Muntasir Adnan et.al.|[2408.04910v1](http://arxiv.org/abs/2408.04910v1)|**[link](https://github.com/TheOpenSI/cognitive_AI_experiments)**|
+|**2024-08-12**|**Unleashing Artificial Cognition: Integrating Multiple AI Systems**|Muntasir Adnan et.al.|[2408.04910v2](http://arxiv.org/abs/2408.04910v2)|**[link](https://github.com/TheOpenSI/cognitive_AI_experiments)**|
 |**2024-08-08**|**SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**|Boshra Khalili et.al.|[2408.04786v1](http://arxiv.org/abs/2408.04786v1)|null|
 |**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633v1](http://arxiv.org/abs/2408.04633v1)|**[link](https://github.com/bartn8/eventvppstereo)**|
 |**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586v1](http://arxiv.org/abs/2408.04586v1)|null|
