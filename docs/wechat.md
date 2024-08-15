@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-14, **End-to-end Semantic-centric Video-based Multimodal Affective Computing**, Ronghao Lin et.al., Paper: [http://arxiv.org/abs/2408.07694v1](http://arxiv.org/abs/2408.07694v1)
+- 2024-08-14, **A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**, Marius Aasan et.al., Paper: [http://arxiv.org/abs/2408.07680v1](http://arxiv.org/abs/2408.07680v1), Code: **[https://github.com/dsb-ifi/spit](https://github.com/dsb-ifi/spit)**
+- 2024-08-14, **G$^2$V$^2$former: Graph Guided Video Vision Transformer for Face Anti-Spoofing**, Jingyi Yang et.al., Paper: [http://arxiv.org/abs/2408.07675v1](http://arxiv.org/abs/2408.07675v1)
+- 2024-08-14, **Graph Triple Attention Network: A Decoupled Perspective**, Xiaotang Wang et.al., Paper: [http://arxiv.org/abs/2408.07654v1](http://arxiv.org/abs/2408.07654v1), Code: **[https://github.com/wangxiaotang0906/degta](https://github.com/wangxiaotang0906/degta)**
+- 2024-08-14, **Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**, Yuqing Wen et.al., Paper: [http://arxiv.org/abs/2408.07605v1](http://arxiv.org/abs/2408.07605v1)
+- 2024-08-14, **Disentangle and denoise: Tackling context misalignment for video moment retrieval**, Kaijing Ma et.al., Paper: [http://arxiv.org/abs/2408.07600v1](http://arxiv.org/abs/2408.07600v1)
+- 2024-08-14, **Theoretical and Practical Progress in Hyperspectral Pixel Unmixing with Large Spectral Libraries from a Sparse Perspective**, Jade Preston et.al., Paper: [http://arxiv.org/abs/2408.07580v1](http://arxiv.org/abs/2408.07580v1)
+- 2024-08-14, **TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases**, Thibault Simonetto et.al., Paper: [http://arxiv.org/abs/2408.07579v1](http://arxiv.org/abs/2408.07579v1), Code: **[https://github.com/serval-uni-lu/tabularbench](https://github.com/serval-uni-lu/tabularbench)**
+- 2024-08-14, **DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**, Erez Yosef et.al., Paper: [http://arxiv.org/abs/2408.07541v1](http://arxiv.org/abs/2408.07541v1)
+- 2024-08-14, **Improved 3D Whole Heart Geometry from Sparse CMR Slices**, Yiyang Xu et.al., Paper: [http://arxiv.org/abs/2408.07532v1](http://arxiv.org/abs/2408.07532v1), Code: **[https://github.com/xeschong/stacom2024](https://github.com/xeschong/stacom2024)**
 - 2024-08-13, **On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**, Hamza Coban et.al., Paper: [http://arxiv.org/abs/2408.07064v1](http://arxiv.org/abs/2408.07064v1)
 - 2024-08-13, **Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**, Yu-Chih Chen et.al., Paper: [http://arxiv.org/abs/2408.07041v1](http://arxiv.org/abs/2408.07041v1)
 - 2024-08-13, **PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**, Xiaomin Wu et.al., Paper: [http://arxiv.org/abs/2408.07037v1](http://arxiv.org/abs/2408.07037v1)
@@ -5473,6 +5483,16 @@
 
 ## MultiModal
 
+- 2024-08-14, **End-to-end Semantic-centric Video-based Multimodal Affective Computing**, Ronghao Lin et.al., Paper: [http://arxiv.org/abs/2408.07694v1](http://arxiv.org/abs/2408.07694v1)
+- 2024-08-14, **G$^2$V$^2$former: Graph Guided Video Vision Transformer for Face Anti-Spoofing**, Jingyi Yang et.al., Paper: [http://arxiv.org/abs/2408.07675v1](http://arxiv.org/abs/2408.07675v1)
+- 2024-08-14, **Experimental signatures of a new channel of the DD reaction at very-low energy**, R. Dubey et.al., Paper: [http://arxiv.org/abs/2408.07567v1](http://arxiv.org/abs/2408.07567v1)
+- 2024-08-14, **Inverse Rendering of Fusion Plasmas: Inferring Plasma Composition from Imaging Systems**, Ekin Öztürk et.al., Paper: [http://arxiv.org/abs/2408.07555v1](http://arxiv.org/abs/2408.07555v1)
+- 2024-08-14, **Cross-aware Early Fusion with Stage-divided Vision and Language Transformer Encoders for Referring Image Segmentation**, Yubin Cho et.al., Paper: [http://arxiv.org/abs/2408.07539v1](http://arxiv.org/abs/2408.07539v1)
+- 2024-08-14, **Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**, Zhonglin Chen et.al., Paper: [http://arxiv.org/abs/2408.07455v1](http://arxiv.org/abs/2408.07455v1)
+- 2024-08-14, **Modality Invariant Multimodal Learning to Handle Missing Modalities: A Single-Branch Approach**, Muhammad Saad Saeed et.al., Paper: [http://arxiv.org/abs/2408.07445v1](http://arxiv.org/abs/2408.07445v1)
+- 2024-08-14, **WavLM model ensemble for audio deepfake detection**, David Combei et.al., Paper: [http://arxiv.org/abs/2408.07414v1](http://arxiv.org/abs/2408.07414v1)
+- 2024-08-14, **Survival Probabilities of Compound Superheavy Nuclei Towards Element 119**, Yu Qiang et.al., Paper: [http://arxiv.org/abs/2408.07371v1](http://arxiv.org/abs/2408.07371v1)
+- 2024-08-14, **Robust Semi-supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration**, Xiaogen Zhon et.al., Paper: [http://arxiv.org/abs/2408.07341v1](http://arxiv.org/abs/2408.07341v1), Code: **[https://github.com/med-air/cmc](https://github.com/med-air/cmc)**
 - 2024-08-13, **Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**, D. A. Kaltsas et.al., Paper: [http://arxiv.org/abs/2408.07027v1](http://arxiv.org/abs/2408.07027v1)
 - 2024-08-13, **DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**, Wang Mingwei et.al., Paper: [http://arxiv.org/abs/2408.06963v1](http://arxiv.org/abs/2408.06963v1)
 - 2024-08-13, **Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement**, Tao Zheng et.al., Paper: [http://arxiv.org/abs/2408.06911v1](http://arxiv.org/abs/2408.06911v1)
