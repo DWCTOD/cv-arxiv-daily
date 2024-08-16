@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**|Hongyu Li et.al.|[2408.08312v1](http://arxiv.org/abs/2408.08312v1)|null|
+|**2024-08-15**|**Gauge-invariant optical selection rules for excitons**|Tharindu Fernando et.al.|[2408.08311v1](http://arxiv.org/abs/2408.08311v1)|null|
+|**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306v1](http://arxiv.org/abs/2408.08306v1)|null|
+|**2024-08-15**|**SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training**|Gengwei Zhang et.al.|[2408.08295v1](http://arxiv.org/abs/2408.08295v1)|**[link](https://github.com/gengdavid/slca)**|
+|**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276v1](http://arxiv.org/abs/2408.08276v1)|null|
+|**2024-08-15**|**Snuffy: Efficient Whole Slide Image Classifier**|Hossein Jafarinia et.al.|[2408.08258v1](http://arxiv.org/abs/2408.08258v1)|**[link](https://github.com/jafarinia/snuffy)**|
+|**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228v1](http://arxiv.org/abs/2408.08228v1)|**[link](https://github.com/zx-pan/medanomalydetection-iqa)**|
+|**2024-08-15**|**RED-CT: A Systems Design Methodology for Using LLM-labeled Data to Train and Deploy Edge Classifiers for Computational Social Science**|David Farr et.al.|[2408.08217v1](http://arxiv.org/abs/2408.08217v1)|null|
+|**2024-08-15**|**Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices**|Tess Watt et.al.|[2408.08215v1](http://arxiv.org/abs/2408.08215v1)|null|
+|**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211v1](http://arxiv.org/abs/2408.08211v1)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|null|
 |**2024-08-15**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v2](http://arxiv.org/abs/2408.07680v2)|**[link](https://github.com/dsb-ifi/spit)**|
 |**2024-08-14**|**G$^2$V$^2$former: Graph Guided Video Vision Transformer for Face Anti-Spoofing**|Jingyi Yang et.al.|[2408.07675v1](http://arxiv.org/abs/2408.07675v1)|null|
@@ -5487,6 +5497,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228v1](http://arxiv.org/abs/2408.08228v1)|**[link](https://github.com/zx-pan/medanomalydetection-iqa)**|
+|**2024-08-15**|**An Advanced Deep Learning Based Three-Stream Hybrid Model for Dynamic Hand Gesture Recognition**|Md Abdur Rahim et.al.|[2408.08035v1](http://arxiv.org/abs/2408.08035v1)|null|
+|**2024-08-15**|**Adaptive Learning of Consistency and Inconsistency Information for Fake News Detection**|Aohan Li et.al.|[2408.08013v1](http://arxiv.org/abs/2408.08013v1)|null|
+|**2024-08-15**|**FuseChat: Knowledge Fusion of Chat Models**|Fanqi Wan et.al.|[2408.07990v1](http://arxiv.org/abs/2408.07990v1)|**[link](https://github.com/fanqiwan/fuseai)**|
+|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|null|
+|**2024-08-15**|**A Deep Features-Based Approach Using Modified ResNet50 and Gradient Boosting for Visual Sentiments Classification**|Muhammad Arslan et.al.|[2408.07922v1](http://arxiv.org/abs/2408.07922v1)|null|
+|**2024-08-15**|**To Impute or Not: Recommendations for Multibiometric Fusion**|Melissa R Dale et.al.|[2408.07883v1](http://arxiv.org/abs/2408.07883v1)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|null|
 |**2024-08-14**|**G$^2$V$^2$former: Graph Guided Video Vision Transformer for Face Anti-Spoofing**|Jingyi Yang et.al.|[2408.07675v1](http://arxiv.org/abs/2408.07675v1)|null|
 |**2024-08-14**|**Experimental signatures of a new channel of the DD reaction at very-low energy**|R. Dubey et.al.|[2408.07567v1](http://arxiv.org/abs/2408.07567v1)|null|
