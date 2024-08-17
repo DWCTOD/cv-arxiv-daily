@@ -1,4 +1,4 @@
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 
 ## Video_Classification
 
@@ -5501,7 +5501,7 @@
 |**2024-08-15**|**An Advanced Deep Learning Based Three-Stream Hybrid Model for Dynamic Hand Gesture Recognition**|Md Abdur Rahim et.al.|[2408.08035v1](http://arxiv.org/abs/2408.08035v1)|null|
 |**2024-08-15**|**Adaptive Learning of Consistency and Inconsistency Information for Fake News Detection**|Aohan Li et.al.|[2408.08013v1](http://arxiv.org/abs/2408.08013v1)|null|
 |**2024-08-15**|**FuseChat: Knowledge Fusion of Chat Models**|Fanqi Wan et.al.|[2408.07990v1](http://arxiv.org/abs/2408.07990v1)|**[link](https://github.com/fanqiwan/fuseai)**|
-|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|null|
+|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932v1](http://arxiv.org/abs/2408.07932v1)|**[link](https://github.com/lucaskirsten/mobilemef)**|
 |**2024-08-15**|**A Deep Features-Based Approach Using Modified ResNet50 and Gradient Boosting for Visual Sentiments Classification**|Muhammad Arslan et.al.|[2408.07922v1](http://arxiv.org/abs/2408.07922v1)|null|
 |**2024-08-15**|**To Impute or Not: Recommendations for Multibiometric Fusion**|Melissa R Dale et.al.|[2408.07883v1](http://arxiv.org/abs/2408.07883v1)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694v1](http://arxiv.org/abs/2408.07694v1)|null|
