@@ -1,4 +1,4 @@
-> Updated on 2024.08.18
+> Updated on 2024.08.19
 
 ## Video_Classification
 
@@ -5495,7 +5495,7 @@
 
 - 2024-08-15, **Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**, Zixuan Pan et.al., Paper: [http://arxiv.org/abs/2408.08228v1](http://arxiv.org/abs/2408.08228v1), Code: **[https://github.com/zx-pan/medanomalydetection-iqa](https://github.com/zx-pan/medanomalydetection-iqa)**
 - 2024-08-15, **An Advanced Deep Learning Based Three-Stream Hybrid Model for Dynamic Hand Gesture Recognition**, Md Abdur Rahim et.al., Paper: [http://arxiv.org/abs/2408.08035v1](http://arxiv.org/abs/2408.08035v1)
-- 2024-08-15, **Adaptive Learning of Consistency and Inconsistency Information for Fake News Detection**, Aohan Li et.al., Paper: [http://arxiv.org/abs/2408.08013v1](http://arxiv.org/abs/2408.08013v1)
+- 2024-08-16, **Adaptive Learning of Consistency and Inconsistency Information for Fake News Detection**, Aohan Li et.al., Paper: [http://arxiv.org/abs/2408.08013v2](http://arxiv.org/abs/2408.08013v2)
 - 2024-08-15, **FuseChat: Knowledge Fusion of Chat Models**, Fanqi Wan et.al., Paper: [http://arxiv.org/abs/2408.07990v1](http://arxiv.org/abs/2408.07990v1), Code: **[https://github.com/fanqiwan/fuseai](https://github.com/fanqiwan/fuseai)**
 - 2024-08-15, **MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**, Lucas Nedel Kirsten et.al., Paper: [http://arxiv.org/abs/2408.07932v1](http://arxiv.org/abs/2408.07932v1), Code: **[https://github.com/lucaskirsten/mobilemef](https://github.com/lucaskirsten/mobilemef)**
 - 2024-08-15, **A Deep Features-Based Approach Using Modified ResNet50 and Gradient Boosting for Visual Sentiments Classification**, Muhammad Arslan et.al., Paper: [http://arxiv.org/abs/2408.07922v1](http://arxiv.org/abs/2408.07922v1)
