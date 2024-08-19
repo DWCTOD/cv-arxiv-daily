@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Quantum Annealing for Enhanced Feature Selection in Single-Cell RNA Sequencing Data Analysis**|Selim Romero et.al.|[2408.08867v1](http://arxiv.org/abs/2408.08867v1)|null|
+|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855v1](http://arxiv.org/abs/2408.08855v1)|null|
+|**2024-08-16**|**ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis**|Yubao Zhao et.al.|[2408.08849v1](http://arxiv.org/abs/2408.08849v1)|null|
+|**2024-08-16**|**HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis**|Zhi-Bo Liu et.al.|[2408.08847v1](http://arxiv.org/abs/2408.08847v1)|**[link](https://github.com/xjtuai/histogym)**|
+|**2024-08-16**|**LEVIS: Large Exact Verifiable Input Spaces for Neural Networks**|Mohamad Fares El Hajj Chehade et.al.|[2408.08824v1](http://arxiv.org/abs/2408.08824v1)|null|
+|**2024-08-16**|**Optimal Symmetries in Binary Classification**|Vishal S. Ngairangbam et.al.|[2408.08823v1](http://arxiv.org/abs/2408.08823v1)|null|
+|**2024-08-16**|**Leveraging FourierKAN Classification Head for Pre-Trained Transformer-based Text Classification**|Abdullah Al Imran et.al.|[2408.08803v1](http://arxiv.org/abs/2408.08803v1)|null|
+|**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794v1](http://arxiv.org/abs/2408.08794v1)|null|
+|**2024-08-16**|**Assessing Generalization Capabilities of Malaria Diagnostic Models from Thin Blood Smears**|Louise Guillon et.al.|[2408.08792v1](http://arxiv.org/abs/2408.08792v1)|null|
+|**2024-08-16**|**A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**|Boa Jang et.al.|[2408.08790v1](http://arxiv.org/abs/2408.08790v1)|null|
 |**2024-08-15**|**HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**|Hongyu Li et.al.|[2408.08312v1](http://arxiv.org/abs/2408.08312v1)|null|
 |**2024-08-15**|**Gauge-invariant optical selection rules for excitons**|Tharindu Fernando et.al.|[2408.08311v1](http://arxiv.org/abs/2408.08311v1)|null|
 |**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306v1](http://arxiv.org/abs/2408.08306v1)|null|
@@ -5497,6 +5507,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba**|Andong Lu et.al.|[2408.08827v1](http://arxiv.org/abs/2408.08827v1)|null|
+|**2024-08-16**|**Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused**|Dingwei Chen et.al.|[2408.08769v1](http://arxiv.org/abs/2408.08769v1)|null|
+|**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709v1](http://arxiv.org/abs/2408.08709v1)|null|
+|**2024-08-16**|**MAT-SED: AMasked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection**|Pengfei Cai et.al.|[2408.08673v1](http://arxiv.org/abs/2408.08673v1)|null|
+|**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
+|**2024-08-16**|**Accelerating ab initio melting property calculations with machine learning: Application to the high entropy alloy TaVCrW**|Li-Fang Zhu et.al.|[2408.08654v1](http://arxiv.org/abs/2408.08654v1)|null|
+|**2024-08-16**|**Weakly primitive axial algebras**|Louis Halle Rowen et.al.|[2408.08606v1](http://arxiv.org/abs/2408.08606v1)|null|
+|**2024-08-16**|**EraW-Net: Enhance-Refine-Align W-Net for Scene-Associated Driver Attention Estimation**|Jun Zhou et.al.|[2408.08570v1](http://arxiv.org/abs/2408.08570v1)|null|
+|**2024-08-16**|**Collaborative Cross-modal Fusion with Large Language Model for Recommendation**|Zhongzhou Liu et.al.|[2408.08564v1](http://arxiv.org/abs/2408.08564v1)|null|
+|**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500v1](http://arxiv.org/abs/2408.08500v1)|null|
 |**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228v1](http://arxiv.org/abs/2408.08228v1)|**[link](https://github.com/zx-pan/medanomalydetection-iqa)**|
 |**2024-08-15**|**An Advanced Deep Learning Based Three-Stream Hybrid Model for Dynamic Hand Gesture Recognition**|Md Abdur Rahim et.al.|[2408.08035v1](http://arxiv.org/abs/2408.08035v1)|null|
 |**2024-08-16**|**Adaptive Learning of Consistency and Inconsistency Information for Fake News Detection**|Aohan Li et.al.|[2408.08013v2](http://arxiv.org/abs/2408.08013v2)|null|
