@@ -1,4 +1,4 @@
-> Updated on 2024.08.19
+> Updated on 2024.08.20
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2024-08-16, **Leveraging FourierKAN Classification Head for Pre-Trained Transformer-based Text Classification**, Abdullah Al Imran et.al., Paper: [http://arxiv.org/abs/2408.08803v1](http://arxiv.org/abs/2408.08803v1)
 - 2024-08-16, **Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**, Zihang Song et.al., Paper: [http://arxiv.org/abs/2408.08794v1](http://arxiv.org/abs/2408.08794v1)
 - 2024-08-16, **Assessing Generalization Capabilities of Malaria Diagnostic Models from Thin Blood Smears**, Louise Guillon et.al., Paper: [http://arxiv.org/abs/2408.08792v1](http://arxiv.org/abs/2408.08792v1)
-- 2024-08-16, **A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**, Boa Jang et.al., Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/abs/2408.08790v1)
+- 2024-08-16, **A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**, Boa Jang et.al., Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/abs/2408.08790v1), Code: **[https://github.com/Jang-Boa/Research-Foundation-Retina](https://github.com/Jang-Boa/Research-Foundation-Retina)**
 - 2024-08-15, **HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**, Hongyu Li et.al., Paper: [http://arxiv.org/abs/2408.08312v1](http://arxiv.org/abs/2408.08312v1)
 - 2024-08-15, **Gauge-invariant optical selection rules for excitons**, Tharindu Fernando et.al., Paper: [http://arxiv.org/abs/2408.08311v1](http://arxiv.org/abs/2408.08311v1)
 - 2024-08-15, **Accelerated Image-Aware Generative Diffusion Modeling**, Tanmay Asthana et.al., Paper: [http://arxiv.org/abs/2408.08306v1](http://arxiv.org/abs/2408.08306v1)
