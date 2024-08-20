@@ -5510,7 +5510,7 @@
 |**2024-08-16**|**RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba**|Andong Lu et.al.|[2408.08827v1](http://arxiv.org/abs/2408.08827v1)|null|
 |**2024-08-16**|**Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused**|Dingwei Chen et.al.|[2408.08769v1](http://arxiv.org/abs/2408.08769v1)|null|
 |**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709v1](http://arxiv.org/abs/2408.08709v1)|null|
-|**2024-08-16**|**MAT-SED: AMasked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection**|Pengfei Cai et.al.|[2408.08673v1](http://arxiv.org/abs/2408.08673v1)|null|
+|**2024-08-19**|**MAT-SED: A Masked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection**|Pengfei Cai et.al.|[2408.08673v2](http://arxiv.org/abs/2408.08673v2)|null|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-16**|**Accelerating ab initio melting property calculations with machine learning: Application to the high entropy alloy TaVCrW**|Li-Fang Zhu et.al.|[2408.08654v1](http://arxiv.org/abs/2408.08654v1)|null|
 |**2024-08-16**|**Weakly primitive axial algebras**|Louis Halle Rowen et.al.|[2408.08606v1](http://arxiv.org/abs/2408.08606v1)|null|
