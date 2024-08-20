@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-19, **Some model theory of quadratic geometries**, Charlotte Kestner et.al., Paper: [http://arxiv.org/abs/2408.10196v1](http://arxiv.org/abs/2408.10196v1)
+- 2024-08-19, **Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**, Jing Li et.al., Paper: [http://arxiv.org/abs/2408.10193v1](http://arxiv.org/abs/2408.10193v1)
+- 2024-08-19, **LongVILA: Scaling Long-Context Visual Language Models for Long Videos**, Fuzhao Xue et.al., Paper: [http://arxiv.org/abs/2408.10188v1](http://arxiv.org/abs/2408.10188v1), Code: **[https://github.com/nvlabs/vila](https://github.com/nvlabs/vila)**
+- 2024-08-19, **SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**, Anke Tang et.al., Paper: [http://arxiv.org/abs/2408.10174v1](http://arxiv.org/abs/2408.10174v1), Code: **[https://github.com/tanganke/fusion_bench](https://github.com/tanganke/fusion_bench)**
+- 2024-08-19, **Galaxy Zoo: Morphologies based on UKIDSS NIR Imaging for 71,052 Galaxies**, Karen L. Masters et.al., Paper: [http://arxiv.org/abs/2408.10160v1](http://arxiv.org/abs/2408.10160v1)
+- 2024-08-19, **Structure-preserving Image Translation for Depth Estimation in Colonoscopy Video**, Shuxian Wang et.al., Paper: [http://arxiv.org/abs/2408.10153v1](http://arxiv.org/abs/2408.10153v1)
+- 2024-08-19, **Biharmonic conformal immersions into a 3-dimensional conformally flat space**, Ze-Ping Wang et.al., Paper: [http://arxiv.org/abs/2408.10144v1](http://arxiv.org/abs/2408.10144v1)
+- 2024-08-19, **Perceptual Depth Quality Assessment of Stereoscopic Omnidirectional Images**, Wei Zhou et.al., Paper: [http://arxiv.org/abs/2408.10134v1](http://arxiv.org/abs/2408.10134v1)
+- 2024-08-19, **UNINEXT-Cutie: The 1st Solution for LSVOS Challenge RVOS Track**, Hao Fang et.al., Paper: [http://arxiv.org/abs/2408.10129v1](http://arxiv.org/abs/2408.10129v1)
+- 2024-08-19, **Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**, Feiyu Pan et.al., Paper: [http://arxiv.org/abs/2408.10125v1](http://arxiv.org/abs/2408.10125v1)
 - 2024-08-16, **Quantum Annealing for Enhanced Feature Selection in Single-Cell RNA Sequencing Data Analysis**, Selim Romero et.al., Paper: [http://arxiv.org/abs/2408.08867v1](http://arxiv.org/abs/2408.08867v1)
 - 2024-08-16, **DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**, Eman Ali et.al., Paper: [http://arxiv.org/abs/2408.08855v1](http://arxiv.org/abs/2408.08855v1)
 - 2024-08-16, **ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis**, Yubao Zhao et.al., Paper: [http://arxiv.org/abs/2408.08849v1](http://arxiv.org/abs/2408.08849v1)
@@ -5503,6 +5513,16 @@
 
 ## MultiModal
 
+- 2024-08-19, **SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**, Anke Tang et.al., Paper: [http://arxiv.org/abs/2408.10174v1](http://arxiv.org/abs/2408.10174v1), Code: **[https://github.com/tanganke/fusion_bench](https://github.com/tanganke/fusion_bench)**
+- 2024-08-19, **Stopping of very heavy ions in Mylar**, R. N. Sagaidak et.al., Paper: [http://arxiv.org/abs/2408.10065v1](http://arxiv.org/abs/2408.10065v1)
+- 2024-08-19, **SZU-AFS Antispoofing System for the ASVspoof 5 Challenge**, Yuxiong Xu et.al., Paper: [http://arxiv.org/abs/2408.09933v1](http://arxiv.org/abs/2408.09933v1)
+- 2024-08-19, **SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**, Sihan Yang et.al., Paper: [http://arxiv.org/abs/2408.09886v1](http://arxiv.org/abs/2408.09886v1), Code: **[https://github.com/hhankyangg/sam-unet](https://github.com/hhankyangg/sam-unet)**
+- 2024-08-19, **AutoML-guided Fusion of Entity and LLM-based representations**, Boshko Koloski et.al., Paper: [http://arxiv.org/abs/2408.09794v1](http://arxiv.org/abs/2408.09794v1)
+- 2024-08-19, **Coarse-Fine View Attention Alignment-Based GAN for CT Reconstruction from Biplanar X-Rays**, Zhi Qiao et.al., Paper: [http://arxiv.org/abs/2408.09736v1](http://arxiv.org/abs/2408.09736v1)
+- 2024-08-19, **Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**, Yuyang Ye et.al., Paper: [http://arxiv.org/abs/2408.09698v1](http://arxiv.org/abs/2408.09698v1)
+- 2024-08-18, **Fusion Rules of Majorana-Kramer-Pairs in Time-Reversal-Invariant Topological Superconductors**, Hongfa Pan et.al., Paper: [http://arxiv.org/abs/2408.09610v1](http://arxiv.org/abs/2408.09610v1)
+- 2024-08-18, **31 Lectures on Geometric Mechanics**, Darryl D. Holm et.al., Paper: [http://arxiv.org/abs/2408.09564v1](http://arxiv.org/abs/2408.09564v1)
+- 2024-08-18, **ALS-HAR: Harnessing Wearable Ambient Light Sensors to Enhance IMU-based HAR**, Lala Shakti Swarup Ray et.al., Paper: [http://arxiv.org/abs/2408.09527v1](http://arxiv.org/abs/2408.09527v1)
 - 2024-08-16, **RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba**, Andong Lu et.al., Paper: [http://arxiv.org/abs/2408.08827v1](http://arxiv.org/abs/2408.08827v1)
 - 2024-08-16, **Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused**, Dingwei Chen et.al., Paper: [http://arxiv.org/abs/2408.08769v1](http://arxiv.org/abs/2408.08769v1)
 - 2024-08-16, **Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**, Lei Hei et.al., Paper: [http://arxiv.org/abs/2408.08709v1](http://arxiv.org/abs/2408.08709v1)
