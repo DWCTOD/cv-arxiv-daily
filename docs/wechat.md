@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-20, **Discriminant Analysis in stationary time series based on robust cepstral coefficients**, Jonathan de Souza Matias et.al., Paper: [http://arxiv.org/abs/2408.11012v1](http://arxiv.org/abs/2408.11012v1)
+- 2024-08-20, **Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos**, Dennis Fedorishin et.al., Paper: [http://arxiv.org/abs/2408.10998v1](http://arxiv.org/abs/2408.10998v1)
+- 2024-08-20, **Denoising Plane Wave Ultrasound Images Using Diffusion Probabilistic Models**, Hojat Asgariandehkordi et.al., Paper: [http://arxiv.org/abs/2408.10987v1](http://arxiv.org/abs/2408.10987v1)
+- 2024-08-20, **ISLES'24: Improving final infarct prediction in ischemic stroke using multimodal imaging and clinical data**, Ezequiel de la Rosa et.al., Paper: [http://arxiv.org/abs/2408.10966v1](http://arxiv.org/abs/2408.10966v1)
+- 2024-08-20, **Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**, Farhanul Haque et.al., Paper: [http://arxiv.org/abs/2408.10955v1](http://arxiv.org/abs/2408.10955v1)
+- 2024-08-20, **Wave-Mask/Mix: Exploring Wavelet-Based Augmentations for Time Series Forecasting**, Dona Arabi et.al., Paper: [http://arxiv.org/abs/2408.10951v1](http://arxiv.org/abs/2408.10951v1), Code: **[https://github.com/jafarbakhshaliyev/wave-augs](https://github.com/jafarbakhshaliyev/wave-augs)**
+- 2024-08-20, **Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience**, Yoonseo Choi et.al., Paper: [http://arxiv.org/abs/2408.10937v1](http://arxiv.org/abs/2408.10937v1)
+- 2024-08-20, **SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement**, Linlin Hu et.al., Paper: [http://arxiv.org/abs/2408.10934v1](http://arxiv.org/abs/2408.10934v1)
+- 2024-08-20, **ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**, Qi Ma et.al., Paper: [http://arxiv.org/abs/2408.10906v1](http://arxiv.org/abs/2408.10906v1)
+- 2024-08-20, **ViLReF: A Chinese Vision-Language Retinal Foundation Model**, Shengzhu Yang et.al., Paper: [http://arxiv.org/abs/2408.10894v1](http://arxiv.org/abs/2408.10894v1), Code: **[https://github.com/t6yang/vilref](https://github.com/t6yang/vilref)**
 - 2024-08-19, **Some model theory of quadratic geometries**, Charlotte Kestner et.al., Paper: [http://arxiv.org/abs/2408.10196v1](http://arxiv.org/abs/2408.10196v1)
 - 2024-08-19, **Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**, Jing Li et.al., Paper: [http://arxiv.org/abs/2408.10193v1](http://arxiv.org/abs/2408.10193v1)
 - 2024-08-20, **LongVILA: Scaling Long-Context Visual Language Models for Long Videos**, Fuzhao Xue et.al., Paper: [http://arxiv.org/abs/2408.10188v2](http://arxiv.org/abs/2408.10188v2), Code: **[https://github.com/nvlabs/vila](https://github.com/nvlabs/vila)**
@@ -5513,6 +5523,16 @@
 
 ## MultiModal
 
+- 2024-08-20, **Representation Theory of Solitons**, Clay Cordova et.al., Paper: [http://arxiv.org/abs/2408.11045v1](http://arxiv.org/abs/2408.11045v1)
+- 2024-08-20, **The fusion of phonography and ideographic characters into virtual Chinese characters -- Based on Chinese and English**, Hongfa Zi et.al., Paper: [http://arxiv.org/abs/2408.10979v1](http://arxiv.org/abs/2408.10979v1)
+- 2024-08-20, **Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**, Farhanul Haque et.al., Paper: [http://arxiv.org/abs/2408.10955v1](http://arxiv.org/abs/2408.10955v1)
+- 2024-08-20, **Open 3D World in Autonomous Driving**, Xinlong Cheng et.al., Paper: [http://arxiv.org/abs/2408.10880v1](http://arxiv.org/abs/2408.10880v1)
+- 2024-08-20, **LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**, Binta Sow et.al., Paper: [http://arxiv.org/abs/2408.10787v1](http://arxiv.org/abs/2408.10787v1)
+- 2024-08-20, **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2408.10618v1](http://arxiv.org/abs/2408.10618v1)
+- 2024-08-20, **MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**, Jintao Cheng et.al., Paper: [http://arxiv.org/abs/2408.10602v1](http://arxiv.org/abs/2408.10602v1)
+- 2024-08-20, **Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**, Jiaru Zhong et.al., Paper: [http://arxiv.org/abs/2408.10531v1](http://arxiv.org/abs/2408.10531v1)
+- 2024-08-20, **Effects of Mass Diffusion on Rayleigh-Taylor Instability Under A Large Gravity**, Y. Guo et.al., Paper: [http://arxiv.org/abs/2408.10510v1](http://arxiv.org/abs/2408.10510v1)
+- 2024-08-20, **SZTU-CMU at MER2024: Improving Emotion-LLaMA with Conv-Attention for Multimodal Emotion Recognition**, Zebang Cheng et.al., Paper: [http://arxiv.org/abs/2408.10500v1](http://arxiv.org/abs/2408.10500v1), Code: **[https://github.com/zebangcheng/emotion-llama](https://github.com/zebangcheng/emotion-llama)**
 - 2024-08-19, **SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**, Anke Tang et.al., Paper: [http://arxiv.org/abs/2408.10174v1](http://arxiv.org/abs/2408.10174v1), Code: **[https://github.com/tanganke/fusion_bench](https://github.com/tanganke/fusion_bench)**
 - 2024-08-19, **Stopping of very heavy ions in Mylar**, R. N. Sagaidak et.al., Paper: [http://arxiv.org/abs/2408.10065v1](http://arxiv.org/abs/2408.10065v1)
 - 2024-08-19, **SZU-AFS Antispoofing System for the ASVspoof 5 Challenge**, Yuxiong Xu et.al., Paper: [http://arxiv.org/abs/2408.09933v1](http://arxiv.org/abs/2408.09933v1)
