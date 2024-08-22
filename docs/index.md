@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$NN-LMs**|Shangyi Geng et.al.|[2408.11815v1](http://arxiv.org/abs/2408.11815v1)|**[link](https://github.com/gsyfate/knnlm-limits)**|
+|**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811v1](http://arxiv.org/abs/2408.11811v1)|null|
+|**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804v1](http://arxiv.org/abs/2408.11804v1)|**[link](https://github.com/dyunis/spectral_dynamics)**|
+|**2024-08-21**|**Practical token pruning for foundation models in few-shot conversational virtual assistant systems**|Haode Qi et.al.|[2408.11799v1](http://arxiv.org/abs/2408.11799v1)|null|
+|**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791v1](http://arxiv.org/abs/2408.11791v1)|**[link](https://github.com/zankner/cloud)**|
+|**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788v1](http://arxiv.org/abs/2408.11788v1)|null|
+|**2024-08-21**|**NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation**|Zhenye Lou et.al.|[2408.11787v1](http://arxiv.org/abs/2408.11787v1)|**[link](https://github.com/xq141839/nusegdg)**|
+|**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785v1](http://arxiv.org/abs/2408.11785v1)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
+|**2024-08-21**|**SBDet: A Symmetry-Breaking Object Detector via Relaxed Rotation-Equivariance**|Zhiqiang Wu et.al.|[2408.11760v1](http://arxiv.org/abs/2408.11760v1)|null|
+|**2024-08-21**|**Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation**|Dewmini Hasara Wickremasinghe et.al.|[2408.11754v1](http://arxiv.org/abs/2408.11754v1)|null|
 |**2024-08-20**|**Discriminant Analysis in stationary time series based on robust cepstral coefficients**|Jonathan de Souza Matias et.al.|[2408.11012v1](http://arxiv.org/abs/2408.11012v1)|null|
 |**2024-08-20**|**Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos**|Dennis Fedorishin et.al.|[2408.10998v1](http://arxiv.org/abs/2408.10998v1)|null|
 |**2024-08-20**|**Denoising Plane Wave Ultrasound Images Using Diffusion Probabilistic Models**|Hojat Asgariandehkordi et.al.|[2408.10987v1](http://arxiv.org/abs/2408.10987v1)|null|
@@ -5531,6 +5541,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
+|**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742v1](http://arxiv.org/abs/2408.11742v1)|null|
+|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576v1](http://arxiv.org/abs/2408.11576v1)|null|
+|**2024-08-21**|**SAM-REF: Rethinking Image-Prompt Synergy for Refinement in Segment Anything**|Chongkai Yu et.al.|[2408.11535v1](http://arxiv.org/abs/2408.11535v1)|null|
+|**2024-08-21**|**Slicing Input Features to Accelerate Deep Learning: A Case Study with Graph Neural Networks**|Zhengjia Xu et.al.|[2408.11500v1](http://arxiv.org/abs/2408.11500v1)|null|
+|**2024-08-21**|**A novel approach to combine spatial and spectral information from hyperspectral images**|Belal Gaci et.al.|[2408.11430v1](http://arxiv.org/abs/2408.11430v1)|null|
+|**2024-08-21**|**HumanCoser: Layered 3D Human Generation via Semantic-Aware Diffusion Model**|Yi Wang et.al.|[2408.11357v1](http://arxiv.org/abs/2408.11357v1)|null|
+|**2024-08-21**|**On Missing Scores in Evolving Multibiometric Systems**|Melissa R Dale et.al.|[2408.11271v1](http://arxiv.org/abs/2408.11271v1)|null|
+|**2024-08-20**|**Quantum Inverse Contextual Vision Transformers (Q-ICVT): A New Frontier in 3D Object Detection for AVs**|Sanjay Bhargav Dharavath et.al.|[2408.11207v1](http://arxiv.org/abs/2408.11207v1)|**[link](https://github.com/sanjay-810/qicvt)**|
+|**2024-08-20**|**Robust Long-Range Perception Against Sensor Misalignment in Autonomous Vehicles**|Zi-Xiang Xia et.al.|[2408.11196v1](http://arxiv.org/abs/2408.11196v1)|null|
 |**2024-08-20**|**Representation Theory of Solitons**|Clay Cordova et.al.|[2408.11045v1](http://arxiv.org/abs/2408.11045v1)|null|
 |**2024-08-20**|**The fusion of phonography and ideographic characters into virtual Chinese characters -- Based on Chinese and English**|Hongfa Zi et.al.|[2408.10979v1](http://arxiv.org/abs/2408.10979v1)|null|
 |**2024-08-20**|**Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**|Farhanul Haque et.al.|[2408.10955v1](http://arxiv.org/abs/2408.10955v1)|null|
