@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-22, **Automating Deformable Gasket Assembly**, Simeon Adebola et.al., Paper: [http://arxiv.org/abs/2408.12593v1](http://arxiv.org/abs/2408.12593v1)
+- 2024-08-22, **xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**, Can Qin et.al., Paper: [http://arxiv.org/abs/2408.12590v1](http://arxiv.org/abs/2408.12590v1)
+- 2024-08-22, **Real-Time Video Generation with Pyramid Attention Broadcast**, Xuanlei Zhao et.al., Paper: [http://arxiv.org/abs/2408.12588v1](http://arxiv.org/abs/2408.12588v1), Code: **[https://github.com/nus-hpc-ai-lab/opendit](https://github.com/nus-hpc-ai-lab/opendit)**
+- 2024-08-22, **Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**, Antonyo Musabini et.al., Paper: [http://arxiv.org/abs/2408.12575v1](http://arxiv.org/abs/2408.12575v1)
+- 2024-08-22, **MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**, Haojun Shi et.al., Paper: [http://arxiv.org/abs/2408.12574v1](http://arxiv.org/abs/2408.12574v1)
+- 2024-08-22, **Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**, Sayed Mohammad Vakilzadeh Hatefi et.al., Paper: [http://arxiv.org/abs/2408.12568v1](http://arxiv.org/abs/2408.12568v1)
+- 2024-08-22, **ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**, Lujia Zhong et.al., Paper: [http://arxiv.org/abs/2408.12561v1](http://arxiv.org/abs/2408.12561v1), Code: **[https://github.com/lujiazho/ssprop](https://github.com/lujiazho/ssprop)**
+- 2024-08-22, **Exploring the Role of Audio in Multimodal Misinformation Detection**, Moyang Liu et.al., Paper: [http://arxiv.org/abs/2408.12558v1](http://arxiv.org/abs/2408.12558v1)
+- 2024-08-22, **Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**, Jun Ma et.al., Paper: [http://arxiv.org/abs/2408.12534v1](http://arxiv.org/abs/2408.12534v1)
+- 2024-08-22, **UMAD: University of Macau Anomaly Detection Benchmark Dataset**, Dong Li et.al., Paper: [http://arxiv.org/abs/2408.12527v1](http://arxiv.org/abs/2408.12527v1), Code: **[https://github.com/imrl/umad](https://github.com/imrl/umad)**
 - 2024-08-21, **Great Memory, Shallow Reasoning: Limits of $k$NN-LMs**, Shangyi Geng et.al., Paper: [http://arxiv.org/abs/2408.11815v1](http://arxiv.org/abs/2408.11815v1), Code: **[https://github.com/gsyfate/knnlm-limits](https://github.com/gsyfate/knnlm-limits)**
 - 2024-08-21, **EmbodiedSAM: Online Segment Any 3D Thing in Real Time**, Xiuwei Xu et.al., Paper: [http://arxiv.org/abs/2408.11811v1](http://arxiv.org/abs/2408.11811v1)
 - 2024-08-21, **Approaching Deep Learning through the Spectral Dynamics of Weights**, David Yunis et.al., Paper: [http://arxiv.org/abs/2408.11804v1](http://arxiv.org/abs/2408.11804v1), Code: **[https://github.com/dyunis/spectral_dynamics](https://github.com/dyunis/spectral_dynamics)**
@@ -5533,6 +5543,15 @@
 
 ## MultiModal
 
+- 2024-08-22, **Multi-Knowledge Fusion Network for Time Series Representation Learning**, Sagar Srinivas Sakhinana et.al., Paper: [http://arxiv.org/abs/2408.12423v1](http://arxiv.org/abs/2408.12423v1)
+- 2024-08-22, **An Evaluation of Deep Learning Models for Stock Market Trend Prediction**, Gonzalo Lopez Gil et.al., Paper: [http://arxiv.org/abs/2408.12408v1](http://arxiv.org/abs/2408.12408v1)
+- 2024-08-22, **Recursive Distributed Collaborative Aided Inertial Navigation**, Roland Jung et.al., Paper: [http://arxiv.org/abs/2408.12360v1](http://arxiv.org/abs/2408.12360v1)
+- 2024-08-22, **Class-balanced Open-set Semi-supervised Object Detection for Medical Images**, Zhanyun Lu et.al., Paper: [http://arxiv.org/abs/2408.12355v1](http://arxiv.org/abs/2408.12355v1)
+- 2024-08-22, **Physics of the low momentum diffusivity regime in tokamaks and its experimental applicability**, Haomin Sun et.al., Paper: [http://arxiv.org/abs/2408.12331v1](http://arxiv.org/abs/2408.12331v1)
+- 2024-08-22, **OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion**, Guoting Wei et.al., Paper: [http://arxiv.org/abs/2408.12246v1](http://arxiv.org/abs/2408.12246v1)
+- 2024-08-22, **Weight Scope Alignment: A Frustratingly Easy Method for Model Merging**, Yichu Xu et.al., Paper: [http://arxiv.org/abs/2408.12237v1](http://arxiv.org/abs/2408.12237v1)
+- 2024-08-22, **A tensor product for representations of the Cuntz algebra and of the R. Thompson groups**, Arnaud Brothier et.al., Paper: [http://arxiv.org/abs/2408.12051v1](http://arxiv.org/abs/2408.12051v1)
+- 2024-08-21, **FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2408.12037v1](http://arxiv.org/abs/2408.12037v1)
 - 2024-08-21, **Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**, Turcan Tuna et.al., Paper: [http://arxiv.org/abs/2408.11809v1](http://arxiv.org/abs/2408.11809v1)
 - 2024-08-21, **CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**, Yuliang Cai et.al., Paper: [http://arxiv.org/abs/2408.11742v1](http://arxiv.org/abs/2408.11742v1)
 - 2024-08-21, **RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**, Maximilian Hilger et.al., Paper: [http://arxiv.org/abs/2408.11576v1](http://arxiv.org/abs/2408.11576v1)
