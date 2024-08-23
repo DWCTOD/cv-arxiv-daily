@@ -1,4 +1,4 @@
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 
 ## Video_Classification
 
@@ -5540,7 +5540,7 @@
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809v1](http://arxiv.org/abs/2408.11809v1)|null|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742v1](http://arxiv.org/abs/2408.11742v1)|null|
 |**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576v1](http://arxiv.org/abs/2408.11576v1)|null|
-|**2024-08-21**|**SAM-REF: Rethinking Image-Prompt Synergy for Refinement in Segment Anything**|Chongkai Yu et.al.|[2408.11535v1](http://arxiv.org/abs/2408.11535v1)|null|
+|**2024-08-22**|**SAM-REF: Rethinking Image-Prompt Synergy for Refinement in Segment Anything**|Chongkai Yu et.al.|[2408.11535v2](http://arxiv.org/abs/2408.11535v2)|null|
 |**2024-08-21**|**Slicing Input Features to Accelerate Deep Learning: A Case Study with Graph Neural Networks**|Zhengjia Xu et.al.|[2408.11500v1](http://arxiv.org/abs/2408.11500v1)|null|
 |**2024-08-21**|**A novel approach to combine spatial and spectral information from hyperspectral images**|Belal Gaci et.al.|[2408.11430v1](http://arxiv.org/abs/2408.11430v1)|null|
 |**2024-08-21**|**HumanCoser: Layered 3D Human Generation via Semantic-Aware Diffusion Model**|Yi Wang et.al.|[2408.11357v1](http://arxiv.org/abs/2408.11357v1)|null|
