@@ -5557,7 +5557,7 @@
 - 2024-08-23, **EUR-USD Exchange Rate Forecasting Based on Information Fusion with Large Language Models and Deep Learning Methods**, Hongcheng Ding et.al., Paper: [http://arxiv.org/abs/2408.13214v1](http://arxiv.org/abs/2408.13214v1)
 - 2024-08-23, **Exact two-loop amplitudes for Higgs plus jet production with a cubic Higgs self-coupling**, Ulrich Haisch et.al., Paper: [http://arxiv.org/abs/2408.13186v1](http://arxiv.org/abs/2408.13186v1)
 - 2024-08-23, **KonvLiNA: Integrating Kolmogorov-Arnold Network with Linear Nyström Attention for feature fusion in Crop Field Detection**, Haruna Yunusa et.al., Paper: [http://arxiv.org/abs/2408.13160v1](http://arxiv.org/abs/2408.13160v1)
-- 2024-08-23, **Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**, Bonan Li et.al., Paper: [http://arxiv.org/abs/2408.13149v1](http://arxiv.org/abs/2408.13149v1)
+- 2024-08-26, **Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**, Bonan Li et.al., Paper: [http://arxiv.org/abs/2408.13149v2](http://arxiv.org/abs/2408.13149v2)
 - 2024-08-23, **S-Matrix Bootstrap and Non-Invertible Symmetries**, Christian Copetti et.al., Paper: [http://arxiv.org/abs/2408.13132v1](http://arxiv.org/abs/2408.13132v1)
 - 2024-08-23, **Evidential Deep Partial Multi-View Classification With Discount Fusion**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2408.13123v1](http://arxiv.org/abs/2408.13123v1)
 - 2024-08-23, **Indoor scene recognition from images under visual corruptions**, Willams de Lima Costa et.al., Paper: [http://arxiv.org/abs/2408.13029v1](http://arxiv.org/abs/2408.13029v1)
