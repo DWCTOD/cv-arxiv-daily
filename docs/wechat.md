@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-27, **GenRec: Unifying Video Generation and Recognition with Diffusion Models**, Zejia Weng et.al., Paper: [http://arxiv.org/abs/2408.15241v1](http://arxiv.org/abs/2408.15241v1)
+- 2024-08-27, **Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2408.15239v1](http://arxiv.org/abs/2408.15239v1)
+- 2024-08-27, **DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**, Arjun Roy et.al., Paper: [http://arxiv.org/abs/2408.15231v1](http://arxiv.org/abs/2408.15231v1)
+- 2024-08-27, **SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images**, Zafer Yildiz et.al., Paper: [http://arxiv.org/abs/2408.15224v1](http://arxiv.org/abs/2408.15224v1), Code: **[https://github.com/mazurowski-lab/slicersegmentwithsam](https://github.com/mazurowski-lab/slicersegmentwithsam)**
+- 2024-08-27, **Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**, Xuan Xu et.al., Paper: [http://arxiv.org/abs/2408.15218v1](http://arxiv.org/abs/2408.15218v1)
+- 2024-08-27, **Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**, Weiyi Zhang et.al., Paper: [http://arxiv.org/abs/2408.15217v1](http://arxiv.org/abs/2408.15217v1)
+- 2024-08-27, **Classifying populist language in American presidential and governor speeches using automatic text analysis**, Olaf van der Veen et.al., Paper: [http://arxiv.org/abs/2408.15213v1](http://arxiv.org/abs/2408.15213v1)
+- 2024-08-27, **Sec2Sec Co-attention for Video-Based Apparent Affective Prediction**, Mingwei Sun et.al., Paper: [http://arxiv.org/abs/2408.15209v1](http://arxiv.org/abs/2408.15209v1)
+- 2024-08-27, **Automatic 8-tissue Segmentation for 6-month Infant Brains**, Yilan Dong et.al., Paper: [http://arxiv.org/abs/2408.15198v1](http://arxiv.org/abs/2408.15198v1)
+- 2024-08-27, **Infusing Acoustic Pause Context into Text-Based Dementia Assessment**, Franziska Braun et.al., Paper: [http://arxiv.org/abs/2408.15188v1](http://arxiv.org/abs/2408.15188v1)
 - 2024-08-26, **Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**, Qirui Chen et.al., Paper: [http://arxiv.org/abs/2408.14469v1](http://arxiv.org/abs/2408.14469v1)
 - 2024-08-26, **K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**, Zhikai Li et.al., Paper: [http://arxiv.org/abs/2408.14468v1](http://arxiv.org/abs/2408.14468v1)
 - 2024-08-26, **Reconstructing physiological signals from fMRI across the adult lifespan**, Shiyu Wang et.al., Paper: [http://arxiv.org/abs/2408.14453v1](http://arxiv.org/abs/2408.14453v1)
@@ -5563,6 +5573,16 @@
 
 ## MultiModal
 
+- 2024-08-27, **Opportunities in Pulsed Magnetic Fusion Energy**, C. Leland Ellison et.al., Paper: [http://arxiv.org/abs/2408.15206v1](http://arxiv.org/abs/2408.15206v1)
+- 2024-08-27, **Non-thermal fusion burning processes, relevant collective modes and gained perspectives**, B. Coppi et.al., Paper: [http://arxiv.org/abs/2408.15145v1](http://arxiv.org/abs/2408.15145v1)
+- 2024-08-27, **Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**, Kunpeng Wang et.al., Paper: [http://arxiv.org/abs/2408.15063v1](http://arxiv.org/abs/2408.15063v1)
+- 2024-08-27, **Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2408.15032v1](http://arxiv.org/abs/2408.15032v1)
+- 2024-08-27, **Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**, Siyuan Yao et.al., Paper: [http://arxiv.org/abs/2408.15020v1](http://arxiv.org/abs/2408.15020v1), Code: **[https://github.com/garyson1204/hginet](https://github.com/garyson1204/hginet)**
+- 2024-08-27, **Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**, Sakhinana Sagar Srinivas et.al., Paper: [http://arxiv.org/abs/2408.14964v1](http://arxiv.org/abs/2408.14964v1)
+- 2024-08-27, **NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework**, Shuangchen Zhao et.al., Paper: [http://arxiv.org/abs/2408.14950v1](http://arxiv.org/abs/2408.14950v1)
+- 2024-08-27, **BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**, Mario A. V. Saucedo et.al., Paper: [http://arxiv.org/abs/2408.14941v1](http://arxiv.org/abs/2408.14941v1)
+- 2024-08-27, **ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning**, Wenjin Hou et.al., Paper: [http://arxiv.org/abs/2408.14868v1](http://arxiv.org/abs/2408.14868v1)
+- 2024-08-27, **GSIFN: A Graph-Structured and Interlaced-Masked Multimodal Transformer Based Fusion Network for Multimodal Sentiment Analysis**, Yijie Jin et.al., Paper: [http://arxiv.org/abs/2408.14809v1](http://arxiv.org/abs/2408.14809v1)
 - 2024-08-26, **Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification**, Mahrukh Awan et.al., Paper: [http://arxiv.org/abs/2408.14441v1](http://arxiv.org/abs/2408.14441v1)
 - 2024-08-26, **Few-Shot 3D Volumetric Segmentation with Multi-Surrogate Fusion**, Meng Zheng et.al., Paper: [http://arxiv.org/abs/2408.14427v1](http://arxiv.org/abs/2408.14427v1)
 - 2024-08-26, **Application of Neural Ordinary Differential Equations for ITER Burning Plasma Dynamics**, Zefang Liu et.al., Paper: [http://arxiv.org/abs/2408.14404v1](http://arxiv.org/abs/2408.14404v1), Code: **[https://github.com/zefang-liu/neuralplasmaode](https://github.com/zefang-liu/neuralplasmaode)**
