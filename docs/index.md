@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|null|
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
+|**2024-08-28**|**Minimizing movements solutions for a monotone model of droplet motion**|Carson Collins et.al.|[2408.15984v1](http://arxiv.org/abs/2408.15984v1)|null|
+|**2024-08-28**|**VLT/MUSE detection of accretion-ejection associated with the close stellar companion in the HT Lup system**|Sebastián Jorquera et.al.|[2408.15976v1](http://arxiv.org/abs/2408.15976v1)|null|
+|**2024-08-28**|**1+1d SPT phases with fusion category symmetry: interface modes and non-abelian Thouless pump**|Kansei Inamura et.al.|[2408.15960v1](http://arxiv.org/abs/2408.15960v1)|null|
+|**2024-08-28**|**Generating Binary Species Range Maps**|Filip Dorm et.al.|[2408.15956v1](http://arxiv.org/abs/2408.15956v1)|null|
+|**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950v1](http://arxiv.org/abs/2408.15950v1)|null|
+|**2024-08-28**|**Auxiliary Input in Training: Incorporating Catheter Features into Deep Learning Models for ECG-Free Dynamic Coronary Roadmapping**|Yikang Liu et.al.|[2408.15947v1](http://arxiv.org/abs/2408.15947v1)|null|
+|**2024-08-28**|**A latticed total K-theory**|Qingnan An et.al.|[2408.15941v1](http://arxiv.org/abs/2408.15941v1)|null|
+|**2024-08-28**|**Local Descriptors Weighted Adaptive Threshold Filtering For Few-Shot Learning**|Bingchen Yan et.al.|[2408.15924v1](http://arxiv.org/abs/2408.15924v1)|null|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241v1](http://arxiv.org/abs/2408.15241v1)|null|
 |**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239v1](http://arxiv.org/abs/2408.15239v1)|null|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231v1](http://arxiv.org/abs/2408.15231v1)|null|
@@ -5581,6 +5591,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**1+1d SPT phases with fusion category symmetry: interface modes and non-abelian Thouless pump**|Kansei Inamura et.al.|[2408.15960v1](http://arxiv.org/abs/2408.15960v1)|null|
+|**2024-08-28**|**Spoofing-Robust Speaker Verification Using Parallel Embedding Fusion: BTU Speech Group's Approach for ASVspoof5 Challenge**|Oğuzhan Kurnaz et.al.|[2408.15877v1](http://arxiv.org/abs/2408.15877v1)|null|
+|**2024-08-28**|**FlowAct: A Proactive Multimodal Human-robot Interaction System with Continuous Flow of Perception and Modular Action Sub-systems**|Timothée Dhaussy et.al.|[2408.15864v1](http://arxiv.org/abs/2408.15864v1)|null|
+|**2024-08-28**|**Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation**|Weilin Lin et.al.|[2408.15861v1](http://arxiv.org/abs/2408.15861v1)|null|
+|**2024-08-28**|**Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation**|Laura Bragagnolo et.al.|[2408.15810v1](http://arxiv.org/abs/2408.15810v1)|**[link](https://github.com/laurabragagnolo/human3.6m-occluded)**|
+|**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
+|**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740v1](http://arxiv.org/abs/2408.15740v1)|null|
+|**2024-08-28**|**R-matrices from Feynman Diagrams in 5d Chern-Simons Theory and Twisted M-theory**|Meer Ashwinkumar et.al.|[2408.15732v1](http://arxiv.org/abs/2408.15732v1)|null|
+|**2024-08-28**|**MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion**|Yanglin Deng et.al.|[2408.15641v1](http://arxiv.org/abs/2408.15641v1)|**[link](https://github.com/yanglindeng/mmdrfuse)**|
+|**2024-08-28**|**Geometry-guided Feature Learning and Fusion for Indoor Scene Reconstruction**|Ruihong Yin et.al.|[2408.15608v1](http://arxiv.org/abs/2408.15608v1)|null|
 |**2024-08-27**|**Opportunities in Pulsed Magnetic Fusion Energy**|C. Leland Ellison et.al.|[2408.15206v1](http://arxiv.org/abs/2408.15206v1)|null|
 |**2024-08-27**|**Non-thermal fusion burning processes, relevant collective modes and gained perspectives**|B. Coppi et.al.|[2408.15145v1](http://arxiv.org/abs/2408.15145v1)|null|
 |**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v2](http://arxiv.org/abs/2408.15063v2)|null|
