@@ -5597,7 +5597,7 @@ layout: default
 |**2024-08-28**|**Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation**|Weilin Lin et.al.|[2408.15861v1](http://arxiv.org/abs/2408.15861v1)|null|
 |**2024-08-28**|**Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation**|Laura Bragagnolo et.al.|[2408.15810v1](http://arxiv.org/abs/2408.15810v1)|**[link](https://github.com/laurabragagnolo/human3.6m-occluded)**|
 |**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
-|**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740v1](http://arxiv.org/abs/2408.15740v1)|null|
+|**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740v1](http://arxiv.org/abs/2408.15740v1)|**[link](https://github.com/CV4RA/MambaPlace)**|
 |**2024-08-28**|**R-matrices from Feynman Diagrams in 5d Chern-Simons Theory and Twisted M-theory**|Meer Ashwinkumar et.al.|[2408.15732v1](http://arxiv.org/abs/2408.15732v1)|null|
 |**2024-08-28**|**MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion**|Yanglin Deng et.al.|[2408.15641v1](http://arxiv.org/abs/2408.15641v1)|**[link](https://github.com/yanglindeng/mmdrfuse)**|
 |**2024-08-28**|**Geometry-guided Feature Learning and Fusion for Indoor Scene Reconstruction**|Ruihong Yin et.al.|[2408.15608v1](http://arxiv.org/abs/2408.15608v1)|null|
