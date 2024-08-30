@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-08-29, **SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2408.16768v1](http://arxiv.org/abs/2408.16768v1), Code: **[https://github.com/ziyuguo99/sam2point](https://github.com/ziyuguo99/sam2point)**
+- 2024-08-29, **ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2408.16767v1](http://arxiv.org/abs/2408.16767v1)
+- 2024-08-29, **OmniRe: Omni Urban Scene Reconstruction**, Ziyu Chen et.al., Paper: [http://arxiv.org/abs/2408.16760v1](http://arxiv.org/abs/2408.16760v1)
+- 2024-08-29, **Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge**, Beidi Dong et.al., Paper: [http://arxiv.org/abs/2408.16749v1](http://arxiv.org/abs/2408.16749v1)
+- 2024-08-29, **Automatic detection of Mild Cognitive Impairment using high-dimensional acoustic features in spontaneous speech**, Cong Zhang et.al., Paper: [http://arxiv.org/abs/2408.16732v1](http://arxiv.org/abs/2408.16732v1)
+- 2024-08-29, **VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation**, Shiwei Wu et.al., Paper: [http://arxiv.org/abs/2408.16730v1](http://arxiv.org/abs/2408.16730v1)
+- 2024-08-29, **Prediction-Feedback DETR for Temporal Action Detection**, Jihwan Kim et.al., Paper: [http://arxiv.org/abs/2408.16729v1](http://arxiv.org/abs/2408.16729v1)
+- 2024-08-29, **A GREAT Architecture for Edge-Based Graph Problems Like TSP**, Attila Lischka et.al., Paper: [http://arxiv.org/abs/2408.16717v1](http://arxiv.org/abs/2408.16717v1)
+- 2024-08-29, **One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**, Anisha Jain et.al., Paper: [http://arxiv.org/abs/2408.16704v1](http://arxiv.org/abs/2408.16704v1)
+- 2024-08-29, **RoboMNIST: A Multimodal Dataset for Multi-Robot Activity Recognition Using WiFi Sensing, Video, and Audio**, Kian Behzad et.al., Paper: [http://arxiv.org/abs/2408.16703v1](http://arxiv.org/abs/2408.16703v1)
 - 2024-08-29, **Spatio-Temporal Context Prompting for Zero-Shot Action Detection**, Wei-Jhe Huang et.al., Paper: [http://arxiv.org/abs/2408.15996v2](http://arxiv.org/abs/2408.15996v2)
 - 2024-08-28, **TEDRA: Text-based Editing of Dynamic and Photoreal Actors**, Basavaraj Sunagad et.al., Paper: [http://arxiv.org/abs/2408.15995v1](http://arxiv.org/abs/2408.15995v1)
 - 2024-08-28, **Minimizing movements solutions for a monotone model of droplet motion**, Carson Collins et.al., Paper: [http://arxiv.org/abs/2408.15984v1](http://arxiv.org/abs/2408.15984v1)
@@ -5583,6 +5593,16 @@
 
 ## MultiModal
 
+- 2024-08-29, **H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical Image Registration**, Yufeng Zhou et.al., Paper: [http://arxiv.org/abs/2408.16719v1](http://arxiv.org/abs/2408.16719v1)
+- 2024-08-29, **Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**, Qianhui Liu et.al., Paper: [http://arxiv.org/abs/2408.16564v1](http://arxiv.org/abs/2408.16564v1)
+- 2024-08-29, **Android Malware Detection Based on RGB Images and Multi-feature Fusion**, Zhiqiang Wang et.al., Paper: [http://arxiv.org/abs/2408.16555v1](http://arxiv.org/abs/2408.16555v1)
+- 2024-08-29, **Locally Grouped and Scale-Guided Attention for Dense Pest Counting**, Chang-Hwan Son et.al., Paper: [http://arxiv.org/abs/2408.16503v1](http://arxiv.org/abs/2408.16503v1)
+- 2024-08-29, **UAV-Based Human Body Detector Selection and Fusion for Geolocated Saliency Map Generation**, Piotr Rudol et.al., Paper: [http://arxiv.org/abs/2408.16501v1](http://arxiv.org/abs/2408.16501v1)
+- 2024-08-29, **CogVLM2: Visual Language Models for Image and Video Understanding**, Wenyi Hong et.al., Paper: [http://arxiv.org/abs/2408.16500v1](http://arxiv.org/abs/2408.16500v1), Code: **[https://github.com/thudm/cogvlm2](https://github.com/thudm/cogvlm2)**
+- 2024-08-29, **MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation**, Linyan Yang et.al., Paper: [http://arxiv.org/abs/2408.16478v1](http://arxiv.org/abs/2408.16478v1)
+- 2024-08-29, **CooTest: An Automated Testing Approach for V2X Communication Systems**, An Guo et.al., Paper: [http://arxiv.org/abs/2408.16470v1](http://arxiv.org/abs/2408.16470v1)
+- 2024-08-29, **Optimal Weight Scheme for Fusion-Assisted Cooperative Multi-Monostatic Object Localization in 6G Networks**, Maximiliano Rivera Figueroa et.al., Paper: [http://arxiv.org/abs/2408.16464v1](http://arxiv.org/abs/2408.16464v1)
+- 2024-08-29, **Integrating Features for Recognizing Human Activities through Optimized Parameters in Graph Convolutional Networks and Transformer Architectures**, Mohammad Belal et.al., Paper: [http://arxiv.org/abs/2408.16442v1](http://arxiv.org/abs/2408.16442v1)
 - 2024-08-28, **1+1d SPT phases with fusion category symmetry: interface modes and non-abelian Thouless pump**, Kansei Inamura et.al., Paper: [http://arxiv.org/abs/2408.15960v1](http://arxiv.org/abs/2408.15960v1)
 - 2024-08-28, **Spoofing-Robust Speaker Verification Using Parallel Embedding Fusion: BTU Speech Group's Approach for ASVspoof5 Challenge**, Oğuzhan Kurnaz et.al., Paper: [http://arxiv.org/abs/2408.15877v1](http://arxiv.org/abs/2408.15877v1)
 - 2024-08-28, **FlowAct: A Proactive Multimodal Human-robot Interaction System with Continuous Flow of Perception and Modular Action Sub-systems**, Timothée Dhaussy et.al., Paper: [http://arxiv.org/abs/2408.15864v1](http://arxiv.org/abs/2408.15864v1)
