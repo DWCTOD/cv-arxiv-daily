@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|null|
+|**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v2](http://arxiv.org/abs/2408.15996v2)|null|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
 |**2024-08-28**|**Minimizing movements solutions for a monotone model of droplet motion**|Carson Collins et.al.|[2408.15984v1](http://arxiv.org/abs/2408.15984v1)|null|
 |**2024-08-28**|**VLT/MUSE detection of accretion-ejection associated with the close stellar companion in the HT Lup system**|Sebastián Jorquera et.al.|[2408.15976v1](http://arxiv.org/abs/2408.15976v1)|null|

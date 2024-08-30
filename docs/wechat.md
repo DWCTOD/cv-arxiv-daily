@@ -1,8 +1,8 @@
-> Updated on 2024.08.29
+> Updated on 2024.08.30
 
 ## Video_Classification
 
-- 2024-08-28, **Spatio-Temporal Context Prompting for Zero-Shot Action Detection**, Wei-Jhe Huang et.al., Paper: [http://arxiv.org/abs/2408.15996v1](http://arxiv.org/abs/2408.15996v1)
+- 2024-08-29, **Spatio-Temporal Context Prompting for Zero-Shot Action Detection**, Wei-Jhe Huang et.al., Paper: [http://arxiv.org/abs/2408.15996v2](http://arxiv.org/abs/2408.15996v2)
 - 2024-08-28, **TEDRA: Text-based Editing of Dynamic and Photoreal Actors**, Basavaraj Sunagad et.al., Paper: [http://arxiv.org/abs/2408.15995v1](http://arxiv.org/abs/2408.15995v1)
 - 2024-08-28, **Minimizing movements solutions for a monotone model of droplet motion**, Carson Collins et.al., Paper: [http://arxiv.org/abs/2408.15984v1](http://arxiv.org/abs/2408.15984v1)
 - 2024-08-28, **VLT/MUSE detection of accretion-ejection associated with the close stellar companion in the HT Lup system**, Sebastián Jorquera et.al., Paper: [http://arxiv.org/abs/2408.15976v1](http://arxiv.org/abs/2408.15976v1)
