@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**SITAR: Semi-supervised Image Transformer for Action Recognition**|Owais Iqbal et.al.|[2409.02910v1](http://arxiv.org/abs/2409.02910v1)|null|
+|**2024-09-04**|**GraphTrials: Visual Proofs of Graph Properties**|Henry Förster et.al.|[2409.02907v1](http://arxiv.org/abs/2409.02907v1)|null|
+|**2024-09-04**|**Classification of spin-$1/2$ fermionic quantum spin liquids on the trillium lattice**|Ming-Hao Li et.al.|[2409.02898v1](http://arxiv.org/abs/2409.02898v1)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889v1](http://arxiv.org/abs/2409.02889v1)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**CanvOI, an Oncology Intelligence Foundation Model: Scaling FLOPS Differently**|Jonathan Zalach et.al.|[2409.02885v1](http://arxiv.org/abs/2409.02885v1)|null|
+|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869v1](http://arxiv.org/abs/2409.02869v1)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851v1](http://arxiv.org/abs/2409.02851v1)|null|
+|**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838v1](http://arxiv.org/abs/2409.02838v1)|null|
+|**2024-09-04**|**Evolution of radiation profiles in a strongly baffled divertor on MAST Upgrade**|Fabio Federici et.al.|[2409.02837v1](http://arxiv.org/abs/2409.02837v1)|null|
+|**2024-09-04**|**Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**|Moein Shahiki Tash et.al.|[2409.02836v1](http://arxiv.org/abs/2409.02836v1)|null|
 |**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443v1](http://arxiv.org/abs/2408.17443v1)|**[link](https://github.com/joslefaure/HERMES)**|
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437v1](http://arxiv.org/abs/2408.17437v1)|**[link](https://github.com/loreley99/syntheval_checklist)**|
 |**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424v1](http://arxiv.org/abs/2408.17424v1)|null|
@@ -5607,6 +5617,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Simple fusion-fission quantifies Israel-Palestine violence and suggests multi-adversary solution**|Frank Yingjie Huo et.al.|[2409.02816v1](http://arxiv.org/abs/2409.02816v1)|null|
+|**2024-09-04**|**Segregation in binary mixture with differential contraction among active rings**|Emanuel F. Teixeira et.al.|[2409.02814v1](http://arxiv.org/abs/2409.02814v1)|null|
+|**2024-09-04**|**Ion-specific Stability of Gold Nanoparticle Suspensions**|Philipp Ritzert et.al.|[2409.02762v1](http://arxiv.org/abs/2409.02762v1)|null|
+|**2024-09-04**|**Multi-Head Attention Residual Unfolded Network for Model-Based Pansharpening**|Ivan Pereira-Sánchez et.al.|[2409.02675v1](http://arxiv.org/abs/2409.02675v1)|null|
+|**2024-09-04**|**Multiview Random Vector Functional Link Network for Predicting DNA-Binding Proteins**|A. Quadir et.al.|[2409.02588v1](http://arxiv.org/abs/2409.02588v1)|null|
+|**2024-09-04**|**Interacting Multiple Model-based Joint Homography Matrix and Multiple Object State Estimation**|Paul Johannes Claasen et.al.|[2409.02562v1](http://arxiv.org/abs/2409.02562v1)|null|
+|**2024-09-04**|**Real-Time Dynamic Scale-Aware Fusion Detection Network: Take Road Damage Detection as an example**|Weichao Pan et.al.|[2409.02546v1](http://arxiv.org/abs/2409.02546v1)|null|
+|**2024-09-04**|**Multi-Sources Fusion Learning for Multi-Points NLOS Localization in OFDM System**|Bohao Wang et.al.|[2409.02454v1](http://arxiv.org/abs/2409.02454v1)|null|
+|**2024-09-04**|**MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision**|Jiatao Chen et.al.|[2409.02421v1](http://arxiv.org/abs/2409.02421v1)|null|
+|**2024-09-04**|**Unified Framework with Consistency across Modalities for Human Activity Recognition**|Tuyen Tran et.al.|[2409.02385v1](http://arxiv.org/abs/2409.02385v1)|null|
 |**2024-08-30**|**Exploring the effect of positive Q-value neutron transfer in coupled-channels calculations using microscopic nuclear potentials**|N. Jain et.al.|[2408.17291v1](http://arxiv.org/abs/2408.17291v1)|null|
 |**2024-08-30**|**Resource state generation in a hybrid matter-photon quantum information processor**|Yu Liu et.al.|[2408.17265v1](http://arxiv.org/abs/2408.17265v1)|null|
 |**2024-08-30**|**On $\mathbb{Z}/2\mathbb{Z}$ permutation gauging**|Zhengwei Liu et.al.|[2408.17195v1](http://arxiv.org/abs/2408.17195v1)|null|

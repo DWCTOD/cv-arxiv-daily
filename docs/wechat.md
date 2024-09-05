@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-09-04, **SITAR: Semi-supervised Image Transformer for Action Recognition**, Owais Iqbal et.al., Paper: [http://arxiv.org/abs/2409.02910v1](http://arxiv.org/abs/2409.02910v1)
+- 2024-09-04, **GraphTrials: Visual Proofs of Graph Properties**, Henry Förster et.al., Paper: [http://arxiv.org/abs/2409.02907v1](http://arxiv.org/abs/2409.02907v1)
+- 2024-09-04, **Classification of spin-$1/2$ fermionic quantum spin liquids on the trillium lattice**, Ming-Hao Li et.al., Paper: [http://arxiv.org/abs/2409.02898v1](http://arxiv.org/abs/2409.02898v1)
+- 2024-09-04, **LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**, Xidong Wang et.al., Paper: [http://arxiv.org/abs/2409.02889v1](http://arxiv.org/abs/2409.02889v1), Code: **[https://github.com/freedomintelligence/longllava](https://github.com/freedomintelligence/longllava)**
+- 2024-09-04, **CanvOI, an Oncology Intelligence Foundation Model: Scaling FLOPS Differently**, Jonathan Zalach et.al., Paper: [http://arxiv.org/abs/2409.02885v1](http://arxiv.org/abs/2409.02885v1)
+- 2024-09-04, **Look Into the LITE in Deep Learning for Time Series Classification**, Ali Ismail-Fawaz et.al., Paper: [http://arxiv.org/abs/2409.02869v1](http://arxiv.org/abs/2409.02869v1)
+- 2024-09-04, **Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**, Zhibin Liu et.al., Paper: [http://arxiv.org/abs/2409.02851v1](http://arxiv.org/abs/2409.02851v1)
+- 2024-09-04, **iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**, Hayeon Jo et.al., Paper: [http://arxiv.org/abs/2409.02838v1](http://arxiv.org/abs/2409.02838v1)
+- 2024-09-04, **Evolution of radiation profiles in a strongly baffled divertor on MAST Upgrade**, Fabio Federici et.al., Paper: [http://arxiv.org/abs/2409.02837v1](http://arxiv.org/abs/2409.02837v1)
+- 2024-09-04, **Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**, Moein Shahiki Tash et.al., Paper: [http://arxiv.org/abs/2409.02836v1](http://arxiv.org/abs/2409.02836v1)
 - 2024-08-30, **Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**, Gueter Josmy Faure et.al., Paper: [http://arxiv.org/abs/2408.17443v1](http://arxiv.org/abs/2408.17443v1), Code: **[https://github.com/joslefaure/HERMES](https://github.com/joslefaure/HERMES)**
 - 2024-08-30, **SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**, Raoyuan Zhao et.al., Paper: [http://arxiv.org/abs/2408.17437v1](http://arxiv.org/abs/2408.17437v1), Code: **[https://github.com/loreley99/syntheval_checklist](https://github.com/loreley99/syntheval_checklist)**
 - 2024-08-30, **CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**, Yiran Chen et.al., Paper: [http://arxiv.org/abs/2408.17424v1](http://arxiv.org/abs/2408.17424v1)
@@ -5603,6 +5613,16 @@
 
 ## MultiModal
 
+- 2024-09-04, **Simple fusion-fission quantifies Israel-Palestine violence and suggests multi-adversary solution**, Frank Yingjie Huo et.al., Paper: [http://arxiv.org/abs/2409.02816v1](http://arxiv.org/abs/2409.02816v1)
+- 2024-09-04, **Segregation in binary mixture with differential contraction among active rings**, Emanuel F. Teixeira et.al., Paper: [http://arxiv.org/abs/2409.02814v1](http://arxiv.org/abs/2409.02814v1)
+- 2024-09-04, **Ion-specific Stability of Gold Nanoparticle Suspensions**, Philipp Ritzert et.al., Paper: [http://arxiv.org/abs/2409.02762v1](http://arxiv.org/abs/2409.02762v1)
+- 2024-09-04, **Multi-Head Attention Residual Unfolded Network for Model-Based Pansharpening**, Ivan Pereira-Sánchez et.al., Paper: [http://arxiv.org/abs/2409.02675v1](http://arxiv.org/abs/2409.02675v1)
+- 2024-09-04, **Multiview Random Vector Functional Link Network for Predicting DNA-Binding Proteins**, A. Quadir et.al., Paper: [http://arxiv.org/abs/2409.02588v1](http://arxiv.org/abs/2409.02588v1)
+- 2024-09-04, **Interacting Multiple Model-based Joint Homography Matrix and Multiple Object State Estimation**, Paul Johannes Claasen et.al., Paper: [http://arxiv.org/abs/2409.02562v1](http://arxiv.org/abs/2409.02562v1)
+- 2024-09-04, **Real-Time Dynamic Scale-Aware Fusion Detection Network: Take Road Damage Detection as an example**, Weichao Pan et.al., Paper: [http://arxiv.org/abs/2409.02546v1](http://arxiv.org/abs/2409.02546v1)
+- 2024-09-04, **Multi-Sources Fusion Learning for Multi-Points NLOS Localization in OFDM System**, Bohao Wang et.al., Paper: [http://arxiv.org/abs/2409.02454v1](http://arxiv.org/abs/2409.02454v1)
+- 2024-09-04, **MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision**, Jiatao Chen et.al., Paper: [http://arxiv.org/abs/2409.02421v1](http://arxiv.org/abs/2409.02421v1)
+- 2024-09-04, **Unified Framework with Consistency across Modalities for Human Activity Recognition**, Tuyen Tran et.al., Paper: [http://arxiv.org/abs/2409.02385v1](http://arxiv.org/abs/2409.02385v1)
 - 2024-08-30, **Exploring the effect of positive Q-value neutron transfer in coupled-channels calculations using microscopic nuclear potentials**, N. Jain et.al., Paper: [http://arxiv.org/abs/2408.17291v1](http://arxiv.org/abs/2408.17291v1)
 - 2024-08-30, **Resource state generation in a hybrid matter-photon quantum information processor**, Yu Liu et.al., Paper: [http://arxiv.org/abs/2408.17265v1](http://arxiv.org/abs/2408.17265v1)
 - 2024-08-30, **On $\mathbb{Z}/2\mathbb{Z}$ permutation gauging**, Zhengwei Liu et.al., Paper: [http://arxiv.org/abs/2408.17195v1](http://arxiv.org/abs/2408.17195v1)
