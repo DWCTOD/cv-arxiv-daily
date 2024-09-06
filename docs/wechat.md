@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-09-05, **Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**, Yunze Man et.al., Paper: [http://arxiv.org/abs/2409.03757v1](http://arxiv.org/abs/2409.03757v1), Code: **[https://github.com/yunzeman/lexicon3d](https://github.com/yunzeman/lexicon3d)**
+- 2024-09-05, **Dynamics of Supervised and Reinforcement Learning in the Non-Linear Perceptron**, Christian Schmid et.al., Paper: [http://arxiv.org/abs/2409.03749v1](http://arxiv.org/abs/2409.03749v1)
+- 2024-09-05, **Orbital Support and Evolution of CX/OX Structures in Boxy/Peanut Bars**, Behzad Tahmasebzadeh et.al., Paper: [http://arxiv.org/abs/2409.03746v1](http://arxiv.org/abs/2409.03746v1)
+- 2024-09-05, **Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors (Extended Version)**, Hans Winderix et.al., Paper: [http://arxiv.org/abs/2409.03743v1](http://arxiv.org/abs/2409.03743v1)
+- 2024-09-05, **Classification and Prediction of Heart Diseases using Machine Learning Algorithms**, Akua Sekyiwaa Osei-Nkwantabisa et.al., Paper: [http://arxiv.org/abs/2409.03697v1](http://arxiv.org/abs/2409.03697v1)
+- 2024-09-05, **View-Invariant Policy Learning via Zero-Shot Novel View Synthesis**, Stephen Tian et.al., Paper: [http://arxiv.org/abs/2409.03685v1](http://arxiv.org/abs/2409.03685v1)
+- 2024-09-05, **Threat Classification on Deployed Optical Networks Using MIMO Digital Fiber Sensing, Wavelets, and Machine Learning**, Khouloud Abdelli et.al., Paper: [http://arxiv.org/abs/2409.03667v1](http://arxiv.org/abs/2409.03667v1)
+- 2024-09-05, **Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**, Manshan Guo et.al., Paper: [http://arxiv.org/abs/2409.03646v1](http://arxiv.org/abs/2409.03646v1)
+- 2024-09-05, **Variance reduction in Texas hold'em and in video poker**, Stewart N. Ethier et.al., Paper: [http://arxiv.org/abs/2409.03607v1](http://arxiv.org/abs/2409.03607v1)
+- 2024-09-05, **SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing**, Lingyu Xiong et.al., Paper: [http://arxiv.org/abs/2409.03605v1](http://arxiv.org/abs/2409.03605v1)
 - 2024-09-04, **SITAR: Semi-supervised Image Transformer for Action Recognition**, Owais Iqbal et.al., Paper: [http://arxiv.org/abs/2409.02910v1](http://arxiv.org/abs/2409.02910v1)
 - 2024-09-04, **GraphTrials: Visual Proofs of Graph Properties**, Henry Förster et.al., Paper: [http://arxiv.org/abs/2409.02907v1](http://arxiv.org/abs/2409.02907v1)
 - 2024-09-04, **Classification of spin-$1/2$ fermionic quantum spin liquids on the trillium lattice**, Ming-Hao Li et.al., Paper: [http://arxiv.org/abs/2409.02898v1](http://arxiv.org/abs/2409.02898v1)
@@ -5613,6 +5623,16 @@
 
 ## MultiModal
 
+- 2024-09-05, **Sensor fusion luminescence thermometry better together**, Aleksandar Ćirić et.al., Paper: [http://arxiv.org/abs/2409.03479v1](http://arxiv.org/abs/2409.03479v1)
+- 2024-09-05, **An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**, Bo Xu et.al., Paper: [http://arxiv.org/abs/2409.03433v1](http://arxiv.org/abs/2409.03433v1)
+- 2024-09-05, **TG-LMM: Enhancing Medical Image Segmentation Accuracy through Text-Guided Large Multi-Modal Model**, Yihao Zhao et.al., Paper: [http://arxiv.org/abs/2409.03412v1](http://arxiv.org/abs/2409.03412v1)
+- 2024-09-05, **Thermo-electron accumulation in light and heavy water during MHz-burst laser ablation**, Denys Moskal et.al., Paper: [http://arxiv.org/abs/2409.03311v1](http://arxiv.org/abs/2409.03311v1)
+- 2024-09-05, **Interpretable mixture of experts for time series prediction under recurrent and non-recurrent conditions**, Zemian Ke et.al., Paper: [http://arxiv.org/abs/2409.03282v1](http://arxiv.org/abs/2409.03282v1)
+- 2024-09-05, **Dual-TSST: A Dual-Branch Temporal-Spectral-Spatial Transformer Model for EEG Decoding**, Hongqi Li et.al., Paper: [http://arxiv.org/abs/2409.03251v1](http://arxiv.org/abs/2409.03251v1)
+- 2024-09-05, **Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion**, Chenguang Zhu et.al., Paper: [http://arxiv.org/abs/2409.03223v1](http://arxiv.org/abs/2409.03223v1)
+- 2024-09-05, **Bi-capacity Choquet Integral for Sensor Fusion with Label Uncertainty**, Hersh Vakharia et.al., Paper: [http://arxiv.org/abs/2409.03212v1](http://arxiv.org/abs/2409.03212v1), Code: **[https://github.com/hvak/bi-michi](https://github.com/hvak/bi-michi)**
+- 2024-09-05, **RoomDiffusion: A Specialized Diffusion Model in the Interior Design Industry**, Zhaowei Wang et.al., Paper: [http://arxiv.org/abs/2409.03198v1](http://arxiv.org/abs/2409.03198v1)
+- 2024-09-05, **Exceptional topology in Non-Hermitian Twisted Bilayer Graphene**, Yingyi Huang et.al., Paper: [http://arxiv.org/abs/2409.03145v1](http://arxiv.org/abs/2409.03145v1)
 - 2024-09-04, **Simple fusion-fission quantifies Israel-Palestine violence and suggests multi-adversary solution**, Frank Yingjie Huo et.al., Paper: [http://arxiv.org/abs/2409.02816v1](http://arxiv.org/abs/2409.02816v1)
 - 2024-09-04, **Segregation in binary mixture with differential contraction among active rings**, Emanuel F. Teixeira et.al., Paper: [http://arxiv.org/abs/2409.02814v1](http://arxiv.org/abs/2409.02814v1)
 - 2024-09-04, **Ion-specific Stability of Gold Nanoparticle Suspensions**, Philipp Ritzert et.al., Paper: [http://arxiv.org/abs/2409.02762v1](http://arxiv.org/abs/2409.02762v1)
