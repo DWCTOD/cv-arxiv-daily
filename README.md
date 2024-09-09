@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Synergy and Synchrony in Couple Dances**|Vongani Maluleke et.al.|[2409.04440v1](http://arxiv.org/abs/2409.04440v1)|null|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429v1](http://arxiv.org/abs/2409.04429v1)|null|
+|**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424v1](http://arxiv.org/abs/2409.04424v1)|null|
+|**2024-09-06**|**Virtual Reality-Based Preoperative Planning for Optimized Trocar Placement in Thoracic Surgery: A Preliminary Study**|Arash Harirpoush et.al.|[2409.04414v1](http://arxiv.org/abs/2409.04414v1)|null|
+|**2024-09-06**|**Quantum Kernel Methods under Scrutiny: A Benchmarking Study**|Jan Schnabel et.al.|[2409.04406v1](http://arxiv.org/abs/2409.04406v1)|null|
+|**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v1](http://arxiv.org/abs/2409.04388v1)|null|
+|**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
+|**2024-09-06**|**Enhancing Skin Lesion Diagnosis with Ensemble Learning**|Xiaoyi Liu et.al.|[2409.04381v1](http://arxiv.org/abs/2409.04381v1)|null|
+|**2024-09-06**|**Tykhyy's Conjecture on finite mapping class group orbits**|Samuel Bronstein et.al.|[2409.04379v1](http://arxiv.org/abs/2409.04379v1)|null|
+|**2024-09-06**|**The Impact of Scanner Domain Shift on Deep Learning Performance in Medical Imaging: an Experimental Study**|Gregory Szumel et.al.|[2409.04368v1](http://arxiv.org/abs/2409.04368v1)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Dynamics of Supervised and Reinforcement Learning in the Non-Linear Perceptron**|Christian Schmid et.al.|[2409.03749v1](http://arxiv.org/abs/2409.03749v1)|null|
 |**2024-09-05**|**Orbital Support and Evolution of CX/OX Structures in Boxy/Peanut Bars**|Behzad Tahmasebzadeh et.al.|[2409.03746v1](http://arxiv.org/abs/2409.03746v1)|null|
@@ -5627,6 +5637,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390v1](http://arxiv.org/abs/2409.04390v1)|null|
+|**2024-09-06**|**RCNet: Deep Recurrent Collaborative Network for Multi-View Low-Light Image Enhancement**|Hao Luo et.al.|[2409.04363v1](http://arxiv.org/abs/2409.04363v1)|**[link](https://github.com/hluo29/rcnet)**|
+|**2024-09-06**|**AttentionX: Exploiting Consensus Discrepancy In Attention from A Distributed Optimization Perspective**|Guoqiang Zhang et.al.|[2409.04275v1](http://arxiv.org/abs/2409.04275v1)|null|
+|**2024-09-06**|**A Coin Has Two Sides: A Novel Detector-Corrector Framework for Chinese Spelling Correction**|Xiangke Zeng et.al.|[2409.04150v1](http://arxiv.org/abs/2409.04150v1)|null|
+|**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
+|**2024-09-06**|**Boundary feature fusion network for tooth image segmentation**|Dongping Zhang et.al.|[2409.03982v1](http://arxiv.org/abs/2409.03982v1)|null|
+|**2024-09-05**|**Long-distance N-partite information for fermionic CFTs**|César A. Agón et.al.|[2409.03821v1](http://arxiv.org/abs/2409.03821v1)|null|
 |**2024-09-05**|**Sensor fusion luminescence thermometry better together**|Aleksandar Ćirić et.al.|[2409.03479v1](http://arxiv.org/abs/2409.03479v1)|null|
 |**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433v1](http://arxiv.org/abs/2409.03433v1)|null|
 |**2024-09-05**|**TG-LMM: Enhancing Medical Image Segmentation Accuracy through Text-Guided Large Multi-Modal Model**|Yihao Zhao et.al.|[2409.03412v1](http://arxiv.org/abs/2409.03412v1)|null|
