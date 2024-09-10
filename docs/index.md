@@ -13,7 +13,7 @@ layout: default
 |**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424v1](http://arxiv.org/abs/2409.04424v1)|null|
 |**2024-09-06**|**Virtual Reality-Based Preoperative Planning for Optimized Trocar Placement in Thoracic Surgery: A Preliminary Study**|Arash Harirpoush et.al.|[2409.04414v1](http://arxiv.org/abs/2409.04414v1)|null|
 |**2024-09-06**|**Quantum Kernel Methods under Scrutiny: A Benchmarking Study**|Jan Schnabel et.al.|[2409.04406v1](http://arxiv.org/abs/2409.04406v1)|null|
-|**2024-09-06**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v1](http://arxiv.org/abs/2409.04388v1)|null|
+|**2024-09-09**|**Question-Answering Dense Video Events**|Hangyu Qin et.al.|[2409.04388v2](http://arxiv.org/abs/2409.04388v2)|null|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
 |**2024-09-06**|**Enhancing Skin Lesion Diagnosis with Ensemble Learning**|Xiaoyi Liu et.al.|[2409.04381v1](http://arxiv.org/abs/2409.04381v1)|null|
 |**2024-09-06**|**Tykhyy's Conjecture on finite mapping class group orbits**|Samuel Bronstein et.al.|[2409.04379v1](http://arxiv.org/abs/2409.04379v1)|null|
@@ -5643,7 +5643,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390v1](http://arxiv.org/abs/2409.04390v1)|null|
 |**2024-09-06**|**RCNet: Deep Recurrent Collaborative Network for Multi-View Low-Light Image Enhancement**|Hao Luo et.al.|[2409.04363v1](http://arxiv.org/abs/2409.04363v1)|**[link](https://github.com/hluo29/rcnet)**|
-|**2024-09-06**|**AttentionX: Exploiting Consensus Discrepancy In Attention from A Distributed Optimization Perspective**|Guoqiang Zhang et.al.|[2409.04275v1](http://arxiv.org/abs/2409.04275v1)|null|
+|**2024-09-09**|**AttentionX: Exploiting Consensus Discrepancy In Attention from A Distributed Optimization Perspective**|Guoqiang Zhang et.al.|[2409.04275v2](http://arxiv.org/abs/2409.04275v2)|null|
 |**2024-09-06**|**A Coin Has Two Sides: A Novel Detector-Corrector Framework for Chinese Spelling Correction**|Xiangke Zeng et.al.|[2409.04150v1](http://arxiv.org/abs/2409.04150v1)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
 |**2024-09-06**|**Boundary feature fusion network for tooth image segmentation**|Dongping Zhang et.al.|[2409.03982v1](http://arxiv.org/abs/2409.03982v1)|null|
