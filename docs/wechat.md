@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-09-09, **Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**, Haritheja Etukuru et.al., Paper: [http://arxiv.org/abs/2409.05865v1](http://arxiv.org/abs/2409.05865v1)
+- 2024-09-09, **Neural MP: A Generalist Neural Motion Planner**, Murtaza Dalal et.al., Paper: [http://arxiv.org/abs/2409.05864v1](http://arxiv.org/abs/2409.05864v1)
+- 2024-09-09, **LSVOS Challenge Report: Large-scale Complex and Long Video Object Segmentation**, Henghui Ding et.al., Paper: [http://arxiv.org/abs/2409.05847v1](http://arxiv.org/abs/2409.05847v1)
+- 2024-09-09, **Finite-size topological phases from semimetals**, Adipta Pal et.al., Paper: [http://arxiv.org/abs/2409.05842v1](http://arxiv.org/abs/2409.05842v1)
+- 2024-09-09, **Fast Generation of Custom Floating-Point Spatial Filters on FPGAs**, Nelson Campos et.al., Paper: [http://arxiv.org/abs/2409.05837v1](http://arxiv.org/abs/2409.05837v1)
+- 2024-09-09, **Limits on the computational expressivity of non-equilibrium biophysical processes**, Carlos Floyd et.al., Paper: [http://arxiv.org/abs/2409.05827v1](http://arxiv.org/abs/2409.05827v1)
+- 2024-09-09, **A Flexible Framework for Universal Computational Aberration Correction via Automatic Lens Library Generation and Domain Adaptation**, Qi Jiang et.al., Paper: [http://arxiv.org/abs/2409.05809v1](http://arxiv.org/abs/2409.05809v1)
+- 2024-09-09, **A CLIP-based siamese approach for meme classification**, Javier Huertas-Tato et.al., Paper: [http://arxiv.org/abs/2409.05772v1](http://arxiv.org/abs/2409.05772v1)
+- 2024-09-09, **Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**, Kuan-Cheng Chen et.al., Paper: [http://arxiv.org/abs/2409.05770v1](http://arxiv.org/abs/2409.05770v1)
+- 2024-09-09, **A Toolkit for Joint Speaker Diarization and Identification with Application to Speaker-Attributed ASR**, Giovanni Morrone et.al., Paper: [http://arxiv.org/abs/2409.05750v1](http://arxiv.org/abs/2409.05750v1)
 - 2024-09-06, **Synergy and Synchrony in Couple Dances**, Vongani Maluleke et.al., Paper: [http://arxiv.org/abs/2409.04440v1](http://arxiv.org/abs/2409.04440v1)
 - 2024-09-06, **VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**, Yecheng Wu et.al., Paper: [http://arxiv.org/abs/2409.04429v1](http://arxiv.org/abs/2409.04429v1)
 - 2024-09-06, **Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**, Davide Clode da Silva et.al., Paper: [http://arxiv.org/abs/2409.04424v1](http://arxiv.org/abs/2409.04424v1)
@@ -5633,6 +5643,16 @@
 
 ## MultiModal
 
+- 2024-09-09, **Enhancement of fusion reactivities using non-Maxwellian energy distributions**, Ben I. Squarer et.al., Paper: [http://arxiv.org/abs/2409.05848v1](http://arxiv.org/abs/2409.05848v1)
+- 2024-09-09, **A CLIP-based siamese approach for meme classification**, Javier Huertas-Tato et.al., Paper: [http://arxiv.org/abs/2409.05772v1](http://arxiv.org/abs/2409.05772v1)
+- 2024-09-09, **A Survey of Multimodal Composite Editing and Retrieval**, Suyan Li et.al., Paper: [http://arxiv.org/abs/2409.05405v1](http://arxiv.org/abs/2409.05405v1)
+- 2024-09-09, **TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation**, Jiaqi Yang et.al., Paper: [http://arxiv.org/abs/2409.05393v1](http://arxiv.org/abs/2409.05393v1)
+- 2024-09-09, **KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**, Yingshu Li et.al., Paper: [http://arxiv.org/abs/2409.05370v1](http://arxiv.org/abs/2409.05370v1)
+- 2024-09-09, **Practicality meets precision: Wearable vest with integrated multi-channel PCG sensors for effective coronary artery disease pre-screening**, Matthew Fynn et.al., Paper: [http://arxiv.org/abs/2409.05360v1](http://arxiv.org/abs/2409.05360v1)
+- 2024-09-09, **KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation**, Hoang-Son Vo-Thanh et.al., Paper: [http://arxiv.org/abs/2409.05330v1](http://arxiv.org/abs/2409.05330v1), Code: **[https://github.com/sowwnn/KFusion-Dual-Domain-for-Speech-to-Landmarks](https://github.com/sowwnn/KFusion-Dual-Domain-for-Speech-to-Landmarks)**
+- 2024-09-09, **FIF-UNet: An Efficient UNet Using Feature Interaction and Fusion for Medical Image Segmentation**, Xiaolin Gou et.al., Paper: [http://arxiv.org/abs/2409.05324v1](http://arxiv.org/abs/2409.05324v1)
+- 2024-09-08, **Pump depletion and the Raman gap in ignition-scale plasmas**, S. H. Cao et.al., Paper: [http://arxiv.org/abs/2409.05232v1](http://arxiv.org/abs/2409.05232v1)
+- 2024-09-08, **Unsupervised Multimodal 3D Medical Image Registration with Multilevel Correlation Balanced Optimization**, Jiazheng Wang et.al., Paper: [http://arxiv.org/abs/2409.05040v1](http://arxiv.org/abs/2409.05040v1)
 - 2024-09-06, **Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**, Rui Yu et.al., Paper: [http://arxiv.org/abs/2409.04390v1](http://arxiv.org/abs/2409.04390v1)
 - 2024-09-06, **RCNet: Deep Recurrent Collaborative Network for Multi-View Low-Light Image Enhancement**, Hao Luo et.al., Paper: [http://arxiv.org/abs/2409.04363v1](http://arxiv.org/abs/2409.04363v1), Code: **[https://github.com/hluo29/rcnet](https://github.com/hluo29/rcnet)**
 - 2024-09-09, **AttentionX: Exploiting Consensus Discrepancy In Attention from A Distributed Optimization Perspective**, Guoqiang Zhang et.al., Paper: [http://arxiv.org/abs/2409.04275v2](http://arxiv.org/abs/2409.04275v2)
