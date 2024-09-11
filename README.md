@@ -1,4 +1,4 @@
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 
 ## Video_Classification
 
@@ -7,7 +7,7 @@
 |**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|null|
 |**2024-09-09**|**Neural MP: A Generalist Neural Motion Planner**|Murtaza Dalal et.al.|[2409.05864v1](http://arxiv.org/abs/2409.05864v1)|null|
 |**2024-09-09**|**LSVOS Challenge Report: Large-scale Complex and Long Video Object Segmentation**|Henghui Ding et.al.|[2409.05847v1](http://arxiv.org/abs/2409.05847v1)|null|
-|**2024-09-09**|**Finite-size topological phases from semimetals**|Adipta Pal et.al.|[2409.05842v1](http://arxiv.org/abs/2409.05842v1)|null|
+|**2024-09-10**|**Finite-size topological phases from semimetals**|Adipta Pal et.al.|[2409.05842v2](http://arxiv.org/abs/2409.05842v2)|null|
 |**2024-09-09**|**Fast Generation of Custom Floating-Point Spatial Filters on FPGAs**|Nelson Campos et.al.|[2409.05837v1](http://arxiv.org/abs/2409.05837v1)|null|
 |**2024-09-09**|**Limits on the computational expressivity of non-equilibrium biophysical processes**|Carlos Floyd et.al.|[2409.05827v1](http://arxiv.org/abs/2409.05827v1)|null|
 |**2024-09-09**|**A Flexible Framework for Universal Computational Aberration Correction via Automatic Lens Library Generation and Domain Adaptation**|Qi Jiang et.al.|[2409.05809v1](http://arxiv.org/abs/2409.05809v1)|null|
