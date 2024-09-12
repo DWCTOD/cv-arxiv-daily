@@ -1,4 +1,4 @@
-> Updated on 2024.09.11
+> Updated on 2024.09.12
 
 ## Video_Classification
 
@@ -5661,7 +5661,7 @@
 - 2024-09-10, **SDF-Net: A Hybrid Detection Network for Mediastinal Lymph Node Detection on Contrast CT Images**, Jiuli Xiong et.al., Paper: [http://arxiv.org/abs/2409.06324v1](http://arxiv.org/abs/2409.06324v1)
 - 2024-09-10, **ALSS-YOLO: An Adaptive Lightweight Channel Split and Shuffling Network for TIR Wildlife Detection in UAV Imagery**, Ang He et.al., Paper: [http://arxiv.org/abs/2409.06259v1](http://arxiv.org/abs/2409.06259v1), Code: **[https://github.com/helloworlder8/computer_vision](https://github.com/helloworlder8/computer_vision)**
 - 2024-09-10, **Ocneanu Algebra of Seams: Critical Unitary $E_6$ RSOS Lattice Model**, Paul A. Pearce et.al., Paper: [http://arxiv.org/abs/2409.06236v1](http://arxiv.org/abs/2409.06236v1)
-- 2024-09-10, **MTDA-HSED: Mutual-Assistance Tuning and Dual-Branch Aggregating for Heterogeneous Sound Event Detection**, Zehao Wang et.al., Paper: [http://arxiv.org/abs/2409.06196v1](http://arxiv.org/abs/2409.06196v1), Code: **[https://github.com/visitor-w/mtda](https://github.com/visitor-w/mtda)**
+- 2024-09-11, **MTDA-HSED: Mutual-Assistance Tuning and Dual-Branch Aggregating for Heterogeneous Sound Event Detection**, Zehao Wang et.al., Paper: [http://arxiv.org/abs/2409.06196v2](http://arxiv.org/abs/2409.06196v2), Code: **[https://github.com/visitor-w/mtda](https://github.com/visitor-w/mtda)**
 - 2024-09-10, **Case Study: Leveraging GenAI to Build AI-based Surrogates and Regressors for Modeling Radio Frequency Heating in Fusion Energy Science**, E. Wes Bethel et.al., Paper: [http://arxiv.org/abs/2409.06122v1](http://arxiv.org/abs/2409.06122v1)
 - 2024-09-09, **Enhancement of fusion reactivities using non-Maxwellian energy distributions**, Ben I. Squarer et.al., Paper: [http://arxiv.org/abs/2409.05848v1](http://arxiv.org/abs/2409.05848v1)
 - 2024-09-09, **A CLIP-based siamese approach for meme classification**, Javier Huertas-Tato et.al., Paper: [http://arxiv.org/abs/2409.05772v1](http://arxiv.org/abs/2409.05772v1)
