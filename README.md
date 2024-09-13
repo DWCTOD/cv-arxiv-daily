@@ -1,4 +1,4 @@
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@
 |**2024-09-11**|**Controllable retinal image synthesis using conditional StyleGAN and latent space manipulation for improved diagnosis and grading of diabetic retinopathy**|Somayeh Pakdelmoez et.al.|[2409.07422v1](http://arxiv.org/abs/2409.07422v1)|null|
 |**2024-09-11**|**Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**|Yunzhen Wang et.al.|[2409.07417v1](http://arxiv.org/abs/2409.07417v1)|null|
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414v1](http://arxiv.org/abs/2409.07414v1)|null|
-|**2024-09-11**|**Robust Robot Walker: Learning Agile Locomotion over Tiny Traps**|Shaoting Zhu et.al.|[2409.07409v1](http://arxiv.org/abs/2409.07409v1)|null|
+|**2024-09-12**|**Robust Robot Walker: Learning Agile Locomotion over Tiny Traps**|Shaoting Zhu et.al.|[2409.07409v2](http://arxiv.org/abs/2409.07409v2)|null|
 |**2024-09-11**|**Revisiting Static Feature-Based Android Malware Detection**|Md Tanvirul Alam et.al.|[2409.07397v1](http://arxiv.org/abs/2409.07397v1)|null|
 |**2024-09-10**|**A study on Deep Convolutional Neural Networks, Transfer Learning and Ensemble Model for Breast Cancer Detection**|Md Taimur Ahad et.al.|[2409.06699v1](http://arxiv.org/abs/2409.06699v1)|null|
 |**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694v1](http://arxiv.org/abs/2409.06694v1)|null|
