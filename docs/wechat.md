@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-09-13, **An Efficient and Streaming Audio Visual Active Speaker Detection System**, Arnav Kundu et.al., Paper: [http://arxiv.org/abs/2409.09018v1](http://arxiv.org/abs/2409.09018v1)
+- 2024-09-13, **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**, Qingwen Bu et.al., Paper: [http://arxiv.org/abs/2409.09016v1](http://arxiv.org/abs/2409.09016v1), Code: **[https://github.com/OpenDriveLab/CLOVER](https://github.com/OpenDriveLab/CLOVER)**
+- 2024-09-13, **Model-independent variable selection via the rule-based variable priorit**, Min Lu et.al., Paper: [http://arxiv.org/abs/2409.09003v1](http://arxiv.org/abs/2409.09003v1)
+- 2024-09-13, **Biomimetic Frontend for Differentiable Audio Processing**, Ruolan Leslie Famularo et.al., Paper: [http://arxiv.org/abs/2409.08997v1](http://arxiv.org/abs/2409.08997v1), Code: **[https://github.com/pirl-lab/diffAudNeuro](https://github.com/pirl-lab/diffAudNeuro)**
+- 2024-09-13, **Comparative Analysis of Pretrained Audio Representations in Music Recommender Systems**, Yan-Martin Tamm et.al., Paper: [http://arxiv.org/abs/2409.08987v1](http://arxiv.org/abs/2409.08987v1), Code: **[https://github.com/Darel13712/pretrained-audio-representations](https://github.com/Darel13712/pretrained-audio-representations)**
+- 2024-09-13, **Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph**, Samuel Fernández-Menduiña et.al., Paper: [http://arxiv.org/abs/2409.08970v1](http://arxiv.org/abs/2409.08970v1)
+- 2024-09-13, **Pushing the boundaries of event subsampling in event-based video classification using CNNs**, Hesam Araghi et.al., Paper: [http://arxiv.org/abs/2409.08953v1](http://arxiv.org/abs/2409.08953v1), Code: **[https://github.com/hesamaraghi/pushing-boundaries-event-subsampling](https://github.com/hesamaraghi/pushing-boundaries-event-subsampling)**
+- 2024-09-13, **Pushing Joint Image Denoising and Classification to the Edge**, Thomas C Markhorst et.al., Paper: [http://arxiv.org/abs/2409.08943v1](http://arxiv.org/abs/2409.08943v1)
+- 2024-09-13, **LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**, Farnoosh Javadi et.al., Paper: [http://arxiv.org/abs/2409.08931v1](http://arxiv.org/abs/2409.08931v1)
+- 2024-09-13, **Classification of electronic structures and state preparation for quantum computation of reaction chemistry**, Maximilian Mörchen et.al., Paper: [http://arxiv.org/abs/2409.08910v1](http://arxiv.org/abs/2409.08910v1)
 - 2024-09-12, **Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor**, Andrea Conti et.al., Paper: [http://arxiv.org/abs/2409.08277v1](http://arxiv.org/abs/2409.08277v1)
 - 2024-09-12, **Hand-Object Interaction Pretraining from Videos**, Himanshu Gaurav Singh et.al., Paper: [http://arxiv.org/abs/2409.08273v1](http://arxiv.org/abs/2409.08273v1)
 - 2024-09-12, **DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**, Runjia Li et.al., Paper: [http://arxiv.org/abs/2409.08271v1](http://arxiv.org/abs/2409.08271v1)
@@ -5673,6 +5683,16 @@
 
 ## MultiModal
 
+- 2024-09-13, **Bimodules over twisted Zhu algebras and a construction of tensor product of twisted modules for vertex operator algebras**, Yiyi Zhu et.al., Paper: [http://arxiv.org/abs/2409.08995v1](http://arxiv.org/abs/2409.08995v1)
+- 2024-09-13, **ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**, Kaixin Bai et.al., Paper: [http://arxiv.org/abs/2409.08926v1](http://arxiv.org/abs/2409.08926v1)
+- 2024-09-13, **Can Kans (re)discover predictive models for Direct-Drive Laser Fusion?**, Rahman Ejaz et.al., Paper: [http://arxiv.org/abs/2409.08832v1](http://arxiv.org/abs/2409.08832v1)
+- 2024-09-13, **Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**, Yunus Bilge Kurt et.al., Paper: [http://arxiv.org/abs/2409.08769v1](http://arxiv.org/abs/2409.08769v1), Code: **[https://github.com/ybkurt/vift](https://github.com/ybkurt/vift)**
+- 2024-09-13, **SkinFormer: Learning Statistical Texture Representation with Transformer for Skin Lesion Segmentation**, Rongtao Xu et.al., Paper: [http://arxiv.org/abs/2409.08652v1](http://arxiv.org/abs/2409.08652v1), Code: **[https://github.com/rongtao-xu/skinformer](https://github.com/rongtao-xu/skinformer)**
+- 2024-09-13, **DualSep: A Light-weight dual-encoder convolutional recurrent network for real-time in-car speech separation**, Ziqian Wang et.al., Paper: [http://arxiv.org/abs/2409.08610v1](http://arxiv.org/abs/2409.08610v1)
+- 2024-09-13, **Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori**, Jinhong He et.al., Paper: [http://arxiv.org/abs/2409.08585v1](http://arxiv.org/abs/2409.08585v1)
+- 2024-09-13, **ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**, Zezheng Qin et.al., Paper: [http://arxiv.org/abs/2409.08543v1](http://arxiv.org/abs/2409.08543v1)
+- 2024-09-13, **AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**, Zechao Sun et.al., Paper: [http://arxiv.org/abs/2409.08516v1](http://arxiv.org/abs/2409.08516v1)
+- 2024-09-13, **Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection**, Haoxuan Wang et.al., Paper: [http://arxiv.org/abs/2409.08513v1](http://arxiv.org/abs/2409.08513v1), Code: **[https://github.com/Xuan-World/Mamba-YOLO-World](https://github.com/Xuan-World/Mamba-YOLO-World)**
 - 2024-09-12, **Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning**, Jinsu Kim et.al., Paper: [http://arxiv.org/abs/2409.08231v1](http://arxiv.org/abs/2409.08231v1)
 - 2024-09-12, **Ultrashort laser-induced nuclear reactions: initiating decay of helium nuclei and subsequent fusion reactions**, L. M. Kovachev et.al., Paper: [http://arxiv.org/abs/2409.08186v1](http://arxiv.org/abs/2409.08186v1)
 - 2024-09-12, **MagicStyle: Portrait Stylization Based on Reference Image**, Zhaoli Deng et.al., Paper: [http://arxiv.org/abs/2409.08156v1](http://arxiv.org/abs/2409.08156v1)
