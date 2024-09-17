@@ -5700,7 +5700,7 @@ layout: default
 |**2024-09-13**|**Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori**|Jinhong He et.al.|[2409.08585v1](http://arxiv.org/abs/2409.08585v1)|null|
 |**2024-09-13**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543v1](http://arxiv.org/abs/2409.08543v1)|null|
 |**2024-09-13**|**AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**|Zechao Sun et.al.|[2409.08516v1](http://arxiv.org/abs/2409.08516v1)|null|
-|**2024-09-13**|**Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection**|Haoxuan Wang et.al.|[2409.08513v1](http://arxiv.org/abs/2409.08513v1)|**[link](https://github.com/Xuan-World/Mamba-YOLO-World)**|
+|**2024-09-16**|**Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection**|Haoxuan Wang et.al.|[2409.08513v2](http://arxiv.org/abs/2409.08513v2)|**[link](https://github.com/Xuan-World/Mamba-YOLO-World)**|
 |**2024-09-12**|**Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning**|Jinsu Kim et.al.|[2409.08231v1](http://arxiv.org/abs/2409.08231v1)|null|
 |**2024-09-12**|**Ultrashort laser-induced nuclear reactions: initiating decay of helium nuclei and subsequent fusion reactions**|L. M. Kovachev et.al.|[2409.08186v1](http://arxiv.org/abs/2409.08186v1)|null|
 |**2024-09-12**|**MagicStyle: Portrait Stylization Based on Reference Image**|Zhaoli Deng et.al.|[2409.08156v1](http://arxiv.org/abs/2409.08156v1)|null|
