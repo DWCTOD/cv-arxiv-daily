@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Enhancing Video Transmission with Machine Learning based Routing in Software-Defined Networks**|Anıl Dursun İpek et.al.|[2409.10512v1](http://arxiv.org/abs/2409.10512v1)|null|
+|**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481v1](http://arxiv.org/abs/2409.10481v1)|null|
+|**2024-09-16**|**Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control**|Juan Alvarez-Padilla et.al.|[2409.10469v1](http://arxiv.org/abs/2409.10469v1)|null|
+|**2024-09-16**|**Assortativity in sympatric speciation and species classification**|Joao U. F. Lizarraga et.al.|[2409.10466v1](http://arxiv.org/abs/2409.10466v1)|null|
+|**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463v1](http://arxiv.org/abs/2409.10463v1)|null|
+|**2024-09-16**|**Deep-Wide Learning Assistance for Insect Pest Classification**|Toan Nguyen et.al.|[2409.10445v1](http://arxiv.org/abs/2409.10445v1)|**[link](https://github.com/toannguyen1904/dewi)**|
+|**2024-09-16**|**A point process approach for the classification of noisy calcium imaging data**|Arianna Burzacchi et.al.|[2409.10409v1](http://arxiv.org/abs/2409.10409v1)|null|
+|**2024-09-16**|**MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning**|Hwihun Jeong et.al.|[2409.10394v1](http://arxiv.org/abs/2409.10394v1)|**[link](https://github.com/snu-list/most)**|
+|**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362v1](http://arxiv.org/abs/2409.10362v1)|null|
+|**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357v1](http://arxiv.org/abs/2409.10357v1)|null|
 |**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018v1](http://arxiv.org/abs/2409.09018v1)|null|
 |**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016v1](http://arxiv.org/abs/2409.09016v1)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
 |**2024-09-13**|**Model-independent variable selection via the rule-based variable priorit**|Min Lu et.al.|[2409.09003v1](http://arxiv.org/abs/2409.09003v1)|null|
@@ -5691,6 +5701,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481v1](http://arxiv.org/abs/2409.10481v1)|null|
+|**2024-09-16**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328v1](http://arxiv.org/abs/2409.10328v1)|null|
+|**2024-09-16**|**BAFNet: Bilateral Attention Fusion Network for Lightweight Semantic Segmentation of Urban Remote Sensing Images**|Wentao Wang et.al.|[2409.10269v1](http://arxiv.org/abs/2409.10269v1)|null|
+|**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080v1](http://arxiv.org/abs/2409.10080v1)|null|
+|**2024-09-16**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078v1](http://arxiv.org/abs/2409.10078v1)|null|
+|**2024-09-16**|**Towards a Unified Theory for Semiparametric Data Fusion with Individual-Level Data**|Ellen Graham et.al.|[2409.09973v1](http://arxiv.org/abs/2409.09973v1)|null|
+|**2024-09-16**|**Bloch oscillations of Fibonacci anyons**|Xiaoqi Zhou et.al.|[2409.09922v1](http://arxiv.org/abs/2409.09922v1)|null|
+|**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904v1](http://arxiv.org/abs/2409.09904v1)|null|
+|**2024-09-15**|**Leiden-Fusion Partitioning Method for Effective Distributed Training of Graph Embeddings**|Yuhe Bai et.al.|[2409.09887v1](http://arxiv.org/abs/2409.09887v1)|null|
+|**2024-09-15**|**The Current State of the Controversy over Screening in Nuclear Reactions**|Werner Däppen et.al.|[2409.09826v1](http://arxiv.org/abs/2409.09826v1)|null|
 |**2024-09-13**|**Bimodules over twisted Zhu algebras and a construction of tensor product of twisted modules for vertex operator algebras**|Yiyi Zhu et.al.|[2409.08995v1](http://arxiv.org/abs/2409.08995v1)|null|
 |**2024-09-13**|**ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**|Kaixin Bai et.al.|[2409.08926v1](http://arxiv.org/abs/2409.08926v1)|null|
 |**2024-09-13**|**Can Kans (re)discover predictive models for Direct-Drive Laser Fusion?**|Rahman Ejaz et.al.|[2409.08832v1](http://arxiv.org/abs/2409.08832v1)|null|
