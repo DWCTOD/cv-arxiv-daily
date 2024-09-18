@@ -5701,7 +5701,7 @@
 |**2024-09-17**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328v2](http://arxiv.org/abs/2409.10328v2)|null|
 |**2024-09-16**|**BAFNet: Bilateral Attention Fusion Network for Lightweight Semantic Segmentation of Urban Remote Sensing Images**|Wentao Wang et.al.|[2409.10269v1](http://arxiv.org/abs/2409.10269v1)|null|
 |**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080v1](http://arxiv.org/abs/2409.10080v1)|null|
-|**2024-09-16**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078v1](http://arxiv.org/abs/2409.10078v1)|null|
+|**2024-09-17**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078v2](http://arxiv.org/abs/2409.10078v2)|null|
 |**2024-09-16**|**Towards a Unified Theory for Semiparametric Data Fusion with Individual-Level Data**|Ellen Graham et.al.|[2409.09973v1](http://arxiv.org/abs/2409.09973v1)|null|
 |**2024-09-16**|**Bloch oscillations of Fibonacci anyons**|Xiaoqi Zhou et.al.|[2409.09922v1](http://arxiv.org/abs/2409.09922v1)|null|
 |**2024-09-16**|**Enhancing Visual Inertial SLAM with Magnetic Measurements**|Bharat Joshi et.al.|[2409.09904v1](http://arxiv.org/abs/2409.09904v1)|null|
