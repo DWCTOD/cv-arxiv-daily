@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Systematic analysis of Parity-Violating modes**|Hong-Ming Zhu et.al.|[2409.11400v1](http://arxiv.org/abs/2409.11400v1)|null|
+|**2024-09-17**|**Online 4D Ultrasound-Guided Robotic Tracking Enables 3D Ultrasound Localisation Microscopy with Large Tissue Displacements**|Jipeng Yan et.al.|[2409.11391v1](http://arxiv.org/abs/2409.11391v1)|null|
+|**2024-09-17**|**Normalization in Proportional Feature Spaces**|Alexandre Benatti et.al.|[2409.11389v1](http://arxiv.org/abs/2409.11389v1)|null|
+|**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375v1](http://arxiv.org/abs/2409.11375v1)|null|
+|**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373v1](http://arxiv.org/abs/2409.11373v1)|null|
+|**2024-09-17**|**Compact Implicit Neural Representations for Plane Wave Images**|Mathilde Monvoisin et.al.|[2409.11370v1](http://arxiv.org/abs/2409.11370v1)|null|
+|**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367v1](http://arxiv.org/abs/2409.11367v1)|null|
+|**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353v1](http://arxiv.org/abs/2409.11353v1)|null|
+|**2024-09-17**|**CLIP Adaptation by Intra-modal Overlap Reduction**|Alexey Kravets et.al.|[2409.11338v1](http://arxiv.org/abs/2409.11338v1)|null|
+|**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323v1](http://arxiv.org/abs/2409.11323v1)|null|
 |**2024-09-16**|**Enhancing Video Transmission with Machine Learning based Routing in Software-Defined Networks**|Anıl Dursun İpek et.al.|[2409.10512v1](http://arxiv.org/abs/2409.10512v1)|null|
 |**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481v1](http://arxiv.org/abs/2409.10481v1)|null|
 |**2024-09-16**|**Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control**|Juan Alvarez-Padilla et.al.|[2409.10469v1](http://arxiv.org/abs/2409.10469v1)|null|
@@ -5701,6 +5711,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Black-box Stealthy GPS Attacks on Unmanned Aerial Vehicles**|Amir Khazraei et.al.|[2409.11405v1](http://arxiv.org/abs/2409.11405v1)|null|
+|**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375v1](http://arxiv.org/abs/2409.11375v1)|null|
+|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
+|**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315v1](http://arxiv.org/abs/2409.11315v1)|null|
+|**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223v1](http://arxiv.org/abs/2409.11223v1)|null|
+|**2024-09-17**|**Identifying Influential nodes in Brain Networks via Self-Supervised Graph-Transformer**|Yanqing Kang et.al.|[2409.11174v1](http://arxiv.org/abs/2409.11174v1)|null|
+|**2024-09-17**|**D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding**|Xiaobao Song et.al.|[2409.11024v1](http://arxiv.org/abs/2409.11024v1)|null|
+|**2024-09-17**|**Robust High-Speed State Estimation for Off-road Navigation using Radar Velocity Factors**|Morten Nissov et.al.|[2409.10953v1](http://arxiv.org/abs/2409.10953v1)|null|
+|**2024-09-17**|**Pose estimation of CubeSats via sensor fusion and Error-State Extended Kalman Filter**|Deep Parikh et.al.|[2409.10815v1](http://arxiv.org/abs/2409.10815v1)|null|
+|**2024-09-16**|**The Extreme Points of Fusions**|Andreas Kleiner et.al.|[2409.10779v1](http://arxiv.org/abs/2409.10779v1)|null|
 |**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481v1](http://arxiv.org/abs/2409.10481v1)|null|
 |**2024-09-17**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328v2](http://arxiv.org/abs/2409.10328v2)|null|
 |**2024-09-16**|**BAFNet: Bilateral Attention Fusion Network for Lightweight Semantic Segmentation of Urban Remote Sensing Images**|Wentao Wang et.al.|[2409.10269v1](http://arxiv.org/abs/2409.10269v1)|null|
