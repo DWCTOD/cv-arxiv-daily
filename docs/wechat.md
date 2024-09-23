@@ -1,8 +1,8 @@
-> Updated on 2024.09.22
+> Updated on 2024.09.23
 
 ## Video_Classification
 
-- 2024-09-19, **Gender Representation and Bias in Indian Civil Service Mock Interviews**, Somonnoy Banerjee et.al., Paper: [http://arxiv.org/abs/2409.12194v2](http://arxiv.org/abs/2409.12194v2)
+- 2024-09-20, **Gender Representation and Bias in Indian Civil Service Mock Interviews**, Somonnoy Banerjee et.al., Paper: [http://arxiv.org/abs/2409.12194v3](http://arxiv.org/abs/2409.12194v3)
 - 2024-09-18, **DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**, Zichen Jeff Cui et.al., Paper: [http://arxiv.org/abs/2409.12192v1](http://arxiv.org/abs/2409.12192v1)
 - 2024-09-18, **Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2409.12191v1](http://arxiv.org/abs/2409.12191v1), Code: **[https://github.com/qwenlm/qwen2-vl](https://github.com/qwenlm/qwen2-vl)**
 - 2024-09-18, **multiPI-TransBTS: A Multi-Path Learning Framework for Brain Tumor Image Segmentation Based on Multi-Physical Information**, Hongjun Zhu et.al., Paper: [http://arxiv.org/abs/2409.12167v1](http://arxiv.org/abs/2409.12167v1), Code: **[https://github.com/JoetheReindeer/multiPI_TransBTS](https://github.com/JoetheReindeer/multiPI_TransBTS)**
