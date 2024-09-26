@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-09-25, **DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**, Yukun Huang et.al., Paper: [http://arxiv.org/abs/2409.17145v1](http://arxiv.org/abs/2409.17145v1)
+- 2024-09-25, **Streaming Neural Images**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2409.17134v1](http://arxiv.org/abs/2409.17134v1)
+- 2024-09-25, **Assessing the Level of Toxicity Against Distinct Groups in Bangla Social Media Comments: A Comprehensive Investigation**, Mukaffi Bin Moin et.al., Paper: [http://arxiv.org/abs/2409.17130v1](http://arxiv.org/abs/2409.17130v1)
+- 2024-09-25, **Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**, Amin Malekmohammadi et.al., Paper: [http://arxiv.org/abs/2409.17122v1](http://arxiv.org/abs/2409.17122v1), Code: **[https://github.com/swiman/mamba-medical-classification](https://github.com/swiman/mamba-medical-classification)**
+- 2024-09-25, **Counting Triangles in Triangles**, Jim Propp et.al., Paper: [http://arxiv.org/abs/2409.17117v1](http://arxiv.org/abs/2409.17117v1)
+- 2024-09-25, **BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**, Yongqi Xu et.al., Paper: [http://arxiv.org/abs/2409.17093v1](http://arxiv.org/abs/2409.17093v1), Code: **[https://github.com/cheliosoops/bitq](https://github.com/cheliosoops/bitq)**
+- 2024-09-25, **Accumulator-Aware Post-Training Quantization**, Ian Colbert et.al., Paper: [http://arxiv.org/abs/2409.17092v1](http://arxiv.org/abs/2409.17092v1)
+- 2024-09-25, **Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification**, Xinrui Zhou et.al., Paper: [http://arxiv.org/abs/2409.17091v1](http://arxiv.org/abs/2409.17091v1)
+- 2024-09-25, **SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**, Luigi Russo et.al., Paper: [http://arxiv.org/abs/2409.17087v1](http://arxiv.org/abs/2409.17087v1)
+- 2024-09-25, **The Effect of Perceptual Metrics on Music Representation Learning for Genre Classification**, Tashi Namgyal et.al., Paper: [http://arxiv.org/abs/2409.17069v1](http://arxiv.org/abs/2409.17069v1)
 - 2024-09-24, **Self-Supervised Any-Point Tracking by Contrastive Random Walks**, Ayush Shrivastava et.al., Paper: [http://arxiv.org/abs/2409.16288v1](http://arxiv.org/abs/2409.16288v1), Code: **[https://github.com/ayshrv/gmrw](https://github.com/ayshrv/gmrw)**
 - 2024-09-24, **Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2409.16287v1](http://arxiv.org/abs/2409.16287v1)
 - 2024-09-24, **Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**, Homanga Bharadhwaj et.al., Paper: [http://arxiv.org/abs/2409.16283v1](http://arxiv.org/abs/2409.16283v1)
@@ -5723,6 +5733,16 @@
 
 ## MultiModal
 
+- 2024-09-25, **Enhanced Wavelet Scattering Network for image inpainting detection**, Barglazan Adrian-Alin et.al., Paper: [http://arxiv.org/abs/2409.17023v1](http://arxiv.org/abs/2409.17023v1)
+- 2024-09-25, **Analytical calculation of the kinetic q factor and resonant response of toroidally confined plasmas**, Y. Antonenas et.al., Paper: [http://arxiv.org/abs/2409.16980v1](http://arxiv.org/abs/2409.16980v1)
+- 2024-09-25, **A Roadmap for Embodied and Social Grounding in LLMs**, Sara Incao et.al., Paper: [http://arxiv.org/abs/2409.16900v1](http://arxiv.org/abs/2409.16900v1)
+- 2024-09-25, **Fundamental nature of the self-field critical current in superconductors**, Evgeny F. Talantsev et.al., Paper: [http://arxiv.org/abs/2409.16758v1](http://arxiv.org/abs/2409.16758v1)
+- 2024-09-25, **Non-invertible duality defects in one, two, and three dimensions via gauging spatially modulated symmetry**, Hiromi Ebisu et.al., Paper: [http://arxiv.org/abs/2409.16744v1](http://arxiv.org/abs/2409.16744v1)
+- 2024-09-25, **GB-RVFL: Fusion of Randomized Neural Network and Granular Ball Computing**, M. Sajid et.al., Paper: [http://arxiv.org/abs/2409.16735v1](http://arxiv.org/abs/2409.16735v1)
+- 2024-09-25, **Pose-Guided Fine-Grained Sign Language Video Generation**, Tongkai Shi et.al., Paper: [http://arxiv.org/abs/2409.16709v1](http://arxiv.org/abs/2409.16709v1)
+- 2024-09-25, **Morphological-consistent Diffusion Network for Ultrasound Coronal Image Enhancement**, Yihao Zhou et.al., Paper: [http://arxiv.org/abs/2409.16661v1](http://arxiv.org/abs/2409.16661v1)
+- 2024-09-25, **Large radiation back-flux from Monte Carlo simulations of fusion neutron-material interactions**, Michael A. Lively et.al., Paper: [http://arxiv.org/abs/2409.16614v1](http://arxiv.org/abs/2409.16614v1)
+- 2024-09-24, **Topological order in spin nematics from the quantum melting of a disclination lattice**, Predrag Nikolić et.al., Paper: [http://arxiv.org/abs/2409.16352v1](http://arxiv.org/abs/2409.16352v1)
 - 2024-09-24, **Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**, Youwei Yu et.al., Paper: [http://arxiv.org/abs/2409.16228v1](http://arxiv.org/abs/2409.16228v1)
 - 2024-09-24, **Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**, Harry Rogers et.al., Paper: [http://arxiv.org/abs/2409.16213v1](http://arxiv.org/abs/2409.16213v1), Code: **[https://github.com/harry-rogers/psie](https://github.com/harry-rogers/psie)**
 - 2024-09-24, **BCRLB Under the Fusion Extended Kalman Filter**, Mushen Lin et.al., Paper: [http://arxiv.org/abs/2409.16020v1](http://arxiv.org/abs/2409.16020v1)
