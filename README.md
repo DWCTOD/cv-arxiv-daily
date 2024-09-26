@@ -1,9 +1,19 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 
 ## Video_Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Self-Supervised Any-Point Tracking by Contrastive Random Walks**|Ayush Shrivastava et.al.|[2409.16288v1](http://arxiv.org/abs/2409.16288v1)|**[link](https://github.com/ayshrv/gmrw)**|
+|**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287v1](http://arxiv.org/abs/2409.16287v1)|null|
+|**2024-09-24**|**Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**|Homanga Bharadhwaj et.al.|[2409.16283v1](http://arxiv.org/abs/2409.16283v1)|null|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278v1](http://arxiv.org/abs/2409.16278v1)|null|
+|**2024-09-24**|**Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results**|Marcos V. Conde et.al.|[2409.16277v1](http://arxiv.org/abs/2409.16277v1)|null|
+|**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261v1](http://arxiv.org/abs/2409.16261v1)|**[link](https://github.com/techmn/cdchat)**|
+|**2024-09-24**|**Empirically Exploring the Space of Monostationarity in Dual Phosphorylation**|May Cai et.al.|[2409.16234v1](http://arxiv.org/abs/2409.16234v1)|null|
+|**2024-09-24**|**VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection**|Sunghyun Ahn et.al.|[2409.16225v1](http://arxiv.org/abs/2409.16225v1)|**[link](https://github.com/SkiddieAhn/Paper-VideoPatchCore)**|
+|**2024-09-24**|**Upper-body free-breathing Magnetic Resonance Fingerprinting applied to the quantification of water T1 and fat fraction**|Constantin Slioussarenko et.al.|[2409.16200v1](http://arxiv.org/abs/2409.16200v1)|null|
+|**2024-09-24**|**Leveraging Estimated Transferability Over Human Intuition for Model Selection in Text Ranking**|Jun Bai et.al.|[2409.16198v1](http://arxiv.org/abs/2409.16198v1)|null|
 |**2024-09-20**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194v3](http://arxiv.org/abs/2409.12194v3)|null|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191v1](http://arxiv.org/abs/2409.12191v1)|**[link](https://github.com/qwenlm/qwen2-vl)**|
@@ -5717,6 +5727,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228v1](http://arxiv.org/abs/2409.16228v1)|null|
+|**2024-09-24**|**Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation**|Harry Rogers et.al.|[2409.16213v1](http://arxiv.org/abs/2409.16213v1)|**[link](https://github.com/harry-rogers/psie)**|
+|**2024-09-24**|**BCRLB Under the Fusion Extended Kalman Filter**|Mushen Lin et.al.|[2409.16020v1](http://arxiv.org/abs/2409.16020v1)|null|
+|**2024-09-24**|**DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection**|Jiaxin Ye et.al.|[2409.15936v1](http://arxiv.org/abs/2409.15936v1)|**[link](https://github.com/Jiaxin-Ye/DepMamba)**|
+|**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841v1](http://arxiv.org/abs/2409.15841v1)|null|
+|**2024-09-24**|**Development and Evaluation Study of Intelligent Cockpit in the Age of Large Models**|Jun Ma et.al.|[2409.15795v1](http://arxiv.org/abs/2409.15795v1)|null|
+|**2024-09-24**|**StyleFusion TTS: Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis**|Zhiyong Chen et.al.|[2409.15741v1](http://arxiv.org/abs/2409.15741v1)|null|
+|**2024-09-24**|**Adversarial Federated Consensus Learning for Surface Defect Classification Under Data Heterogeneity in IIoT**|Jixuan Cui et.al.|[2409.15711v1](http://arxiv.org/abs/2409.15711v1)|null|
+|**2024-09-24**|**Objectively Evaluating the Reliability of Cell Type Annotation Using LLM-Based Strategies**|Wenjin Ye et.al.|[2409.15678v1](http://arxiv.org/abs/2409.15678v1)|null|
+|**2024-09-24**|**Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting**|Wenbo Yan et.al.|[2409.15662v1](http://arxiv.org/abs/2409.15662v1)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191v1](http://arxiv.org/abs/2409.12191v1)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**multiPI-TransBTS: A Multi-Path Learning Framework for Brain Tumor Image Segmentation Based on Multi-Physical Information**|Hongjun Zhu et.al.|[2409.12167v1](http://arxiv.org/abs/2409.12167v1)|**[link](https://github.com/JoetheReindeer/multiPI_TransBTS)**|
 |**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140v1](http://arxiv.org/abs/2409.12140v1)|null|
