@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-09-26, **EgoLM: Multi-Modal Language Model of Egocentric Motions**, Fangzhou Hong et.al., Paper: [http://arxiv.org/abs/2409.18127v1](http://arxiv.org/abs/2409.18127v1)
+- 2024-09-26, **LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**, Chenming Zhu et.al., Paper: [http://arxiv.org/abs/2409.18125v1](http://arxiv.org/abs/2409.18125v1)
+- 2024-09-26, **RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**, Yuezhan Tao et.al., Paper: [http://arxiv.org/abs/2409.18122v1](http://arxiv.org/abs/2409.18122v1)
+- 2024-09-26, **Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**, Justin Kerr et.al., Paper: [http://arxiv.org/abs/2409.18121v1](http://arxiv.org/abs/2409.18121v1)
+- 2024-09-26, **E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2409.18111v1](http://arxiv.org/abs/2409.18111v1)
+- 2024-09-26, **MALPOLON: A Framework for Deep Species Distribution Modeling**, Theo Larcher et.al., Paper: [http://arxiv.org/abs/2409.18102v1](http://arxiv.org/abs/2409.18102v1)
+- 2024-09-26, **Incorporating sparse labels into biologging studies using hidden Markov models with weighted likelihoods**, Evan Sidrow et.al., Paper: [http://arxiv.org/abs/2409.18091v1](http://arxiv.org/abs/2409.18091v1)
+- 2024-09-26, **Stable Video Portraits**, Mirela Ostrek et.al., Paper: [http://arxiv.org/abs/2409.18083v1](http://arxiv.org/abs/2409.18083v1)
+- 2024-09-26, **Graded contractions on the orthogonal Lie algebras of dimensions 7 and 8**, Cristina Draper et.al., Paper: [http://arxiv.org/abs/2409.18069v1](http://arxiv.org/abs/2409.18069v1)
+- 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
 - 2024-09-25, **DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**, Yukun Huang et.al., Paper: [http://arxiv.org/abs/2409.17145v1](http://arxiv.org/abs/2409.17145v1)
 - 2024-09-25, **Streaming Neural Images**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2409.17134v1](http://arxiv.org/abs/2409.17134v1)
 - 2024-09-25, **Assessing the Level of Toxicity Against Distinct Groups in Bangla Social Media Comments: A Comprehensive Investigation**, Mukaffi Bin Moin et.al., Paper: [http://arxiv.org/abs/2409.17130v1](http://arxiv.org/abs/2409.17130v1)
@@ -5733,6 +5743,16 @@
 
 ## MultiModal
 
+- 2024-09-26, **IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**, Soeun Lee et.al., Paper: [http://arxiv.org/abs/2409.18046v1](http://arxiv.org/abs/2409.18046v1)
+- 2024-09-26, **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**, Zhian Ruan et.al., Paper: [http://arxiv.org/abs/2409.17997v1](http://arxiv.org/abs/2409.17997v1)
+- 2024-09-26, **BlinkTrack: Feature Tracking over 100 FPS via Events and Images**, Yichen Shen et.al., Paper: [http://arxiv.org/abs/2409.17981v1](http://arxiv.org/abs/2409.17981v1)
+- 2024-09-26, **Self-Distilled Depth Refinement with Noisy Poisson Fusion**, Jiaqi Li et.al., Paper: [http://arxiv.org/abs/2409.17880v1](http://arxiv.org/abs/2409.17880v1)
+- 2024-09-26, **Unsupervised Learning Based Multi-Scale Exposure Fusion**, Chaobing Zheng et.al., Paper: [http://arxiv.org/abs/2409.17830v1](http://arxiv.org/abs/2409.17830v1)
+- 2024-09-26, **Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions**, Krishnan Ganesh et.al., Paper: [http://arxiv.org/abs/2409.17813v1](http://arxiv.org/abs/2409.17813v1)
+- 2024-09-26, **Harnessing Shared Relations via Multimodal Mixup Contrastive Learning for Multimodal Classification**, Raja Kumar et.al., Paper: [http://arxiv.org/abs/2409.17777v1](http://arxiv.org/abs/2409.17777v1)
+- 2024-09-26, **AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking**, Shiqi Sun et.al., Paper: [http://arxiv.org/abs/2409.17728v1](http://arxiv.org/abs/2409.17728v1)
+- 2024-09-26, **SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion**, Ming Dai et.al., Paper: [http://arxiv.org/abs/2409.17531v1](http://arxiv.org/abs/2409.17531v1), Code: **[https://github.com/dmmm1997/simvg](https://github.com/dmmm1997/simvg)**
+- 2024-09-25, **Beyond Redundancy: Information-aware Unsupervised Multiplex Graph Structure Learning**, Zhixiang Shen et.al., Paper: [http://arxiv.org/abs/2409.17386v1](http://arxiv.org/abs/2409.17386v1), Code: **[https://github.com/zxlearningdeep/infomgf](https://github.com/zxlearningdeep/infomgf)**
 - 2024-09-25, **Enhanced Wavelet Scattering Network for image inpainting detection**, Barglazan Adrian-Alin et.al., Paper: [http://arxiv.org/abs/2409.17023v1](http://arxiv.org/abs/2409.17023v1)
 - 2024-09-25, **Analytical calculation of the kinetic q factor and resonant response of toroidally confined plasmas**, Y. Antonenas et.al., Paper: [http://arxiv.org/abs/2409.16980v1](http://arxiv.org/abs/2409.16980v1)
 - 2024-09-25, **A Roadmap for Embodied and Social Grounding in LLMs**, Sara Incao et.al., Paper: [http://arxiv.org/abs/2409.16900v1](http://arxiv.org/abs/2409.16900v1)
