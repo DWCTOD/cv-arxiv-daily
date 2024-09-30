@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964v1](http://arxiv.org/abs/2409.18964v1)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957v1](http://arxiv.org/abs/2409.18957v1)|**[link](https://github.com/pro-genai/lml-dap)**|
+|**2024-09-27**|**Unconditional stability of a recurrent neural circuit implementing divisive normalization**|Shivang Rawat et.al.|[2409.18946v1](http://arxiv.org/abs/2409.18946v1)|null|
+|**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938v1](http://arxiv.org/abs/2409.18938v1)|null|
+|**2024-09-27**|**Subspace Preserving Quantum Convolutional Neural Network Architectures**|Léo Monbroussou et.al.|[2409.18918v1](http://arxiv.org/abs/2409.18918v1)|null|
+|**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901v1](http://arxiv.org/abs/2409.18901v1)|null|
+|**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899v1](http://arxiv.org/abs/2409.18899v1)|null|
+|**2024-09-27**|**Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**|Zehan Li et.al.|[2409.18878v1](http://arxiv.org/abs/2409.18878v1)|null|
+|**2024-09-27**|**Simulating Dynamic Tumor Contrast Enhancement in Breast MRI using Conditional Generative Adversarial Networks**|Richard Osuala et.al.|[2409.18872v1](http://arxiv.org/abs/2409.18872v1)|null|
+|**2024-09-27**|**Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups**|Martin van Beek et.al.|[2409.18870v1](http://arxiv.org/abs/2409.18870v1)|null|
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127v1](http://arxiv.org/abs/2409.18127v1)|null|
 |**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125v1](http://arxiv.org/abs/2409.18125v1)|null|
 |**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122v1](http://arxiv.org/abs/2409.18122v1)|null|
@@ -5747,6 +5757,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Multi-Source Hard and Soft Information Fusion Approach for Accurate Cryptocurrency Price Movement Prediction**|Saeed Mohammadi Dashtaki et.al.|[2409.18895v1](http://arxiv.org/abs/2409.18895v1)|null|
+|**2024-09-27**|**Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups**|Martin van Beek et.al.|[2409.18870v1](http://arxiv.org/abs/2409.18870v1)|null|
+|**2024-09-27**|**Search for supersymmetry using vector boson fusion signatures and missing transverse momentum in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2409.18762v1](http://arxiv.org/abs/2409.18762v1)|null|
+|**2024-09-27**|**Multi-modal Medical Image Fusion For Non-Small Cell Lung Cancer Classification**|Salma Hassan et.al.|[2409.18715v1](http://arxiv.org/abs/2409.18715v1)|null|
+|**2024-09-27**|**Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective**|Chengsen Wang et.al.|[2409.18696v1](http://arxiv.org/abs/2409.18696v1)|null|
+|**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh et.al.|[2409.18644v1](http://arxiv.org/abs/2409.18644v1)|null|
+|**2024-09-27**|**Improved modeling of $γγ$ processes in ultraperipheral collisions at hadron colliders**|Nicolas Crépet et.al.|[2409.18485v1](http://arxiv.org/abs/2409.18485v1)|null|
+|**2024-09-27**|**HSTFL: A Heterogeneous Federated Learning Framework for Misaligned Spatiotemporal Forecasting**|Shuowei Cai et.al.|[2409.18482v1](http://arxiv.org/abs/2409.18482v1)|null|
+|**2024-09-26**|**MultiClimate: Multimodal Stance Detection on Climate Change Videos**|Jiawen Wang et.al.|[2409.18346v1](http://arxiv.org/abs/2409.18346v1)|**[link](https://github.com/werywjw/multiclimate)**|
+|**2024-09-26**|**Automated Segmentation and Analysis of Microscopy Images of Laser Powder Bed Fusion Melt Tracks**|Aagam Shah et.al.|[2409.18326v1](http://arxiv.org/abs/2409.18326v1)|null|
 |**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046v1](http://arxiv.org/abs/2409.18046v1)|null|
 |**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997v1](http://arxiv.org/abs/2409.17997v1)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981v1](http://arxiv.org/abs/2409.17981v1)|null|
