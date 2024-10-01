@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-09-30, **Continuously Improving Mobile Manipulation with Autonomous Real-World RL**, Russell Mendonca et.al., Paper: [http://arxiv.org/abs/2409.20568v1](http://arxiv.org/abs/2409.20568v1)
+- 2024-09-30, **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**, Haotian Zhang et.al., Paper: [http://arxiv.org/abs/2409.20566v1](http://arxiv.org/abs/2409.20566v1)
+- 2024-09-30, **DressRecon: Freeform 4D Human Reconstruction from Monocular Video**, Jeff Tan et.al., Paper: [http://arxiv.org/abs/2409.20563v1](http://arxiv.org/abs/2409.20563v1)
+- 2024-09-30, **LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**, Xiaopan Zhang et.al., Paper: [http://arxiv.org/abs/2409.20560v1](http://arxiv.org/abs/2409.20560v1)
+- 2024-09-30, **Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**, Md Mohaiminul Islam et.al., Paper: [http://arxiv.org/abs/2409.20557v1](http://arxiv.org/abs/2409.20557v1)
+- 2024-09-30, **Inverse Painting: Reconstructing The Painting Process**, Bowei Chen et.al., Paper: [http://arxiv.org/abs/2409.20556v1](http://arxiv.org/abs/2409.20556v1)
+- 2024-09-30, **UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models**, Qiaojun Yu et.al., Paper: [http://arxiv.org/abs/2409.20551v1](http://arxiv.org/abs/2409.20551v1)
+- 2024-09-30, **Statistical view of orbital circularisation with 14 000 characterised TESS eclipsing binaries**, L. W. IJspeert et.al., Paper: [http://arxiv.org/abs/2409.20540v1](http://arxiv.org/abs/2409.20540v1)
+- 2024-09-30, **Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**, Lirui Wang et.al., Paper: [http://arxiv.org/abs/2409.20537v1](http://arxiv.org/abs/2409.20537v1)
+- 2024-09-30, **Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images**, Bahri Batuhan Bilecen et.al., Paper: [http://arxiv.org/abs/2409.20530v1](http://arxiv.org/abs/2409.20530v1)
 - 2024-09-27, **PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**, Shaowei Liu et.al., Paper: [http://arxiv.org/abs/2409.18964v1](http://arxiv.org/abs/2409.18964v1), Code: **[https://github.com/stevenlsw/physgen](https://github.com/stevenlsw/physgen)**
 - 2024-09-27, **LML: Language Model Learning a Dataset for Data-Augmented Prediction**, Praneeth Vadlapati et.al., Paper: [http://arxiv.org/abs/2409.18957v1](http://arxiv.org/abs/2409.18957v1), Code: **[https://github.com/pro-genai/lml-dap](https://github.com/pro-genai/lml-dap)**
 - 2024-09-27, **Unconditional stability of a recurrent neural circuit implementing divisive normalization**, Shivang Rawat et.al., Paper: [http://arxiv.org/abs/2409.18946v1](http://arxiv.org/abs/2409.18946v1)
@@ -5753,6 +5763,16 @@
 
 ## MultiModal
 
+- 2024-09-30, **FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**, Lingling Cai et.al., Paper: [http://arxiv.org/abs/2409.20500v1](http://arxiv.org/abs/2409.20500v1)
+- 2024-09-30, **IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss**, Ruiqiang Xiao et.al., Paper: [http://arxiv.org/abs/2409.20474v1](http://arxiv.org/abs/2409.20474v1)
+- 2024-09-30, **Search for a light CP-odd Higgs boson decaying into a pair of $τ$-leptons in proton-proton collisions at $\sqrt{s} = 13$ TeV with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2409.20381v1](http://arxiv.org/abs/2409.20381v1)
+- 2024-09-30, **Self-Assessment of Evidential Grid Map Fusion for Robust Motion Planning**, Oliver Schumann et.al., Paper: [http://arxiv.org/abs/2409.20286v1](http://arxiv.org/abs/2409.20286v1)
+- 2024-09-30, **Solution for OOD-CV Workshop SSB Challenge 2024 (Open-Set Recognition Track)**, Mingxu Feng et.al., Paper: [http://arxiv.org/abs/2409.20277v1](http://arxiv.org/abs/2409.20277v1)
+- 2024-09-30, **Combing physics-based and data-driven predictions for quantitatively accurate models that extrapolate well; with application to DIII-D, AUG, and ITER tokamak fusion reactors**, Joseph Abbate et.al., Paper: [http://arxiv.org/abs/2409.20256v1](http://arxiv.org/abs/2409.20256v1)
+- 2024-09-30, **Personalisation via Dynamic Policy Fusion**, Ajsal Shereef Palattuparambil et.al., Paper: [http://arxiv.org/abs/2409.20016v1](http://arxiv.org/abs/2409.20016v1)
+- 2024-09-30, **OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2409.19987v1](http://arxiv.org/abs/2409.19987v1)
+- 2024-09-30, **DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**, Zhen Yang et.al., Paper: [http://arxiv.org/abs/2409.19972v1](http://arxiv.org/abs/2409.19972v1), Code: **[https://github.com/alphaplustt/daocc](https://github.com/alphaplustt/daocc)**
+- 2024-09-30, **WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**, Yanbaihui Liu et.al., Paper: [http://arxiv.org/abs/2409.19904v1](http://arxiv.org/abs/2409.19904v1)
 - 2024-09-27, **Multi-Source Hard and Soft Information Fusion Approach for Accurate Cryptocurrency Price Movement Prediction**, Saeed Mohammadi Dashtaki et.al., Paper: [http://arxiv.org/abs/2409.18895v1](http://arxiv.org/abs/2409.18895v1)
 - 2024-09-27, **Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups**, Martin van Beek et.al., Paper: [http://arxiv.org/abs/2409.18870v1](http://arxiv.org/abs/2409.18870v1)
 - 2024-09-27, **Search for supersymmetry using vector boson fusion signatures and missing transverse momentum in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2409.18762v1](http://arxiv.org/abs/2409.18762v1)
