@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-02**|**Loki: An Open-Source Tool for Fact Verification**|Haonan Li et.al.|[2410.01794v1](http://arxiv.org/abs/2410.01794v1)|null|
-|**2024-10-02**|**Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**|E. L. Entina et.al.|[2410.01781v1](http://arxiv.org/abs/2410.01781v1)|null|
-|**2024-10-02**|**TopER: Topological Embeddings in Graph Representation Learning**|Astrit Tola et.al.|[2410.01778v1](http://arxiv.org/abs/2410.01778v1)|null|
+|**2024-10-03**|**Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**|E. L. Entina et.al.|[2410.01781v2](http://arxiv.org/abs/2410.01781v2)|null|
+|**2024-10-03**|**TopER: Topological Embeddings in Graph Representation Learning**|Astrit Tola et.al.|[2410.01778v2](http://arxiv.org/abs/2410.01778v2)|null|
 |**2024-10-02**|**Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context**|Spencer Frei et.al.|[2410.01774v1](http://arxiv.org/abs/2410.01774v1)|null|
 |**2024-10-02**|**SegHeD: Segmentation of Heterogeneous Data for Multiple Sclerosis Lesions with Anatomical Constraints**|Berke Doga Basaran et.al.|[2410.01766v1](http://arxiv.org/abs/2410.01766v1)|null|
 |**2024-10-02**|**LightSC: The Making of a Usable Security Classification Tool for DevSecOps**|Manish Shrestha et.al.|[2410.01762v1](http://arxiv.org/abs/2410.01762v1)|null|
@@ -5785,7 +5785,7 @@ layout: default
 |**2024-10-02**|**Visual Perception in Text Strings**|Qi Jia et.al.|[2410.01733v1](http://arxiv.org/abs/2410.01733v1)|null|
 |**2024-10-02**|**Multi-Scale Fusion for Object Representation**|Rongzhen Zhao et.al.|[2410.01539v1](http://arxiv.org/abs/2410.01539v1)|null|
 |**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535v1](http://arxiv.org/abs/2410.01535v1)|null|
-|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v1](http://arxiv.org/abs/2410.01506v1)|null|
+|**2024-10-03**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506v2](http://arxiv.org/abs/2410.01506v2)|null|
 |**2024-10-02**|**DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic, Lightweight Plugin for Large Language Models**|Yuxuan Zhang et.al.|[2410.01497v1](http://arxiv.org/abs/2410.01497v1)|**[link](https://github.com/mecuping/dlp-lora)**|
 |**2024-10-02**|**SHAP-CAT: A interpretable multi-modal framework enhancing WSI classification via virtual staining and shapley-value-based multimodal fusion**|Jun Wang et.al.|[2410.01408v1](http://arxiv.org/abs/2410.01408v1)|null|
 |**2024-10-02**|**FanCric : Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams**|Mohit Bhatnagar et.al.|[2410.01307v1](http://arxiv.org/abs/2410.01307v1)|null|
