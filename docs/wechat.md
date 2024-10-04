@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-03, **Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**, Mingyang Xie et.al., Paper: [http://arxiv.org/abs/2410.02764v1](http://arxiv.org/abs/2410.02764v1)
+- 2024-10-03, **Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**, Jianrui Zhang et.al., Paper: [http://arxiv.org/abs/2410.02763v1](http://arxiv.org/abs/2410.02763v1)
+- 2024-10-03, **Loong: Generating Minute-level Long Videos with Autoregressive Language Models**, Yuqing Wang et.al., Paper: [http://arxiv.org/abs/2410.02757v1](http://arxiv.org/abs/2410.02757v1)
+- 2024-10-03, **An Online Automatic Modulation Classification Scheme Based on Isolation Distributional Kernel**, Xinpeng Li et.al., Paper: [http://arxiv.org/abs/2410.02750v1](http://arxiv.org/abs/2410.02750v1)
+- 2024-10-03, **OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?**, Liangze Jiang et.al., Paper: [http://arxiv.org/abs/2410.02735v1](http://arxiv.org/abs/2410.02735v1)
+- 2024-10-03, **Liouville's theorem in calibrated geometries**, Toni Ikonen et.al., Paper: [http://arxiv.org/abs/2410.02722v1](http://arxiv.org/abs/2410.02722v1)
+- 2024-10-03, **Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**, Mengxi Wu et.al., Paper: [http://arxiv.org/abs/2410.02720v1](http://arxiv.org/abs/2410.02720v1), Code: **[https://github.com/IdanAchituve/DefRec_and_PCM](https://github.com/IdanAchituve/DefRec_and_PCM)**
+- 2024-10-03, **AlzhiNet: Traversing from 2DCNN to 3DCNN, Towards Early Detection and Diagnosis of Alzheimer's Disease**, Romoke Grace Akindele et.al., Paper: [http://arxiv.org/abs/2410.02714v1](http://arxiv.org/abs/2410.02714v1)
+- 2024-10-03, **Video Instruction Tuning With Synthetic Data**, Yuanhan Zhang et.al., Paper: [http://arxiv.org/abs/2410.02713v1](http://arxiv.org/abs/2410.02713v1)
+- 2024-10-03, **Impact of a reclassification on Web of Science articles on bibliometric indicators**, Agénor Lahatte et.al., Paper: [http://arxiv.org/abs/2410.02701v1](http://arxiv.org/abs/2410.02701v1)
 - 2024-10-02, **Loki: An Open-Source Tool for Fact Verification**, Haonan Li et.al., Paper: [http://arxiv.org/abs/2410.01794v1](http://arxiv.org/abs/2410.01794v1)
 - 2024-10-03, **Application of convolutional neural networks for extensive air shower separation in the SPHERE-3 experiment**, E. L. Entina et.al., Paper: [http://arxiv.org/abs/2410.01781v2](http://arxiv.org/abs/2410.01781v2)
 - 2024-10-03, **TopER: Topological Embeddings in Graph Representation Learning**, Astrit Tola et.al., Paper: [http://arxiv.org/abs/2410.01778v2](http://arxiv.org/abs/2410.01778v2)
@@ -5773,6 +5783,16 @@
 
 ## MultiModal
 
+- 2024-10-03, **ControlAR: Controllable Image Generation with Autoregressive Models**, Zongming Li et.al., Paper: [http://arxiv.org/abs/2410.02705v1](http://arxiv.org/abs/2410.02705v1), Code: **[https://github.com/hustvl/controlar](https://github.com/hustvl/controlar)**
+- 2024-10-03, **Pattern formation and spatiotemporal chaos in relativistic degenerate plasmas**, S. Das Adhikary et.al., Paper: [http://arxiv.org/abs/2410.02568v1](http://arxiv.org/abs/2410.02568v1)
+- 2024-10-03, **NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**, Gurucharan Marthi Krishna Kumar et.al., Paper: [http://arxiv.org/abs/2410.02550v1](http://arxiv.org/abs/2410.02550v1)
+- 2024-10-03, **A Foundation Model for the Solar Dynamics Observatory**, James Walsh et.al., Paper: [http://arxiv.org/abs/2410.02530v1](http://arxiv.org/abs/2410.02530v1)
+- 2024-10-03, **Med-TTT: Vision Test-Time Training model for Medical Image Segmentation**, Jiashu Xu et.al., Paper: [http://arxiv.org/abs/2410.02523v1](http://arxiv.org/abs/2410.02523v1), Code: **[https://github.com/jiashu-xu/med-ttt](https://github.com/jiashu-xu/med-ttt)**
+- 2024-10-03, **MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation**, Gurucharan Marthi Krishna Kumar et.al., Paper: [http://arxiv.org/abs/2410.02458v1](http://arxiv.org/abs/2410.02458v1)
+- 2024-10-03, **Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**, Muzhi Zhu et.al., Paper: [http://arxiv.org/abs/2410.02369v1](http://arxiv.org/abs/2410.02369v1)
+- 2024-10-03, **Predictive Modelling of Stress and Heat Flux in Monoblock Divertors Using Machine Learning for Fusion Energy Applications**, Ayobami Daramola et.al., Paper: [http://arxiv.org/abs/2410.02368v1](http://arxiv.org/abs/2410.02368v1)
+- 2024-10-03, **Computer-aided Colorization State-of-the-science: A Survey**, Yu Cao et.al., Paper: [http://arxiv.org/abs/2410.02288v1](http://arxiv.org/abs/2410.02288v1), Code: **[https://github.com/danielcho-hk/colorization](https://github.com/danielcho-hk/colorization)**
+- 2024-10-03, **CoLLAP: Contrastive Long-form Language-Audio Pretraining with Musical Temporal Structure Augmentation**, Junda Wu et.al., Paper: [http://arxiv.org/abs/2410.02271v1](http://arxiv.org/abs/2410.02271v1)
 - 2024-10-02, **RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**, Bingchen Miao et.al., Paper: [http://arxiv.org/abs/2410.01737v1](http://arxiv.org/abs/2410.01737v1)
 - 2024-10-02, **Visual Perception in Text Strings**, Qi Jia et.al., Paper: [http://arxiv.org/abs/2410.01733v1](http://arxiv.org/abs/2410.01733v1)
 - 2024-10-02, **Multi-Scale Fusion for Object Representation**, Rongzhen Zhao et.al., Paper: [http://arxiv.org/abs/2410.01539v1](http://arxiv.org/abs/2410.01539v1)
