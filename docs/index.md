@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Spatial Hyperspheric Models for Compositional Data**|Michael R. Schwob et.al.|[2410.03648v1](http://arxiv.org/abs/2410.03648v1)|null|
+|**2024-10-04**|**HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss**|Ruru Xu et.al.|[2410.03624v1](http://arxiv.org/abs/2410.03624v1)|null|
+|**2024-10-04**|**Crystallography, Group Cohomology, and Lieb-Schultz-Mattis Constraints**|Chunxiao Liu et.al.|[2410.03607v1](http://arxiv.org/abs/2410.03607v1)|null|
+|**2024-10-04**|**LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos**|Noriaki Hirose et.al.|[2410.03603v1](http://arxiv.org/abs/2410.03603v1)|null|
+|**2024-10-04**|**Training Over a Distribution of Hyperparameters for Enhanced Performance and Adaptability on Imbalanced Classification**|Kelsey Lieberman et.al.|[2410.03588v1](http://arxiv.org/abs/2410.03588v1)|null|
+|**2024-10-04**|**A Multi-model Approach for Video Data Retrieval in Autonomous Vehicle Development**|Jesper Knapp et.al.|[2410.03580v1](http://arxiv.org/abs/2410.03580v1)|null|
+|**2024-10-04**|**Re-examining Sexism and Misogyny Classification with Annotator Attitudes**|Aiqi Jiang et.al.|[2410.03543v1](http://arxiv.org/abs/2410.03543v1)|null|
+|**2024-10-04**|**Classification-Denoising Networks**|Louis Thiry et.al.|[2410.03505v1](http://arxiv.org/abs/2410.03505v1)|null|
+|**2024-10-04**|**MO-DDN: A Coarse-to-Fine Attribute-based Exploration Agent for Multi-object Demand-driven Navigation**|Hongcheng Wang et.al.|[2410.03488v1](http://arxiv.org/abs/2410.03488v1)|null|
+|**2024-10-04**|**A Multimodal Framework for Deepfake Detection**|Kashish Gandhi et.al.|[2410.03487v1](http://arxiv.org/abs/2410.03487v1)|null|
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764v1](http://arxiv.org/abs/2410.02764v1)|null|
 |**2024-10-03**|**Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**|Jianrui Zhang et.al.|[2410.02763v1](http://arxiv.org/abs/2410.02763v1)|null|
 |**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757v1](http://arxiv.org/abs/2410.02757v1)|null|
@@ -5791,6 +5801,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**SiMilarity-Enhanced Homophily for Multi-View Heterophilous Graph Clustering**|Jianpeng Chen et.al.|[2410.03596v1](http://arxiv.org/abs/2410.03596v1)|null|
+|**2024-10-04**|**Enhancement to Fusion Reactivity in Sheared Flows**|Henry Fetsch et.al.|[2410.03590v1](http://arxiv.org/abs/2410.03590v1)|null|
+|**2024-10-04**|**Gradient-based Jailbreak Images for Multimodal Fusion Models**|Javier Rando et.al.|[2410.03489v1](http://arxiv.org/abs/2410.03489v1)|null|
+|**2024-10-04**|**Double-Strand Break Clustering: An Economical and Effective Strategy for DNA Repair**|Junyi Chen et.al.|[2410.03328v1](http://arxiv.org/abs/2410.03328v1)|null|
+|**2024-10-04**|**Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models**|Pavel Stepachev et.al.|[2410.03312v1](http://arxiv.org/abs/2410.03312v1)|null|
+|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|**[link](https://github.com/thanhhff/MultiASL)**|
+|**2024-10-04**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu et.al.|[2410.03073v1](http://arxiv.org/abs/2410.03073v1)|null|
+|**2024-10-03**|**Neutral pressure measurement in TCV tokamak using ASDEX-type pressure gauges**|G. Sun et.al.|[2410.02933v1](http://arxiv.org/abs/2410.02933v1)|null|
+|**2024-10-03**|**Graph-tree Fusion Model with Bidirectional Information Propagation for Long Document Classification**|Sudipta Singha Roy et.al.|[2410.02930v1](http://arxiv.org/abs/2410.02930v1)|null|
 |**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705v1](http://arxiv.org/abs/2410.02705v1)|**[link](https://github.com/hustvl/controlar)**|
 |**2024-10-03**|**Pattern formation and spatiotemporal chaos in relativistic degenerate plasmas**|S. Das Adhikary et.al.|[2410.02568v1](http://arxiv.org/abs/2410.02568v1)|null|
 |**2024-10-03**|**NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02550v1](http://arxiv.org/abs/2410.02550v1)|null|
