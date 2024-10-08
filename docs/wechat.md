@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-07, **Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**, Mohammad Fahes et.al., Paper: [http://arxiv.org/abs/2410.05270v1](http://arxiv.org/abs/2410.05270v1), Code: **[https://github.com/astra-vision/prolip](https://github.com/astra-vision/prolip)**
+- 2024-10-07, **Grounding Partially-Defined Events in Multimodal Data**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2410.05267v1](http://arxiv.org/abs/2410.05267v1)
+- 2024-10-07, **DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**, Kaifeng Zhao et.al., Paper: [http://arxiv.org/abs/2410.05260v1](http://arxiv.org/abs/2410.05260v1)
+- 2024-10-07, **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2410.05255v1](http://arxiv.org/abs/2410.05255v1), Code: **[https://github.com/dwanzhang-ai/seppo](https://github.com/dwanzhang-ai/seppo)**
+- 2024-10-07, **Causal Micro-Narratives**, Mourad Heddaya et.al., Paper: [http://arxiv.org/abs/2410.05252v1](http://arxiv.org/abs/2410.05252v1)
+- 2024-10-07, **LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**, Wei Wu et.al., Paper: [http://arxiv.org/abs/2410.05249v1](http://arxiv.org/abs/2410.05249v1)
+- 2024-10-07, **The Dawn of Video Generation: Preliminary Explorations with SORA-like Models**, Ailing Zeng et.al., Paper: [http://arxiv.org/abs/2410.05227v1](http://arxiv.org/abs/2410.05227v1)
+- 2024-10-07, **Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality**, Ge Ya et.al., Paper: [http://arxiv.org/abs/2410.05203v1](http://arxiv.org/abs/2410.05203v1), Code: **[https://github.com/oooolga/JEDi](https://github.com/oooolga/JEDi)**
+- 2024-10-07, **Variable Resolution Pixel Quantization for Low Power Machine Vision Application on Edge**, Senorita Deb et.al., Paper: [http://arxiv.org/abs/2410.05189v1](http://arxiv.org/abs/2410.05189v1)
+- 2024-10-07, **VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**, Ziyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.05160v1](http://arxiv.org/abs/2410.05160v1)
 - 2024-10-04, **Spatial Hyperspheric Models for Compositional Data**, Michael R. Schwob et.al., Paper: [http://arxiv.org/abs/2410.03648v1](http://arxiv.org/abs/2410.03648v1)
 - 2024-10-04, **HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss**, Ruru Xu et.al., Paper: [http://arxiv.org/abs/2410.03624v1](http://arxiv.org/abs/2410.03624v1)
 - 2024-10-04, **Crystallography, Group Cohomology, and Lieb-Schultz-Mattis Constraints**, Chunxiao Liu et.al., Paper: [http://arxiv.org/abs/2410.03607v1](http://arxiv.org/abs/2410.03607v1)
@@ -5793,6 +5803,16 @@
 
 ## MultiModal
 
+- 2024-10-07, **Tritium-Lean Fusion Power Plants with Asymmetric Deuterium-Tritium Transport and Pumping**, J. F. Parisi et.al., Paper: [http://arxiv.org/abs/2410.05238v1](http://arxiv.org/abs/2410.05238v1)
+- 2024-10-07, **HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2410.05079v1](http://arxiv.org/abs/2410.05079v1)
+- 2024-10-07, **RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement**, Ibrahim Aldarmaki et.al., Paper: [http://arxiv.org/abs/2410.05019v1](http://arxiv.org/abs/2410.05019v1)
+- 2024-10-07, **L-C4: Language-Based Video Colorization for Creative and Consistent Color**, Zheng Chang et.al., Paper: [http://arxiv.org/abs/2410.04972v1](http://arxiv.org/abs/2410.04972v1)
+- 2024-10-07, **PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2410.04939v1](http://arxiv.org/abs/2410.04939v1), Code: **[https://github.com/sijieaaa/prfusion](https://github.com/sijieaaa/prfusion)**
+- 2024-10-07, **Windshield Integration of Thermal and Color Fusion for Automatic Emergency Braking in Low Visibility Conditions**, Gabriel Jobert et.al., Paper: [http://arxiv.org/abs/2410.04928v1](http://arxiv.org/abs/2410.04928v1)
+- 2024-10-07, **Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**, Lucia Gordon et.al., Paper: [http://arxiv.org/abs/2410.04833v1](http://arxiv.org/abs/2410.04833v1)
+- 2024-10-07, **Attentive-based Multi-level Feature Fusion for Voice Disorder Diagnosis**, Lipeng Shen et.al., Paper: [http://arxiv.org/abs/2410.04797v1](http://arxiv.org/abs/2410.04797v1)
+- 2024-10-07, **Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**, Xiang Hao et.al., Paper: [http://arxiv.org/abs/2410.04785v1](http://arxiv.org/abs/2410.04785v1)
+- 2024-10-07, **Diffusion Models in 3D Vision: A Survey**, Zhen Wang et.al., Paper: [http://arxiv.org/abs/2410.04738v1](http://arxiv.org/abs/2410.04738v1)
 - 2024-10-04, **SiMilarity-Enhanced Homophily for Multi-View Heterophilous Graph Clustering**, Jianpeng Chen et.al., Paper: [http://arxiv.org/abs/2410.03596v1](http://arxiv.org/abs/2410.03596v1)
 - 2024-10-04, **Enhancement to Fusion Reactivity in Sheared Flows**, Henry Fetsch et.al., Paper: [http://arxiv.org/abs/2410.03590v1](http://arxiv.org/abs/2410.03590v1)
 - 2024-10-04, **Gradient-based Jailbreak Images for Multimodal Fusion Models**, Javier Rando et.al., Paper: [http://arxiv.org/abs/2410.03489v1](http://arxiv.org/abs/2410.03489v1)
