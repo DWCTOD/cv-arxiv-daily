@@ -1,4 +1,4 @@
-> Updated on 2024.10.07
+> Updated on 2024.10.08
 
 ## Video_Classification
 
@@ -5797,7 +5797,7 @@
 - 2024-10-04, **Enhancement to Fusion Reactivity in Sheared Flows**, Henry Fetsch et.al., Paper: [http://arxiv.org/abs/2410.03590v1](http://arxiv.org/abs/2410.03590v1)
 - 2024-10-04, **Gradient-based Jailbreak Images for Multimodal Fusion Models**, Javier Rando et.al., Paper: [http://arxiv.org/abs/2410.03489v1](http://arxiv.org/abs/2410.03489v1)
 - 2024-10-04, **Double-Strand Break Clustering: An Economical and Effective Strategy for DNA Repair**, Junyi Chen et.al., Paper: [http://arxiv.org/abs/2410.03328v1](http://arxiv.org/abs/2410.03328v1)
-- 2024-10-04, **Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models**, Pavel Stepachev et.al., Paper: [http://arxiv.org/abs/2410.03312v1](http://arxiv.org/abs/2410.03312v1)
+- 2024-10-04, **Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models**, Pavel Stepachev et.al., Paper: [http://arxiv.org/abs/2410.03312v1](http://arxiv.org/abs/2410.03312v1), Code: **[https://github.com/rggdmonk/GenSEC-Task-3](https://github.com/rggdmonk/GenSEC-Task-3)**
 - 2024-10-04, **Action Selection Learning for Multi-label Multi-view Action Recognition**, Trung Thanh Nguyen et.al., Paper: [http://arxiv.org/abs/2410.03302v1](http://arxiv.org/abs/2410.03302v1), Code: **[https://github.com/thanhhff/MultiASL](https://github.com/thanhhff/MultiASL)**
 - 2024-10-04, **LEGO: QEC Decoding System Architecture for Dynamic Circuits**, Yue Wu et.al., Paper: [http://arxiv.org/abs/2410.03073v1](http://arxiv.org/abs/2410.03073v1)
 - 2024-10-03, **Neutral pressure measurement in TCV tokamak using ASDEX-type pressure gauges**, G. Sun et.al., Paper: [http://arxiv.org/abs/2410.02933v1](http://arxiv.org/abs/2410.02933v1)
