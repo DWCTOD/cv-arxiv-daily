@@ -1,4 +1,4 @@
-> Updated on 2024.10.09
+> Updated on 2024.10.10
 
 ## Video_Classification
 
@@ -5809,7 +5809,7 @@
 - 2024-10-07, **L-C4: Language-Based Video Colorization for Creative and Consistent Color**, Zheng Chang et.al., Paper: [http://arxiv.org/abs/2410.04972v1](http://arxiv.org/abs/2410.04972v1)
 - 2024-10-07, **PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2410.04939v1](http://arxiv.org/abs/2410.04939v1), Code: **[https://github.com/sijieaaa/prfusion](https://github.com/sijieaaa/prfusion)**
 - 2024-10-07, **Windshield Integration of Thermal and Color Fusion for Automatic Emergency Braking in Low Visibility Conditions**, Gabriel Jobert et.al., Paper: [http://arxiv.org/abs/2410.04928v1](http://arxiv.org/abs/2410.04928v1)
-- 2024-10-07, **Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**, Lucia Gordon et.al., Paper: [http://arxiv.org/abs/2410.04833v1](http://arxiv.org/abs/2410.04833v1)
+- 2024-10-07, **Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**, Lucia Gordon et.al., Paper: [http://arxiv.org/abs/2410.04833v1](http://arxiv.org/abs/2410.04833v1), Code: **[https://github.com/lgordon99/fusion-strategies-eccv](https://github.com/lgordon99/fusion-strategies-eccv)**
 - 2024-10-07, **Attentive-based Multi-level Feature Fusion for Voice Disorder Diagnosis**, Lipeng Shen et.al., Paper: [http://arxiv.org/abs/2410.04797v1](http://arxiv.org/abs/2410.04797v1)
 - 2024-10-07, **Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**, Xiang Hao et.al., Paper: [http://arxiv.org/abs/2410.04785v1](http://arxiv.org/abs/2410.04785v1)
 - 2024-10-07, **Diffusion Models in 3D Vision: A Survey**, Zhen Wang et.al., Paper: [http://arxiv.org/abs/2410.04738v1](http://arxiv.org/abs/2410.04738v1)
