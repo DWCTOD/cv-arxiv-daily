@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-09, **MM-Ego: Towards Building Egocentric Multimodal LLMs**, Hanrong Ye et.al., Paper: [http://arxiv.org/abs/2410.07177v1](http://arxiv.org/abs/2410.07177v1)
+- 2024-10-09, **One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**, Fabian Paischer et.al., Paper: [http://arxiv.org/abs/2410.07170v1](http://arxiv.org/abs/2410.07170v1)
+- 2024-10-09, **Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2410.07155v1](http://arxiv.org/abs/2410.07155v1), Code: **[https://github.com/yangling0818/trans4d](https://github.com/yangling0818/trans4d)**
+- 2024-10-09, **Mental Disorders Detection in the Era of Large Language Models**, Gleb Kuzmin et.al., Paper: [http://arxiv.org/abs/2410.07129v1](http://arxiv.org/abs/2410.07129v1)
+- 2024-10-09, **Thing2Reality: Transforming 2D Content into Conditioned Multiviews and 3D Gaussian Objects for XR Communication**, Erzhen Hu et.al., Paper: [http://arxiv.org/abs/2410.07119v1](http://arxiv.org/abs/2410.07119v1)
+- 2024-10-09, **JPEG Inspired Deep Learning**, Ahmed H. Salamah et.al., Paper: [http://arxiv.org/abs/2410.07081v1](http://arxiv.org/abs/2410.07081v1)
+- 2024-10-09, **Retrieval-Augmented Decision Transformer: External Memory for In-context RL**, Thomas Schmied et.al., Paper: [http://arxiv.org/abs/2410.07071v1](http://arxiv.org/abs/2410.07071v1)
+- 2024-10-09, **TinyEmo: Scaling down Emotional Reasoning via Metric Projection**, Cristian Gutierrez et.al., Paper: [http://arxiv.org/abs/2410.07062v1](http://arxiv.org/abs/2410.07062v1), Code: **[https://github.com/ggcr/tinyemo](https://github.com/ggcr/tinyemo)**
+- 2024-10-09, **Z-upscaling: Optical Flow Guided Frame Interpolation for Isotropic Reconstruction of 3D EM Volumes**, Fisseha A. Ferede et.al., Paper: [http://arxiv.org/abs/2410.07043v1](http://arxiv.org/abs/2410.07043v1), Code: **[https://github.com/fisseha21/z-upscaling](https://github.com/fisseha21/z-upscaling)**
+- 2024-10-09, **Optimizing Estimators of Squared Calibration Errors in Classification**, Sebastian G. Gruber et.al., Paper: [http://arxiv.org/abs/2410.07014v1](http://arxiv.org/abs/2410.07014v1)
 - 2024-10-07, **Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**, Mohammad Fahes et.al., Paper: [http://arxiv.org/abs/2410.05270v1](http://arxiv.org/abs/2410.05270v1), Code: **[https://github.com/astra-vision/prolip](https://github.com/astra-vision/prolip)**
 - 2024-10-07, **Grounding Partially-Defined Events in Multimodal Data**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2410.05267v1](http://arxiv.org/abs/2410.05267v1)
 - 2024-10-07, **DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**, Kaifeng Zhao et.al., Paper: [http://arxiv.org/abs/2410.05260v1](http://arxiv.org/abs/2410.05260v1)
@@ -5803,6 +5813,16 @@
 
 ## MultiModal
 
+- 2024-10-09, **Jointly Generating Multi-view Consistent PBR Textures using Collaborative Control**, Shimon Vainer et.al., Paper: [http://arxiv.org/abs/2410.06985v1](http://arxiv.org/abs/2410.06985v1)
+- 2024-10-09, **Unified mesoscale picture of nonlinear generation of zonal flows in toroidal geometry**, Zihao Wang et.al., Paper: [http://arxiv.org/abs/2410.06936v1](http://arxiv.org/abs/2410.06936v1)
+- 2024-10-09, **SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**, Yuhan Kang et.al., Paper: [http://arxiv.org/abs/2410.06842v1](http://arxiv.org/abs/2410.06842v1), Code: **[https://github.com/kyh433/suranet](https://github.com/kyh433/suranet)**
+- 2024-10-09, **Rethinking the Evaluation of Visible and Infrared Image Fusion**, Dayan Guan et.al., Paper: [http://arxiv.org/abs/2410.06811v1](http://arxiv.org/abs/2410.06811v1), Code: **[https://github.com/yixuan-2002/sea](https://github.com/yixuan-2002/sea)**
+- 2024-10-09, **Tailoring fusion-based photonic quantum computing schemes to quantum emitters**, Ming Lai Chan et.al., Paper: [http://arxiv.org/abs/2410.06784v1](http://arxiv.org/abs/2410.06784v1)
+- 2024-10-09, **Kramers-Wannier self-duality and non-invertible translation symmetry in quantum chains: a wave-function perspective**, Hua-Chen Zhang et.al., Paper: [http://arxiv.org/abs/2410.06727v1](http://arxiv.org/abs/2410.06727v1)
+- 2024-10-09, **Towards Natural Image Matting in the Wild via Real-Scenario Prior**, Ruihao Xia et.al., Paper: [http://arxiv.org/abs/2410.06593v1](http://arxiv.org/abs/2410.06593v1), Code: **[https://github.com/xiarho/semat](https://github.com/xiarho/semat)**
+- 2024-10-09, **Gumbel Rao Monte Carlo based Bi-Modal Neural Architecture Search for Audio-Visual Deepfake Detection**, Aravinda Reddy PN et.al., Paper: [http://arxiv.org/abs/2410.06543v1](http://arxiv.org/abs/2410.06543v1)
+- 2024-10-09, **Demonstration of The Brightest Nano-size Gamma Source**, A. S. Pirozhkov et.al., Paper: [http://arxiv.org/abs/2410.06537v1](http://arxiv.org/abs/2410.06537v1)
+- 2024-10-09, **Hybrid Fusion for Battery Degradation Diagnostics Using Minimal Real-World Data: Bridging Laboratory and Practical Applications**, Yisheng Liu et.al., Paper: [http://arxiv.org/abs/2410.06469v1](http://arxiv.org/abs/2410.06469v1)
 - 2024-10-07, **Tritium-Lean Fusion Power Plants with Asymmetric Deuterium-Tritium Transport and Pumping**, J. F. Parisi et.al., Paper: [http://arxiv.org/abs/2410.05238v1](http://arxiv.org/abs/2410.05238v1)
 - 2024-10-07, **HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2410.05079v1](http://arxiv.org/abs/2410.05079v1)
 - 2024-10-07, **RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement**, Ibrahim Aldarmaki et.al., Paper: [http://arxiv.org/abs/2410.05019v1](http://arxiv.org/abs/2410.05019v1)
