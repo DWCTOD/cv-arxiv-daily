@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-10, **LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**, Anh-Quan Cao et.al., Paper: [http://arxiv.org/abs/2410.08211v1](http://arxiv.org/abs/2410.08211v1)
+- 2024-10-10, **Scaling Laws For Diffusion Transformers**, Zhengyang Liang et.al., Paper: [http://arxiv.org/abs/2410.08184v1](http://arxiv.org/abs/2410.08184v1)
+- 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181v1](http://arxiv.org/abs/2410.08181v1)
+- 2024-10-10, **A note on the symplectic classification of almost-toric systems**, Xiudi Tang et.al., Paper: [http://arxiv.org/abs/2410.08175v1](http://arxiv.org/abs/2410.08175v1)
+- 2024-10-10, **Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**, Qingni Wang et.al., Paper: [http://arxiv.org/abs/2410.08174v1](http://arxiv.org/abs/2410.08174v1)
+- 2024-10-10, **Progressive Autoregressive Video Diffusion Models**, Desai Xie et.al., Paper: [http://arxiv.org/abs/2410.08151v1](http://arxiv.org/abs/2410.08151v1)
+- 2024-10-10, **Robust AI-Generated Text Detection by Restricted Embeddings**, Kristian Kuznetsov et.al., Paper: [http://arxiv.org/abs/2410.08113v1](http://arxiv.org/abs/2410.08113v1)
+- 2024-10-10, **Color-Guided Flying Pixel Correction in Depth Images**, Ekamresh Vasudevan et.al., Paper: [http://arxiv.org/abs/2410.08084v1](http://arxiv.org/abs/2410.08084v1)
+- 2024-10-10, **Dynamic Object Catching with Quadruped Robot Front Legs**, André Schakkal et.al., Paper: [http://arxiv.org/abs/2410.08065v1](http://arxiv.org/abs/2410.08065v1)
+- 2024-10-10, **A Target-Aware Analysis of Data Augmentation for Hate Speech Detection**, Camilla Casula et.al., Paper: [http://arxiv.org/abs/2410.08053v1](http://arxiv.org/abs/2410.08053v1)
 - 2024-10-09, **MM-Ego: Towards Building Egocentric Multimodal LLMs**, Hanrong Ye et.al., Paper: [http://arxiv.org/abs/2410.07177v1](http://arxiv.org/abs/2410.07177v1)
 - 2024-10-09, **One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**, Fabian Paischer et.al., Paper: [http://arxiv.org/abs/2410.07170v1](http://arxiv.org/abs/2410.07170v1)
 - 2024-10-09, **Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2410.07155v1](http://arxiv.org/abs/2410.07155v1), Code: **[https://github.com/yangling0818/trans4d](https://github.com/yangling0818/trans4d)**
@@ -5813,6 +5823,16 @@
 
 ## MultiModal
 
+- 2024-10-10, **Photonic Non-Abelian Braid Monopole**, Kunkun Wang et.al., Paper: [http://arxiv.org/abs/2410.08191v1](http://arxiv.org/abs/2410.08191v1)
+- 2024-10-10, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v1](http://arxiv.org/abs/2410.08100v1), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
+- 2024-10-10, **OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling**, Linhui Xiao et.al., Paper: [http://arxiv.org/abs/2410.08021v1](http://arxiv.org/abs/2410.08021v1), Code: **[https://github.com/linhuixiao/oneref](https://github.com/linhuixiao/oneref)**
+- 2024-10-10, **Understanding Human Activity with Uncertainty Measure for Novelty in Graph Convolutional Networks**, Hao Xing et.al., Paper: [http://arxiv.org/abs/2410.07917v1](http://arxiv.org/abs/2410.07917v1)
+- 2024-10-10, **Multi-Scale Deformable Transformers for Student Learning Behavior Detection in Smart Classroom**, Zhifeng Wang et.al., Paper: [http://arxiv.org/abs/2410.07834v1](http://arxiv.org/abs/2410.07834v1)
+- 2024-10-10, **Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**, Zihan Yu et.al., Paper: [http://arxiv.org/abs/2410.07824v1](http://arxiv.org/abs/2410.07824v1)
+- 2024-10-10, **A Visual Cooperative Localization Method for Airborne Magnetic Surveying Based on a Manifold Sensor Fusion Algorithm Using Lie Groups**, Liang Liu et.al., Paper: [http://arxiv.org/abs/2410.07700v1](http://arxiv.org/abs/2410.07700v1)
+- 2024-10-10, **3D Vision-Language Gaussian Splatting**, Qucheng Peng et.al., Paper: [http://arxiv.org/abs/2410.07577v1](http://arxiv.org/abs/2410.07577v1)
+- 2024-10-10, **CountMamba: Exploring Multi-directional Selective State-Space Models for Plant Counting**, Hulingxiao He et.al., Paper: [http://arxiv.org/abs/2410.07528v1](http://arxiv.org/abs/2410.07528v1)
+- 2024-10-10, **MOLA: Enhancing Industrial Process Monitoring Using Multi-Block Orthogonal Long Short-Term Memory Autoencoder**, Fangyuan Ma et.al., Paper: [http://arxiv.org/abs/2410.07508v1](http://arxiv.org/abs/2410.07508v1)
 - 2024-10-09, **Jointly Generating Multi-view Consistent PBR Textures using Collaborative Control**, Shimon Vainer et.al., Paper: [http://arxiv.org/abs/2410.06985v1](http://arxiv.org/abs/2410.06985v1)
 - 2024-10-09, **Unified mesoscale picture of nonlinear generation of zonal flows in toroidal geometry**, Zihao Wang et.al., Paper: [http://arxiv.org/abs/2410.06936v1](http://arxiv.org/abs/2410.06936v1)
 - 2024-10-09, **SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**, Yuhan Kang et.al., Paper: [http://arxiv.org/abs/2410.06842v1](http://arxiv.org/abs/2410.06842v1), Code: **[https://github.com/kyh433/suranet](https://github.com/kyh433/suranet)**
