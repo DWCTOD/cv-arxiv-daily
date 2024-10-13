@@ -7,7 +7,7 @@
 - 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181v1](http://arxiv.org/abs/2410.08181v1)
 - 2024-10-10, **A note on the symplectic classification of almost-toric systems**, Xiudi Tang et.al., Paper: [http://arxiv.org/abs/2410.08175v1](http://arxiv.org/abs/2410.08175v1)
 - 2024-10-10, **Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**, Qingni Wang et.al., Paper: [http://arxiv.org/abs/2410.08174v1](http://arxiv.org/abs/2410.08174v1)
-- 2024-10-10, **Progressive Autoregressive Video Diffusion Models**, Desai Xie et.al., Paper: [http://arxiv.org/abs/2410.08151v1](http://arxiv.org/abs/2410.08151v1)
+- 2024-10-10, **Progressive Autoregressive Video Diffusion Models**, Desai Xie et.al., Paper: [http://arxiv.org/abs/2410.08151v1](http://arxiv.org/abs/2410.08151v1), Code: **[https://github.com/desaixie/pa_vdm](https://github.com/desaixie/pa_vdm)**
 - 2024-10-10, **Robust AI-Generated Text Detection by Restricted Embeddings**, Kristian Kuznetsov et.al., Paper: [http://arxiv.org/abs/2410.08113v1](http://arxiv.org/abs/2410.08113v1)
 - 2024-10-10, **Color-Guided Flying Pixel Correction in Depth Images**, Ekamresh Vasudevan et.al., Paper: [http://arxiv.org/abs/2410.08084v1](http://arxiv.org/abs/2410.08084v1)
 - 2024-10-10, **Dynamic Object Catching with Quadruped Robot Front Legs**, André Schakkal et.al., Paper: [http://arxiv.org/abs/2410.08065v1](http://arxiv.org/abs/2410.08065v1)
