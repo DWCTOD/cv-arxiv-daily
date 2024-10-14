@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Optimal Downsampling for Imbalanced Classification with Generalized Linear Models**|Yan Chen et.al.|[2410.08994v1](http://arxiv.org/abs/2410.08994v1)|null|
+|**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978v1](http://arxiv.org/abs/2410.08978v1)|null|
+|**2024-10-11**|**ALVIN: Active Learning Via INterpolation**|Michalis Korakakis et.al.|[2410.08972v1](http://arxiv.org/abs/2410.08972v1)|null|
+|**2024-10-11**|**Evaluating Federated Kolmogorov-Arnold Networks on Non-IID Data**|Arthur Mendonça Sasse et.al.|[2410.08961v1](http://arxiv.org/abs/2410.08961v1)|null|
+|**2024-10-11**|**Lifted Coefficient of Determination: Fast model-free prediction intervals and likelihood-free model comparison**|Daniel Salnikov et.al.|[2410.08958v1](http://arxiv.org/abs/2410.08958v1)|null|
+|**2024-10-11**|**Rapid Grassmannian Averaging with Chebyshev Polynomials**|Brighton Ancelin et.al.|[2410.08956v1](http://arxiv.org/abs/2410.08956v1)|null|
+|**2024-10-11**|**Local moduli in the special 2-flags of length 5**|Piotr Mormul et.al.|[2410.08951v1](http://arxiv.org/abs/2410.08951v1)|null|
+|**2024-10-11**|**On the Adversarial Transferability of Generalized "Skip Connections"**|Yisen Wang et.al.|[2410.08950v1](http://arxiv.org/abs/2410.08950v1)|null|
+|**2024-10-11**|**Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing**|Clayton Leite et.al.|[2410.08931v1](http://arxiv.org/abs/2410.08931v1)|null|
+|**2024-10-11**|**Zero-Shot Pupil Segmentation with SAM 2: A Case Study of Over 14 Million Images**|Virmarie Maquiling et.al.|[2410.08926v1](http://arxiv.org/abs/2410.08926v1)|null|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211v1](http://arxiv.org/abs/2410.08211v1)|null|
 |**2024-10-10**|**Scaling Laws For Diffusion Transformers**|Zhengyang Liang et.al.|[2410.08184v1](http://arxiv.org/abs/2410.08184v1)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181v1](http://arxiv.org/abs/2410.08181v1)|null|
@@ -5831,6 +5841,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**The Condensed Fiber Product and Zesting**|Colleen Delaney et.al.|[2410.09025v1](http://arxiv.org/abs/2410.09025v1)|null|
+|**2024-10-11**|**SegGrasp: Zero-Shot Task-Oriented Grasping via Semantic and Geometric Guided Segmentation**|Haosheng Li et.al.|[2410.08901v1](http://arxiv.org/abs/2410.08901v1)|null|
+|**2024-10-11**|**Exploiting Memory-aware Q-distribution Prediction for Nuclear Fusion via Modern Hopfield Network**|Qingchuan Ma et.al.|[2410.08889v1](http://arxiv.org/abs/2410.08889v1)|null|
+|**2024-10-11**|**Quantum cellular automata and categorical duality of spin chains**|Corey Jones et.al.|[2410.08884v1](http://arxiv.org/abs/2410.08884v1)|null|
+|**2024-10-11**|**Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion**|Shiao Wang et.al.|[2410.08879v1](http://arxiv.org/abs/2410.08879v1)|null|
+|**2024-10-11**|**DCNet: A Data-Driven Framework for DVL**|Zeev Yampolsky et.al.|[2410.08809v1](http://arxiv.org/abs/2410.08809v1)|null|
+|**2024-10-11**|**MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation**|Qihang Yang et.al.|[2410.08739v1](http://arxiv.org/abs/2410.08739v1)|null|
+|**2024-10-11**|**Twisted fusion products and quantum twisted Q-systems**|Mingyan Simon Lin et.al.|[2410.08657v1](http://arxiv.org/abs/2410.08657v1)|null|
+|**2024-10-11**|**Integrated adaptive coherent LiDAR for 4D bionic vision**|Ruixuan Chen et.al.|[2410.08554v1](http://arxiv.org/abs/2410.08554v1)|null|
+|**2024-10-11**|**Personalized Item Embeddings in Federated Multimodal Recommendation**|Zhiwei Li et.al.|[2410.08478v1](http://arxiv.org/abs/2410.08478v1)|null|
 |**2024-10-10**|**Photonic Non-Abelian Braid Monopole**|Kunkun Wang et.al.|[2410.08191v1](http://arxiv.org/abs/2410.08191v1)|null|
 |**2024-10-10**|**CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.08100v1](http://arxiv.org/abs/2410.08100v1)|**[link](https://github.com/sky-visionx/cracksegdiff)**|
 |**2024-10-10**|**OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling**|Linhui Xiao et.al.|[2410.08021v1](http://arxiv.org/abs/2410.08021v1)|**[link](https://github.com/linhuixiao/oneref)**|
