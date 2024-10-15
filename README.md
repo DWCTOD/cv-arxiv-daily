@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821v1](http://arxiv.org/abs/2410.10821v1)|null|
+|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v1](http://arxiv.org/abs/2410.10818v1)|null|
+|**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816v1](http://arxiv.org/abs/2410.10816v1)|**[link](https://github.com/silentview/lvd-2m)**|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815v1](http://arxiv.org/abs/2410.10815v1)|null|
+|**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803v1](http://arxiv.org/abs/2410.10803v1)|**[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802v1](http://arxiv.org/abs/2410.10802v1)|null|
+|**2024-10-14**|**Probabilistic Degeneracy Detection for Point-to-Plane Error Minimization**|Johan Hatleskog et.al.|[2410.10784v1](http://arxiv.org/abs/2410.10784v1)|null|
+|**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782v1](http://arxiv.org/abs/2410.10782v1)|null|
+|**2024-10-14**|**ControlMM: Controllable Masked Motion Generation**|Ekkasit Pinyoanuntapong et.al.|[2410.10780v1](http://arxiv.org/abs/2410.10780v1)|null|
+|**2024-10-14**|**Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**|Dejia Xu et.al.|[2410.10774v1](http://arxiv.org/abs/2410.10774v1)|null|
 |**2024-10-11**|**Optimal Downsampling for Imbalanced Classification with Generalized Linear Models**|Yan Chen et.al.|[2410.08994v1](http://arxiv.org/abs/2410.08994v1)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978v1](http://arxiv.org/abs/2410.08978v1)|null|
 |**2024-10-11**|**ALVIN: Active Learning Via INterpolation**|Michalis Korakakis et.al.|[2410.08972v1](http://arxiv.org/abs/2410.08972v1)|null|
@@ -5837,6 +5847,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791v1](http://arxiv.org/abs/2410.10791v1)|null|
+|**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790v1](http://arxiv.org/abs/2410.10790v1)|**[link](https://github.com/windvchen/sitcom-crafter)**|
+|**2024-10-14**|**PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**|Runsong Zhu et.al.|[2410.10659v1](http://arxiv.org/abs/2410.10659v1)|**[link](https://github.com/runsong123/pcf-lift)**|
+|**2024-10-14**|**BrainMVP: Multi-modal Vision Pre-training for Brain Image Analysis using Multi-parametric MRI**|Shaohao Rui et.al.|[2410.10604v1](http://arxiv.org/abs/2410.10604v1)|null|
+|**2024-10-14**|**Reducing turbulent transport in tokamaks by combining intrinsic rotation and the low momentum diffusivity regime**|Haomin Sun et.al.|[2410.10555v1](http://arxiv.org/abs/2410.10555v1)|null|
+|**2024-10-14**|**Advancing Newborn Care: Precise Birth Time Detection Using AI-Driven Thermal Imaging with Adaptive Normalization**|Jorge García-Torres et.al.|[2410.10483v1](http://arxiv.org/abs/2410.10483v1)|**[link](https://github.com/jtorres258/image-based-tob)**|
+|**2024-10-14**|**Advancing Academic Knowledge Retrieval via LLM-enhanced Representation Similarity Fusion**|Wei Dai et.al.|[2410.10455v1](http://arxiv.org/abs/2410.10455v1)|null|
+|**2024-10-14**|**LKASeg:Remote-Sensing Image Semantic Segmentation with Large Kernel Attention and Full-Scale Skip Connections**|Xuezhi Xiang et.al.|[2410.10433v1](http://arxiv.org/abs/2410.10433v1)|null|
+|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409v1](http://arxiv.org/abs/2410.10409v1)|null|
+|**2024-10-14**|**Medico: Towards Hallucination Detection and Correction with Multi-source Evidence Fusion**|Xinping Zhao et.al.|[2410.10408v1](http://arxiv.org/abs/2410.10408v1)|null|
 |**2024-10-11**|**The Condensed Fiber Product and Zesting**|Colleen Delaney et.al.|[2410.09025v1](http://arxiv.org/abs/2410.09025v1)|null|
 |**2024-10-11**|**SegGrasp: Zero-Shot Task-Oriented Grasping via Semantic and Geometric Guided Segmentation**|Haosheng Li et.al.|[2410.08901v1](http://arxiv.org/abs/2410.08901v1)|null|
 |**2024-10-11**|**Exploiting Memory-aware Q-distribution Prediction for Nuclear Fusion via Modern Hopfield Network**|Qingchuan Ma et.al.|[2410.08889v1](http://arxiv.org/abs/2410.08889v1)|null|
