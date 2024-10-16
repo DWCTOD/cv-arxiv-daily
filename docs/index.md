@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**|Junhwa Hur et.al.|[2410.11838v1](http://arxiv.org/abs/2410.11838v1)|null|
+|**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834v1](http://arxiv.org/abs/2410.11834v1)|null|
+|**2024-10-15**|**CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos**|Nikita Karaev et.al.|[2410.11831v1](http://arxiv.org/abs/2410.11831v1)|null|
+|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828v1](http://arxiv.org/abs/2410.11828v1)|null|
+|**2024-10-15**|**On representations of Arthur type and unitary dual for classical groups**|Alexander Hazeltine et.al.|[2410.11806v1](http://arxiv.org/abs/2410.11806v1)|null|
+|**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795v1](http://arxiv.org/abs/2410.11795v1)|null|
+|**2024-10-15**|**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**|Jinhan Li et.al.|[2410.11792v1](http://arxiv.org/abs/2410.11792v1)|null|
+|**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786v1](http://arxiv.org/abs/2410.11786v1)|null|
+|**2024-10-15**|**On the Training Convergence of Transformers for In-Context Classification**|Wei Shen et.al.|[2410.11778v1](http://arxiv.org/abs/2410.11778v1)|null|
+|**2024-10-15**|**Temporal resolution enhancement in Structured Illumination Microscopy using cascaded reconstruction**|Doron Shterman et.al.|[2410.11770v1](http://arxiv.org/abs/2410.11770v1)|null|
 |**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821v1](http://arxiv.org/abs/2410.10821v1)|null|
 |**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v1](http://arxiv.org/abs/2410.10818v1)|null|
 |**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816v1](http://arxiv.org/abs/2410.10816v1)|**[link](https://github.com/silentview/lvd-2m)**|
@@ -5851,6 +5861,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**PD-Based and SINDy Nonlinear Dynamics Identification of UAVs for MPC Design**|Bryan S. Guevara et.al.|[2410.11791v1](http://arxiv.org/abs/2410.11791v1)|null|
+|**2024-10-15**|**Bistatic Information Fusion for Positioning and Tracking in Integrated Sensing and Communication**|Maximilian Bauhofer et.al.|[2410.11681v1](http://arxiv.org/abs/2410.11681v1)|null|
+|**2024-10-15**|**Hot Subdwarf Stars**|Ulrich Heber et.al.|[2410.11663v1](http://arxiv.org/abs/2410.11663v1)|null|
+|**2024-10-15**|**Electrical Transport in Tunably-Disordered Metamaterials**|Caitlyn Obrero et.al.|[2410.11525v1](http://arxiv.org/abs/2410.11525v1)|null|
+|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506v1](http://arxiv.org/abs/2410.11506v1)|null|
+|**2024-10-15**|**CTA-Net: A CNN-Transformer Aggregation Network for Improving Multi-Scale Feature Extraction**|Chunlei Meng et.al.|[2410.11428v1](http://arxiv.org/abs/2410.11428v1)|null|
+|**2024-10-15**|**RSSI-Assisted CSI-Based Passenger Counting with Multiple Wi-Fi Receivers**|Jingtao Guo et.al.|[2410.11400v1](http://arxiv.org/abs/2410.11400v1)|null|
+|**2024-10-15**|**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**|Shuhan Dong et.al.|[2410.11358v1](http://arxiv.org/abs/2410.11358v1)|null|
+|**2024-10-15**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211v1](http://arxiv.org/abs/2410.11211v1)|**[link](https://github.com/safetylab24/FusionCVCP)**|
+|**2024-10-15**|**DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection**|Sheng Yan et.al.|[2410.11181v1](http://arxiv.org/abs/2410.11181v1)|**[link](https://github.com/fchest/darnet)**|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791v1](http://arxiv.org/abs/2410.10791v1)|null|
 |**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790v1](http://arxiv.org/abs/2410.10790v1)|**[link](https://github.com/windvchen/sitcom-crafter)**|
 |**2024-10-14**|**PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**|Runsong Zhu et.al.|[2410.10659v1](http://arxiv.org/abs/2410.10659v1)|**[link](https://github.com/runsong123/pcf-lift)**|
