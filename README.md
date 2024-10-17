@@ -1,4 +1,4 @@
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 |**2024-10-15**|**CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos**|Nikita Karaev et.al.|[2410.11831v1](http://arxiv.org/abs/2410.11831v1)|null|
 |**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828v1](http://arxiv.org/abs/2410.11828v1)|null|
 |**2024-10-15**|**On representations of Arthur type and unitary dual for classical groups**|Alexander Hazeltine et.al.|[2410.11806v1](http://arxiv.org/abs/2410.11806v1)|null|
-|**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795v1](http://arxiv.org/abs/2410.11795v1)|null|
+|**2024-10-16**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795v2](http://arxiv.org/abs/2410.11795v2)|null|
 |**2024-10-15**|**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**|Jinhan Li et.al.|[2410.11792v1](http://arxiv.org/abs/2410.11792v1)|null|
 |**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786v1](http://arxiv.org/abs/2410.11786v1)|null|
 |**2024-10-15**|**On the Training Convergence of Transformers for In-Context Classification**|Wei Shen et.al.|[2410.11778v1](http://arxiv.org/abs/2410.11778v1)|null|
@@ -5865,7 +5865,7 @@
 |**2024-10-15**|**CTA-Net: A CNN-Transformer Aggregation Network for Improving Multi-Scale Feature Extraction**|Chunlei Meng et.al.|[2410.11428v1](http://arxiv.org/abs/2410.11428v1)|null|
 |**2024-10-15**|**RSSI-Assisted CSI-Based Passenger Counting with Multiple Wi-Fi Receivers**|Jingtao Guo et.al.|[2410.11400v1](http://arxiv.org/abs/2410.11400v1)|null|
 |**2024-10-15**|**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**|Shuhan Dong et.al.|[2410.11358v1](http://arxiv.org/abs/2410.11358v1)|null|
-|**2024-10-15**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211v1](http://arxiv.org/abs/2410.11211v1)|**[link](https://github.com/safetylab24/FusionCVCP)**|
+|**2024-10-16**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211v2](http://arxiv.org/abs/2410.11211v2)|**[link](https://github.com/safetylab24/FusionCVCP)**|
 |**2024-10-15**|**DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection**|Sheng Yan et.al.|[2410.11181v1](http://arxiv.org/abs/2410.11181v1)|**[link](https://github.com/fchest/darnet)**|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791v1](http://arxiv.org/abs/2410.10791v1)|null|
 |**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790v1](http://arxiv.org/abs/2410.10790v1)|**[link](https://github.com/windvchen/sitcom-crafter)**|
