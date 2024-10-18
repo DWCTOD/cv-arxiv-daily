@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862v1](http://arxiv.org/abs/2410.13862v1)|**[link](https://github.com/cvg/depthsplat)**|
+|**2024-10-17**|**Adaptive Subsampling and Learned Model Improve Spatiotemporal Resolution of Tactile Skin**|Ariel Slepyan et.al.|[2410.13847v1](http://arxiv.org/abs/2410.13847v1)|null|
+|**2024-10-17**|**VidPanos: Generative Panoramic Videos from Casual Panning Videos**|Jingwei Ma et.al.|[2410.13832v1](http://arxiv.org/abs/2410.13832v1)|null|
+|**2024-10-17**|**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**|Yujie Wei et.al.|[2410.13830v1](http://arxiv.org/abs/2410.13830v1)|null|
+|**2024-10-17**|**Multi-style conversion for semantic segmentation of lesions in fundus images by adversarial attacks**|Clément Playout et.al.|[2410.13822v1](http://arxiv.org/abs/2410.13822v1)|**[link](https://github.com/clementpla/multistyle_funduslesionsegmentation)**|
+|**2024-10-17**|**Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance**|Mitsuhiko Nakamoto et.al.|[2410.13816v1](http://arxiv.org/abs/2410.13816v1)|null|
+|**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803v1](http://arxiv.org/abs/2410.13803v1)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
+|**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790v1](http://arxiv.org/abs/2410.13790v1)|null|
+|**2024-10-17**|**Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order**|Yuchen Guo et.al.|[2410.13734v1](http://arxiv.org/abs/2410.13734v1)|null|
+|**2024-10-17**|**Representing Model Weights with Language using Tree Experts**|Eliahu Horwitz et.al.|[2410.13569v1](http://arxiv.org/abs/2410.13569v1)|null|
 |**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788v1](http://arxiv.org/abs/2410.12788v1)|null|
 |**2024-10-16**|**The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio**|Sicong Leng et.al.|[2410.12787v1](http://arxiv.org/abs/2410.12787v1)|null|
 |**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773v1](http://arxiv.org/abs/2410.12773v1)|null|
@@ -5871,6 +5881,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**A Subsequence Approach to Topological Data Analysis for Irregularly-Spaced Time Series**|Sixtus Dakurah et.al.|[2410.13723v1](http://arxiv.org/abs/2410.13723v1)|null|
+|**2024-10-17**|**Design of Unitless Normalized Measure of Nonlinearity for State Estimation**|Ondřej Straka et.al.|[2410.13539v1](http://arxiv.org/abs/2410.13539v1)|null|
+|**2024-10-17**|**RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**|Kejun Ren et.al.|[2410.13532v1](http://arxiv.org/abs/2410.13532v1)|null|
+|**2024-10-17**|**Development of a New Type of Vortex Bladeless Wind Turbine for Urban Energy Systems**|Dongkun Han et.al.|[2410.13506v1](http://arxiv.org/abs/2410.13506v1)|null|
+|**2024-10-17**|**SemSim: Revisiting Weak-to-Strong Consistency from a Semantic Similarity Perspective for Semi-supervised Medical Image Segmentation**|Shiao Xie et.al.|[2410.13486v1](http://arxiv.org/abs/2410.13486v1)|null|
+|**2024-10-17**|**Temporal-Enhanced Multimodal Transformer for Referring Multi-Object Tracking and Segmentation**|Changcheng Xiao et.al.|[2410.13437v1](http://arxiv.org/abs/2410.13437v1)|null|
+|**2024-10-17**|**Self-Supervised Scene Flow Estimation with Point-Voxel Fusion and Surface Representation**|Xuezhi Xiang et.al.|[2410.13355v1](http://arxiv.org/abs/2410.13355v1)|null|
+|**2024-10-17**|**Designing tungsten armoured plasma facing components to pulsed heat loads in magnetic fusion machines**|R Mitteau et.al.|[2410.13269v1](http://arxiv.org/abs/2410.13269v1)|null|
+|**2024-10-17**|**scFusionTTT: Single-cell transcriptomics and proteomics fusion with Test-Time Training layers**|Dian Meng et.al.|[2410.13257v1](http://arxiv.org/abs/2410.13257v1)|null|
+|**2024-10-17**|**Evaluating Self-Generated Documents for Enhancing Retrieval-Augmented Generation with Large Language Models**|Jiatao Li et.al.|[2410.13192v1](http://arxiv.org/abs/2410.13192v1)|null|
 |**2024-10-16**|**Generative Neural Reparameterization for Differentiable PDE-constrained Optimization**|Archis S. Joglekar et.al.|[2410.12683v1](http://arxiv.org/abs/2410.12683v1)|null|
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673v1](http://arxiv.org/abs/2410.12673v1)|null|
 |**2024-10-16**|**Probing $τ$ lepton dipole moments at future Muon Colliders**|ZeQiang Wang et.al.|[2410.12663v1](http://arxiv.org/abs/2410.12663v1)|null|
