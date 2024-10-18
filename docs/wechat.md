@@ -1,4 +1,4 @@
-> Updated on 2024.10.17
+> Updated on 2024.10.18
 
 ## Video_Classification
 
@@ -5869,7 +5869,7 @@
 - 2024-10-16, **Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**, Minkyoung Cho et.al., Paper: [http://arxiv.org/abs/2410.12592v1](http://arxiv.org/abs/2410.12592v1)
 - 2024-10-16, **Efficient generation of divergent and collimated hot electrons via a novel multi-beam two-plasmon decay and stimulated Raman scattering mechanism**, K. Y. Meng et.al., Paper: [http://arxiv.org/abs/2410.12460v1](http://arxiv.org/abs/2410.12460v1)
 - 2024-10-16, **Real-time Stereo-based 3D Object Detection for Streaming Perception**, Changcai Li et.al., Paper: [http://arxiv.org/abs/2410.12394v1](http://arxiv.org/abs/2410.12394v1)
-- 2024-10-16, **Prompt Compression for Large Language Models: A Survey**, Zongqian Li et.al., Paper: [http://arxiv.org/abs/2410.12388v1](http://arxiv.org/abs/2410.12388v1)
+- 2024-10-17, **Prompt Compression for Large Language Models: A Survey**, Zongqian Li et.al., Paper: [http://arxiv.org/abs/2410.12388v2](http://arxiv.org/abs/2410.12388v2)
 - 2024-10-16, **Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**, Pengwei Liang et.al., Paper: [http://arxiv.org/abs/2410.12274v1](http://arxiv.org/abs/2410.12274v1)
 - 2024-10-16, **CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching**, Xingjian Wu et.al., Paper: [http://arxiv.org/abs/2410.12261v1](http://arxiv.org/abs/2410.12261v1)
 - 2024-10-16, **Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**, Luyi Ma et.al., Paper: [http://arxiv.org/abs/2410.12228v1](http://arxiv.org/abs/2410.12228v1)
