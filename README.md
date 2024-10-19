@@ -11,7 +11,7 @@
 |**2024-10-17**|**Multi-style conversion for semantic segmentation of lesions in fundus images by adversarial attacks**|Clément Playout et.al.|[2410.13822v1](http://arxiv.org/abs/2410.13822v1)|**[link](https://github.com/clementpla/multistyle_funduslesionsegmentation)**|
 |**2024-10-17**|**Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance**|Mitsuhiko Nakamoto et.al.|[2410.13816v1](http://arxiv.org/abs/2410.13816v1)|null|
 |**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803v1](http://arxiv.org/abs/2410.13803v1)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
-|**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790v1](http://arxiv.org/abs/2410.13790v1)|null|
+|**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790v1](http://arxiv.org/abs/2410.13790v1)|**[link](https://github.com/liangxuy/motionbank)**|
 |**2024-10-17**|**Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order**|Yuchen Guo et.al.|[2410.13734v1](http://arxiv.org/abs/2410.13734v1)|null|
 |**2024-10-17**|**Representing Model Weights with Language using Tree Experts**|Eliahu Horwitz et.al.|[2410.13569v1](http://arxiv.org/abs/2410.13569v1)|null|
 |**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788v1](http://arxiv.org/abs/2410.12788v1)|null|
