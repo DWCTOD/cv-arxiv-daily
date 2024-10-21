@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-18, **Real-time Fake News from Adversarial Feedback**, Sanxing Chen et.al., Paper: [http://arxiv.org/abs/2410.14651v1](http://arxiv.org/abs/2410.14651v1)
+- 2024-10-18, **GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings**, Raghuveer Thirukovalluru et.al., Paper: [http://arxiv.org/abs/2410.14635v1](http://arxiv.org/abs/2410.14635v1)
+- 2024-10-18, **You Shall Know a Tool by the Traces it Leaves: The Predictability of Sentiment Analysis Tools**, Daniel Baumartz et.al., Paper: [http://arxiv.org/abs/2410.14626v1](http://arxiv.org/abs/2410.14626v1)
+- 2024-10-18, **Learning to Control the Smoothness of Graph Convolutional Network Features**, Shih-Hsin Wang et.al., Paper: [http://arxiv.org/abs/2410.14604v1](http://arxiv.org/abs/2410.14604v1)
+- 2024-10-18, **Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection**, Aaron Alvarado Kristanto Julistiono et.al., Paper: [http://arxiv.org/abs/2410.14581v1](http://arxiv.org/abs/2410.14581v1)
+- 2024-10-18, **A Hybrid Feature Fusion Deep Learning Framework for Leukemia Cancer Detection in Microscopic Blood Sample Using Gated Recurrent Unit and Uncertainty Quantification**, Maksuda Akter et.al., Paper: [http://arxiv.org/abs/2410.14536v1](http://arxiv.org/abs/2410.14536v1)
+- 2024-10-18, **Less is More: Selective Reduction of CT Data for Self-Supervised Pre-Training of Deep Learning Models with Contrastive Learning Improves Downstream Classification Performance**, Daniel Wolf et.al., Paper: [http://arxiv.org/abs/2410.14524v1](http://arxiv.org/abs/2410.14524v1), Code: **[https://github.com/Wolfda95/Less_is_More](https://github.com/Wolfda95/Less_is_More)**
+- 2024-10-18, **Influence of anisotropy on the study of critical behavior of spin models by machine learning methods**, Diana Sukhoverkhova et.al., Paper: [http://arxiv.org/abs/2410.14523v1](http://arxiv.org/abs/2410.14523v1)
+- 2024-10-18, **A character approach to the ISR property**, Artem Dudko et.al., Paper: [http://arxiv.org/abs/2410.14517v1](http://arxiv.org/abs/2410.14517v1)
+- 2024-10-18, **Efficient Annotator Reliability Assessment and Sample Weighting for Knowledge-Based Misinformation Detection on Social Media**, Owen Cook et.al., Paper: [http://arxiv.org/abs/2410.14515v1](http://arxiv.org/abs/2410.14515v1), Code: **[https://github.com/minieggz/ruc-misinfo](https://github.com/minieggz/ruc-misinfo)**
 - 2024-10-17, **DepthSplat: Connecting Gaussian Splatting and Depth**, Haofei Xu et.al., Paper: [http://arxiv.org/abs/2410.13862v1](http://arxiv.org/abs/2410.13862v1), Code: **[https://github.com/cvg/depthsplat](https://github.com/cvg/depthsplat)**
 - 2024-10-17, **Adaptive Subsampling and Learned Model Improve Spatiotemporal Resolution of Tactile Skin**, Ariel Slepyan et.al., Paper: [http://arxiv.org/abs/2410.13847v1](http://arxiv.org/abs/2410.13847v1)
 - 2024-10-17, **VidPanos: Generative Panoramic Videos from Casual Panning Videos**, Jingwei Ma et.al., Paper: [http://arxiv.org/abs/2410.13832v1](http://arxiv.org/abs/2410.13832v1)
@@ -5873,6 +5883,16 @@
 
 ## MultiModal
 
+- 2024-10-18, **DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie Character-Aware Discourse Graph**, Maitreya Prafulla Chitale et.al., Paper: [http://arxiv.org/abs/2410.14666v1](http://arxiv.org/abs/2410.14666v1)
+- 2024-10-18, **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Elias Lumer et.al., Paper: [http://arxiv.org/abs/2410.14594v1](http://arxiv.org/abs/2410.14594v1)
+- 2024-10-18, **A Lipschitz spaces view of infinitely wide shallow neural networks**, Francesca Bartolucci et.al., Paper: [http://arxiv.org/abs/2410.14591v1](http://arxiv.org/abs/2410.14591v1)
+- 2024-10-18, **MCSFF: Multi-modal Consistency and Specificity Fusion Framework for Entity Alignment**, Wei Ai et.al., Paper: [http://arxiv.org/abs/2410.14584v1](http://arxiv.org/abs/2410.14584v1)
+- 2024-10-18, **A Hybrid Feature Fusion Deep Learning Framework for Leukemia Cancer Detection in Microscopic Blood Sample Using Gated Recurrent Unit and Uncertainty Quantification**, Maksuda Akter et.al., Paper: [http://arxiv.org/abs/2410.14536v1](http://arxiv.org/abs/2410.14536v1)
+- 2024-10-18, **CLIP-VAD: Exploiting Vision-Language Models for Voice Activity Detection**, Andrea Appiani et.al., Paper: [http://arxiv.org/abs/2410.14509v1](http://arxiv.org/abs/2410.14509v1)
+- 2024-10-18, **An Integrated Deep Learning Model for Skin Cancer Detection Using Hybrid Feature Fusion Technique**, Maksuda Akter et.al., Paper: [http://arxiv.org/abs/2410.14489v1](http://arxiv.org/abs/2410.14489v1)
+- 2024-10-18, **Electrocardiogram-Language Model for Few-Shot Question Answering with Meta Learning**, Jialu Tang et.al., Paper: [http://arxiv.org/abs/2410.14464v1](http://arxiv.org/abs/2410.14464v1)
+- 2024-10-18, **An Optimal Linear Fusion Estimation Algorithm of Reduced Dimension for T-Proper Systems with Multiple Packet Dropouts**, Rosa M. Fernández-Alcalá et.al., Paper: [http://arxiv.org/abs/2410.14378v1](http://arxiv.org/abs/2410.14378v1)
+- 2024-10-18, **Fast proxy centers for Jeffreys centroids: The Jeffreys-Fisher-Rao and the inductive Gauss-Bregman centers**, Frank Nielsen et.al., Paper: [http://arxiv.org/abs/2410.14326v1](http://arxiv.org/abs/2410.14326v1)
 - 2024-10-17, **A Subsequence Approach to Topological Data Analysis for Irregularly-Spaced Time Series**, Sixtus Dakurah et.al., Paper: [http://arxiv.org/abs/2410.13723v1](http://arxiv.org/abs/2410.13723v1)
 - 2024-10-17, **Design of Unitless Normalized Measure of Nonlinearity for State Estimation**, Ondřej Straka et.al., Paper: [http://arxiv.org/abs/2410.13539v1](http://arxiv.org/abs/2410.13539v1)
 - 2024-10-17, **RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**, Kejun Ren et.al., Paper: [http://arxiv.org/abs/2410.13532v1](http://arxiv.org/abs/2410.13532v1)
