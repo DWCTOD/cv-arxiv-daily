@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-21, **SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**, Shuangrui Ding et.al., Paper: [http://arxiv.org/abs/2410.16268v1](http://arxiv.org/abs/2410.16268v1), Code: **[https://github.com/mark12ding/sam2long](https://github.com/mark12ding/sam2long)**
+- 2024-10-21, **xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**, Michael S. Ryoo et.al., Paper: [http://arxiv.org/abs/2410.16267v1](http://arxiv.org/abs/2410.16267v1)
+- 2024-10-21, **3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Xi Liu et.al., Paper: [http://arxiv.org/abs/2410.16266v1](http://arxiv.org/abs/2410.16266v1)
+- 2024-10-21, **Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos**, Gengshan Yang et.al., Paper: [http://arxiv.org/abs/2410.16259v1](http://arxiv.org/abs/2410.16259v1)
+- 2024-10-21, **Serendipitous detection of an intense X-ray flare in the weak-line T Tauri star KM Ori with SRG/eROSITA**, Savithri H. Ezhikode et.al., Paper: [http://arxiv.org/abs/2410.16241v1](http://arxiv.org/abs/2410.16241v1)
+- 2024-10-21, **MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**, Samrajya Thapa et.al., Paper: [http://arxiv.org/abs/2410.16239v1](http://arxiv.org/abs/2410.16239v1)
+- 2024-10-21, **Deep Radiomics Detection of Clinically Significant Prostate Cancer on Multicenter MRI: Initial Comparison to PI-RADS Assessment**, G. A. Nketiah et.al., Paper: [http://arxiv.org/abs/2410.16238v1](http://arxiv.org/abs/2410.16238v1)
+- 2024-10-21, **Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**, Giannis Daras et.al., Paper: [http://arxiv.org/abs/2410.16152v1](http://arxiv.org/abs/2410.16152v1)
+- 2024-10-21, **An Explainable Contrastive-based Dilated Convolutional Network with Transformer for Pediatric Pneumonia Detection**, Chandravardhan Singh Raghaw et.al., Paper: [http://arxiv.org/abs/2410.16143v1](http://arxiv.org/abs/2410.16143v1)
+- 2024-10-21, **Modeling dynamic neural activity by combining naturalistic video stimuli and stimulus-independent latent factors**, Finn Schmidt et.al., Paper: [http://arxiv.org/abs/2410.16136v1](http://arxiv.org/abs/2410.16136v1)
 - 2024-10-18, **Real-time Fake News from Adversarial Feedback**, Sanxing Chen et.al., Paper: [http://arxiv.org/abs/2410.14651v1](http://arxiv.org/abs/2410.14651v1)
 - 2024-10-18, **GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings**, Raghuveer Thirukovalluru et.al., Paper: [http://arxiv.org/abs/2410.14635v1](http://arxiv.org/abs/2410.14635v1)
 - 2024-10-18, **You Shall Know a Tool by the Traces it Leaves: The Predictability of Sentiment Analysis Tools**, Daniel Baumartz et.al., Paper: [http://arxiv.org/abs/2410.14626v1](http://arxiv.org/abs/2410.14626v1)
@@ -5883,6 +5893,16 @@
 
 ## MultiModal
 
+- 2024-10-21, **Cooperative Multistatic Target Detection in Cell-Free Communication Networks**, Tianyu Yang et.al., Paper: [http://arxiv.org/abs/2410.16140v1](http://arxiv.org/abs/2410.16140v1)
+- 2024-10-21, **Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**, Nikos Sakellariou et.al., Paper: [http://arxiv.org/abs/2410.16089v1](http://arxiv.org/abs/2410.16089v1)
+- 2024-10-21, **Enhanced $S$-factor for the $^{14}$N$(p,γ)^{15}$O reaction and its impact on the solar composition problem**, X. Chen et.al., Paper: [http://arxiv.org/abs/2410.16086v1](http://arxiv.org/abs/2410.16086v1)
+- 2024-10-21, **Unleashing the Potential of Multi-Channel Fusion in Retrieval for Personalized Recommendations**, Junjie Huang et.al., Paper: [http://arxiv.org/abs/2410.16080v1](http://arxiv.org/abs/2410.16080v1)
+- 2024-10-21, **Improving the Multi-label Atomic Activity Recognition by Robust Visual Feature and Advanced Attention @ ROAD++ Atomic Activity Recognition 2024**, Jiamin Cao et.al., Paper: [http://arxiv.org/abs/2410.16037v1](http://arxiv.org/abs/2410.16037v1)
+- 2024-10-21, **Fusion divided: what prevented European collaboration on controlled thermonuclear fusion in 1958**, Barbara Hof et.al., Paper: [http://arxiv.org/abs/2410.15969v1](http://arxiv.org/abs/2410.15969v1)
+- 2024-10-21, **Redefining Finance: The Influence of Artificial Intelligence (AI) and Machine Learning (ML)**, Animesh Kumar et.al., Paper: [http://arxiv.org/abs/2410.15951v1](http://arxiv.org/abs/2410.15951v1)
+- 2024-10-21, **Focus on BEV: Self-calibrated Cycle View Transformation for Monocular Birds-Eye-View Segmentation**, Jiawei Zhao et.al., Paper: [http://arxiv.org/abs/2410.15932v1](http://arxiv.org/abs/2410.15932v1)
+- 2024-10-21, **Random Token Fusion for Multi-View Medical Diagnosis**, Jingyu Guo et.al., Paper: [http://arxiv.org/abs/2410.15847v1](http://arxiv.org/abs/2410.15847v1)
+- 2024-10-21, **Kaninfradet3D:A Road-side Camera-LiDAR Fusion 3D Perception Model based on Nonlinear Feature Extraction and Intrinsic Correlation**, Pei Liu et.al., Paper: [http://arxiv.org/abs/2410.15814v1](http://arxiv.org/abs/2410.15814v1)
 - 2024-10-18, **DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie Character-Aware Discourse Graph**, Maitreya Prafulla Chitale et.al., Paper: [http://arxiv.org/abs/2410.14666v1](http://arxiv.org/abs/2410.14666v1)
 - 2024-10-18, **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Elias Lumer et.al., Paper: [http://arxiv.org/abs/2410.14594v1](http://arxiv.org/abs/2410.14594v1)
 - 2024-10-18, **A Lipschitz spaces view of infinitely wide shallow neural networks**, Francesca Bartolucci et.al., Paper: [http://arxiv.org/abs/2410.14591v1](http://arxiv.org/abs/2410.14591v1)
