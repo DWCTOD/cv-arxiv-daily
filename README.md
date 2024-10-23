@@ -1,4 +1,4 @@
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 
 ## Video_Classification
 
@@ -9,9 +9,9 @@
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|null|
 |**2024-10-21**|**Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos**|Gengshan Yang et.al.|[2410.16259v1](http://arxiv.org/abs/2410.16259v1)|null|
 |**2024-10-21**|**Serendipitous detection of an intense X-ray flare in the weak-line T Tauri star KM Ori with SRG/eROSITA**|Savithri H. Ezhikode et.al.|[2410.16241v1](http://arxiv.org/abs/2410.16241v1)|null|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239v1](http://arxiv.org/abs/2410.16239v1)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Deep Radiomics Detection of Clinically Significant Prostate Cancer on Multicenter MRI: Initial Comparison to PI-RADS Assessment**|G. A. Nketiah et.al.|[2410.16238v1](http://arxiv.org/abs/2410.16238v1)|null|
-|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v1](http://arxiv.org/abs/2410.16152v1)|null|
+|**2024-10-22**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v2](http://arxiv.org/abs/2410.16152v2)|null|
 |**2024-10-21**|**An Explainable Contrastive-based Dilated Convolutional Network with Transformer for Pediatric Pneumonia Detection**|Chandravardhan Singh Raghaw et.al.|[2410.16143v1](http://arxiv.org/abs/2410.16143v1)|null|
 |**2024-10-21**|**Modeling dynamic neural activity by combining naturalistic video stimuli and stimulus-independent latent factors**|Finn Schmidt et.al.|[2410.16136v1](http://arxiv.org/abs/2410.16136v1)|null|
 |**2024-10-18**|**Real-time Fake News from Adversarial Feedback**|Sanxing Chen et.al.|[2410.14651v1](http://arxiv.org/abs/2410.14651v1)|null|
