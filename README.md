@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251v1](http://arxiv.org/abs/2410.17251v1)|null|
+|**2024-10-22**|**Classifying rational polygons with small denominator and few interior lattice points**|Martin Bohnert et.al.|[2410.17244v1](http://arxiv.org/abs/2410.17244v1)|null|
+|**2024-10-22**|**Frontiers in Intelligent Colonoscopy**|Ge-Peng Ji et.al.|[2410.17241v1](http://arxiv.org/abs/2410.17241v1)|**[link](https://github.com/ai4colonoscopy/intelliscope)**|
+|**2024-10-22**|**Automated Spinal MRI Labelling from Reports Using a Large Language Model**|Robin Y. Park et.al.|[2410.17235v1](http://arxiv.org/abs/2410.17235v1)|**[link](https://github.com/robinyjpark/autolabelclassifier)**|
+|**2024-10-22**|**Few-shot In-Context Preference Learning Using Large Language Models**|Chao Yu et.al.|[2410.17233v1](http://arxiv.org/abs/2410.17233v1)|null|
+|**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222v1](http://arxiv.org/abs/2410.17222v1)|null|
+|**2024-10-22**|**The Decision Problem for Regular First-Order Theories**|Umang Mathur et.al.|[2410.17185v1](http://arxiv.org/abs/2410.17185v1)|null|
+|**2024-10-22**|**Technical Report: Toward Applying Quantum Computing to Network Verification**|Kahlil Dozier et.al.|[2410.17184v1](http://arxiv.org/abs/2410.17184v1)|null|
+|**2024-10-22**|**KANICE: Kolmogorov-Arnold Networks with Interactive Convolutional Elements**|Md Meftahul Ferdaus et.al.|[2410.17172v1](http://arxiv.org/abs/2410.17172v1)|**[link](https://github.com/m-ferdaus/kanice)**|
+|**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149v1](http://arxiv.org/abs/2410.17149v1)|null|
 |**2024-10-21**|**SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**|Shuangrui Ding et.al.|[2410.16268v1](http://arxiv.org/abs/2410.16268v1)|**[link](https://github.com/mark12ding/sam2long)**|
 |**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267v1](http://arxiv.org/abs/2410.16267v1)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|null|
@@ -5897,6 +5907,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**|Junzhou Chen et.al.|[2410.17144v1](http://arxiv.org/abs/2410.17144v1)|null|
+|**2024-10-22**|**AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**|Xiaoxuan Ma et.al.|[2410.17136v1](http://arxiv.org/abs/2410.17136v1)|null|
+|**2024-10-22**|**Continuous Speech Tokenizer in Text To Speech**|Yixing Li et.al.|[2410.17081v1](http://arxiv.org/abs/2410.17081v1)|null|
+|**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan et.al.|[2410.16993v1](http://arxiv.org/abs/2410.16993v1)|null|
+|**2024-10-22**|**Sample-efficient Bayesian Optimisation Using Known Invariances**|Theodore Brown et.al.|[2410.16972v1](http://arxiv.org/abs/2410.16972v1)|**[link](https://github.com/theo-brown/bayesopt_with_invariances)**|
+|**2024-10-22**|**Beyond Retrieval: Generating Narratives in Conversational Recommender Systems**|Krishna Sayana et.al.|[2410.16780v1](http://arxiv.org/abs/2410.16780v1)|null|
+|**2024-10-22**|**Resource-Efficient Sensor Fusion via System-Wide Dynamic Gated Neural Networks**|Chetna Singhal et.al.|[2410.16723v1](http://arxiv.org/abs/2410.16723v1)|null|
+|**2024-10-22**|**MPT: A Large-scale Multi-Phytoplankton Tracking Benchmark**|Yang Yu et.al.|[2410.16695v1](http://arxiv.org/abs/2410.16695v1)|null|
+|**2024-10-22**|**Fire and Smoke Detection with Burning Intensity Representation**|Xiaoyi Han et.al.|[2410.16642v1](http://arxiv.org/abs/2410.16642v1)|**[link](https://github.com/xiaoyihan6/fsdmethod)**|
+|**2024-10-21**|**PlaneSAM: Multimodal Plane Instance Segmentation Using the Segment Anything Model**|Zhongchen Deng et.al.|[2410.16545v1](http://arxiv.org/abs/2410.16545v1)|null|
 |**2024-10-21**|**Cooperative Multistatic Target Detection in Cell-Free Communication Networks**|Tianyu Yang et.al.|[2410.16140v1](http://arxiv.org/abs/2410.16140v1)|null|
 |**2024-10-21**|**Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**|Nikos Sakellariou et.al.|[2410.16089v1](http://arxiv.org/abs/2410.16089v1)|null|
 |**2024-10-21**|**Enhanced $S$-factor for the $^{14}$N$(p,γ)^{15}$O reaction and its impact on the solar composition problem**|X. Chen et.al.|[2410.16086v1](http://arxiv.org/abs/2410.16086v1)|null|
