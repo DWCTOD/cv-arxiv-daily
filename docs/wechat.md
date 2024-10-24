@@ -1,4 +1,4 @@
-> Updated on 2024.10.23
+> Updated on 2024.10.24
 
 ## Video_Classification
 
@@ -5904,7 +5904,7 @@
 ## MultiModal
 
 - 2024-10-22, **YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**, Junzhou Chen et.al., Paper: [http://arxiv.org/abs/2410.17144v1](http://arxiv.org/abs/2410.17144v1)
-- 2024-10-22, **AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**, Xiaoxuan Ma et.al., Paper: [http://arxiv.org/abs/2410.17136v1](http://arxiv.org/abs/2410.17136v1)
+- 2024-10-22, **AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**, Xiaoxuan Ma et.al., Paper: [http://arxiv.org/abs/2410.17136v1](http://arxiv.org/abs/2410.17136v1), Code: **[https://github.com/shirleymaxx/chimpact](https://github.com/shirleymaxx/chimpact)**
 - 2024-10-22, **Continuous Speech Tokenizer in Text To Speech**, Yixing Li et.al., Paper: [http://arxiv.org/abs/2410.17081v1](http://arxiv.org/abs/2410.17081v1)
 - 2024-10-22, **Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**, Khyathi Komalan et.al., Paper: [http://arxiv.org/abs/2410.16993v1](http://arxiv.org/abs/2410.16993v1)
 - 2024-10-22, **Sample-efficient Bayesian Optimisation Using Known Invariances**, Theodore Brown et.al., Paper: [http://arxiv.org/abs/2410.16972v1](http://arxiv.org/abs/2410.16972v1), Code: **[https://github.com/theo-brown/bayesopt_with_invariances](https://github.com/theo-brown/bayesopt_with_invariances)**
