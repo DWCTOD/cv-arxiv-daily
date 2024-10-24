@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-23, **FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**, Yang-Che Sun et.al., Paper: [http://arxiv.org/abs/2410.18083v1](http://arxiv.org/abs/2410.18083v1)
+- 2024-10-23, **WorldSimBench: Towards Video Generation Models as World Simulators**, Yiran Qin et.al., Paper: [http://arxiv.org/abs/2410.18072v1](http://arxiv.org/abs/2410.18072v1)
+- 2024-10-23, **Eigenvalue crossings in equivariant families of matrices**, Jonathan Rawlinson et.al., Paper: [http://arxiv.org/abs/2410.18068v1](http://arxiv.org/abs/2410.18068v1)
+- 2024-10-23, **The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**, Raman Ebrahimi et.al., Paper: [http://arxiv.org/abs/2410.18066v1](http://arxiv.org/abs/2410.18066v1)
+- 2024-10-23, **Real time anomalies detection on video**, Fabien Poirier et.al., Paper: [http://arxiv.org/abs/2410.18051v1](http://arxiv.org/abs/2410.18051v1)
+- 2024-10-23, **Boundary topological insulators and superconductors of Altland-Zirnbauer tenfold classes**, Xun-Jiang Luo et.al., Paper: [http://arxiv.org/abs/2410.18015v1](http://arxiv.org/abs/2410.18015v1)
+- 2024-10-23, **Effective Finite Time Stability Control for Human-Machine Shared Vehicle Following System**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2410.18007v1](http://arxiv.org/abs/2410.18007v1)
+- 2024-10-23, **Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**, Suho Kang et.al., Paper: [http://arxiv.org/abs/2410.18001v1](http://arxiv.org/abs/2410.18001v1), Code: **[https://github.com/mlai-yonsei/exceptionalbenchmark](https://github.com/mlai-yonsei/exceptionalbenchmark)**
+- 2024-10-23, **Optical Generative Models**, Shiqi Chen et.al., Paper: [http://arxiv.org/abs/2410.17970v1](http://arxiv.org/abs/2410.17970v1)
+- 2024-10-23, **A Wavelet Diffusion GAN for Image Super-Resolution**, Lorenzo Aloisi et.al., Paper: [http://arxiv.org/abs/2410.17966v1](http://arxiv.org/abs/2410.17966v1)
 - 2024-10-22, **Altogether: Image Captioning via Re-aligning Alt-text**, Hu Xu et.al., Paper: [http://arxiv.org/abs/2410.17251v1](http://arxiv.org/abs/2410.17251v1)
 - 2024-10-22, **Classifying rational polygons with small denominator and few interior lattice points**, Martin Bohnert et.al., Paper: [http://arxiv.org/abs/2410.17244v1](http://arxiv.org/abs/2410.17244v1)
 - 2024-10-22, **Frontiers in Intelligent Colonoscopy**, Ge-Peng Ji et.al., Paper: [http://arxiv.org/abs/2410.17241v1](http://arxiv.org/abs/2410.17241v1), Code: **[https://github.com/ai4colonoscopy/intelliscope](https://github.com/ai4colonoscopy/intelliscope)**
@@ -5903,6 +5913,16 @@
 
 ## MultiModal
 
+- 2024-10-23, **Introduction to Fusion Ignition Principles: Zeroth Order Factors of Fusion Energy Research**, Huasheng Xie et.al., Paper: [http://arxiv.org/abs/2410.18054v1](http://arxiv.org/abs/2410.18054v1)
+- 2024-10-23, **Local stress in cylindrically curved lipid membrane: insights into local versus global lateral fluidity models**, Konstantin V. Pinigin et.al., Paper: [http://arxiv.org/abs/2410.18043v1](http://arxiv.org/abs/2410.18043v1)
+- 2024-10-23, **metasnf: Meta Clustering with Similarity Network Fusion in R**, Prashanth S Velayudhan et.al., Paper: [http://arxiv.org/abs/2410.17976v1](http://arxiv.org/abs/2410.17976v1)
+- 2024-10-23, **Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation**, Wenfang Yao et.al., Paper: [http://arxiv.org/abs/2410.17918v1](http://arxiv.org/abs/2410.17918v1)
+- 2024-10-23, **Probing Light Scalars and Vector-like Quarks at the High-Luminosity LHC**, A. Flórez et.al., Paper: [http://arxiv.org/abs/2410.17854v1](http://arxiv.org/abs/2410.17854v1)
+- 2024-10-23, **DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**, Qingpeng Li et.al., Paper: [http://arxiv.org/abs/2410.17822v1](http://arxiv.org/abs/2410.17822v1), Code: **[https://github.com/eeic-lab/dreb-net](https://github.com/eeic-lab/dreb-net)**
+- 2024-10-23, **ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning**, Zhiwei Hao et.al., Paper: [http://arxiv.org/abs/2410.17779v1](http://arxiv.org/abs/2410.17779v1), Code: **[https://github.com/hao840/adem-vl](https://github.com/hao840/adem-vl)**
+- 2024-10-23, **YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**, Xiguang Li et.al., Paper: [http://arxiv.org/abs/2410.17734v1](http://arxiv.org/abs/2410.17734v1)
+- 2024-10-23, **Surgical Scene Segmentation by Transformer With Asymmetric Feature Enhancement**, Cheng Yuan et.al., Paper: [http://arxiv.org/abs/2410.17642v1](http://arxiv.org/abs/2410.17642v1)
+- 2024-10-23, **Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**, Rui Yang et.al., Paper: [http://arxiv.org/abs/2410.17600v1](http://arxiv.org/abs/2410.17600v1)
 - 2024-10-22, **YOLO-TS: Real-Time Traffic Sign Detection with Enhanced Accuracy Using Optimized Receptive Fields and Anchor-Free Fusion**, Junzhou Chen et.al., Paper: [http://arxiv.org/abs/2410.17144v1](http://arxiv.org/abs/2410.17144v1)
 - 2024-10-22, **AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**, Xiaoxuan Ma et.al., Paper: [http://arxiv.org/abs/2410.17136v1](http://arxiv.org/abs/2410.17136v1), Code: **[https://github.com/shirleymaxx/chimpact](https://github.com/shirleymaxx/chimpact)**
 - 2024-10-22, **Continuous Speech Tokenizer in Text To Speech**, Yixing Li et.al., Paper: [http://arxiv.org/abs/2410.17081v1](http://arxiv.org/abs/2410.17081v1)
