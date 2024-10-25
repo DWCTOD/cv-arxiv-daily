@@ -1,4 +1,4 @@
-> Updated on 2024.10.24
+> Updated on 2024.10.25
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 - 2024-10-23, **The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**, Raman Ebrahimi et.al., Paper: [http://arxiv.org/abs/2410.18066v1](http://arxiv.org/abs/2410.18066v1)
 - 2024-10-23, **Real time anomalies detection on video**, Fabien Poirier et.al., Paper: [http://arxiv.org/abs/2410.18051v1](http://arxiv.org/abs/2410.18051v1)
 - 2024-10-23, **Boundary topological insulators and superconductors of Altland-Zirnbauer tenfold classes**, Xun-Jiang Luo et.al., Paper: [http://arxiv.org/abs/2410.18015v1](http://arxiv.org/abs/2410.18015v1)
-- 2024-10-23, **Effective Finite Time Stability Control for Human-Machine Shared Vehicle Following System**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2410.18007v1](http://arxiv.org/abs/2410.18007v1)
+- 2024-10-24, **Effective Finite Time Stability Control for Human-Machine Shared Vehicle Following System**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2410.18007v2](http://arxiv.org/abs/2410.18007v2)
 - 2024-10-23, **Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**, Suho Kang et.al., Paper: [http://arxiv.org/abs/2410.18001v1](http://arxiv.org/abs/2410.18001v1), Code: **[https://github.com/mlai-yonsei/exceptionalbenchmark](https://github.com/mlai-yonsei/exceptionalbenchmark)**
 - 2024-10-23, **Optical Generative Models**, Shiqi Chen et.al., Paper: [http://arxiv.org/abs/2410.17970v1](http://arxiv.org/abs/2410.17970v1)
 - 2024-10-23, **A Wavelet Diffusion GAN for Image Super-Resolution**, Lorenzo Aloisi et.al., Paper: [http://arxiv.org/abs/2410.17966v1](http://arxiv.org/abs/2410.17966v1)
