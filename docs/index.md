@@ -17,7 +17,7 @@ layout: default
 |**2024-10-24**|**Multi-Class Abnormality Classification in Video Capsule Endoscopy Using Deep Learning**|Arnav Samal et.al.|[2410.18879v1](http://arxiv.org/abs/2410.18879v1)|**[link](https://github.com/arnavs04/capsule-vision-2024)**|
 |**2024-10-24**|**Exploring the Universe with SNAD: Anomaly Detection in Astronomy**|Alina A. Volnova et.al.|[2410.18875v1](http://arxiv.org/abs/2410.18875v1)|null|
 |**2024-10-24**|**Exploring a Geometric Conjecture, Some Properties of Blaschke Products, and the Geometry of Curves Formed by Them**|Mehmet Celik et.al.|[2410.18863v1](http://arxiv.org/abs/2410.18863v1)|null|
-|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|null|
+|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834v1](http://arxiv.org/abs/2410.18834v1)|**[link](https://github.com/lab-midas/LAPANet)**|
 |**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083v1](http://arxiv.org/abs/2410.18083v1)|null|
 |**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072v1](http://arxiv.org/abs/2410.18072v1)|null|
 |**2024-10-23**|**Eigenvalue crossings in equivariant families of matrices**|Jonathan Rawlinson et.al.|[2410.18068v1](http://arxiv.org/abs/2410.18068v1)|null|
