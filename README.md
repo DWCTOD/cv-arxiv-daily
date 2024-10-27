@@ -5934,7 +5934,7 @@
 |**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
 |**2024-10-24**|**Precision Soil Quality Analysis Using Transformer-based Data Fusion Strategies: A Systematic Review**|Mahdi Saki et.al.|[2410.18353v1](http://arxiv.org/abs/2410.18353v1)|null|
 |**2024-10-23**|**Trajectory Optimization for Spatial Microstructure Control in Electron Beam Metal Additive Manufacturing**|Mikhail Khrenov et.al.|[2410.18207v1](http://arxiv.org/abs/2410.18207v1)|null|
-|**2024-10-23**|**Introduction to Fusion Ignition Principles: Zeroth Order Factors of Fusion Energy Research**|Huasheng Xie et.al.|[2410.18054v1](http://arxiv.org/abs/2410.18054v1)|null|
+|**2024-10-23**|**Introduction to Fusion Ignition Principles: Zeroth Order Factors of Fusion Energy Research**|Huasheng Xie et.al.|[2410.18054v1](http://arxiv.org/abs/2410.18054v1)|**[link](https://github.com/hsxie/fusionbook)**|
 |**2024-10-23**|**Local stress in cylindrically curved lipid membrane: insights into local versus global lateral fluidity models**|Konstantin V. Pinigin et.al.|[2410.18043v1](http://arxiv.org/abs/2410.18043v1)|null|
 |**2024-10-23**|**metasnf: Meta Clustering with Similarity Network Fusion in R**|Prashanth S Velayudhan et.al.|[2410.17976v1](http://arxiv.org/abs/2410.17976v1)|null|
 |**2024-10-23**|**Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation**|Wenfang Yao et.al.|[2410.17918v1](http://arxiv.org/abs/2410.17918v1)|null|
