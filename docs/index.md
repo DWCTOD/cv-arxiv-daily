@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**Framer: Interactive Frame Interpolation**|Wen Wang et.al.|[2410.18978v1](http://arxiv.org/abs/2410.18978v1)|null|
-|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|null|
+|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|**[link](https://github.com/mbzuai-oryx/CAMEL-Bench)**|
 |**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975v1](http://arxiv.org/abs/2410.18975v1)|null|
 |**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912v1](http://arxiv.org/abs/2410.18912v1)|null|
 |**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907v1](http://arxiv.org/abs/2410.18907v1)|null|
@@ -5932,7 +5932,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956v1](http://arxiv.org/abs/2410.18956v1)|null|
-|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908v1](http://arxiv.org/abs/2410.18908v1)|null|
+|**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908v2](http://arxiv.org/abs/2410.18908v2)|null|
 |**2024-10-24**|**No-gap second-order optimality conditions for additive manufacturing**|Hiba Hmede et.al.|[2410.18776v1](http://arxiv.org/abs/2410.18776v1)|null|
 |**2024-10-24**|**Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences**|Haoxuan Kuang et.al.|[2410.18766v1](http://arxiv.org/abs/2410.18766v1)|null|
 |**2024-10-24**|**Ultrafast dynamics of a spin-polarized electron plasma with magnetic ions**|Benjamin Bakri et.al.|[2410.18548v1](http://arxiv.org/abs/2410.18548v1)|null|
