@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-28, **LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**, Hanyu Wang et.al., Paper: [http://arxiv.org/abs/2410.21264v1](http://arxiv.org/abs/2410.21264v1)
+- 2024-10-28, **Multi-modal AI for comprehensive breast cancer prognostication**, Jan Witowski et.al., Paper: [http://arxiv.org/abs/2410.21256v1](http://arxiv.org/abs/2410.21256v1)
+- 2024-10-28, **Joint Audio-Visual Idling Vehicle Detection with Streamlined Input Dependencies**, Xiwen Li et.al., Paper: [http://arxiv.org/abs/2410.21170v1](http://arxiv.org/abs/2410.21170v1)
+- 2024-10-28, **KaLDeX: Kalman Filter based Linear Deformable Cross Attention for Retina Vessel Segmentation**, Zhihao Zhao et.al., Paper: [http://arxiv.org/abs/2410.21160v1](http://arxiv.org/abs/2410.21160v1)
+- 2024-10-28, **Synthetica: Large Scale Synthetic Data for Robot Perception**, Ritvik Singh et.al., Paper: [http://arxiv.org/abs/2410.21153v1](http://arxiv.org/abs/2410.21153v1)
+- 2024-10-28, **The tau function for ABS equations**, James Atkinson et.al., Paper: [http://arxiv.org/abs/2410.21148v1](http://arxiv.org/abs/2410.21148v1)
+- 2024-10-28, **Enhancing Learned Image Compression via Cross Window-based Attention**, Priyanka Mudgal et.al., Paper: [http://arxiv.org/abs/2410.21144v1](http://arxiv.org/abs/2410.21144v1)
+- 2024-10-28, **uOttawa at LegalLens-2024: Transformer-based Classification Experiments**, Nima Meghdadi et.al., Paper: [http://arxiv.org/abs/2410.21139v1](http://arxiv.org/abs/2410.21139v1), Code: **[https://github.com/nimameghdadi/uottawa-at-legallens-2024-transformer-based-classification](https://github.com/nimameghdadi/uottawa-at-legallens-2024-transformer-based-classification)**
+- 2024-10-28, **Do LLMs generate test oracles that capture the actual or the expected program behaviour?**, Michael Konstantinou et.al., Paper: [http://arxiv.org/abs/2410.21136v1](http://arxiv.org/abs/2410.21136v1)
+- 2024-10-28, **Extrapolating Prospective Glaucoma Fundus Images through Diffusion Model in Irregular Longitudinal Sequences**, Zhihao Zhao et.al., Paper: [http://arxiv.org/abs/2410.21130v1](http://arxiv.org/abs/2410.21130v1)
 - 2024-10-25, **Sparse Decomposition of Graph Neural Networks**, Yaochen Hu et.al., Paper: [http://arxiv.org/abs/2410.19723v1](http://arxiv.org/abs/2410.19723v1)
 - 2024-10-25, **Arabic Music Classification and Generation using Deep Learning**, Mohamed Elshaarawy et.al., Paper: [http://arxiv.org/abs/2410.19719v1](http://arxiv.org/abs/2410.19719v1)
 - 2024-10-25, **Enhanced Anomaly Detection in Industrial Control Systems aided by Machine Learning**, Vegard Berge et.al., Paper: [http://arxiv.org/abs/2410.19717v1](http://arxiv.org/abs/2410.19717v1)
@@ -5933,6 +5943,16 @@
 
 ## MultiModal
 
+- 2024-10-28, **LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**, Naga Venkata Sai Raviteja Chappa et.al., Paper: [http://arxiv.org/abs/2410.21108v1](http://arxiv.org/abs/2410.21108v1)
+- 2024-10-28, **Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**, Vladimir Arkhipkin et.al., Paper: [http://arxiv.org/abs/2410.21061v1](http://arxiv.org/abs/2410.21061v1)
+- 2024-10-28, **Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering**, Zhilin Zhang et.al., Paper: [http://arxiv.org/abs/2410.21000v1](http://arxiv.org/abs/2410.21000v1)
+- 2024-10-28, **Evaluation of neural network algorithms for atmospheric turbulence mitigation**, Tushar Jain et.al., Paper: [http://arxiv.org/abs/2410.20816v1](http://arxiv.org/abs/2410.20816v1)
+- 2024-10-28, **Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs**, Chuang Zhao et.al., Paper: [http://arxiv.org/abs/2410.20642v1](http://arxiv.org/abs/2410.20642v1)
+- 2024-10-27, **Sensor Fusion for Autonomous Indoor UAV Navigation in Confined Spaces**, Alice James et.al., Paper: [http://arxiv.org/abs/2410.20599v1](http://arxiv.org/abs/2410.20599v1)
+- 2024-10-27, **Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**, Zhicheng Zhao et.al., Paper: [http://arxiv.org/abs/2410.20466v1](http://arxiv.org/abs/2410.20466v1), Code: **[https://github.com/jocelyney/gdnet](https://github.com/jocelyney/gdnet)**
+- 2024-10-27, **Deep Learning-Driven Microstructure Characterization and Vickers Hardness Prediction of Mg-Gd Alloys**, Lu Wang et.al., Paper: [http://arxiv.org/abs/2410.20402v1](http://arxiv.org/abs/2410.20402v1)
+- 2024-10-27, **Hierarchical Multiple Kernel K-Means Algorithm Based on Sparse Connectivity**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2410.20391v1](http://arxiv.org/abs/2410.20391v1)
+- 2024-10-27, **Multiple kernel concept factorization algorithm based on global fusion**, Fei Li et.al., Paper: [http://arxiv.org/abs/2410.20383v1](http://arxiv.org/abs/2410.20383v1)
 - 2024-10-25, **Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation**, Yao Wu et.al., Paper: [http://arxiv.org/abs/2410.19446v1](http://arxiv.org/abs/2410.19446v1), Code: **[https://github.com/barcaaaa/ftd-plusplus](https://github.com/barcaaaa/ftd-plusplus)**
 - 2024-10-25, **Beyond Point Annotation: A Weakly Supervised Network Guided by Multi-Level Labels Generated from Four-Point Annotation for Thyroid Nodule Segmentation in Ultrasound Image**, Jianning Chi et.al., Paper: [http://arxiv.org/abs/2410.19332v1](http://arxiv.org/abs/2410.19332v1)
 - 2024-10-25, **A Stock Price Prediction Approach Based on Time Series Decomposition and Multi-Scale CNN using OHLCT Images**, Zhiyuan Pei et.al., Paper: [http://arxiv.org/abs/2410.19291v1](http://arxiv.org/abs/2410.19291v1)
