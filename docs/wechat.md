@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-29, **Local Policies Enable Zero-shot Long-horizon Manipulation**, Murtaza Dalal et.al., Paper: [http://arxiv.org/abs/2410.22332v1](http://arxiv.org/abs/2410.22332v1)
+- 2024-10-29, **Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset**, Guangqi Jiang et.al., Paper: [http://arxiv.org/abs/2410.22325v1](http://arxiv.org/abs/2410.22325v1)
+- 2024-10-29, **Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**, Seetharam Killivalavan et.al., Paper: [http://arxiv.org/abs/2410.22323v1](http://arxiv.org/abs/2410.22323v1)
+- 2024-10-29, **Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**, Kai Wang et.al., Paper: [http://arxiv.org/abs/2410.22317v1](http://arxiv.org/abs/2410.22317v1), Code: **[https://github.com/wangkai930418/mc_ti](https://github.com/wangkai930418/mc_ti)**
+- 2024-10-29, **Convex Formulations for Training Two-Layer ReLU Neural Networks**, Karthik Prakhya et.al., Paper: [http://arxiv.org/abs/2410.22311v1](http://arxiv.org/abs/2410.22311v1)
+- 2024-10-29, **Emotion-Guided Image to Music Generation**, Souraja Kundu et.al., Paper: [http://arxiv.org/abs/2410.22299v1](http://arxiv.org/abs/2410.22299v1)
+- 2024-10-29, **Motion Graph Unleashed: A Novel Approach to Video Prediction**, Yiqi Zhong et.al., Paper: [http://arxiv.org/abs/2410.22288v1](http://arxiv.org/abs/2410.22288v1)
+- 2024-10-29, **Non-LTE Synthetic Observables of a Multidimensional Model of Type Ia Supernovae**, Samuel J. Boos et.al., Paper: [http://arxiv.org/abs/2410.22276v1](http://arxiv.org/abs/2410.22276v1)
+- 2024-10-29, **Leveraging Reverberation and Visual Depth Cues for Sound Event Localization and Detection with Distance Estimation**, Davide Berghi et.al., Paper: [http://arxiv.org/abs/2410.22271v1](http://arxiv.org/abs/2410.22271v1)
+- 2024-10-29, **LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers**, Patricia Pauli et.al., Paper: [http://arxiv.org/abs/2410.22258v1](http://arxiv.org/abs/2410.22258v1)
 - 2024-10-28, **LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**, Hanyu Wang et.al., Paper: [http://arxiv.org/abs/2410.21264v1](http://arxiv.org/abs/2410.21264v1)
 - 2024-10-28, **Multi-modal AI for comprehensive breast cancer prognostication**, Jan Witowski et.al., Paper: [http://arxiv.org/abs/2410.21256v1](http://arxiv.org/abs/2410.21256v1)
 - 2024-10-28, **Joint Audio-Visual Idling Vehicle Detection with Streamlined Input Dependencies**, Xiwen Li et.al., Paper: [http://arxiv.org/abs/2410.21170v1](http://arxiv.org/abs/2410.21170v1)
@@ -5943,6 +5953,16 @@
 
 ## MultiModal
 
+- 2024-10-29, **An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2410.22314v1](http://arxiv.org/abs/2410.22314v1)
+- 2024-10-29, **Effects of size of an oxide layer on the surface properties of lithium irradiated by deuterium plasma**, P. S. Krstic et.al., Paper: [http://arxiv.org/abs/2410.22243v1](http://arxiv.org/abs/2410.22243v1)
+- 2024-10-29, **A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**, Yuxuan Lin et.al., Paper: [http://arxiv.org/abs/2410.21982v1](http://arxiv.org/abs/2410.21982v1)
+- 2024-10-29, **NLO EW corrections to tau pair production via photon fusion in Pb-Pb ultraperipheral collision**, Jun Jiang et.al., Paper: [http://arxiv.org/abs/2410.21963v1](http://arxiv.org/abs/2410.21963v1)
+- 2024-10-29, **Multi-step feature fusion for natural disaster damage assessment on satellite images**, Mateusz Żarski et.al., Paper: [http://arxiv.org/abs/2410.21901v1](http://arxiv.org/abs/2410.21901v1), Code: **[https://github.com/matzar01/eq_vis](https://github.com/matzar01/eq_vis)**
+- 2024-10-29, **Integrability properties and multi-kink solutions of a generalised Fokker-Planck equation**, Francesco Giglio et.al., Paper: [http://arxiv.org/abs/2410.21852v1](http://arxiv.org/abs/2410.21852v1)
+- 2024-10-29, **Joint Beamforming and Speaker-Attributed ASR for Real Distant-Microphone Meeting Transcription**, Can Cui et.al., Paper: [http://arxiv.org/abs/2410.21849v1](http://arxiv.org/abs/2410.21849v1)
+- 2024-10-29, **Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional Block Attention and Multimodal Data Fusion**, Aiman Farooq et.al., Paper: [http://arxiv.org/abs/2410.21831v1](http://arxiv.org/abs/2410.21831v1)
+- 2024-10-29, **Fuzzing the PHP Interpreter via Dataflow Fusion**, Yuancheng Jiang et.al., Paper: [http://arxiv.org/abs/2410.21713v1](http://arxiv.org/abs/2410.21713v1)
+- 2024-10-28, **Energy-Enhanced Dimension Eight SMEFT Effects in VBF Higgs production**, Benoît Assi et.al., Paper: [http://arxiv.org/abs/2410.21563v1](http://arxiv.org/abs/2410.21563v1)
 - 2024-10-28, **LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**, Naga Venkata Sai Raviteja Chappa et.al., Paper: [http://arxiv.org/abs/2410.21108v1](http://arxiv.org/abs/2410.21108v1)
 - 2024-10-28, **Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**, Vladimir Arkhipkin et.al., Paper: [http://arxiv.org/abs/2410.21061v1](http://arxiv.org/abs/2410.21061v1)
 - 2024-10-28, **Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering**, Zhilin Zhang et.al., Paper: [http://arxiv.org/abs/2410.21000v1](http://arxiv.org/abs/2410.21000v1)
