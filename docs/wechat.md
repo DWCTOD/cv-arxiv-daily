@@ -1,4 +1,4 @@
-> Updated on 2024.10.31
+> Updated on 2024.11.01
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2024-10-30, **TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models**, Ziyao Shangguan et.al., Paper: [http://arxiv.org/abs/2410.23266v1](http://arxiv.org/abs/2410.23266v1), Code: **[https://github.com/yale-nlp/TOMATO](https://github.com/yale-nlp/TOMATO)**
 - 2024-10-30, **bit2bit: 1-bit quanta video reconstruction via self-supervised photon prediction**, Yehe Liu et.al., Paper: [http://arxiv.org/abs/2410.23247v1](http://arxiv.org/abs/2410.23247v1)
 - 2024-10-30, **PointRecon: Online Point-based 3D Reconstruction via Ray-based 2D-3D Matching**, Chen Ziwen et.al., Paper: [http://arxiv.org/abs/2410.23245v1](http://arxiv.org/abs/2410.23245v1)
-- 2024-10-30, **Aligning Audio-Visual Joint Representations with an Agentic Workflow**, Shentong Mo et.al., Paper: [http://arxiv.org/abs/2410.23230v1](http://arxiv.org/abs/2410.23230v1)
+- 2024-10-31, **Aligning Audio-Visual Joint Representations with an Agentic Workflow**, Shentong Mo et.al., Paper: [http://arxiv.org/abs/2410.23230v2](http://arxiv.org/abs/2410.23230v2)
 - 2024-10-29, **Local Policies Enable Zero-shot Long-horizon Manipulation**, Murtaza Dalal et.al., Paper: [http://arxiv.org/abs/2410.22332v1](http://arxiv.org/abs/2410.22332v1)
 - 2024-10-30, **Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**, Guangqi Jiang et.al., Paper: [http://arxiv.org/abs/2410.22325v2](http://arxiv.org/abs/2410.22325v2)
 - 2024-10-29, **Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**, Seetharam Killivalavan et.al., Paper: [http://arxiv.org/abs/2410.22323v1](http://arxiv.org/abs/2410.22323v1)
@@ -5967,7 +5967,7 @@
 - 2024-10-30, **First Place Solution to the ECCV 2024 ROAD++ Challenge @ ROAD++ Spatiotemporal Agent Detection 2024**, Tengfei Zhang et.al., Paper: [http://arxiv.org/abs/2410.23077v1](http://arxiv.org/abs/2410.23077v1)
 - 2024-10-30, **A Universal Sets-level Optimization Framework for Next Set Recommendation**, Yuli Liu et.al., Paper: [http://arxiv.org/abs/2410.23023v1](http://arxiv.org/abs/2410.23023v1)
 - 2024-10-30, **PDSR: Efficient UAV Deployment for Swift and Accurate Post-Disaster Search and Rescue**, Alaa Awad Abdellatif et.al., Paper: [http://arxiv.org/abs/2410.22982v1](http://arxiv.org/abs/2410.22982v1)
-- 2024-10-30, **GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**, Thien-Minh Nguyen et.al., Paper: [http://arxiv.org/abs/2410.22931v1](http://arxiv.org/abs/2410.22931v1)
+- 2024-10-31, **GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**, Thien-Minh Nguyen et.al., Paper: [http://arxiv.org/abs/2410.22931v2](http://arxiv.org/abs/2410.22931v2)
 - 2024-10-30, **Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration**, Yanchu Guan et.al., Paper: [http://arxiv.org/abs/2410.22916v1](http://arxiv.org/abs/2410.22916v1)
 - 2024-10-30, **SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion**, Kun Hu et.al., Paper: [http://arxiv.org/abs/2410.22837v1](http://arxiv.org/abs/2410.22837v1)
 - 2024-10-30, **FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images**, Zheng Yu et.al., Paper: [http://arxiv.org/abs/2410.22771v1](http://arxiv.org/abs/2410.22771v1), Code: **[https://github.com/thomas-wyh/fuseanypart](https://github.com/thomas-wyh/fuseanypart)**
