@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-10-31, **EgoMimic: Scaling Imitation Learning via Egocentric Video**, Simar Kareer et.al., Paper: [http://arxiv.org/abs/2410.24221v1](http://arxiv.org/abs/2410.24221v1)
+- 2024-10-31, **Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning**, Penghui Ruan et.al., Paper: [http://arxiv.org/abs/2410.24219v1](http://arxiv.org/abs/2410.24219v1), Code: **[https://github.com/pr-ryan/demo](https://github.com/pr-ryan/demo)**
+- 2024-10-31, **Learning Video Representations without Natural Videos**, Xueyang Yu et.al., Paper: [http://arxiv.org/abs/2410.24213v1](http://arxiv.org/abs/2410.24213v1)
+- 2024-10-31, **DELTA: Dense Efficient Long-range 3D Tracking for any video**, Tuan Duc Ngo et.al., Paper: [http://arxiv.org/abs/2410.24211v1](http://arxiv.org/abs/2410.24211v1)
+- 2024-10-31, **DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2410.24203v1](http://arxiv.org/abs/2410.24203v1), Code: **[https://github.com/zju3dv/diffpano](https://github.com/zju3dv/diffpano)**
+- 2024-10-31, **DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**, Zhenyu Jiang et.al., Paper: [http://arxiv.org/abs/2410.24185v1](http://arxiv.org/abs/2410.24185v1)
+- 2024-10-31, **Extended Object Tracking and Classification based on Linear Splines**, Matteo Tesori et.al., Paper: [http://arxiv.org/abs/2410.24183v1](http://arxiv.org/abs/2410.24183v1)
+- 2024-10-31, **$π_0$: A Vision-Language-Action Flow Model for General Robot Control**, Kevin Black et.al., Paper: [http://arxiv.org/abs/2410.24164v1](http://arxiv.org/abs/2410.24164v1)
+- 2024-10-31, **Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**, Nouar AlDahoul et.al., Paper: [http://arxiv.org/abs/2410.24148v1](http://arxiv.org/abs/2410.24148v1)
+- 2024-10-31, **HoloChrome: Polychromatic Illumination for Speckle Reduction in Holographic Near-Eye Displays**, Florian Schiffers et.al., Paper: [http://arxiv.org/abs/2410.24144v1](http://arxiv.org/abs/2410.24144v1)
 - 2024-10-30, **Bridging the Human to Robot Dexterity Gap through Object-Oriented Rewards**, Irmak Guzey et.al., Paper: [http://arxiv.org/abs/2410.23289v1](http://arxiv.org/abs/2410.23289v1)
 - 2024-10-30, **Computing the bridge length: the key ingredient in a continuous isometry classification of periodic point sets**, Jonathan McManus et.al., Paper: [http://arxiv.org/abs/2410.23288v1](http://arxiv.org/abs/2410.23288v1)
 - 2024-10-30, **ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**, Anurag Bagchi et.al., Paper: [http://arxiv.org/abs/2410.23287v1](http://arxiv.org/abs/2410.23287v1)
@@ -5963,6 +5973,16 @@
 
 ## MultiModal
 
+- 2024-10-31, **Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation**, Fu Feng et.al., Paper: [http://arxiv.org/abs/2410.24160v1](http://arxiv.org/abs/2410.24160v1)
+- 2024-10-31, **Fusion of Information in Multiple Particle Filtering in the Presence of Unknown Static Parameters**, Xiaokun Zhao et.al., Paper: [http://arxiv.org/abs/2410.24074v1](http://arxiv.org/abs/2410.24074v1)
+- 2024-10-31, **State- and context-dependent robotic manipulation and grasping via uncertainty-aware imitation learning**, Tim R. Winter et.al., Paper: [http://arxiv.org/abs/2410.24035v1](http://arxiv.org/abs/2410.24035v1)
+- 2024-10-31, **Piecewise Field-Aligned Finite Element Method for Multi-Mode Nonlinear Particle Simulations in tokamak plasmas**, Zhixin Lu et.al., Paper: [http://arxiv.org/abs/2410.23981v1](http://arxiv.org/abs/2410.23981v1)
+- 2024-10-31, **MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption**, Ruixun Liu et.al., Paper: [http://arxiv.org/abs/2410.23946v1](http://arxiv.org/abs/2410.23946v1)
+- 2024-10-31, **Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2410.23905v1](http://arxiv.org/abs/2410.23905v1), Code: **[https://github.com/leiii-cao/text-difuse](https://github.com/leiii-cao/text-difuse)**
+- 2024-10-31, **Bayesian state estimation unlocks real-time control in thin film synthesis**, Sumner B. Harris et.al., Paper: [http://arxiv.org/abs/2410.23895v1](http://arxiv.org/abs/2410.23895v1)
+- 2024-10-31, **Human Action Recognition (HAR) Using Skeleton-based Quantum Spatial Temporal Relative Transformer Network: ST-RTR**, Faisal Mehmood et.al., Paper: [http://arxiv.org/abs/2410.23806v1](http://arxiv.org/abs/2410.23806v1)
+- 2024-10-31, **MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation**, Yufeng Jiang et.al., Paper: [http://arxiv.org/abs/2410.23738v1](http://arxiv.org/abs/2410.23738v1)
+- 2024-10-31, **CubiXMusashi: Fusion of Wire-Driven CubiX and Musculoskeletal Humanoid Musashi toward Unlimited Performance**, Shintaro Inoue et.al., Paper: [http://arxiv.org/abs/2410.23682v1](http://arxiv.org/abs/2410.23682v1)
 - 2024-10-30, **Chernoff fusion of Bernoulli Gaussian max filters**, Zhijin Chen et.al., Paper: [http://arxiv.org/abs/2410.23172v1](http://arxiv.org/abs/2410.23172v1)
 - 2024-10-30, **First Place Solution to the ECCV 2024 ROAD++ Challenge @ ROAD++ Spatiotemporal Agent Detection 2024**, Tengfei Zhang et.al., Paper: [http://arxiv.org/abs/2410.23077v1](http://arxiv.org/abs/2410.23077v1)
 - 2024-10-30, **A Universal Sets-level Optimization Framework for Next Set Recommendation**, Yuli Liu et.al., Paper: [http://arxiv.org/abs/2410.23023v1](http://arxiv.org/abs/2410.23023v1)
