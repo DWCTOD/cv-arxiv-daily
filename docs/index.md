@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397v1](http://arxiv.org/abs/2411.02397v1)|null|
+|**2024-11-04**|**AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**|Hao-Yu Hsu et.al.|[2411.02394v1](http://arxiv.org/abs/2411.02394v1)|null|
+|**2024-11-04**|**How Far is Video Generation from World Model: A Physical Law Perspective**|Bingyi Kang et.al.|[2411.02385v1](http://arxiv.org/abs/2411.02385v1)|null|
+|**2024-11-04**|**Drone Data Analytics for Measuring Traffic Metrics at Intersections in High-Density Areas**|Qingwen Pu et.al.|[2411.02349v1](http://arxiv.org/abs/2411.02349v1)|null|
+|**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332v1](http://arxiv.org/abs/2411.02332v1)|null|
+|**2024-11-04**|**PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**|Ruyang Liu et.al.|[2411.02327v1](http://arxiv.org/abs/2411.02327v1)|**[link](https://github.com/farewellthree/ppllava)**|
+|**2024-11-04**|**GenXD: Generating Any 3D and 4D Scenes**|Yuyang Zhao et.al.|[2411.02319v1](http://arxiv.org/abs/2411.02319v1)|null|
+|**2024-11-04**|**Information plane and compression-gnostic feedback in quantum machine learning**|Nathan Haboury et.al.|[2411.02313v1](http://arxiv.org/abs/2411.02313v1)|null|
+|**2024-11-04**|**Grouped Discrete Representation for Object-Centric Learning**|Rongzhen Zhao et.al.|[2411.02299v1](http://arxiv.org/abs/2411.02299v1)|null|
+|**2024-11-04**|**Conformal-in-the-Loop for Learning with Imbalanced Noisy Data**|John Brandon Graham-Knight et.al.|[2411.02281v1](http://arxiv.org/abs/2411.02281v1)|null|
 |**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221v1](http://arxiv.org/abs/2410.24221v1)|**[link](https://github.com/SimarKareer/EgoMimic)**|
 |**2024-10-31**|**Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning**|Penghui Ruan et.al.|[2410.24219v1](http://arxiv.org/abs/2410.24219v1)|**[link](https://github.com/pr-ryan/demo)**|
 |**2024-10-31**|**Learning Video Representations without Natural Videos**|Xueyang Yu et.al.|[2410.24213v1](http://arxiv.org/abs/2410.24213v1)|null|
@@ -5981,6 +5991,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Fusion of Tree-induced Regressions for Clinico-genomic Data**|Jeroen M. Goedhart et.al.|[2411.02396v1](http://arxiv.org/abs/2411.02396v1)|null|
+|**2024-11-04**|**SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning**|Amitai Yacobi et.al.|[2411.02138v1](http://arxiv.org/abs/2411.02138v1)|null|
+|**2024-11-04**|**Multi-modal biometric authentication: Leveraging shared layer architectures for enhanced security**|Vatchala S et.al.|[2411.02112v1](http://arxiv.org/abs/2411.02112v1)|null|
+|**2024-11-04**|**Real-time and Downtime-tolerant Fault Diagnosis for Railway Turnout Machines (RTMs) Empowered with Cloud-Edge Pipeline Parallelism**|Fan Wu et.al.|[2411.02086v1](http://arxiv.org/abs/2411.02086v1)|null|
+|**2024-11-04**|**Building robust surrogate models of laser-plasma interactions using large scale PIC simulation**|Nathan Smith et.al.|[2411.02079v1](http://arxiv.org/abs/2411.02079v1)|null|
+|**2024-11-04**|**Low Mass Contact Binaries: Orbital Stability at Extreme Low Mass Ratios**|Surjit S. Wadhwa et.al.|[2411.02020v1](http://arxiv.org/abs/2411.02020v1)|null|
+|**2024-11-04**|**Randomized coupled decompositions**|Erna Begovic et.al.|[2411.01986v1](http://arxiv.org/abs/2411.01986v1)|null|
+|**2024-11-04**|**Advancing DeFi Analytics: Efficiency Analysis with Decentralized Exchanges Comparison Service**|Evgenii Onishchuk et.al.|[2411.01950v1](http://arxiv.org/abs/2411.01950v1)|null|
+|**2024-11-04**|**FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework**|Yuchen He et.al.|[2411.01904v1](http://arxiv.org/abs/2411.01904v1)|**[link](https://github.com/ycheoo/fppl)**|
+|**2024-11-04**|**A Global Depth-Range-Free Multi-View Stereo Transformer Network with Pose Embedding**|Yitong Dong et.al.|[2411.01893v1](http://arxiv.org/abs/2411.01893v1)|null|
 |**2024-10-31**|**Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation**|Fu Feng et.al.|[2410.24160v1](http://arxiv.org/abs/2410.24160v1)|null|
 |**2024-10-31**|**Fusion of Information in Multiple Particle Filtering in the Presence of Unknown Static Parameters**|Xiaokun Zhao et.al.|[2410.24074v1](http://arxiv.org/abs/2410.24074v1)|null|
 |**2024-10-31**|**State- and context-dependent robotic manipulation and grasping via uncertainty-aware imitation learning**|Tim R. Winter et.al.|[2410.24035v1](http://arxiv.org/abs/2410.24035v1)|null|
