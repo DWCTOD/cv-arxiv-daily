@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-11-05, **Classification Done Right for Vision-Language Pre-Training**, Huang Zilong et.al., Paper: [http://arxiv.org/abs/2411.03313v1](http://arxiv.org/abs/2411.03313v1), Code: **[https://github.com/x-cls/superclass](https://github.com/x-cls/superclass)**
+- 2024-11-05, **Automatic solid form classification in pharmaceutical drug development**, Julius Lange et.al., Paper: [http://arxiv.org/abs/2411.03308v1](http://arxiv.org/abs/2411.03308v1)
+- 2024-11-05, **Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation**, Ananya Trivedi et.al., Paper: [http://arxiv.org/abs/2411.03289v1](http://arxiv.org/abs/2411.03289v1), Code: **[https://github.com/RIVeR-Lab/Stochastic-MPPI](https://github.com/RIVeR-Lab/Stochastic-MPPI)**
+- 2024-11-05, **Graph-Based Semi-Supervised Segregated Lipschitz Learning**, Farid Bozorgnia et.al., Paper: [http://arxiv.org/abs/2411.03273v1](http://arxiv.org/abs/2411.03273v1)
+- 2024-11-05, **Tuning into spatial frequency space: Satellite and space debris detection in the ZTF alert stream**, J. P. Carvajal et.al., Paper: [http://arxiv.org/abs/2411.03258v1](http://arxiv.org/abs/2411.03258v1)
+- 2024-11-05, **Kernel Orthogonality does not necessarily imply a Decrease in Feature Map Redundancy in CNNs: Convolutional Similarity Minimization**, Zakariae Belmekki et.al., Paper: [http://arxiv.org/abs/2411.03226v1](http://arxiv.org/abs/2411.03226v1)
+- 2024-11-05, **Beyond Grid Data: Exploring Graph Neural Networks for Earth Observation**, Shan Zhao et.al., Paper: [http://arxiv.org/abs/2411.03223v1](http://arxiv.org/abs/2411.03223v1)
+- 2024-11-05, **Statistical Analysis to Support CSI-Based Sensing Methods**, Elena Tonini et.al., Paper: [http://arxiv.org/abs/2411.03203v1](http://arxiv.org/abs/2411.03203v1)
+- 2024-11-05, **Navigating Extremes: Dynamic Sparsity in Large Output Space**, Nasib Ullah et.al., Paper: [http://arxiv.org/abs/2411.03171v1](http://arxiv.org/abs/2411.03171v1)
+- 2024-11-05, **Pre-trained Visual Dynamics Representations for Efficient Policy Learning**, Hao Luo et.al., Paper: [http://arxiv.org/abs/2411.03169v1](http://arxiv.org/abs/2411.03169v1)
 - 2024-11-04, **Adaptive Caching for Faster Video Generation with Diffusion Transformers**, Kumara Kahatapitiya et.al., Paper: [http://arxiv.org/abs/2411.02397v1](http://arxiv.org/abs/2411.02397v1)
 - 2024-11-04, **AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**, Hao-Yu Hsu et.al., Paper: [http://arxiv.org/abs/2411.02394v1](http://arxiv.org/abs/2411.02394v1)
 - 2024-11-04, **How Far is Video Generation from World Model: A Physical Law Perspective**, Bingyi Kang et.al., Paper: [http://arxiv.org/abs/2411.02385v1](http://arxiv.org/abs/2411.02385v1)
@@ -5983,6 +5993,16 @@
 
 ## MultiModal
 
+- 2024-11-05, **Online Data Collection for Efficient Semiparametric Inference**, Shantanu Gupta et.al., Paper: [http://arxiv.org/abs/2411.03195v1](http://arxiv.org/abs/2411.03195v1), Code: **[https://github.com/shantanu95/online-moment-selection](https://github.com/shantanu95/online-moment-selection)**
+- 2024-11-05, **CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**, Jisong Kim et.al., Paper: [http://arxiv.org/abs/2411.03013v1](http://arxiv.org/abs/2411.03013v1)
+- 2024-11-05, **A Post-Training Enhanced Optimization Approach for Small Language Models**, Keke Zhai et.al., Paper: [http://arxiv.org/abs/2411.02939v1](http://arxiv.org/abs/2411.02939v1)
+- 2024-11-05, **AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI**, Haoan Xu et.al., Paper: [http://arxiv.org/abs/2411.02867v1](http://arxiv.org/abs/2411.02867v1)
+- 2024-11-05, **Test-Time Dynamic Image Fusion**, Bing Cao et.al., Paper: [http://arxiv.org/abs/2411.02840v1](http://arxiv.org/abs/2411.02840v1), Code: **[https://github.com/yinan-xia/ttd](https://github.com/yinan-xia/ttd)**
+- 2024-11-05, **Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy**, Jiahui Liu et.al., Paper: [http://arxiv.org/abs/2411.02834v1](http://arxiv.org/abs/2411.02834v1)
+- 2024-11-05, **Sparse Orthogonal Parameters Tuning for Continual Learning**, Kun-Peng Ning et.al., Paper: [http://arxiv.org/abs/2411.02813v1](http://arxiv.org/abs/2411.02813v1)
+- 2024-11-05, **Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning**, Mingcheng Li et.al., Paper: [http://arxiv.org/abs/2411.02793v1](http://arxiv.org/abs/2411.02793v1)
+- 2024-11-05, **One-Stage-TFS: Thai One-Stage Fingerspelling Dataset for Fingerspelling Recognition Frameworks**, Siriwiwat Lata et.al., Paper: [http://arxiv.org/abs/2411.02768v1](http://arxiv.org/abs/2411.02768v1)
+- 2024-11-05, **Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection**, Yifan Wang et.al., Paper: [http://arxiv.org/abs/2411.02747v1](http://arxiv.org/abs/2411.02747v1)
 - 2024-11-04, **Fusion of Tree-induced Regressions for Clinico-genomic Data**, Jeroen M. Goedhart et.al., Paper: [http://arxiv.org/abs/2411.02396v1](http://arxiv.org/abs/2411.02396v1)
 - 2024-11-04, **SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning**, Amitai Yacobi et.al., Paper: [http://arxiv.org/abs/2411.02138v1](http://arxiv.org/abs/2411.02138v1)
 - 2024-11-04, **Multi-modal biometric authentication: Leveraging shared layer architectures for enhanced security**, Vatchala S et.al., Paper: [http://arxiv.org/abs/2411.02112v1](http://arxiv.org/abs/2411.02112v1)
