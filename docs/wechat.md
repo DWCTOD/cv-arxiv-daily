@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-11-06, **RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**, Maya Varma et.al., Paper: [http://arxiv.org/abs/2411.04097v1](http://arxiv.org/abs/2411.04097v1), Code: **[https://github.com/stanford-aimi/ravl](https://github.com/stanford-aimi/ravl)**
+- 2024-11-06, **Local unitary equivalence of absolutely maximally entangled states constructed from orthogonal arrays**, N Ramadas et.al., Paper: [http://arxiv.org/abs/2411.04096v1](http://arxiv.org/abs/2411.04096v1)
+- 2024-11-06, **A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**, Guillermo Villate-Castillo et.al., Paper: [http://arxiv.org/abs/2411.04090v1](http://arxiv.org/abs/2411.04090v1), Code: **[https://github.com/themrguiller/collaborative-content-moderation](https://github.com/themrguiller/collaborative-content-moderation)**
+- 2024-11-06, **Pseudo-labeling with Keyword Refining for Few-Supervised Video Captioning**, Ping Li et.al., Paper: [http://arxiv.org/abs/2411.04059v1](http://arxiv.org/abs/2411.04059v1), Code: **[https://github.com/mlvccn/pkg_vidcap](https://github.com/mlvccn/pkg_vidcap)**
+- 2024-11-06, **Distinguishing Coupled Dark Energy Models with Neural Networks**, L. W. K. Goh et.al., Paper: [http://arxiv.org/abs/2411.04058v1](http://arxiv.org/abs/2411.04058v1), Code: **[https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE](https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE)**
+- 2024-11-06, **Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**, Yuan Bi et.al., Paper: [http://arxiv.org/abs/2411.04004v1](http://arxiv.org/abs/2411.04004v1)
+- 2024-11-06, **Learning Aggregate Queries Defined by First-Order Logic with Counting**, Steffen van Bergerem et.al., Paper: [http://arxiv.org/abs/2411.04003v1](http://arxiv.org/abs/2411.04003v1)
+- 2024-11-06, **ParaGAN: A Scalable Distributed Training Framework for Generative Adversarial Networks**, Ziji Shi et.al., Paper: [http://arxiv.org/abs/2411.03999v1](http://arxiv.org/abs/2411.03999v1)
+- 2024-11-06, **Fine-tuning -- a Transfer Learning approach**, Joseph Arul Raj et.al., Paper: [http://arxiv.org/abs/2411.03941v1](http://arxiv.org/abs/2411.03941v1)
+- 2024-11-06, **Inter-Frame Coding for Dynamic Meshes via Coarse-to-Fine Anchor Mesh Generation**, He Huang et.al., Paper: [http://arxiv.org/abs/2411.03921v1](http://arxiv.org/abs/2411.03921v1)
 - 2024-11-05, **Classification Done Right for Vision-Language Pre-Training**, Huang Zilong et.al., Paper: [http://arxiv.org/abs/2411.03313v1](http://arxiv.org/abs/2411.03313v1), Code: **[https://github.com/x-cls/superclass](https://github.com/x-cls/superclass)**
 - 2024-11-05, **Automatic solid form classification in pharmaceutical drug development**, Julius Lange et.al., Paper: [http://arxiv.org/abs/2411.03308v1](http://arxiv.org/abs/2411.03308v1)
 - 2024-11-05, **Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation**, Ananya Trivedi et.al., Paper: [http://arxiv.org/abs/2411.03289v1](http://arxiv.org/abs/2411.03289v1), Code: **[https://github.com/RIVeR-Lab/Stochastic-MPPI](https://github.com/RIVeR-Lab/Stochastic-MPPI)**
@@ -5993,6 +6003,16 @@
 
 ## MultiModal
 
+- 2024-11-06, **Pseudo-labeling with Keyword Refining for Few-Supervised Video Captioning**, Ping Li et.al., Paper: [http://arxiv.org/abs/2411.04059v1](http://arxiv.org/abs/2411.04059v1), Code: **[https://github.com/mlvccn/pkg_vidcap](https://github.com/mlvccn/pkg_vidcap)**
+- 2024-11-06, **Multi-Scale and Multimodal Species Distribution Modeling**, Nina van Tiel et.al., Paper: [http://arxiv.org/abs/2411.04016v1](http://arxiv.org/abs/2411.04016v1)
+- 2024-11-06, **HRDecoder: High-Resolution Decoder Network for Fundus Image Lesion Segmentation**, Ziyuan Ding et.al., Paper: [http://arxiv.org/abs/2411.03976v1](http://arxiv.org/abs/2411.03976v1), Code: **[https://github.com/cviu-csu/hrdecoder](https://github.com/cviu-csu/hrdecoder)**
+- 2024-11-06, **Data Fusion of Synthetic Query Variants With Generative Large Language Models**, Timo Breuer et.al., Paper: [http://arxiv.org/abs/2411.03881v1](http://arxiv.org/abs/2411.03881v1)
+- 2024-11-06, **Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications**, Daan Schouten et.al., Paper: [http://arxiv.org/abs/2411.03782v1](http://arxiv.org/abs/2411.03782v1)
+- 2024-11-06, **Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection**, Pengfei Lyu et.al., Paper: [http://arxiv.org/abs/2411.03728v1](http://arxiv.org/abs/2411.03728v1), Code: **[https://github.com/joshualpf/alignsal](https://github.com/joshualpf/alignsal)**
+- 2024-11-06, **PX2Tooth: Reconstructing the 3D Point Cloud Teeth from a Single Panoramic X-ray**, Wen Ma et.al., Paper: [http://arxiv.org/abs/2411.03725v1](http://arxiv.org/abs/2411.03725v1)
+- 2024-11-06, **Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**, Depanshu Sani et.al., Paper: [http://arxiv.org/abs/2411.03702v1](http://arxiv.org/abs/2411.03702v1)
+- 2024-11-06, **OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**, Ji Zhang et.al., Paper: [http://arxiv.org/abs/2411.03696v1](http://arxiv.org/abs/2411.03696v1)
+- 2024-11-06, **Mobile Recording Device Recognition Based Cross-Scale and Multi-Level Representation Learning**, Chunyan Zeng et.al., Paper: [http://arxiv.org/abs/2411.03668v1](http://arxiv.org/abs/2411.03668v1)
 - 2024-11-05, **Online Data Collection for Efficient Semiparametric Inference**, Shantanu Gupta et.al., Paper: [http://arxiv.org/abs/2411.03195v1](http://arxiv.org/abs/2411.03195v1), Code: **[https://github.com/shantanu95/online-moment-selection](https://github.com/shantanu95/online-moment-selection)**
 - 2024-11-05, **CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**, Jisong Kim et.al., Paper: [http://arxiv.org/abs/2411.03013v1](http://arxiv.org/abs/2411.03013v1)
 - 2024-11-05, **A Post-Training Enhanced Optimization Approach for Small Language Models**, Keke Zhai et.al., Paper: [http://arxiv.org/abs/2411.02939v1](http://arxiv.org/abs/2411.02939v1)
