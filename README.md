@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Gender Inequalities in Content Collaborations: Asymmetric Creator Synergy and Symmetric Audience Biases**|Mingyue Zha et.al.|[2411.05782v1](http://arxiv.org/abs/2411.05782v1)|null|
+|**2024-11-08**|**Sketched Equivariant Imaging Regularization and Deep Internal Learning for Inverse Problems**|Guixian Xu et.al.|[2411.05771v1](http://arxiv.org/abs/2411.05771v1)|null|
+|**2024-11-08**|**FisherMask: Enhancing Neural Network Labeling Efficiency in Image Classification Using Fisher Information**|Shreen Gul et.al.|[2411.05752v1](http://arxiv.org/abs/2411.05752v1)|**[link](https://github.com/sgchr273/fishermask)**|
+|**2024-11-08**|**Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals**|Nicolas Dalbec-Constant et.al.|[2411.05737v1](http://arxiv.org/abs/2411.05737v1)|null|
+|**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734v1](http://arxiv.org/abs/2411.05734v1)|null|
+|**2024-11-08**|**Differential Privacy Under Class Imbalance: Methods and Empirical Insights**|Lucas Rosenblatt et.al.|[2411.05733v1](http://arxiv.org/abs/2411.05733v1)|null|
+|**2024-11-08**|**On-chip rewritable phase-change metasurface for programmable diffractive deep neural networks**|Sanaz Zarei et.al.|[2411.05723v1](http://arxiv.org/abs/2411.05723v1)|null|
+|**2024-11-08**|**Classification of ($ρ,τ,σ$)-derivations of two-dimensional left-symmetric dialgebras**|Basdouri Imed et.al.|[2411.05716v1](http://arxiv.org/abs/2411.05716v1)|null|
+|**2024-11-08**|**STARS: Sensor-agnostic Transformer Architecture for Remote Sensing**|Ethan King et.al.|[2411.05714v1](http://arxiv.org/abs/2411.05714v1)|null|
+|**2024-11-08**|**Scaling Laws for Task-Optimized Models of the Primate Visual Ventral Stream**|Abdulkadir Gokce et.al.|[2411.05712v1](http://arxiv.org/abs/2411.05712v1)|**[link](https://github.com/epflneuroailab/scaling-primate-vvs)**|
 |**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003v1](http://arxiv.org/abs/2411.05003v1)|null|
 |**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999v1](http://arxiv.org/abs/2411.04999v1)|null|
 |**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998v1](http://arxiv.org/abs/2411.04998v1)|null|
@@ -6017,8 +6027,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Efficient Audio-Visual Fusion for Video Classification**|Mahrukh Awan et.al.|[2411.05603v1](http://arxiv.org/abs/2411.05603v1)|null|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
+|**2024-11-08**|**CRepair: CVAE-based Automatic Vulnerability Repair Technology**|Penghui Liu et.al.|[2411.05540v1](http://arxiv.org/abs/2411.05540v1)|null|
+|**2024-11-08**|**Combination of aN$^3$LO PDFs and implications for Higgs production cross-sections at the LHC**|Thomas Cridge et.al.|[2411.05373v1](http://arxiv.org/abs/2411.05373v1)|null|
+|**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[2411.05292v1](http://arxiv.org/abs/2411.05292v1)|null|
 |**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963v1](http://arxiv.org/abs/2411.04963v1)|null|
-|**2024-11-07**|**SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering**|ianyu Yang et.al.|[2411.04933v1](http://arxiv.org/abs/2411.04933v1)|null|
+|**2024-11-08**|**SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering**|Tianyu Yang et.al.|[2411.04933v2](http://arxiv.org/abs/2411.04933v2)|null|
 |**2024-11-07**|**D$^3$epth: Self-Supervised Depth Estimation with Dynamic Mask in Dynamic Scenes**|Siyu Chen et.al.|[2411.04826v1](http://arxiv.org/abs/2411.04826v1)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706v1](http://arxiv.org/abs/2411.04706v1)|null|
 |**2024-11-07**|**Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion**|Yiming Sun et.al.|[2411.04697v1](http://arxiv.org/abs/2411.04697v1)|**[link](https://github.com/sunym2020/ba-fusion)**|
