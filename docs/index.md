@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223v1](http://arxiv.org/abs/2411.07223v1)|null|
+|**2024-11-11**|**NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics**|David Robinson et.al.|[2411.07186v1](http://arxiv.org/abs/2411.07186v1)|null|
+|**2024-11-11**|**Enhancing Predictive Maintenance in Mining Mobile Machinery through a TinyML-enabled Hierarchical Inference Network**|Raúl de la Fuente et.al.|[2411.07168v1](http://arxiv.org/abs/2411.07168v1)|null|
+|**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130v1](http://arxiv.org/abs/2411.07130v1)|null|
+|**2024-11-11**|**StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**|Yichen He et.al.|[2411.07076v1](http://arxiv.org/abs/2411.07076v1)|**[link](https://github.com/hyc2026/StoryTeller)**|
+|**2024-11-11**|**Unified Bayesian representation for high-dimensional multi-modal biomedical data for small-sample classification**|Albert Belenguer-Llorens et.al.|[2411.07043v1](http://arxiv.org/abs/2411.07043v1)|null|
+|**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023v1](http://arxiv.org/abs/2411.07023v1)|null|
+|**2024-11-11**|**HeteroSample: Meta-path Guided Sampling for Heterogeneous Graph Representation Learning**|Ao Liu et.al.|[2411.07022v1](http://arxiv.org/abs/2411.07022v1)|null|
+|**2024-11-11**|**Token2Wave**|Xin Zhang et.al.|[2411.06989v1](http://arxiv.org/abs/2411.06989v1)|null|
+|**2024-11-11**|**A Hyperspectral Imaging Dataset and Methodology for Intraoperative Pixel-Wise Classification of Metastatic Colon Cancer in the Liver**|Ivica Kopriva et.al.|[2411.06969v1](http://arxiv.org/abs/2411.06969v1)|null|
 |**2024-11-08**|**Gender Inequalities in Content Collaborations: Asymmetric Creator Synergy and Symmetric Audience Biases**|Mingyue Zha et.al.|[2411.05782v1](http://arxiv.org/abs/2411.05782v1)|null|
 |**2024-11-08**|**Sketched Equivariant Imaging Regularization and Deep Internal Learning for Inverse Problems**|Guixian Xu et.al.|[2411.05771v1](http://arxiv.org/abs/2411.05771v1)|null|
 |**2024-11-08**|**FisherMask: Enhancing Neural Network Labeling Efficiency in Image Classification Using Fisher Information**|Shreen Gul et.al.|[2411.05752v1](http://arxiv.org/abs/2411.05752v1)|**[link](https://github.com/sgchr273/fishermask)**|
@@ -6031,6 +6041,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Probing nuclear structure and the equation of state through pre-equilibrium dipole emission in charge-asymmetric reactions**|Leonid Shvedov et.al.|[2411.07159v1](http://arxiv.org/abs/2411.07159v1)|null|
+|**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[2411.06991v1](http://arxiv.org/abs/2411.06991v1)|null|
+|**2024-11-11**|**Multi-modal Iterative and Deep Fusion Frameworks for Enhanced Passive DOA Sensing via a Green Massive H2AD MIMO Receiver**|Jiatong Bai et.al.|[2411.06927v1](http://arxiv.org/abs/2411.06927v1)|null|
+|**2024-11-11**|**DeepCRF: Deep Learning-Enhanced CSI-Based RF Fingerprinting for Channel-Resilient WiFi Device Identification**|Ruiqi Kong et.al.|[2411.06925v1](http://arxiv.org/abs/2411.06925v1)|null|
+|**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917v1](http://arxiv.org/abs/2411.06917v1)|null|
+|**2024-11-11**|**Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering**|Boci Peng et.al.|[2411.06866v1](http://arxiv.org/abs/2411.06866v1)|null|
+|**2024-11-11**|**AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness**|Yizhuo Yang et.al.|[2411.06789v1](http://arxiv.org/abs/2411.06789v1)|null|
+|**2024-11-11**|**Model Fusion through Bayesian Optimization in Language Model Fine-Tuning**|Chaeyun Jang et.al.|[2411.06710v1](http://arxiv.org/abs/2411.06710v1)|**[link](https://github.com/chaeyoon-jang/bomf)**|
+|**2024-11-11**|**DCF-DS: Deep Cascade Fusion of Diarization and Separation for Speech Recognition under Realistic Single-Channel Conditions**|Shu-Tong Niu et.al.|[2411.06667v1](http://arxiv.org/abs/2411.06667v1)|null|
+|**2024-11-11**|**Integrated modelling of equilibrium and transport in axisymmetric magnetic mirror fusion devices**|S. J. Frank et.al.|[2411.06644v1](http://arxiv.org/abs/2411.06644v1)|null|
 |**2024-11-08**|**Efficient Audio-Visual Fusion for Video Classification**|Mahrukh Awan et.al.|[2411.05603v1](http://arxiv.org/abs/2411.05603v1)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
 |**2024-11-08**|**CRepair: CVAE-based Automatic Vulnerability Repair Technology**|Penghui Liu et.al.|[2411.05540v1](http://arxiv.org/abs/2411.05540v1)|null|
