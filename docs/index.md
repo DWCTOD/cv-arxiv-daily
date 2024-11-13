@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223v1](http://arxiv.org/abs/2411.07223v1)|null|
 |**2024-11-11**|**NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics**|David Robinson et.al.|[2411.07186v1](http://arxiv.org/abs/2411.07186v1)|null|
 |**2024-11-11**|**Enhancing Predictive Maintenance in Mining Mobile Machinery through a TinyML-enabled Hierarchical Inference Network**|Raúl de la Fuente et.al.|[2411.07168v1](http://arxiv.org/abs/2411.07168v1)|null|
-|**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130v1](http://arxiv.org/abs/2411.07130v1)|null|
+|**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130v1](http://arxiv.org/abs/2411.07130v1)|**[link](https://github.com/launchnlp/ManyICLBench)**|
 |**2024-11-11**|**StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**|Yichen He et.al.|[2411.07076v1](http://arxiv.org/abs/2411.07076v1)|**[link](https://github.com/hyc2026/StoryTeller)**|
 |**2024-11-11**|**Unified Bayesian representation for high-dimensional multi-modal biomedical data for small-sample classification**|Albert Belenguer-Llorens et.al.|[2411.07043v1](http://arxiv.org/abs/2411.07043v1)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023v1](http://arxiv.org/abs/2411.07023v1)|null|
