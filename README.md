@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683v1](http://arxiv.org/abs/2411.09683v1)|null|
+|**2024-11-14**|**Commensurability Among Deligne-Mostow Monodromy Groups**|Chenglong Yu et.al.|[2411.09682v1](http://arxiv.org/abs/2411.09682v1)|null|
+|**2024-11-14**|**Modular Fault Diagnosis Framework for Complex Autonomous Driving Systems**|Stefan Orf et.al.|[2411.09643v1](http://arxiv.org/abs/2411.09643v1)|null|
+|**2024-11-14**|**The Moral Foundations Weibo Corpus**|Renjie Cao et.al.|[2411.09612v1](http://arxiv.org/abs/2411.09612v1)|null|
+|**2024-11-14**|**Effect of viewing angle in Gamma-ray Burst properties**|Sreelakshmi P Chakyar et.al.|[2411.09609v1](http://arxiv.org/abs/2411.09609v1)|null|
+|**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604v1](http://arxiv.org/abs/2411.09604v1)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
+|**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598v1](http://arxiv.org/abs/2411.09598v1)|null|
+|**2024-11-14**|**SMILE-UHURA Challenge -- Small Vessel Segmentation at Mesoscopic Scale from Ultra-High Resolution 7T Magnetic Resonance Angiograms**|Soumick Chatterjee et.al.|[2411.09593v1](http://arxiv.org/abs/2411.09593v1)|null|
+|**2024-11-14**|**SimTube: Generating Simulated Video Comments through Multimodal AI and User Personas**|Yu-Kai Hung et.al.|[2411.09577v1](http://arxiv.org/abs/2411.09577v1)|null|
+|**2024-11-14**|**Mutual Influence of Photon Sphere and Non-Commutative Parameter in Various Non-Commutative Black Holes: Part I- Towards evidence for WGC**|Mohammad Ali S. Afshar et.al.|[2411.09557v1](http://arxiv.org/abs/2411.09557v1)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878v1](http://arxiv.org/abs/2411.08878v1)|**[link](https://github.com/google-research/google-research)**|
 |**2024-11-13**|**Quantum cryptography beyond key distribution: theory and experiment**|Mathieu Bozzio et.al.|[2411.08877v1](http://arxiv.org/abs/2411.08877v1)|null|
@@ -6057,6 +6067,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi et.al.|[2411.09674v1](http://arxiv.org/abs/2411.09674v1)|null|
+|**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387v1](http://arxiv.org/abs/2411.09387v1)|null|
+|**2024-11-14**|**Vibrational excitation and dissociation of deuterium molecule by electron impact**|V Laporta et.al.|[2411.09375v1](http://arxiv.org/abs/2411.09375v1)|null|
+|**2024-11-14**|**A Flexible Framework for Grant-Free Random Access in Cell-Free Massive MIMO Systems**|Sai Subramanyam Thoota et.al.|[2411.09328v1](http://arxiv.org/abs/2411.09328v1)|null|
+|**2024-11-14**|**Integrated Data Analysis and Validation**|R. Fischer et.al.|[2411.09270v1](http://arxiv.org/abs/2411.09270v1)|null|
+|**2024-11-14**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting**|Weilin Ruan et.al.|[2411.09251v1](http://arxiv.org/abs/2411.09251v1)|null|
+|**2024-11-14**|**Spectrally Accelerated Edge and Scrape-Off Layer Gyrokinetic Turbulence Simulations**|B. J. Frei et.al.|[2411.09232v1](http://arxiv.org/abs/2411.09232v1)|null|
+|**2024-11-14**|**Unstructured Text Enhanced Open-domain Dialogue System: A Systematic Survey**|Longxuan Ma et.al.|[2411.09166v1](http://arxiv.org/abs/2411.09166v1)|null|
+|**2024-11-13**|**CoMiX: Cross-Modal Fusion with Deformable Convolutions for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2411.09023v1](http://arxiv.org/abs/2411.09023v1)|null|
+|**2024-11-13**|**Fluoroformer: Scaling multiple instance learning to multiplexed images via attention-based channel fusion**|Marc Harary et.al.|[2411.08975v1](http://arxiv.org/abs/2411.08975v1)|null|
 |**2024-11-13**|**Physics-Informed Transformation Toward Improving the Machine-Learned NLTE Models of ICF Simulations**|Min Sang Cho et.al.|[2411.08789v1](http://arxiv.org/abs/2411.08789v1)|null|
 |**2024-11-13**|**FedSub: Introducing class-aware Subnetworks Fusion to Enhance Personalized Federated Learning in Ubiquitous Systems**|Mattia Giovanni Campana et.al.|[2411.08699v1](http://arxiv.org/abs/2411.08699v1)|null|
 |**2024-11-13**|**UniMat: Unifying Materials Embeddings through Multi-modal Learning**|Janghoon Ock et.al.|[2411.08664v1](http://arxiv.org/abs/2411.08664v1)|null|
