@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Soft Robotic Dynamic In-Hand Pen Spinning**|Yunchao Yao et.al.|[2411.12734v1](http://arxiv.org/abs/2411.12734v1)|null|
+|**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712v1](http://arxiv.org/abs/2411.12712v1)|null|
+|**2024-11-19**|**UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**|Chunru Lin et.al.|[2411.12711v1](http://arxiv.org/abs/2411.12711v1)|null|
+|**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697v1](http://arxiv.org/abs/2411.12697v1)|null|
+|**2024-11-19**|**IMUVIE: Pickup Timeline Action Localization via Motion Movies**|John Clapham et.al.|[2411.12689v1](http://arxiv.org/abs/2411.12689v1)|null|
+|**2024-11-19**|**AI Guided Early Screening of Cervical Cancer**|Dharanidharan S I et.al.|[2411.12681v1](http://arxiv.org/abs/2411.12681v1)|null|
+|**2024-11-19**|**Yang--Mills topology on four-dimensional triangulations**|Giuseppe Clemente et.al.|[2411.12668v1](http://arxiv.org/abs/2411.12668v1)|null|
+|**2024-11-19**|**Machine Learning Approaches on Crop Pattern Recognition a Comparative Analysis**|Kazi Hasibul Kabir et.al.|[2411.12667v1](http://arxiv.org/abs/2411.12667v1)|null|
+|**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663v1](http://arxiv.org/abs/2411.12663v1)|**[link](https://github.com/davidpicard/homm)**|
+|**2024-11-19**|**AdaCM$^2$: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593v1](http://arxiv.org/abs/2411.12593v1)|null|
 |**2024-11-18**|**Partially Hyperbolic Dynamics with Quasi-isometric Center**|Ziqiang Feng et.al.|[2411.11836v1](http://arxiv.org/abs/2411.11836v1)|null|
 |**2024-11-18**|**Describe Now: User-Driven Audio Description for Blind and Low Vision Individuals**|Maryam Cheema et.al.|[2411.11835v1](http://arxiv.org/abs/2411.11835v1)|null|
 |**2024-11-18**|**Absorbing state dynamics of stochastic gradient descent**|Guanming Zhang et.al.|[2411.11834v1](http://arxiv.org/abs/2411.11834v1)|null|
@@ -6087,6 +6097,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**|Luoxi Zhang et.al.|[2411.12635v1](http://arxiv.org/abs/2411.12635v1)|null|
+|**2024-11-19**|**S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation**|Yuke Wu et.al.|[2411.12547v1](http://arxiv.org/abs/2411.12547v1)|null|
+|**2024-11-19**|**VMGNet: A Low Computational Complexity Robotic Grasping Network Based on VMamba with Multi-Scale Feature Fusion**|Yuhao Jin et.al.|[2411.12520v1](http://arxiv.org/abs/2411.12520v1)|null|
+|**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514v1](http://arxiv.org/abs/2411.12514v1)|null|
+|**2024-11-19**|**ManiSkill-ViTac 2025: Challenge on Manipulation Skill Learning With Vision and Tactile Sensing**|Chuanyu Li et.al.|[2411.12503v1](http://arxiv.org/abs/2411.12503v1)|null|
+|**2024-11-19**|**Extended Buoyancy-Drag Model for Ablative Rayleigh-Taylor Instability Seeded by Various Perturbations**|Dongxue Liu et.al.|[2411.12392v1](http://arxiv.org/abs/2411.12392v1)|null|
+|**2024-11-19**|**SSEditor: Controllable Mask-to-Scene Generation with Diffusion Model**|Haowen Zheng et.al.|[2411.12290v1](http://arxiv.org/abs/2411.12290v1)|null|
+|**2024-11-19**|**Robust Deep Joint Source-Channel Coding Enabled Distributed Image Transmission with Imperfect Channel State Information**|Biao Dong et.al.|[2411.12228v1](http://arxiv.org/abs/2411.12228v1)|null|
+|**2024-11-19**|**RoSIS: Robust Framework for Text-Promptable Surgical Instrument Segmentation Using Vision-Language Fusion**|Tae-Min Choi et.al.|[2411.12199v1](http://arxiv.org/abs/2411.12199v1)|null|
+|**2024-11-19**|**AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression**|Zhixiang Wang et.al.|[2411.12175v1](http://arxiv.org/abs/2411.12175v1)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799v1](http://arxiv.org/abs/2411.11799v1)|**[link](https://github.com/simonzhou86/en_dran)**|
 |**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[2411.11762v1](http://arxiv.org/abs/2411.11762v1)|null|
 |**2024-11-18**|**Harris Dispersion Relation and Bernstein Modes in Dense Magnetized Quantum Plasmas**|T. X. Hu et.al.|[2411.11489v1](http://arxiv.org/abs/2411.11489v1)|null|
