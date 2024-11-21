@@ -1,4 +1,4 @@
-> Updated on 2024.11.20
+> Updated on 2024.11.21
 
 ## Video_Classification
 
@@ -6093,7 +6093,7 @@
 
 ## MultiModal
 
-- 2024-11-19, **M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**, Luoxi Zhang et.al., Paper: [http://arxiv.org/abs/2411.12635v1](http://arxiv.org/abs/2411.12635v1)
+- 2024-11-19, **M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**, Luoxi Zhang et.al., Paper: [http://arxiv.org/abs/2411.12635v1](http://arxiv.org/abs/2411.12635v1), Code: **[https://github.com/AnnnnnieZhang/M3D](https://github.com/AnnnnnieZhang/M3D)**
 - 2024-11-19, **S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation**, Yuke Wu et.al., Paper: [http://arxiv.org/abs/2411.12547v1](http://arxiv.org/abs/2411.12547v1)
 - 2024-11-19, **VMGNet: A Low Computational Complexity Robotic Grasping Network Based on VMamba with Multi-Scale Feature Fusion**, Yuhao Jin et.al., Paper: [http://arxiv.org/abs/2411.12520v1](http://arxiv.org/abs/2411.12520v1)
 - 2024-11-19, **3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**, Hanbeom Chang et.al., Paper: [http://arxiv.org/abs/2411.12514v1](http://arxiv.org/abs/2411.12514v1)
