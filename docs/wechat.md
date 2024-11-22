@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-11-21, **Revisiting the Integration of Convolution and Attention for Vision Backbone**, Lei Zhu et.al., Paper: [http://arxiv.org/abs/2411.14429v1](http://arxiv.org/abs/2411.14429v1), Code: **[https://github.com/rayleizhu/glmix](https://github.com/rayleizhu/glmix)**
+- 2024-11-21, **Quantum States Imaging of Magnetic Field Contours based on Autler-Townes Effect in Yb Atoms**, Tanaporn Na Narong et.al., Paper: [http://arxiv.org/abs/2411.14426v1](http://arxiv.org/abs/2411.14426v1)
+- 2024-11-21, **Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**, Zhuoman Liu et.al., Paper: [http://arxiv.org/abs/2411.14423v1](http://arxiv.org/abs/2411.14423v1)
+- 2024-11-21, **Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**, Lan Jiang et.al., Paper: [http://arxiv.org/abs/2411.14418v1](http://arxiv.org/abs/2411.14418v1)
+- 2024-11-21, **Multimodal Autoregressive Pre-training of Large Vision Encoders**, Enrico Fini et.al., Paper: [http://arxiv.org/abs/2411.14402v1](http://arxiv.org/abs/2411.14402v1), Code: **[https://github.com/apple/ml-aim](https://github.com/apple/ml-aim)**
+- 2024-11-21, **Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**, Yiming Zhang et.al., Paper: [http://arxiv.org/abs/2411.14401v1](http://arxiv.org/abs/2411.14401v1)
+- 2024-11-21, **POS-tagging to highlight the skeletal structure of sentences**, Grigorii Churakov et.al., Paper: [http://arxiv.org/abs/2411.14393v1](http://arxiv.org/abs/2411.14393v1), Code: **[https://github.com/disk0Dancer/rubert-finetuned-pos](https://github.com/disk0Dancer/rubert-finetuned-pos)**
+- 2024-11-21, **Persistent Homology for Structural Characterization in Disordered Systems**, An Wang et.al., Paper: [http://arxiv.org/abs/2411.14390v1](http://arxiv.org/abs/2411.14390v1), Code: **[https://github.com/anwanguow/PH_structural](https://github.com/anwanguow/PH_structural)**
+- 2024-11-21, **Enhancing Diagnostic Precision in Gastric Bleeding through Automated Lesion Segmentation: A Deep DuS-KFCM Approach**, Xian-Xian Liu et.al., Paper: [http://arxiv.org/abs/2411.14385v1](http://arxiv.org/abs/2411.14385v1)
+- 2024-11-21, **Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2411.14384v1](http://arxiv.org/abs/2411.14384v1)
 - 2024-11-20, **REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using Extremely Compressed Motion Latents**, Rui Tian et.al., Paper: [http://arxiv.org/abs/2411.13552v1](http://arxiv.org/abs/2411.13552v1), Code: **[https://github.com/microsoft/reducio-vae](https://github.com/microsoft/reducio-vae)**
 - 2024-11-20, **Generating 3D-Consistent Videos from Unposed Internet Photos**, Gene Chou et.al., Paper: [http://arxiv.org/abs/2411.13549v1](http://arxiv.org/abs/2411.13549v1)
 - 2024-11-20, **Comparative Analysis of Machine Learning and Deep Learning Models for Classifying Squamous Epithelial Cells of the Cervix**, Subhasish Das et.al., Paper: [http://arxiv.org/abs/2411.13535v1](http://arxiv.org/abs/2411.13535v1)
@@ -6103,6 +6113,16 @@
 
 ## MultiModal
 
+- 2024-11-21, **Revisiting the Integration of Convolution and Attention for Vision Backbone**, Lei Zhu et.al., Paper: [http://arxiv.org/abs/2411.14429v1](http://arxiv.org/abs/2411.14429v1), Code: **[https://github.com/rayleizhu/glmix](https://github.com/rayleizhu/glmix)**
+- 2024-11-21, **Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**, Parisa Naghdi et.al., Paper: [http://arxiv.org/abs/2411.14407v1](http://arxiv.org/abs/2411.14407v1)
+- 2024-11-21, **Why do language models perform worse for morphologically complex languages?**, Catherine Arnett et.al., Paper: [http://arxiv.org/abs/2411.14198v1](http://arxiv.org/abs/2411.14198v1), Code: **[https://github.com/catherinearnett/morphscore](https://github.com/catherinearnett/morphscore)**
+- 2024-11-21, **Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**, Ming Zhao et.al., Paper: [http://arxiv.org/abs/2411.13847v1](http://arxiv.org/abs/2411.13847v1)
+- 2024-11-21, **Probing Compressed Mass Spectrum Supersymmetry at the LHC with the Vector Boson Fusion Topology**, Umar Sohail Qureshi et.al., Paper: [http://arxiv.org/abs/2411.13837v1](http://arxiv.org/abs/2411.13837v1)
+- 2024-11-21, **CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**, Lin Sun et.al., Paper: [http://arxiv.org/abs/2411.13836v1](http://arxiv.org/abs/2411.13836v1), Code: **[https://github.com/linsun449/cliper.code](https://github.com/linsun449/cliper.code)**
+- 2024-11-21, **X-CrossNet: A complex spectral mapping approach to target speaker extraction with cross attention speaker embedding fusion**, Chang Sun et.al., Paper: [http://arxiv.org/abs/2411.13811v1](http://arxiv.org/abs/2411.13811v1)
+- 2024-11-20, **Probing the Inert Doublet Model via Vector-Boson Fusion at a Muon Collider**, Johannes Braathen et.al., Paper: [http://arxiv.org/abs/2411.13729v1](http://arxiv.org/abs/2411.13729v1)
+- 2024-11-20, **High-Fidelity Optical Monitoring of Laser Powder Bed Fusion via Aperture Division Multiplexing**, Ryan W. Penny et.al., Paper: [http://arxiv.org/abs/2411.13703v1](http://arxiv.org/abs/2411.13703v1)
+- 2024-11-20, **A Collaborative Ensemble Framework for CTR Prediction**, Xiaolong Liu et.al., Paper: [http://arxiv.org/abs/2411.13700v1](http://arxiv.org/abs/2411.13700v1)
 - 2024-11-20, **A Distributed-memory Tridiagonal Solver Based on a Specialised Data Structure Optimised for CPU and GPU Architectures**, Semih Akkurt et.al., Paper: [http://arxiv.org/abs/2411.13532v1](http://arxiv.org/abs/2411.13532v1)
 - 2024-11-20, **Oscillations of subcritical fast magnetosonic shock boundaries caused by shock reformation**, M E Dieckmann et.al., Paper: [http://arxiv.org/abs/2411.13434v1](http://arxiv.org/abs/2411.13434v1)
 - 2024-11-20, **Upgrade of the Diagnostic Neutral Beam Injector for the RFX-mod2 experiment**, Marco Barbisan et.al., Paper: [http://arxiv.org/abs/2411.13373v1](http://arxiv.org/abs/2411.13373v1)
