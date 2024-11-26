@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683v1](http://arxiv.org/abs/2411.16683v1)|null|
+|**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680v1](http://arxiv.org/abs/2411.16680v1)|null|
+|**2024-11-25**|**A Supervised Machine Learning Approach for Assessing Grant Peer Review Reports**|Gabriel Okasa et.al.|[2411.16662v1](http://arxiv.org/abs/2411.16662v1)|null|
+|**2024-11-25**|**Fast training of large kernel models with delayed projections**|Amirhesam Abedsoltan et.al.|[2411.16658v1](http://arxiv.org/abs/2411.16658v1)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657v1](http://arxiv.org/abs/2411.16657v1)|null|
+|**2024-11-25**|**Automated Registration of 3D Neurovascular Territory Atlas to 2D DSA for Targeted Quantitative Angiography Analysis**|George Dimopoulos et.al.|[2411.16637v1](http://arxiv.org/abs/2411.16637v1)|null|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629v1](http://arxiv.org/abs/2411.16629v1)|null|
+|**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627v1](http://arxiv.org/abs/2411.16627v1)|null|
+|**2024-11-25**|**Imperceptible Adversarial Examples in the Physical World**|Weilin Xu et.al.|[2411.16622v1](http://arxiv.org/abs/2411.16622v1)|null|
+|**2024-11-25**|**Human-Activity AGV Quality Assessment: A Benchmark Dataset and an Objective Evaluation Metric**|Zhichao Zhang et.al.|[2411.16619v1](http://arxiv.org/abs/2411.16619v1)|null|
 |**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128v1](http://arxiv.org/abs/2411.15128v1)|null|
 |**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127v1](http://arxiv.org/abs/2411.15127v1)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
@@ -6131,6 +6141,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms**|Allison M. McCarthy et.al.|[2411.16577v1](http://arxiv.org/abs/2411.16577v1)|null|
+|**2024-11-25**|**Deformable Mamba for Wide Field of View Segmentation**|Jie Hu et.al.|[2411.16481v1](http://arxiv.org/abs/2411.16481v1)|**[link](https://github.com/jiehu1996/deformablemamba)**|
+|**2024-11-25**|**Luminosity predictions for the first three ionisation stages of W, Pt and Au to probe potential sources of emission in kilonova**|M. McCann et.al.|[2411.16476v1](http://arxiv.org/abs/2411.16476v1)|null|
+|**2024-11-25**|**A novel discontinuous-Galerkin deterministic neutronics model for Fusion applications: development and benchmarking**|Timo Jos Bogaarts et.al.|[2411.16369v1](http://arxiv.org/abs/2411.16369v1)|null|
+|**2024-11-25**|**The SVASR System for Text-dependent Speaker Verification (TdSV) AAIC Challenge 2024**|Mohammadreza Molavi et.al.|[2411.16276v1](http://arxiv.org/abs/2411.16276v1)|null|
+|**2024-11-25**|**Interpreting Object-level Foundation Models via Visual Precision Search**|Ruoyu Chen et.al.|[2411.16198v1](http://arxiv.org/abs/2411.16198v1)|null|
+|**2024-11-25**|**Local and Global Feature Attention Fusion Network for Face Recognition**|Wang Yu et.al.|[2411.16169v1](http://arxiv.org/abs/2411.16169v1)|null|
+|**2024-11-25**|**Beyond Task Vectors: Selective Task Arithmetic Based on Importance Metrics**|Tian Bowen et.al.|[2411.16139v1](http://arxiv.org/abs/2411.16139v1)|null|
+|**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[2411.16131v1](http://arxiv.org/abs/2411.16131v1)|null|
+|**2024-11-25**|**DF-GNN: Dynamic Fusion Framework for Attention Graph Neural Networks on GPUs**|Jiahui Liu et.al.|[2411.16127v1](http://arxiv.org/abs/2411.16127v1)|null|
 |**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016v1](http://arxiv.org/abs/2411.15016v1)|null|
 |**2024-11-22**|**A Constant Measurement Quantum Algorithm for Graph Connectivity**|Maximilian Balthasar Mansky et.al.|[2411.15015v1](http://arxiv.org/abs/2411.15015v1)|null|
 |**2024-11-22**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869v1](http://arxiv.org/abs/2411.14869v1)|null|
