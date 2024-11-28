@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-11-27, **GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**, Wentao Wang et.al., Paper: [http://arxiv.org/abs/2411.18624v1](http://arxiv.org/abs/2411.18624v1)
+- 2024-11-27, **Leveraging Semi-Supervised Learning to Enhance Data Mining for Image Classification under Limited Labeled Data**, Aoran Shen et.al., Paper: [http://arxiv.org/abs/2411.18622v1](http://arxiv.org/abs/2411.18622v1)
+- 2024-11-27, **CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**, Rundi Wu et.al., Paper: [http://arxiv.org/abs/2411.18613v1](http://arxiv.org/abs/2411.18613v1)
+- 2024-11-27, **Novel Class Discovery for Open Set Raga Classification**, Parampreet Singh et.al., Paper: [http://arxiv.org/abs/2411.18611v1](http://arxiv.org/abs/2411.18611v1)
+- 2024-11-27, **Variability of hot sub-luminous stars and binaries: Machine learning analysis of Gaia DR3 multi-epoch photometry**, P. Ranaivomanana et.al., Paper: [http://arxiv.org/abs/2411.18609v1](http://arxiv.org/abs/2411.18609v1)
+- 2024-11-27, **Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**, Eva Prakash et.al., Paper: [http://arxiv.org/abs/2411.18602v1](http://arxiv.org/abs/2411.18602v1)
+- 2024-11-27, **Periodic symplectic and Hamiltonian diffeomorphisms on irrational ruled surfaces**, Nicholas Lindsay et.al., Paper: [http://arxiv.org/abs/2411.18580v1](http://arxiv.org/abs/2411.18580v1)
+- 2024-11-27, **Pruning Deep Convolutional Neural Network Using Conditional Mutual Information**, Tien Vu-Van et.al., Paper: [http://arxiv.org/abs/2411.18578v1](http://arxiv.org/abs/2411.18578v1)
+- 2024-11-27, **Exploring Depth Information for Detecting Manipulated Face Videos**, Haoyue Wang et.al., Paper: [http://arxiv.org/abs/2411.18572v1](http://arxiv.org/abs/2411.18572v1)
+- 2024-11-27, **Perturbation Ontology based Graph Attention Networks**, Yichen Wang et.al., Paper: [http://arxiv.org/abs/2411.18520v1](http://arxiv.org/abs/2411.18520v1)
 - 2024-11-26, **Video-Guided Foley Sound Generation with Multimodal Controls**, Ziyang Chen et.al., Paper: [http://arxiv.org/abs/2411.17698v1](http://arxiv.org/abs/2411.17698v1)
 - 2024-11-26, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697v1](http://arxiv.org/abs/2411.17697v1), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
 - 2024-11-26, **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**, Akshita Gupta et.al., Paper: [http://arxiv.org/abs/2411.17690v1](http://arxiv.org/abs/2411.17690v1)
@@ -6143,6 +6153,16 @@
 
 ## MultiModal
 
+- 2024-11-27, **Potential technosignature from anomalously low deuterium/hydrogen (D/H) in planetary water depleted by nuclear fusion technology**, David C. Catling et.al., Paper: [http://arxiv.org/abs/2411.18595v1](http://arxiv.org/abs/2411.18595v1)
+- 2024-11-27, **Deep learning-based spatio-temporal fusion for high-fidelity ultra-high-speed x-ray radiography**, Songyuan Tang et.al., Paper: [http://arxiv.org/abs/2411.18441v1](http://arxiv.org/abs/2411.18441v1)
+- 2024-11-27, **MM-Path: Multi-modal, Multi-granularity Path Representation Learning -- Extended Version**, Ronghui Xu et.al., Paper: [http://arxiv.org/abs/2411.18428v1](http://arxiv.org/abs/2411.18428v1)
+- 2024-11-27, **Deep Fourier-embedded Network for Bi-modal Salient Object Detection**, Pengfei Lyu et.al., Paper: [http://arxiv.org/abs/2411.18409v1](http://arxiv.org/abs/2411.18409v1), Code: **[https://github.com/joshualpf/dfenet](https://github.com/joshualpf/dfenet)**
+- 2024-11-27, **Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**, Chen Zhou et.al., Paper: [http://arxiv.org/abs/2411.18288v1](http://arxiv.org/abs/2411.18288v1)
+- 2024-11-27, **Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**, Melda Yeghaian et.al., Paper: [http://arxiv.org/abs/2411.18253v1](http://arxiv.org/abs/2411.18253v1)
+- 2024-11-27, **R-MTLLMF: Resilient Multi-Task Large Language Model Fusion at the Wireless Edge**, Aladin Djuhera et.al., Paper: [http://arxiv.org/abs/2411.18220v1](http://arxiv.org/abs/2411.18220v1)
+- 2024-11-27, **Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition**, Shih-heng Wang et.al., Paper: [http://arxiv.org/abs/2411.18107v1](http://arxiv.org/abs/2411.18107v1)
+- 2024-11-27, **Lightweight Gaze Estimation Model Via Fusion Global Information**, Zhang Cheng et.al., Paper: [http://arxiv.org/abs/2411.18064v1](http://arxiv.org/abs/2411.18064v1)
+- 2024-11-27, **MeltpoolINR: Predicting temperature field, melt pool geometry, and their rate of change in laser powder bed fusion**, Manav Manav et.al., Paper: [http://arxiv.org/abs/2411.18048v1](http://arxiv.org/abs/2411.18048v1)
 - 2024-11-26, **What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics**, Jordan J. Bird et.al., Paper: [http://arxiv.org/abs/2411.17593v1](http://arxiv.org/abs/2411.17593v1)
 - 2024-11-26, **E-CONDOR: Efficient Contour-Based Detection Of Random Spatial Signals From UAV Observations Using Dual Stochastic Gradient**, Maryam Zahra et.al., Paper: [http://arxiv.org/abs/2411.17449v1](http://arxiv.org/abs/2411.17449v1)
 - 2024-11-26, **Multimodal Outer Arithmetic Block Dual Fusion of Whole Slide Images and Omics Data for Precision Oncology**, Omnia Alwazzan et.al., Paper: [http://arxiv.org/abs/2411.17418v1](http://arxiv.org/abs/2411.17418v1)
