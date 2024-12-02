@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-11-29, **T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**, Shukang Yin et.al., Paper: [http://arxiv.org/abs/2411.19951v1](http://arxiv.org/abs/2411.19951v1), Code: **[https://github.com/xjtupanda/t2vid](https://github.com/xjtupanda/t2vid)**
+- 2024-11-29, **AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**, Yuze He et.al., Paper: [http://arxiv.org/abs/2411.19950v1](http://arxiv.org/abs/2411.19950v1)
+- 2024-11-29, **Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**, Joseph Heyward et.al., Paper: [http://arxiv.org/abs/2411.19941v1](http://arxiv.org/abs/2411.19941v1)
+- 2024-11-29, **SIMS: Simulating Human-Scene Interactions with Real World Script Planning**, Wenjia Wang et.al., Paper: [http://arxiv.org/abs/2411.19921v1](http://arxiv.org/abs/2411.19921v1)
+- 2024-11-29, **Noncommutative Model Selection for Data Clustering and Dimension Reduction Using Relative von Neumann Entropy**, Araceli Guzmán-Tristán et.al., Paper: [http://arxiv.org/abs/2411.19902v1](http://arxiv.org/abs/2411.19902v1)
+- 2024-11-29, **To the Problem of Cosmic Expansion in Massive Gravity**, Lavinia Heisenberg et.al., Paper: [http://arxiv.org/abs/2411.19873v1](http://arxiv.org/abs/2411.19873v1)
+- 2024-11-29, **AIDetx: a compression-based method for identification of machine-learning generated text**, Leonardo Almeida et.al., Paper: [http://arxiv.org/abs/2411.19869v1](http://arxiv.org/abs/2411.19869v1), Code: **[https://github.com/aidetx/aidetx](https://github.com/aidetx/aidetx)**
+- 2024-11-29, **Towards Class-wise Robustness Analysis**, Tejaswini Medi et.al., Paper: [http://arxiv.org/abs/2411.19853v1](http://arxiv.org/abs/2411.19853v1)
+- 2024-11-29, **Sensitive Content Classification in Social Media: A Holistic Resource and Evaluation**, Dimosthenis Antypas et.al., Paper: [http://arxiv.org/abs/2411.19832v1](http://arxiv.org/abs/2411.19832v1)
+- 2024-11-29, **A new definition of outsplitting on $k$-graphs preserving Morita equivalence**, Mackenzie Amann et.al., Paper: [http://arxiv.org/abs/2411.19816v1](http://arxiv.org/abs/2411.19816v1)
 - 2024-11-27, **GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**, Wentao Wang et.al., Paper: [http://arxiv.org/abs/2411.18624v1](http://arxiv.org/abs/2411.18624v1)
 - 2024-11-27, **Leveraging Semi-Supervised Learning to Enhance Data Mining for Image Classification under Limited Labeled Data**, Aoran Shen et.al., Paper: [http://arxiv.org/abs/2411.18622v1](http://arxiv.org/abs/2411.18622v1)
 - 2024-11-27, **CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**, Rundi Wu et.al., Paper: [http://arxiv.org/abs/2411.18613v1](http://arxiv.org/abs/2411.18613v1)
@@ -6153,6 +6163,16 @@
 
 ## MultiModal
 
+- 2024-11-29, **SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**, Philipp Wolters et.al., Paper: [http://arxiv.org/abs/2411.19860v1](http://arxiv.org/abs/2411.19860v1)
+- 2024-11-29, **A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**, Liqiang Zhang Ye Tian Dongyan Wei et.al., Paper: [http://arxiv.org/abs/2411.19845v1](http://arxiv.org/abs/2411.19845v1)
+- 2024-11-29, **Secure Filtering against Spatio-Temporal False Data under Asynchronous Sampling**, Zishuo Li et.al., Paper: [http://arxiv.org/abs/2411.19765v1](http://arxiv.org/abs/2411.19765v1)
+- 2024-11-29, **The Streetscape Application Services Stack (SASS): Towards a Distributed Sensing Architecture for Urban Applications**, Navid Salami Pargoo et.al., Paper: [http://arxiv.org/abs/2411.19714v1](http://arxiv.org/abs/2411.19714v1)
+- 2024-11-29, **Gated-Attention Feature-Fusion Based Framework for Poverty Prediction**, Muhammad Umer Ramzan et.al., Paper: [http://arxiv.org/abs/2411.19690v1](http://arxiv.org/abs/2411.19690v1)
+- 2024-11-29, **Accelerating Multimodal Large Language Models via Dynamic Visual-Token Exit and the Empirical Findings**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2411.19628v1](http://arxiv.org/abs/2411.19628v1), Code: **[https://github.com/doubtedsteam/dyvte](https://github.com/doubtedsteam/dyvte)**
+- 2024-11-29, **Design and fabrication of fiber optic microlenses using an arc fusion splicing system**, Szymon Matczak et.al., Paper: [http://arxiv.org/abs/2411.19591v1](http://arxiv.org/abs/2411.19591v1)
+- 2024-11-29, **Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain Adaptation for Seizure Subtype Classification**, Ruimin Peng et.al., Paper: [http://arxiv.org/abs/2411.19502v1](http://arxiv.org/abs/2411.19502v1)
+- 2024-11-29, **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**, Zhihao Sun et.al., Paper: [http://arxiv.org/abs/2411.19466v1](http://arxiv.org/abs/2411.19466v1)
+- 2024-11-28, **Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**, Davide Cipollini et.al., Paper: [http://arxiv.org/abs/2411.19353v1](http://arxiv.org/abs/2411.19353v1)
 - 2024-11-27, **Potential technosignature from anomalously low deuterium/hydrogen (D/H) in planetary water depleted by nuclear fusion technology**, David C. Catling et.al., Paper: [http://arxiv.org/abs/2411.18595v1](http://arxiv.org/abs/2411.18595v1)
 - 2024-11-27, **Deep learning-based spatio-temporal fusion for high-fidelity ultra-high-speed x-ray radiography**, Songyuan Tang et.al., Paper: [http://arxiv.org/abs/2411.18441v1](http://arxiv.org/abs/2411.18441v1)
 - 2024-11-27, **MM-Path: Multi-modal, Multi-granularity Path Representation Learning -- Extended Version**, Ronghui Xu et.al., Paper: [http://arxiv.org/abs/2411.18428v1](http://arxiv.org/abs/2411.18428v1), Code: **[https://github.com/decisionintelligence/mm-path](https://github.com/decisionintelligence/mm-path)**
