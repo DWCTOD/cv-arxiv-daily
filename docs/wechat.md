@@ -2,7 +2,7 @@
 
 ## Video_Classification
 
-- 2024-11-29, **T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**, Shukang Yin et.al., Paper: [http://arxiv.org/abs/2411.19951v1](http://arxiv.org/abs/2411.19951v1), Code: **[https://github.com/xjtupanda/t2vid](https://github.com/xjtupanda/t2vid)**
+- 2024-12-02, **T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**, Shukang Yin et.al., Paper: [http://arxiv.org/abs/2411.19951v2](http://arxiv.org/abs/2411.19951v2), Code: **[https://github.com/xjtupanda/t2vid](https://github.com/xjtupanda/t2vid)**
 - 2024-11-29, **AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**, Yuze He et.al., Paper: [http://arxiv.org/abs/2411.19950v1](http://arxiv.org/abs/2411.19950v1)
 - 2024-11-29, **Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**, Joseph Heyward et.al., Paper: [http://arxiv.org/abs/2411.19941v1](http://arxiv.org/abs/2411.19941v1)
 - 2024-11-29, **SIMS: Simulating Human-Scene Interactions with Real World Script Planning**, Wenjia Wang et.al., Paper: [http://arxiv.org/abs/2411.19921v1](http://arxiv.org/abs/2411.19921v1)
@@ -6171,7 +6171,7 @@
 - 2024-11-29, **Accelerating Multimodal Large Language Models via Dynamic Visual-Token Exit and the Empirical Findings**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2411.19628v1](http://arxiv.org/abs/2411.19628v1), Code: **[https://github.com/doubtedsteam/dyvte](https://github.com/doubtedsteam/dyvte)**
 - 2024-11-29, **Design and fabrication of fiber optic microlenses using an arc fusion splicing system**, Szymon Matczak et.al., Paper: [http://arxiv.org/abs/2411.19591v1](http://arxiv.org/abs/2411.19591v1)
 - 2024-11-29, **Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain Adaptation for Seizure Subtype Classification**, Ruimin Peng et.al., Paper: [http://arxiv.org/abs/2411.19502v1](http://arxiv.org/abs/2411.19502v1)
-- 2024-11-29, **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**, Zhihao Sun et.al., Paper: [http://arxiv.org/abs/2411.19466v1](http://arxiv.org/abs/2411.19466v1)
+- 2024-11-29, **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**, Zhihao Sun et.al., Paper: [http://arxiv.org/abs/2411.19466v1](http://arxiv.org/abs/2411.19466v1), Code: **[https://github.com/sunzhihao18/ForgerySleuth](https://github.com/sunzhihao18/ForgerySleuth)**
 - 2024-11-28, **Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**, Davide Cipollini et.al., Paper: [http://arxiv.org/abs/2411.19353v1](http://arxiv.org/abs/2411.19353v1)
 - 2024-11-27, **Potential technosignature from anomalously low deuterium/hydrogen (D/H) in planetary water depleted by nuclear fusion technology**, David C. Catling et.al., Paper: [http://arxiv.org/abs/2411.18595v1](http://arxiv.org/abs/2411.18595v1)
 - 2024-11-27, **Deep learning-based spatio-temporal fusion for high-fidelity ultra-high-speed x-ray radiography**, Songyuan Tang et.al., Paper: [http://arxiv.org/abs/2411.18441v1](http://arxiv.org/abs/2411.18441v1)
