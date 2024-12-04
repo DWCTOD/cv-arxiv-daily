@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700v1](http://arxiv.org/abs/2412.02700v1)|null|
+|**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695v1](http://arxiv.org/abs/2412.02695v1)|null|
+|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690v1](http://arxiv.org/abs/2412.02690v1)|null|
+|**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684v1](http://arxiv.org/abs/2412.02684v1)|null|
+|**2024-12-03**|**On Third-Order Evolution Systems Describing Pseudo-Spherical or Spherical Surfaces**|Filipe Kelmer et.al.|[2412.02657v1](http://arxiv.org/abs/2412.02657v1)|null|
+|**2024-12-03**|**Robust soybean seed yield estimation using high-throughput ground robot videos**|Jiale Feng et.al.|[2412.02642v1](http://arxiv.org/abs/2412.02642v1)|null|
+|**2024-12-03**|**QA-TOOLBOX: Conversational Question-Answering for process task guidance in manufacturing**|Ramesh Manuvinakurike et.al.|[2412.02638v1](http://arxiv.org/abs/2412.02638v1)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617v1](http://arxiv.org/abs/2412.02617v1)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605v1](http://arxiv.org/abs/2412.02605v1)|null|
+|**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598v1](http://arxiv.org/abs/2412.02598v1)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951v2](http://arxiv.org/abs/2411.19951v2)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**|Yuze He et.al.|[2411.19950v1](http://arxiv.org/abs/2411.19950v1)|null|
 |**2024-11-29**|**Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**|Joseph Heyward et.al.|[2411.19941v1](http://arxiv.org/abs/2411.19941v1)|null|
@@ -6171,6 +6181,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531v1](http://arxiv.org/abs/2412.02531v1)|null|
+|**2024-12-03**|**Trajectory-based Road Autolabeling with Lidar-Camera Fusion in Winter Conditions**|Eerik Alamikkotervo et.al.|[2412.02370v1](http://arxiv.org/abs/2412.02370v1)|**[link](https://github.com/eerik98/lidar-camera-road-autolabeling)**|
+|**2024-12-03**|**Initial Study On Improving Segmentation By Combining Preoperative CT And Intraoperative CBCT Using Synthetic Data**|Maximilian E. Tschuchnig et.al.|[2412.02294v1](http://arxiv.org/abs/2412.02294v1)|null|
+|**2024-12-03**|**Deep Matrix Factorization with Adaptive Weights for Multi-View Clustering**|Yasser Khalafaoui et.al.|[2412.02292v1](http://arxiv.org/abs/2412.02292v1)|null|
+|**2024-12-03**|**VR Based Emotion Recognition Using Deep Multimodal Fusion With Biosignals Across Multiple Anatomical Domains**|Pubudu L. Indrasiri et.al.|[2412.02283v1](http://arxiv.org/abs/2412.02283v1)|null|
+|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197v1](http://arxiv.org/abs/2412.02197v1)|null|
+|**2024-12-03**|**A privacy-preserving distributed credible evidence fusion algorithm for collective decision-making**|Chaoxiong Ma et.al.|[2412.02130v1](http://arxiv.org/abs/2412.02130v1)|null|
+|**2024-12-03**|**Construction and optimization of health behavior prediction model for the elderly in smart elderly care**|Qian Guo et.al.|[2412.02062v1](http://arxiv.org/abs/2412.02062v1)|null|
+|**2024-12-03**|**ASANet: Asymmetric Semantic Aligning Network for RGB and SAR image land cover classification**|Pan Zhang et.al.|[2412.02044v1](http://arxiv.org/abs/2412.02044v1)|**[link](https://github.com/whu-pzhang/asanet)**|
+|**2024-12-02**|**Centrifugal Confinement Fusion Thruster**|Yi-Min Huang et.al.|[2412.01980v1](http://arxiv.org/abs/2412.01980v1)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860v1](http://arxiv.org/abs/2411.19860v1)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845v1](http://arxiv.org/abs/2411.19845v1)|null|
 |**2024-11-29**|**Secure Filtering against Spatio-Temporal False Data under Asynchronous Sampling**|Zishuo Li et.al.|[2411.19765v1](http://arxiv.org/abs/2411.19765v1)|null|
