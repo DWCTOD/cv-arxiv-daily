@@ -5,7 +5,7 @@
 - 2024-12-05, **PaintScene4D: Consistent 4D Scene Generation from Text Prompts**, Vinayak Gupta et.al., Paper: [http://arxiv.org/abs/2412.04471v1](http://arxiv.org/abs/2412.04471v1)
 - 2024-12-05, **QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**, Sharath Girish et.al., Paper: [http://arxiv.org/abs/2412.04469v1](http://arxiv.org/abs/2412.04469v1)
 - 2024-12-05, **NVILA: Efficient Frontier Visual Language Models**, Zhijian Liu et.al., Paper: [http://arxiv.org/abs/2412.04468v1](http://arxiv.org/abs/2412.04468v1)
-- 2024-12-05, **VisionZip: Longer is Better but Not Necessary in Vision Language Models**, Senqiao Yang et.al., Paper: [http://arxiv.org/abs/2412.04467v1](http://arxiv.org/abs/2412.04467v1)
+- 2024-12-05, **VisionZip: Longer is Better but Not Necessary in Vision Language Models**, Senqiao Yang et.al., Paper: [http://arxiv.org/abs/2412.04467v1](http://arxiv.org/abs/2412.04467v1), Code: **[https://github.com/dvlab-research/visionzip](https://github.com/dvlab-research/visionzip)**
 - 2024-12-05, **MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**, Zhengqi Li et.al., Paper: [http://arxiv.org/abs/2412.04463v1](http://arxiv.org/abs/2412.04463v1)
 - 2024-12-05, **4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2412.04462v1](http://arxiv.org/abs/2412.04462v1)
 - 2024-12-05, **Four-Plane Factorized Video Autoencoders**, Mohammed Suhail et.al., Paper: [http://arxiv.org/abs/2412.04452v1](http://arxiv.org/abs/2412.04452v1)
@@ -6193,12 +6193,12 @@
 
 ## MultiModal
 
-- 2024-12-05, **Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail**, Luca Bartolomei et.al., Paper: [http://arxiv.org/abs/2412.04472v1](http://arxiv.org/abs/2412.04472v1)
+- 2024-12-05, **Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail**, Luca Bartolomei et.al., Paper: [http://arxiv.org/abs/2412.04472v1](http://arxiv.org/abs/2412.04472v1), Code: **[https://github.com/bartn8/stereoanywhere](https://github.com/bartn8/stereoanywhere)**
 - 2024-12-05, **Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**, Cheng Sun et.al., Paper: [http://arxiv.org/abs/2412.04459v1](http://arxiv.org/abs/2412.04459v1)
-- 2024-12-05, **Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**, Jiuhai Chen et.al., Paper: [http://arxiv.org/abs/2412.04424v1](http://arxiv.org/abs/2412.04424v1)
+- 2024-12-05, **Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**, Jiuhai Chen et.al., Paper: [http://arxiv.org/abs/2412.04424v1](http://arxiv.org/abs/2412.04424v1), Code: **[https://github.com/jiuhaichen/florence-vl](https://github.com/jiuhaichen/florence-vl)**
 - 2024-12-05, **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**, Rong Li et.al., Paper: [http://arxiv.org/abs/2412.04383v1](http://arxiv.org/abs/2412.04383v1)
 - 2024-12-05, **Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**, Saheli Hazra et.al., Paper: [http://arxiv.org/abs/2412.04337v1](http://arxiv.org/abs/2412.04337v1)
-- 2024-12-05, **YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**, Linfeng Jiang et.al., Paper: [http://arxiv.org/abs/2412.04289v1](http://arxiv.org/abs/2412.04289v1)
+- 2024-12-05, **YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**, Linfeng Jiang et.al., Paper: [http://arxiv.org/abs/2412.04289v1](http://arxiv.org/abs/2412.04289v1), Code: **[https://github.com/zippiest/yolo-cca](https://github.com/zippiest/yolo-cca)**
 - 2024-12-05, **LMDM:Latent Molecular Diffusion Model For 3D Molecule Generation**, Xiang Chen et.al., Paper: [http://arxiv.org/abs/2412.04242v1](http://arxiv.org/abs/2412.04242v1)
 - 2024-12-05, **Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**, Chenyang Zhu et.al., Paper: [http://arxiv.org/abs/2412.04220v1](http://arxiv.org/abs/2412.04220v1)
 - 2024-12-05, **Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image**, Shuang Xu et.al., Paper: [http://arxiv.org/abs/2412.04201v1](http://arxiv.org/abs/2412.04201v1)
