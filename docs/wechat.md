@@ -1,8 +1,8 @@
-> Updated on 2024.12.10
+> Updated on 2024.12.11
 
 ## Video_Classification
 
-- 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1)
+- 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1), Code: **[https://github.com/CompVis/mask](https://github.com/CompVis/mask)**
 - 2024-12-09, **P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Policies**, Mara Levy et.al., Paper: [http://arxiv.org/abs/2412.06784v1](http://arxiv.org/abs/2412.06784v1)
 - 2024-12-09, **Convolution goes higher-order: a biologically inspired mechanism empowers image classification**, Simone Azeglio et.al., Paper: [http://arxiv.org/abs/2412.06740v1](http://arxiv.org/abs/2412.06740v1)
 - 2024-12-09, **JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**, Takuro Fujii et.al., Paper: [http://arxiv.org/abs/2412.06738v1](http://arxiv.org/abs/2412.06738v1)
