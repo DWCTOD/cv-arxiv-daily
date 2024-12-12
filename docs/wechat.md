@@ -1,8 +1,8 @@
-> Updated on 2024.12.11
+> Updated on 2024.12.12
 
 ## Video_Classification
 
-- 2024-12-10, **Video Motion Transfer with Diffusion Transformers**, Alexander Pondaven et.al., Paper: [http://arxiv.org/abs/2412.07776v1](http://arxiv.org/abs/2412.07776v1)
+- 2024-12-10, **Video Motion Transfer with Diffusion Transformers**, Alexander Pondaven et.al., Paper: [http://arxiv.org/abs/2412.07776v1](http://arxiv.org/abs/2412.07776v1), Code: **[https://github.com/ditflow/ditflow](https://github.com/ditflow/ditflow)**
 - 2024-12-10, **UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics**, Xi Chen et.al., Paper: [http://arxiv.org/abs/2412.07774v1](http://arxiv.org/abs/2412.07774v1)
 - 2024-12-10, **From Slow Bidirectional to Fast Causal Video Generators**, Tianwei Yin et.al., Paper: [http://arxiv.org/abs/2412.07772v1](http://arxiv.org/abs/2412.07772v1)
 - 2024-12-10, **From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos**, Matthew Wallingford et.al., Paper: [http://arxiv.org/abs/2412.07770v1](http://arxiv.org/abs/2412.07770v1)
