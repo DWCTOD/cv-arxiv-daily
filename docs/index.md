@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**StreamChat: Chatting with Streaming Video**|Jihao Liu et.al.|[2412.08646v1](http://arxiv.org/abs/2412.08646v1)|null|
+|**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642v1](http://arxiv.org/abs/2412.08642v1)|null|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635v1](http://arxiv.org/abs/2412.08635v1)|null|
+|**2024-12-11**|**MNIST-Fraction: Enhancing Math Education with AI-Driven Fraction Detection and Analysis**|Pegah Ahadian et.al.|[2412.08633v1](http://arxiv.org/abs/2412.08633v1)|null|
+|**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618v1](http://arxiv.org/abs/2412.08618v1)|null|
+|**2024-12-11**|**CCSNscore: A multi-input deep learning tool for classification of core-collapse supernovae using SED-Machine spectra**|Yashvi Sharma et.al.|[2412.08601v1](http://arxiv.org/abs/2412.08601v1)|null|
+|**2024-12-11**|**RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation**|Mingfei Han et.al.|[2412.08591v1](http://arxiv.org/abs/2412.08591v1)|null|
+|**2024-12-11**|**SPACE-SUIT: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT**|Pranava Seth et.al.|[2412.08589v1](http://arxiv.org/abs/2412.08589v1)|null|
+|**2024-12-11**|**Advancing Single- and Multi-task Text Classification through Large Language Model Fine-tuning**|Hang Zhao et.al.|[2412.08587v1](http://arxiv.org/abs/2412.08587v1)|null|
+|**2024-12-11**|**Utilizing Multi-step Loss for Single Image Reflection Removal**|Abdelrahman Elnenaey et.al.|[2412.08582v1](http://arxiv.org/abs/2412.08582v1)|null|
 |**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776v1](http://arxiv.org/abs/2412.07776v1)|**[link](https://github.com/ditflow/ditflow)**|
 |**2024-12-10**|**UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics**|Xi Chen et.al.|[2412.07774v1](http://arxiv.org/abs/2412.07774v1)|null|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772v1](http://arxiv.org/abs/2412.07772v1)|null|
@@ -6231,6 +6241,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices**|Stephen C. Wein et.al.|[2412.08611v1](http://arxiv.org/abs/2412.08611v1)|null|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562v1](http://arxiv.org/abs/2412.08562v1)|null|
+|**2024-12-11**|**Gromov ground state in phase space engineering for fusion energy**|Hong Qin et.al.|[2412.08494v1](http://arxiv.org/abs/2412.08494v1)|null|
+|**2024-12-11**|**Dynamic Disentangled Fusion Network for RGBT Tracking**|Chenglong Li et.al.|[2412.08441v1](http://arxiv.org/abs/2412.08441v1)|null|
+|**2024-12-11**|**Apollon Real-Time Adaptive Optics (ARTAO) -- Astronomy-Inspired Wavefront Stabilization in Ultraintense Lasers**|Jonas Benjamin Ohland et.al.|[2412.08418v1](http://arxiv.org/abs/2412.08418v1)|null|
+|**2024-12-11**|**LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba**|Yubo Cui et.al.|[2412.08388v1](http://arxiv.org/abs/2412.08388v1)|null|
+|**2024-12-11**|**HyViLM: Enhancing Fine-Grained Recognition with a Hybrid Encoder for Vision-Language Models**|Shiding Zhu et.al.|[2412.08378v1](http://arxiv.org/abs/2412.08378v1)|null|
+|**2024-12-11**|**Multiscale approximation and two-grid preconditioner for extremely anisotropic heat flow**|Maria Vasilyeva et.al.|[2412.08355v1](http://arxiv.org/abs/2412.08355v1)|null|
+|**2024-12-11**|**ConDSeg: A General Medical Image Segmentation Framework via Contrast-Driven Feature Enhancement**|Mengqi Lei et.al.|[2412.08345v1](http://arxiv.org/abs/2412.08345v1)|**[link](https://github.com/mengqi-lei/condseg)**|
+|**2024-12-11**|**Lightweight Method for Interactive 3D Medical Image Segmentation with Multi-Round Result Fusion**|Bingzhi Shen et.al.|[2412.08315v1](http://arxiv.org/abs/2412.08315v1)|null|
 |**2024-12-10**|**A Hamiltonian Formulation for Energy Loss, Collision Rate, and Entropy Evolution in Collisionless and Collisional Plasmas: Transition from Maxwellian to Non-Maxwellian Distributions**|Joseph Samper Finberg et.al.|[2412.07725v1](http://arxiv.org/abs/2412.07725v1)|null|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681v1](http://arxiv.org/abs/2412.07681v1)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
