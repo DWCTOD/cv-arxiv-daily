@@ -1,4 +1,4 @@
-> Updated on 2024.12.14
+> Updated on 2024.12.15
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2024-12-12, **NormalFlow: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors**, Hung-Jui Huang et.al., Paper: [http://arxiv.org/abs/2412.09617v1](http://arxiv.org/abs/2412.09617v1), Code: **[https://github.com/rpl-cmu/normalflow](https://github.com/rpl-cmu/normalflow)**
 - 2024-12-12, **V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**, Junqi Ge et.al., Paper: [http://arxiv.org/abs/2412.09616v1](http://arxiv.org/abs/2412.09616v1), Code: **[https://github.com/opengvlab/v2pe](https://github.com/opengvlab/v2pe)**
 - 2024-12-12, **PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**, Chenyu Yang et.al., Paper: [http://arxiv.org/abs/2412.09613v1](http://arxiv.org/abs/2412.09613v1)
-- 2024-12-12, **Olympus: A Universal Task Router for Computer Vision Tasks**, Yuanze Lin et.al., Paper: [http://arxiv.org/abs/2412.09612v1](http://arxiv.org/abs/2412.09612v1)
+- 2024-12-12, **Olympus: A Universal Task Router for Computer Vision Tasks**, Yuanze Lin et.al., Paper: [http://arxiv.org/abs/2412.09612v1](http://arxiv.org/abs/2412.09612v1), Code: **[https://github.com/yuanze-lin/olympus_page](https://github.com/yuanze-lin/olympus_page)**
 - 2024-12-11, **StreamChat: Chatting with Streaming Video**, Jihao Liu et.al., Paper: [http://arxiv.org/abs/2412.08646v1](http://arxiv.org/abs/2412.08646v1)
 - 2024-12-11, **Generative Semantic Communication: Architectures, Technologies, and Applications**, Jinke Ren et.al., Paper: [http://arxiv.org/abs/2412.08642v1](http://arxiv.org/abs/2412.08642v1)
 - 2024-12-11, **Multimodal Latent Language Modeling with Next-Token Diffusion**, Yutao Sun et.al., Paper: [http://arxiv.org/abs/2412.08635v1](http://arxiv.org/abs/2412.08635v1)
@@ -6244,7 +6244,7 @@
 ## MultiModal
 
 - 2024-12-12, **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2412.09626v1](http://arxiv.org/abs/2412.09626v1)
-- 2024-12-12, **GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**, Dongyue Lu et.al., Paper: [http://arxiv.org/abs/2412.09511v1](http://arxiv.org/abs/2412.09511v1)
+- 2024-12-12, **GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**, Dongyue Lu et.al., Paper: [http://arxiv.org/abs/2412.09511v1](http://arxiv.org/abs/2412.09511v1), Code: **[https://github.com/DylanOrange/geal](https://github.com/DylanOrange/geal)**
 - 2024-12-12, **Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**, Sandeep Banik et.al., Paper: [http://arxiv.org/abs/2412.09505v1](http://arxiv.org/abs/2412.09505v1)
 - 2024-12-12, **Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation**, Baisen Wang et.al., Paper: [http://arxiv.org/abs/2412.09428v1](http://arxiv.org/abs/2412.09428v1), Code: **[https://github.com/wbs2788/vmb](https://github.com/wbs2788/vmb)**
 - 2024-12-12, **Towards Open-Vocabulary Video Semantic Segmentation**, Xinhao Li et.al., Paper: [http://arxiv.org/abs/2412.09329v1](http://arxiv.org/abs/2412.09329v1)
