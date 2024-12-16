@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372v1](http://arxiv.org/abs/2412.10372v1)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
+|**2024-12-13**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360v1](http://arxiv.org/abs/2412.10360v1)|null|
+|**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353v1](http://arxiv.org/abs/2412.10353v1)|null|
+|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316v1](http://arxiv.org/abs/2412.10316v1)|null|
+|**2024-12-13**|**Performance evaluation of predictive AI models to support medical decisions: Overview and guidance**|Ben Van Calster et.al.|[2412.10288v1](http://arxiv.org/abs/2412.10288v1)|null|
+|**2024-12-13**|**TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation**|Xingrui Wang et.al.|[2412.10275v1](http://arxiv.org/abs/2412.10275v1)|null|
+|**2024-12-13**|**Reasoner Outperforms: Generative Stance Detection with Rationalization for Social Media**|Jiaqing Yuan et.al.|[2412.10266v1](http://arxiv.org/abs/2412.10266v1)|null|
+|**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265v1](http://arxiv.org/abs/2412.10265v1)|null|
+|**2024-12-13**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261v1](http://arxiv.org/abs/2412.10261v1)|null|
+|**2024-12-13**|**Copy-Move Detection in Optical Microscopy: A Segmentation Network and A Dataset**|Hao-Chiang Shao et.al.|[2412.10258v1](http://arxiv.org/abs/2412.10258v1)|null|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627v1](http://arxiv.org/abs/2412.09627v1)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**|Haonan Qiu et.al.|[2412.09626v1](http://arxiv.org/abs/2412.09626v1)|null|
 |**2024-12-12**|**GenEx: Generating an Explorable World**|Taiming Lu et.al.|[2412.09624v1](http://arxiv.org/abs/2412.09624v1)|null|
@@ -6251,6 +6261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring**|Hanzhou Liu et.al.|[2412.10338v1](http://arxiv.org/abs/2412.10338v1)|null|
+|**2024-12-13**|**MST-R: Multi-Stage Tuning for Retrieval Systems and Metric Evaluation**|Yash Malviya et.al.|[2412.10313v1](http://arxiv.org/abs/2412.10313v1)|**[link](https://github.com/indic-aidias/mst-r)**|
+|**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308v1](http://arxiv.org/abs/2412.10308v1)|null|
+|**2024-12-13**|**Data Integration with Fusion Searchlight: Classifying Brain States from Resting-state fMRI**|Simon Wein et.al.|[2412.10161v1](http://arxiv.org/abs/2412.10161v1)|**[link](https://github.com/simonvino/fusl)**|
+|**2024-12-13**|**Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories**|Xiaohan Zhang et.al.|[2412.10078v1](http://arxiv.org/abs/2412.10078v1)|null|
+|**2024-12-13**|**$\textrm{A}^{\textrm{2}}$RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**|Jiawei Li et.al.|[2412.09954v1](http://arxiv.org/abs/2412.09954v1)|null|
+|**2024-12-13**|**Leveraging Multimodal Methods and Spontaneous Speech for Alzheimer's Disease Identification**|Yifan Gao et.al.|[2412.09928v1](http://arxiv.org/abs/2412.09928v1)|null|
+|**2024-12-13**|**Dynamic Cross-Modal Alignment for Robust Semantic Location Prediction**|Liu Jing et.al.|[2412.09870v1](http://arxiv.org/abs/2412.09870v1)|null|
+|**2024-12-13**|**Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism**|Jun Zheng et.al.|[2412.09822v1](http://arxiv.org/abs/2412.09822v1)|null|
+|**2024-12-13**|**CP-DETR: Concept Prompt Guide DETR Toward Stronger Universal Object Detection**|Qibo Chen et.al.|[2412.09799v1](http://arxiv.org/abs/2412.09799v1)|null|
 |**2024-12-12**|**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**|Haonan Qiu et.al.|[2412.09626v1](http://arxiv.org/abs/2412.09626v1)|null|
 |**2024-12-12**|**GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**|Dongyue Lu et.al.|[2412.09511v1](http://arxiv.org/abs/2412.09511v1)|**[link](https://github.com/DylanOrange/geal)**|
 |**2024-12-12**|**Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**|Sandeep Banik et.al.|[2412.09505v1](http://arxiv.org/abs/2412.09505v1)|null|
