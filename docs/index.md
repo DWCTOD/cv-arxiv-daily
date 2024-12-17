@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091v1](http://arxiv.org/abs/2412.12091v1)|null|
+|**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087v1](http://arxiv.org/abs/2412.12087v1)|null|
+|**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077v1](http://arxiv.org/abs/2412.12077v1)|null|
+|**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075v1](http://arxiv.org/abs/2412.12075v1)|null|
+|**2024-12-16**|**Exploring Semantic Consistency and Style Diversity for Domain Generalized Semantic Segmentation**|Hongwei Niu et.al.|[2412.12050v1](http://arxiv.org/abs/2412.12050v1)|**[link](https://github.com/nhw649/scsd)**|
+|**2024-12-16**|**Deep-learning-based identification of individual motion characteristics from upper-limb trajectories towards disorder stage evaluation**|Tim Sziburis et.al.|[2412.12016v1](http://arxiv.org/abs/2412.12016v1)|null|
+|**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
+|**2024-12-16**|**On the Nielsen-Thomsen sequence**|Laurent Cantier et.al.|[2412.11975v1](http://arxiv.org/abs/2412.11975v1)|null|
+|**2024-12-16**|**On vertex-transitive distance-regular covers of complete graphs with an extremal smallest eigenvalue**|Ludmila Yu. Tsiovkina et.al.|[2412.11962v1](http://arxiv.org/abs/2412.11962v1)|null|
+|**2024-12-16**|**Gramian Multimodal Representation Learning and Alignment**|Giordano Cicchetti et.al.|[2412.11959v1](http://arxiv.org/abs/2412.11959v1)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372v1](http://arxiv.org/abs/2412.10372v1)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360v1](http://arxiv.org/abs/2412.10360v1)|null|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353v1](http://arxiv.org/abs/2412.10353v1)|null|
@@ -6261,6 +6271,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**RepFace: Refining Closed-Set Noise with Progressive Label Correction for Face Recognition**|Jie Zhang et.al.|[2412.12031v1](http://arxiv.org/abs/2412.12031v1)|null|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001v1](http://arxiv.org/abs/2412.12001v1)|null|
+|**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866v1](http://arxiv.org/abs/2412.11866v1)|null|
+|**2024-12-16**|**Point Cloud-Assisted Neural Image Compression**|Ziqun Li et.al.|[2412.11771v1](http://arxiv.org/abs/2412.11771v1)|null|
+|**2024-12-16**|**On topological defects in Chern-Simons theory**|Alex S. Arvanitakis et.al.|[2412.11718v1](http://arxiv.org/abs/2412.11718v1)|null|
+|**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687v1](http://arxiv.org/abs/2412.11687v1)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
+|**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685v1](http://arxiv.org/abs/2412.11685v1)|null|
+|**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621v1](http://arxiv.org/abs/2412.11621v1)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
+|**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609v1](http://arxiv.org/abs/2412.11609v1)|null|
+|**2024-12-16**|**On-the-Fly Interrogation of Mobile Passive Sensors from the Fusion of Optical and Radar Data**|Ali Hadj Djilani et.al.|[2412.11558v1](http://arxiv.org/abs/2412.11558v1)|null|
 |**2024-12-13**|**XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring**|Hanzhou Liu et.al.|[2412.10338v1](http://arxiv.org/abs/2412.10338v1)|null|
 |**2024-12-13**|**MST-R: Multi-Stage Tuning for Retrieval Systems and Metric Evaluation**|Yash Malviya et.al.|[2412.10313v1](http://arxiv.org/abs/2412.10313v1)|**[link](https://github.com/indic-aidias/mst-r)**|
 |**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308v1](http://arxiv.org/abs/2412.10308v1)|null|
