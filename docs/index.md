@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**MotionBridge: Dynamic Video Inbetweening with Flexible Controls**|Maham Tanveer et.al.|[2412.13190v1](http://arxiv.org/abs/2412.13190v1)|null|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188v1](http://arxiv.org/abs/2412.13188v1)|null|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187v1](http://arxiv.org/abs/2412.13187v1)|null|
+|**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185v1](http://arxiv.org/abs/2412.13185v1)|null|
+|**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183v1](http://arxiv.org/abs/2412.13183v1)|null|
+|**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176v1](http://arxiv.org/abs/2412.13176v1)|null|
+|**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157v1](http://arxiv.org/abs/2412.13157v1)|null|
+|**2024-12-17**|**Continuous Patient Monitoring with AI: Real-Time Analysis of Video in Hospital Care Settings**|Paolo Gabriel et.al.|[2412.13152v1](http://arxiv.org/abs/2412.13152v1)|null|
+|**2024-12-17**|**Label Errors in the Tobacco3482 Dataset**|Gordon Lim et.al.|[2412.13140v1](http://arxiv.org/abs/2412.13140v1)|**[link](https://github.com/gordon-lim/tobacco3482-mistakes)**|
+|**2024-12-17**|**Unlocking the Potential of Digital Pathology: Novel Baselines for Compression**|Maximilian Fischer et.al.|[2412.13137v1](http://arxiv.org/abs/2412.13137v1)|null|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091v1](http://arxiv.org/abs/2412.12091v1)|null|
 |**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087v1](http://arxiv.org/abs/2412.12087v1)|null|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077v1](http://arxiv.org/abs/2412.12077v1)|null|
@@ -6271,6 +6281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Evolution and final fates of low- and intermediate-mass stars**|Alessandro Bressan et.al.|[2412.13039v1](http://arxiv.org/abs/2412.13039v1)|null|
+|**2024-12-17**|**RCLMuFN: Relational Context Learning and Multiplex Fusion Network for Multimodal Sarcasm Detection**|Tongguan Wang et.al.|[2412.13008v1](http://arxiv.org/abs/2412.13008v1)|null|
+|**2024-12-17**|**Multi-View Incremental Learning with Structured Hebbian Plasticity for Enhanced Fusion Efficiency**|Yuhong Chen et.al.|[2412.12801v1](http://arxiv.org/abs/2412.12801v1)|null|
+|**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799v1](http://arxiv.org/abs/2412.12799v1)|**[link](https://github.com/liyih/rctrans)**|
+|**2024-12-17**|**Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation**|Shoukun Sun et.al.|[2412.12771v1](http://arxiv.org/abs/2412.12771v1)|null|
+|**2024-12-17**|**Deep Learning for Resilient Adversarial Decision Fusion in Byzantine Networks**|Kassem Kallas et.al.|[2412.12739v1](http://arxiv.org/abs/2412.12739v1)|null|
+|**2024-12-17**|**PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model**|Yuqing Wang et.al.|[2412.12737v1](http://arxiv.org/abs/2412.12737v1)|null|
+|**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725v1](http://arxiv.org/abs/2412.12725v1)|null|
+|**2024-12-17**|**MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert**|Dapeng Zhang et.al.|[2412.12704v1](http://arxiv.org/abs/2412.12704v1)|null|
+|**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu et.al.|[2412.12702v1](http://arxiv.org/abs/2412.12702v1)|null|
 |**2024-12-16**|**RepFace: Refining Closed-Set Noise with Progressive Label Correction for Face Recognition**|Jie Zhang et.al.|[2412.12031v1](http://arxiv.org/abs/2412.12031v1)|null|
 |**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001v1](http://arxiv.org/abs/2412.12001v1)|null|
 |**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866v1](http://arxiv.org/abs/2412.11866v1)|null|
