@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-12-18, **AniDoc: Animation Creation Made Easier**, Yihao Meng et.al., Paper: [http://arxiv.org/abs/2412.14173v1](http://arxiv.org/abs/2412.14173v1)
+- 2024-12-18, **Learning from Massive Human Videos for Universal Humanoid Pose Control**, Jiageng Mao et.al., Paper: [http://arxiv.org/abs/2412.14172v1](http://arxiv.org/abs/2412.14172v1)
+- 2024-12-18, **Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**, Jihan Yang et.al., Paper: [http://arxiv.org/abs/2412.14171v1](http://arxiv.org/abs/2412.14171v1), Code: **[https://github.com/vision-x-nyu/thinking-in-space](https://github.com/vision-x-nyu/thinking-in-space)**
+- 2024-12-18, **Autoregressive Video Generation without Vector Quantization**, Haoge Deng et.al., Paper: [http://arxiv.org/abs/2412.14169v1](http://arxiv.org/abs/2412.14169v1), Code: **[https://github.com/baaivision/nova](https://github.com/baaivision/nova)**
+- 2024-12-18, **VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**, Runtao Liu et.al., Paper: [http://arxiv.org/abs/2412.14167v1](http://arxiv.org/abs/2412.14167v1)
+- 2024-12-18, **AKiRa: Augmentation Kit on Rays for optical video generation**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2412.14158v1](http://arxiv.org/abs/2412.14158v1)
+- 2024-12-18, **AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**, Guillaume Astruc et.al., Paper: [http://arxiv.org/abs/2412.14123v1](http://arxiv.org/abs/2412.14123v1), Code: **[https://github.com/gastruc/anysat](https://github.com/gastruc/anysat)**
+- 2024-12-18, **GaraMoSt: Parallel Multi-Granularity Motion and Structural Modeling for Efficient Multi-Frame Interpolation in DSA Images**, Ziyang Xu et.al., Paper: [http://arxiv.org/abs/2412.14118v1](http://arxiv.org/abs/2412.14118v1), Code: **[https://github.com/zyoungxu/garamost](https://github.com/zyoungxu/garamost)**
+- 2024-12-18, **Parameter-efficient Fine-tuning for improved Convolutional Baseline for Brain Tumor Segmentation in Sub-Saharan Africa Adult Glioma Dataset**, Bijay Adhikari et.al., Paper: [http://arxiv.org/abs/2412.14100v1](http://arxiv.org/abs/2412.14100v1)
+- 2024-12-18, **Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts**, Jihye Choi et.al., Paper: [http://arxiv.org/abs/2412.14097v1](http://arxiv.org/abs/2412.14097v1)
 - 2024-12-17, **MotionBridge: Dynamic Video Inbetweening with Flexible Controls**, Maham Tanveer et.al., Paper: [http://arxiv.org/abs/2412.13190v1](http://arxiv.org/abs/2412.13190v1)
 - 2024-12-17, **StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**, Yunzhi Yan et.al., Paper: [http://arxiv.org/abs/2412.13188v1](http://arxiv.org/abs/2412.13188v1)
 - 2024-12-17, **HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**, Chen Bao et.al., Paper: [http://arxiv.org/abs/2412.13187v1](http://arxiv.org/abs/2412.13187v1)
@@ -6273,6 +6283,16 @@
 
 ## MultiModal
 
+- 2024-12-18, **Henry constant of helium in liquid lead-lithium alloys**, Edgar Alvarez-Galera et.al., Paper: [http://arxiv.org/abs/2412.14152v1](http://arxiv.org/abs/2412.14152v1)
+- 2024-12-18, **MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation**, Shenhao Zhu et.al., Paper: [http://arxiv.org/abs/2412.14148v1](http://arxiv.org/abs/2412.14148v1)
+- 2024-12-18, **A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future**, Shilin Sun et.al., Paper: [http://arxiv.org/abs/2412.14056v1](http://arxiv.org/abs/2412.14056v1), Code: **[https://github.com/shilinsun/mxai_review](https://github.com/shilinsun/mxai_review)**
+- 2024-12-18, **Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**, Haotong Lin et.al., Paper: [http://arxiv.org/abs/2412.14015v1](http://arxiv.org/abs/2412.14015v1)
+- 2024-12-18, **InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**, Cong Wei et.al., Paper: [http://arxiv.org/abs/2412.14006v1](http://arxiv.org/abs/2412.14006v1), Code: **[https://github.com/congvvc/instructseg](https://github.com/congvvc/instructseg)**
+- 2024-12-18, **MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**, Jinrui Zhang et.al., Paper: [http://arxiv.org/abs/2412.13848v1](http://arxiv.org/abs/2412.13848v1)
+- 2024-12-18, **Segregation, ordering, and precipitation in refractory alloys**, Jesper Byggmästar et.al., Paper: [http://arxiv.org/abs/2412.13750v1](http://arxiv.org/abs/2412.13750v1)
+- 2024-12-18, **Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**, Xin Su et.al., Paper: [http://arxiv.org/abs/2412.13749v1](http://arxiv.org/abs/2412.13749v1)
+- 2024-12-18, **USEFUSE: Utile Stride for Enhanced Performance in Fused Layer Architecture of Deep Neural Networks**, Muhammad Sohail Ibrahim et.al., Paper: [http://arxiv.org/abs/2412.13724v1](http://arxiv.org/abs/2412.13724v1)
+- 2024-12-18, **JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**, Taein Son et.al., Paper: [http://arxiv.org/abs/2412.13708v1](http://arxiv.org/abs/2412.13708v1), Code: **[https://github.com/taeiin/aaai2025-jovale](https://github.com/taeiin/aaai2025-jovale)**
 - 2024-12-17, **Evolution and final fates of low- and intermediate-mass stars**, Alessandro Bressan et.al., Paper: [http://arxiv.org/abs/2412.13039v1](http://arxiv.org/abs/2412.13039v1)
 - 2024-12-17, **RCLMuFN: Relational Context Learning and Multiplex Fusion Network for Multimodal Sarcasm Detection**, Tongguan Wang et.al., Paper: [http://arxiv.org/abs/2412.13008v1](http://arxiv.org/abs/2412.13008v1)
 - 2024-12-17, **Multi-View Incremental Learning with Structured Hebbian Plasticity for Enhanced Fusion Efficiency**, Yuhong Chen et.al., Paper: [http://arxiv.org/abs/2412.12801v1](http://arxiv.org/abs/2412.12801v1)
