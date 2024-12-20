@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214v1](http://arxiv.org/abs/2412.15214v1)|null|
+|**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
+|**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191v1](http://arxiv.org/abs/2412.15191v1)|null|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190v1](http://arxiv.org/abs/2412.15190v1)|null|
+|**2024-12-19**|**Surface-Based Authentication System for Integrated Circuit Chips**|Runze Liu et.al.|[2412.15186v1](http://arxiv.org/abs/2412.15186v1)|null|
+|**2024-12-19**|**Tiled Diffusion**|Or Madar et.al.|[2412.15185v1](http://arxiv.org/abs/2412.15185v1)|null|
+|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171v1](http://arxiv.org/abs/2412.15171v1)|null|
+|**2024-12-19**|**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**|Jiacheng Zhang et.al.|[2412.15159v1](http://arxiv.org/abs/2412.15159v1)|null|
+|**2024-12-19**|**Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**|Yatai Ji et.al.|[2412.15156v1](http://arxiv.org/abs/2412.15156v1)|**[link](https://github.com/jiyt17/prompt-a-video)**|
+|**2024-12-19**|**Cruise Control: Dynamic Model Selection for ML-Based Network Traffic Analysis**|Johann Hugon et.al.|[2412.15146v1](http://arxiv.org/abs/2412.15146v1)|null|
 |**2024-12-18**|**AniDoc: Animation Creation Made Easier**|Yihao Meng et.al.|[2412.14173v1](http://arxiv.org/abs/2412.14173v1)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172v1](http://arxiv.org/abs/2412.14172v1)|null|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171v1](http://arxiv.org/abs/2412.14171v1)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
@@ -6291,6 +6301,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191v1](http://arxiv.org/abs/2412.15191v1)|null|
+|**2024-12-19**|**Discriminating between Pseudoscalar Higgs and Toponium States at the LHC and Beyond**|Abdelhak Djouadi et.al.|[2412.15138v1](http://arxiv.org/abs/2412.15138v1)|null|
+|**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127v1](http://arxiv.org/abs/2412.15127v1)|null|
+|**2024-12-19**|**The pellet rocket effect in magnetic confinement fusion plasmas**|Nico J. Guth et.al.|[2412.15080v1](http://arxiv.org/abs/2412.15080v1)|null|
+|**2024-12-19**|**Compact Semisimple Tensor 2-Categories are Morita Connected**|Thibault D. Décoppet et.al.|[2412.15019v1](http://arxiv.org/abs/2412.15019v1)|null|
+|**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978v1](http://arxiv.org/abs/2412.14978v1)|null|
+|**2024-12-19**|**ThinCurr: An open-source 3D thin-wall eddy current modeling code for the analysis of large-scale systems of conducting structures**|Christopher Hansen et.al.|[2412.14962v1](http://arxiv.org/abs/2412.14962v1)|null|
+|**2024-12-19**|**PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation**|Shoumeng Qiu et.al.|[2412.14821v1](http://arxiv.org/abs/2412.14821v1)|**[link](https://github.com/skyshoumeng/pc-bev)**|
+|**2024-12-19**|**MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data**|Camillo Maria Caruso et.al.|[2412.14810v1](http://arxiv.org/abs/2412.14810v1)|null|
+|**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706v1](http://arxiv.org/abs/2412.14706v1)|null|
 |**2024-12-18**|**Henry constant of helium in liquid lead-lithium alloys**|Edgar Alvarez-Galera et.al.|[2412.14152v1](http://arxiv.org/abs/2412.14152v1)|null|
 |**2024-12-18**|**MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation**|Shenhao Zhu et.al.|[2412.14148v1](http://arxiv.org/abs/2412.14148v1)|null|
 |**2024-12-18**|**A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future**|Shilin Sun et.al.|[2412.14056v1](http://arxiv.org/abs/2412.14056v1)|**[link](https://github.com/shilinsun/mxai_review)**|
