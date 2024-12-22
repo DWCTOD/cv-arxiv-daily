@@ -1,4 +1,4 @@
-> Updated on 2024.12.21
+> Updated on 2024.12.22
 
 ## Video_Classification
 
@@ -6298,7 +6298,7 @@
 - 2024-12-19, **Adaptive Pruning for Large Language Models with Structural Importance Awareness**, Haotian Zheng et.al., Paper: [http://arxiv.org/abs/2412.15127v1](http://arxiv.org/abs/2412.15127v1)
 - 2024-12-19, **The pellet rocket effect in magnetic confinement fusion plasmas**, Nico J. Guth et.al., Paper: [http://arxiv.org/abs/2412.15080v1](http://arxiv.org/abs/2412.15080v1)
 - 2024-12-19, **Compact Semisimple Tensor 2-Categories are Morita Connected**, Thibault D. Décoppet et.al., Paper: [http://arxiv.org/abs/2412.15019v1](http://arxiv.org/abs/2412.15019v1)
-- 2024-12-19, **Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**, Rongqing Kenneth Ong et.al., Paper: [http://arxiv.org/abs/2412.14978v1](http://arxiv.org/abs/2412.14978v1)
+- 2024-12-19, **Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**, Rongqing Kenneth Ong et.al., Paper: [http://arxiv.org/abs/2412.14978v1](http://arxiv.org/abs/2412.14978v1), Code: **[https://github.com/kennethorq/smore](https://github.com/kennethorq/smore)**
 - 2024-12-19, **ThinCurr: An open-source 3D thin-wall eddy current modeling code for the analysis of large-scale systems of conducting structures**, Christopher Hansen et.al., Paper: [http://arxiv.org/abs/2412.14962v1](http://arxiv.org/abs/2412.14962v1)
 - 2024-12-19, **PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation**, Shoumeng Qiu et.al., Paper: [http://arxiv.org/abs/2412.14821v1](http://arxiv.org/abs/2412.14821v1), Code: **[https://github.com/skyshoumeng/pc-bev](https://github.com/skyshoumeng/pc-bev)**
 - 2024-12-19, **MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data**, Camillo Maria Caruso et.al., Paper: [http://arxiv.org/abs/2412.14810v1](http://arxiv.org/abs/2412.14810v1)
