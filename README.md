@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155v1](http://arxiv.org/abs/2412.16155v1)|null|
+|**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153v1](http://arxiv.org/abs/2412.16153v1)|null|
+|**2024-12-20**|**Shape Shifters: Does Body Shape Change the Perception of Small-Scale Crowd Motions?**|Bharat Vyas et.al.|[2412.16151v1](http://arxiv.org/abs/2412.16151v1)|null|
+|**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147v1](http://arxiv.org/abs/2412.16147v1)|null|
+|**2024-12-20**|**Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks**|Enis Baty et.al.|[2412.16146v1](http://arxiv.org/abs/2412.16146v1)|null|
+|**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144v1](http://arxiv.org/abs/2412.16144v1)|null|
+|**2024-12-20**|**Deciphering the Underserved: Benchmarking LLM OCR for Low-Resource Scripts**|Muhammad Abdullah Sohail et.al.|[2412.16119v1](http://arxiv.org/abs/2412.16119v1)|**[link](https://github.com/abdullahsohaill/cs6303-researchproject)**|
+|**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117v1](http://arxiv.org/abs/2412.16117v1)|**[link](https://github.com/visual-ai/prunevid)**|
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086v1](http://arxiv.org/abs/2412.16086v1)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
+|**2024-12-20**|**Efficient MedSAMs: Segment Anything in Medical Images on Laptop**|Jun Ma et.al.|[2412.16085v1](http://arxiv.org/abs/2412.16085v1)|**[link](https://github.com/bowang-lab/medsam)**|
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214v1](http://arxiv.org/abs/2412.15214v1)|null|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
 |**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191v1](http://arxiv.org/abs/2412.15191v1)|null|
@@ -6297,6 +6307,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**EF-Net: A Deep Learning Approach Combining Word Embeddings and Feature Fusion for Patient Disposition Analysis**|Nafisa Binte Feroz et.al.|[2412.16134v1](http://arxiv.org/abs/2412.16134v1)|**[link](https://github.com/nafisa67/thesis)**|
+|**2024-12-20**|**Explainable AI for Multivariate Time Series Pattern Exploration: Latent Space Visual Analytics with Time Fusion Transformer and Variational Autoencoders in Power Grid Event Diagnosis**|Haowen Xu et.al.|[2412.16098v1](http://arxiv.org/abs/2412.16098v1)|null|
+|**2024-12-20**|**Dimension-8 operators in $W^+W^-$ production via gluon fusion**|Daniel Gillies et.al.|[2412.16020v1](http://arxiv.org/abs/2412.16020v1)|null|
+|**2024-12-20**|**Stability conditions and Artin--Tits groups**|Edmund Heng et.al.|[2412.15919v1](http://arxiv.org/abs/2412.15919v1)|null|
+|**2024-12-20**|**The effect of plasmoid drifts on the pellet rocket effect in magnetic confinement fusion plasmas**|N. J. Guth et.al.|[2412.15824v1](http://arxiv.org/abs/2412.15824v1)|null|
+|**2024-12-20**|**Precision ICU Resource Planning: A Multimodal Model for Brain Surgery Outcomes**|Maximilian Fischer et.al.|[2412.15818v1](http://arxiv.org/abs/2412.15818v1)|null|
+|**2024-12-20**|**Complete Fusion for Stateful Streams: Equational Theory of Stateful Streams and Fusion as Normalization-by-Evaluation**|Oleg Kiselyov et.al.|[2412.15768v1](http://arxiv.org/abs/2412.15768v1)|null|
+|**2024-12-20**|**Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking**|Xiantao Hu et.al.|[2412.15691v1](http://arxiv.org/abs/2412.15691v1)|null|
+|**2024-12-20**|**A Fusion Approach of Dependency Syntax and Sentiment Polarity for Feature Label Extraction in Commodity Reviews**|Jianfei Xu et.al.|[2412.15610v1](http://arxiv.org/abs/2412.15610v1)|null|
+|**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577v1](http://arxiv.org/abs/2412.15577v1)|null|
 |**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191v1](http://arxiv.org/abs/2412.15191v1)|null|
 |**2024-12-19**|**Discriminating between Pseudoscalar Higgs and Toponium States at the LHC and Beyond**|Abdelhak Djouadi et.al.|[2412.15138v1](http://arxiv.org/abs/2412.15138v1)|null|
 |**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127v1](http://arxiv.org/abs/2412.15127v1)|null|
