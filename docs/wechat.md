@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-12-23, **FaceLift: Single Image to 3D Head with View Generation and GS-LRM**, Weijie Lyu et.al., Paper: [http://arxiv.org/abs/2412.17812v1](http://arxiv.org/abs/2412.17812v1)
+- 2024-12-23, **Large Motion Video Autoencoding with Cross-modal Video VAE**, Yazhou Xing et.al., Paper: [http://arxiv.org/abs/2412.17805v1](http://arxiv.org/abs/2412.17805v1)
+- 2024-12-23, **GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**, Yidi Shao et.al., Paper: [http://arxiv.org/abs/2412.17804v1](http://arxiv.org/abs/2412.17804v1)
+- 2024-12-23, **Classification of exchange relation planar algebras through sieving forest fusion graphs**, Fan Lu et.al., Paper: [http://arxiv.org/abs/2412.17790v1](http://arxiv.org/abs/2412.17790v1)
+- 2024-12-23, **Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**, Priyaranjan Pattnayak et.al., Paper: [http://arxiv.org/abs/2412.17759v1](http://arxiv.org/abs/2412.17759v1)
+- 2024-12-23, **Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth**, Maria Chudnovsky et.al., Paper: [http://arxiv.org/abs/2412.17756v1](http://arxiv.org/abs/2412.17756v1)
+- 2024-12-23, **LASE: Learned Adjacency Spectral Embeddings**, Sofía Pérez Casulo et.al., Paper: [http://arxiv.org/abs/2412.17734v1](http://arxiv.org/abs/2412.17734v1)
+- 2024-12-23, **VidTwin: Video VAE with Decoupled Structure and Dynamics**, Yuchi Wang et.al., Paper: [http://arxiv.org/abs/2412.17726v1](http://arxiv.org/abs/2412.17726v1), Code: **[https://github.com/microsoft/vidtok](https://github.com/microsoft/vidtok)**
+- 2024-12-23, **MRANet: A Modified Residual Attention Networks for Lung and Colon Cancer Classification**, Diponkor Bala et.al., Paper: [http://arxiv.org/abs/2412.17700v1](http://arxiv.org/abs/2412.17700v1)
+- 2024-12-23, **An efficient volume-preserving MBO scheme for data clustering and classification**, Fabius Krämer et.al., Paper: [http://arxiv.org/abs/2412.17694v1](http://arxiv.org/abs/2412.17694v1)
 - 2024-12-20, **Can Generative Video Models Help Pose Estimation?**, Ruojin Cai et.al., Paper: [http://arxiv.org/abs/2412.16155v1](http://arxiv.org/abs/2412.16155v1)
 - 2024-12-20, **MotiF: Making Text Count in Image Animation with Motion Focal Loss**, Shijie Wang et.al., Paper: [http://arxiv.org/abs/2412.16153v1](http://arxiv.org/abs/2412.16153v1)
 - 2024-12-20, **Shape Shifters: Does Body Shape Change the Perception of Small-Scale Crowd Motions?**, Bharat Vyas et.al., Paper: [http://arxiv.org/abs/2412.16151v1](http://arxiv.org/abs/2412.16151v1)
@@ -6303,6 +6313,16 @@
 
 ## MultiModal
 
+- 2024-12-23, **Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution**, Orchid Chetia Phukan et.al., Paper: [http://arxiv.org/abs/2412.17796v1](http://arxiv.org/abs/2412.17796v1)
+- 2024-12-23, **Classification of exchange relation planar algebras through sieving forest fusion graphs**, Fan Lu et.al., Paper: [http://arxiv.org/abs/2412.17790v1](http://arxiv.org/abs/2412.17790v1)
+- 2024-12-23, **Rigidity of non-negligible objects of moderate growth in braided categories**, Pavel Etingof et.al., Paper: [http://arxiv.org/abs/2412.17681v1](http://arxiv.org/abs/2412.17681v1)
+- 2024-12-23, **Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**, Fenfang Tao et.al., Paper: [http://arxiv.org/abs/2412.17619v1](http://arxiv.org/abs/2412.17619v1), Code: **[https://github.com/cvl-hub/kag-prompt](https://github.com/cvl-hub/kag-prompt)**
+- 2024-12-23, **V$^2$-SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**, Long Bai et.al., Paper: [http://arxiv.org/abs/2412.17595v1](http://arxiv.org/abs/2412.17595v1)
+- 2024-12-23, **HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**, Murat Isik et.al., Paper: [http://arxiv.org/abs/2412.17571v1](http://arxiv.org/abs/2412.17571v1)
+- 2024-12-23, **Tri-Spectral PPG: Robust Reflective Photoplethysmography by Fusing Multiple Wavelengths for Cardiac Monitoring**, Manuel Meier et.al., Paper: [http://arxiv.org/abs/2412.17549v1](http://arxiv.org/abs/2412.17549v1)
+- 2024-12-23, **Robust Heart Rate Detection via Multi-Site Photoplethysmography**, Manuel Meier et.al., Paper: [http://arxiv.org/abs/2412.17538v1](http://arxiv.org/abs/2412.17538v1)
+- 2024-12-23, **PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**, Mattias Paul Heinrich et.al., Paper: [http://arxiv.org/abs/2412.17390v1](http://arxiv.org/abs/2412.17390v1)
+- 2024-12-23, **Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective**, Kaifang Long et.al., Paper: [http://arxiv.org/abs/2412.17297v1](http://arxiv.org/abs/2412.17297v1)
 - 2024-12-20, **EF-Net: A Deep Learning Approach Combining Word Embeddings and Feature Fusion for Patient Disposition Analysis**, Nafisa Binte Feroz et.al., Paper: [http://arxiv.org/abs/2412.16134v1](http://arxiv.org/abs/2412.16134v1), Code: **[https://github.com/nafisa67/thesis](https://github.com/nafisa67/thesis)**
 - 2024-12-20, **Explainable AI for Multivariate Time Series Pattern Exploration: Latent Space Visual Analytics with Time Fusion Transformer and Variational Autoencoders in Power Grid Event Diagnosis**, Haowen Xu et.al., Paper: [http://arxiv.org/abs/2412.16098v1](http://arxiv.org/abs/2412.16098v1)
 - 2024-12-20, **Dimension-8 operators in $W^+W^-$ production via gluon fusion**, Daniel Gillies et.al., Paper: [http://arxiv.org/abs/2412.16020v1](http://arxiv.org/abs/2412.16020v1)
