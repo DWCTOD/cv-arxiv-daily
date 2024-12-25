@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2024-12-24, **Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**, Jinhui Yi et.al., Paper: [http://arxiv.org/abs/2412.18609v1](http://arxiv.org/abs/2412.18609v1), Code: **[https://github.com/jh-yi/video-panda](https://github.com/jh-yi/video-panda)**
+- 2024-12-24, **DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**, Yuntao Chen et.al., Paper: [http://arxiv.org/abs/2412.18607v1](http://arxiv.org/abs/2412.18607v1)
+- 2024-12-24, **ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**, Hongjie Li et.al., Paper: [http://arxiv.org/abs/2412.18600v1](http://arxiv.org/abs/2412.18600v1)
+- 2024-12-24, **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**, Minghong Cai et.al., Paper: [http://arxiv.org/abs/2412.18597v1](http://arxiv.org/abs/2412.18597v1), Code: **[https://github.com/tencentarc/ditctrl](https://github.com/tencentarc/ditctrl)**
+- 2024-12-24, **ClassifyViStA:WCE Classification with Visual understanding through Segmentation and Attention**, S. Balasubramanian et.al., Paper: [http://arxiv.org/abs/2412.18591v1](http://arxiv.org/abs/2412.18591v1), Code: **[https://github.com/1980x/WCEClassifyViStA](https://github.com/1980x/WCEClassifyViStA)**
+- 2024-12-24, **Text-Driven Tumor Synthesis**, Xinran Li et.al., Paper: [http://arxiv.org/abs/2412.18589v1](http://arxiv.org/abs/2412.18589v1)
+- 2024-12-24, **Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**, Anselm Krainovic et.al., Paper: [http://arxiv.org/abs/2412.18584v1](http://arxiv.org/abs/2412.18584v1)
+- 2024-12-24, **New method of image processing via statistical analysis for application in intelligent systems**, Monalisa Cavalcante et.al., Paper: [http://arxiv.org/abs/2412.18575v1](http://arxiv.org/abs/2412.18575v1)
+- 2024-12-24, **3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement**, Yihang Luo et.al., Paper: [http://arxiv.org/abs/2412.18565v1](http://arxiv.org/abs/2412.18565v1)
+- 2024-12-24, **Distilling Fine-grained Sentiment Understanding from Large Language Models**, Yice Zhang et.al., Paper: [http://arxiv.org/abs/2412.18552v1](http://arxiv.org/abs/2412.18552v1), Code: **[https://github.com/hitsz-hlt/fsa-distillation](https://github.com/hitsz-hlt/fsa-distillation)**
 - 2024-12-23, **FaceLift: Single Image to 3D Head with View Generation and GS-LRM**, Weijie Lyu et.al., Paper: [http://arxiv.org/abs/2412.17812v1](http://arxiv.org/abs/2412.17812v1)
 - 2024-12-23, **Large Motion Video Autoencoding with Cross-modal Video VAE**, Yazhou Xing et.al., Paper: [http://arxiv.org/abs/2412.17805v1](http://arxiv.org/abs/2412.17805v1)
 - 2024-12-23, **GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**, Yidi Shao et.al., Paper: [http://arxiv.org/abs/2412.17804v1](http://arxiv.org/abs/2412.17804v1)
@@ -6313,6 +6323,16 @@
 
 ## MultiModal
 
+- 2024-12-24, **Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**, Fernando Jia et.al., Paper: [http://arxiv.org/abs/2412.18601v1](http://arxiv.org/abs/2412.18601v1)
+- 2024-12-24, **A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**, OpenMind et.al., Paper: [http://arxiv.org/abs/2412.18588v1](http://arxiv.org/abs/2412.18588v1)
+- 2024-12-24, **Amplifier scheme: driven by indirect-drive under 10 MJ laser toward inertial fusion energy**, Yongsheng Li et.al., Paper: [http://arxiv.org/abs/2412.18455v1](http://arxiv.org/abs/2412.18455v1)
+- 2024-12-24, **MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**, Abdelmadjid Chergui et.al., Paper: [http://arxiv.org/abs/2412.18437v1](http://arxiv.org/abs/2412.18437v1), Code: **[https://github.com/Madjid-CH/auto-mixer](https://github.com/Madjid-CH/auto-mixer)**
+- 2024-12-24, **RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**, Yiling Yao et.al., Paper: [http://arxiv.org/abs/2412.18380v1](http://arxiv.org/abs/2412.18380v1)
+- 2024-12-24, **Addressing Spatial-Temporal Data Heterogeneity in Federated Continual Learning via Tail Anchor**, Hao Yu et.al., Paper: [http://arxiv.org/abs/2412.18355v1](http://arxiv.org/abs/2412.18355v1)
+- 2024-12-24, **RaCMC: Residual-Aware Compensation Network with Multi-Granularity Constraints for Fake News Detection**, Xinquan Yu et.al., Paper: [http://arxiv.org/abs/2412.18254v1](http://arxiv.org/abs/2412.18254v1)
+- 2024-12-24, **Band Prompting Aided SAR and Multi-Spectral Data Fusion Framework for Local Climate Zone Classification**, Haiyan Lan et.al., Paper: [http://arxiv.org/abs/2412.18235v1](http://arxiv.org/abs/2412.18235v1)
+- 2024-12-24, **Sharper Error Bounds in Late Fusion Multi-view Clustering Using Eigenvalue Proportion**, Liang Du et.al., Paper: [http://arxiv.org/abs/2412.18207v1](http://arxiv.org/abs/2412.18207v1)
+- 2024-12-24, **$N=1$ super Virasoro tensor categories**, Thomas Creutzig et.al., Paper: [http://arxiv.org/abs/2412.18127v1](http://arxiv.org/abs/2412.18127v1)
 - 2024-12-23, **Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution**, Orchid Chetia Phukan et.al., Paper: [http://arxiv.org/abs/2412.17796v1](http://arxiv.org/abs/2412.17796v1)
 - 2024-12-23, **Classification of exchange relation planar algebras through sieving forest fusion graphs**, Fan Lu et.al., Paper: [http://arxiv.org/abs/2412.17790v1](http://arxiv.org/abs/2412.17790v1)
 - 2024-12-23, **Rigidity of non-negligible objects of moderate growth in braided categories**, Pavel Etingof et.al., Paper: [http://arxiv.org/abs/2412.17681v1](http://arxiv.org/abs/2412.17681v1)
