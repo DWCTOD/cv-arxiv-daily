@@ -1,4 +1,4 @@
-> Updated on 2024.12.28
+> Updated on 2024.12.29
 
 ## Video_Classification
 
@@ -6323,7 +6323,7 @@
 
 ## MultiModal
 
-- 2024-12-24, **Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**, Fernando Jia et.al., Paper: [http://arxiv.org/abs/2412.18601v1](http://arxiv.org/abs/2412.18601v1)
+- 2024-12-24, **Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**, Fernando Jia et.al., Paper: [http://arxiv.org/abs/2412.18601v1](http://arxiv.org/abs/2412.18601v1), Code: **[https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**
 - 2024-12-24, **A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**, OpenMind et.al., Paper: [http://arxiv.org/abs/2412.18588v1](http://arxiv.org/abs/2412.18588v1)
 - 2024-12-24, **Amplifier scheme: driven by indirect-drive under 10 MJ laser toward inertial fusion energy**, Yongsheng Li et.al., Paper: [http://arxiv.org/abs/2412.18455v1](http://arxiv.org/abs/2412.18455v1)
 - 2024-12-24, **MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**, Abdelmadjid Chergui et.al., Paper: [http://arxiv.org/abs/2412.18437v1](http://arxiv.org/abs/2412.18437v1), Code: **[https://github.com/Madjid-CH/auto-mixer](https://github.com/Madjid-CH/auto-mixer)**
