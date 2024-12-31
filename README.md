@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206v1](http://arxiv.org/abs/2412.21206v1)|null|
+|**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|null|
+|**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|
+|**2024-12-30**|**Classification of del Pezzo surfaces of rank one. I. Height 1 and 2. II. Descendants with elliptic boundaries**|Karol Palka et.al.|[2412.21174v1](http://arxiv.org/abs/2412.21174v1)|null|
+|**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164v1](http://arxiv.org/abs/2412.21164v1)|null|
+|**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161v1](http://arxiv.org/abs/2412.21161v1)|null|
+|**2024-12-30**|**Unified dimensionality reduction techniques in chronic liver disease detection**|Anand Karna et.al.|[2412.21156v1](http://arxiv.org/abs/2412.21156v1)|null|
+|**2024-12-30**|**Irreducible representations of welded braid group**|Inna Sysoeva et.al.|[2412.21133v1](http://arxiv.org/abs/2412.21133v1)|null|
+|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130v1](http://arxiv.org/abs/2412.21130v1)|null|
+|**2024-12-30**|**All toric Kahler surfaces with twistor 2-forms**|Sergei G. Ovchinnikov et.al.|[2412.21114v1](http://arxiv.org/abs/2412.21114v1)|null|
 |**2024-12-27**|**Streamlined Krylov construction and classification of ergodic Floquet systems**|Nikita Kolganov et.al.|[2412.19797v1](http://arxiv.org/abs/2412.19797v1)|null|
 |**2024-12-27**|**MVTamperBench: Evaluating Robustness of Vision-Language Models**|Amit Agarwal et.al.|[2412.19794v1](http://arxiv.org/abs/2412.19794v1)|null|
 |**2024-12-27**|**Machine Learning for Sentiment Analysis of Imported Food in Trinidad and Tobago**|Cassandra Daniels et.al.|[2412.19781v1](http://arxiv.org/abs/2412.19781v1)|null|
@@ -6337,6 +6347,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**|Clay Cordova et.al.|[2412.21153v1](http://arxiv.org/abs/2412.21153v1)|null|
+|**2024-12-30**|**Braidings for Non-Split Tambara-Yamagami Categories over the Reals**|David Green et.al.|[2412.21012v1](http://arxiv.org/abs/2412.21012v1)|null|
+|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|null|
+|**2024-12-30**|**Tensor structure on the module category of the triplet superalgebra $\mathcal{SW}(m)$**|Hiromu Nakano et.al.|[2412.20898v1](http://arxiv.org/abs/2412.20898v1)|null|
+|**2024-12-30**|**LiDAR-Camera Fusion for Video Panoptic Segmentation without Video Training**|Fardin Ayar et.al.|[2412.20881v1](http://arxiv.org/abs/2412.20881v1)|null|
+|**2024-12-30**|**FastCHGNet: Training one Universal Interatomic Potential to 1.5 Hours with 32 GPUs**|Yuanchang Zhou et.al.|[2412.20796v1](http://arxiv.org/abs/2412.20796v1)|null|
+|**2024-12-30**|**DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles**|Chengyue Wang et.al.|[2412.20784v1](http://arxiv.org/abs/2412.20784v1)|null|
+|**2024-12-30**|**Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**|Venkata Sai Chandra Prasanth Narisetty et.al.|[2412.20688v1](http://arxiv.org/abs/2412.20688v1)|null|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645v1](http://arxiv.org/abs/2412.20645v1)|null|
+|**2024-12-29**|**Non-invertible SPTs: an on-site realization of (1+1)d anomaly-free fusion category symmetry**|Chenqi Meng et.al.|[2412.20546v1](http://arxiv.org/abs/2412.20546v1)|null|
 |**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia et.al.|[2412.19657v1](http://arxiv.org/abs/2412.19657v1)|null|
 |**2024-12-27**|**$μ^-μ^+\to {ν_μ}\barν_μt\bar{t}H$ amplitudes in the Feynman-diagram gauge**|Ya-Juan Zheng et.al.|[2412.19620v1](http://arxiv.org/abs/2412.19620v1)|null|
 |**2024-12-27**|**ViDTA: Enhanced Drug-Target Affinity Prediction via Virtual Graph Nodes and Attention-based Feature Fusion**|Minghui Li et.al.|[2412.19589v1](http://arxiv.org/abs/2412.19589v1)|null|
