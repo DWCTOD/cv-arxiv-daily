@@ -1,4 +1,4 @@
-> Updated on 2025.01.01
+> Updated on 2025.01.02
 
 ## Video_Classification
 
@@ -6345,7 +6345,7 @@
 
 - 2024-12-30, **Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**, Clay Cordova et.al., Paper: [http://arxiv.org/abs/2412.21153v1](http://arxiv.org/abs/2412.21153v1)
 - 2024-12-30, **Braidings for Non-Split Tambara-Yamagami Categories over the Reals**, David Green et.al., Paper: [http://arxiv.org/abs/2412.21012v1](http://arxiv.org/abs/2412.21012v1)
-- 2024-12-30, **Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**, Peng Jin et.al., Paper: [http://arxiv.org/abs/2412.20964v1](http://arxiv.org/abs/2412.20964v1)
+- 2024-12-30, **Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**, Peng Jin et.al., Paper: [http://arxiv.org/abs/2412.20964v1](http://arxiv.org/abs/2412.20964v1), Code: **[https://github.com/jpthu17/HBI](https://github.com/jpthu17/HBI)**
 - 2024-12-30, **Tensor structure on the module category of the triplet superalgebra $\mathcal{SW}(m)$**, Hiromu Nakano et.al., Paper: [http://arxiv.org/abs/2412.20898v1](http://arxiv.org/abs/2412.20898v1)
 - 2024-12-30, **LiDAR-Camera Fusion for Video Panoptic Segmentation without Video Training**, Fardin Ayar et.al., Paper: [http://arxiv.org/abs/2412.20881v1](http://arxiv.org/abs/2412.20881v1)
 - 2024-12-30, **FastCHGNet: Training one Universal Interatomic Potential to 1.5 Hours with 32 GPUs**, Yuanchang Zhou et.al., Paper: [http://arxiv.org/abs/2412.20796v1](http://arxiv.org/abs/2412.20796v1)
