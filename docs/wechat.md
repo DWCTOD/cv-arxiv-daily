@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-01-02, **GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**, Zhangyang Qi et.al., Paper: [http://arxiv.org/abs/2501.01428v1](http://arxiv.org/abs/2501.01428v1)
+- 2025-01-02, **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2501.01427v1](http://arxiv.org/abs/2501.01427v1)
+- 2025-01-02, **Unifying Specialized Visual Encoders for Video Language Models**, Jihoon Chung et.al., Paper: [http://arxiv.org/abs/2501.01426v1](http://arxiv.org/abs/2501.01426v1)
+- 2025-01-02, **Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**, Xincheng Shuai et.al., Paper: [http://arxiv.org/abs/2501.01425v1](http://arxiv.org/abs/2501.01425v1)
+- 2025-01-02, **Multi-Modal Video Feature Extraction for Popularity Prediction**, Haixu Liu et.al., Paper: [http://arxiv.org/abs/2501.01422v1](http://arxiv.org/abs/2501.01422v1)
+- 2025-01-02, **A Multi-task Supervised Compression Model for Split Computing**, Yoshitomo Matsubara et.al., Paper: [http://arxiv.org/abs/2501.01420v1](http://arxiv.org/abs/2501.01420v1)
+- 2025-01-02, **On Unifying Video Generation and Camera Pose Estimation**, Chun-Hao Paul Huang et.al., Paper: [http://arxiv.org/abs/2501.01409v1](http://arxiv.org/abs/2501.01409v1)
+- 2025-01-02, **nnY-Net: Swin-NeXt with Cross-Attention for 3D Medical Images Segmentation**, Haixu Liu et.al., Paper: [http://arxiv.org/abs/2501.01406v1](http://arxiv.org/abs/2501.01406v1)
+- 2025-01-02, **VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**, Akam Rahimi et.al., Paper: [http://arxiv.org/abs/2501.01401v1](http://arxiv.org/abs/2501.01401v1)
+- 2025-01-02, **ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer**, Xuyin Qi et.al., Paper: [http://arxiv.org/abs/2501.01392v1](http://arxiv.org/abs/2501.01392v1)
 - 2024-12-30, **PERSE: Personalized 3D Generative Avatars from A Single Portrait**, Hyunsoo Cha et.al., Paper: [http://arxiv.org/abs/2412.21206v1](http://arxiv.org/abs/2412.21206v1)
 - 2024-12-30, **Action-Agnostic Point-Level Supervision for Temporal Action Detection**, Shuhei M. Yoshida et.al., Paper: [http://arxiv.org/abs/2412.21205v1](http://arxiv.org/abs/2412.21205v1), Code: **[https://github.com/smy-nec/aapl](https://github.com/smy-nec/aapl)**
 - 2024-12-30, **A Large-Scale Study on Video Action Dataset Condensation**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2412.21197v1](http://arxiv.org/abs/2412.21197v1)
@@ -6343,6 +6353,16 @@
 
 ## MultiModal
 
+- 2025-01-02, **OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2501.01384v1](http://arxiv.org/abs/2501.01384v1)
+- 2025-01-02, **Real-time Cross-modal Cybersickness Prediction in Virtual Reality**, Yitong Zhu et.al., Paper: [http://arxiv.org/abs/2501.01212v1](http://arxiv.org/abs/2501.01212v1)
+- 2025-01-02, **Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**, Humaira Kousar et.al., Paper: [http://arxiv.org/abs/2501.01118v1](http://arxiv.org/abs/2501.01118v1)
+- 2025-01-02, **EliGen: Entity-Level Controlled Image Generation with Regional Attention**, Hong Zhang et.al., Paper: [http://arxiv.org/abs/2501.01097v1](http://arxiv.org/abs/2501.01097v1)
+- 2025-01-02, **BeliN: A Novel Corpus for Bengali Religious News Headline Generation using Contextual Feature Fusion**, Md Osama et.al., Paper: [http://arxiv.org/abs/2501.01069v1](http://arxiv.org/abs/2501.01069v1)
+- 2025-01-02, **Enhancing Precision of Automated Teller Machines Network Quality Assessment: Machine Learning and Multi Classifier Fusion Approaches**, Alireza Safarzadeh et.al., Paper: [http://arxiv.org/abs/2501.01067v1](http://arxiv.org/abs/2501.01067v1)
+- 2025-01-02, **MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2501.01037v1](http://arxiv.org/abs/2501.01037v1)
+- 2025-01-01, **Deconstructing the emission order of protons, neutrons and $α$-particles following fusion in $^{28,30,32}$Si + $^{28}$Si**, Rohit Kumar et.al., Paper: [http://arxiv.org/abs/2501.00963v1](http://arxiv.org/abs/2501.00963v1)
+- 2025-01-01, **Scale-wise Bidirectional Alignment Network for Referring Remote Sensing Image Segmentation**, Kun Li et.al., Paper: [http://arxiv.org/abs/2501.00851v1](http://arxiv.org/abs/2501.00851v1)
+- 2025-01-01, **FusionSORT: Fusion Methods for Online Multi-object Visual Tracking**, Nathanael L. Baisa et.al., Paper: [http://arxiv.org/abs/2501.00843v1](http://arxiv.org/abs/2501.00843v1)
 - 2024-12-30, **Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**, Clay Cordova et.al., Paper: [http://arxiv.org/abs/2412.21153v1](http://arxiv.org/abs/2412.21153v1)
 - 2024-12-30, **Braidings for Non-Split Tambara-Yamagami Categories over the Reals**, David Green et.al., Paper: [http://arxiv.org/abs/2412.21012v1](http://arxiv.org/abs/2412.21012v1)
 - 2024-12-30, **Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**, Peng Jin et.al., Paper: [http://arxiv.org/abs/2412.20964v1](http://arxiv.org/abs/2412.20964v1), Code: **[https://github.com/jpthu17/HBI](https://github.com/jpthu17/HBI)**
