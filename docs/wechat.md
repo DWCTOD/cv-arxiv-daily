@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-01-03, **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**, Chaoyou Fu et.al., Paper: [http://arxiv.org/abs/2501.01957v1](http://arxiv.org/abs/2501.01957v1)
+- 2025-01-03, **VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**, Wenyan Cong et.al., Paper: [http://arxiv.org/abs/2501.01949v1](http://arxiv.org/abs/2501.01949v1)
+- 2025-01-03, **Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models**, Manh Duong Nguyen et.al., Paper: [http://arxiv.org/abs/2501.01932v1](http://arxiv.org/abs/2501.01932v1)
+- 2025-01-03, **GoBERT: Gene Ontology Graph Informed BERT for Universal Gene Function Prediction**, Yuwei Miao et.al., Paper: [http://arxiv.org/abs/2501.01930v1](http://arxiv.org/abs/2501.01930v1)
+- 2025-01-03, **Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing**, Po-Wei Tang et.al., Paper: [http://arxiv.org/abs/2501.01924v1](http://arxiv.org/abs/2501.01924v1)
+- 2025-01-03, **Structural and Statistical Audio Texture Knowledge Distillation (SSATKD) for Passive Sonar Classification**, Jarin Ritu et.al., Paper: [http://arxiv.org/abs/2501.01921v1](http://arxiv.org/abs/2501.01921v1)
+- 2025-01-03, **Exoplanet Detection via Differentiable Rendering**, Brandon Y. Feng et.al., Paper: [http://arxiv.org/abs/2501.01912v1](http://arxiv.org/abs/2501.01912v1)
+- 2025-01-03, **EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**, Siyuan Huang et.al., Paper: [http://arxiv.org/abs/2501.01895v1](http://arxiv.org/abs/2501.01895v1)
+- 2025-01-03, **ANTHROPOS-V: benchmarking the novel task of Crowd Volume Estimation**, Luca Collorone et.al., Paper: [http://arxiv.org/abs/2501.01877v1](http://arxiv.org/abs/2501.01877v1)
+- 2025-01-03, **Extensions of finite irreducible modules over rank two Lie conformal algebra**, Lipeng Luo et.al., Paper: [http://arxiv.org/abs/2501.01870v1](http://arxiv.org/abs/2501.01870v1)
 - 2025-01-02, **GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**, Zhangyang Qi et.al., Paper: [http://arxiv.org/abs/2501.01428v1](http://arxiv.org/abs/2501.01428v1)
 - 2025-01-02, **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2501.01427v1](http://arxiv.org/abs/2501.01427v1)
 - 2025-01-02, **Unifying Specialized Visual Encoders for Video Language Models**, Jihoon Chung et.al., Paper: [http://arxiv.org/abs/2501.01426v1](http://arxiv.org/abs/2501.01426v1)
@@ -6353,6 +6363,16 @@
 
 ## MultiModal
 
+- 2025-01-03, **Fusion DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic Flows on Arbitrary Grids**, Ahmad Peyvan et.al., Paper: [http://arxiv.org/abs/2501.01934v1](http://arxiv.org/abs/2501.01934v1)
+- 2025-01-03, **Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**, Jiajia Liang et.al., Paper: [http://arxiv.org/abs/2501.01864v1](http://arxiv.org/abs/2501.01864v1)
+- 2025-01-03, **UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery**, Huaxiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.01855v1](http://arxiv.org/abs/2501.01855v1)
+- 2025-01-03, **End-to-End Long Document Summarization using Gradient Caching**, Rohit Saxena et.al., Paper: [http://arxiv.org/abs/2501.01805v1](http://arxiv.org/abs/2501.01805v1)
+- 2025-01-03, **Remodeling Peptide-MHC-TCR Triad Binding as Sequence Fusion for Immunogenicity Prediction**, Jiahao Ma et.al., Paper: [http://arxiv.org/abs/2501.01768v1](http://arxiv.org/abs/2501.01768v1)
+- 2025-01-03, **Topological quantum compilation of metaplectic anyons**, Jiangwei Long et.al., Paper: [http://arxiv.org/abs/2501.01745v1](http://arxiv.org/abs/2501.01745v1)
+- 2025-01-03, **Multi-modal classification of forest biodiversity potential from 2D orthophotos and 3D airborne laser scanning point clouds**, Simon B. Jensen et.al., Paper: [http://arxiv.org/abs/2501.01728v1](http://arxiv.org/abs/2501.01728v1)
+- 2025-01-03, **IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**, Athanasios Tragakis et.al., Paper: [http://arxiv.org/abs/2501.01723v1](http://arxiv.org/abs/2501.01723v1)
+- 2025-01-03, **CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction**, Chenhao Zhang et.al., Paper: [http://arxiv.org/abs/2501.01695v1](http://arxiv.org/abs/2501.01695v1)
+- 2025-01-03, **VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2501.01691v1](http://arxiv.org/abs/2501.01691v1)
 - 2025-01-02, **OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**, Xize Cheng et.al., Paper: [http://arxiv.org/abs/2501.01384v1](http://arxiv.org/abs/2501.01384v1)
 - 2025-01-02, **Real-time Cross-modal Cybersickness Prediction in Virtual Reality**, Yitong Zhu et.al., Paper: [http://arxiv.org/abs/2501.01212v1](http://arxiv.org/abs/2501.01212v1)
 - 2025-01-02, **Pruning-based Data Selection and Network Fusion for Efficient Deep Learning**, Humaira Kousar et.al., Paper: [http://arxiv.org/abs/2501.01118v1](http://arxiv.org/abs/2501.01118v1)
