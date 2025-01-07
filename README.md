@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221v1](http://arxiv.org/abs/2501.03221v1)|null|
+|**2025-01-06**|**ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking**|Tingyang Zhang et.al.|[2501.03220v1](http://arxiv.org/abs/2501.03220v1)|null|
+|**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218v1](http://arxiv.org/abs/2501.03218v1)|**[link](https://github.com/mark12ding/dispider)**|
+|**2025-01-06**|**Leveraging Explainable AI for LLM Text Attribution: Differentiating Human-Written and Multiple LLMs-Generated Text**|Ayat Najjar et.al.|[2501.03212v1](http://arxiv.org/abs/2501.03212v1)|null|
+|**2025-01-06**|**Multimodal Machine Learning Can Predict Videoconference Fluidity and Enjoyment**|Andrew Chang et.al.|[2501.03190v1](http://arxiv.org/abs/2501.03190v1)|null|
+|**2025-01-06**|**GLiREL -- Generalist Model for Zero-Shot Relation Extraction**|Jack Boylan et.al.|[2501.03172v1](http://arxiv.org/abs/2501.03172v1)|null|
+|**2025-01-06**|**Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning**|Muyun Li et.al.|[2501.03162v1](http://arxiv.org/abs/2501.03162v1)|null|
+|**2025-01-06**|**Segment Anything Model for Zero-shot Single Particle Tracking in Liquid Phase Transmission Electron Microscopy**|Risha Goel et.al.|[2501.03153v1](http://arxiv.org/abs/2501.03153v1)|null|
+|**2025-01-06**|**MVP: Multimodal Emotion Recognition based on Video and Physiological Signals**|Valeriya Strizhkova et.al.|[2501.03103v1](http://arxiv.org/abs/2501.03103v1)|null|
+|**2025-01-06**|**Trust Modeling in Counseling Conversations: A Benchmark Study**|Aseem Srivastava et.al.|[2501.03064v1](http://arxiv.org/abs/2501.03064v1)|null|
 |**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957v1](http://arxiv.org/abs/2501.01957v1)|**[link](https://github.com/VITA-MLLM/VITA)**|
 |**2025-01-03**|**VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**|Wenyan Cong et.al.|[2501.01949v1](http://arxiv.org/abs/2501.01949v1)|null|
 |**2025-01-03**|**Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models**|Manh Duong Nguyen et.al.|[2501.01932v1](http://arxiv.org/abs/2501.01932v1)|null|
@@ -6367,6 +6377,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**High performance beam transport with multi-stage acceleration system and its application to plasma potential measurement in fusion plasmas**|Kaori Nakamura et.al.|[2501.03101v1](http://arxiv.org/abs/2501.03101v1)|null|
+|**2025-01-06**|**Physics, Environment and Environmental Education; Perceptions from trainee Natural Science teachers**|Daniel Alejandro Valderrama et.al.|[2501.03090v1](http://arxiv.org/abs/2501.03090v1)|null|
+|**2025-01-06**|**Electrostatic instability of non-spherical dust in sub-stellar clouds**|Craig R. Stark et.al.|[2501.03063v1](http://arxiv.org/abs/2501.03063v1)|null|
+|**2025-01-06**|**Frobenius-Schur Indicators of Dual Fusion Categories and Semisimple Partially Dualized Quasi-Hopf Algebras**|Kangqiao Li et.al.|[2501.03042v1](http://arxiv.org/abs/2501.03042v1)|null|
+|**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955v1](http://arxiv.org/abs/2501.02955v1)|null|
+|**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937v1](http://arxiv.org/abs/2501.02937v1)|null|
+|**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858v1](http://arxiv.org/abs/2501.02858v1)|null|
+|**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841v1](http://arxiv.org/abs/2501.02841v1)|null|
+|**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821v1](http://arxiv.org/abs/2501.02821v1)|null|
+|**2025-01-06**|**First-place Solution for Streetscape Shop Sign Recognition Competition**|Bin Wang et.al.|[2501.02811v1](http://arxiv.org/abs/2501.02811v1)|null|
 |**2025-01-03**|**Fusion DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic Flows on Arbitrary Grids**|Ahmad Peyvan et.al.|[2501.01934v1](http://arxiv.org/abs/2501.01934v1)|null|
 |**2025-01-03**|**Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**|Jiajia Liang et.al.|[2501.01864v1](http://arxiv.org/abs/2501.01864v1)|null|
 |**2025-01-03**|**UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery**|Huaxiang Zhang et.al.|[2501.01855v1](http://arxiv.org/abs/2501.01855v1)|null|
