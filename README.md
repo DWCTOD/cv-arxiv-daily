@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453v1](http://arxiv.org/abs/2501.05453v1)|null|
+|**2025-01-09**|**Fortuity in the D1-D5 system**|Chi-Ming Chang et.al.|[2501.05448v1](http://arxiv.org/abs/2501.05448v1)|null|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442v1](http://arxiv.org/abs/2501.05442v1)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413v1](http://arxiv.org/abs/2501.05413v1)|null|
+|**2025-01-09**|**Innovative Designs and Insights into Quantum Thermal Machines**|Aline D. Lucio et.al.|[2501.05406v1](http://arxiv.org/abs/2501.05406v1)|null|
+|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398v1](http://arxiv.org/abs/2501.05398v1)|null|
+|**2025-01-09**|**1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**|Shuliang Ning et.al.|[2501.05369v1](http://arxiv.org/abs/2501.05369v1)|null|
+|**2025-01-09**|**Video-Conferencing Beyond Screen-Sharing and Thumbnail Webcam Videos: Gesture-Aware Augmented Reality Video for Data-Rich Remote Presentations**|Matthew Brehmer et.al.|[2501.05345v1](http://arxiv.org/abs/2501.05345v1)|null|
+|**2025-01-09**|**Stability and List-Replicability for Agnostic Learners**|Ari Blonda et.al.|[2501.05333v1](http://arxiv.org/abs/2501.05333v1)|null|
+|**2025-01-09**|**Probing Speaker-specific Features in Speaker Representations**|Aemon Yat Fei Chiu et.al.|[2501.05310v1](http://arxiv.org/abs/2501.05310v1)|null|
 |**2025-01-08**|**Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**|Ziyuan Huang et.al.|[2501.04700v1](http://arxiv.org/abs/2501.04700v1)|null|
 |**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698v1](http://arxiv.org/abs/2501.04698v1)|null|
 |**2025-01-08**|**Non-Markovian dynamics of BIC generation via single-photon scattering**|Giuseppe Magnifico et.al.|[2501.04691v1](http://arxiv.org/abs/2501.04691v1)|null|
@@ -6397,6 +6407,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408v1](http://arxiv.org/abs/2501.05408v1)|null|
+|**2025-01-09**|**1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**|Shuliang Ning et.al.|[2501.05369v1](http://arxiv.org/abs/2501.05369v1)|null|
+|**2025-01-09**|**Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion**|Guang Yang et.al.|[2501.05241v1](http://arxiv.org/abs/2501.05241v1)|null|
+|**2025-01-09**|**MHAFF: Multi-Head Attention Feature Fusion of CNN and Transformer for Cattle Identification**|Rabin Dulal et.al.|[2501.05209v1](http://arxiv.org/abs/2501.05209v1)|null|
+|**2025-01-09**|**CoDe: Communication Delay-Tolerant Multi-Agent Collaboration via Dual Alignment of Intent and Timeliness**|Shoucheng Song et.al.|[2501.05207v1](http://arxiv.org/abs/2501.05207v1)|null|
+|**2025-01-09**|**Optimizing Multitask Industrial Processes with Predictive Action Guidance**|Naval Kishore Mehta et.al.|[2501.05108v1](http://arxiv.org/abs/2501.05108v1)|null|
+|**2025-01-09**|**ResPanDiff: Diffusion Model with Disentangled Modulations for Image Fusion**|Shiqi Cao et.al.|[2501.05091v1](http://arxiv.org/abs/2501.05091v1)|null|
+|**2025-01-09**|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao et.al.|[2501.05067v1](http://arxiv.org/abs/2501.05067v1)|null|
+|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|null|
+|**2025-01-09**|**MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**|Hojun Lim et.al.|[2501.04950v1](http://arxiv.org/abs/2501.04950v1)|null|
 |**2025-01-08**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665v1](http://arxiv.org/abs/2501.04665v1)|null|
 |**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643v1](http://arxiv.org/abs/2501.04643v1)|null|
 |**2025-01-08**|**Fast physics-based launcher optimization for electron cyclotron current drive**|N A Lopez et.al.|[2501.04619v1](http://arxiv.org/abs/2501.04619v1)|null|
