@@ -5,6 +5,7 @@
 - 2025-01-09, **An Empirical Study of Autoregressive Pre-training from Videos**, Jathushan Rajasegaran et.al., Paper: [http://arxiv.org/abs/2501.05453v1](http://arxiv.org/abs/2501.05453v1)
 - 2025-01-09, **Fortuity in the D1-D5 system**, Chi-Ming Chang et.al., Paper: [http://arxiv.org/abs/2501.05448v1](http://arxiv.org/abs/2501.05448v1)
 - 2025-01-09, **Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**, Aniruddha Mahapatra et.al., Paper: [http://arxiv.org/abs/2501.05442v1](http://arxiv.org/abs/2501.05442v1)
+- 2025-01-09, **From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**, Md. Arafat Alam Khandaker et.al., Paper: [http://arxiv.org/abs/2501.05426v1](http://arxiv.org/abs/2501.05426v1)
 - 2025-01-09, **Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**, Darius Petermann et.al., Paper: [http://arxiv.org/abs/2501.05413v1](http://arxiv.org/abs/2501.05413v1)
 - 2025-01-09, **Innovative Designs and Insights into Quantum Thermal Machines**, Aline D. Lucio et.al., Paper: [http://arxiv.org/abs/2501.05406v1](http://arxiv.org/abs/2501.05406v1)
 - 2025-01-09, **Mechanistic understanding and validation of large AI models with SemanticLens**, Maximilian Dreyer et.al., Paper: [http://arxiv.org/abs/2501.05398v1](http://arxiv.org/abs/2501.05398v1)
