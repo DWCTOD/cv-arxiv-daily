@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-01-13, **UnCommon Objects in 3D**, Xingchen Liu et.al., Paper: [http://arxiv.org/abs/2501.07574v1](http://arxiv.org/abs/2501.07574v1), Code: **[https://github.com/facebookresearch/uco3d](https://github.com/facebookresearch/uco3d)**
+- 2025-01-13, **Statistical learnability of smooth boundaries via pairwise binary classification with deep ReLU networks**, Hiroki Waida et.al., Paper: [http://arxiv.org/abs/2501.07571v1](http://arxiv.org/abs/2501.07571v1)
+- 2025-01-13, **A reference framework for extremely metal-poor OB star studies: calibrations for stellar parameters and intrinsic colours**, Marta Lorenzo et.al., Paper: [http://arxiv.org/abs/2501.07569v1](http://arxiv.org/abs/2501.07569v1)
+- 2025-01-13, **Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2501.07563v1](http://arxiv.org/abs/2501.07563v1)
+- 2025-01-13, **SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**, Varun Biyyala et.al., Paper: [http://arxiv.org/abs/2501.07554v1](http://arxiv.org/abs/2501.07554v1), Code: **[https://github.com/custommetrics-sst/sst_customevaluationmetrics](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**
+- 2025-01-13, **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**, Tharun Anand et.al., Paper: [http://arxiv.org/abs/2501.07530v1](http://arxiv.org/abs/2501.07530v1)
+- 2025-01-13, **Communication-Efficient, 2D Parallel Stochastic Gradient Descent for Distributed-Memory Optimization**, Aditya Devarakonda et.al., Paper: [http://arxiv.org/abs/2501.07526v1](http://arxiv.org/abs/2501.07526v1)
+- 2025-01-13, **RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**, Difei Gu et.al., Paper: [http://arxiv.org/abs/2501.07525v1](http://arxiv.org/abs/2501.07525v1), Code: **[https://github.com/difeigu/radalign](https://github.com/difeigu/radalign)**
+- 2025-01-13, **Completing Sets of Prototype Transfer Functions for Subspace-based Direction of Arrival Estimation of Multiple Speakers**, Daniel Fejgin et.al., Paper: [http://arxiv.org/abs/2501.07524v1](http://arxiv.org/abs/2501.07524v1)
+- 2025-01-13, **Inductive Learning of Robot Task Knowledge from Raw Data and Online Expert Feedback**, Daniele Meli et.al., Paper: [http://arxiv.org/abs/2501.07507v1](http://arxiv.org/abs/2501.07507v1), Code: **[https://github.com/danm11694/ilasp_robotics](https://github.com/danm11694/ilasp_robotics)**
 - 2025-01-10, **Multi-subject Open-set Personalization in Video Generation**, Tsai-Shien Chen et.al., Paper: [http://arxiv.org/abs/2501.06187v1](http://arxiv.org/abs/2501.06187v1)
 - 2025-01-10, **VideoAuteur: Towards Long Narrative Video Generation**, Junfei Xiao et.al., Paper: [http://arxiv.org/abs/2501.06173v1](http://arxiv.org/abs/2501.06173v1)
 - 2025-01-10, **PySpatial: A High-Speed Whole Slide Image Pathomics Toolkit**, Yuechen Yang et.al., Paper: [http://arxiv.org/abs/2501.06151v1](http://arxiv.org/abs/2501.06151v1)
@@ -6414,6 +6424,16 @@
 
 ## MultiModal
 
+- 2025-01-13, **MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2501.07556v1](http://arxiv.org/abs/2501.07556v1)
+- 2025-01-13, **Parallel Key-Value Cache Fusion for Position Invariant RAG**, Philhoon Oh et.al., Paper: [http://arxiv.org/abs/2501.07523v1](http://arxiv.org/abs/2501.07523v1)
+- 2025-01-13, **Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**, Wenping Jin et.al., Paper: [http://arxiv.org/abs/2501.07496v1](http://arxiv.org/abs/2501.07496v1)
+- 2025-01-13, **A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion**, Fabio Montello et.al., Paper: [http://arxiv.org/abs/2501.07451v1](http://arxiv.org/abs/2501.07451v1)
+- 2025-01-13, **Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**, Xiyue Zhu et.al., Paper: [http://arxiv.org/abs/2501.07430v1](http://arxiv.org/abs/2501.07430v1)
+- 2025-01-13, **Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**, Oleg Perezyabov et.al., Paper: [http://arxiv.org/abs/2501.07245v1](http://arxiv.org/abs/2501.07245v1)
+- 2025-01-13, **QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications**, Jeongseok Kim et.al., Paper: [http://arxiv.org/abs/2501.07161v1](http://arxiv.org/abs/2501.07161v1)
+- 2025-01-13, **Knowledge Phenomenology Research of Future Industrial Iconic Product Innovation**, Jiang Xu et.al., Paper: [http://arxiv.org/abs/2501.07141v1](http://arxiv.org/abs/2501.07141v1)
+- 2025-01-13, **MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation**, Xiaoxian Yang et.al., Paper: [http://arxiv.org/abs/2501.07120v1](http://arxiv.org/abs/2501.07120v1)
+- 2025-01-13, **Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video Recommendation**, Han Liu et.al., Paper: [http://arxiv.org/abs/2501.07110v1](http://arxiv.org/abs/2501.07110v1), Code: **[https://github.com/hanliu95/metammf](https://github.com/hanliu95/metammf)**
 - 2025-01-10, **Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**, Athena Caesura et.al., Paper: [http://arxiv.org/abs/2501.06165v1](http://arxiv.org/abs/2501.06165v1)
 - 2025-01-10, **Enhancing, Refining, and Fusing: Towards Robust Multi-Scale and Dense Ship Detection**, Congxia Zhao et.al., Paper: [http://arxiv.org/abs/2501.06053v1](http://arxiv.org/abs/2501.06053v1)
 - 2025-01-10, **BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response**, Hongruixuan Chen et.al., Paper: [http://arxiv.org/abs/2501.06019v1](http://arxiv.org/abs/2501.06019v1), Code: **[https://github.com/chenhongruixuan/bright](https://github.com/chenhongruixuan/bright)**
