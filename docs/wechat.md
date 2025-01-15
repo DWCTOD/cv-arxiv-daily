@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-01-14, **DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**, Hyeonwoo Kim et.al., Paper: [http://arxiv.org/abs/2501.08333v1](http://arxiv.org/abs/2501.08333v1)
+- 2025-01-14, **Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**, Ryan Burgert et.al., Paper: [http://arxiv.org/abs/2501.08331v1](http://arxiv.org/abs/2501.08331v1), Code: **[https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**
+- 2025-01-14, **Gradient Equilibrium in Online Learning: Theory and Applications**, Anastasios N. Angelopoulos et.al., Paper: [http://arxiv.org/abs/2501.08330v1](http://arxiv.org/abs/2501.08330v1), Code: **[https://github.com/aangelopoulos/gradient-equilibrium](https://github.com/aangelopoulos/gradient-equilibrium)**
+- 2025-01-14, **Predicting 4D Hand Trajectory from Monocular Videos**, Yufei Ye et.al., Paper: [http://arxiv.org/abs/2501.08329v1](http://arxiv.org/abs/2501.08329v1)
+- 2025-01-14, **Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**, Miran Heo et.al., Paper: [http://arxiv.org/abs/2501.08326v1](http://arxiv.org/abs/2501.08326v1)
+- 2025-01-14, **GameFactory: Creating New Games with Generative Interactive Videos**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2501.08325v1](http://arxiv.org/abs/2501.08325v1)
+- 2025-01-14, **ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**, Ziyuan Huang et.al., Paper: [http://arxiv.org/abs/2501.08324v1](http://arxiv.org/abs/2501.08324v1)
+- 2025-01-14, **Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**, Amirhossein Aliakbarzadeh et.al., Paper: [http://arxiv.org/abs/2501.08322v1](http://arxiv.org/abs/2501.08322v1), Code: **[https://github.com/caisa-lab/llms-real-world-noise-robustness](https://github.com/caisa-lab/llms-real-world-noise-robustness)**
+- 2025-01-14, **Diffusion Adversarial Post-Training for One-Step Video Generation**, Shanchuan Lin et.al., Paper: [http://arxiv.org/abs/2501.08316v1](http://arxiv.org/abs/2501.08316v1)
+- 2025-01-14, **Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification**, Wennuo Yang et.al., Paper: [http://arxiv.org/abs/2501.08305v1](http://arxiv.org/abs/2501.08305v1), Code: **[https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification](https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification)**
 - 2025-01-13, **UnCommon Objects in 3D**, Xingchen Liu et.al., Paper: [http://arxiv.org/abs/2501.07574v1](http://arxiv.org/abs/2501.07574v1), Code: **[https://github.com/facebookresearch/uco3d](https://github.com/facebookresearch/uco3d)**
 - 2025-01-13, **Statistical learnability of smooth boundaries via pairwise binary classification with deep ReLU networks**, Hiroki Waida et.al., Paper: [http://arxiv.org/abs/2501.07571v1](http://arxiv.org/abs/2501.07571v1)
 - 2025-01-13, **A reference framework for extremely metal-poor OB star studies: calibrations for stellar parameters and intrinsic colours**, Marta Lorenzo et.al., Paper: [http://arxiv.org/abs/2501.07569v1](http://arxiv.org/abs/2501.07569v1)
@@ -6424,6 +6434,16 @@
 
 ## MultiModal
 
+- 2025-01-14, **TriMod Fusion for Multimodal Named Entity Recognition in Social Media**, Mosab Alfaqeeh et.al., Paper: [http://arxiv.org/abs/2501.08267v1](http://arxiv.org/abs/2501.08267v1)
+- 2025-01-14, **Executable Multi-Layered Software**, Lukas Radosky et.al., Paper: [http://arxiv.org/abs/2501.08186v1](http://arxiv.org/abs/2501.08186v1)
+- 2025-01-14, **SAR Strikes Back: A New Hope for RSVQA**, Lucrezia Tosato et.al., Paper: [http://arxiv.org/abs/2501.08131v1](http://arxiv.org/abs/2501.08131v1)
+- 2025-01-14, **Change Captioning in Remote Sensing: Evolution to SAT-Cap -- A Single-Stage Transformer Approach**, Yuduo Wang et.al., Paper: [http://arxiv.org/abs/2501.08114v1](http://arxiv.org/abs/2501.08114v1)
+- 2025-01-14, **Dynamic Multimodal Sentiment Analysis: Leveraging Cross-Modal Attention for Enabled Classification**, Hui Lee et.al., Paper: [http://arxiv.org/abs/2501.08085v1](http://arxiv.org/abs/2501.08085v1)
+- 2025-01-14, **Optimizing Speech Multi-View Feature Fusion through Conditional Computation**, Weiqiao Shan et.al., Paper: [http://arxiv.org/abs/2501.08057v1](http://arxiv.org/abs/2501.08057v1)
+- 2025-01-14, **GAC-Net_Geometric and attention-based Network for Depth Completion**, Kuang Zhu et.al., Paper: [http://arxiv.org/abs/2501.07988v1](http://arxiv.org/abs/2501.07988v1)
+- 2025-01-14, **Robust Hyperspectral Image Panshapring via Sparse Spatial-Spectral Representation**, Chia-Ming Lee et.al., Paper: [http://arxiv.org/abs/2501.07953v1](http://arxiv.org/abs/2501.07953v1)
+- 2025-01-14, **Synchronization of Kuramoto oscillators via HEOL, and a discussion on AI**, Emmanuel Delaleau et.al., Paper: [http://arxiv.org/abs/2501.07948v1](http://arxiv.org/abs/2501.07948v1)
+- 2025-01-14, **Revisiting Split Covariance Intersection: Correlated Components and Optimality**, Colin Cros et.al., Paper: [http://arxiv.org/abs/2501.07915v1](http://arxiv.org/abs/2501.07915v1)
 - 2025-01-13, **MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2501.07556v1](http://arxiv.org/abs/2501.07556v1)
 - 2025-01-13, **Parallel Key-Value Cache Fusion for Position Invariant RAG**, Philhoon Oh et.al., Paper: [http://arxiv.org/abs/2501.07523v1](http://arxiv.org/abs/2501.07523v1)
 - 2025-01-13, **Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**, Wenping Jin et.al., Paper: [http://arxiv.org/abs/2501.07496v1](http://arxiv.org/abs/2501.07496v1), Code: **[https://github.com/xjpp2016/mavd](https://github.com/xjpp2016/mavd)**
