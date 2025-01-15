@@ -1,4 +1,4 @@
-> Updated on 2025.01.14
+> Updated on 2025.01.15
 
 ## Video_Classification
 
@@ -6426,7 +6426,7 @@
 
 - 2025-01-13, **MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2501.07556v1](http://arxiv.org/abs/2501.07556v1)
 - 2025-01-13, **Parallel Key-Value Cache Fusion for Position Invariant RAG**, Philhoon Oh et.al., Paper: [http://arxiv.org/abs/2501.07523v1](http://arxiv.org/abs/2501.07523v1)
-- 2025-01-13, **Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**, Wenping Jin et.al., Paper: [http://arxiv.org/abs/2501.07496v1](http://arxiv.org/abs/2501.07496v1)
+- 2025-01-13, **Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**, Wenping Jin et.al., Paper: [http://arxiv.org/abs/2501.07496v1](http://arxiv.org/abs/2501.07496v1), Code: **[https://github.com/xjpp2016/mavd](https://github.com/xjpp2016/mavd)**
 - 2025-01-13, **A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion**, Fabio Montello et.al., Paper: [http://arxiv.org/abs/2501.07451v1](http://arxiv.org/abs/2501.07451v1)
 - 2025-01-13, **Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**, Xiyue Zhu et.al., Paper: [http://arxiv.org/abs/2501.07430v1](http://arxiv.org/abs/2501.07430v1)
 - 2025-01-13, **Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**, Oleg Perezyabov et.al., Paper: [http://arxiv.org/abs/2501.07245v1](http://arxiv.org/abs/2501.07245v1)
