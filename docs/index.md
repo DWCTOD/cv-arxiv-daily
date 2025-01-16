@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**|Jingyuan Chen et.al.|[2501.09019v1](http://arxiv.org/abs/2501.09019v1)|null|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001v1](http://arxiv.org/abs/2501.09001v1)|null|
+|**2025-01-15**|**RepVideo: Rethinking Cross-Layer Representation for Video Generation**|Chenyang Si et.al.|[2501.08994v1](http://arxiv.org/abs/2501.08994v1)|null|
+|**2025-01-15**|**Learning to Extract Cross-Domain Aspects and Understanding Sentiments Using Large Language Models**|Karukriti Kaushik Ghosh et.al.|[2501.08974v1](http://arxiv.org/abs/2501.08974v1)|null|
+|**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962v1](http://arxiv.org/abs/2501.08962v1)|null|
+|**2025-01-15**|**Neuromorphic Retina: An FPGA-based Emulator**|Prince Phillip et.al.|[2501.08943v1](http://arxiv.org/abs/2501.08943v1)|null|
+|**2025-01-15**|**Visual WetlandBirds Dataset: Bird Species Identification and Behavior Recognition in Videos**|Javier Rodriguez-Juan et.al.|[2501.08931v1](http://arxiv.org/abs/2501.08931v1)|**[link](https://github.com/3dperceptionlab/visual-wetlandbirds)**|
+|**2025-01-15**|**Learning Joint Denoising, Demosaicing, and Compression from the Raw Natural Image Noise Dataset**|Benoit Brummer et.al.|[2501.08924v1](http://arxiv.org/abs/2501.08924v1)|null|
+|**2025-01-15**|**Multi-View Transformers for Airway-To-Lung Ratio Inference on Cardiac CT Scans: The C4R Study**|Sneha N. Naik et.al.|[2501.08902v1](http://arxiv.org/abs/2501.08902v1)|null|
+|**2025-01-15**|**An investigation of the relationship between morphology and chemistry of the D-type spherules from the recovery expedition of the CNEOS 2014-01-08 bolide: Implications for origins**|Eugenia Hyung et.al.|[2501.08890v1](http://arxiv.org/abs/2501.08890v1)|null|
 |**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333v1](http://arxiv.org/abs/2501.08333v1)|null|
 |**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331v1](http://arxiv.org/abs/2501.08331v1)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
 |**2025-01-14**|**Gradient Equilibrium in Online Learning: Theory and Applications**|Anastasios N. Angelopoulos et.al.|[2501.08330v1](http://arxiv.org/abs/2501.08330v1)|**[link](https://github.com/aangelopoulos/gradient-equilibrium)**|
@@ -6442,6 +6452,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Modeling Melt Pool Features and Spatter Using Symbolic Regression and Machine Learning**|Olabode T. Ajenifujah et.al.|[2501.08922v1](http://arxiv.org/abs/2501.08922v1)|null|
+|**2025-01-15**|**Enhanced Multi-Scale Cross-Attention for Person Image Generation**|Hao Tang et.al.|[2501.08900v1](http://arxiv.org/abs/2501.08900v1)|null|
+|**2025-01-15**|**Automated Quantum Chemistry Code Generation with the p$^\dagger$q Package**|Marcus D. Liebenthal et.al.|[2501.08882v1](http://arxiv.org/abs/2501.08882v1)|null|
+|**2025-01-15**|**Disentangled Interleaving Variational Encoding**|Noelle Y. L. Wong et.al.|[2501.08710v1](http://arxiv.org/abs/2501.08710v1)|null|
+|**2025-01-15**|**Deep Learning-Based Feature Fusion for Emotion Analysis and Suicide Risk Differentiation in Chinese Psychological Support Hotlines**|Han Wang et.al.|[2501.08696v1](http://arxiv.org/abs/2501.08696v1)|**[link](https://github.com/sco-field/speechemotionrecognition)**|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
+|**2025-01-15**|**IITKGP-ABSP Submission to LRE22: Language Recognition in Low-Resource Settings**|Spandan Dey et.al.|[2501.08616v1](http://arxiv.org/abs/2501.08616v1)|null|
+|**2025-01-15**|**Molecular Graph Contrastive Learning with Line Graph**|Xueyuan Chen et.al.|[2501.08589v1](http://arxiv.org/abs/2501.08589v1)|**[link](https://github.com/ryanchen227/lemon)**|
+|**2025-01-15**|**Scalable and High-Quality Neural Implicit Representation for 3D Reconstruction**|Leyuan Yang et.al.|[2501.08577v1](http://arxiv.org/abs/2501.08577v1)|null|
+|**2025-01-15**|**The Devil is in Temporal Token: High Quality Video Reasoning Segmentation**|Sitong Gong et.al.|[2501.08549v1](http://arxiv.org/abs/2501.08549v1)|null|
 |**2025-01-14**|**TriMod Fusion for Multimodal Named Entity Recognition in Social Media**|Mosab Alfaqeeh et.al.|[2501.08267v1](http://arxiv.org/abs/2501.08267v1)|null|
 |**2025-01-14**|**Executable Multi-Layered Software**|Lukas Radosky et.al.|[2501.08186v1](http://arxiv.org/abs/2501.08186v1)|null|
 |**2025-01-14**|**SAR Strikes Back: A New Hope for RSVQA**|Lucrezia Tosato et.al.|[2501.08131v1](http://arxiv.org/abs/2501.08131v1)|null|
