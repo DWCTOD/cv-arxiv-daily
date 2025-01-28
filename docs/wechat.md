@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-01-27, **RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**, Ye Fang et.al., Paper: [http://arxiv.org/abs/2501.16330v1](http://arxiv.org/abs/2501.16330v1)
+- 2025-01-27, **sDREAMER: Self-distilled Mixture-of-Modality-Experts Transformer for Automatic Sleep Staging**, Jingyuan Chen et.al., Paper: [http://arxiv.org/abs/2501.16329v1](http://arxiv.org/abs/2501.16329v1)
+- 2025-01-27, **Implicit Bias in Matrix Factorization and its Explicit Realization in a New Architecture**, Yikun Hou et.al., Paper: [http://arxiv.org/abs/2501.16322v1](http://arxiv.org/abs/2501.16322v1)
+- 2025-01-27, **TiDES: The 4MOST Time Domain Extragalactic Survey**, C. Frohmaier et.al., Paper: [http://arxiv.org/abs/2501.16311v1](http://arxiv.org/abs/2501.16311v1)
+- 2025-01-27, **RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**, Long Nguyen et.al., Paper: [http://arxiv.org/abs/2501.16303v1](http://arxiv.org/abs/2501.16303v1)
+- 2025-01-27, **Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**, Jing Zhang et.al., Paper: [http://arxiv.org/abs/2501.16282v1](http://arxiv.org/abs/2501.16282v1)
+- 2025-01-27, **Lightweight Weighted Average Ensemble Model for Pneumonia Detection in Chest X-Ray Images**, Suresh Babu Nettur et.al., Paper: [http://arxiv.org/abs/2501.16249v1](http://arxiv.org/abs/2501.16249v1)
+- 2025-01-27, **Zero-Shot Decision Tree Construction via Large Language Models**, Lucas Carrasco et.al., Paper: [http://arxiv.org/abs/2501.16247v1](http://arxiv.org/abs/2501.16247v1)
+- 2025-01-27, **CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**, Xiaochuan Ma et.al., Paper: [http://arxiv.org/abs/2501.16246v1](http://arxiv.org/abs/2501.16246v1)
+- 2025-01-27, **Echoes of Discord: Forecasting Hater Reactions to Counterspeech**, Xiaoying Song et.al., Paper: [http://arxiv.org/abs/2501.16235v1](http://arxiv.org/abs/2501.16235v1)
 - 2025-01-24, **Estimation-theoretic analysis of lensless imaging**, Leyla A. Kabuli et.al., Paper: [http://arxiv.org/abs/2501.14727v1](http://arxiv.org/abs/2501.14727v1)
 - 2025-01-24, **Gland Segmentation Using SAM With Cancer Grade as a Prompt**, Yijie Zhu et.al., Paper: [http://arxiv.org/abs/2501.14718v1](http://arxiv.org/abs/2501.14718v1)
 - 2025-01-24, **Enhanced Confocal Laser Scanning Microscopy with Adaptive Physics Informed Deep Autoencoders**, Zaheer Ahmad et.al., Paper: [http://arxiv.org/abs/2501.14709v1](http://arxiv.org/abs/2501.14709v1)
@@ -6504,6 +6514,16 @@
 
 ## MultiModal
 
+- 2025-01-27, **SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting**, Wenxuan Xie et.al., Paper: [http://arxiv.org/abs/2501.16178v1](http://arxiv.org/abs/2501.16178v1), Code: **[https://github.com/lancelotxwx/swift](https://github.com/lancelotxwx/swift)**
+- 2025-01-27, **ScaDyG:A New Paradigm for Large-scale Dynamic Graph Learning**, Xiang Wu et.al., Paper: [http://arxiv.org/abs/2501.16002v1](http://arxiv.org/abs/2501.16002v1)
+- 2025-01-27, **Integrating Probabilistic Trees and Causal Networks for Clinical and Epidemiological Data**, Sheresh Zahoor et.al., Paper: [http://arxiv.org/abs/2501.15973v1](http://arxiv.org/abs/2501.15973v1)
+- 2025-01-27, **Navigation Framework for Blind and Visually Impaired Persons based on Sensor Fusion**, Chathurika S. Silva et.al., Paper: [http://arxiv.org/abs/2501.15819v1](http://arxiv.org/abs/2501.15819v1)
+- 2025-01-27, **ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**, Xiaopeng Lin et.al., Paper: [http://arxiv.org/abs/2501.15808v1](http://arxiv.org/abs/2501.15808v1)
+- 2025-01-26, **TractoGPT: A GPT architecture for White Matter Segmentation**, Anoushkrit Goel et.al., Paper: [http://arxiv.org/abs/2501.15464v1](http://arxiv.org/abs/2501.15464v1)
+- 2025-01-26, **CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model**, Zhenkai Wu et.al., Paper: [http://arxiv.org/abs/2501.15455v1](http://arxiv.org/abs/2501.15455v1), Code: **[https://github.com/xwmaxwma/rschange](https://github.com/xwmaxwma/rschange)**
+- 2025-01-26, **Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**, Lianqing Zheng et.al., Paper: [http://arxiv.org/abs/2501.15394v1](http://arxiv.org/abs/2501.15394v1)
+- 2025-01-26, **MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies**, Long Yang et.al., Paper: [http://arxiv.org/abs/2501.15384v1](http://arxiv.org/abs/2501.15384v1), Code: **[https://github.com/lucasyang567/metaocc](https://github.com/lucasyang567/metaocc)**
+- 2025-01-25, **Development and Application of Self-Supervised Machine Learning for Smoke Plume and Active Fire Identification from the FIREX-AQ Datasets**, Nicholas LaHaye et.al., Paper: [http://arxiv.org/abs/2501.15343v1](http://arxiv.org/abs/2501.15343v1)
 - 2025-01-24, **Dualities between 2+1d fusion surface models from braided fusion categories**, Luisa Eck et.al., Paper: [http://arxiv.org/abs/2501.14722v1](http://arxiv.org/abs/2501.14722v1)
 - 2025-01-24, **MatAnyone: Stable Video Matting with Consistent Memory Propagation**, Peiqing Yang et.al., Paper: [http://arxiv.org/abs/2501.14677v1](http://arxiv.org/abs/2501.14677v1)
 - 2025-01-24, **Dynamic Loop Fusion in High-Level Synthesis**, Robert Szafarczyk et.al., Paper: [http://arxiv.org/abs/2501.14631v1](http://arxiv.org/abs/2501.14631v1)
