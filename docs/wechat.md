@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-01-29, **acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**, Aude Vuilliomenet et.al., Paper: [http://arxiv.org/abs/2501.17841v1](http://arxiv.org/abs/2501.17841v1), Code: **[https://github.com/acoupi/acoupi](https://github.com/acoupi/acoupi)**
+- 2025-01-29, **IRONMAP: Iron Network Mapping and Analysis Protocol for Detecting Over-Time Brain Iron Abnormalities in Neurological Disease**, Jack A. Reeves et.al., Paper: [http://arxiv.org/abs/2501.17838v1](http://arxiv.org/abs/2501.17838v1)
+- 2025-01-29, **TikTok's recommendations skewed towards Republican content during the 2024 U.S. presidential race**, Hazem Ibrahim et.al., Paper: [http://arxiv.org/abs/2501.17831v1](http://arxiv.org/abs/2501.17831v1)
+- 2025-01-29, **Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology**, Sobhan Hemati et.al., Paper: [http://arxiv.org/abs/2501.17822v1](http://arxiv.org/abs/2501.17822v1)
+- 2025-01-29, **eaSEL: Promoting Social-Emotional Learning and Parent-Child Interaction through AI-Mediated Content Consumption**, Jocelyn Shen et.al., Paper: [http://arxiv.org/abs/2501.17819v1](http://arxiv.org/abs/2501.17819v1)
+- 2025-01-29, **CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering**, Xiaohan Sun et.al., Paper: [http://arxiv.org/abs/2501.17792v1](http://arxiv.org/abs/2501.17792v1)
+- 2025-01-29, **Glioma Multimodal MRI Analysis System for Tumor Layered Diagnosis via Multi-task Semi-supervised Learning**, Yihao Liu et.al., Paper: [http://arxiv.org/abs/2501.17758v1](http://arxiv.org/abs/2501.17758v1)
+- 2025-01-29, **PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**, Ahmed Sharshar et.al., Paper: [http://arxiv.org/abs/2501.17699v1](http://arxiv.org/abs/2501.17699v1), Code: **[https://github.com/ahmed-sharshar/respirodynamics](https://github.com/ahmed-sharshar/respirodynamics)**
+- 2025-01-29, **NutMaat: A Python package for stellar spectral classification on the MK system**, R. I. El-Kholy et.al., Paper: [http://arxiv.org/abs/2501.17698v1](http://arxiv.org/abs/2501.17698v1)
+- 2025-01-29, **Tonguescape: Exploring Language Models Understanding of Vowel Articulation**, Haruki Sakajo et.al., Paper: [http://arxiv.org/abs/2501.17643v1](http://arxiv.org/abs/2501.17643v1)
 - 2025-01-28, **A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**, Suresh Babu Nettur et.al., Paper: [http://arxiv.org/abs/2501.17160v1](http://arxiv.org/abs/2501.17160v1)
 - 2025-01-28, **Sensitivity of Quantitative Susceptibility Mapping in Clinical Brain Research**, Fahad Salman et.al., Paper: [http://arxiv.org/abs/2501.17158v1](http://arxiv.org/abs/2501.17158v1)
 - 2025-01-28, **Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model**, Reza Ghorbani et.al., Paper: [http://arxiv.org/abs/2501.17152v1](http://arxiv.org/abs/2501.17152v1)
@@ -6524,7 +6534,15 @@
 
 ## MultiModal
 
-- 2025-01-28, **Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**, Anzheng Tang et.al., Paper: [http://arxiv.org/abs/2501.17059v1](http://arxiv.org/abs/2501.17059v1)
+- 2025-01-29, **SSF: Sparse Long-Range Scene Flow for Autonomous Driving**, Ajinkya Khoche et.al., Paper: [http://arxiv.org/abs/2501.17821v1](http://arxiv.org/abs/2501.17821v1)
+- 2025-01-29, **AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing**, Peter Pak et.al., Paper: [http://arxiv.org/abs/2501.17784v1](http://arxiv.org/abs/2501.17784v1)
+- 2025-01-29, **Feasibility of true muonium observation in Belle-II existing dataset**, Ruben Gargiulo et.al., Paper: [http://arxiv.org/abs/2501.17753v1](http://arxiv.org/abs/2501.17753v1)
+- 2025-01-29, **PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**, Ahmed Sharshar et.al., Paper: [http://arxiv.org/abs/2501.17699v1](http://arxiv.org/abs/2501.17699v1), Code: **[https://github.com/ahmed-sharshar/respirodynamics](https://github.com/ahmed-sharshar/respirodynamics)**
+- 2025-01-29, **Effects of oxidation and impurities in lithium surfaces on the emitting wall plasma sheath**, Kolter Bradshaw et.al., Paper: [http://arxiv.org/abs/2501.17686v1](http://arxiv.org/abs/2501.17686v1)
+- 2025-01-29, **Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation**, Lin Chen et.al., Paper: [http://arxiv.org/abs/2501.17642v1](http://arxiv.org/abs/2501.17642v1)
+- 2025-01-29, **Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**, Wooyoung Kim et.al., Paper: [http://arxiv.org/abs/2501.17549v1](http://arxiv.org/abs/2501.17549v1)
+- 2025-01-29, **Time dispersion in bound states**, John Ashmead et.al., Paper: [http://arxiv.org/abs/2501.17407v1](http://arxiv.org/abs/2501.17407v1)
+- 2025-01-29, **Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**, Anzheng Tang et.al., Paper: [http://arxiv.org/abs/2501.17059v2](http://arxiv.org/abs/2501.17059v2)
 - 2025-01-28, **What Really Matters for Learning-based LiDAR-Camera Calibration**, Shujuan Huang et.al., Paper: [http://arxiv.org/abs/2501.16969v1](http://arxiv.org/abs/2501.16969v1)
 - 2025-01-28, **Ultra-high resolution multimodal MRI dense labelled holistic brain atlas**, José V. Manjón et.al., Paper: [http://arxiv.org/abs/2501.16879v1](http://arxiv.org/abs/2501.16879v1), Code: **[https://github.com/BBillot/hypothalamus_seg](https://github.com/BBillot/hypothalamus_seg)**
 - 2025-01-28, **Enhancing Web Service Anomaly Detection via Fine-grained Multi-modal Association and Frequency Domain Analysis**, Xixuan Yang et.al., Paper: [http://arxiv.org/abs/2501.16875v1](http://arxiv.org/abs/2501.16875v1)
