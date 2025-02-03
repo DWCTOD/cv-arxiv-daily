@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-01-31, **Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**, Yingdan Shi et.al., Paper: [http://arxiv.org/abs/2501.19403v1](http://arxiv.org/abs/2501.19403v1)
+- 2025-01-31, **Perceptive Mixed-Integer Footstep Control for Underactuated Bipedal Walking on Rough Terrain**, Brian Acosta et.al., Paper: [http://arxiv.org/abs/2501.19391v1](http://arxiv.org/abs/2501.19391v1)
+- 2025-01-31, **Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**, Sören Christensen et.al., Paper: [http://arxiv.org/abs/2501.19373v1](http://arxiv.org/abs/2501.19373v1)
+- 2025-01-31, **Benchmark of the Full and Reduced Effective Resistance Kernel for Molecular Classification**, Adam Wesołowski et.al., Paper: [http://arxiv.org/abs/2501.19352v1](http://arxiv.org/abs/2501.19352v1)
+- 2025-01-31, **An All-digital 65-nm Tsetlin Machine Image Classification Accelerator with 8.6 nJ per MNIST Frame at 60.3k Frames per Second**, Svein Anders Tunheim et.al., Paper: [http://arxiv.org/abs/2501.19347v1](http://arxiv.org/abs/2501.19347v1)
+- 2025-01-31, **Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**, Misha P. T Kaandorp et.al., Paper: [http://arxiv.org/abs/2501.19338v1](http://arxiv.org/abs/2501.19338v1)
+- 2025-01-31, **Consistent Video Colorization via Palette Guidance**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.19331v1](http://arxiv.org/abs/2501.19331v1)
+- 2025-01-31, **Ultra-fast Real-time Target Recognition Using a Shift, Scale, and Rotation Invariant Hybrid Opto-electronic Joint Transform Correlator**, Xi Shen et.al., Paper: [http://arxiv.org/abs/2501.19299v1](http://arxiv.org/abs/2501.19299v1)
+- 2025-01-31, **Differentially Private In-context Learning via Sampling Few-shot Mixed with Zero-shot Outputs**, James Flemings et.al., Paper: [http://arxiv.org/abs/2501.19287v1](http://arxiv.org/abs/2501.19287v1)
+- 2025-01-31, **Application of Generative Adversarial Network (GAN) for Synthetic Training Data Creation to improve performance of ANN Classifier for extracting Built-Up pixels from Landsat Satellite Imagery**, Amritendu Mukherjee et.al., Paper: [http://arxiv.org/abs/2501.19283v1](http://arxiv.org/abs/2501.19283v1)
 - 2025-01-30, **DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**, Ruofan Liang et.al., Paper: [http://arxiv.org/abs/2501.18590v1](http://arxiv.org/abs/2501.18590v1)
 - 2025-01-30, **Node Classification and Search on the Rubik's Cube Graph with GNNs**, Alessandro Barro et.al., Paper: [http://arxiv.org/abs/2501.18580v1](http://arxiv.org/abs/2501.18580v1)
 - 2025-01-30, **BounTCHA: A CAPTCHA Utilizing Boundary Identification in AI-extended Videos**, Lehao Lin et.al., Paper: [http://arxiv.org/abs/2501.18565v1](http://arxiv.org/abs/2501.18565v1)
@@ -6544,6 +6554,14 @@
 
 ## MultiModal
 
+- 2025-01-31, **Improving Low-Resource Sequence Labeling with Knowledge Fusion and Contextual Label Explanations**, Peichao Lai et.al., Paper: [http://arxiv.org/abs/2501.19093v1](http://arxiv.org/abs/2501.19093v1)
+- 2025-01-31, **Quantum Internet Use Case Analysis for the Automotive Industry**, K. L. van der Enden et.al., Paper: [http://arxiv.org/abs/2501.19070v1](http://arxiv.org/abs/2501.19070v1)
+- 2025-01-31, **Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing**, Genc Hoxha et.al., Paper: [http://arxiv.org/abs/2501.19043v1](http://arxiv.org/abs/2501.19043v1)
+- 2025-01-31, **A Deep Spatio-Temporal Architecture for Dynamic Effective Connectivity Network Analysis Based on Dynamic Causal Discovery**, Faming Xu et.al., Paper: [http://arxiv.org/abs/2501.18859v1](http://arxiv.org/abs/2501.18859v1)
+- 2025-01-31, **Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2501.18851v1](http://arxiv.org/abs/2501.18851v1)
+- 2025-01-31, **An Optimal Cascade Feature-Level Spatiotemporal Fusion Strategy for Anomaly Detection in CAN Bus**, Mohammad Fatahi et.al., Paper: [http://arxiv.org/abs/2501.18821v1](http://arxiv.org/abs/2501.18821v1)
+- 2025-01-30, **Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift**, Yi Liu et.al., Paper: [http://arxiv.org/abs/2501.18798v1](http://arxiv.org/abs/2501.18798v1)
+- 2025-01-30, **A consistent diffuse-interface finite element approach to rapid melt--vapor dynamics in metal additive manufacturing**, Magdalena Schreter-Fleischhacker et.al., Paper: [http://arxiv.org/abs/2501.18781v1](http://arxiv.org/abs/2501.18781v1)
 - 2025-01-30, **Robust impact localisation on composite aerostructures using kernel design and Bayesian fusion under environmental and operational uncertainties**, Dong Xiao et.al., Paper: [http://arxiv.org/abs/2501.18393v1](http://arxiv.org/abs/2501.18393v1)
 - 2025-01-30, **The topology of non-resonant stellarator divertors**, Robert Davies et.al., Paper: [http://arxiv.org/abs/2501.18293v1](http://arxiv.org/abs/2501.18293v1)
 - 2025-01-30, **Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers**, Malte Tölle et.al., Paper: [http://arxiv.org/abs/2501.18237v1](http://arxiv.org/abs/2501.18237v1)
