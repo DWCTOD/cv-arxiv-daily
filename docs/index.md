@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567v1](http://arxiv.org/abs/2502.02567v1)|null|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562v1](http://arxiv.org/abs/2502.02562v1)|null|
+|**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558v1](http://arxiv.org/abs/2502.02558v1)|null|
+|**2025-02-04**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555v1](http://arxiv.org/abs/2502.02555v1)|null|
+|**2025-02-04**|**Hierarchical Sparse Bayesian Multitask Model with Scalable Inference for Microbiome Analysis**|Haonan Zhu et.al.|[2502.02552v1](http://arxiv.org/abs/2502.02552v1)|null|
+|**2025-02-04**|**2D Surface Brightness Modelling of Large 2MASS Galaxies II: The Role of Classical Bulges and Pseudobulges on Galaxy Scaling Relations and its implication for Supermassive Black Hole Formation**|Emmanuel Ríos-López et.al.|[2502.02546v1](http://arxiv.org/abs/2502.02546v1)|null|
+|**2025-02-04**|**TabPFN Unleashed: A Scalable and Effective Solution to Tabular Classification Problems**|Si-Yang Liu et.al.|[2502.02527v1](http://arxiv.org/abs/2502.02527v1)|null|
+|**2025-02-04**|**Hybrid Fingerprint-based Positioning in Cell-Free Massive MIMO Systems**|Manish Kumar et.al.|[2502.02512v1](http://arxiv.org/abs/2502.02512v1)|null|
+|**2025-02-04**|**The Skin Game: Revolutionizing Standards for AI Dermatology Model Comparison**|Łukasz Miętkiewicz et.al.|[2502.02500v1](http://arxiv.org/abs/2502.02500v1)|null|
+|**2025-02-04**|**VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models**|Hila Chefer et.al.|[2502.02492v1](http://arxiv.org/abs/2502.02492v1)|null|
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403v1](http://arxiv.org/abs/2501.19403v1)|null|
 |**2025-01-31**|**Perceptive Mixed-Integer Footstep Control for Underactuated Bipedal Walking on Rough Terrain**|Brian Acosta et.al.|[2501.19391v1](http://arxiv.org/abs/2501.19391v1)|null|
 |**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373v1](http://arxiv.org/abs/2501.19373v1)|null|
@@ -6562,6 +6572,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation**|George Whittle et.al.|[2502.02463v1](http://arxiv.org/abs/2502.02463v1)|null|
+|**2025-02-04**|**FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**|Ibrahim Bouabdallaoui et.al.|[2502.02391v1](http://arxiv.org/abs/2502.02391v1)|null|
+|**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[2502.02334v1](http://arxiv.org/abs/2502.02334v1)|null|
+|**2025-02-04**|**Mask-informed Deep Contrastive Incomplete Multi-view Clustering**|Zhenglai Li et.al.|[2502.02234v1](http://arxiv.org/abs/2502.02234v1)|null|
+|**2025-02-04**|**Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation**|Chenhao Zhai et.al.|[2502.02232v1](http://arxiv.org/abs/2502.02232v1)|null|
+|**2025-02-04**|**From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control**|Peiyan Hu et.al.|[2502.02205v1](http://arxiv.org/abs/2502.02205v1)|null|
+|**2025-02-04**|**VerteNet -- A Multi-Context Hybrid CNN Transformer for Accurate Vertebral Landmark Localization in Lateral Spine DXA Images**|Zaid Ilyas et.al.|[2502.02097v1](http://arxiv.org/abs/2502.02097v1)|null|
+|**2025-02-04**|**Multi-illuminant Color Constancy via Multi-scale Illuminant Estimation and Fusion**|Hang Luo et.al.|[2502.02021v1](http://arxiv.org/abs/2502.02021v1)|null|
+|**2025-02-04**|**Ponderomotive barriers in rotating mirror devices using static fields**|Tal Rubin et.al.|[2502.02008v1](http://arxiv.org/abs/2502.02008v1)|null|
+|**2025-02-04**|**MATCNN: Infrared and Visible Image Fusion Method Based on Multi-scale CNN with Attention Transformer**|Jingjing Liu et.al.|[2502.01959v1](http://arxiv.org/abs/2502.01959v1)|null|
 |**2025-01-31**|**Improving Low-Resource Sequence Labeling with Knowledge Fusion and Contextual Label Explanations**|Peichao Lai et.al.|[2501.19093v1](http://arxiv.org/abs/2501.19093v1)|null|
 |**2025-01-31**|**Quantum Internet Use Case Analysis for the Automotive Industry**|K. L. van der Enden et.al.|[2501.19070v1](http://arxiv.org/abs/2501.19070v1)|null|
 |**2025-01-31**|**Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing**|Genc Hoxha et.al.|[2501.19043v1](http://arxiv.org/abs/2501.19043v1)|null|
