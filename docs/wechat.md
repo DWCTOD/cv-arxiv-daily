@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-05, **Seeing World Dynamics in a Nutshell**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2502.03465v1](http://arxiv.org/abs/2502.03465v1)
+- 2025-02-05, **SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**, Arkaprava Sinha et.al., Paper: [http://arxiv.org/abs/2502.03459v1](http://arxiv.org/abs/2502.03459v1)
+- 2025-02-05, **Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**, Mattia Piccinini et.al., Paper: [http://arxiv.org/abs/2502.03454v1](http://arxiv.org/abs/2502.03454v1)
+- 2025-02-05, **Linearized Optimal Transport pyLOT Library: A Toolkit for Machine Learning on Point Clouds**, Jun Linwu et.al., Paper: [http://arxiv.org/abs/2502.03439v1](http://arxiv.org/abs/2502.03439v1)
+- 2025-02-05, **A Temporal Convolutional Network-Based Approach and a Benchmark Dataset for Colonoscopy Video Temporal Segmentation**, Carlo Biffi et.al., Paper: [http://arxiv.org/abs/2502.03430v1](http://arxiv.org/abs/2502.03430v1)
+- 2025-02-05, **Concept Based Explanations and Class Contrasting**, Rudolf Herdt et.al., Paper: [http://arxiv.org/abs/2502.03422v1](http://arxiv.org/abs/2502.03422v1)
+- 2025-02-05, **A Structured Reasoning Framework for Unbalanced Data Classification Using Probabilistic Models**, Junliang Du et.al., Paper: [http://arxiv.org/abs/2502.03386v1](http://arxiv.org/abs/2502.03386v1)
+- 2025-02-05, **Deep Learning-Based Approach for Identification of Potato Leaf Diseases Using Wrapper Feature Selection and Feature Concatenation**, Muhammad Ahtsam Naeem et.al., Paper: [http://arxiv.org/abs/2502.03370v1](http://arxiv.org/abs/2502.03370v1)
+- 2025-02-05, **Learning from Active Human Involvement through Proxy Value Propagation**, Zhenghao Peng et.al., Paper: [http://arxiv.org/abs/2502.03369v1](http://arxiv.org/abs/2502.03369v1)
+- 2025-02-05, **Rethinking Approximate Gaussian Inference in Classification**, Bálint Mucsányi et.al., Paper: [http://arxiv.org/abs/2502.03366v1](http://arxiv.org/abs/2502.03366v1)
 - 2025-02-04, **Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**, Tianyang Xie et.al., Paper: [http://arxiv.org/abs/2502.02567v1](http://arxiv.org/abs/2502.02567v1)
 - 2025-02-04, **Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**, Connor Schenck et.al., Paper: [http://arxiv.org/abs/2502.02562v1](http://arxiv.org/abs/2502.02562v1)
 - 2025-02-04, **Particle Trajectory Representation Learning with Masked Point Modeling**, Sam Young et.al., Paper: [http://arxiv.org/abs/2502.02558v1](http://arxiv.org/abs/2502.02558v1)
@@ -6564,6 +6574,16 @@
 
 ## MultiModal
 
+- 2025-02-05, **TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer**, Zhihong Xu et.al., Paper: [http://arxiv.org/abs/2502.03426v1](http://arxiv.org/abs/2502.03426v1)
+- 2025-02-05, **Large Language Models Are Universal Recommendation Learners**, Junguang Jiang et.al., Paper: [http://arxiv.org/abs/2502.03041v1](http://arxiv.org/abs/2502.03041v1)
+- 2025-02-05, **Driver Assistance System Based on Multimodal Data Hazard Detection**, Long Zhouxiang et.al., Paper: [http://arxiv.org/abs/2502.03005v1](http://arxiv.org/abs/2502.03005v1)
+- 2025-02-05, **Heterogeneous Value Decomposition Policy Fusion for Multi-Agent Cooperation**, Siying Wang et.al., Paper: [http://arxiv.org/abs/2502.02875v1](http://arxiv.org/abs/2502.02875v1)
+- 2025-02-05, **RS-YOLOX: A High Precision Detector for Object Detection in Satellite Remote Sensing Images**, Lei Yang et.al., Paper: [http://arxiv.org/abs/2502.02850v1](http://arxiv.org/abs/2502.02850v1)
+- 2025-02-05, **Multimodal Brain-Computer Interfaces: AI-powered Decoding Methodologies**, Siyang Li et.al., Paper: [http://arxiv.org/abs/2502.02830v1](http://arxiv.org/abs/2502.02830v1)
+- 2025-02-04, **Critical Current, Lengthwise Fluctuations, and Flux Jumps in REBCO CC: A Torque Magnetometry Study up to 45 T**, J. Jaroszynski et.al., Paper: [http://arxiv.org/abs/2502.02706v1](http://arxiv.org/abs/2502.02706v1)
+- 2025-02-04, **Response of liquid metal in a fusion reactor blanket to rapid variation of magnetic field during a transient plasma event**, Ivan Smolyanov et.al., Paper: [http://arxiv.org/abs/2502.02699v1](http://arxiv.org/abs/2502.02699v1)
+- 2025-02-04, **Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**, Amit Ranjan Trivedi et.al., Paper: [http://arxiv.org/abs/2502.02692v1](http://arxiv.org/abs/2502.02692v1)
+- 2025-02-04, **NDKF: A Neural-Enhanced Distributed Kalman Filter for Nonlinear Multi-Sensor Estimation**, Siavash Farzan et.al., Paper: [http://arxiv.org/abs/2502.02687v1](http://arxiv.org/abs/2502.02687v1)
 - 2025-02-04, **Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation**, George Whittle et.al., Paper: [http://arxiv.org/abs/2502.02463v1](http://arxiv.org/abs/2502.02463v1)
 - 2025-02-04, **FewTopNER: Integrating Few-Shot Learning with Topic Modeling and Named Entity Recognition in a Multilingual Framework**, Ibrahim Bouabdallaoui et.al., Paper: [http://arxiv.org/abs/2502.02391v1](http://arxiv.org/abs/2502.02391v1)
 - 2025-02-04, **Event-aided Semantic Scene Completion**, Shangwei Guo et.al., Paper: [http://arxiv.org/abs/2502.02334v1](http://arxiv.org/abs/2502.02334v1)
