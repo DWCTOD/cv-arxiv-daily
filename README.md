@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328v1](http://arxiv.org/abs/2502.04328v1)|null|
+|**2025-02-06**|**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**|Jack Hong et.al.|[2502.04326v1](http://arxiv.org/abs/2502.04326v1)|null|
+|**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299v1](http://arxiv.org/abs/2502.04299v1)|null|
+|**2025-02-06**|**Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression**|Lirui Wang et.al.|[2502.04296v1](http://arxiv.org/abs/2502.04296v1)|null|
+|**2025-02-06**|**Retro-Rank-In: A Ranking-Based Approach for Inorganic Materials Synthesis Planning**|Thorben Prein et.al.|[2502.04289v1](http://arxiv.org/abs/2502.04289v1)|null|
+|**2025-02-06**|**How does a Multilingual LM Handle Multiple Languages?**|Santhosh Kakarla et.al.|[2502.04269v1](http://arxiv.org/abs/2502.04269v1)|null|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263v1](http://arxiv.org/abs/2502.04263v1)|null|
+|**2025-02-06**|**Work in Progress: AI-Powered Engineering-Bridging Theory and Practice**|Oz Levy et.al.|[2502.04256v1](http://arxiv.org/abs/2502.04256v1)|null|
+|**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244v1](http://arxiv.org/abs/2502.04244v1)|null|
+|**2025-02-06**|**Saflo: eBPF-Based MPTCP Scheduler for Mitigating Traffic Analysis Attacks in Cellular Networks**|Sangwoo Lee et.al.|[2502.04236v1](http://arxiv.org/abs/2502.04236v1)|null|
 |**2025-02-05**|**Seeing World Dynamics in a Nutshell**|Qiuhong Shen et.al.|[2502.03465v1](http://arxiv.org/abs/2502.03465v1)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454v1](http://arxiv.org/abs/2502.03454v1)|null|
@@ -6578,6 +6588,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**|Weihang Li et.al.|[2502.04293v1](http://arxiv.org/abs/2502.04293v1)|null|
+|**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139v1](http://arxiv.org/abs/2502.04139v1)|null|
+|**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076v1](http://arxiv.org/abs/2502.04076v1)|null|
+|**2025-02-06**|**Fine, I'll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging**|Guinan Su et.al.|[2502.04030v1](http://arxiv.org/abs/2502.04030v1)|null|
+|**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[2502.03813v1](http://arxiv.org/abs/2502.03813v1)|null|
+|**2025-02-06**|**Network-Wide Traffic Flow Estimation Across Multiple Cities with Global Open Multi-Source Data: A Large-Scale Case Study in Europe and North America**|Zijian Hu et.al.|[2502.03798v1](http://arxiv.org/abs/2502.03798v1)|null|
+|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724v1](http://arxiv.org/abs/2502.03724v1)|null|
+|**2025-02-06**|**On the effects of angular acceleration in orientation estimation using inertial measurement units**|Felix Brändle et.al.|[2502.03681v1](http://arxiv.org/abs/2502.03681v1)|null|
+|**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664v1](http://arxiv.org/abs/2502.03664v1)|null|
 |**2025-02-05**|**TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer**|Zhihong Xu et.al.|[2502.03426v1](http://arxiv.org/abs/2502.03426v1)|null|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041v1](http://arxiv.org/abs/2502.03041v1)|null|
 |**2025-02-05**|**Driver Assistance System Based on Multimodal Data Hazard Detection**|Long Zhouxiang et.al.|[2502.03005v1](http://arxiv.org/abs/2502.03005v1)|null|
