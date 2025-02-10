@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179v1](http://arxiv.org/abs/2502.05179v1)|null|
+|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177v1](http://arxiv.org/abs/2502.05177v1)|null|
+|**2025-02-07**|**AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**|Chung-Ho Wu et.al.|[2502.05176v1](http://arxiv.org/abs/2502.05176v1)|null|
+|**2025-02-07**|**VideoRoPE: What Makes for Good Video Rotary Position Embedding?**|Xilin Wei et.al.|[2502.05173v1](http://arxiv.org/abs/2502.05173v1)|null|
+|**2025-02-07**|**Torsion pairs and 3-fold flops**|Parth Shimpi et.al.|[2502.05146v1](http://arxiv.org/abs/2502.05146v1)|null|
+|**2025-02-07**|**Chest X-ray Foundation Model with Global and Local Representations Integration**|Zefan Yang et.al.|[2502.05142v1](http://arxiv.org/abs/2502.05142v1)|null|
+|**2025-02-07**|**Counting Fish with Temporal Representations of Sonar Video**|Kai Van Brunt et.al.|[2502.05129v1](http://arxiv.org/abs/2502.05129v1)|null|
+|**2025-02-07**|**Multiphoton, multimode state classification for nonlinear optical circuits**|Denis A. Kopylov et.al.|[2502.05123v1](http://arxiv.org/abs/2502.05123v1)|null|
+|**2025-02-07**|**Investigating the impact of kernel harmonization and deformable registration on inspiratory and expiratory chest CT images for people with COPD**|Aravind R. Krishnan et.al.|[2502.05119v1](http://arxiv.org/abs/2502.05119v1)|null|
+|**2025-02-07**|**GiesKaNe: Bridging Past and Present in Grammatical Theory and Practical Application**|Volker Emmrich et.al.|[2502.05113v1](http://arxiv.org/abs/2502.05113v1)|null|
 |**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328v1](http://arxiv.org/abs/2502.04328v1)|null|
 |**2025-02-06**|**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**|Jack Hong et.al.|[2502.04326v1](http://arxiv.org/abs/2502.04326v1)|null|
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299v1](http://arxiv.org/abs/2502.04299v1)|null|
@@ -6588,6 +6598,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**EnseSmells: Deep ensemble and programming language models for automated code smells detection**|Anh Ho et.al.|[2502.05012v1](http://arxiv.org/abs/2502.05012v1)|null|
+|**2025-02-07**|**C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**|Chenxing Sun et.al.|[2502.04991v1](http://arxiv.org/abs/2502.04991v1)|null|
+|**2025-02-07**|**Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition**|Haohao Zhu et.al.|[2502.04960v1](http://arxiv.org/abs/2502.04960v1)|null|
+|**2025-02-07**|**Data-driven Modality Fusion: An AI-enabled Framework for Large-Scale Sensor Network Management**|Hrishikesh Dutta et.al.|[2502.04937v1](http://arxiv.org/abs/2502.04937v1)|null|
+|**2025-02-07**|**Cached Multi-Lora Composition for Multi-Concept Image Generation**|Xiandong Zou et.al.|[2502.04923v1](http://arxiv.org/abs/2502.04923v1)|null|
+|**2025-02-07**|**Wavelet-Assisted Multi-Frequency Attention Network for Pansharpening**|Jie Huang et.al.|[2502.04903v1](http://arxiv.org/abs/2502.04903v1)|null|
+|**2025-02-07**|**The Role of Integrity Monitoring in Connected and Automated Vehicles: Current State-of-Practice and Future Directions**|Saswat Priyadarshi Nayak et.al.|[2502.04874v1](http://arxiv.org/abs/2502.04874v1)|null|
+|**2025-02-07**|**MedMimic: Physician-Inspired Multimodal Fusion for Early Diagnosis of Fever of Unknown Origin**|Minrui Chen et.al.|[2502.04794v1](http://arxiv.org/abs/2502.04794v1)|null|
+|**2025-02-07**|**MHAF-YOLO: Multi-Branch Heterogeneous Auxiliary Fusion YOLO for accurate object detection**|Zhiqiang Yang et.al.|[2502.04656v1](http://arxiv.org/abs/2502.04656v1)|null|
+|**2025-02-07**|**High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting**|Zihao Zou et.al.|[2502.04630v1](http://arxiv.org/abs/2502.04630v1)|null|
 |**2025-02-06**|**GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**|Weihang Li et.al.|[2502.04293v1](http://arxiv.org/abs/2502.04293v1)|null|
 |**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139v1](http://arxiv.org/abs/2502.04139v1)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076v1](http://arxiv.org/abs/2502.04076v1)|null|
