@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-10, **Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2502.06782v1](http://arxiv.org/abs/2502.06782v1)
+- 2025-02-10, **KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission for Visual Classification**, Yue Zhu et.al., Paper: [http://arxiv.org/abs/2502.06779v1](http://arxiv.org/abs/2502.06779v1)
+- 2025-02-10, **ALMACAL XIII. Evolution of the CO luminosity function and the molecular gas mass density out to $z$ ~ 6**, Victoria Bollo et.al., Paper: [http://arxiv.org/abs/2502.06778v1](http://arxiv.org/abs/2502.06778v1)
+- 2025-02-10, **Enhancing Performance of Explainable AI Models with Constrained Concept Refinement**, Geyu Liang et.al., Paper: [http://arxiv.org/abs/2502.06775v1](http://arxiv.org/abs/2502.06775v1)
+- 2025-02-10, **History-Guided Video Diffusion**, Kiwhan Song et.al., Paper: [http://arxiv.org/abs/2502.06764v1](http://arxiv.org/abs/2502.06764v1)
+- 2025-02-10, **Equations over Finite Monoids with Infinite Promises**, Alberto Larrauri et.al., Paper: [http://arxiv.org/abs/2502.06762v1](http://arxiv.org/abs/2502.06762v1)
+- 2025-02-10, **Incentivizing Desirable Effort Profiles in Strategic Classification: The Role of Causality and Uncertainty**, Valia Efthymiou et.al., Paper: [http://arxiv.org/abs/2502.06749v1](http://arxiv.org/abs/2502.06749v1)
+- 2025-02-10, **Wandering around: A bioinspired approach to visual attention through object motion sensitivity**, Giulia D Angelo et.al., Paper: [http://arxiv.org/abs/2502.06747v1](http://arxiv.org/abs/2502.06747v1)
+- 2025-02-10, **Persistent spin grids with spin-orbit coupled 2D electron gas**, A. V. Poshakinskiy et.al., Paper: [http://arxiv.org/abs/2502.06745v1](http://arxiv.org/abs/2502.06745v1)
+- 2025-02-10, **Enhancing Pneumonia Diagnosis and Severity Assessment through Deep Learning: A Comprehensive Approach Integrating CNN Classification and Infection Segmentation**, S Kumar Reddy Mallidi et.al., Paper: [http://arxiv.org/abs/2502.06735v1](http://arxiv.org/abs/2502.06735v1)
 - 2025-02-07, **FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**, Shilong Zhang et.al., Paper: [http://arxiv.org/abs/2502.05179v1](http://arxiv.org/abs/2502.05179v1)
 - 2025-02-07, **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**, Yunhang Shen et.al., Paper: [http://arxiv.org/abs/2502.05177v1](http://arxiv.org/abs/2502.05177v1)
 - 2025-02-07, **AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**, Chung-Ho Wu et.al., Paper: [http://arxiv.org/abs/2502.05176v1](http://arxiv.org/abs/2502.05176v1)
@@ -6594,6 +6604,16 @@
 
 ## MultiModal
 
+- 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
+- 2025-02-10, **Multi-Scale Feature Fusion with Image-Driven Spatial Integration for Left Atrium Segmentation from Cardiac MRI Images**, Bipasha Kundu et.al., Paper: [http://arxiv.org/abs/2502.06615v1](http://arxiv.org/abs/2502.06615v1)
+- 2025-02-10, **SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps**, Ola Shorinwa et.al., Paper: [http://arxiv.org/abs/2502.06519v1](http://arxiv.org/abs/2502.06519v1)
+- 2025-02-10, **CT-UIO: Continuous-Time UWB-Inertial-Odometer Localization Using Non-Uniform B-spline with Fewer Anchors**, Jian Sun et.al., Paper: [http://arxiv.org/abs/2502.06287v1](http://arxiv.org/abs/2502.06287v1)
+- 2025-02-10, **Progressive Collaborative and Semantic Knowledge Fusion for Generative Recommendation**, Longtao Xiao et.al., Paper: [http://arxiv.org/abs/2502.06269v1](http://arxiv.org/abs/2502.06269v1)
+- 2025-02-10, **Multi-Scale Transformer Architecture for Accurate Medical Image Classification**, Jiacheng Hu et.al., Paper: [http://arxiv.org/abs/2502.06243v1](http://arxiv.org/abs/2502.06243v1)
+- 2025-02-10, **Self-organized criticality driven by droplet influx and random fusion**, Bohan Lyu et.al., Paper: [http://arxiv.org/abs/2502.06236v1](http://arxiv.org/abs/2502.06236v1)
+- 2025-02-10, **Constructing equivalences between fusion categories of quantum groups and of vertex operator algebras via quantum gauge groups**, Claudia Pinzari et.al., Paper: [http://arxiv.org/abs/2502.06229v1](http://arxiv.org/abs/2502.06229v1)
+- 2025-02-10, **Fully Exploiting Vision Foundation Model's Profound Prior Knowledge for Generalizable RGB-Depth Driving Scene Parsing**, Sicen Guo et.al., Paper: [http://arxiv.org/abs/2502.06219v1](http://arxiv.org/abs/2502.06219v1)
+- 2025-02-10, **Multi-Level Decoupled Relational Distillation for Heterogeneous Architectures**, Yaoxin Yang et.al., Paper: [http://arxiv.org/abs/2502.06189v1](http://arxiv.org/abs/2502.06189v1)
 - 2025-02-07, **EnseSmells: Deep ensemble and programming language models for automated code smells detection**, Anh Ho et.al., Paper: [http://arxiv.org/abs/2502.05012v1](http://arxiv.org/abs/2502.05012v1)
 - 2025-02-07, **C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**, Chenxing Sun et.al., Paper: [http://arxiv.org/abs/2502.04991v1](http://arxiv.org/abs/2502.04991v1)
 - 2025-02-07, **Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition**, Haohao Zhu et.al., Paper: [http://arxiv.org/abs/2502.04960v1](http://arxiv.org/abs/2502.04960v1)
