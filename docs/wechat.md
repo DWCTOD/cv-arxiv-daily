@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-11, **Pippo: High-Resolution Multi-View Humans from a Single Image**, Yash Kant et.al., Paper: [http://arxiv.org/abs/2502.07785v1](http://arxiv.org/abs/2502.07785v1)
+- 2025-02-11, **Statistical Reevaluation of the USP Classification Boundary: Smaller Planets Within 1 Day, Larger Period Ratios Below 2 Days**, Armaan V. Goyal et.al., Paper: [http://arxiv.org/abs/2502.07773v1](http://arxiv.org/abs/2502.07773v1)
+- 2025-02-11, **A forbidden subgraph study for cut problems on graphs permitting loops and multiedges**, Tala Eagling-Vose et.al., Paper: [http://arxiv.org/abs/2502.07769v1](http://arxiv.org/abs/2502.07769v1)
+- 2025-02-11, **An Advanced NLP Framework for Automated Medical Diagnosis with DeBERTa and Dynamic Contextual Positional Gating**, Mohammad Ali Labbaf Khaniki et.al., Paper: [http://arxiv.org/abs/2502.07755v1](http://arxiv.org/abs/2502.07755v1)
+- 2025-02-11, **HiPoNet: A Topology-Preserving Multi-View Neural Network For High Dimensional Point Cloud and Single-Cell Data**, Siddharth Viswanath et.al., Paper: [http://arxiv.org/abs/2502.07746v1](http://arxiv.org/abs/2502.07746v1)
+- 2025-02-11, **Next Block Prediction: Video Generation via Semi-Auto-Regressive Modeling**, Shuhuai Ren et.al., Paper: [http://arxiv.org/abs/2502.07737v1](http://arxiv.org/abs/2502.07737v1)
+- 2025-02-11, **PRVQL: Progressive Knowledge-guided Refinement for Robust Egocentric Visual Query Localization**, Bing Fan et.al., Paper: [http://arxiv.org/abs/2502.07707v1](http://arxiv.org/abs/2502.07707v1)
+- 2025-02-11, **Magic 1-For-1: Generating One Minute Video Clips within One Minute**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2502.07701v1](http://arxiv.org/abs/2502.07701v1)
+- 2025-02-11, **SoK: A Classification for AI-driven Personalized Privacy Assistants**, Victor Morel et.al., Paper: [http://arxiv.org/abs/2502.07693v1](http://arxiv.org/abs/2502.07693v1)
+- 2025-02-11, **Auto-Drafting Police Reports from Noisy ASR Outputs: A Trust-Centered LLM Approach**, Param Kulkarni et.al., Paper: [http://arxiv.org/abs/2502.07677v1](http://arxiv.org/abs/2502.07677v1)
 - 2025-02-10, **Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2502.06782v1](http://arxiv.org/abs/2502.06782v1)
 - 2025-02-10, **KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission for Visual Classification**, Yue Zhu et.al., Paper: [http://arxiv.org/abs/2502.06779v1](http://arxiv.org/abs/2502.06779v1)
 - 2025-02-10, **ALMACAL XIII. Evolution of the CO luminosity function and the molecular gas mass density out to $z$ ~ 6**, Victoria Bollo et.al., Paper: [http://arxiv.org/abs/2502.06778v1](http://arxiv.org/abs/2502.06778v1)
@@ -6604,6 +6614,16 @@
 
 ## MultiModal
 
+- 2025-02-11, **Planar Coil Optimization for the Eos Stellarator using Sparse Regression**, Ryan Wu et.al., Paper: [http://arxiv.org/abs/2502.07702v1](http://arxiv.org/abs/2502.07702v1)
+- 2025-02-11, **Gauge Origami and BPS/CFT correspondence**, Go Noshita et.al., Paper: [http://arxiv.org/abs/2502.07573v1](http://arxiv.org/abs/2502.07573v1)
+- 2025-02-11, **5D Neural Surrogates for Nonlinear Gyrokinetic Simulations of Plasma Turbulence**, Gianluca Galletti et.al., Paper: [http://arxiv.org/abs/2502.07469v1](http://arxiv.org/abs/2502.07469v1)
+- 2025-02-11, **Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving**, Novendra Setyawan et.al., Paper: [http://arxiv.org/abs/2502.07417v1](http://arxiv.org/abs/2502.07417v1)
+- 2025-02-11, **Extended monocular 3D imaging**, Zicheng Shen et.al., Paper: [http://arxiv.org/abs/2502.07403v1](http://arxiv.org/abs/2502.07403v1)
+- 2025-02-11, **Interpretable Rules for Online Failure Prediction: A Case Study on the Metro do Porto dataset**, Matthias Jakobs et.al., Paper: [http://arxiv.org/abs/2502.07394v1](http://arxiv.org/abs/2502.07394v1)
+- 2025-02-11, **Target-Augmented Shared Fusion-based Multimodal Sarcasm Explanation Generation**, Palaash Goel et.al., Paper: [http://arxiv.org/abs/2502.07391v1](http://arxiv.org/abs/2502.07391v1)
+- 2025-02-11, **SAGEPhos: Sage Bio-Coupled and Augmented Fusion for Phosphorylation Site Detection**, Jingjie Zhang et.al., Paper: [http://arxiv.org/abs/2502.07384v1](http://arxiv.org/abs/2502.07384v1)
+- 2025-02-11, **Robust Indoor Localization in Dynamic Environments: A Multi-source Unsupervised Domain Adaptation Framework**, Jiyu Jiao et.al., Paper: [http://arxiv.org/abs/2502.07246v1](http://arxiv.org/abs/2502.07246v1)
+- 2025-02-11, **Graph RAG-Tool Fusion**, Elias Lumer et.al., Paper: [http://arxiv.org/abs/2502.07223v1](http://arxiv.org/abs/2502.07223v1)
 - 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
 - 2025-02-10, **Multi-Scale Feature Fusion with Image-Driven Spatial Integration for Left Atrium Segmentation from Cardiac MRI Images**, Bipasha Kundu et.al., Paper: [http://arxiv.org/abs/2502.06615v1](http://arxiv.org/abs/2502.06615v1)
 - 2025-02-10, **SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps**, Ola Shorinwa et.al., Paper: [http://arxiv.org/abs/2502.06519v1](http://arxiv.org/abs/2502.06519v1)
