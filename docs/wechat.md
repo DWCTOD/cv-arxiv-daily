@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-12, **CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**, Qinghe Wang et.al., Paper: [http://arxiv.org/abs/2502.08639v1](http://arxiv.org/abs/2502.08639v1)
+- 2025-02-12, **Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**, Jun Lyu et.al., Paper: [http://arxiv.org/abs/2502.08634v1](http://arxiv.org/abs/2502.08634v1)
+- 2025-02-12, **Ensemble based approach to quantifying uncertainty of LLM based classifications**, Srijith Rajamohan et.al., Paper: [http://arxiv.org/abs/2502.08631v1](http://arxiv.org/abs/2502.08631v1)
+- 2025-02-12, **Robot Data Curation with Mutual Information Estimators**, Joey Hejna et.al., Paper: [http://arxiv.org/abs/2502.08623v1](http://arxiv.org/abs/2502.08623v1)
+- 2025-02-12, **Forecasting Drought Using Machine Learning in California**, Nan K. Li et.al., Paper: [http://arxiv.org/abs/2502.08622v1](http://arxiv.org/abs/2502.08622v1)
+- 2025-02-12, **SportsBuddy: Designing and Evaluating an AI-Powered Sports Video Storytelling Tool Through Real-World Deployment**, Tica Lin et.al., Paper: [http://arxiv.org/abs/2502.08621v1](http://arxiv.org/abs/2502.08621v1)
+- 2025-02-12, **Learning Selection Cuts With Gradients**, Mike Hance et.al., Paper: [http://arxiv.org/abs/2502.08615v1](http://arxiv.org/abs/2502.08615v1)
+- 2025-02-12, **Continuous Cardiac Arrest Prediction in ICU using PPG Foundation Model**, Saurabh Kataria et.al., Paper: [http://arxiv.org/abs/2502.08612v1](http://arxiv.org/abs/2502.08612v1)
+- 2025-02-12, **CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection**, Karish Grover et.al., Paper: [http://arxiv.org/abs/2502.08605v1](http://arxiv.org/abs/2502.08605v1)
+- 2025-02-12, **Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**, Yujie Zhou et.al., Paper: [http://arxiv.org/abs/2502.08590v1](http://arxiv.org/abs/2502.08590v1), Code: **[https://github.com/bcmi/Light-A-Video](https://github.com/bcmi/Light-A-Video)**
 - 2025-02-11, **Pippo: High-Resolution Multi-View Humans from a Single Image**, Yash Kant et.al., Paper: [http://arxiv.org/abs/2502.07785v1](http://arxiv.org/abs/2502.07785v1)
 - 2025-02-11, **Statistical Reevaluation of the USP Classification Boundary: Smaller Planets Within 1 Day, Larger Period Ratios Below 2 Days**, Armaan V. Goyal et.al., Paper: [http://arxiv.org/abs/2502.07773v1](http://arxiv.org/abs/2502.07773v1)
 - 2025-02-11, **A forbidden subgraph study for cut problems on graphs permitting loops and multiedges**, Tala Eagling-Vose et.al., Paper: [http://arxiv.org/abs/2502.07769v1](http://arxiv.org/abs/2502.07769v1)
@@ -6614,6 +6624,16 @@
 
 ## MultiModal
 
+- 2025-02-12, **Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**, Yujie Zhou et.al., Paper: [http://arxiv.org/abs/2502.08590v1](http://arxiv.org/abs/2502.08590v1), Code: **[https://github.com/bcmi/Light-A-Video](https://github.com/bcmi/Light-A-Video)**
+- 2025-02-12, **A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion**, Wei Dai et.al., Paper: [http://arxiv.org/abs/2502.08573v1](http://arxiv.org/abs/2502.08573v1)
+- 2025-02-12, **FedMHO: Heterogeneous One-Shot Federated Learning Towards Resource-Constrained Edge Devices**, Dezhong Yao et.al., Paper: [http://arxiv.org/abs/2502.08518v1](http://arxiv.org/abs/2502.08518v1)
+- 2025-02-12, **The MoE-Empowered Edge LLMs Deployment: Architecture, Challenges, and Opportunities**, Ning Li et.al., Paper: [http://arxiv.org/abs/2502.08381v1](http://arxiv.org/abs/2502.08381v1)
+- 2025-02-12, **Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features**, Liying Yang et.al., Paper: [http://arxiv.org/abs/2502.08377v1](http://arxiv.org/abs/2502.08377v1)
+- 2025-02-12, **Enhanced Load Forecasting with GAT-LSTM: Leveraging Grid and Temporal Features**, Ugochukwu Orji et.al., Paper: [http://arxiv.org/abs/2502.08376v1](http://arxiv.org/abs/2502.08376v1)
+- 2025-02-12, **Research on Cumin Peptides Using PBS Extraction and Their Multifunctional Bioactivities**, Yasen Mijiti et.al., Paper: [http://arxiv.org/abs/2502.08264v1](http://arxiv.org/abs/2502.08264v1)
+- 2025-02-12, **Deepfake Detection with Spatio-Temporal Consistency and Attention**, Yunzhuo Chen et.al., Paper: [http://arxiv.org/abs/2502.08216v1](http://arxiv.org/abs/2502.08216v1)
+- 2025-02-12, **Continuous high-yield fast neutron generation with few-cycle laser pulses at 10 Hz for applications**, L. Stuhl et.al., Paper: [http://arxiv.org/abs/2502.08197v1](http://arxiv.org/abs/2502.08197v1)
+- 2025-02-12, **DualStream Contextual Fusion Network: Efficient Target Speaker Extraction by Leveraging Mixture and Enrollment Interactions**, Ke Xue et.al., Paper: [http://arxiv.org/abs/2502.08191v1](http://arxiv.org/abs/2502.08191v1)
 - 2025-02-11, **Planar Coil Optimization for the Eos Stellarator using Sparse Regression**, Ryan Wu et.al., Paper: [http://arxiv.org/abs/2502.07702v1](http://arxiv.org/abs/2502.07702v1)
 - 2025-02-11, **Gauge Origami and BPS/CFT correspondence**, Go Noshita et.al., Paper: [http://arxiv.org/abs/2502.07573v1](http://arxiv.org/abs/2502.07573v1)
 - 2025-02-11, **5D Neural Surrogates for Nonlinear Gyrokinetic Simulations of Plasma Turbulence**, Gianluca Galletti et.al., Paper: [http://arxiv.org/abs/2502.07469v1](http://arxiv.org/abs/2502.07469v1)
