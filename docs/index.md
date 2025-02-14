@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623v1](http://arxiv.org/abs/2502.09623v1)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|null|
+|**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619v1](http://arxiv.org/abs/2502.09619v1)|null|
+|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614v1](http://arxiv.org/abs/2502.09614v1)|null|
+|**2025-02-13**|**Morphological Classification of Galaxies**|Karen Masters et.al.|[2502.09610v1](http://arxiv.org/abs/2502.09610v1)|null|
+|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598v1](http://arxiv.org/abs/2502.09598v1)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597v1](http://arxiv.org/abs/2502.09597v1)|null|
+|**2025-02-13**|**Optimizing GPT for Video Understanding: Zero-Shot Performance and Prompt Engineering**|Mark Beliaev et.al.|[2502.09573v1](http://arxiv.org/abs/2502.09573v1)|null|
+|**2025-02-13**|**Diffusing DeBias: a Recipe for Turning a Bug into a Feature**|Massimiliano Ciranni et.al.|[2502.09564v1](http://arxiv.org/abs/2502.09564v1)|null|
+|**2025-02-13**|**Learned Correction Methods for Ultrasound Computed Tomography Imaging Using Simplified Physics Models**|Luke Lozenski et.al.|[2502.09546v1](http://arxiv.org/abs/2502.09546v1)|null|
 |**2025-02-12**|**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**|Qinghe Wang et.al.|[2502.08639v1](http://arxiv.org/abs/2502.08639v1)|null|
 |**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634v1](http://arxiv.org/abs/2502.08634v1)|null|
 |**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631v1](http://arxiv.org/abs/2502.08631v1)|null|
@@ -6632,6 +6642,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency**|Jorgen Cani et.al.|[2502.09379v1](http://arxiv.org/abs/2502.09379v1)|null|
+|**2025-02-13**|**Optimizing omnigenity like quasisymmetry for stellarators**|Hengqian Liu et.al.|[2502.09350v1](http://arxiv.org/abs/2502.09350v1)|null|
+|**2025-02-13**|**Neural Spatiotemporal Point Processes: Trends and Challenges**|Sumantrak Mukherjee et.al.|[2502.09341v1](http://arxiv.org/abs/2502.09341v1)|null|
+|**2025-02-13**|**Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection**|Yan Zhang et.al.|[2502.09311v1](http://arxiv.org/abs/2502.09311v1)|null|
+|**2025-02-13**|**Dynamic Rolling Horizon Optimization for Network-Constrained V2X Value Stacking of Electric Vehicles Under Uncertainties**|Canchen Jiang et.al.|[2502.09290v1](http://arxiv.org/abs/2502.09290v1)|null|
+|**2025-02-13**|**FE-LWS: Refined Image-Text Representations via Decoder Stacking and Fused Encodings for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2502.09282v1](http://arxiv.org/abs/2502.09282v1)|null|
+|**2025-02-13**|**DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images**|Zesheng Li et.al.|[2502.09256v1](http://arxiv.org/abs/2502.09256v1)|null|
+|**2025-02-13**|**The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics**|Danni Feng et.al.|[2502.09247v1](http://arxiv.org/abs/2502.09247v1)|null|
+|**2025-02-13**|**Double Higgs Production in Vector Boson Fusion at NLO QCD in HEFT**|Jens Braun et.al.|[2502.09132v1](http://arxiv.org/abs/2502.09132v1)|null|
+|**2025-02-13**|**Precision tools for the simulation of double-Higgs production via vector-boson fusion**|Barbara Jäger et.al.|[2502.09112v1](http://arxiv.org/abs/2502.09112v1)|null|
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590v1](http://arxiv.org/abs/2502.08590v1)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion**|Wei Dai et.al.|[2502.08573v1](http://arxiv.org/abs/2502.08573v1)|null|
 |**2025-02-12**|**FedMHO: Heterogeneous One-Shot Federated Learning Towards Resource-Constrained Edge Devices**|Dezhong Yao et.al.|[2502.08518v1](http://arxiv.org/abs/2502.08518v1)|null|
