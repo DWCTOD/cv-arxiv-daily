@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-14, **Simplifying DINO via Coding Rate Regularization**, Ziyang Wu et.al., Paper: [http://arxiv.org/abs/2502.10385v1](http://arxiv.org/abs/2502.10385v1)
+- 2025-02-14, **Balancing the Scales: A Theoretical and Algorithmic Framework for Learning from Imbalanced Data**, Corinna Cortes et.al., Paper: [http://arxiv.org/abs/2502.10381v1](http://arxiv.org/abs/2502.10381v1)
+- 2025-02-14, **Quasi-isometry classification of certain graph $2$-braid groups and its applications**, Byung Hee An et.al., Paper: [http://arxiv.org/abs/2502.10366v1](http://arxiv.org/abs/2502.10366v1)
+- 2025-02-14, **Proper Learnability and the Role of Unlabeled Data**, Julian Asilis et.al., Paper: [http://arxiv.org/abs/2502.10359v1](http://arxiv.org/abs/2502.10359v1)
+- 2025-02-14, **Diameter bounds for $SL(2,\mathbb{Z})$-orbits of origamis in $\mathcal{H}(2)$ and the Prym loci in $\mathcal{H}(4)$ and $\mathcal{H}(6)$**, Luke Jeffreys et.al., Paper: [http://arxiv.org/abs/2502.10358v1](http://arxiv.org/abs/2502.10358v1)
+- 2025-02-14, **OptimOTU: Taxonomically aware OTU clustering with optimized thresholds and a bioinformatics workflow for metabarcoding data**, Brendan Furneaux et.al., Paper: [http://arxiv.org/abs/2502.10350v1](http://arxiv.org/abs/2502.10350v1)
+- 2025-02-14, **Ocular Disease Classification Using CNN with Deep Convolutional Generative Adversarial Network**, Arun Kunwar et.al., Paper: [http://arxiv.org/abs/2502.10334v1](http://arxiv.org/abs/2502.10334v1)
+- 2025-02-14, **SegX: Improving Interpretability of Clinical Image Diagnosis with Segmentation-based Enhancement**, Yuhao Zhang et.al., Paper: [http://arxiv.org/abs/2502.10296v1](http://arxiv.org/abs/2502.10296v1)
+- 2025-02-14, **Probing Perceptual Constancy in Large Vision Language Models**, Haoran Sun et.al., Paper: [http://arxiv.org/abs/2502.10273v1](http://arxiv.org/abs/2502.10273v1)
+- 2025-02-14, **Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**, Guoqing Ma et.al., Paper: [http://arxiv.org/abs/2502.10248v1](http://arxiv.org/abs/2502.10248v1)
 - 2025-02-13, **Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**, Francesco Ballerini et.al., Paper: [http://arxiv.org/abs/2502.09623v1](http://arxiv.org/abs/2502.09623v1)
 - 2025-02-13, **Exploring the Potential of Encoder-free Architectures in 3D LMMs**, Yiwen Tang et.al., Paper: [http://arxiv.org/abs/2502.09620v1](http://arxiv.org/abs/2502.09620v1)
 - 2025-02-13, **Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**, Jonathan Kahana et.al., Paper: [http://arxiv.org/abs/2502.09619v1](http://arxiv.org/abs/2502.09619v1)
@@ -6634,6 +6644,11 @@
 
 ## MultiModal
 
+- 2025-02-14, **A Survey on Constructing Parseval Fusion Frames via Scaling Weights**, Ehsan Ameli et.al., Paper: [http://arxiv.org/abs/2502.10244v1](http://arxiv.org/abs/2502.10244v1)
+- 2025-02-14, **A novel approach to data generation in generative model**, JaeHong Kim et.al., Paper: [http://arxiv.org/abs/2502.10092v1](http://arxiv.org/abs/2502.10092v1)
+- 2025-02-14, **MTLM: an Innovative Language Model Training Paradigm for ASR**, Qingliang Meng et.al., Paper: [http://arxiv.org/abs/2502.10058v1](http://arxiv.org/abs/2502.10058v1)
+- 2025-02-14, **POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning**, Jiawei Cheng et.al., Paper: [http://arxiv.org/abs/2502.10038v1](http://arxiv.org/abs/2502.10038v1)
+- 2025-02-14, **V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**, Hsu-kuang Chiu et.al., Paper: [http://arxiv.org/abs/2502.09980v1](http://arxiv.org/abs/2502.09980v1)
 - 2025-02-13, **TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency**, Jorgen Cani et.al., Paper: [http://arxiv.org/abs/2502.09379v1](http://arxiv.org/abs/2502.09379v1)
 - 2025-02-13, **Optimizing omnigenity like quasisymmetry for stellarators**, Hengqian Liu et.al., Paper: [http://arxiv.org/abs/2502.09350v1](http://arxiv.org/abs/2502.09350v1)
 - 2025-02-13, **Neural Spatiotemporal Point Processes: Trends and Challenges**, Sumantrak Mukherjee et.al., Paper: [http://arxiv.org/abs/2502.09341v1](http://arxiv.org/abs/2502.09341v1)
