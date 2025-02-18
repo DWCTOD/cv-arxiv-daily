@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-17, **VoLUT: Efficient Volumetric streaming enhanced by LUT-based super-resolution**, Chendong Wang et.al., Paper: [http://arxiv.org/abs/2502.12151v1](http://arxiv.org/abs/2502.12151v1)
+- 2025-02-17, **Idiosyncrasies in Large Language Models**, Mingjie Sun et.al., Paper: [http://arxiv.org/abs/2502.12150v1](http://arxiv.org/abs/2502.12150v1)
+- 2025-02-17, **LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**, Florian Sestak et.al., Paper: [http://arxiv.org/abs/2502.12128v1](http://arxiv.org/abs/2502.12128v1)
+- 2025-02-17, **Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**, Roman Malashin et.al., Paper: [http://arxiv.org/abs/2502.12125v1](http://arxiv.org/abs/2502.12125v1)
+- 2025-02-17, **Crime in Proportions: Applying Compositional Data Analysis to European Crime Trends for 2022**, Onur Batın Doğan et.al., Paper: [http://arxiv.org/abs/2502.12099v1](http://arxiv.org/abs/2502.12099v1)
+- 2025-02-17, **Descriminative-Generative Custom Tokens for Vision-Language Models**, Pramuditha Perera et.al., Paper: [http://arxiv.org/abs/2502.12095v1](http://arxiv.org/abs/2502.12095v1)
+- 2025-02-17, **Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems**, Yue Sun et.al., Paper: [http://arxiv.org/abs/2502.12086v1](http://arxiv.org/abs/2502.12086v1)
+- 2025-02-17, **AdaSplash: Adaptive Sparse Flash Attention**, Nuno Gonçalves et.al., Paper: [http://arxiv.org/abs/2502.12082v1](http://arxiv.org/abs/2502.12082v1)
+- 2025-02-17, **Unhackable Temporal Rewarding for Scalable Video MLLMs**, En Yu et.al., Paper: [http://arxiv.org/abs/2502.12081v1](http://arxiv.org/abs/2502.12081v1)
+- 2025-02-17, **Classifying the Stoichiometry of Virus-like Particles with Interpretable Machine Learning**, Jiayang Zhang et.al., Paper: [http://arxiv.org/abs/2502.12049v1](http://arxiv.org/abs/2502.12049v1)
 - 2025-02-14, **Simplifying DINO via Coding Rate Regularization**, Ziyang Wu et.al., Paper: [http://arxiv.org/abs/2502.10385v1](http://arxiv.org/abs/2502.10385v1)
 - 2025-02-14, **Balancing the Scales: A Theoretical and Algorithmic Framework for Learning from Imbalanced Data**, Corinna Cortes et.al., Paper: [http://arxiv.org/abs/2502.10381v1](http://arxiv.org/abs/2502.10381v1)
 - 2025-02-14, **Quasi-isometry classification of certain graph $2$-braid groups and its applications**, Byung Hee An et.al., Paper: [http://arxiv.org/abs/2502.10366v1](http://arxiv.org/abs/2502.10366v1)
@@ -6644,6 +6654,16 @@
 
 ## MultiModal
 
+- 2025-02-17, **Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**, Tessa Pulli et.al., Paper: [http://arxiv.org/abs/2502.12027v1](http://arxiv.org/abs/2502.12027v1)
+- 2025-02-17, **Robotic CBCT Meets Robotic Ultrasound**, Feng Li et.al., Paper: [http://arxiv.org/abs/2502.12019v1](http://arxiv.org/abs/2502.12019v1)
+- 2025-02-17, **Lightweight Deepfake Detection Based on Multi-Feature Fusion**, Siddiqui Muhammad Yasir et.al., Paper: [http://arxiv.org/abs/2502.11763v1](http://arxiv.org/abs/2502.11763v1)
+- 2025-02-17, **How does ion temperature gradient turbulence depend on magnetic geometry? Insights from data and machine learning**, Matt Landreman et.al., Paper: [http://arxiv.org/abs/2502.11657v1](http://arxiv.org/abs/2502.11657v1)
+- 2025-02-17, **UniGO: A Unified Graph Neural Network for Modeling Opinion Dynamics on Graphs**, Hao Li et.al., Paper: [http://arxiv.org/abs/2502.11519v1](http://arxiv.org/abs/2502.11519v1)
+- 2025-02-17, **Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**, Yanbin Li et.al., Paper: [http://arxiv.org/abs/2502.11486v1](http://arxiv.org/abs/2502.11486v1)
+- 2025-02-17, **For a New Department of Energy lab to examine laser fusion for energy**, Wallace Manheimer et.al., Paper: [http://arxiv.org/abs/2502.11473v1](http://arxiv.org/abs/2502.11473v1)
+- 2025-02-17, **\textsc{FLAG-Trader}: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading**, Guojun Xiong et.al., Paper: [http://arxiv.org/abs/2502.11433v1](http://arxiv.org/abs/2502.11433v1)
+- 2025-02-17, **LayAlign: Enhancing Multilingual Reasoning in Large Language Models via Layer-Wise Adaptive Fusion and Alignment Strategy**, Zhiwen Ruan et.al., Paper: [http://arxiv.org/abs/2502.11405v1](http://arxiv.org/abs/2502.11405v1)
+- 2025-02-16, **MC-BEVRO: Multi-Camera Bird Eye View Road Occupancy Detection for Traffic Monitoring**, Arpitsinh Vaghela et.al., Paper: [http://arxiv.org/abs/2502.11287v1](http://arxiv.org/abs/2502.11287v1)
 - 2025-02-14, **A Survey on Constructing Parseval Fusion Frames via Scaling Weights**, Ehsan Ameli et.al., Paper: [http://arxiv.org/abs/2502.10244v1](http://arxiv.org/abs/2502.10244v1)
 - 2025-02-14, **A novel approach to data generation in generative model**, JaeHong Kim et.al., Paper: [http://arxiv.org/abs/2502.10092v1](http://arxiv.org/abs/2502.10092v1)
 - 2025-02-14, **MTLM: an Innovative Language Model Training Paradigm for ASR**, Qingliang Meng et.al., Paper: [http://arxiv.org/abs/2502.10058v1](http://arxiv.org/abs/2502.10058v1)
