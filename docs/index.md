@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142v1](http://arxiv.org/abs/2502.13142v1)|null|
+|**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130v1](http://arxiv.org/abs/2502.13130v1)|null|
+|**2025-02-18**|**BOLIMES: Boruta and LIME optiMized fEature Selection for Gene Expression Classification**|Bich-Chung Phan et.al.|[2502.13080v1](http://arxiv.org/abs/2502.13080v1)|null|
+|**2025-02-18**|**L4P: Low-Level 4D Vision Perception Unified**|Abhishek Badki et.al.|[2502.13078v1](http://arxiv.org/abs/2502.13078v1)|null|
+|**2025-02-18**|**Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection**|Jingbiao Mei et.al.|[2502.13061v1](http://arxiv.org/abs/2502.13061v1)|null|
+|**2025-02-18**|**Benchmarking MedMNIST dataset on real quantum hardware**|Gurinder Singh et.al.|[2502.13056v1](http://arxiv.org/abs/2502.13056v1)|null|
+|**2025-02-18**|**LAMD: Context-driven Android Malware Detection and Classification with LLMs**|Xingzhi Qian et.al.|[2502.13055v1](http://arxiv.org/abs/2502.13055v1)|null|
+|**2025-02-18**|**QZO: A Catalog of 5 Million Quasars from the Zwicky Transient Facility**|S. J. Nakoneczny et.al.|[2502.13054v1](http://arxiv.org/abs/2502.13054v1)|null|
+|**2025-02-18**|**Development of systematic uncertainty-aware neural network trainings for binned-likelihood analyses at the LHC**|CMS Collaboration et.al.|[2502.13047v1](http://arxiv.org/abs/2502.13047v1)|null|
+|**2025-02-18**|**How far are two symmetric matrices from commuting? With an application to object characterisation and identification in metal detection**|P. D. Ledger et.al.|[2502.13038v1](http://arxiv.org/abs/2502.13038v1)|null|
 |**2025-02-17**|**VoLUT: Efficient Volumetric streaming enhanced by LUT-based super-resolution**|Chendong Wang et.al.|[2502.12151v1](http://arxiv.org/abs/2502.12151v1)|null|
 |**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150v1](http://arxiv.org/abs/2502.12150v1)|null|
 |**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128v1](http://arxiv.org/abs/2502.12128v1)|null|
@@ -6662,6 +6672,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071v1](http://arxiv.org/abs/2502.13071v1)|null|
+|**2025-02-18**|**Development of systematic uncertainty-aware neural network trainings for binned-likelihood analyses at the LHC**|CMS Collaboration et.al.|[2502.13047v1](http://arxiv.org/abs/2502.13047v1)|null|
+|**2025-02-18**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817v1](http://arxiv.org/abs/2502.12817v1)|null|
+|**2025-02-18**|**SparkAttention: High-Performance Multi-Head Attention for Large Models on Volta GPU Architecture**|Youxuan Xu et.al.|[2502.12784v1](http://arxiv.org/abs/2502.12784v1)|null|
+|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752v1](http://arxiv.org/abs/2502.12752v1)|null|
+|**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735v1](http://arxiv.org/abs/2502.12735v1)|null|
+|**2025-02-18**|**DeepResonance: Enhancing Multimodal Music Understanding via Music-centric Multi-way Instruction Tuning**|Zhuoyuan Mao et.al.|[2502.12623v1](http://arxiv.org/abs/2502.12623v1)|null|
+|**2025-02-18**|**Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial Sampling Resolution for SWRs**|Siyu You et.al.|[2502.12512v1](http://arxiv.org/abs/2502.12512v1)|null|
+|**2025-02-18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|Xiang He et.al.|[2502.12488v1](http://arxiv.org/abs/2502.12488v1)|null|
+|**2025-02-18**|**YUNet: Improved YOLOv11 Network for Skyline Detection**|Gang Yang et.al.|[2502.12449v1](http://arxiv.org/abs/2502.12449v1)|null|
 |**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027v1](http://arxiv.org/abs/2502.12027v1)|null|
 |**2025-02-17**|**Robotic CBCT Meets Robotic Ultrasound**|Feng Li et.al.|[2502.12019v1](http://arxiv.org/abs/2502.12019v1)|null|
 |**2025-02-17**|**Lightweight Deepfake Detection Based on Multi-Feature Fusion**|Siddiqui Muhammad Yasir et.al.|[2502.11763v1](http://arxiv.org/abs/2502.11763v1)|null|
