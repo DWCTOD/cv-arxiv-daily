@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923v1](http://arxiv.org/abs/2502.13923v1)|null|
+|**2025-02-19**|**Audio-Based Classification of Insect Species Using Machine Learning Models: Cicada, Beetle, Termite, and Cricket**|Manas V Shetty et.al.|[2502.13893v1](http://arxiv.org/abs/2502.13893v1)|null|
+|**2025-02-19**|**Multi-view Video-Pose Pretraining for Operating Room Surgical Activity Recognition**|Idris Hamoud et.al.|[2502.13883v1](http://arxiv.org/abs/2502.13883v1)|null|
+|**2025-02-19**|**Ribbon blocks for centraliser algebras of symmetric groups**|Matthew Fayers et.al.|[2502.13867v1](http://arxiv.org/abs/2502.13867v1)|null|
+|**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859v1](http://arxiv.org/abs/2502.13859v1)|null|
+|**2025-02-19**|**Generative Video Semantic Communication via Multimodal Semantic Fusion with Large Model**|Hang Yin et.al.|[2502.13838v1](http://arxiv.org/abs/2502.13838v1)|null|
+|**2025-02-19**|**MGFI-Net: A Multi-Grained Feature Integration Network for Enhanced Medical Image Segmentation**|Yucheng Zeng et.al.|[2502.13808v1](http://arxiv.org/abs/2502.13808v1)|null|
+|**2025-02-19**|**Classifying thick subcategories over a Koszul complex via the curved BGG correspondence**|Jian Liu et.al.|[2502.13806v1](http://arxiv.org/abs/2502.13806v1)|null|
+|**2025-02-19**|**Binary VPN Traffic Detection Using Wavelet Features and Machine Learning**|Yasameen Sajid Razooqi et.al.|[2502.13804v1](http://arxiv.org/abs/2502.13804v1)|null|
+|**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789v1](http://arxiv.org/abs/2502.13789v1)|null|
 |**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142v1](http://arxiv.org/abs/2502.13142v1)|null|
 |**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130v1](http://arxiv.org/abs/2502.13130v1)|null|
 |**2025-02-18**|**BOLIMES: Boruta and LIME optiMized fEature Selection for Gene Expression Classification**|Bich-Chung Phan et.al.|[2502.13080v1](http://arxiv.org/abs/2502.13080v1)|null|
@@ -6672,6 +6682,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Latent Distribution Decoupling: A Probabilistic Framework for Uncertainty-Aware Multimodal Emotion Recognition**|Jingwang Huang et.al.|[2502.13954v1](http://arxiv.org/abs/2502.13954v1)|**[link](https://github.com/201983290498/lddu_mmer)**|
+|**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899v1](http://arxiv.org/abs/2502.13899v1)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894v1](http://arxiv.org/abs/2502.13894v1)|null|
+|**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863v1](http://arxiv.org/abs/2502.13863v1)|null|
+|**2025-02-19**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859v1](http://arxiv.org/abs/2502.13859v1)|null|
+|**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843v1](http://arxiv.org/abs/2502.13843v1)|null|
+|**2025-02-19**|**Generative Video Semantic Communication via Multimodal Semantic Fusion with Large Model**|Hang Yin et.al.|[2502.13838v1](http://arxiv.org/abs/2502.13838v1)|null|
+|**2025-02-19**|**Mixup Regularization: A Probabilistic Perspective**|Yousef El-Laham et.al.|[2502.13825v1](http://arxiv.org/abs/2502.13825v1)|null|
+|**2025-02-19**|**Intrinsic Cramér-Rao Bound based 6D Localization and Tracking for 5G/6G Systems**|Xueting Xu et.al.|[2502.13733v1](http://arxiv.org/abs/2502.13733v1)|null|
+|**2025-02-19**|**CardiacMamba: A Multimodal RGB-RF Fusion Framework with State Space Models for Remote Physiological Measurement**|Zheng Wu et.al.|[2502.13624v1](http://arxiv.org/abs/2502.13624v1)|null|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071v1](http://arxiv.org/abs/2502.13071v1)|null|
 |**2025-02-18**|**Development of systematic uncertainty-aware neural network trainings for binned-likelihood analyses at the LHC**|CMS Collaboration et.al.|[2502.13047v1](http://arxiv.org/abs/2502.13047v1)|null|
 |**2025-02-18**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817v1](http://arxiv.org/abs/2502.12817v1)|null|
