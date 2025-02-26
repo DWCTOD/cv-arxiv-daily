@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-25, **Ion counting and temperature determination of Coulomb-crystallized laser-cooled ions in traps using convolutional neural networks**, Yanning Yin et.al., Paper: [http://arxiv.org/abs/2502.18442v1](http://arxiv.org/abs/2502.18442v1)
+- 2025-02-25, **Is OpenAlex Suitable for Research Quality Evaluation and Which Citation Indicator is Best?**, Mike Thelwall et.al., Paper: [http://arxiv.org/abs/2502.18427v1](http://arxiv.org/abs/2502.18427v1)
+- 2025-02-25, **Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**, Fengshuo Bai et.al., Paper: [http://arxiv.org/abs/2502.18423v1](http://arxiv.org/abs/2502.18423v1)
+- 2025-02-25, **MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification**, Zhuoqin Yang et.al., Paper: [http://arxiv.org/abs/2502.18416v1](http://arxiv.org/abs/2502.18416v1)
+- 2025-02-25, **Enhancing DNA Foundation Models to Address Masking Inefficiencies**, Monireh Safari et.al., Paper: [http://arxiv.org/abs/2502.18405v1](http://arxiv.org/abs/2502.18405v1)
+- 2025-02-25, **Learning sparse generalized linear models with binary outcomes via iterative hard thresholding**, Namiko Matsumoto et.al., Paper: [http://arxiv.org/abs/2502.18393v1](http://arxiv.org/abs/2502.18393v1)
+- 2025-02-25, **EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity**, Dominik Hollidt et.al., Paper: [http://arxiv.org/abs/2502.18373v1](http://arxiv.org/abs/2502.18373v1)
+- 2025-02-25, **MindMem: Multimodal for Predicting Advertisement Memorability Using LLMs and Deep Learning**, Sepehr Asgarian et.al., Paper: [http://arxiv.org/abs/2502.18371v1](http://arxiv.org/abs/2502.18371v1)
+- 2025-02-25, **Exploring proteomic signatures in sepsis and non-infectious systemic inflammatory response syndrome**, Adolfo Ruiz-Sanmartín et.al., Paper: [http://arxiv.org/abs/2502.18305v1](http://arxiv.org/abs/2502.18305v1)
+- 2025-02-25, **Quantization of the Momentum Map via $\frak{g}$-adapted Formalities**, Chiara Esposito et.al., Paper: [http://arxiv.org/abs/2502.18295v1](http://arxiv.org/abs/2502.18295v1)
 - 2025-02-24, **FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning**, Jason Jingzhou Liu et.al., Paper: [http://arxiv.org/abs/2502.17432v1](http://arxiv.org/abs/2502.17432v1)
 - 2025-02-24, **X-Dancer: Expressive Music to Human Dance Video Generation**, Zeyuan Chen et.al., Paper: [http://arxiv.org/abs/2502.17414v1](http://arxiv.org/abs/2502.17414v1)
 - 2025-02-24, **Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**, Liuchuan Yu et.al., Paper: [http://arxiv.org/abs/2502.17399v1](http://arxiv.org/abs/2502.17399v1)
@@ -6704,6 +6714,16 @@
 
 ## MultiModal
 
+- 2025-02-25, **K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**, Ziheng Ouyang et.al., Paper: [http://arxiv.org/abs/2502.18461v1](http://arxiv.org/abs/2502.18461v1)
+- 2025-02-25, **MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification**, Zhuoqin Yang et.al., Paper: [http://arxiv.org/abs/2502.18416v1](http://arxiv.org/abs/2502.18416v1)
+- 2025-02-25, **Kitsune: Enabling Dataflow Execution on GPUs**, Michael Davies et.al., Paper: [http://arxiv.org/abs/2502.18403v1](http://arxiv.org/abs/2502.18403v1)
+- 2025-02-25, **Near-Shore Mapping for Detection and Tracking of Vessels**, Nicholas Dalhaug et.al., Paper: [http://arxiv.org/abs/2502.18368v1](http://arxiv.org/abs/2502.18368v1)
+- 2025-02-25, **GCDance: Genre-Controlled 3D Full Body Dance Generation Driven By Music**, Xinran Liu et.al., Paper: [http://arxiv.org/abs/2502.18309v1](http://arxiv.org/abs/2502.18309v1)
+- 2025-02-25, **Neural Network Graph Similarity Computation Based on Graph Fusion**, Zenghui Chang et.al., Paper: [http://arxiv.org/abs/2502.18291v1](http://arxiv.org/abs/2502.18291v1)
+- 2025-02-25, **FLARE: A Framework for Stellar Flare Forecasting using Stellar Physical Properties and Historical Records**, Bingke Zhu et.al., Paper: [http://arxiv.org/abs/2502.18218v1](http://arxiv.org/abs/2502.18218v1)
+- 2025-02-25, **Modelling of a large-scale non-insulated non-planar HTS stellarator coil using Quanscient Allsolve**, Tara Benkel et.al., Paper: [http://arxiv.org/abs/2502.18133v1](http://arxiv.org/abs/2502.18133v1)
+- 2025-02-25, **On the Jucys-Murphy method and fusion procedure for the Sergeev superalgebra**, Iryna Kashuba et.al., Paper: [http://arxiv.org/abs/2502.18096v1](http://arxiv.org/abs/2502.18096v1)
+- 2025-02-25, **A Fusion Model for Art Style and Author Recognition Based on Convolutional Neural Networks and Transformers**, Zhenyu Wang et.al., Paper: [http://arxiv.org/abs/2502.18083v1](http://arxiv.org/abs/2502.18083v1)
 - 2025-02-24, **Robust Confinement State Classification with Uncertainty Quantification through Ensembled Data-Driven Methods**, Yoeri Poels et.al., Paper: [http://arxiv.org/abs/2502.17397v1](http://arxiv.org/abs/2502.17397v1)
 - 2025-02-24, **Data efficiency and long-term prediction capabilities for neural operator surrogate models of edge plasma simulations**, N. Carey et.al., Paper: [http://arxiv.org/abs/2502.17386v1](http://arxiv.org/abs/2502.17386v1)
 - 2025-02-24, **PointSea: Point Cloud Completion via Self-structure Augmentation**, Zhe Zhu et.al., Paper: [http://arxiv.org/abs/2502.17053v1](http://arxiv.org/abs/2502.17053v1)
