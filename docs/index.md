@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 
 ## Video_Classification
 
@@ -6732,7 +6732,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-26**|**CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators**|Amit Kumar et.al.|[2502.19349v1](http://arxiv.org/abs/2502.19349v1)|null|
+|**2025-02-26**|**CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators**|Amit Kumar et.al.|[2502.19349v1](http://arxiv.org/abs/2502.19349v1)|**[link](https://github.com/aamitssharma07/SAL-Cryptopulse)**|
 |**2025-02-26**|**CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query**|Zhe Wang et.al.|[2502.19313v1](http://arxiv.org/abs/2502.19313v1)|null|
 |**2025-02-26**|**Integrating Biological and Machine Intelligence: Attention Mechanisms in Brain-Computer Interfaces**|Jiyuan Wang et.al.|[2502.19281v1](http://arxiv.org/abs/2502.19281v1)|null|
 |**2025-02-26**|**PolypFlow: Reinforcing Polyp Segmentation with Flow-Driven Dynamics**|Pu Wang et.al.|[2502.19037v1](http://arxiv.org/abs/2502.19037v1)|null|
