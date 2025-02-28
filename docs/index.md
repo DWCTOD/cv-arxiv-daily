@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models**|Susmit Agrawal et.al.|[2502.20393v1](http://arxiv.org/abs/2502.20393v1)|null|
+|**2025-02-27**|**Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**|Siddhant Haldar et.al.|[2502.20391v1](http://arxiv.org/abs/2502.20391v1)|null|
+|**2025-02-27**|**Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**|Sucheng Ren et.al.|[2502.20388v1](http://arxiv.org/abs/2502.20388v1)|null|
+|**2025-02-27**|**InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**|Jiahe Li et.al.|[2502.20387v1](http://arxiv.org/abs/2502.20387v1)|null|
+|**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386v1](http://arxiv.org/abs/2502.20386v1)|null|
+|**2025-02-27**|**Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling**|Hanyang Kong et.al.|[2502.20378v1](http://arxiv.org/abs/2502.20378v1)|null|
+|**2025-02-27**|**When does a predictor know its own loss?**|Aravind Gollakota et.al.|[2502.20375v1](http://arxiv.org/abs/2502.20375v1)|null|
+|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361v1](http://arxiv.org/abs/2502.20361v1)|null|
+|**2025-02-27**|**KNOWM Memristors in a Bridge Synapse delay-based Reservoir Computing system for detection of epileptic seizures**|Dawid Przyczyna et.al.|[2502.20351v1](http://arxiv.org/abs/2502.20351v1)|null|
+|**2025-02-27**|**T1-PILOT: Optimized Trajectories for T1 Mapping Acceleration**|Tamir Shor et.al.|[2502.20333v1](http://arxiv.org/abs/2502.20333v1)|null|
 |**2025-02-26**|**TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding**|Max Ku et.al.|[2502.19400v1](http://arxiv.org/abs/2502.19400v1)|null|
 |**2025-02-26**|**Multi-modal Contrastive Learning for Tumor-specific Missing Modality Synthesis**|Minjoo Lim et.al.|[2502.19390v1](http://arxiv.org/abs/2502.19390v1)|null|
 |**2025-02-26**|**Surface-Based Manipulation**|Ziqiao Wang et.al.|[2502.19389v1](http://arxiv.org/abs/2502.19389v1)|null|
@@ -6732,6 +6742,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Interpreting AI for Fusion: an application to Plasma Profile Analysis for Tearing Mode Stability**|Hiro J Farre-Kaga et.al.|[2502.20294v1](http://arxiv.org/abs/2502.20294v1)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277v1](http://arxiv.org/abs/2502.20277v1)|null|
+|**2025-02-27**|**Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits**|Hong-Yu Wang et.al.|[2502.20254v1](http://arxiv.org/abs/2502.20254v1)|null|
+|**2025-02-27**|**MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments**|Jimmy Chiun et.al.|[2502.20217v1](http://arxiv.org/abs/2502.20217v1)|null|
+|**2025-02-27**|**Mixture of Experts for Recognizing Depression from Interview and Reading Tasks**|Loukas Ilias et.al.|[2502.20213v1](http://arxiv.org/abs/2502.20213v1)|null|
+|**2025-02-27**|**Adaptive H&E-IHC information fusion staining framework based on feature extra**|Yifan Jia et.al.|[2502.20156v1](http://arxiv.org/abs/2502.20156v1)|null|
+|**2025-02-27**|**CLIP-driven Dual Feature Enhancing Network for Gaze Estimation**|Lin Zhang et.al.|[2502.20128v1](http://arxiv.org/abs/2502.20128v1)|null|
+|**2025-02-27**|**MITracker: Multi-View Integration for Visual Object Tracking**|Mengjie Xu et.al.|[2502.20111v1](http://arxiv.org/abs/2502.20111v1)|null|
+|**2025-02-27**|**FuseGrasp: Radar-Camera Fusion for Robotic Grasping of Transparent Objects**|Hongyu Deng et.al.|[2502.20037v1](http://arxiv.org/abs/2502.20037v1)|null|
+|**2025-02-27**|**Joint Fusion and Encoding: Advancing Multimodal Retrieval from the Ground Up**|Lang Huang et.al.|[2502.20008v1](http://arxiv.org/abs/2502.20008v1)|null|
 |**2025-02-26**|**CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators**|Amit Kumar et.al.|[2502.19349v1](http://arxiv.org/abs/2502.19349v1)|**[link](https://github.com/aamitssharma07/SAL-Cryptopulse)**|
 |**2025-02-26**|**CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query**|Zhe Wang et.al.|[2502.19313v1](http://arxiv.org/abs/2502.19313v1)|null|
 |**2025-02-26**|**Integrating Biological and Machine Intelligence: Attention Mechanisms in Brain-Computer Interfaces**|Jiyuan Wang et.al.|[2502.19281v1](http://arxiv.org/abs/2502.19281v1)|null|
