@@ -9,7 +9,7 @@
 - 2025-02-27, **ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**, Dexter Ong et.al., Paper: [http://arxiv.org/abs/2502.20386v1](http://arxiv.org/abs/2502.20386v1)
 - 2025-02-27, **Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling**, Hanyang Kong et.al., Paper: [http://arxiv.org/abs/2502.20378v1](http://arxiv.org/abs/2502.20378v1)
 - 2025-02-27, **When does a predictor know its own loss?**, Aravind Gollakota et.al., Paper: [http://arxiv.org/abs/2502.20375v1](http://arxiv.org/abs/2502.20375v1)
-- 2025-02-27, **OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**, Shuming Liu et.al., Paper: [http://arxiv.org/abs/2502.20361v1](http://arxiv.org/abs/2502.20361v1)
+- 2025-02-27, **OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**, Shuming Liu et.al., Paper: [http://arxiv.org/abs/2502.20361v1](http://arxiv.org/abs/2502.20361v1), Code: **[https://github.com/sming256/OpenTAD](https://github.com/sming256/OpenTAD)**
 - 2025-02-27, **KNOWM Memristors in a Bridge Synapse delay-based Reservoir Computing system for detection of epileptic seizures**, Dawid Przyczyna et.al., Paper: [http://arxiv.org/abs/2502.20351v1](http://arxiv.org/abs/2502.20351v1)
 - 2025-02-27, **T1-PILOT: Optimized Trajectories for T1 Mapping Acceleration**, Tamir Shor et.al., Paper: [http://arxiv.org/abs/2502.20333v1](http://arxiv.org/abs/2502.20333v1)
 - 2025-02-26, **TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding**, Max Ku et.al., Paper: [http://arxiv.org/abs/2502.19400v1](http://arxiv.org/abs/2502.19400v1)
