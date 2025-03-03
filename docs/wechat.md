@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-02-28, **TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle CT Reconstruction**, Tatiana A. Bubba et.al., Paper: [http://arxiv.org/abs/2502.21320v1](http://arxiv.org/abs/2502.21320v1)
+- 2025-02-28, **Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2502.21314v1](http://arxiv.org/abs/2502.21314v1)
+- 2025-02-28, **AutoComb: Automated Comb Sign Detector for 3D CTE Scans**, Shashwat Gupta et.al., Paper: [http://arxiv.org/abs/2502.21311v1](http://arxiv.org/abs/2502.21311v1)
+- 2025-02-28, **Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**, Hongze Yu et.al., Paper: [http://arxiv.org/abs/2502.21292v1](http://arxiv.org/abs/2502.21292v1)
+- 2025-02-28, **Utilizing Quantum Fingerprints in Plant Cells to Evaluate Plant productivity**, Umadini Ranasinghe et.al., Paper: [http://arxiv.org/abs/2502.21275v1](http://arxiv.org/abs/2502.21275v1)
+- 2025-02-28, **Adaptive Keyframe Sampling for Long Video Understanding**, Xi Tang et.al., Paper: [http://arxiv.org/abs/2502.21271v1](http://arxiv.org/abs/2502.21271v1)
+- 2025-02-28, **PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**, Boxiao Yu et.al., Paper: [http://arxiv.org/abs/2502.21260v1](http://arxiv.org/abs/2502.21260v1)
+- 2025-02-28, **RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**, Yuheng Ji et.al., Paper: [http://arxiv.org/abs/2502.21257v1](http://arxiv.org/abs/2502.21257v1)
+- 2025-02-28, **ALVI Interface: Towards Full Hand Motion Decoding for Amputees Using sEMG**, Aleksandr Kovalev et.al., Paper: [http://arxiv.org/abs/2502.21256v1](http://arxiv.org/abs/2502.21256v1)
+- 2025-02-28, **Short-Rate Derivatives in a Higher-for-Longer Environment**, Aram Karakhanyan et.al., Paper: [http://arxiv.org/abs/2502.21252v1](http://arxiv.org/abs/2502.21252v1)
 - 2025-02-27, **Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models**, Susmit Agrawal et.al., Paper: [http://arxiv.org/abs/2502.20393v1](http://arxiv.org/abs/2502.20393v1)
 - 2025-02-27, **Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**, Siddhant Haldar et.al., Paper: [http://arxiv.org/abs/2502.20391v1](http://arxiv.org/abs/2502.20391v1)
 - 2025-02-27, **Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2502.20388v1](http://arxiv.org/abs/2502.20388v1)
@@ -6734,6 +6744,16 @@
 
 ## MultiModal
 
+- 2025-02-28, **MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**, Xueyun Tian et.al., Paper: [http://arxiv.org/abs/2502.21291v1](http://arxiv.org/abs/2502.21291v1)
+- 2025-02-28, **Adaptive Illumination-Invariant Synergistic Feature Integration in a Stratified Granular Framework for Visible-Infrared Re-Identification**, Yuheng Jia et.al., Paper: [http://arxiv.org/abs/2502.21163v1](http://arxiv.org/abs/2502.21163v1)
+- 2025-02-28, **CONSeg: Voxelwise Glioma Conformal Segmentation**, Danial Elyassirad et.al., Paper: [http://arxiv.org/abs/2502.21158v1](http://arxiv.org/abs/2502.21158v1)
+- 2025-02-28, **Hypergraph Multi-Modal Learning for EEG-based Emotion Recognition in Conversation**, Zijian Kang et.al., Paper: [http://arxiv.org/abs/2502.21154v1](http://arxiv.org/abs/2502.21154v1)
+- 2025-02-28, **Real-Time Aerial Fire Detection on Resource-Constrained Devices Using Knowledge Distillation**, Sabina Jangirova et.al., Paper: [http://arxiv.org/abs/2502.20979v1](http://arxiv.org/abs/2502.20979v1)
+- 2025-02-28, **Di-Higgs and Effective Field Theory: Signal Reweighting Beyond $m_{hh}$**, L. Cadamuro et.al., Paper: [http://arxiv.org/abs/2502.20976v1](http://arxiv.org/abs/2502.20976v1)
+- 2025-02-28, **A Parallel, Energy-Stable Low-Rank Integrator for Nonlinear Multi-Scale Thermal Radiative Transfer**, Chinmay Patwardhan et.al., Paper: [http://arxiv.org/abs/2502.20883v1](http://arxiv.org/abs/2502.20883v1)
+- 2025-02-28, **Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$**, Valentina Grazian et.al., Paper: [http://arxiv.org/abs/2502.20873v1](http://arxiv.org/abs/2502.20873v1)
+- 2025-02-28, **PathVG: A New Benchmark and Dataset for Pathology Visual Grounding**, Chunlin Zhong et.al., Paper: [http://arxiv.org/abs/2502.20869v1](http://arxiv.org/abs/2502.20869v1)
+- 2025-02-28, **Learning-Based Leader Localization for Underwater Vehicles With Optical-Acoustic-Pressure Sensor Fusion**, Mingyang Yang et.al., Paper: [http://arxiv.org/abs/2502.20817v1](http://arxiv.org/abs/2502.20817v1)
 - 2025-02-27, **Interpreting AI for Fusion: an application to Plasma Profile Analysis for Tearing Mode Stability**, Hiro J Farre-Kaga et.al., Paper: [http://arxiv.org/abs/2502.20294v1](http://arxiv.org/abs/2502.20294v1)
 - 2025-02-27, **Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**, Palawat Busaranuvong et.al., Paper: [http://arxiv.org/abs/2502.20277v1](http://arxiv.org/abs/2502.20277v1)
 - 2025-02-27, **Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits**, Hong-Yu Wang et.al., Paper: [http://arxiv.org/abs/2502.20254v1](http://arxiv.org/abs/2502.20254v1)
