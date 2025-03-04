@@ -6748,7 +6748,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-28**|**MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**|Xueyun Tian et.al.|[2502.21291v1](http://arxiv.org/abs/2502.21291v1)|null|
+|**2025-03-03**|**MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**|Xueyun Tian et.al.|[2502.21291v2](http://arxiv.org/abs/2502.21291v2)|null|
 |**2025-02-28**|**Adaptive Illumination-Invariant Synergistic Feature Integration in a Stratified Granular Framework for Visible-Infrared Re-Identification**|Yuheng Jia et.al.|[2502.21163v1](http://arxiv.org/abs/2502.21163v1)|null|
 |**2025-02-28**|**CONSeg: Voxelwise Glioma Conformal Segmentation**|Danial Elyassirad et.al.|[2502.21158v1](http://arxiv.org/abs/2502.21158v1)|null|
 |**2025-02-28**|**Hypergraph Multi-Modal Learning for EEG-based Emotion Recognition in Conversation**|Zijian Kang et.al.|[2502.21154v1](http://arxiv.org/abs/2502.21154v1)|null|
