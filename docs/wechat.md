@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-03-04, **Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**, Han Xue et.al., Paper: [http://arxiv.org/abs/2503.02881v1](http://arxiv.org/abs/2503.02881v1)
+- 2025-03-04, **SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models**, Dmitry Nechaev et.al., Paper: [http://arxiv.org/abs/2503.02876v1](http://arxiv.org/abs/2503.02876v1)
+- 2025-03-04, **Unsupervised Attributed Dynamic Network Embedding with Stability Guarantees**, Emma Ceccherini et.al., Paper: [http://arxiv.org/abs/2503.02859v1](http://arxiv.org/abs/2503.02859v1)
+- 2025-03-04, **Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024**, Nuria Alina Chandra et.al., Paper: [http://arxiv.org/abs/2503.02857v1](http://arxiv.org/abs/2503.02857v1)
+- 2025-03-04, **Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**, Amin Honarmandi Shandiz et.al., Paper: [http://arxiv.org/abs/2503.02849v1](http://arxiv.org/abs/2503.02849v1)
+- 2025-03-04, **In-Depth Analysis of Automated Acne Disease Recognition and Classification**, Afsana Ahsan Jeny et.al., Paper: [http://arxiv.org/abs/2503.02835v1](http://arxiv.org/abs/2503.02835v1)
+- 2025-03-04, **A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness**, Nathan Drenkow et.al., Paper: [http://arxiv.org/abs/2503.02797v1](http://arxiv.org/abs/2503.02797v1)
+- 2025-03-04, **Undertrained Image Reconstruction for Realistic Degradation in Blind Image Super-Resolution**, Ru Ito et.al., Paper: [http://arxiv.org/abs/2503.02767v1](http://arxiv.org/abs/2503.02767v1)
+- 2025-03-04, **Seeded Poisson Factorization: Leveraging domain knowledge to fit topic models**, Bernd Prostmaier et.al., Paper: [http://arxiv.org/abs/2503.02741v1](http://arxiv.org/abs/2503.02741v1)
+- 2025-03-04, **UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression**, Jia Wang et.al., Paper: [http://arxiv.org/abs/2503.02733v1](http://arxiv.org/abs/2503.02733v1)
 - 2025-02-28, **TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle CT Reconstruction**, Tatiana A. Bubba et.al., Paper: [http://arxiv.org/abs/2502.21320v1](http://arxiv.org/abs/2502.21320v1)
 - 2025-02-28, **Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2502.21314v1](http://arxiv.org/abs/2502.21314v1)
 - 2025-02-28, **AutoComb: Automated Comb Sign Detector for 3D CTE Scans**, Shashwat Gupta et.al., Paper: [http://arxiv.org/abs/2502.21311v1](http://arxiv.org/abs/2502.21311v1)
@@ -6744,6 +6754,16 @@
 
 ## MultiModal
 
+- 2025-03-04, **Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**, Amin Honarmandi Shandiz et.al., Paper: [http://arxiv.org/abs/2503.02849v1](http://arxiv.org/abs/2503.02849v1)
+- 2025-03-04, **SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting**, Ting-Ji Huang et.al., Paper: [http://arxiv.org/abs/2503.02836v1](http://arxiv.org/abs/2503.02836v1), Code: **[https://github.com/Tingji2419/SeqFusion](https://github.com/Tingji2419/SeqFusion)**
+- 2025-03-04, **Super-enhanced Nuclear Fusion in Metal-like Systems and in Condensed Plasmas of Supernova Progenitors**, Hidetsugu Ikegami et.al., Paper: [http://arxiv.org/abs/2503.02787v1](http://arxiv.org/abs/2503.02787v1)
+- 2025-03-04, **Four regimes of primary radiation damage in tungsten**, Jesper Byggmästar et.al., Paper: [http://arxiv.org/abs/2503.02710v1](http://arxiv.org/abs/2503.02710v1)
+- 2025-03-04, **XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification**, Xiaoyu Zheng et.al., Paper: [http://arxiv.org/abs/2503.02619v1](http://arxiv.org/abs/2503.02619v1)
+- 2025-03-04, **Lightweight Channel-wise Dynamic Fusion Model: Non-stationary Time Series Forecasting via Entropy Analysis**, Tianyu Jia et.al., Paper: [http://arxiv.org/abs/2503.02609v1](http://arxiv.org/abs/2503.02609v1)
+- 2025-03-04, **Resource-Efficient Affordance Grounding with Complementary Depth and Semantic Prompts**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2503.02600v1](http://arxiv.org/abs/2503.02600v1)
+- 2025-03-04, **Unveiling the Potential of Segment Anything Model 2 for RGB-Thermal Semantic Segmentation with Language Guidance**, Jiayi Zhao et.al., Paper: [http://arxiv.org/abs/2503.02581v1](http://arxiv.org/abs/2503.02581v1)
+- 2025-03-04, **TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**, Xinying Hong et.al., Paper: [http://arxiv.org/abs/2503.02578v1](http://arxiv.org/abs/2503.02578v1)
+- 2025-03-04, **Row and column detection complexities of character tables**, Adrian Padellaro et.al., Paper: [http://arxiv.org/abs/2503.02543v1](http://arxiv.org/abs/2503.02543v1)
 - 2025-03-03, **MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**, Xueyun Tian et.al., Paper: [http://arxiv.org/abs/2502.21291v2](http://arxiv.org/abs/2502.21291v2)
 - 2025-02-28, **Adaptive Illumination-Invariant Synergistic Feature Integration in a Stratified Granular Framework for Visible-Infrared Re-Identification**, Yuheng Jia et.al., Paper: [http://arxiv.org/abs/2502.21163v1](http://arxiv.org/abs/2502.21163v1)
 - 2025-02-28, **CONSeg: Voxelwise Glioma Conformal Segmentation**, Danial Elyassirad et.al., Paper: [http://arxiv.org/abs/2502.21158v1](http://arxiv.org/abs/2502.21158v1)
