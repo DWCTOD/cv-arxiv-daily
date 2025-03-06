@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751v1](http://arxiv.org/abs/2503.03751v1)|**[link](https://github.com/nv-tlabs/GEN3C)**|
+|**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747v1](http://arxiv.org/abs/2503.03747v1)|null|
+|**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734v1](http://arxiv.org/abs/2503.03734v1)|null|
+|**2025-03-05**|**Machine Learning in Biomechanics: Key Applications and Limitations in Walking, Running, and Sports Movements**|Carlo Dindorf et.al.|[2503.03717v1](http://arxiv.org/abs/2503.03717v1)|null|
+|**2025-03-05**|**Handling Uncertainty in Health Data using Generative Algorithms**|Mahdi Arab Loodaricheh et.al.|[2503.03715v1](http://arxiv.org/abs/2503.03715v1)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708v1](http://arxiv.org/abs/2503.03708v1)|null|
+|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
+|**2025-03-05**|**Empowering Multi-class Classification for Complex Functional Data with Simultaneous Feature Selection**|Shuoyang Wang et.al.|[2503.03679v1](http://arxiv.org/abs/2503.03679v1)|null|
+|**2025-03-05**|**LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant**|Wei Li et.al.|[2503.03663v1](http://arxiv.org/abs/2503.03663v1)|null|
+|**2025-03-05**|**Limits of nonlinear and dispersive fiber propagation for photonic extreme learning**|Andrei V. Ermolaev et.al.|[2503.03649v1](http://arxiv.org/abs/2503.03649v1)|null|
 |**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881v1](http://arxiv.org/abs/2503.02881v1)|null|
 |**2025-03-04**|**SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models**|Dmitry Nechaev et.al.|[2503.02876v1](http://arxiv.org/abs/2503.02876v1)|null|
 |**2025-03-04**|**Unsupervised Attributed Dynamic Network Embedding with Stability Guarantees**|Emma Ceccherini et.al.|[2503.02859v1](http://arxiv.org/abs/2503.02859v1)|null|
@@ -6762,6 +6772,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
+|**2025-03-05**|**An Adaptive Underwater Image Enhancement Framework via Multi-Domain Fusion and Color Compensation**|Yuezhe Tian et.al.|[2503.03640v1](http://arxiv.org/abs/2503.03640v1)|null|
+|**2025-03-05**|**Effect of Ag nano-additivation on microstructure formation in Nd-Fe-B magnets built by laser powder bed fusion**|Varatharaja Nallathambi et.al.|[2503.03623v1](http://arxiv.org/abs/2503.03623v1)|null|
+|**2025-03-05**|**Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs**|Haoran Fan et.al.|[2503.03594v1](http://arxiv.org/abs/2503.03594v1)|null|
+|**2025-03-05**|**A Conceptual Model for Attributions in Event-Centric Knowledge Graphs**|Florian Plötzky et.al.|[2503.03563v1](http://arxiv.org/abs/2503.03563v1)|null|
+|**2025-03-05**|**Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation**|Xiaomeng Zhu et.al.|[2503.03556v1](http://arxiv.org/abs/2503.03556v1)|null|
+|**2025-03-05**|**Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks**|Samuel Repka et.al.|[2503.03507v1](http://arxiv.org/abs/2503.03507v1)|null|
+|**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434v1](http://arxiv.org/abs/2503.03434v1)|null|
+|**2025-03-05**|**Novatron: Equilibrium and Stability**|Kristoffer Lindvall et.al.|[2503.03387v1](http://arxiv.org/abs/2503.03387v1)|null|
+|**2025-03-05**|**Quantitative Magnetohydrodynamic Modelling of Flux Pumping in ASDEX Upgrade**|Haowei Zhang et.al.|[2503.03344v1](http://arxiv.org/abs/2503.03344v1)|null|
 |**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849v1](http://arxiv.org/abs/2503.02849v1)|null|
 |**2025-03-04**|**SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting**|Ting-Ji Huang et.al.|[2503.02836v1](http://arxiv.org/abs/2503.02836v1)|**[link](https://github.com/Tingji2419/SeqFusion)**|
 |**2025-03-04**|**Super-enhanced Nuclear Fusion in Metal-like Systems and in Condensed Plasmas of Supernova Progenitors**|Hidetsugu Ikegami et.al.|[2503.02787v1](http://arxiv.org/abs/2503.02787v1)|null|
