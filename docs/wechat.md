@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-03-06, **FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**, Yue Gao et.al., Paper: [http://arxiv.org/abs/2503.04720v1](http://arxiv.org/abs/2503.04720v1)
+- 2025-03-06, **Iris Style Transfer: Enhancing Iris Recognition with Style Features and Privacy Preservation through Neural Style Transfer**, Mengdi Wang et.al., Paper: [http://arxiv.org/abs/2503.04707v1](http://arxiv.org/abs/2503.04707v1)
+- 2025-03-06, **Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**, Alireza Behtash et.al., Paper: [http://arxiv.org/abs/2503.04704v1](http://arxiv.org/abs/2503.04704v1)
+- 2025-03-06, **Coarse graining and reduced order models for plume ejection dynamics**, Ike Griss Salas et.al., Paper: [http://arxiv.org/abs/2503.04690v1](http://arxiv.org/abs/2503.04690v1)
+- 2025-03-06, **Mixed Near-field and Far-field Target Localization for Low-altitude Economy**, Cong Zhou et.al., Paper: [http://arxiv.org/abs/2503.04681v1](http://arxiv.org/abs/2503.04681v1)
+- 2025-03-06, **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**, Dou Hu et.al., Paper: [http://arxiv.org/abs/2503.04667v1](http://arxiv.org/abs/2503.04667v1)
+- 2025-03-06, **What Are You Doing? A Closer Look at Controllable Human Video Generation**, Emanuele Bugliarello et.al., Paper: [http://arxiv.org/abs/2503.04666v1](http://arxiv.org/abs/2503.04666v1)
+- 2025-03-06, **Implicit Neural Representation for Video and Image Super-Resolution**, Mary Aiyetigbo et.al., Paper: [http://arxiv.org/abs/2503.04665v1](http://arxiv.org/abs/2503.04665v1)
+- 2025-03-06, **RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**, Tengfei Zhang et.al., Paper: [http://arxiv.org/abs/2503.04653v1](http://arxiv.org/abs/2503.04653v1)
+- 2025-03-06, **Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**, Hong Liu et.al., Paper: [http://arxiv.org/abs/2503.04643v1](http://arxiv.org/abs/2503.04643v1)
 - 2025-03-05, **GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2503.03751v1](http://arxiv.org/abs/2503.03751v1), Code: **[https://github.com/nv-tlabs/GEN3C](https://github.com/nv-tlabs/GEN3C)**
 - 2025-03-05, **PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**, Ryozo Masukawa et.al., Paper: [http://arxiv.org/abs/2503.03747v1](http://arxiv.org/abs/2503.03747v1)
 - 2025-03-05, **OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**, Huang Huang et.al., Paper: [http://arxiv.org/abs/2503.03734v1](http://arxiv.org/abs/2503.03734v1)
@@ -6764,6 +6774,16 @@
 
 ## MultiModal
 
+- 2025-03-06, **DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**, Aditya Prashant Naidu et.al., Paper: [http://arxiv.org/abs/2503.04698v1](http://arxiv.org/abs/2503.04698v1)
+- 2025-03-06, **Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**, Hong Liu et.al., Paper: [http://arxiv.org/abs/2503.04643v1](http://arxiv.org/abs/2503.04643v1)
+- 2025-03-06, **Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**, Edoardo Bianchi et.al., Paper: [http://arxiv.org/abs/2503.04470v1](http://arxiv.org/abs/2503.04470v1)
+- 2025-03-06, **ToFu: Visual Tokens Reduction via Fusion for Multi-modal, Multi-patch, Multi-image Task**, Vittorio Pippi et.al., Paper: [http://arxiv.org/abs/2503.04444v1](http://arxiv.org/abs/2503.04444v1)
+- 2025-03-06, **A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**, Yiheng Zhu et.al., Paper: [http://arxiv.org/abs/2503.04362v1](http://arxiv.org/abs/2503.04362v1)
+- 2025-03-06, **scDD: Latent Codes Based scRNA-seq Dataset Distillation with Foundation Model Knowledge**, Zhen Yu et.al., Paper: [http://arxiv.org/abs/2503.04357v1](http://arxiv.org/abs/2503.04357v1)
+- 2025-03-06, **RCRank: Multimodal Ranking of Root Causes of Slow Queries in Cloud Database Systems**, Biao Ouyang et.al., Paper: [http://arxiv.org/abs/2503.04252v1](http://arxiv.org/abs/2503.04252v1)
+- 2025-03-06, **FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion**, Ziyi Yang et.al., Paper: [http://arxiv.org/abs/2503.04222v1](http://arxiv.org/abs/2503.04222v1)
+- 2025-03-06, **MASTER: Multimodal Segmentation with Text Prompts**, Fuyang Liu et.al., Paper: [http://arxiv.org/abs/2503.04199v1](http://arxiv.org/abs/2503.04199v1)
+- 2025-03-06, **Fusion of Various Optimization Based Feature Smoothing Methods for Wearable and Non-invasive Blood Glucose Estimation**, Yiting Wei et.al., Paper: [http://arxiv.org/abs/2503.03770v1](http://arxiv.org/abs/2503.03770v1)
 - 2025-03-05, **DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**, Zhao Yang et.al., Paper: [http://arxiv.org/abs/2503.03689v1](http://arxiv.org/abs/2503.03689v1)
 - 2025-03-05, **An Adaptive Underwater Image Enhancement Framework via Multi-Domain Fusion and Color Compensation**, Yuezhe Tian et.al., Paper: [http://arxiv.org/abs/2503.03640v1](http://arxiv.org/abs/2503.03640v1)
 - 2025-03-05, **Effect of Ag nano-additivation on microstructure formation in Nd-Fe-B magnets built by laser powder bed fusion**, Varatharaja Nallathambi et.al., Paper: [http://arxiv.org/abs/2503.03623v1](http://arxiv.org/abs/2503.03623v1)
