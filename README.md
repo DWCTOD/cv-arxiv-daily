@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720v1](http://arxiv.org/abs/2503.04720v1)|null|
 |**2025-03-06**|**Iris Style Transfer: Enhancing Iris Recognition with Style Features and Privacy Preservation through Neural Style Transfer**|Mengdi Wang et.al.|[2503.04707v1](http://arxiv.org/abs/2503.04707v1)|null|
-|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704v1](http://arxiv.org/abs/2503.04704v1)|null|
+|**2025-03-07**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704v2](http://arxiv.org/abs/2503.04704v2)|null|
 |**2025-03-06**|**Coarse graining and reduced order models for plume ejection dynamics**|Ike Griss Salas et.al.|[2503.04690v1](http://arxiv.org/abs/2503.04690v1)|null|
 |**2025-03-06**|**Mixed Near-field and Far-field Target Localization for Low-altitude Economy**|Cong Zhou et.al.|[2503.04681v1](http://arxiv.org/abs/2503.04681v1)|null|
 |**2025-03-06**|**An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**|Dou Hu et.al.|[2503.04667v1](http://arxiv.org/abs/2503.04667v1)|null|
