@@ -2,6 +2,10 @@
 
 ## Video_Classification
 
+- 2025-03-10, **Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**, Dunant Cusipuma et.al., Paper: [http://arxiv.org/abs/2503.07587v1](http://arxiv.org/abs/2503.07587v1)
+- 2025-03-10, **Efficient Distributed Learning over Decentralized Networks with Convoluted Support Vector Machine**, Canyi Chen et.al., Paper: [http://arxiv.org/abs/2503.07563v1](http://arxiv.org/abs/2503.07563v1)
+- 2025-03-10, **CPAny: Couple With Any Encoder to Refer Multi-Object Tracking**, Weize Li et.al., Paper: [http://arxiv.org/abs/2503.07516v1](http://arxiv.org/abs/2503.07516v1)
+- 2025-03-10, **ADROIT: A Self-Supervised Framework for Learning Robust Representations for Active Learning**, Soumya Banerjee et.al., Paper: [http://arxiv.org/abs/2503.07506v1](http://arxiv.org/abs/2503.07506v1)
 - 2025-03-10, **Blind-Wayfarer: A Minimalist, Probing-Driven Framework for Resilient Navigation in Perception-Degraded Environments**, Yanran Xu et.al., Paper: [http://arxiv.org/abs/2503.07492v1](http://arxiv.org/abs/2503.07492v1)
 - 2025-03-10, **NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**, Chengrui Zhu et.al., Paper: [http://arxiv.org/abs/2503.07491v1](http://arxiv.org/abs/2503.07491v1)
 - 2025-03-10, **VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**, Jiacheng Ruan et.al., Paper: [http://arxiv.org/abs/2503.07478v1](http://arxiv.org/abs/2503.07478v1)
