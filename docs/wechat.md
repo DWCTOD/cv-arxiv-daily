@@ -1,4 +1,4 @@
-> Updated on 2025.03.11
+> Updated on 2025.03.12
 
 ## Video_Classification
 
@@ -16,6 +16,8 @@
 - 2025-03-10, **AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**, Mingzhen Sun et.al., Paper: [http://arxiv.org/abs/2503.07418v1](http://arxiv.org/abs/2503.07418v1)
 - 2025-03-10, **TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**, Shaobin Zhuang et.al., Paper: [http://arxiv.org/abs/2503.07416v1](http://arxiv.org/abs/2503.07416v1)
 - 2025-03-10, **Keeping Representation Similarity in Finetuning for Medical Image Analysis**, Wenqiang Zu et.al., Paper: [http://arxiv.org/abs/2503.07399v1](http://arxiv.org/abs/2503.07399v1)
+- 2025-03-10, **Brain Inspired Adaptive Memory Dual-Net for Few-Shot Image Classification**, Kexin Di et.al., Paper: [http://arxiv.org/abs/2503.07396v1](http://arxiv.org/abs/2503.07396v1)
+- 2025-03-10, **Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs**, Gonzalo Mancera et.al., Paper: [http://arxiv.org/abs/2503.07384v1](http://arxiv.org/abs/2503.07384v1)
 - 2025-03-07, **Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**, Zhenxuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.05682v1](http://arxiv.org/abs/2503.05682v1)
 - 2025-03-07, **A comparison of the Alkire-Foster method and a Markov random field approach in the analysis of multidimensional poverty**, Joseph Lam et.al., Paper: [http://arxiv.org/abs/2503.05676v1](http://arxiv.org/abs/2503.05676v1)
 - 2025-03-07, **Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity**, Yulun Zhuang et.al., Paper: [http://arxiv.org/abs/2503.05666v1](http://arxiv.org/abs/2503.05666v1)
