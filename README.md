@@ -1,4 +1,4 @@
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 
 ## Video_Classification
 
@@ -6816,13 +6816,13 @@
 |---|---|---|---|---|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676v1](http://arxiv.org/abs/2503.08676v1)|null|
 |**2025-03-11**|**Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion**|Mehdi Hosseini Chagahi et.al.|[2503.08609v1](http://arxiv.org/abs/2503.08609v1)|null|
-|**2025-03-11**|**MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification**|Jiangping Wen et.al.|[2503.08581v1](http://arxiv.org/abs/2503.08581v1)|null|
+|**2025-03-12**|**MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification**|Jiangping Wen et.al.|[2503.08581v2](http://arxiv.org/abs/2503.08581v2)|null|
 |**2025-03-11**|**Enhancing Multi-Hop Fact Verification with Structured Knowledge-Augmented Large Language Models**|Han Cao et.al.|[2503.08495v1](http://arxiv.org/abs/2503.08495v1)|null|
 |**2025-03-11**|**Production of Spin-Polarized Molecular Beams via Microwave or Infrared Rotational Excitation**|C. S. Kannis et.al.|[2503.08435v1](http://arxiv.org/abs/2503.08435v1)|null|
 |**2025-03-11**|**Uncertainty Quantification for Multi-fidelity Simulations**|Swapnil Kumar et.al.|[2503.08408v1](http://arxiv.org/abs/2503.08408v1)|null|
 |**2025-03-11**|**Ev-Layout: A Large-scale Event-based Multi-modal Dataset for Indoor Layout Estimation and Tracking**|Xucheng Guo et.al.|[2503.08370v1](http://arxiv.org/abs/2503.08370v1)|null|
 |**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336v1](http://arxiv.org/abs/2503.08336v1)|null|
-|**2025-03-11**|**$^R$FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307v1](http://arxiv.org/abs/2503.08307v1)|null|
+|**2025-03-12**|**$^R$FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307v2](http://arxiv.org/abs/2503.08307v2)|null|
 |**2025-03-11**|**Feature Alignment with Equivariant Convolutions for Burst Image Super-Resolution**|Xinyi Liu et.al.|[2503.08300v1](http://arxiv.org/abs/2503.08300v1)|null|
 |**2025-03-10**|**Efficient data-driven flow modeling for accurate passive scalar advection in submesoscale domains**|Karlo Jakac et.al.|[2503.07452v1](http://arxiv.org/abs/2503.07452v1)|null|
 |**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417v1](http://arxiv.org/abs/2503.07417v1)|null|
