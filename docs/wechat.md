@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-03-12, **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**, Chenyu Li et.al., Paper: [http://arxiv.org/abs/2503.09595v1](http://arxiv.org/abs/2503.09595v1)
+- 2025-03-12, **BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**, Md Mohaiminul Islam et.al., Paper: [http://arxiv.org/abs/2503.09590v1](http://arxiv.org/abs/2503.09590v1)
+- 2025-03-12, **Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching**, Nannan Wu et.al., Paper: [http://arxiv.org/abs/2503.09587v1](http://arxiv.org/abs/2503.09587v1)
+- 2025-03-12, **Auspex: Building Threat Modeling Tradecraft into an Artificial Intelligence-based Copilot**, Andrew Crossman et.al., Paper: [http://arxiv.org/abs/2503.09586v1](http://arxiv.org/abs/2503.09586v1)
+- 2025-03-12, **Manify: A Python Library for Learning Non-Euclidean Representations**, Philippe Chlenski et.al., Paper: [http://arxiv.org/abs/2503.09576v1](http://arxiv.org/abs/2503.09576v1)
+- 2025-03-12, **TPDiff: Temporal Pyramid Video Diffusion Model**, Lingmin Ran et.al., Paper: [http://arxiv.org/abs/2503.09566v1](http://arxiv.org/abs/2503.09566v1)
+- 2025-03-12, **FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**, Jiahao Xia et.al., Paper: [http://arxiv.org/abs/2503.09560v1](http://arxiv.org/abs/2503.09560v1)
+- 2025-03-12, **The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**, Yiwei Chen et.al., Paper: [http://arxiv.org/abs/2503.09559v1](http://arxiv.org/abs/2503.09559v1)
+- 2025-03-12, **CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2503.09527v1](http://arxiv.org/abs/2503.09527v1)
+- 2025-03-12, **Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**, Bakary Badjie et.al., Paper: [http://arxiv.org/abs/2503.09504v1](http://arxiv.org/abs/2503.09504v1)
 - 2025-03-11, **QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**, Yongdong Luo et.al., Paper: [http://arxiv.org/abs/2503.08689v1](http://arxiv.org/abs/2503.08689v1)
 - 2025-03-11, **REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**, Yitian Zhang et.al., Paper: [http://arxiv.org/abs/2503.08665v1](http://arxiv.org/abs/2503.08665v1)
 - 2025-03-11, **MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**, Yuhan Wang et.al., Paper: [http://arxiv.org/abs/2503.08664v1](http://arxiv.org/abs/2503.08664v1)
@@ -6810,6 +6820,15 @@
 
 ## MultiModal
 
+- 2025-03-12, **DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2503.09491v1](http://arxiv.org/abs/2503.09491v1)
+- 2025-03-12, **Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**, Xiaoda Yang et.al., Paper: [http://arxiv.org/abs/2503.09445v1](http://arxiv.org/abs/2503.09445v1)
+- 2025-03-12, **Revisiting Medical Image Retrieval via Knowledge Consolidation**, Yang Nan et.al., Paper: [http://arxiv.org/abs/2503.09370v1](http://arxiv.org/abs/2503.09370v1)
+- 2025-03-12, **MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**, Bingzheng Jiang et.al., Paper: [http://arxiv.org/abs/2503.09296v1](http://arxiv.org/abs/2503.09296v1)
+- 2025-03-12, **Learning Appearance and Motion Cues for Panoptic Tracking**, Juana Valeria Hurtado et.al., Paper: [http://arxiv.org/abs/2503.09191v1](http://arxiv.org/abs/2503.09191v1)
+- 2025-03-12, **FaVChat: Unlocking Fine-Grained Facail Video Understanding with Multimodal Large Language Models**, Fufangchen Zhao et.al., Paper: [http://arxiv.org/abs/2503.09158v1](http://arxiv.org/abs/2503.09158v1)
+- 2025-03-12, **HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**, Qiang Zhang et.al., Paper: [http://arxiv.org/abs/2503.09010v1](http://arxiv.org/abs/2503.09010v1)
+- 2025-03-12, **Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**, Xuzhong Hu et.al., Paper: [http://arxiv.org/abs/2503.08992v1](http://arxiv.org/abs/2503.08992v1)
+- 2025-03-11, **Quantum Circuits for SU(3) Lattice Gauge Theory**, Praveen Balaji et.al., Paper: [http://arxiv.org/abs/2503.08866v1](http://arxiv.org/abs/2503.08866v1)
 - 2025-03-11, **Language-Depth Navigated Thermal and Visible Image Fusion**, Jinchang Zhang et.al., Paper: [http://arxiv.org/abs/2503.08676v1](http://arxiv.org/abs/2503.08676v1)
 - 2025-03-11, **Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion**, Mehdi Hosseini Chagahi et.al., Paper: [http://arxiv.org/abs/2503.08609v1](http://arxiv.org/abs/2503.08609v1)
 - 2025-03-12, **MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification**, Jiangping Wen et.al., Paper: [http://arxiv.org/abs/2503.08581v2](http://arxiv.org/abs/2503.08581v2)
