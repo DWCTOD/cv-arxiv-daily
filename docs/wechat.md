@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-03-13, **V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**, Yanming Zhang et.al., Paper: [http://arxiv.org/abs/2503.10634v1](http://arxiv.org/abs/2503.10634v1)
+- 2025-03-13, **NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**, Mert Albaba et.al., Paper: [http://arxiv.org/abs/2503.10626v1](http://arxiv.org/abs/2503.10626v1)
+- 2025-03-13, **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**, Lingteng Qiu et.al., Paper: [http://arxiv.org/abs/2503.10625v1](http://arxiv.org/abs/2503.10625v1)
+- 2025-03-13, **OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**, Jinyang Li et.al., Paper: [http://arxiv.org/abs/2503.10616v1](http://arxiv.org/abs/2503.10616v1)
+- 2025-03-13, **MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**, Yingshuang Zou et.al., Paper: [http://arxiv.org/abs/2503.10604v1](http://arxiv.org/abs/2503.10604v1)
+- 2025-03-13, **CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**, Hao He et.al., Paper: [http://arxiv.org/abs/2503.10592v1](http://arxiv.org/abs/2503.10592v1)
+- 2025-03-13, **Long Context Tuning for Video Generation**, Yuwei Guo et.al., Paper: [http://arxiv.org/abs/2503.10589v1](http://arxiv.org/abs/2503.10589v1)
+- 2025-03-13, **Learning Interpretable Logic Rules from Deep Vision Models**, Chuqin Geng et.al., Paper: [http://arxiv.org/abs/2503.10547v1](http://arxiv.org/abs/2503.10547v1)
+- 2025-03-13, **From Linear to Spline-Based Classification:Developing and Enhancing SMPA for Noisy Non-Linear Datasets**, Vatsal Srivastava et.al., Paper: [http://arxiv.org/abs/2503.10545v1](http://arxiv.org/abs/2503.10545v1)
+- 2025-03-13, **Lightweight Models for Emotional Analysis in Video**, Quoc-Tien Nguyen et.al., Paper: [http://arxiv.org/abs/2503.10530v1](http://arxiv.org/abs/2503.10530v1)
 - 2025-03-12, **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**, Chenyu Li et.al., Paper: [http://arxiv.org/abs/2503.09595v1](http://arxiv.org/abs/2503.09595v1)
 - 2025-03-12, **BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**, Md Mohaiminul Islam et.al., Paper: [http://arxiv.org/abs/2503.09590v1](http://arxiv.org/abs/2503.09590v1)
 - 2025-03-12, **Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching**, Nannan Wu et.al., Paper: [http://arxiv.org/abs/2503.09587v1](http://arxiv.org/abs/2503.09587v1)
@@ -6820,6 +6830,16 @@
 
 ## MultiModal
 
+- 2025-03-13, **Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**, Jun Yu et.al., Paper: [http://arxiv.org/abs/2503.10603v1](http://arxiv.org/abs/2503.10603v1)
+- 2025-03-13, **Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**, Chaoqun Wang et.al., Paper: [http://arxiv.org/abs/2503.10579v1](http://arxiv.org/abs/2503.10579v1)
+- 2025-03-13, **MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup**, Youngjin Kwon et.al., Paper: [http://arxiv.org/abs/2503.10549v1](http://arxiv.org/abs/2503.10549v1)
+- 2025-03-13, **Interactive Multimodal Fusion with Temporal Modeling**, Jun Yu et.al., Paper: [http://arxiv.org/abs/2503.10523v1](http://arxiv.org/abs/2503.10523v1)
+- 2025-03-13, **A Multimodal Fusion Model Leveraging MLP Mixer and Handcrafted Features-based Deep Learning Networks for Facial Palsy Detection**, Heng Yim Nicole Oo et.al., Paper: [http://arxiv.org/abs/2503.10371v1](http://arxiv.org/abs/2503.10371v1)
+- 2025-03-13, **Collaborative Speculative Inference for Efficient LLM Inference Serving**, Luyao Gao et.al., Paper: [http://arxiv.org/abs/2503.10325v1](http://arxiv.org/abs/2503.10325v1)
+- 2025-03-13, **A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**, Barış Büyüktaş et.al., Paper: [http://arxiv.org/abs/2503.10262v1](http://arxiv.org/abs/2503.10262v1)
+- 2025-03-13, **KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception**, Yunpeng Qu et.al., Paper: [http://arxiv.org/abs/2503.10259v1](http://arxiv.org/abs/2503.10259v1)
+- 2025-03-13, **StableFusion: Continual Video Retrieval via Frame Adaptation**, Zecheng Zhao et.al., Paper: [http://arxiv.org/abs/2503.10111v1](http://arxiv.org/abs/2503.10111v1)
+- 2025-03-13, **Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion**, Xingxin Xu et.al., Paper: [http://arxiv.org/abs/2503.10109v1](http://arxiv.org/abs/2503.10109v1)
 - 2025-03-12, **DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2503.09491v1](http://arxiv.org/abs/2503.09491v1)
 - 2025-03-12, **Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**, Xiaoda Yang et.al., Paper: [http://arxiv.org/abs/2503.09445v1](http://arxiv.org/abs/2503.09445v1)
 - 2025-03-12, **Revisiting Medical Image Retrieval via Knowledge Consolidation**, Yang Nan et.al., Paper: [http://arxiv.org/abs/2503.09370v1](http://arxiv.org/abs/2503.09370v1)
