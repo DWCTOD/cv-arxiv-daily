@@ -1,4 +1,4 @@
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 |**2025-03-12**|**Manify: A Python Library for Learning Non-Euclidean Representations**|Philippe Chlenski et.al.|[2503.09576v1](http://arxiv.org/abs/2503.09576v1)|null|
 |**2025-03-12**|**TPDiff: Temporal Pyramid Video Diffusion Model**|Lingmin Ran et.al.|[2503.09566v1](http://arxiv.org/abs/2503.09566v1)|null|
 |**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560v1](http://arxiv.org/abs/2503.09560v1)|null|
-|**2025-03-12**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559v1](http://arxiv.org/abs/2503.09559v1)|null|
+|**2025-03-13**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559v2](http://arxiv.org/abs/2503.09559v2)|null|
 |**2025-03-12**|**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**|Peng Chen et.al.|[2503.09527v1](http://arxiv.org/abs/2503.09527v1)|null|
 |**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504v1](http://arxiv.org/abs/2503.09504v1)|null|
 |**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689v1](http://arxiv.org/abs/2503.08689v1)|null|
@@ -6829,8 +6829,8 @@
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370v1](http://arxiv.org/abs/2503.09370v1)|null|
 |**2025-03-12**|**MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**|Bingzheng Jiang et.al.|[2503.09296v1](http://arxiv.org/abs/2503.09296v1)|null|
 |**2025-03-12**|**Learning Appearance and Motion Cues for Panoptic Tracking**|Juana Valeria Hurtado et.al.|[2503.09191v1](http://arxiv.org/abs/2503.09191v1)|null|
-|**2025-03-12**|**FaVChat: Unlocking Fine-Grained Facail Video Understanding with Multimodal Large Language Models**|Fufangchen Zhao et.al.|[2503.09158v1](http://arxiv.org/abs/2503.09158v1)|null|
-|**2025-03-12**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Qiang Zhang et.al.|[2503.09010v1](http://arxiv.org/abs/2503.09010v1)|null|
+|**2025-03-13**|**FaVChat: Unlocking Fine-Grained Facial Video Understanding with Multimodal Large Language Models**|Fufangchen Zhao et.al.|[2503.09158v2](http://arxiv.org/abs/2503.09158v2)|null|
+|**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Qiang Zhang et.al.|[2503.09010v2](http://arxiv.org/abs/2503.09010v2)|null|
 |**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992v1](http://arxiv.org/abs/2503.08992v1)|null|
 |**2025-03-11**|**Quantum Circuits for SU(3) Lattice Gauge Theory**|Praveen Balaji et.al.|[2503.08866v1](http://arxiv.org/abs/2503.08866v1)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676v1](http://arxiv.org/abs/2503.08676v1)|null|
