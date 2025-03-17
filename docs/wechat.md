@@ -1,4 +1,4 @@
-> Updated on 2025.03.16
+> Updated on 2025.03.17
 
 ## Video_Classification
 
@@ -6830,7 +6830,7 @@
 
 ## MultiModal
 
-- 2025-03-13, **Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**, Jun Yu et.al., Paper: [http://arxiv.org/abs/2503.10603v1](http://arxiv.org/abs/2503.10603v1)
+- 2025-03-14, **Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**, Jun Yu et.al., Paper: [http://arxiv.org/abs/2503.10603v2](http://arxiv.org/abs/2503.10603v2)
 - 2025-03-13, **Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**, Chaoqun Wang et.al., Paper: [http://arxiv.org/abs/2503.10579v1](http://arxiv.org/abs/2503.10579v1)
 - 2025-03-13, **MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup**, Youngjin Kwon et.al., Paper: [http://arxiv.org/abs/2503.10549v1](http://arxiv.org/abs/2503.10549v1)
 - 2025-03-13, **Interactive Multimodal Fusion with Temporal Modeling**, Jun Yu et.al., Paper: [http://arxiv.org/abs/2503.10523v1](http://arxiv.org/abs/2503.10523v1)
@@ -6838,7 +6838,7 @@
 - 2025-03-13, **Collaborative Speculative Inference for Efficient LLM Inference Serving**, Luyao Gao et.al., Paper: [http://arxiv.org/abs/2503.10325v1](http://arxiv.org/abs/2503.10325v1)
 - 2025-03-13, **A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**, Barış Büyüktaş et.al., Paper: [http://arxiv.org/abs/2503.10262v1](http://arxiv.org/abs/2503.10262v1)
 - 2025-03-13, **KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception**, Yunpeng Qu et.al., Paper: [http://arxiv.org/abs/2503.10259v1](http://arxiv.org/abs/2503.10259v1)
-- 2025-03-13, **StableFusion: Continual Video Retrieval via Frame Adaptation**, Zecheng Zhao et.al., Paper: [http://arxiv.org/abs/2503.10111v1](http://arxiv.org/abs/2503.10111v1)
+- 2025-03-13, **StableFusion: Continual Video Retrieval via Frame Adaptation**, Zecheng Zhao et.al., Paper: [http://arxiv.org/abs/2503.10111v1](http://arxiv.org/abs/2503.10111v1), Code: **[https://github.com/jasoncodemaker/ctvr](https://github.com/jasoncodemaker/ctvr)**
 - 2025-03-13, **Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion**, Xingxin Xu et.al., Paper: [http://arxiv.org/abs/2503.10109v1](http://arxiv.org/abs/2503.10109v1)
 - 2025-03-12, **DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2503.09491v1](http://arxiv.org/abs/2503.09491v1)
 - 2025-03-12, **Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**, Xiaoda Yang et.al., Paper: [http://arxiv.org/abs/2503.09445v1](http://arxiv.org/abs/2503.09445v1)
