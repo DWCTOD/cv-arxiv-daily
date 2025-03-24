@@ -1,4 +1,4 @@
-> Updated on 2025.03.23
+> Updated on 2025.03.24
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 - 2025-03-20, **MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**, Quanhao Li et.al., Paper: [http://arxiv.org/abs/2503.16421v1](http://arxiv.org/abs/2503.16421v1)
 - 2025-03-20, **M3: 3D-Spatial MultiModal Memory**, Xueyan Zou et.al., Paper: [http://arxiv.org/abs/2503.16413v1](http://arxiv.org/abs/2503.16413v1)
 - 2025-03-20, **ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**, Haolin Yang et.al., Paper: [http://arxiv.org/abs/2503.16400v1](http://arxiv.org/abs/2503.16400v1)
-- 2025-03-20, **SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**, Chun-Han Yao et.al., Paper: [http://arxiv.org/abs/2503.16396v1](http://arxiv.org/abs/2503.16396v1)
+- 2025-03-21, **SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**, Chun-Han Yao et.al., Paper: [http://arxiv.org/abs/2503.16396v2](http://arxiv.org/abs/2503.16396v2)
 - 2025-03-20, **Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation**, Kristin Qi et.al., Paper: [http://arxiv.org/abs/2503.16389v1](http://arxiv.org/abs/2503.16389v1)
 - 2025-03-20, **Probabilistic Quantum SVM Training on Ising Machine**, Haoqi He et.al., Paper: [http://arxiv.org/abs/2503.16363v1](http://arxiv.org/abs/2503.16363v1)
 - 2025-03-20, **Enhancing variational quantum algorithms by balancing training on classical and quantum hardware**, Rahul Bhowmick et.al., Paper: [http://arxiv.org/abs/2503.16361v1](http://arxiv.org/abs/2503.16361v1)
