@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|null|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|null|
+|**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943v1](http://arxiv.org/abs/2503.18943v1)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|null|
+|**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940v1](http://arxiv.org/abs/2503.18940v1)|null|
+|**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938v1](http://arxiv.org/abs/2503.18938v1)|null|
+|**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933v1](http://arxiv.org/abs/2503.18933v1)|null|
+|**2025-03-24**|**CoMP: Continual Multimodal Pre-training for Vision Foundation Models**|Yitong Chen et.al.|[2503.18931v1](http://arxiv.org/abs/2503.18931v1)|**[link](https://github.com/SliMM-X/CoMP-MM)**|
+|**2025-03-24**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models**|Meng Cao et.al.|[2503.18923v1](http://arxiv.org/abs/2503.18923v1)|null|
+|**2025-03-24**|**Online 3D Scene Reconstruction Using Neural Object Priors**|Thomas Chabal et.al.|[2503.18897v1](http://arxiv.org/abs/2503.18897v1)|null|
 |**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359v1](http://arxiv.org/abs/2503.17359v1)|null|
 |**2025-03-21**|**Time-Series U-Net with Recurrence for Noise-Robust Imaging Photoplethysmography**|Vineet R. Shenoy et.al.|[2503.17351v1](http://arxiv.org/abs/2503.17351v1)|null|
 |**2025-03-21**|**Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer**|Qingyu Shi et.al.|[2503.17350v1](http://arxiv.org/abs/2503.17350v1)|null|
@@ -6894,6 +6904,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|null|
+|**2025-03-24**|**Inertial-Based LQG Control: A New Look at Inverted Pendulum Stabilization**|Daniel Engelsman et.al.|[2503.18926v1](http://arxiv.org/abs/2503.18926v1)|null|
+|**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908v1](http://arxiv.org/abs/2503.18908v1)|null|
+|**2025-03-24**|**LGI-DETR: Local-Global Interaction for UAV Object Detection**|Zifa Chen et.al.|[2503.18785v1](http://arxiv.org/abs/2503.18785v1)|null|
+|**2025-03-24**|**Coupled 2-D MHD and runaway electron fluid simulations of SPARC disruptions**|R. Datta et.al.|[2503.18777v1](http://arxiv.org/abs/2503.18777v1)|null|
+|**2025-03-24**|**OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning**|Hui Li et.al.|[2503.18635v1](http://arxiv.org/abs/2503.18635v1)|null|
+|**2025-03-24**|**Actions of Fusion Categories on Path Algebras**|Alexander Betz et.al.|[2503.18630v1](http://arxiv.org/abs/2503.18630v1)|null|
+|**2025-03-24**|**Dig2DIG: Dig into Diffusion Information Gains for Image Fusion**|Bing Cao et.al.|[2503.18627v1](http://arxiv.org/abs/2503.18627v1)|null|
+|**2025-03-24**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407v1](http://arxiv.org/abs/2503.18407v1)|null|
+|**2025-03-24**|**PRECTR: A Synergistic Framework for Integrating Personalized Search Relevance Matching and CTR Prediction**|Rong Chen et.al.|[2503.18395v1](http://arxiv.org/abs/2503.18395v1)|null|
 |**2025-03-21**|**Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID**|Yu-Hsi Chen et.al.|[2503.17237v1](http://arxiv.org/abs/2503.17237v1)|null|
 |**2025-03-21**|**Hamiltonian Chaos: From Galactic Dynamics to Plasma Physics**|Henok Tenaw Moges et.al.|[2503.17208v1](http://arxiv.org/abs/2503.17208v1)|null|
 |**2025-03-21**|**MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection**|Xiaojin Lu et.al.|[2503.17193v1](http://arxiv.org/abs/2503.17193v1)|null|
