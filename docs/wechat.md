@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-03-26, **Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2503.20785v1](http://arxiv.org/abs/2503.20785v1)
+- 2025-03-26, **Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**, Yan-Bo Lin et.al., Paper: [http://arxiv.org/abs/2503.20782v1](http://arxiv.org/abs/2503.20782v1)
+- 2025-03-26, **BASKET: A Large-Scale Video Dataset for Fine-Grained Skill Estimation**, Yulu Pan et.al., Paper: [http://arxiv.org/abs/2503.20781v1](http://arxiv.org/abs/2503.20781v1)
+- 2025-03-26, **Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**, Shijie Zhou et.al., Paper: [http://arxiv.org/abs/2503.20776v1](http://arxiv.org/abs/2503.20776v1)
+- 2025-03-26, **Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**, Masoumeh Sharafi et.al., Paper: [http://arxiv.org/abs/2503.20771v1](http://arxiv.org/abs/2503.20771v1)
+- 2025-03-26, **An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**, Haotian Yang et.al., Paper: [http://arxiv.org/abs/2503.20768v1](http://arxiv.org/abs/2503.20768v1)
+- 2025-03-26, **PhysGen3D: Crafting a Miniature Interactive World from a Single Image**, Boyuan Chen et.al., Paper: [http://arxiv.org/abs/2503.20746v1](http://arxiv.org/abs/2503.20746v1)
+- 2025-03-26, **MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**, Yanpeng Sun et.al., Paper: [http://arxiv.org/abs/2503.20745v1](http://arxiv.org/abs/2503.20745v1)
+- 2025-03-26, **RecTable: Fast Modeling Tabular Data with Rectified Flow**, Masane Fuchi et.al., Paper: [http://arxiv.org/abs/2503.20731v1](http://arxiv.org/abs/2503.20731v1)
+- 2025-03-26, **MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**, Saron Samuel et.al., Paper: [http://arxiv.org/abs/2503.20698v1](http://arxiv.org/abs/2503.20698v1)
 - 2025-03-25, **PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**, Mingju Gao et.al., Paper: [http://arxiv.org/abs/2503.19913v1](http://arxiv.org/abs/2503.19913v1)
 - 2025-03-25, **FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**, Xuan Ju et.al., Paper: [http://arxiv.org/abs/2503.19907v1](http://arxiv.org/abs/2503.19907v1)
 - 2025-03-25, **Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**, Zihang Lai et.al., Paper: [http://arxiv.org/abs/2503.19904v1](http://arxiv.org/abs/2503.19904v1)
@@ -6910,6 +6920,16 @@
 
 ## MultiModal
 
+- 2025-03-26, **SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**, Ziyu Zhou et.al., Paper: [http://arxiv.org/abs/2503.20734v1](http://arxiv.org/abs/2503.20734v1)
+- 2025-03-26, **MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**, Saron Samuel et.al., Paper: [http://arxiv.org/abs/2503.20698v1](http://arxiv.org/abs/2503.20698v1)
+- 2025-03-26, **Enhancing Multi-modal Models with Heterogeneous MoE Adapters for Fine-tuning**, Sashuai Zhou et.al., Paper: [http://arxiv.org/abs/2503.20633v1](http://arxiv.org/abs/2503.20633v1)
+- 2025-03-26, **SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**, Tanmoy Dam et.al., Paper: [http://arxiv.org/abs/2503.20614v1](http://arxiv.org/abs/2503.20614v1)
+- 2025-03-26, **Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**, Mahya Nikouei et.al., Paper: [http://arxiv.org/abs/2503.20516v1](http://arxiv.org/abs/2503.20516v1)
+- 2025-03-26, **Enhancing Depression Detection via Question-wise Modality Fusion**, Aishik Mandal et.al., Paper: [http://arxiv.org/abs/2503.20496v1](http://arxiv.org/abs/2503.20496v1)
+- 2025-03-26, **Comparative analysis and evaluation of ageing forecasting methods for semiconductor devices in online health monitoring**, Adrian Villalobos et.al., Paper: [http://arxiv.org/abs/2503.20403v1](http://arxiv.org/abs/2503.20403v1)
+- 2025-03-26, **TileLink: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives**, Size Zheng et.al., Paper: [http://arxiv.org/abs/2503.20313v1](http://arxiv.org/abs/2503.20313v1)
+- 2025-03-26, **ESSR: An 8K@30FPS Super-Resolution Accelerator With Edge Selective Network**, Chih-Chia Hsu et.al., Paper: [http://arxiv.org/abs/2503.20245v1](http://arxiv.org/abs/2503.20245v1)
+- 2025-03-26, **LGR: LLM-Guided Ranking of Frontiers for Object Goal Navigation**, Mitsuaki Uno et.al., Paper: [http://arxiv.org/abs/2503.20241v1](http://arxiv.org/abs/2503.20241v1)
 - 2025-03-25, **CoLLM: A Large Language Model for Composed Image Retrieval**, Chuong Huynh et.al., Paper: [http://arxiv.org/abs/2503.19910v1](http://arxiv.org/abs/2503.19910v1), Code: **[https://github.com/hmchuong/CoLLM](https://github.com/hmchuong/CoLLM)**
 - 2025-03-25, **Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation**, Yuncheng Lu et.al., Paper: [http://arxiv.org/abs/2503.19894v1](http://arxiv.org/abs/2503.19894v1)
 - 2025-03-25, **Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**, Konyul Park et.al., Paper: [http://arxiv.org/abs/2503.19776v1](http://arxiv.org/abs/2503.19776v1)
