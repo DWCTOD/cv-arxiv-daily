@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-03-27, **Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**, Abdelrahman Shaker et.al., Paper: [http://arxiv.org/abs/2503.21782v1](http://arxiv.org/abs/2503.21782v1)
+- 2025-03-27, **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**, Chi-Pin Huang et.al., Paper: [http://arxiv.org/abs/2503.21781v1](http://arxiv.org/abs/2503.21781v1)
+- 2025-03-27, **Video-R1: Reinforcing Video Reasoning in MLLMs**, Kaituo Feng et.al., Paper: [http://arxiv.org/abs/2503.21776v1](http://arxiv.org/abs/2503.21776v1)
+- 2025-03-27, **StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2503.21775v1](http://arxiv.org/abs/2503.21775v1)
+- 2025-03-27, **Exploring the Evolution of Physics Cognition in Video Generation: A Survey**, Minghui Lin et.al., Paper: [http://arxiv.org/abs/2503.21765v1](http://arxiv.org/abs/2503.21765v1)
+- 2025-03-27, **Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**, Ömer M. Aksoy et.al., Paper: [http://arxiv.org/abs/2503.21764v1](http://arxiv.org/abs/2503.21764v1)
+- 2025-03-27, **Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**, David Yifan Yao et.al., Paper: [http://arxiv.org/abs/2503.21761v1](http://arxiv.org/abs/2503.21761v1)
+- 2025-03-27, **Large Scale Structure and the Cosmic Web**, Rita Tojeiro et.al., Paper: [http://arxiv.org/abs/2503.21759v1](http://arxiv.org/abs/2503.21759v1)
+- 2025-03-27, **VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**, Dian Zheng et.al., Paper: [http://arxiv.org/abs/2503.21755v1](http://arxiv.org/abs/2503.21755v1)
+- 2025-03-27, **MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**, Liuyue Xie et.al., Paper: [http://arxiv.org/abs/2503.21699v1](http://arxiv.org/abs/2503.21699v1)
 - 2025-03-26, **Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2503.20785v1](http://arxiv.org/abs/2503.20785v1)
 - 2025-03-26, **Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**, Yan-Bo Lin et.al., Paper: [http://arxiv.org/abs/2503.20782v1](http://arxiv.org/abs/2503.20782v1)
 - 2025-03-26, **BASKET: A Large-Scale Video Dataset for Fine-Grained Skill Estimation**, Yulu Pan et.al., Paper: [http://arxiv.org/abs/2503.20781v1](http://arxiv.org/abs/2503.20781v1)
@@ -6920,6 +6930,16 @@
 
 ## MultiModal
 
+- 2025-03-27, **Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**, Reza Qorbani et.al., Paper: [http://arxiv.org/abs/2503.21780v1](http://arxiv.org/abs/2503.21780v1)
+- 2025-03-27, **StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2503.21775v1](http://arxiv.org/abs/2503.21775v1)
+- 2025-03-27, **Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**, Nadav Cohen et.al., Paper: [http://arxiv.org/abs/2503.21727v1](http://arxiv.org/abs/2503.21727v1)
+- 2025-03-27, **InteractionMap: Improving Online Vectorized HDMap Construction with Interaction**, Kuang Wu et.al., Paper: [http://arxiv.org/abs/2503.21659v1](http://arxiv.org/abs/2503.21659v1)
+- 2025-03-27, **FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**, Jincheng Yan et.al., Paper: [http://arxiv.org/abs/2503.21595v1](http://arxiv.org/abs/2503.21595v1)
+- 2025-03-27, **Fusion of Graph Neural Networks via Optimal Transport**, Weronika Ormaniec et.al., Paper: [http://arxiv.org/abs/2503.21579v1](http://arxiv.org/abs/2503.21579v1)
+- 2025-03-27, **ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**, Yuxi Hu et.al., Paper: [http://arxiv.org/abs/2503.21525v1](http://arxiv.org/abs/2503.21525v1)
+- 2025-03-27, **Discrete inclusions from Cuntz-Pimsner algebras**, Roberto Hernández Palomares et.al., Paper: [http://arxiv.org/abs/2503.21515v1](http://arxiv.org/abs/2503.21515v1)
+- 2025-03-27, **Keyword-Oriented Multimodal Modeling for Euphemism Identification**, Yuxue Hu et.al., Paper: [http://arxiv.org/abs/2503.21504v1](http://arxiv.org/abs/2503.21504v1)
+- 2025-03-27, **Multimodal surface defect detection from wooden logs for sawing optimization**, Bořek Reich et.al., Paper: [http://arxiv.org/abs/2503.21367v1](http://arxiv.org/abs/2503.21367v1)
 - 2025-03-26, **SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**, Ziyu Zhou et.al., Paper: [http://arxiv.org/abs/2503.20734v1](http://arxiv.org/abs/2503.20734v1)
 - 2025-03-26, **MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**, Saron Samuel et.al., Paper: [http://arxiv.org/abs/2503.20698v1](http://arxiv.org/abs/2503.20698v1)
 - 2025-03-26, **Enhancing Multi-modal Models with Heterogeneous MoE Adapters for Fine-tuning**, Sashuai Zhou et.al., Paper: [http://arxiv.org/abs/2503.20633v1](http://arxiv.org/abs/2503.20633v1)
