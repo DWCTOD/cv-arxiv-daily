@@ -8,15 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782v1](http://arxiv.org/abs/2503.21782v1)|null|
+|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782v1](http://arxiv.org/abs/2503.21782v1)|**[link](https://github.com/amshaker/mobile-videogpt)**|
 |**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781v1](http://arxiv.org/abs/2503.21781v1)|null|
-|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776v1](http://arxiv.org/abs/2503.21776v1)|null|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776v1](http://arxiv.org/abs/2503.21776v1)|**[link](https://github.com/tulerfeng/video-r1)**|
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|null|
-|**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765v1](http://arxiv.org/abs/2503.21765v1)|null|
+|**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765v1](http://arxiv.org/abs/2503.21765v1)|**[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)**|
 |**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764v1](http://arxiv.org/abs/2503.21764v1)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|null|
 |**2025-03-27**|**Large Scale Structure and the Cosmic Web**|Rita Tojeiro et.al.|[2503.21759v1](http://arxiv.org/abs/2503.21759v1)|null|
-|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|null|
+|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|**[link](https://github.com/vchitect/vbench)**|
 |**2025-03-27**|**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**|Liuyue Xie et.al.|[2503.21699v1](http://arxiv.org/abs/2503.21699v1)|null|
 |**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785v1](http://arxiv.org/abs/2503.20785v1)|null|
 |**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782v1](http://arxiv.org/abs/2503.20782v1)|null|
@@ -6938,7 +6938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|null|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|null|
 |**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727v1](http://arxiv.org/abs/2503.21727v1)|null|
 |**2025-03-27**|**InteractionMap: Improving Online Vectorized HDMap Construction with Interaction**|Kuang Wu et.al.|[2503.21659v1](http://arxiv.org/abs/2503.21659v1)|null|
