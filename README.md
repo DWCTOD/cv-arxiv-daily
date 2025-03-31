@@ -1,4 +1,4 @@
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 |**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776v1](http://arxiv.org/abs/2503.21776v1)|**[link](https://github.com/tulerfeng/video-r1)**|
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|null|
 |**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765v1](http://arxiv.org/abs/2503.21765v1)|**[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)**|
-|**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764v1](http://arxiv.org/abs/2503.21764v1)|null|
+|**2025-03-28**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764v2](http://arxiv.org/abs/2503.21764v2)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|null|
 |**2025-03-27**|**Large Scale Structure and the Cosmic Web**|Rita Tojeiro et.al.|[2503.21759v1](http://arxiv.org/abs/2503.21759v1)|null|
 |**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|**[link](https://github.com/vchitect/vbench)**|
