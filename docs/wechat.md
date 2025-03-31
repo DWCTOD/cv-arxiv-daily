@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-03-28, **Understanding Co-speech Gestures in-the-wild**, Sindhu B Hegde et.al., Paper: [http://arxiv.org/abs/2503.22668v1](http://arxiv.org/abs/2503.22668v1)
+- 2025-03-28, **Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**, Frank J. Brooks et.al., Paper: [http://arxiv.org/abs/2503.22658v1](http://arxiv.org/abs/2503.22658v1)
+- 2025-03-28, **Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**, Maxime Faure et.al., Paper: [http://arxiv.org/abs/2503.22647v1](http://arxiv.org/abs/2503.22647v1)
+- 2025-03-28, **Sentiment Classification of Thai Central Bank Press Releases Using Supervised Learning**, Stefano Grassi et.al., Paper: [http://arxiv.org/abs/2503.22629v1](http://arxiv.org/abs/2503.22629v1)
+- 2025-03-28, **Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**, Jangho Park et.al., Paper: [http://arxiv.org/abs/2503.22622v1](http://arxiv.org/abs/2503.22622v1)
+- 2025-03-28, **Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**, Antonia Karamolegkou et.al., Paper: [http://arxiv.org/abs/2503.22610v1](http://arxiv.org/abs/2503.22610v1)
+- 2025-03-28, **Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**, Shuai Shen et.al., Paper: [http://arxiv.org/abs/2503.22605v1](http://arxiv.org/abs/2503.22605v1)
+- 2025-03-28, **Zero-homogeneous and $O(2)$-equivariant critical points of the Oseen-Frank energy with multiple Frank constants**, Luc Nguyen et.al., Paper: [http://arxiv.org/abs/2503.22599v1](http://arxiv.org/abs/2503.22599v1)
+- 2025-03-28, **KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**, Thomas Boucher et.al., Paper: [http://arxiv.org/abs/2503.22592v1](http://arxiv.org/abs/2503.22592v1)
+- 2025-03-28, **Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**, Adam Breuer et.al., Paper: [http://arxiv.org/abs/2503.22589v1](http://arxiv.org/abs/2503.22589v1)
 - 2025-03-27, **Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**, Abdelrahman Shaker et.al., Paper: [http://arxiv.org/abs/2503.21782v1](http://arxiv.org/abs/2503.21782v1), Code: **[https://github.com/amshaker/mobile-videogpt](https://github.com/amshaker/mobile-videogpt)**
 - 2025-03-27, **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**, Chi-Pin Huang et.al., Paper: [http://arxiv.org/abs/2503.21781v1](http://arxiv.org/abs/2503.21781v1)
 - 2025-03-27, **Video-R1: Reinforcing Video Reasoning in MLLMs**, Kaituo Feng et.al., Paper: [http://arxiv.org/abs/2503.21776v1](http://arxiv.org/abs/2503.21776v1), Code: **[https://github.com/tulerfeng/video-r1](https://github.com/tulerfeng/video-r1)**
@@ -6930,6 +6940,16 @@
 
 ## MultiModal
 
+- 2025-03-28, **Automated UX Insights from User Research Videos by Integrating Facial Emotion and Text Sentiment**, Simran Kaur Ghatoray et.al., Paper: [http://arxiv.org/abs/2503.22510v1](http://arxiv.org/abs/2503.22510v1)
+- 2025-03-28, **Scaling Laws of Scientific Discovery with AI and Robot Scientists**, Pengsong Zhang et.al., Paper: [http://arxiv.org/abs/2503.22444v1](http://arxiv.org/abs/2503.22444v1)
+- 2025-03-28, **NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**, Fuhao Li et.al., Paper: [http://arxiv.org/abs/2503.22436v1](http://arxiv.org/abs/2503.22436v1)
+- 2025-03-28, **ArchCAD-400K: An Open Large-Scale Architectural CAD Dataset and New Baseline for Panoptic Symbol Spotting**, Ruifeng Luo et.al., Paper: [http://arxiv.org/abs/2503.22346v1](http://arxiv.org/abs/2503.22346v1)
+- 2025-03-28, **Multi-Target Acquisition in Multistatic MIMO-OFDM Joint Sensing and Communication**, Elisabetta Matricardi et.al., Paper: [http://arxiv.org/abs/2503.22340v1](http://arxiv.org/abs/2503.22340v1)
+- 2025-03-28, **DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**, Haomin Zhang et.al., Paper: [http://arxiv.org/abs/2503.22265v1](http://arxiv.org/abs/2503.22265v1)
+- 2025-03-28, **CAT: A GPU-Accelerated FHE Framework with Its Application to High-Precision Private Dataset Query**, Qirui Li et.al., Paper: [http://arxiv.org/abs/2503.22227v1](http://arxiv.org/abs/2503.22227v1), Code: **[https://github.com/Rayman96/CAT](https://github.com/Rayman96/CAT)**
+- 2025-03-28, **Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations**, Tharun Anand et.al., Paper: [http://arxiv.org/abs/2503.22121v1](http://arxiv.org/abs/2503.22121v1)
+- 2025-03-28, **Multimodal Machine Learning for Real Estate Appraisal: A Comprehensive Survey**, Chenya Huang et.al., Paper: [http://arxiv.org/abs/2503.22119v1](http://arxiv.org/abs/2503.22119v1)
+- 2025-03-28, **Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**, Seokha Moon et.al., Paper: [http://arxiv.org/abs/2503.22087v1](http://arxiv.org/abs/2503.22087v1)
 - 2025-03-27, **Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**, Reza Qorbani et.al., Paper: [http://arxiv.org/abs/2503.21780v1](http://arxiv.org/abs/2503.21780v1), Code: **[https://github.com/rezaqorbani/semla](https://github.com/rezaqorbani/semla)**
 - 2025-03-27, **StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2503.21775v1](http://arxiv.org/abs/2503.21775v1)
 - 2025-03-27, **Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**, Nadav Cohen et.al., Paper: [http://arxiv.org/abs/2503.21727v1](http://arxiv.org/abs/2503.21727v1)
