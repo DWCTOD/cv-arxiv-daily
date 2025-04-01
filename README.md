@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 
 ## Video_Classification
 
@@ -13,7 +13,7 @@
 |**2025-03-28**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605v1](http://arxiv.org/abs/2503.22605v1)|null|
 |**2025-03-28**|**Zero-homogeneous and $O(2)$-equivariant critical points of the Oseen-Frank energy with multiple Frank constants**|Luc Nguyen et.al.|[2503.22599v1](http://arxiv.org/abs/2503.22599v1)|null|
 |**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592v1](http://arxiv.org/abs/2503.22592v1)|null|
-|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|null|
+|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|**[link](https://github.com/adambreuer/ai-summarizevid)**|
 |**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782v1](http://arxiv.org/abs/2503.21782v1)|**[link](https://github.com/amshaker/mobile-videogpt)**|
 |**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781v1](http://arxiv.org/abs/2503.21781v1)|null|
 |**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776v1](http://arxiv.org/abs/2503.21776v1)|**[link](https://github.com/tulerfeng/video-r1)**|
@@ -6950,7 +6950,7 @@
 |**2025-03-28**|**ArchCAD-400K: An Open Large-Scale Architectural CAD Dataset and New Baseline for Panoptic Symbol Spotting**|Ruifeng Luo et.al.|[2503.22346v1](http://arxiv.org/abs/2503.22346v1)|null|
 |**2025-03-28**|**Multi-Target Acquisition in Multistatic MIMO-OFDM Joint Sensing and Communication**|Elisabetta Matricardi et.al.|[2503.22340v1](http://arxiv.org/abs/2503.22340v1)|null|
 |**2025-03-28**|**DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**|Haomin Zhang et.al.|[2503.22265v1](http://arxiv.org/abs/2503.22265v1)|null|
-|**2025-03-28**|**CAT: A GPU-Accelerated FHE Framework with Its Application to High-Precision Private Dataset Query**|Qirui Li et.al.|[2503.22227v1](http://arxiv.org/abs/2503.22227v1)|**[link](https://github.com/Rayman96/CAT)**|
+|**2025-03-28**|**CAT: A GPU-Accelerated FHE Framework with Its Application to High-Precision Private Dataset Query**|Qirui Li et.al.|[2503.22227v1](http://arxiv.org/abs/2503.22227v1)|null|
 |**2025-03-28**|**Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations**|Tharun Anand et.al.|[2503.22121v1](http://arxiv.org/abs/2503.22121v1)|null|
 |**2025-03-28**|**Multimodal Machine Learning for Real Estate Appraisal: A Comprehensive Survey**|Chenya Huang et.al.|[2503.22119v1](http://arxiv.org/abs/2503.22119v1)|null|
 |**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[2503.22087v1](http://arxiv.org/abs/2503.22087v1)|null|
