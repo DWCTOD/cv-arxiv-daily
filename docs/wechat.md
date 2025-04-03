@@ -1,11 +1,11 @@
-> Updated on 2025.04.02
+> Updated on 2025.04.03
 
 ## Video_Classification
 
 - 2025-03-31, **Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**, Xingyu Chen et.al., Paper: [http://arxiv.org/abs/2503.24391v1](http://arxiv.org/abs/2503.24391v1), Code: **[https://github.com/inception3d/easi3r](https://github.com/inception3d/easi3r)**
 - 2025-03-31, **Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**, Shengqiong Wu et.al., Paper: [http://arxiv.org/abs/2503.24379v1](http://arxiv.org/abs/2503.24379v1)
 - 2025-03-31, **Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**, Yi Chen et.al., Paper: [http://arxiv.org/abs/2503.24376v1](http://arxiv.org/abs/2503.24376v1), Code: **[https://github.com/tencentarc/seed-bench-r1](https://github.com/tencentarc/seed-bench-r1)**
-- 2025-03-31, **Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**, Abhiram Maddukuri et.al., Paper: [http://arxiv.org/abs/2503.24361v1](http://arxiv.org/abs/2503.24361v1)
+- 2025-04-02, **Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**, Abhiram Maddukuri et.al., Paper: [http://arxiv.org/abs/2503.24361v2](http://arxiv.org/abs/2503.24361v2)
 - 2025-03-31, **Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**, Chao Luan et.al., Paper: [http://arxiv.org/abs/2503.24356v1](http://arxiv.org/abs/2503.24356v1)
 - 2025-03-31, **PathOrchestra: A Comprehensive Foundation Model for Computational Pathology with Over 100 Diverse Clinical-Grade Tasks**, Fang Yan et.al., Paper: [http://arxiv.org/abs/2503.24345v1](http://arxiv.org/abs/2503.24345v1)
 - 2025-03-31, **On gradient $ρ$-Einstein solitons with Bach tensor radially nonnegative**, Maria Andrade et.al., Paper: [http://arxiv.org/abs/2503.24337v1](http://arxiv.org/abs/2503.24337v1)
@@ -6953,7 +6953,7 @@
 - 2025-03-31, **Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**, Chong Bao et.al., Paper: [http://arxiv.org/abs/2503.24382v1](http://arxiv.org/abs/2503.24382v1)
 - 2025-03-31, **Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**, Karthik Muthineni et.al., Paper: [http://arxiv.org/abs/2503.24253v1](http://arxiv.org/abs/2503.24253v1)
 - 2025-03-31, **Distinct parallel electrostatic collisionless shocks in hot-cold ablative mixing plasmas**, Yanzeng Zhang et.al., Paper: [http://arxiv.org/abs/2503.24231v1](http://arxiv.org/abs/2503.24231v1)
-- 2025-03-31, **Tree-Guided $L_1$-Convex Clustering**, Bingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.24012v1](http://arxiv.org/abs/2503.24012v1)
+- 2025-03-31, **Tree-Guided $L_1$-Convex Clustering**, Bingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.24012v1](http://arxiv.org/abs/2503.24012v1), Code: **[https://github.com/bingyuan-zhang/tgcc](https://github.com/bingyuan-zhang/tgcc)**
 - 2025-03-31, **Production of open and hidden charm in fixed-target experiments at the LHC**, Antoni Szczurek et.al., Paper: [http://arxiv.org/abs/2503.23961v1](http://arxiv.org/abs/2503.23961v1)
 - 2025-03-31, **AMB-FHE: Adaptive Multi-biometric Fusion with Fully Homomorphic Encryption**, Florian Bayer et.al., Paper: [http://arxiv.org/abs/2503.23949v1](http://arxiv.org/abs/2503.23949v1)
 - 2025-03-31, **What the F*ck Is Artificial General Intelligence?**, Michael Timothy Bennett et.al., Paper: [http://arxiv.org/abs/2503.23923v1](http://arxiv.org/abs/2503.23923v1)
