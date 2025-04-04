@@ -1,10 +1,10 @@
-> Updated on 2025.04.03
+> Updated on 2025.04.04
 
 ## Video_Classification
 
 - 2025-04-02, **Learning from Streaming Video with Orthogonal Gradients**, Tengda Han et.al., Paper: [http://arxiv.org/abs/2504.01961v1](http://arxiv.org/abs/2504.01961v1)
 - 2025-04-02, **Slot-Level Robotic Placement via Visual Imitation from Single Human Video**, Dandan Shan et.al., Paper: [http://arxiv.org/abs/2504.01959v1](http://arxiv.org/abs/2504.01959v1)
-- 2025-04-02, **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Hanyang Wang et.al., Paper: [http://arxiv.org/abs/2504.01956v1](http://arxiv.org/abs/2504.01956v1)
+- 2025-04-03, **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Hanyang Wang et.al., Paper: [http://arxiv.org/abs/2504.01956v2](http://arxiv.org/abs/2504.01956v2)
 - 2025-04-02, **A thorough benchmark of automatic text classification: From traditional approaches to large language models**, Washington Cunha et.al., Paper: [http://arxiv.org/abs/2504.01930v1](http://arxiv.org/abs/2504.01930v1)
 - 2025-04-02, **Gen-C: Populating Virtual Worlds with Generative Crowds**, Andreas Panayiotou et.al., Paper: [http://arxiv.org/abs/2504.01924v1](http://arxiv.org/abs/2504.01924v1)
 - 2025-04-02, **Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness**, Haochen Wang et.al., Paper: [http://arxiv.org/abs/2504.01901v1](http://arxiv.org/abs/2504.01901v1)
