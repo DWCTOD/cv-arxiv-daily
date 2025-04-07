@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 
 ## Video_Classification
 
@@ -6980,7 +6980,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-03**|**On Dual Mechanisms Limiting Density in the Negative Triangularity Tokamak**|R. Hong et.al.|[2504.02773v1](http://arxiv.org/abs/2504.02773v1)|null|
 |**2025-04-03**|**SCMPPI: Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions**|Shengrui XU et.al.|[2504.02698v1](http://arxiv.org/abs/2504.02698v1)|null|
-|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v1](http://arxiv.org/abs/2504.02692v1)|null|
+|**2025-04-04**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v2](http://arxiv.org/abs/2504.02692v2)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647v1](http://arxiv.org/abs/2504.02647v1)|null|
 |**2025-04-03**|**EmbodiedSense: Understanding Embodied Activities with Earphones**|Lixing He et.al.|[2504.02624v1](http://arxiv.org/abs/2504.02624v1)|null|
 |**2025-04-03**|**Effective field theory for type II seesaw model --symmetric phase v.s. broken phase--**|Yi Liao et.al.|[2504.02580v1](http://arxiv.org/abs/2504.02580v1)|null|
