@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-04-07, **SmolVLM: Redefining small and efficient multimodal models**, Andrés Marafioti et.al., Paper: [http://arxiv.org/abs/2504.05299v1](http://arxiv.org/abs/2504.05299v1)
+- 2025-04-07, **One-Minute Video Generation with Test-Time Training**, Karan Dalal et.al., Paper: [http://arxiv.org/abs/2504.05298v1](http://arxiv.org/abs/2504.05298v1)
+- 2025-04-07, **Hopf tori and standard tori**, Leonardo A. Cano García et.al., Paper: [http://arxiv.org/abs/2504.05285v1](http://arxiv.org/abs/2504.05285v1)
+- 2025-04-07, **AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**, Yusef Ahsini et.al., Paper: [http://arxiv.org/abs/2504.05271v1](http://arxiv.org/abs/2504.05271v1)
+- 2025-04-07, **Explaining Low Perception Model Competency with High-Competency Counterfactuals**, Sara Pohland et.al., Paper: [http://arxiv.org/abs/2504.05254v1](http://arxiv.org/abs/2504.05254v1)
+- 2025-04-07, **Federated Learning for Medical Image Classification: A Comprehensive Benchmark**, Zhekai Zhou et.al., Paper: [http://arxiv.org/abs/2504.05238v1](http://arxiv.org/abs/2504.05238v1)
+- 2025-04-07, **Mapping biodiversity at very-high resolution in Europe**, César Leblanc et.al., Paper: [http://arxiv.org/abs/2504.05231v1](http://arxiv.org/abs/2504.05231v1)
+- 2025-04-07, **Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**, Jiaming Chen et.al., Paper: [http://arxiv.org/abs/2504.05225v1](http://arxiv.org/abs/2504.05225v1)
+- 2025-04-07, **An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**, Abdurrahim Yilmaz et.al., Paper: [http://arxiv.org/abs/2504.05219v1](http://arxiv.org/abs/2504.05219v1)
+- 2025-04-07, **LLM-Alignment Live-Streaming Recommendation**, Yueyang Liu et.al., Paper: [http://arxiv.org/abs/2504.05217v1](http://arxiv.org/abs/2504.05217v1)
 - 2025-04-04, **Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2504.03640v1](http://arxiv.org/abs/2504.03640v1)
 - 2025-04-04, **MedSAM2: Segment Anything in 3D Medical Images and Videos**, Jun Ma et.al., Paper: [http://arxiv.org/abs/2504.03600v1](http://arxiv.org/abs/2504.03600v1)
 - 2025-04-04, **Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation**, Jad Abou-Chakra et.al., Paper: [http://arxiv.org/abs/2504.03597v1](http://arxiv.org/abs/2504.03597v1)
@@ -6980,6 +6990,16 @@
 
 ## MultiModal
 
+- 2025-04-07, **A BLE and UWB Beacon-Assist Framework for Multiuser Augmented Reality Synchronization Across Multiple Devices in Shared Environments**, Maitree Hirunteeyakul et.al., Paper: [http://arxiv.org/abs/2504.05293v1](http://arxiv.org/abs/2504.05293v1)
+- 2025-04-07, **MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation**, Rayan Merghani Ahmed et.al., Paper: [http://arxiv.org/abs/2504.05184v1](http://arxiv.org/abs/2504.05184v1)
+- 2025-04-07, **Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**, Guangqiang Li et.al., Paper: [http://arxiv.org/abs/2504.05172v1](http://arxiv.org/abs/2504.05172v1)
+- 2025-04-07, **SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**, Bonan Ding et.al., Paper: [http://arxiv.org/abs/2504.05170v1](http://arxiv.org/abs/2504.05170v1)
+- 2025-04-07, **Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**, Xingyu Hu et.al., Paper: [http://arxiv.org/abs/2504.05164v1](http://arxiv.org/abs/2504.05164v1)
+- 2025-04-07, **Leveraging Label Potential for Enhanced Multimodal Emotion Recognition**, Xuechun Shao et.al., Paper: [http://arxiv.org/abs/2504.05158v1](http://arxiv.org/abs/2504.05158v1)
+- 2025-04-07, **Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**, Yasuhiro Yao et.al., Paper: [http://arxiv.org/abs/2504.05148v1](http://arxiv.org/abs/2504.05148v1), Code: **[https://github.com/yshry/libSGM_lidar](https://github.com/yshry/libSGM_lidar)**
+- 2025-04-07, **AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends**, Victor Monzon Baeza et.al., Paper: [http://arxiv.org/abs/2504.05071v1](http://arxiv.org/abs/2504.05071v1)
+- 2025-04-07, **LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**, Chenfeng Xu et.al., Paper: [http://arxiv.org/abs/2504.05062v1](http://arxiv.org/abs/2504.05062v1)
+- 2025-04-07, **RCCFormer: A Robust Crowd Counting Network Based on Transformer**, Peng Liu et.al., Paper: [http://arxiv.org/abs/2504.04935v1](http://arxiv.org/abs/2504.04935v1)
 - 2025-04-04, **Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**, Yuyang Hu et.al., Paper: [http://arxiv.org/abs/2504.03607v1](http://arxiv.org/abs/2504.03607v1)
 - 2025-04-04, **PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**, Kaidong Li et.al., Paper: [http://arxiv.org/abs/2504.03563v1](http://arxiv.org/abs/2504.03563v1)
 - 2025-04-04, **ATM-Net: Anatomy-Aware Text-Guided Multi-Modal Fusion for Fine-Grained Lumbar Spine Segmentation**, Sheng Lian et.al., Paper: [http://arxiv.org/abs/2504.03476v1](http://arxiv.org/abs/2504.03476v1)
