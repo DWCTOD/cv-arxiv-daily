@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 
 ## Video_Classification
 
@@ -7017,7 +7017,7 @@ layout: default
 |**2025-04-08**|**Defending Deep Neural Networks against Backdoor Attacks via Module Switching**|Weijun Li et.al.|[2504.05902v1](http://arxiv.org/abs/2504.05902v1)|null|
 |**2025-04-08**|**Human Activity Recognition using RGB-Event based Sensors: A Multi-modal Heat Conduction Model and A Benchmark Dataset**|Shiao Wang et.al.|[2504.05830v1](http://arxiv.org/abs/2504.05830v1)|null|
 |**2025-04-08**|**From Superficial to Deep: Integrating External Knowledge for Follow-up Question Generation Using Knowledge Graph and LLM**|Jianyu Liu et.al.|[2504.05801v1](http://arxiv.org/abs/2504.05801v1)|null|
-|**2025-04-08**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795v1](http://arxiv.org/abs/2504.05795v1)|null|
+|**2025-04-09**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795v2](http://arxiv.org/abs/2504.05795v2)|null|
 |**2025-04-07**|**A BLE and UWB Beacon-Assist Framework for Multiuser Augmented Reality Synchronization Across Multiple Devices in Shared Environments**|Maitree Hirunteeyakul et.al.|[2504.05293v1](http://arxiv.org/abs/2504.05293v1)|null|
 |**2025-04-07**|**MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation**|Rayan Merghani Ahmed et.al.|[2504.05184v1](http://arxiv.org/abs/2504.05184v1)|null|
 |**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172v1](http://arxiv.org/abs/2504.05172v1)|null|
