@@ -10,7 +10,7 @@
 - 2025-04-10, **Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**, Rundong Luo et.al., Paper: [http://arxiv.org/abs/2504.07940v1](http://arxiv.org/abs/2504.07940v1)
 - 2025-04-10, **Zero-Shot Low-dose CT Denoising via Sinogram Flicking**, Yongyi Shi et.al., Paper: [http://arxiv.org/abs/2504.07927v1](http://arxiv.org/abs/2504.07927v1)
 - 2025-04-10, **SKK groups of manifolds and non-unitary invertible TQFTs**, Renee S. Hoekzema et.al., Paper: [http://arxiv.org/abs/2504.07917v1](http://arxiv.org/abs/2504.07917v1)
-- 2025-04-10, **Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition**, Wen Ge et.al., Paper: [http://arxiv.org/abs/2504.07916v1](http://arxiv.org/abs/2504.07916v1)
+- 2025-04-10, **Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition**, Wen Ge et.al., Paper: [http://arxiv.org/abs/2504.07916v1](http://arxiv.org/abs/2504.07916v1), Code: **[https://github.com/gmouyes/seal](https://github.com/gmouyes/seal)**
 - 2025-04-10, **The Efficacy of Semantics-Preserving Transformations in Self-Supervised Learning for Medical Ultrasound**, Blake VanBerlo et.al., Paper: [http://arxiv.org/abs/2504.07904v1](http://arxiv.org/abs/2504.07904v1)
 - 2025-04-09, **Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**, Nikhil Shivakumar Nayak et.al., Paper: [http://arxiv.org/abs/2504.07097v1](http://arxiv.org/abs/2504.07097v1)
 - 2025-04-09, **FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**, Gene Chou et.al., Paper: [http://arxiv.org/abs/2504.07093v1](http://arxiv.org/abs/2504.07093v1)
@@ -7023,7 +7023,7 @@
 - 2025-04-10, **Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**, Mustafa Shukor et.al., Paper: [http://arxiv.org/abs/2504.07951v1](http://arxiv.org/abs/2504.07951v1)
 - 2025-04-10, **Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**, Uthman Olawoye et.al., Paper: [http://arxiv.org/abs/2504.07843v1](http://arxiv.org/abs/2504.07843v1)
 - 2025-04-10, **HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss**, Yi Huang et.al., Paper: [http://arxiv.org/abs/2504.07827v1](http://arxiv.org/abs/2504.07827v1)
-- 2025-04-10, **Zero-Shot Cross-Domain Code Search without Fine-Tuning**, Keyu Liang et.al., Paper: [http://arxiv.org/abs/2504.07740v1](http://arxiv.org/abs/2504.07740v1)
+- 2025-04-10, **Zero-Shot Cross-Domain Code Search without Fine-Tuning**, Keyu Liang et.al., Paper: [http://arxiv.org/abs/2504.07740v1](http://arxiv.org/abs/2504.07740v1), Code: **[https://github.com/zju-ctag/codebridge](https://github.com/zju-ctag/codebridge)**
 - 2025-04-10, **Automated Construction of a Knowledge Graph of Nuclear Fusion Energy for Effective Elicitation and Retrieval of Information**, A. Loreti et.al., Paper: [http://arxiv.org/abs/2504.07738v1](http://arxiv.org/abs/2504.07738v1)
 - 2025-04-10, **Measurements of Higgs boson production via gluon-gluon fusion and vector-boson fusion using $H\rightarrow WW^\ast \rightarrow \ellν\ellν$ decays in $pp$ collisions with the ATLAS detector and their effective field theory interpretations**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2504.07686v1](http://arxiv.org/abs/2504.07686v1)
 - 2025-04-10, **S2R-HDR: A Large-Scale Rendered Dataset for HDR Fusion**, Yujin Wang et.al., Paper: [http://arxiv.org/abs/2504.07667v1](http://arxiv.org/abs/2504.07667v1)
