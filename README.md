@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713v1](http://arxiv.org/abs/2504.08713v1)|null|
+|**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710v1](http://arxiv.org/abs/2504.08710v1)|null|
+|**2025-04-11**|**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**|Team Seawead et.al.|[2504.08685v1](http://arxiv.org/abs/2504.08685v1)|null|
+|**2025-04-11**|**BowelRCNN: Region-based Convolutional Neural Network System for Bowel Sound Auscultation**|Igor Matynia et.al.|[2504.08659v1](http://arxiv.org/abs/2504.08659v1)|null|
+|**2025-04-11**|**The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**|Masashi Hatano et.al.|[2504.08654v1](http://arxiv.org/abs/2504.08654v1)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641v1](http://arxiv.org/abs/2504.08641v1)|null|
+|**2025-04-11**|**Transformer Learns Optimal Variable Selection in Group-Sparse Classification**|Chenyang Zhang et.al.|[2504.08638v1](http://arxiv.org/abs/2504.08638v1)|null|
+|**2025-04-11**|**Preserving Privacy Without Compromising Accuracy: Machine Unlearning for Handwritten Text Recognition**|Lei Kang et.al.|[2504.08616v1](http://arxiv.org/abs/2504.08616v1)|null|
+|**2025-04-11**|**Enhancing knowledge retention for continual learning with domain-specific adapters and features gating**|Mohamed Abbas Hedjazi et.al.|[2504.08613v1](http://arxiv.org/abs/2504.08613v1)|null|
+|**2025-04-11**|**A Survey of Machine Learning Models and Datasets for the Multi-label Classification of Textual Hate Speech in English**|Julian Bäumler et.al.|[2504.08609v1](http://arxiv.org/abs/2504.08609v1)|null|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962v1](http://arxiv.org/abs/2504.07962v1)|null|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961v1](http://arxiv.org/abs/2504.07961v1)|null|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956v1](http://arxiv.org/abs/2504.07956v1)|null|
@@ -7024,6 +7034,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**POD-Based Sparse Stochastic Estimation of Wind Turbine Blade Vibrations**|Lorenzo Schena et.al.|[2504.08505v1](http://arxiv.org/abs/2504.08505v1)|null|
+|**2025-04-11**|**Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network**|Yucheng Liu et.al.|[2504.08371v1](http://arxiv.org/abs/2504.08371v1)|null|
+|**2025-04-11**|**A mesoscopic model for the rheology of dilute and semidilute solutions of wormlike micelles**|Avishek Kumar et.al.|[2504.08354v1](http://arxiv.org/abs/2504.08354v1)|null|
+|**2025-04-11**|**Distributed Kalman Filter with Ultimately Accurate Fused Measurement Covariance**|Tuo Yang et.al.|[2504.08302v1](http://arxiv.org/abs/2504.08302v1)|null|
+|**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291v1](http://arxiv.org/abs/2504.08291v1)|null|
+|**2025-04-11**|**Palmprint De-Identification Using Diffusion Model for High-Quality and Diverse Synthesis**|Licheng Yan et.al.|[2504.08272v1](http://arxiv.org/abs/2504.08272v1)|null|
+|**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252v1](http://arxiv.org/abs/2504.08252v1)|null|
+|**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172v1](http://arxiv.org/abs/2504.08172v1)|null|
 |**2025-04-11**|**Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951v2](http://arxiv.org/abs/2504.07951v2)|null|
 |**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye et.al.|[2504.07843v1](http://arxiv.org/abs/2504.07843v1)|null|
 |**2025-04-10**|**HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss**|Yi Huang et.al.|[2504.07827v1](http://arxiv.org/abs/2504.07827v1)|null|
