@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-04-14, **DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**, Zeren Jiang et.al., Paper: [http://arxiv.org/abs/2504.10486v1](http://arxiv.org/abs/2504.10486v1)
+- 2025-04-14, **Quantum Barcodes: Persistent Homology for Quantum Phase Transitions**, Khyathi Komalan et.al., Paper: [http://arxiv.org/abs/2504.10468v1](http://arxiv.org/abs/2504.10468v1)
+- 2025-04-14, **Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**, Ramin Mousa et.al., Paper: [http://arxiv.org/abs/2504.10452v1](http://arxiv.org/abs/2504.10452v1)
+- 2025-04-14, **Multimodal Long Video Modeling Based on Temporal Dynamic Context**, Haoran Hao et.al., Paper: [http://arxiv.org/abs/2504.10443v1](http://arxiv.org/abs/2504.10443v1)
+- 2025-04-14, **Framing Perception: Exploring Camera Induced Objectification in Cinema**, Parth Maradia et.al., Paper: [http://arxiv.org/abs/2504.10404v1](http://arxiv.org/abs/2504.10404v1)
+- 2025-04-14, **PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**, Maud Biquard et.al., Paper: [http://arxiv.org/abs/2504.10375v1](http://arxiv.org/abs/2504.10375v1)
+- 2025-04-14, **Proteinoid spikes: from protocognitive to universal approximating agents**, Saksham Sharma et.al., Paper: [http://arxiv.org/abs/2504.10362v1](http://arxiv.org/abs/2504.10362v1)
+- 2025-04-14, **FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2504.10358v1](http://arxiv.org/abs/2504.10358v1)
+- 2025-04-14, **Patch and Shuffle: A Preprocessing Technique for Texture Classification in Autonomous Cementitious Fabrication**, Jeremiah Giordani et.al., Paper: [http://arxiv.org/abs/2504.10353v1](http://arxiv.org/abs/2504.10353v1)
+- 2025-04-14, **Domain-Adversarial Neural Network and Explainable AI for Reducing Tissue-of-Origin Signal in Pan-cancer Mortality Classification**, Cristian Padron-Manrique et.al., Paper: [http://arxiv.org/abs/2504.10343v1](http://arxiv.org/abs/2504.10343v1)
 - 2025-04-11, **ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**, Sahil Sethi et.al., Paper: [http://arxiv.org/abs/2504.08713v1](http://arxiv.org/abs/2504.08713v1)
 - 2025-04-11, **Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**, Joshua Fixelle et.al., Paper: [http://arxiv.org/abs/2504.08710v1](http://arxiv.org/abs/2504.08710v1)
 - 2025-04-11, **Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**, Team Seawead et.al., Paper: [http://arxiv.org/abs/2504.08685v1](http://arxiv.org/abs/2504.08685v1)
@@ -7030,6 +7040,16 @@
 
 ## MultiModal
 
+- 2025-04-14, **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**, Yasser Benigmim et.al., Paper: [http://arxiv.org/abs/2504.10487v1](http://arxiv.org/abs/2504.10487v1)
+- 2025-04-14, **Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2504.10465v1](http://arxiv.org/abs/2504.10465v1)
+- 2025-04-14, **What metric to optimize for suppressing instability in a Vlasov-Poisson system?**, Martin Guerra et.al., Paper: [http://arxiv.org/abs/2504.10435v1](http://arxiv.org/abs/2504.10435v1)
+- 2025-04-14, **Role of Coulomb-nuclear breakup of 6,7Li projectiles with heavy deformed 232Th target**, D. Patel et.al., Paper: [http://arxiv.org/abs/2504.10420v1](http://arxiv.org/abs/2504.10420v1)
+- 2025-04-14, **CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**, Junchen Fu et.al., Paper: [http://arxiv.org/abs/2504.10307v1](http://arxiv.org/abs/2504.10307v1)
+- 2025-04-14, **DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**, Jinyue Zhang et.al., Paper: [http://arxiv.org/abs/2504.10278v1](http://arxiv.org/abs/2504.10278v1)
+- 2025-04-14, **Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2504.10107v1](http://arxiv.org/abs/2504.10107v1)
+- 2025-04-14, **Global and Local Mamba Network for Multi-Modality Medical Image Super-Resolution**, Zexin Ji et.al., Paper: [http://arxiv.org/abs/2504.10105v1](http://arxiv.org/abs/2504.10105v1)
+- 2025-04-14, **DTFSal: Audio-Visual Dynamic Token Fusion for Video Saliency Prediction**, Kiana Hoshanfar et.al., Paper: [http://arxiv.org/abs/2504.10070v1](http://arxiv.org/abs/2504.10070v1)
+- 2025-04-14, **RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2504.10018v1](http://arxiv.org/abs/2504.10018v1)
 - 2025-04-11, **POD-Based Sparse Stochastic Estimation of Wind Turbine Blade Vibrations**, Lorenzo Schena et.al., Paper: [http://arxiv.org/abs/2504.08505v1](http://arxiv.org/abs/2504.08505v1)
 - 2025-04-11, **Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network**, Yucheng Liu et.al., Paper: [http://arxiv.org/abs/2504.08371v1](http://arxiv.org/abs/2504.08371v1)
 - 2025-04-11, **A mesoscopic model for the rheology of dilute and semidilute solutions of wormlike micelles**, Avishek Kumar et.al., Paper: [http://arxiv.org/abs/2504.08354v1](http://arxiv.org/abs/2504.08354v1)
