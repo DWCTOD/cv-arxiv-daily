@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-04-15, **Mamba-Based Ensemble learning for White Blood Cell Classification**, Lewis Clifton et.al., Paper: [http://arxiv.org/abs/2504.11438v1](http://arxiv.org/abs/2504.11438v1)
+- 2025-04-15, **Enhancing Out-of-Distribution Detection with Extended Logit Normalization**, Yifan Ding et.al., Paper: [http://arxiv.org/abs/2504.11434v1](http://arxiv.org/abs/2504.11434v1)
+- 2025-04-15, **Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models**, Maria Teleki et.al., Paper: [http://arxiv.org/abs/2504.11431v1](http://arxiv.org/abs/2504.11431v1)
+- 2025-04-15, **NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**, Yanrui Bin et.al., Paper: [http://arxiv.org/abs/2504.11427v1](http://arxiv.org/abs/2504.11427v1)
+- 2025-04-15, **Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**, Panagiotis Agrafiotis et.al., Paper: [http://arxiv.org/abs/2504.11416v1](http://arxiv.org/abs/2504.11416v1)
+- 2025-04-15, **Statistical few-shot learning for large-scale classification via parameter pooling**, Andrew Simpson et.al., Paper: [http://arxiv.org/abs/2504.11404v1](http://arxiv.org/abs/2504.11404v1)
+- 2025-04-15, **VideoPanda: Video Panoramic Diffusion with Multi-view Attention**, Kevin Xie et.al., Paper: [http://arxiv.org/abs/2504.11389v1](http://arxiv.org/abs/2504.11389v1)
+- 2025-04-15, **Trajectory Encoding Temporal Graph Networks**, Jiafeng Xiong et.al., Paper: [http://arxiv.org/abs/2504.11386v1](http://arxiv.org/abs/2504.11386v1)
+- 2025-04-15, **Ring Artifacts Correction Based on Global-Local Features Interaction Guidance in the Projection Domain**, Yunze Liu et.al., Paper: [http://arxiv.org/abs/2504.11375v1](http://arxiv.org/abs/2504.11375v1)
+- 2025-04-15, **A two-phase quenching-type problem for the p-Laplacian**, Julio C. Correa et.al., Paper: [http://arxiv.org/abs/2504.11370v1](http://arxiv.org/abs/2504.11370v1)
 - 2025-04-14, **DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**, Zeren Jiang et.al., Paper: [http://arxiv.org/abs/2504.10486v1](http://arxiv.org/abs/2504.10486v1)
 - 2025-04-14, **Quantum Barcodes: Persistent Homology for Quantum Phase Transitions**, Khyathi Komalan et.al., Paper: [http://arxiv.org/abs/2504.10468v1](http://arxiv.org/abs/2504.10468v1)
 - 2025-04-14, **Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**, Ramin Mousa et.al., Paper: [http://arxiv.org/abs/2504.10452v1](http://arxiv.org/abs/2504.10452v1)
@@ -7040,6 +7050,16 @@
 
 ## MultiModal
 
+- 2025-04-15, **Analysis of Preheat Propagation in MagLIF-like Plasmas**, Fernando Garcia-Rubio et.al., Paper: [http://arxiv.org/abs/2504.11432v1](http://arxiv.org/abs/2504.11432v1)
+- 2025-04-15, **The role of non-Markovian dissipation in quantum phase transitions: tricriticality, spin squeezing, and directional symmetry breaking**, Baptiste Debecker et.al., Paper: [http://arxiv.org/abs/2504.11317v1](http://arxiv.org/abs/2504.11317v1)
+- 2025-04-15, **CFIS-YOLO: A Lightweight Multi-Scale Fusion Network for Edge-Deployable Wood Defect Detection**, Jincheng Kang et.al., Paper: [http://arxiv.org/abs/2504.11305v1](http://arxiv.org/abs/2504.11305v1)
+- 2025-04-15, **Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**, Xiaoxiao Ma et.al., Paper: [http://arxiv.org/abs/2504.11262v1](http://arxiv.org/abs/2504.11262v1)
+- 2025-04-15, **Leveraging multimodal explanatory annotations for video interpretation with Modality Specific Dataset**, Elisa Ancarani et.al., Paper: [http://arxiv.org/abs/2504.11232v1](http://arxiv.org/abs/2504.11232v1)
+- 2025-04-15, **Fusion research in a Deuterium-Tritium tokamak**, E. R. Solano et.al., Paper: [http://arxiv.org/abs/2504.11222v1](http://arxiv.org/abs/2504.11222v1)
+- 2025-04-15, **Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**, Liangbo Ning et.al., Paper: [http://arxiv.org/abs/2504.11182v1](http://arxiv.org/abs/2504.11182v1)
+- 2025-04-15, **TerraMind: Large-Scale Generative Multimodality for Earth Observation**, Johannes Jakubik et.al., Paper: [http://arxiv.org/abs/2504.11171v1](http://arxiv.org/abs/2504.11171v1)
+- 2025-04-15, **YOLO-RS: Remote Sensing Enhanced Crop Detection Methods**, Linlin Xiao et.al., Paper: [http://arxiv.org/abs/2504.11165v1](http://arxiv.org/abs/2504.11165v1)
+- 2025-04-15, **DeepMLF: Multimodal language model with learnable tokens for deep fusion in sentiment analysis**, Efthymios Georgiou et.al., Paper: [http://arxiv.org/abs/2504.11082v1](http://arxiv.org/abs/2504.11082v1)
 - 2025-04-14, **FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**, Yasser Benigmim et.al., Paper: [http://arxiv.org/abs/2504.10487v1](http://arxiv.org/abs/2504.10487v1)
 - 2025-04-14, **Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2504.10465v1](http://arxiv.org/abs/2504.10465v1)
 - 2025-04-15, **What metric to optimize for suppressing instability in a Vlasov-Poisson system?**, Martin Guerra et.al., Paper: [http://arxiv.org/abs/2504.10435v2](http://arxiv.org/abs/2504.10435v2)
