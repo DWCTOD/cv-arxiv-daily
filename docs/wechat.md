@@ -1,4 +1,4 @@
-> Updated on 2025.04.17
+> Updated on 2025.04.18
 
 ## Video_Classification
 
@@ -7066,7 +7066,7 @@
 - 2025-04-16, **Logits DeConfusion with CLIP for Few-Shot Learning**, Shuo Li et.al., Paper: [http://arxiv.org/abs/2504.12104v1](http://arxiv.org/abs/2504.12104v1)
 - 2025-04-16, **LO2: Microservice API Anomaly Dataset of Logs and Metrics**, Alexander Bakhtin et.al., Paper: [http://arxiv.org/abs/2504.12067v1](http://arxiv.org/abs/2504.12067v1)
 - 2025-04-16, **FedEPA: Enhancing Personalization and Modality Alignment in Multimodal Federated Learning**, Yu Zhang et.al., Paper: [http://arxiv.org/abs/2504.12025v1](http://arxiv.org/abs/2504.12025v1)
-- 2025-04-16, **Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**, Yifei Dong et.al., Paper: [http://arxiv.org/abs/2504.11967v1](http://arxiv.org/abs/2504.11967v1)
+- 2025-04-17, **Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**, Yifei Dong et.al., Paper: [http://arxiv.org/abs/2504.11967v2](http://arxiv.org/abs/2504.11967v2)
 - 2025-04-16, **R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**, Haoyang Wang et.al., Paper: [http://arxiv.org/abs/2504.11946v1](http://arxiv.org/abs/2504.11946v1)
 - 2025-04-16, **On 5-point conformal block with level 2 degenerate field insertion and its AGT dual**, Hasmik Poghosyan et.al., Paper: [http://arxiv.org/abs/2504.11921v1](http://arxiv.org/abs/2504.11921v1)
 - 2025-04-16, **Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**, Weiqiang Jiao et.al., Paper: [http://arxiv.org/abs/2504.11873v1](http://arxiv.org/abs/2504.11873v1)
