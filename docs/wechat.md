@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-04-18, **Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**, Junjie Yang et.al., Paper: [http://arxiv.org/abs/2504.13825v1](http://arxiv.org/abs/2504.13825v1)
+- 2025-04-18, **CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**, Yang Yue et.al., Paper: [http://arxiv.org/abs/2504.13820v1](http://arxiv.org/abs/2504.13820v1), Code: **[https://github.com/LeapLabTHU/CheXWorld](https://github.com/LeapLabTHU/CheXWorld)**
+- 2025-04-18, **The Binary and Ternary Quantization Can Improve Feature Discrimination**, Weizhi Lu et.al., Paper: [http://arxiv.org/abs/2504.13792v1](http://arxiv.org/abs/2504.13792v1)
+- 2025-04-18, **Fighting Fires from Space: Leveraging Vision Transformers for Enhanced Wildfire Detection and Characterization**, Aman Agarwal et.al., Paper: [http://arxiv.org/abs/2504.13776v1](http://arxiv.org/abs/2504.13776v1)
+- 2025-04-18, **Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?**, Motunrayo Ibiyo et.al., Paper: [http://arxiv.org/abs/2504.13769v1](http://arxiv.org/abs/2504.13769v1)
+- 2025-04-18, **Modeling L1 Influence on L2 Pronunciation: An MFCC-Based Framework for Explainable Machine Learning and Pedagogical Feedback**, Peyman Jahanbin et.al., Paper: [http://arxiv.org/abs/2504.13765v1](http://arxiv.org/abs/2504.13765v1)
+- 2025-04-18, **Fragile Watermarking for Image Certification Using Deep Steganographic Embedding**, Davide Ghiani et.al., Paper: [http://arxiv.org/abs/2504.13759v1](http://arxiv.org/abs/2504.13759v1)
+- 2025-04-18, **Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis**, Zhu Zhu et.al., Paper: [http://arxiv.org/abs/2504.13754v1](http://arxiv.org/abs/2504.13754v1)
+- 2025-04-18, **LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**, Ali Hojjat et.al., Paper: [http://arxiv.org/abs/2504.13736v1](http://arxiv.org/abs/2504.13736v1)
+- 2025-04-18, **The relativity of color perception**, Michel Berthier et.al., Paper: [http://arxiv.org/abs/2504.13720v1](http://arxiv.org/abs/2504.13720v1)
 - 2025-04-17, **Perception Encoder: The best visual embeddings are not at the output of the network**, Daniel Bolya et.al., Paper: [http://arxiv.org/abs/2504.13181v1](http://arxiv.org/abs/2504.13181v1)
 - 2025-04-17, **PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**, Jang Hyun Cho et.al., Paper: [http://arxiv.org/abs/2504.13180v1](http://arxiv.org/abs/2504.13180v1)
 - 2025-04-18, **ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**, Zetong Zhang et.al., Paper: [http://arxiv.org/abs/2504.13167v2](http://arxiv.org/abs/2504.13167v2)
@@ -7070,6 +7080,16 @@
 
 ## MultiModal
 
+- 2025-04-18, **RefComp: A Reference-guided Unified Framework for Unpaired Point Cloud Completion**, Yixuan Yang et.al., Paper: [http://arxiv.org/abs/2504.13788v1](http://arxiv.org/abs/2504.13788v1)
+- 2025-04-18, **Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis**, Zhu Zhu et.al., Paper: [http://arxiv.org/abs/2504.13754v1](http://arxiv.org/abs/2504.13754v1)
+- 2025-04-18, **DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**, Hongjia Chen et.al., Paper: [http://arxiv.org/abs/2504.13748v1](http://arxiv.org/abs/2504.13748v1)
+- 2025-04-18, **Zebrafish Counting Using Event Stream Data**, Qianghua Chen et.al., Paper: [http://arxiv.org/abs/2504.13692v1](http://arxiv.org/abs/2504.13692v1)
+- 2025-04-18, **Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**, Numan Saeed et.al., Paper: [http://arxiv.org/abs/2504.13645v1](http://arxiv.org/abs/2504.13645v1)
+- 2025-04-18, **DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**, Yang Zhang et.al., Paper: [http://arxiv.org/abs/2504.13638v1](http://arxiv.org/abs/2504.13638v1)
+- 2025-04-18, **Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**, Sebastian Schwalbe et.al., Paper: [http://arxiv.org/abs/2504.13611v1](http://arxiv.org/abs/2504.13611v1)
+- 2025-04-18, **LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**, Shanshuai Yuan et.al., Paper: [http://arxiv.org/abs/2504.13596v1](http://arxiv.org/abs/2504.13596v1)
+- 2025-04-18, **MAAM: A Lightweight Multi-Agent Aggregation Module for Efficient Image Classification Based on the MindSpore Framework**, Zhenkai Qin et.al., Paper: [http://arxiv.org/abs/2504.13574v1](http://arxiv.org/abs/2504.13574v1)
+- 2025-04-18, **A Novel Hybrid Approach for Retinal Vessel Segmentation with Dynamic Long-Range Dependency and Multi-Scale Retinal Edge Fusion Enhancement**, Yihao Ouyang et.al., Paper: [http://arxiv.org/abs/2504.13553v1](http://arxiv.org/abs/2504.13553v1)
 - 2025-04-17, **FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents**, Nandan Thakur et.al., Paper: [http://arxiv.org/abs/2504.13128v1](http://arxiv.org/abs/2504.13128v1)
 - 2025-04-17, **Hadamard product in deep learning: Introduction, Advances and Challenges**, Grigorios G Chrysos et.al., Paper: [http://arxiv.org/abs/2504.13112v1](http://arxiv.org/abs/2504.13112v1)
 - 2025-04-18, **Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**, Dubing Chen et.al., Paper: [http://arxiv.org/abs/2504.12959v2](http://arxiv.org/abs/2504.12959v2), Code: **[https://github.com/cdb342/gdfusion](https://github.com/cdb342/gdfusion)**
