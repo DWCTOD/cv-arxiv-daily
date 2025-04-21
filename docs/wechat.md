@@ -1,10 +1,10 @@
-> Updated on 2025.04.20
+> Updated on 2025.04.21
 
 ## Video_Classification
 
 - 2025-04-17, **Perception Encoder: The best visual embeddings are not at the output of the network**, Daniel Bolya et.al., Paper: [http://arxiv.org/abs/2504.13181v1](http://arxiv.org/abs/2504.13181v1)
 - 2025-04-17, **PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**, Jang Hyun Cho et.al., Paper: [http://arxiv.org/abs/2504.13180v1](http://arxiv.org/abs/2504.13180v1)
-- 2025-04-17, **ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**, Zetong Zhang et.al., Paper: [http://arxiv.org/abs/2504.13167v1](http://arxiv.org/abs/2504.13167v1)
+- 2025-04-18, **ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**, Zetong Zhang et.al., Paper: [http://arxiv.org/abs/2504.13167v2](http://arxiv.org/abs/2504.13167v2)
 - 2025-04-17, **Digital Twin Generation from Visual Data: A Survey**, Andrew Melnik et.al., Paper: [http://arxiv.org/abs/2504.13159v1](http://arxiv.org/abs/2504.13159v1)
 - 2025-04-17, **St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**, Haiwen Feng et.al., Paper: [http://arxiv.org/abs/2504.13152v1](http://arxiv.org/abs/2504.13152v1)
 - 2025-04-17, **Readable Twins of Unreadable Models**, Krzysztof Pancerz et.al., Paper: [http://arxiv.org/abs/2504.13150v1](http://arxiv.org/abs/2504.13150v1)
@@ -7072,10 +7072,10 @@
 
 - 2025-04-17, **FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents**, Nandan Thakur et.al., Paper: [http://arxiv.org/abs/2504.13128v1](http://arxiv.org/abs/2504.13128v1)
 - 2025-04-17, **Hadamard product in deep learning: Introduction, Advances and Challenges**, Grigorios G Chrysos et.al., Paper: [http://arxiv.org/abs/2504.13112v1](http://arxiv.org/abs/2504.13112v1)
-- 2025-04-17, **Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**, Dubing Chen et.al., Paper: [http://arxiv.org/abs/2504.12959v1](http://arxiv.org/abs/2504.12959v1), Code: **[https://github.com/cdb342/gdfusion](https://github.com/cdb342/gdfusion)**
+- 2025-04-18, **Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**, Dubing Chen et.al., Paper: [http://arxiv.org/abs/2504.12959v2](http://arxiv.org/abs/2504.12959v2), Code: **[https://github.com/cdb342/gdfusion](https://github.com/cdb342/gdfusion)**
 - 2025-04-17, **CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval**, Hao Deng et.al., Paper: [http://arxiv.org/abs/2504.12920v1](http://arxiv.org/abs/2504.12920v1)
 - 2025-04-17, **EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2504.12795v1](http://arxiv.org/abs/2504.12795v1)
-- 2025-04-17, **The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**, Lidong Zhai et.al., Paper: [http://arxiv.org/abs/2504.12735v1](http://arxiv.org/abs/2504.12735v1)
+- 2025-04-18, **The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**, Lidong Zhai et.al., Paper: [http://arxiv.org/abs/2504.12735v2](http://arxiv.org/abs/2504.12735v2)
 - 2025-04-17, **Collaborative Perception Datasets for Autonomous Driving: A Review**, Naibang Wang et.al., Paper: [http://arxiv.org/abs/2504.12696v1](http://arxiv.org/abs/2504.12696v1)
 - 2025-04-17, **CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework**, Wentao Wu et.al., Paper: [http://arxiv.org/abs/2504.12576v1](http://arxiv.org/abs/2504.12576v1), Code: **[https://github.com/event-ahu/cm3ae](https://github.com/event-ahu/cm3ae)**
 - 2025-04-16, **Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**, Azadeh Beiranvand et.al., Paper: [http://arxiv.org/abs/2504.12474v1](http://arxiv.org/abs/2504.12474v1)
