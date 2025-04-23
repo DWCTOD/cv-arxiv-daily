@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 
 ## Video_Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v1](http://arxiv.org/abs/2504.15278v1)|null|
+|**2025-04-22**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v2](http://arxiv.org/abs/2504.15278v2)|null|
 |**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271v1](http://arxiv.org/abs/2504.15271v1)|null|
 |**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270v1](http://arxiv.org/abs/2504.15270v1)|null|
 |**2025-04-21**|**Diffusion Bridge Models for 3D Medical Image Translation**|Shaorong Zhang et.al.|[2504.15267v1](http://arxiv.org/abs/2504.15267v1)|null|
 |**2025-04-21**|**SuoiAI: Building a Dataset for Aquatic Invertebrates in Vietnam**|Tue Vo et.al.|[2504.15252v1](http://arxiv.org/abs/2504.15252v1)|null|
 |**2025-04-21**|**On Walker and para-Hermite Einstein spaces**|Adam Chudecki et.al.|[2504.15221v1](http://arxiv.org/abs/2504.15221v1)|null|
-|**2025-04-21**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v1](http://arxiv.org/abs/2504.15214v1)|null|
+|**2025-04-22**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v2](http://arxiv.org/abs/2504.15214v2)|null|
 |**2025-04-21**|**Automated Measurement of Eczema Severity with Self-Supervised Learning**|Neelesh Kumar et.al.|[2504.15193v1](http://arxiv.org/abs/2504.15193v1)|null|
 |**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182v1](http://arxiv.org/abs/2504.15182v1)|null|
 |**2025-04-21**|**FaceCraft4D: Animated 3D Facial Avatar Generation from a Single Image**|Fei Yin et.al.|[2504.15179v1](http://arxiv.org/abs/2504.15179v1)|null|
