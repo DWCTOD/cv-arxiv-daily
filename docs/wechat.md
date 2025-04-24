@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-04-23, **I-Con: A Unifying Framework for Representation Learning**, Shaden Alshammari et.al., Paper: [http://arxiv.org/abs/2504.16929v1](http://arxiv.org/abs/2504.16929v1)
+- 2025-04-23, **Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**, Feliphe S. Ferreira et.al., Paper: [http://arxiv.org/abs/2504.16927v1](http://arxiv.org/abs/2504.16927v1)
+- 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923v1](http://arxiv.org/abs/2504.16923v1)
+- 2025-04-23, **Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**, Shifali Agrahari et.al., Paper: [http://arxiv.org/abs/2504.16913v1](http://arxiv.org/abs/2504.16913v1)
+- 2025-04-23, **BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**, Ruotong Wang et.al., Paper: [http://arxiv.org/abs/2504.16907v1](http://arxiv.org/abs/2504.16907v1)
+- 2025-04-23, **A new approach to the classification of almost contact metric manifolds via intrinsic endomorphisms**, Ilka Agricola et.al., Paper: [http://arxiv.org/abs/2504.16900v1](http://arxiv.org/abs/2504.16900v1)
+- 2025-04-23, **Emo Pillars: Knowledge Distillation to Support Fine-Grained Context-Aware and Context-Less Emotion Classification**, Alexander Shvets et.al., Paper: [http://arxiv.org/abs/2504.16856v1](http://arxiv.org/abs/2504.16856v1)
+- 2025-04-23, **Energetics of the nucleation and glide of disconnection modes in symmetric tilt grain boundaries**, Himanshu Joshi et.al., Paper: [http://arxiv.org/abs/2504.16854v1](http://arxiv.org/abs/2504.16854v1)
+- 2025-04-23, **A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**, Joe Hrzich et.al., Paper: [http://arxiv.org/abs/2504.16840v1](http://arxiv.org/abs/2504.16840v1)
+- 2025-04-23, **Symbiotic stars in the era of modern ground- and space-based surveys**, Jaroslav Merc et.al., Paper: [http://arxiv.org/abs/2504.16825v1](http://arxiv.org/abs/2504.16825v1)
 - 2025-04-22, **MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**, Yucheng Li et.al., Paper: [http://arxiv.org/abs/2504.16083v1](http://arxiv.org/abs/2504.16083v1)
 - 2025-04-22, **MR. Video: "MapReduce" is the Principle for Long Video Understanding**, Ziqi Pang et.al., Paper: [http://arxiv.org/abs/2504.16082v1](http://arxiv.org/abs/2504.16082v1)
 - 2025-04-22, **Survey of Video Diffusion Models: Foundations, Implementations, and Applications**, Yimu Wang et.al., Paper: [http://arxiv.org/abs/2504.16081v1](http://arxiv.org/abs/2504.16081v1)
@@ -7100,6 +7110,16 @@
 
 ## MultiModal
 
+- 2025-04-23, **An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**, Shiyao Lv et.al., Paper: [http://arxiv.org/abs/2504.16906v1](http://arxiv.org/abs/2504.16906v1)
+- 2025-04-23, **High-Quality Cloud-Free Optical Image Synthesis Using Multi-Temporal SAR and Contaminated Optical Data**, Chenxi Duan et.al., Paper: [http://arxiv.org/abs/2504.16870v1](http://arxiv.org/abs/2504.16870v1)
+- 2025-04-23, **4D Multimodal Co-attention Fusion Network with Latent Contrastive Alignment for Alzheimer's Diagnosis**, Yuxiang Wei et.al., Paper: [http://arxiv.org/abs/2504.16798v1](http://arxiv.org/abs/2504.16798v1)
+- 2025-04-23, **Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism**, Lakshita Agarwal et.al., Paper: [http://arxiv.org/abs/2504.16761v1](http://arxiv.org/abs/2504.16761v1)
+- 2025-04-23, **A Diff-Attention Aware State Space Fusion Model for Remote Sensing Classification**, Wenping Ma et.al., Paper: [http://arxiv.org/abs/2504.16665v1](http://arxiv.org/abs/2504.16665v1)
+- 2025-04-23, **Dual-Camera All-in-Focus Neural Radiance Fields**, Xianrui Luo et.al., Paper: [http://arxiv.org/abs/2504.16636v1](http://arxiv.org/abs/2504.16636v1)
+- 2025-04-23, **EHGCN: Hierarchical Euclidean-Hyperbolic Fusion via Motion-Aware GCN for Hybrid Event Stream Perception**, Haosheng Chen et.al., Paper: [http://arxiv.org/abs/2504.16616v1](http://arxiv.org/abs/2504.16616v1)
+- 2025-04-23, **SAIP-Net: Enhancing Remote Sensing Image Segmentation via Spectral Adaptive Information Propagation**, Zhongtao Wang et.al., Paper: [http://arxiv.org/abs/2504.16564v1](http://arxiv.org/abs/2504.16564v1)
+- 2025-04-23, **Modality Reliability Guided Multimodal Recommendation**, Xue Dong et.al., Paper: [http://arxiv.org/abs/2504.16524v1](http://arxiv.org/abs/2504.16524v1)
+- 2025-04-23, **Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**, Junrong Yue et.al., Paper: [http://arxiv.org/abs/2504.16516v1](http://arxiv.org/abs/2504.16516v1)
 - 2025-04-22, **MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**, Yachun Mi et.al., Paper: [http://arxiv.org/abs/2504.16003v1](http://arxiv.org/abs/2504.16003v1)
 - 2025-04-22, **Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**, Leonardo Olivi et.al., Paper: [http://arxiv.org/abs/2504.15991v1](http://arxiv.org/abs/2504.15991v1)
 - 2025-04-22, **FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation**, Zebin Yao et.al., Paper: [http://arxiv.org/abs/2504.15958v1](http://arxiv.org/abs/2504.15958v1)
