@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-04-24, **Dynamic Camera Poses and Where to Find Them**, Chris Rockwell et.al., Paper: [http://arxiv.org/abs/2504.17788v1](http://arxiv.org/abs/2504.17788v1)
+- 2025-04-24, **Silenzio: Secure Non-Interactive Outsourced MLP Training**, Jonas Sander et.al., Paper: [http://arxiv.org/abs/2504.17785v1](http://arxiv.org/abs/2504.17785v1)
+- 2025-04-24, **Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**, Zhihui Gao et.al., Paper: [http://arxiv.org/abs/2504.17752v1](http://arxiv.org/abs/2504.17752v1)
+- 2025-04-24, **MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction**, Steven E. Wilson et.al., Paper: [http://arxiv.org/abs/2504.17749v1](http://arxiv.org/abs/2504.17749v1)
+- 2025-04-24, **Interpretable Early Detection of Parkinson's Disease through Speech Analysis**, Lorenzo Simone et.al., Paper: [http://arxiv.org/abs/2504.17739v1](http://arxiv.org/abs/2504.17739v1)
+- 2025-04-24, **CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**, Shucheng Gong et.al., Paper: [http://arxiv.org/abs/2504.17728v1](http://arxiv.org/abs/2504.17728v1)
+- 2025-04-24, **Unsupervised EEG-based decoding of absolute auditory attention with canonical correlation analysis**, Nicolas Heintz et.al., Paper: [http://arxiv.org/abs/2504.17724v1](http://arxiv.org/abs/2504.17724v1)
+- 2025-04-24, **Evaluating Uncertainty in Deep Gaussian Processes**, Matthijs van der Lende et.al., Paper: [http://arxiv.org/abs/2504.17719v1](http://arxiv.org/abs/2504.17719v1)
+- 2025-04-24, **Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**, Óscar Escudero-Arnanz et.al., Paper: [http://arxiv.org/abs/2504.17717v1](http://arxiv.org/abs/2504.17717v1)
+- 2025-04-24, **Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**, Nikola Janjušević et.al., Paper: [http://arxiv.org/abs/2504.17698v1](http://arxiv.org/abs/2504.17698v1)
 - 2025-04-23, **I-Con: A Unifying Framework for Representation Learning**, Shaden Alshammari et.al., Paper: [http://arxiv.org/abs/2504.16929v1](http://arxiv.org/abs/2504.16929v1)
 - 2025-04-23, **Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**, Feliphe S. Ferreira et.al., Paper: [http://arxiv.org/abs/2504.16927v1](http://arxiv.org/abs/2504.16927v1)
 - 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923v1](http://arxiv.org/abs/2504.16923v1)
@@ -7110,6 +7120,16 @@
 
 ## MultiModal
 
+- 2025-04-24, **Hierarchical and Multimodal Data for Daily Activity Understanding**, Ghazal Kaviani et.al., Paper: [http://arxiv.org/abs/2504.17696v1](http://arxiv.org/abs/2504.17696v1)
+- 2025-04-24, **RGB-D Tracking via Hierarchical Modality Aggregation and Distribution Network**, Boyue Xu et.al., Paper: [http://arxiv.org/abs/2504.17595v1](http://arxiv.org/abs/2504.17595v1)
+- 2025-04-24, **Quantum simulation of CO$_2$ chemisorption in an amine-functionalized metal-organic framework**, Jonathan R. Owens et.al., Paper: [http://arxiv.org/abs/2504.17453v1](http://arxiv.org/abs/2504.17453v1)
+- 2025-04-24, **StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies**, Xu Wang et.al., Paper: [http://arxiv.org/abs/2504.17401v1](http://arxiv.org/abs/2504.17401v1)
+- 2025-04-24, **Fine-Grained Fusion: The Missing Piece in Area-Efficient State Space Model Acceleration**, Robin Geens et.al., Paper: [http://arxiv.org/abs/2504.17333v1](http://arxiv.org/abs/2504.17333v1)
+- 2025-04-24, **Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion**, Mengyu Qiao et.al., Paper: [http://arxiv.org/abs/2504.17223v1](http://arxiv.org/abs/2504.17223v1)
+- 2025-04-24, **Bremsstrahlung radiation power in non-Maxwellian plasmas**, Chaotong Yang et.al., Paper: [http://arxiv.org/abs/2504.17191v1](http://arxiv.org/abs/2504.17191v1)
+- 2025-04-24, **DualAttWaveNet: Multiscale Attention Networks for Satellite Interference Detection**, Chunyu Yang et.al., Paper: [http://arxiv.org/abs/2504.17187v1](http://arxiv.org/abs/2504.17187v1)
+- 2025-04-23, **OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing**, Hezi Zhang et.al., Paper: [http://arxiv.org/abs/2504.17116v1](http://arxiv.org/abs/2504.17116v1)
+- 2025-04-23, **MOOSE ProbML: Parallelized Probabilistic Machine Learning and Uncertainty Quantification for Computational Energy Applications**, Somayajulu L. N. Dhulipala et.al., Paper: [http://arxiv.org/abs/2504.17101v1](http://arxiv.org/abs/2504.17101v1)
 - 2025-04-23, **An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**, Shiyao Lv et.al., Paper: [http://arxiv.org/abs/2504.16906v1](http://arxiv.org/abs/2504.16906v1)
 - 2025-04-23, **High-Quality Cloud-Free Optical Image Synthesis Using Multi-Temporal SAR and Contaminated Optical Data**, Chenxi Duan et.al., Paper: [http://arxiv.org/abs/2504.16870v1](http://arxiv.org/abs/2504.16870v1)
 - 2025-04-23, **4D Multimodal Co-attention Fusion Network with Latent Contrastive Alignment for Alzheimer's Diagnosis**, Yuxiang Wei et.al., Paper: [http://arxiv.org/abs/2504.16798v1](http://arxiv.org/abs/2504.16798v1)
