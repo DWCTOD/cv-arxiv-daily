@@ -1,4 +1,4 @@
-> Updated on 2025.04.27
+> Updated on 2025.04.28
 
 ## Video_Classification
 
@@ -7120,7 +7120,7 @@
 
 ## MultiModal
 
-- 2025-04-24, **Hierarchical and Multimodal Data for Daily Activity Understanding**, Ghazal Kaviani et.al., Paper: [http://arxiv.org/abs/2504.17696v1](http://arxiv.org/abs/2504.17696v1)
+- 2025-04-25, **Hierarchical and Multimodal Data for Daily Activity Understanding**, Ghazal Kaviani et.al., Paper: [http://arxiv.org/abs/2504.17696v2](http://arxiv.org/abs/2504.17696v2)
 - 2025-04-24, **RGB-D Tracking via Hierarchical Modality Aggregation and Distribution Network**, Boyue Xu et.al., Paper: [http://arxiv.org/abs/2504.17595v1](http://arxiv.org/abs/2504.17595v1)
 - 2025-04-24, **Quantum simulation of CO$_2$ chemisorption in an amine-functionalized metal-organic framework**, Jonathan R. Owens et.al., Paper: [http://arxiv.org/abs/2504.17453v1](http://arxiv.org/abs/2504.17453v1)
 - 2025-04-24, **StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies**, Xu Wang et.al., Paper: [http://arxiv.org/abs/2504.17401v1](http://arxiv.org/abs/2504.17401v1)
