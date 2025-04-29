@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041v1](http://arxiv.org/abs/2504.20041v1)|null|
+|**2025-04-28**|**Pan-genome Analysis of Angiosperm Plastomes using PGR-TK**|Manoj P. Samanta et.al.|[2504.20034v1](http://arxiv.org/abs/2504.20034v1)|null|
+|**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007v1](http://arxiv.org/abs/2504.20007v1)|null|
+|**2025-04-28**|**Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose**|Narges Rashvand et.al.|[2504.19970v1](http://arxiv.org/abs/2504.19970v1)|null|
+|**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935v1](http://arxiv.org/abs/2504.19935v1)|null|
+|**2025-04-28**|**Accelerated 3D-3D rigid registration of echocardiographic images obtained from apical window using particle filter**|Thanuja Uruththirakodeeswaran et.al.|[2504.19930v1](http://arxiv.org/abs/2504.19930v1)|null|
+|**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918v1](http://arxiv.org/abs/2504.19918v1)|null|
+|**2025-04-28**|**Breast Cancer Detection from Multi-View Screening Mammograms with Visual Prompt Tuning**|Han Chen et.al.|[2504.19900v1](http://arxiv.org/abs/2504.19900v1)|null|
+|**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898v1](http://arxiv.org/abs/2504.19898v1)|null|
+|**2025-04-28**|**CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition**|Quynh Phung et.al.|[2504.19894v1](http://arxiv.org/abs/2504.19894v1)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
 |**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511v1](http://arxiv.org/abs/2504.18511v1)|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510v1](http://arxiv.org/abs/2504.18510v1)|null|
@@ -7138,6 +7148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang et.al.|[2504.20031v1](http://arxiv.org/abs/2504.20031v1)|null|
+|**2025-04-28**|**Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio**|Lars Reichwein et.al.|[2504.20015v1](http://arxiv.org/abs/2504.20015v1)|null|
+|**2025-04-28**|**Breast Cancer Detection from Multi-View Screening Mammograms with Visual Prompt Tuning**|Han Chen et.al.|[2504.19900v1](http://arxiv.org/abs/2504.19900v1)|null|
+|**2025-04-28**|**Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network**|Han Chen et.al.|[2504.19888v1](http://arxiv.org/abs/2504.19888v1)|null|
+|**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|null|
+|**2025-04-28**|**SRMF: A Data Augmentation and Multimodal Fusion Approach for Long-Tail UHR Satellite Image Segmentation**|Yulong Guo et.al.|[2504.19839v1](http://arxiv.org/abs/2504.19839v1)|null|
+|**2025-04-28**|**Components and realizability of fusion systems**|Ellen Henke et.al.|[2504.19826v1](http://arxiv.org/abs/2504.19826v1)|null|
+|**2025-04-28**|**Prompt Guiding Multi-Scale Adaptive Sparse Representation-driven Network for Low-Dose CT MAR**|Baoshun Shi et.al.|[2504.19687v1](http://arxiv.org/abs/2504.19687v1)|null|
+|**2025-04-28**|**GPA-RAM: Grasp-Pretraining Augmented Robotic Attention Mamba for Spatial Task Learning**|Juyi Sheng et.al.|[2504.19683v1](http://arxiv.org/abs/2504.19683v1)|null|
+|**2025-04-28**|**Investigation of the formation of superheavy elements with atomic numbers 116 and 120 through $^{50}$Ti-induced reaction**|Bakhodir Kayumov et.al.|[2504.19650v1](http://arxiv.org/abs/2504.19650v1)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|null|
 |**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|null|
