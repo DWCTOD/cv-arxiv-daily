@@ -1,4 +1,4 @@
-> Updated on 2025.04.30
+> Updated on 2025.05.01
 
 ## Video_Classification
 
@@ -6,12 +6,12 @@
 - 2025-04-29, **Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**, Léo Monbroussou et.al., Paper: [http://arxiv.org/abs/2504.20989v1](http://arxiv.org/abs/2504.20989v1)
 - 2025-04-29, **SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**, Mete Erdogan et.al., Paper: [http://arxiv.org/abs/2504.20970v1](http://arxiv.org/abs/2504.20970v1)
 - 2025-04-29, **Soft-X-ray momentum microscopy of nonlinear magnon interactions below 100-nm wavelength**, Steffen Wittrock et.al., Paper: [http://arxiv.org/abs/2504.20958v1](http://arxiv.org/abs/2504.20958v1)
-- 2025-04-29, **DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**, Yanghui Song et.al., Paper: [http://arxiv.org/abs/2504.20948v1](http://arxiv.org/abs/2504.20948v1), Code: **[https://github.com/YanghuiSong/DS_FusionNet](https://github.com/YanghuiSong/DS_FusionNet)**
+- 2025-04-30, **DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**, Yanghui Song et.al., Paper: [http://arxiv.org/abs/2504.20948v2](http://arxiv.org/abs/2504.20948v2), Code: **[https://github.com/YanghuiSong/DS_FusionNet](https://github.com/YanghuiSong/DS_FusionNet)**
 - 2025-04-29, **Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**, Taisuke Kobayashi et.al., Paper: [http://arxiv.org/abs/2504.20932v1](http://arxiv.org/abs/2504.20932v1)
 - 2025-04-29, **Classifier-to-Bias: Toward Unsupervised Automatic Bias Detection for Visual Classifiers**, Quentin Guimard et.al., Paper: [http://arxiv.org/abs/2504.20902v1](http://arxiv.org/abs/2504.20902v1)
 - 2025-04-29, **CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models**, Hasan Md Tusfiqur Alam et.al., Paper: [http://arxiv.org/abs/2504.20898v1](http://arxiv.org/abs/2504.20898v1)
 - 2025-04-29, **Imaging on the Edge: Mapping Object Corners and Edges with Stereo X-ray Tomography**, Zhenduo Shang et.al., Paper: [http://arxiv.org/abs/2504.20892v1](http://arxiv.org/abs/2504.20892v1)
-- 2025-04-29, **Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**, Junyuan Fang et.al., Paper: [http://arxiv.org/abs/2504.20869v1](http://arxiv.org/abs/2504.20869v1)
+- 2025-04-30, **Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**, Junyuan Fang et.al., Paper: [http://arxiv.org/abs/2504.20869v2](http://arxiv.org/abs/2504.20869v2)
 - 2025-04-28, **Learning Streaming Video Representation via Multitask Training**, Yibin Yan et.al., Paper: [http://arxiv.org/abs/2504.20041v1](http://arxiv.org/abs/2504.20041v1)
 - 2025-04-28, **Pan-genome Analysis of Angiosperm Plastomes using PGR-TK**, Manoj P. Samanta et.al., Paper: [http://arxiv.org/abs/2504.20034v1](http://arxiv.org/abs/2504.20034v1)
 - 2025-04-28, **Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**, Anita Srbinovska et.al., Paper: [http://arxiv.org/abs/2504.20007v1](http://arxiv.org/abs/2504.20007v1)
@@ -7150,7 +7150,7 @@
 
 ## MultiModal
 
-- 2025-04-29, **DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**, Yanghui Song et.al., Paper: [http://arxiv.org/abs/2504.20948v1](http://arxiv.org/abs/2504.20948v1), Code: **[https://github.com/YanghuiSong/DS_FusionNet](https://github.com/YanghuiSong/DS_FusionNet)**
+- 2025-04-30, **DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**, Yanghui Song et.al., Paper: [http://arxiv.org/abs/2504.20948v2](http://arxiv.org/abs/2504.20948v2), Code: **[https://github.com/YanghuiSong/DS_FusionNet](https://github.com/YanghuiSong/DS_FusionNet)**
 - 2025-04-29, **Machine Learning (ML)-Physics Fusion Model Outperforms Both Physics-Only and ML-Only Models in Typhoon Predictions**, Zeyi Niu et.al., Paper: [http://arxiv.org/abs/2504.20852v1](http://arxiv.org/abs/2504.20852v1)
 - 2025-04-29, **OG-HFYOLO :Orientation gradient guidance and heterogeneous feature fusion for deformation table cell instance segmentation**, Long Liu et.al., Paper: [http://arxiv.org/abs/2504.20682v1](http://arxiv.org/abs/2504.20682v1)
 - 2025-04-29, **Quantum-Enhanced Hybrid Reinforcement Learning Framework for Dynamic Path Planning in Autonomous Systems**, Sahil Tomar et.al., Paper: [http://arxiv.org/abs/2504.20660v1](http://arxiv.org/abs/2504.20660v1)
