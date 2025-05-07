@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735v1](http://arxiv.org/abs/2505.03735v1)|null|
+|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|null|
+|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729v1](http://arxiv.org/abs/2505.03729v1)|null|
+|**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715v1](http://arxiv.org/abs/2505.03715v1)|null|
+|**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711v1](http://arxiv.org/abs/2505.03711v1)|null|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|null|
+|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|null|
+|**2025-05-06**|**Vector valued optimal transport: from dynamic to static formulations**|Katy Craig et.al.|[2505.03670v1](http://arxiv.org/abs/2505.03670v1)|null|
+|**2025-05-06**|**m-accretive extensions of Friedrichs operators**|Krešimir Burazin et.al.|[2505.03657v1](http://arxiv.org/abs/2505.03657v1)|null|
+|**2025-05-06**|**ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders**|Chethan Krishnamurthy Ramanaik et.al.|[2505.03646v1](http://arxiv.org/abs/2505.03646v1)|null|
 |**2025-05-06**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v2](http://arxiv.org/abs/2505.02825v2)|null|
 |**2025-05-05**|**Towards Quantifying the Hessian Structure of Neural Networks**|Zhaorui Dong et.al.|[2505.02809v1](http://arxiv.org/abs/2505.02809v1)|null|
 |**2025-05-05**|**Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow**|Jai Prakash Veerla et.al.|[2505.02780v1](http://arxiv.org/abs/2505.02780v1)|null|
@@ -7198,6 +7208,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|null|
+|**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz et.al.|[2505.03700v1](http://arxiv.org/abs/2505.03700v1)|null|
+|**2025-05-06**|**A review of DNA restriction-free overlapping sequence cloning techniques for synthetic biology**|Isabella Frighetto Bomfiglio et.al.|[2505.03681v1](http://arxiv.org/abs/2505.03681v1)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
+|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667v1](http://arxiv.org/abs/2505.03667v1)|null|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
+|**2025-05-06**|**Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking**|Shenglan Li et.al.|[2505.03507v1](http://arxiv.org/abs/2505.03507v1)|null|
+|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494v1](http://arxiv.org/abs/2505.03494v1)|null|
+|**2025-05-06**|**A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|[2505.03431v1](http://arxiv.org/abs/2505.03431v1)|null|
+|**2025-05-06**|**Physics-Informed Neural Networks in Electromagnetic and Nanophotonic Design**|Omar A. M. Abdelraouf et.al.|[2505.03354v1](http://arxiv.org/abs/2505.03354v1)|null|
 |**2025-05-05**|**Evolution of the rippled inner-interface-initiated ablative Rayleigh-Taylor instability in laser-ablating high-Z doped targets**|W. Xiong et.al.|[2505.02715v1](http://arxiv.org/abs/2505.02715v1)|null|
 |**2025-05-05**|**Increasing the density limit with ECRH-assisted Ohmic start-up on EAST**|Jiaxing Liu et.al.|[2505.02710v1](http://arxiv.org/abs/2505.02710v1)|null|
 |**2025-05-05**|**RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**|Eliraz Orfaig et.al.|[2505.02586v1](http://arxiv.org/abs/2505.02586v1)|null|
