@@ -1,8 +1,8 @@
-> Updated on 2025.05.06
+> Updated on 2025.05.07
 
 ## Video_Classification
 
-- 2025-05-05, **Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**, Alex Hoi Hang Chan et.al., Paper: [http://arxiv.org/abs/2505.02825v1](http://arxiv.org/abs/2505.02825v1)
+- 2025-05-06, **Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**, Alex Hoi Hang Chan et.al., Paper: [http://arxiv.org/abs/2505.02825v2](http://arxiv.org/abs/2505.02825v2)
 - 2025-05-05, **Towards Quantifying the Hessian Structure of Neural Networks**, Zhaorui Dong et.al., Paper: [http://arxiv.org/abs/2505.02809v1](http://arxiv.org/abs/2505.02809v1)
 - 2025-05-05, **Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow**, Jai Prakash Veerla et.al., Paper: [http://arxiv.org/abs/2505.02780v1](http://arxiv.org/abs/2505.02780v1)
 - 2025-05-05, **Teaching the social media generation: rethinking learning without sacrificing quality**, Sepinoud Azimi et.al., Paper: [http://arxiv.org/abs/2505.02770v1](http://arxiv.org/abs/2505.02770v1)
