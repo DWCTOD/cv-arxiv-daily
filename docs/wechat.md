@@ -1,10 +1,10 @@
-> Updated on 2025.05.07
+> Updated on 2025.05.08
 
 ## Video_Classification
 
 - 2025-05-06, **Multi-Agent System for Comprehensive Soccer Understanding**, Jiayuan Rao et.al., Paper: [http://arxiv.org/abs/2505.03735v1](http://arxiv.org/abs/2505.03735v1)
 - 2025-05-06, **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**, Shiyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.03730v1](http://arxiv.org/abs/2505.03730v1)
-- 2025-05-06, **Visual Imitation Enables Contextual Humanoid Control**, Arthur Allshire et.al., Paper: [http://arxiv.org/abs/2505.03729v1](http://arxiv.org/abs/2505.03729v1)
+- 2025-05-07, **Visual Imitation Enables Contextual Humanoid Control**, Arthur Allshire et.al., Paper: [http://arxiv.org/abs/2505.03729v2](http://arxiv.org/abs/2505.03729v2)
 - 2025-05-06, **DISARM++: Beyond scanner-free harmonization**, Luca Caldera et.al., Paper: [http://arxiv.org/abs/2505.03715v1](http://arxiv.org/abs/2505.03715v1)
 - 2025-05-06, **NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**, Baharul Islam et.al., Paper: [http://arxiv.org/abs/2505.03711v1](http://arxiv.org/abs/2505.03711v1)
 - 2025-05-06, **Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**, François Role et.al., Paper: [http://arxiv.org/abs/2505.03703v1](http://arxiv.org/abs/2505.03703v1)
@@ -7206,9 +7206,9 @@
 - 2025-05-06, **CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**, Huawei Sun et.al., Paper: [http://arxiv.org/abs/2505.03679v1](http://arxiv.org/abs/2505.03679v1)
 - 2025-05-06, **Distribution-Conditional Generation: From Class Distribution to Creative Generation**, Fu Feng et.al., Paper: [http://arxiv.org/abs/2505.03667v1](http://arxiv.org/abs/2505.03667v1)
 - 2025-05-06, **Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**, Lukas Schichler et.al., Paper: [http://arxiv.org/abs/2505.03565v1](http://arxiv.org/abs/2505.03565v1)
-- 2025-05-06, **Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking**, Shenglan Li et.al., Paper: [http://arxiv.org/abs/2505.03507v1](http://arxiv.org/abs/2505.03507v1)
-- 2025-05-06, **UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**, Zhanyuan Jia et.al., Paper: [http://arxiv.org/abs/2505.03494v1](http://arxiv.org/abs/2505.03494v1)
-- 2025-05-06, **A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution**, Usman Muhammad et.al., Paper: [http://arxiv.org/abs/2505.03431v1](http://arxiv.org/abs/2505.03431v1)
+- 2025-05-06, **Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking**, Shenglan Li et.al., Paper: [http://arxiv.org/abs/2505.03507v1](http://arxiv.org/abs/2505.03507v1), Code: **[https://github.com/lishenglana/gdstrack](https://github.com/lishenglana/gdstrack)**
+- 2025-05-06, **UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**, Zhanyuan Jia et.al., Paper: [http://arxiv.org/abs/2505.03494v1](http://arxiv.org/abs/2505.03494v1), Code: **[https://github.com/chenzhao2023/upmad_net_brainseg](https://github.com/chenzhao2023/upmad_net_brainseg)**
+- 2025-05-06, **A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution**, Usman Muhammad et.al., Paper: [http://arxiv.org/abs/2505.03431v1](http://arxiv.org/abs/2505.03431v1), Code: **[https://github.com/usman1021/fusion](https://github.com/usman1021/fusion)**
 - 2025-05-06, **Physics-Informed Neural Networks in Electromagnetic and Nanophotonic Design**, Omar A. M. Abdelraouf et.al., Paper: [http://arxiv.org/abs/2505.03354v1](http://arxiv.org/abs/2505.03354v1)
 - 2025-05-05, **Evolution of the rippled inner-interface-initiated ablative Rayleigh-Taylor instability in laser-ablating high-Z doped targets**, W. Xiong et.al., Paper: [http://arxiv.org/abs/2505.02715v1](http://arxiv.org/abs/2505.02715v1)
 - 2025-05-05, **Increasing the density limit with ECRH-assisted Ohmic start-up on EAST**, Jiaxing Liu et.al., Paper: [http://arxiv.org/abs/2505.02710v1](http://arxiv.org/abs/2505.02710v1)
