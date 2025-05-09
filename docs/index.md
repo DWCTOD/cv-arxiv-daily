@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475v1](http://arxiv.org/abs/2505.05475v1)|**[link](https://github.com/yc4ny/SVAD)**|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467v1](http://arxiv.org/abs/2505.05467v1)|null|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|null|
+|**2025-05-08**|**Robustly optimal dynamics for active matter reservoir computing**|Mario U. Gaimann et.al.|[2505.05420v1](http://arxiv.org/abs/2505.05420v1)|null|
+|**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413v1](http://arxiv.org/abs/2505.05413v1)|null|
+|**2025-05-08**|**Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It**|Marvin F. da Silva et.al.|[2505.05409v1](http://arxiv.org/abs/2505.05409v1)|null|
+|**2025-05-08**|**CART-ELC: Oblique Decision Tree Induction via Exhaustive Search**|Andrew D. Laack et.al.|[2505.05402v1](http://arxiv.org/abs/2505.05402v1)|**[link](https://github.com/andrewlaack/cart-elc)**|
+|**2025-05-08**|**OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation**|Naveenkumar G Venkataswamy et.al.|[2505.05374v1](http://arxiv.org/abs/2505.05374v1)|null|
+|**2025-05-08**|**BMS representations for generic supermomentum**|Xavier Bekaert et.al.|[2505.05368v1](http://arxiv.org/abs/2505.05368v1)|null|
 |**2025-05-07**|**Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait**|Feng Liu et.al.|[2505.04616v1](http://arxiv.org/abs/2505.04616v1)|null|
 |**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596v1](http://arxiv.org/abs/2505.04596v1)|null|
 |**2025-05-07**|**Relative benefits of different active learning methods to conceptual physics learning**|Meagan Sundstrom et.al.|[2505.04577v1](http://arxiv.org/abs/2505.04577v1)|null|
@@ -7218,6 +7228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472v1](http://arxiv.org/abs/2505.05472v1)|null|
+|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397v1](http://arxiv.org/abs/2505.05397v1)|null|
+|**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367v1](http://arxiv.org/abs/2505.05367v1)|null|
+|**2025-05-08**|**Laguerre-Gaussian pulses for spin-polarized ion beam acceleration**|Lars Reichwein et.al.|[2505.05337v1](http://arxiv.org/abs/2505.05337v1)|null|
+|**2025-05-08**|**PRE-Mamba: A 4D State Space Model for Ultra-High-Frequent Event Camera Deraining**|Ciyu Ruan et.al.|[2505.05307v1](http://arxiv.org/abs/2505.05307v1)|null|
+|**2025-05-08**|**Latte: Transfering LLMs` Latent-level Knowledge for Few-shot Tabular Learning**|Ruxue Shi et.al.|[2505.05237v1](http://arxiv.org/abs/2505.05237v1)|null|
+|**2025-05-08**|**A Benchmark Dataset and a Framework for Urdu Multimodal Named Entity Recognition**|Hussain Ahmad et.al.|[2505.05148v1](http://arxiv.org/abs/2505.05148v1)|null|
+|**2025-05-08**|**MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising**|Xiaolong Niu et.al.|[2505.05112v1](http://arxiv.org/abs/2505.05112v1)|null|
+|**2025-05-08**|**ULFine: Unbiased Lightweight Fine-tuning for Foundation-Model-Assisted Long-Tailed Semi-Supervised Learning**|Enhao Zhang et.al.|[2505.05062v1](http://arxiv.org/abs/2505.05062v1)|null|
+|**2025-05-08**|**DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding**|Henry Zheng et.al.|[2505.04965v1](http://arxiv.org/abs/2505.04965v1)|null|
 |**2025-05-07**|**Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait**|Feng Liu et.al.|[2505.04616v1](http://arxiv.org/abs/2505.04616v1)|null|
 |**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575v1](http://arxiv.org/abs/2505.04575v1)|null|
 |**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[2505.04526v1](http://arxiv.org/abs/2505.04526v1)|**[link](https://github.com/davin-qi530/dfvo)**|
