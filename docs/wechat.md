@@ -1,4 +1,4 @@
-> Updated on 2025.05.08
+> Updated on 2025.05.09
 
 ## Video_Classification
 
@@ -8,9 +8,9 @@
 - 2025-05-07, **Multitask LSTM for Arboviral Outbreak Prediction Using Public Health Data**, Lucas R. C. Farias et.al., Paper: [http://arxiv.org/abs/2505.04566v1](http://arxiv.org/abs/2505.04566v1)
 - 2025-05-07, **Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**, Asma Baobaid et.al., Paper: [http://arxiv.org/abs/2505.04524v1](http://arxiv.org/abs/2505.04524v1)
 - 2025-05-07, **Complementary legs and symplectic rational balls**, John B. Etnyre et.al., Paper: [http://arxiv.org/abs/2505.04513v1](http://arxiv.org/abs/2505.04513v1)
-- 2025-05-07, **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2505.04512v1](http://arxiv.org/abs/2505.04512v1)
+- 2025-05-08, **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2505.04512v2](http://arxiv.org/abs/2505.04512v2)
 - 2025-05-07, **Leveraging Simultaneous Usage of Edge GPU Hardware Engines for Video Face Detection and Recognition**, Asma Baobaid et.al., Paper: [http://arxiv.org/abs/2505.04502v1](http://arxiv.org/abs/2505.04502v1)
-- 2025-05-07, **FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**, Ali Alawieh et.al., Paper: [http://arxiv.org/abs/2505.04485v1](http://arxiv.org/abs/2505.04485v1)
+- 2025-05-08, **FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**, Ali Alawieh et.al., Paper: [http://arxiv.org/abs/2505.04485v2](http://arxiv.org/abs/2505.04485v2)
 - 2025-05-07, **Securing Immersive 360 Video Streams through Attribute-Based Selective Encryption**, Mohammad Waquas Usmani et.al., Paper: [http://arxiv.org/abs/2505.04466v1](http://arxiv.org/abs/2505.04466v1)
 - 2025-05-06, **Multi-Agent System for Comprehensive Soccer Understanding**, Jiayuan Rao et.al., Paper: [http://arxiv.org/abs/2505.03735v1](http://arxiv.org/abs/2505.03735v1)
 - 2025-05-06, **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**, Shiyi Zhang et.al., Paper: [http://arxiv.org/abs/2505.03730v1](http://arxiv.org/abs/2505.03730v1)
@@ -7213,7 +7213,7 @@
 - 2025-05-07, **Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait**, Feng Liu et.al., Paper: [http://arxiv.org/abs/2505.04616v1](http://arxiv.org/abs/2505.04616v1)
 - 2025-05-07, **Componential Prompt-Knowledge Alignment for Domain Incremental Learning**, Kunlun Xu et.al., Paper: [http://arxiv.org/abs/2505.04575v1](http://arxiv.org/abs/2505.04575v1)
 - 2025-05-07, **DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**, Qi Zhou et.al., Paper: [http://arxiv.org/abs/2505.04526v1](http://arxiv.org/abs/2505.04526v1), Code: **[https://github.com/davin-qi530/dfvo](https://github.com/davin-qi530/dfvo)**
-- 2025-05-07, **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2505.04512v1](http://arxiv.org/abs/2505.04512v1)
+- 2025-05-08, **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2505.04512v2](http://arxiv.org/abs/2505.04512v2)
 - 2025-05-07, **Securing Immersive 360 Video Streams through Attribute-Based Selective Encryption**, Mohammad Waquas Usmani et.al., Paper: [http://arxiv.org/abs/2505.04466v1](http://arxiv.org/abs/2505.04466v1)
 - 2025-05-07, **M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**, Qianru Zhang et.al., Paper: [http://arxiv.org/abs/2505.04445v1](http://arxiv.org/abs/2505.04445v1)
 - 2025-05-07, **Turbulence spreading and anomalous diffusion on combs**, Alexander V. Milovanov et.al., Paper: [http://arxiv.org/abs/2505.04411v1](http://arxiv.org/abs/2505.04411v1)
