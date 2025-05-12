@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-09, **Adapting a Segmentation Foundation Model for Medical Image Classification**, Pengfei Gu et.al., Paper: [http://arxiv.org/abs/2505.06217v1](http://arxiv.org/abs/2505.06217v1)
+- 2025-05-09, **Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**, Diego Adame et.al., Paper: [http://arxiv.org/abs/2505.06210v1](http://arxiv.org/abs/2505.06210v1)
+- 2025-05-09, **Leveraging Multi-Task Learning for Multi-Label Power System Security Assessment**, Muhy Eddin Za'ter et.al., Paper: [http://arxiv.org/abs/2505.06207v1](http://arxiv.org/abs/2505.06207v1)
+- 2025-05-09, **Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising**, Hiroki Hasegawa et.al., Paper: [http://arxiv.org/abs/2505.06203v1](http://arxiv.org/abs/2505.06203v1)
+- 2025-05-09, **Neuro-Symbolic Concepts**, Jiayuan Mao et.al., Paper: [http://arxiv.org/abs/2505.06191v1](http://arxiv.org/abs/2505.06191v1)
+- 2025-05-09, **Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**, Kodai Hirata et.al., Paper: [http://arxiv.org/abs/2505.06185v1](http://arxiv.org/abs/2505.06185v1)
+- 2025-05-09, **Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**, Tim Schneider et.al., Paper: [http://arxiv.org/abs/2505.06182v1](http://arxiv.org/abs/2505.06182v1)
+- 2025-05-09, **New Advances in Phonons: From Band Topology to Quasiparticle Chirality**, Tiantian Zhang et.al., Paper: [http://arxiv.org/abs/2505.06179v1](http://arxiv.org/abs/2505.06179v1)
+- 2025-05-09, **MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**, Wenqi Zeng et.al., Paper: [http://arxiv.org/abs/2505.06152v1](http://arxiv.org/abs/2505.06152v1), Code: **[https://github.com/zwq803/mm-skin](https://github.com/zwq803/mm-skin)**
+- 2025-05-09, **Estimating Quality in Therapeutic Conversations: A Multi-Dimensional Natural Language Processing Framework**, Alice Rueda et.al., Paper: [http://arxiv.org/abs/2505.06151v1](http://arxiv.org/abs/2505.06151v1)
 - 2025-05-08, **SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**, Yonwoo Choi et.al., Paper: [http://arxiv.org/abs/2505.05475v1](http://arxiv.org/abs/2505.05475v1), Code: **[https://github.com/yc4ny/SVAD](https://github.com/yc4ny/SVAD)**
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474v1](http://arxiv.org/abs/2505.05474v1), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-05-08, **StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**, Haibo Wang et.al., Paper: [http://arxiv.org/abs/2505.05467v1](http://arxiv.org/abs/2505.05467v1)
@@ -7220,6 +7230,16 @@
 
 ## MultiModal
 
+- 2025-05-09, **BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation**, Hongming Wang et.al., Paper: [http://arxiv.org/abs/2505.06133v1](http://arxiv.org/abs/2505.06133v1)
+- 2025-05-09, **The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**, Jingguo Qu et.al., Paper: [http://arxiv.org/abs/2505.06118v1](http://arxiv.org/abs/2505.06118v1)
+- 2025-05-09, **Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**, Jugal Gajjar et.al., Paper: [http://arxiv.org/abs/2505.06110v1](http://arxiv.org/abs/2505.06110v1)
+- 2025-05-09, **Document Image Rectification Bases on Self-Adaptive Multitask Fusion**, Heng Li et.al., Paper: [http://arxiv.org/abs/2505.06038v1](http://arxiv.org/abs/2505.06038v1)
+- 2025-05-09, **Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks**, Hongye Zheng et.al., Paper: [http://arxiv.org/abs/2505.05989v1](http://arxiv.org/abs/2505.05989v1)
+- 2025-05-09, **Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**, Hongyu Rui et.al., Paper: [http://arxiv.org/abs/2505.05855v1](http://arxiv.org/abs/2505.05855v1)
+- 2025-05-09, **Unsupervised Anomaly Detection for Autonomous Robots via Mahalanobis SVDD with Audio-IMU Fusion**, Yizhuo Yang et.al., Paper: [http://arxiv.org/abs/2505.05811v1](http://arxiv.org/abs/2505.05811v1)
+- 2025-05-09, **BMMDetect: A Multimodal Deep Learning Framework for Comprehensive Biomedical Misconduct Detection**, Yize Zhou et.al., Paper: [http://arxiv.org/abs/2505.05763v1](http://arxiv.org/abs/2505.05763v1)
+- 2025-05-09, **Synthesis of the superheavy elements beyond Og: extrapolating from ${}^{48}\mathrm{Ca}$ to ${}^{54}\mathrm{Cr}$**, Yueping Fang et.al., Paper: [http://arxiv.org/abs/2505.05754v1](http://arxiv.org/abs/2505.05754v1)
+- 2025-05-09, **Seedless magnetic field generation via ultraintense laser irradiation of an aluminum tetrafoil**, Jessa Jayne Miranda et.al., Paper: [http://arxiv.org/abs/2505.05729v1](http://arxiv.org/abs/2505.05729v1)
 - 2025-05-08, **Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**, Chao Liao et.al., Paper: [http://arxiv.org/abs/2505.05472v1](http://arxiv.org/abs/2505.05472v1)
 - 2025-05-08, **PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**, Zhang Zhang et.al., Paper: [http://arxiv.org/abs/2505.05397v1](http://arxiv.org/abs/2505.05397v1)
 - 2025-05-08, **Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**, Jie Deng et.al., Paper: [http://arxiv.org/abs/2505.05367v1](http://arxiv.org/abs/2505.05367v1)
