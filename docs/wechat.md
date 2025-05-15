@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-14, **UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**, Yung-Hsuan Lai et.al., Paper: [http://arxiv.org/abs/2505.09615v1](http://arxiv.org/abs/2505.09615v1)
+- 2025-05-14, **Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**, Justin Yu et.al., Paper: [http://arxiv.org/abs/2505.09601v1](http://arxiv.org/abs/2505.09601v1)
+- 2025-05-14, **Rhomboid Tiling for Geometric Graph Deep Learning**, Yipeng Zhang et.al., Paper: [http://arxiv.org/abs/2505.09586v1](http://arxiv.org/abs/2505.09586v1)
+- 2025-05-14, **VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**, Chaofan Zhang et.al., Paper: [http://arxiv.org/abs/2505.09577v1](http://arxiv.org/abs/2505.09577v1)
+- 2025-05-14, **Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**, Maik Dannecker et.al., Paper: [http://arxiv.org/abs/2505.09565v1](http://arxiv.org/abs/2505.09565v1)
+- 2025-05-14, **Learning Long-Context Diffusion Policies via Past-Token Prediction**, Marcel Torne et.al., Paper: [http://arxiv.org/abs/2505.09561v1](http://arxiv.org/abs/2505.09561v1)
+- 2025-05-14, **Phase domain walls in coherently driven Bose-Einstein condensates**, S. S. Gavrilov et.al., Paper: [http://arxiv.org/abs/2505.09553v1](http://arxiv.org/abs/2505.09553v1)
+- 2025-05-14, **Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory**, Karnik Ram et.al., Paper: [http://arxiv.org/abs/2505.09543v1](http://arxiv.org/abs/2505.09543v1)
+- 2025-05-14, **Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**, Kangyu Ji et.al., Paper: [http://arxiv.org/abs/2505.09536v1](http://arxiv.org/abs/2505.09536v1)
+- 2025-05-14, **Contactless Cardiac Pulse Monitoring Using Event Cameras**, Mohamed Moustafa et.al., Paper: [http://arxiv.org/abs/2505.09529v1](http://arxiv.org/abs/2505.09529v1), Code: **[https://github.com/c3imaging/contactless_cardiac_pulse_monitoring_using_event_cameras](https://github.com/c3imaging/contactless_cardiac_pulse_monitoring_using_event_cameras)**
 - 2025-05-13, **UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations**, Hanjung Kim et.al., Paper: [http://arxiv.org/abs/2505.08787v1](http://arxiv.org/abs/2505.08787v1)
 - 2025-05-13, **PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**, Abhineet Agarwal et.al., Paper: [http://arxiv.org/abs/2505.08784v1](http://arxiv.org/abs/2505.08784v1)
 - 2025-05-13, **Implet: A Post-hoc Subsequence Explainer for Time Series Models**, Fanyu Meng et.al., Paper: [http://arxiv.org/abs/2505.08748v1](http://arxiv.org/abs/2505.08748v1), Code: **[https://github.com/lbzsteven/implet](https://github.com/lbzsteven/implet)**
@@ -7250,6 +7260,14 @@
 
 ## MultiModal
 
+- 2025-05-14, **Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**, Han Sun et.al., Paper: [http://arxiv.org/abs/2505.09424v1](http://arxiv.org/abs/2505.09424v1)
+- 2025-05-14, **MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2505.09422v1](http://arxiv.org/abs/2505.09422v1)
+- 2025-05-14, **Flavour Non-Singlet Splitting Functions at Four Loops in QCD -- The Fermionic Contributions**, B. A. Kniehl et.al., Paper: [http://arxiv.org/abs/2505.09381v1](http://arxiv.org/abs/2505.09381v1)
+- 2025-05-14, **Detecting Sybil Addresses in Blockchain Airdrops: A Subgraph-based Feature Propagation and Fusion Approach**, Qiangqiang Liu et.al., Paper: [http://arxiv.org/abs/2505.09313v1](http://arxiv.org/abs/2505.09313v1)
+- 2025-05-14, **DRRNet: Macro-Micro Feature Fusion and Dual Reverse Refinement for Camouflaged Object Detection**, Jianlin Sun et.al., Paper: [http://arxiv.org/abs/2505.09168v1](http://arxiv.org/abs/2505.09168v1), Code: **[https://github.com/jerrysunning/drrnet](https://github.com/jerrysunning/drrnet)**
+- 2025-05-14, **Turbulent Transport-Limited Pedestals in Tokamaks**, J. F. Parisi et.al., Paper: [http://arxiv.org/abs/2505.09101v1](http://arxiv.org/abs/2505.09101v1)
+- 2025-05-13, **Multimodal Fusion of Glucose Monitoring and Food Imagery for Caloric Content Prediction**, Adarsh Kumar et.al., Paper: [http://arxiv.org/abs/2505.09018v1](http://arxiv.org/abs/2505.09018v1)
+- 2025-05-13, **Optimizing Neuro-Fuzzy and Colonial Competition Algorithms for Skin Cancer Diagnosis in Dermatoscopic Images**, Hamideh Khaleghpour et.al., Paper: [http://arxiv.org/abs/2505.08886v1](http://arxiv.org/abs/2505.08886v1)
 - 2025-05-13, **Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion**, Huiyan Qi et.al., Paper: [http://arxiv.org/abs/2505.08747v1](http://arxiv.org/abs/2505.08747v1)
 - 2025-05-13, **Enhancing Thyroid Cytology Diagnosis with RAG-Optimized LLMs and Pa-thology Foundation Models**, Hussien Al-Asi et.al., Paper: [http://arxiv.org/abs/2505.08590v1](http://arxiv.org/abs/2505.08590v1)
 - 2025-05-13, **Towards Resilient SDA: Graph Theory and Cooperative Control in Distributed Network Architectures**, Nesrine Benchoubane et.al., Paper: [http://arxiv.org/abs/2505.08520v1](http://arxiv.org/abs/2505.08520v1)
