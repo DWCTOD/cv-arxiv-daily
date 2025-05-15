@@ -1,4 +1,4 @@
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 
 ## Video_Classification
 
@@ -12,7 +12,7 @@
 |**2025-05-13**|**Contrastive Normalizing Flows for Uncertainty-Aware Parameter Estimation**|Ibrahim Elsharkawy et.al.|[2505.08709v1](http://arxiv.org/abs/2505.08709v1)|null|
 |**2025-05-13**|**Big Data and the Computational Social Science of Entrepreneurship and Innovation**|Ningzi Li et.al.|[2505.08706v1](http://arxiv.org/abs/2505.08706v1)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704v1](http://arxiv.org/abs/2505.08704v1)|null|
-|**2025-05-13**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699v1](http://arxiv.org/abs/2505.08699v1)|null|
+|**2025-05-14**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699v2](http://arxiv.org/abs/2505.08699v2)|null|
 |**2025-05-13**|**VIViT: Variable-Input Vision Transformer Framework for 3D MR Image Segmentation**|Badhan Kumar Das et.al.|[2505.08693v1](http://arxiv.org/abs/2505.08693v1)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818v1](http://arxiv.org/abs/2505.07818v1)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817v1](http://arxiv.org/abs/2505.07817v1)|null|
