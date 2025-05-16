@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-15, **3D-Fixup: Advancing Photo Editing with 3D Priors**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2505.10566v1](http://arxiv.org/abs/2505.10566v1)
+- 2025-05-15, **Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**, Yiwen Liu et.al., Paper: [http://arxiv.org/abs/2505.10551v1](http://arxiv.org/abs/2505.10551v1), Code: **[https://github.com/yiveen/syntheticdatafeasibility](https://github.com/yiveen/syntheticdatafeasibility)**
+- 2025-05-15, **Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**, Milan Ganai et.al., Paper: [http://arxiv.org/abs/2505.10547v1](http://arxiv.org/abs/2505.10547v1)
+- 2025-05-15, **AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect**, Tyler Wilson et.al., Paper: [http://arxiv.org/abs/2505.10542v1](http://arxiv.org/abs/2505.10542v1)
+- 2025-05-15, **LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**, Filippo Olimpieri et.al., Paper: [http://arxiv.org/abs/2505.10537v1](http://arxiv.org/abs/2505.10537v1)
+- 2025-05-15, **Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**, Mohammad Ghalavand et.al., Paper: [http://arxiv.org/abs/2505.10536v1](http://arxiv.org/abs/2505.10536v1)
+- 2025-05-15, **Sobolev and quasiconformal distortion of intermediate dimension with applications to conformal dimension**, Jonathan M. Fraser et.al., Paper: [http://arxiv.org/abs/2505.10525v1](http://arxiv.org/abs/2505.10525v1)
+- 2025-05-15, **The Devil Is in the Word Alignment Details: On Translation-Based Cross-Lingual Transfer for Token Classification Tasks**, Benedikt Ebing et.al., Paper: [http://arxiv.org/abs/2505.10507v1](http://arxiv.org/abs/2505.10507v1)
+- 2025-05-15, **WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2505.10502v1](http://arxiv.org/abs/2505.10502v1)
+- 2025-05-15, **Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**, Tu Duyen Nguyen et.al., Paper: [http://arxiv.org/abs/2505.10500v1](http://arxiv.org/abs/2505.10500v1)
 - 2025-05-14, **UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**, Yung-Hsuan Lai et.al., Paper: [http://arxiv.org/abs/2505.09615v1](http://arxiv.org/abs/2505.09615v1)
 - 2025-05-14, **Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**, Justin Yu et.al., Paper: [http://arxiv.org/abs/2505.09601v1](http://arxiv.org/abs/2505.09601v1)
 - 2025-05-14, **Rhomboid Tiling for Geometric Graph Deep Learning**, Yipeng Zhang et.al., Paper: [http://arxiv.org/abs/2505.09586v1](http://arxiv.org/abs/2505.09586v1)
@@ -7260,6 +7270,16 @@
 
 ## MultiModal
 
+- 2025-05-15, **WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2505.10502v1](http://arxiv.org/abs/2505.10502v1)
+- 2025-05-15, **HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**, Jiaming Liang et.al., Paper: [http://arxiv.org/abs/2505.10464v1](http://arxiv.org/abs/2505.10464v1), Code: **[https://github.com/jeming-creater/hwa-unetr](https://github.com/jeming-creater/hwa-unetr)**
+- 2025-05-15, **Zestings of Hopf Algebras**, Iván Angiono et.al., Paper: [http://arxiv.org/abs/2505.10447v1](http://arxiv.org/abs/2505.10447v1)
+- 2025-05-15, **Competition between the neutron-proton pair break-ups delineating the level structure of 202Po**, Sahab Singh et.al., Paper: [http://arxiv.org/abs/2505.10237v1](http://arxiv.org/abs/2505.10237v1)
+- 2025-05-15, **A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals**, Mariano Ferrero et.al., Paper: [http://arxiv.org/abs/2505.10198v1](http://arxiv.org/abs/2505.10198v1)
+- 2025-05-15, **Verification of a hybrid gyrokinetic model using the advanced semi-Lagrange code ssV**, Sreenivasa chary Thatikonda et.al., Paper: [http://arxiv.org/abs/2505.10195v1](http://arxiv.org/abs/2505.10195v1)
+- 2025-05-15, **Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**, Xiang He et.al., Paper: [http://arxiv.org/abs/2505.10176v1](http://arxiv.org/abs/2505.10176v1), Code: **[https://github.com/Brain-Cog-Lab/IEMF](https://github.com/Brain-Cog-Lab/IEMF)**
+- 2025-05-15, **EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**, Zibin Dong et.al., Paper: [http://arxiv.org/abs/2505.10105v1](http://arxiv.org/abs/2505.10105v1)
+- 2025-05-15, **Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**, Bingda Tang et.al., Paper: [http://arxiv.org/abs/2505.10046v1](http://arxiv.org/abs/2505.10046v1)
+- 2025-05-15, **LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping**, Lijie Wang et.al., Paper: [http://arxiv.org/abs/2505.10018v1](http://arxiv.org/abs/2505.10018v1)
 - 2025-05-14, **Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**, Han Sun et.al., Paper: [http://arxiv.org/abs/2505.09424v1](http://arxiv.org/abs/2505.09424v1)
 - 2025-05-14, **MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2505.09422v1](http://arxiv.org/abs/2505.09422v1)
 - 2025-05-14, **Flavour Non-Singlet Splitting Functions at Four Loops in QCD -- The Fermionic Contributions**, B. A. Kniehl et.al., Paper: [http://arxiv.org/abs/2505.09381v1](http://arxiv.org/abs/2505.09381v1)
