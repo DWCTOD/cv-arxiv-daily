@@ -1,4 +1,4 @@
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 
 ## Video_Classification
 
@@ -7282,7 +7282,7 @@
 |**2025-05-15**|**Verification of a hybrid gyrokinetic model using the advanced semi-Lagrange code ssV**|Sreenivasa chary Thatikonda et.al.|[2505.10195v1](http://arxiv.org/abs/2505.10195v1)|null|
 |**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176v1](http://arxiv.org/abs/2505.10176v1)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
 |**2025-05-15**|**EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**|Zibin Dong et.al.|[2505.10105v1](http://arxiv.org/abs/2505.10105v1)|null|
-|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046v1](http://arxiv.org/abs/2505.10046v1)|null|
+|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046v1](http://arxiv.org/abs/2505.10046v1)|**[link](https://github.com/tang-bd/fuse-dit)**|
 |**2025-05-15**|**LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping**|Lijie Wang et.al.|[2505.10018v1](http://arxiv.org/abs/2505.10018v1)|null|
 |**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Han Sun et.al.|[2505.09424v1](http://arxiv.org/abs/2505.09424v1)|null|
 |**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422v1](http://arxiv.org/abs/2505.09422v1)|null|
