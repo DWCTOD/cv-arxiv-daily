@@ -1,4 +1,4 @@
-> Updated on 2025.05.18
+> Updated on 2025.05.19
 
 ## Video_Classification
 
@@ -10,7 +10,7 @@
 - 2025-05-15, **Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**, Mohammad Ghalavand et.al., Paper: [http://arxiv.org/abs/2505.10536v1](http://arxiv.org/abs/2505.10536v1)
 - 2025-05-15, **Sobolev and quasiconformal distortion of intermediate dimension with applications to conformal dimension**, Jonathan M. Fraser et.al., Paper: [http://arxiv.org/abs/2505.10525v1](http://arxiv.org/abs/2505.10525v1)
 - 2025-05-15, **The Devil Is in the Word Alignment Details: On Translation-Based Cross-Lingual Transfer for Token Classification Tasks**, Benedikt Ebing et.al., Paper: [http://arxiv.org/abs/2505.10507v1](http://arxiv.org/abs/2505.10507v1)
-- 2025-05-15, **WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2505.10502v1](http://arxiv.org/abs/2505.10502v1)
+- 2025-05-16, **WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2505.10502v2](http://arxiv.org/abs/2505.10502v2)
 - 2025-05-15, **Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**, Tu Duyen Nguyen et.al., Paper: [http://arxiv.org/abs/2505.10500v1](http://arxiv.org/abs/2505.10500v1)
 - 2025-05-14, **UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**, Yung-Hsuan Lai et.al., Paper: [http://arxiv.org/abs/2505.09615v1](http://arxiv.org/abs/2505.09615v1)
 - 2025-05-14, **Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**, Justin Yu et.al., Paper: [http://arxiv.org/abs/2505.09601v1](http://arxiv.org/abs/2505.09601v1)
@@ -7270,7 +7270,7 @@
 
 ## MultiModal
 
-- 2025-05-15, **WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2505.10502v1](http://arxiv.org/abs/2505.10502v1)
+- 2025-05-16, **WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2505.10502v2](http://arxiv.org/abs/2505.10502v2)
 - 2025-05-15, **HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**, Jiaming Liang et.al., Paper: [http://arxiv.org/abs/2505.10464v1](http://arxiv.org/abs/2505.10464v1), Code: **[https://github.com/jeming-creater/hwa-unetr](https://github.com/jeming-creater/hwa-unetr)**
 - 2025-05-15, **Zestings of Hopf Algebras**, Iván Angiono et.al., Paper: [http://arxiv.org/abs/2505.10447v1](http://arxiv.org/abs/2505.10447v1)
 - 2025-05-15, **Competition between the neutron-proton pair break-ups delineating the level structure of 202Po**, Sahab Singh et.al., Paper: [http://arxiv.org/abs/2505.10237v1](http://arxiv.org/abs/2505.10237v1)
