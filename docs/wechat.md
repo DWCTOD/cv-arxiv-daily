@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-16, **QVGen: Pushing the Limit of Quantized Video Generative Models**, Yushi Huang et.al., Paper: [http://arxiv.org/abs/2505.11497v1](http://arxiv.org/abs/2505.11497v1)
+- 2025-05-16, **SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics**, Lizhi Yang et.al., Paper: [http://arxiv.org/abs/2505.11494v1](http://arxiv.org/abs/2505.11494v1)
+- 2025-05-16, **EMU/GAMA: A new approach to characterising radio luminosity functions**, J. Prathap et.al., Paper: [http://arxiv.org/abs/2505.11453v1](http://arxiv.org/abs/2505.11453v1)
+- 2025-05-16, **GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**, Marc-Antoine Fortin et.al., Paper: [http://arxiv.org/abs/2505.11445v1](http://arxiv.org/abs/2505.11445v1), Code: **[https://zenodo.org/record/15255556](https://zenodo.org/record/15255556)**
+- 2025-05-16, **GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**, Chenkai Zhang et.al., Paper: [http://arxiv.org/abs/2505.11436v1](http://arxiv.org/abs/2505.11436v1)
+- 2025-05-16, **Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**, Georgios Moustakas et.al., Paper: [http://arxiv.org/abs/2505.11433v1](http://arxiv.org/abs/2505.11433v1)
+- 2025-05-16, **Face Consistency Benchmark for GenAI Video**, Michal Podstawski et.al., Paper: [http://arxiv.org/abs/2505.11425v1](http://arxiv.org/abs/2505.11425v1)
+- 2025-05-16, **Energy efficiency analysis of Spiking Neural Networks for space applications**, Paolo Lunghi et.al., Paper: [http://arxiv.org/abs/2505.11418v1](http://arxiv.org/abs/2505.11418v1)
+- 2025-05-16, **Uncertainty quantification with approximate variational learning for wearable photoplethysmography prediction tasks**, Ciaran Bench et.al., Paper: [http://arxiv.org/abs/2505.11412v1](http://arxiv.org/abs/2505.11412v1)
+- 2025-05-16, **Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**, Wenchuan Zhang et.al., Paper: [http://arxiv.org/abs/2505.11404v1](http://arxiv.org/abs/2505.11404v1)
 - 2025-05-15, **3D-Fixup: Advancing Photo Editing with 3D Priors**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2505.10566v1](http://arxiv.org/abs/2505.10566v1)
 - 2025-05-15, **Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**, Yiwen Liu et.al., Paper: [http://arxiv.org/abs/2505.10551v1](http://arxiv.org/abs/2505.10551v1), Code: **[https://github.com/yiveen/syntheticdatafeasibility](https://github.com/yiveen/syntheticdatafeasibility)**
 - 2025-05-15, **Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**, Milan Ganai et.al., Paper: [http://arxiv.org/abs/2505.10547v1](http://arxiv.org/abs/2505.10547v1)
@@ -7270,6 +7280,16 @@
 
 ## MultiModal
 
+- 2025-05-16, **msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**, Zhaolan Huang et.al., Paper: [http://arxiv.org/abs/2505.11483v1](http://arxiv.org/abs/2505.11483v1)
+- 2025-05-16, **MARRS: Masked Autoregressive Unit-based Reaction Synthesis**, Y. B. Wang et.al., Paper: [http://arxiv.org/abs/2505.11334v1](http://arxiv.org/abs/2505.11334v1)
+- 2025-05-16, **A Step towards Interpretable Multimodal AI Models with MultiFIX**, Mafalda Malafaia et.al., Paper: [http://arxiv.org/abs/2505.11262v1](http://arxiv.org/abs/2505.11262v1)
+- 2025-05-16, **Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification**, Wenhao Qian et.al., Paper: [http://arxiv.org/abs/2505.11237v1](http://arxiv.org/abs/2505.11237v1), Code: **[https://github.com/Qianvenh/CDGLT](https://github.com/Qianvenh/CDGLT)**
+- 2025-05-16, **A Multi-modal Fusion Network for Terrain Perception Based on Illumination Aware**, Rui Wang et.al., Paper: [http://arxiv.org/abs/2505.11066v1](http://arxiv.org/abs/2505.11066v1)
+- 2025-05-16, **GROQLoco: Generalist and RObot-agnostic Quadruped Locomotion Control using Offline Datasets**, Narayanan PP et.al., Paper: [http://arxiv.org/abs/2505.10973v1](http://arxiv.org/abs/2505.10973v1)
+- 2025-05-16, **M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection**, Chao Wang et.al., Paper: [http://arxiv.org/abs/2505.10931v1](http://arxiv.org/abs/2505.10931v1)
+- 2025-05-16, **VISTA: Enhancing Vision-Text Alignment in MLLMs via Cross-Modal Mutual Information Maximization**, Mingxiao Li et.al., Paper: [http://arxiv.org/abs/2505.10917v1](http://arxiv.org/abs/2505.10917v1)
+- 2025-05-16, **Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs**, Abhishek Dey et.al., Paper: [http://arxiv.org/abs/2505.10836v1](http://arxiv.org/abs/2505.10836v1)
+- 2025-05-16, **Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting**, Yueyang Yao et.al., Paper: [http://arxiv.org/abs/2505.10774v1](http://arxiv.org/abs/2505.10774v1)
 - 2025-05-16, **WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**, Yifan Gao et.al., Paper: [http://arxiv.org/abs/2505.10502v2](http://arxiv.org/abs/2505.10502v2)
 - 2025-05-15, **HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**, Jiaming Liang et.al., Paper: [http://arxiv.org/abs/2505.10464v1](http://arxiv.org/abs/2505.10464v1), Code: **[https://github.com/jeming-creater/hwa-unetr](https://github.com/jeming-creater/hwa-unetr)**
 - 2025-05-15, **Zestings of Hopf Algebras**, Iván Angiono et.al., Paper: [http://arxiv.org/abs/2505.10447v1](http://arxiv.org/abs/2505.10447v1)
