@@ -1,11 +1,11 @@
-> Updated on 2025.05.19
+> Updated on 2025.05.20
 
 ## Video_Classification
 
 - 2025-05-16, **QVGen: Pushing the Limit of Quantized Video Generative Models**, Yushi Huang et.al., Paper: [http://arxiv.org/abs/2505.11497v1](http://arxiv.org/abs/2505.11497v1)
 - 2025-05-16, **SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics**, Lizhi Yang et.al., Paper: [http://arxiv.org/abs/2505.11494v1](http://arxiv.org/abs/2505.11494v1)
 - 2025-05-16, **EMU/GAMA: A new approach to characterising radio luminosity functions**, J. Prathap et.al., Paper: [http://arxiv.org/abs/2505.11453v1](http://arxiv.org/abs/2505.11453v1)
-- 2025-05-16, **GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**, Marc-Antoine Fortin et.al., Paper: [http://arxiv.org/abs/2505.11445v1](http://arxiv.org/abs/2505.11445v1), Code: **[https://zenodo.org/record/15255556](https://zenodo.org/record/15255556)**
+- 2025-05-16, **GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**, Marc-Antoine Fortin et.al., Paper: [http://arxiv.org/abs/2505.11445v1](http://arxiv.org/abs/2505.11445v1), Code: **[https://github.com/mafortin/GOUHFI](https://github.com/mafortin/GOUHFI)**
 - 2025-05-16, **GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**, Chenkai Zhang et.al., Paper: [http://arxiv.org/abs/2505.11436v1](http://arxiv.org/abs/2505.11436v1)
 - 2025-05-16, **Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**, Georgios Moustakas et.al., Paper: [http://arxiv.org/abs/2505.11433v1](http://arxiv.org/abs/2505.11433v1)
 - 2025-05-16, **Face Consistency Benchmark for GenAI Video**, Michal Podstawski et.al., Paper: [http://arxiv.org/abs/2505.11425v1](http://arxiv.org/abs/2505.11425v1)
