@@ -1,4 +1,4 @@
-> Updated on 2025.05.20
+> Updated on 2025.05.21
 
 ## Video_Classification
 
@@ -7291,7 +7291,7 @@
 ## MultiModal
 
 - 2025-05-19, **AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**, Rong Bian et.al., Paper: [http://arxiv.org/abs/2505.13406v1](http://arxiv.org/abs/2505.13406v1)
-- 2025-05-19, **Event-Driven Dynamic Scene Depth Completion**, Zhiqiang Yan et.al., Paper: [http://arxiv.org/abs/2505.13279v1](http://arxiv.org/abs/2505.13279v1)
+- 2025-05-20, **Event-Driven Dynamic Scene Depth Completion**, Zhiqiang Yan et.al., Paper: [http://arxiv.org/abs/2505.13279v2](http://arxiv.org/abs/2505.13279v2)
 - 2025-05-19, **DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**, Yehao Liu et.al., Paper: [http://arxiv.org/abs/2505.13266v1](http://arxiv.org/abs/2505.13266v1)
 - 2025-05-19, **Information Science Principles of Machine Learning: A Causal Chain Meta-Framework Based on Formalized Information Mapping**, Jianfeng Xu et.al., Paper: [http://arxiv.org/abs/2505.13182v1](http://arxiv.org/abs/2505.13182v1)
 - 2025-05-19, **Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction**, Yuanbo Wang et.al., Paper: [http://arxiv.org/abs/2505.13091v1](http://arxiv.org/abs/2505.13091v1)
