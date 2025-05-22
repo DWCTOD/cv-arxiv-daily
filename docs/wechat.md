@@ -1,4 +1,4 @@
-> Updated on 2025.05.21
+> Updated on 2025.05.22
 
 ## Video_Classification
 
@@ -7302,13 +7302,13 @@
 
 - 2025-05-20, **Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**, Jiangrong Shen et.al., Paper: [http://arxiv.org/abs/2505.14535v1](http://arxiv.org/abs/2505.14535v1)
 - 2025-05-20, **Interpretable Dual-Stream Learning for Local Wind Hazard Prediction in Vulnerable Communities**, Mahmuda Akhter Nishu et.al., Paper: [http://arxiv.org/abs/2505.14522v1](http://arxiv.org/abs/2505.14522v1)
-- 2025-05-20, **ModRWKV: Transformer Multimodality in Linear Time**, Jiale Kang et.al., Paper: [http://arxiv.org/abs/2505.14505v1](http://arxiv.org/abs/2505.14505v1)
+- 2025-05-20, **ModRWKV: Transformer Multimodality in Linear Time**, Jiale Kang et.al., Paper: [http://arxiv.org/abs/2505.14505v1](http://arxiv.org/abs/2505.14505v1), Code: **[https://github.com/jl-er/modrwkv](https://github.com/jl-er/modrwkv)**
 - 2025-05-20, **Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated Rationales**, Jun Cao et.al., Paper: [http://arxiv.org/abs/2505.14499v1](http://arxiv.org/abs/2505.14499v1)
 - 2025-05-20, **Diving into the Fusion of Monocular Priors for Generalized Stereo Matching**, Chengtang Yao et.al., Paper: [http://arxiv.org/abs/2505.14414v1](http://arxiv.org/abs/2505.14414v1), Code: **[https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)**
 - 2025-05-20, **FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**, Yutong Liu et.al., Paper: [http://arxiv.org/abs/2505.14351v1](http://arxiv.org/abs/2505.14351v1)
-- 2025-05-20, **TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2505.14329v1](http://arxiv.org/abs/2505.14329v1)
+- 2025-05-20, **TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2505.14329v1](http://arxiv.org/abs/2505.14329v1), Code: **[https://github.com/codemous/tf-mamba](https://github.com/codemous/tf-mamba)**
 - 2025-05-20, **Insight into the Correlation of Shape and Magnetism of Hematite Nanospindles**, Juri Kopp et.al., Paper: [http://arxiv.org/abs/2505.14265v1](http://arxiv.org/abs/2505.14265v1)
-- 2025-05-20, **Selective Structured State Space for Multispectral-fused Small Target Detection**, Qianqian Zhang et.al., Paper: [http://arxiv.org/abs/2505.14043v1](http://arxiv.org/abs/2505.14043v1)
+- 2025-05-21, **Selective Structured State Space for Multispectral-fused Small Target Detection**, Qianqian Zhang et.al., Paper: [http://arxiv.org/abs/2505.14043v2](http://arxiv.org/abs/2505.14043v2)
 - 2025-05-20, **Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation**, Jinzhou Li et.al., Paper: [http://arxiv.org/abs/2505.13982v1](http://arxiv.org/abs/2505.13982v1)
 - 2025-05-19, **AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**, Rong Bian et.al., Paper: [http://arxiv.org/abs/2505.13406v1](http://arxiv.org/abs/2505.13406v1)
 - 2025-05-20, **Event-Driven Dynamic Scene Depth Completion**, Zhiqiang Yan et.al., Paper: [http://arxiv.org/abs/2505.13279v2](http://arxiv.org/abs/2505.13279v2)
