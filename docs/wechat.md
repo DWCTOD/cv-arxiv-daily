@@ -1,4 +1,4 @@
-> Updated on 2025.05.22
+> Updated on 2025.05.23
 
 ## Video_Classification
 
@@ -7314,7 +7314,7 @@
 - 2025-05-21, **Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model**, Ke Hu et.al., Paper: [http://arxiv.org/abs/2505.15670v1](http://arxiv.org/abs/2505.15670v1)
 - 2025-05-21, **Deep Learning Enabled Segmentation, Classification and Risk Assessment of Cervical Cancer**, Abdul Samad Shaik et.al., Paper: [http://arxiv.org/abs/2505.15505v1](http://arxiv.org/abs/2505.15505v1)
 - 2025-05-21, **Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2505.15491v1](http://arxiv.org/abs/2505.15491v1)
-- 2025-05-21, **Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**, Ao Liu et.al., Paper: [http://arxiv.org/abs/2505.15431v1](http://arxiv.org/abs/2505.15431v1)
+- 2025-05-22, **Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**, Tencent Hunyuan Team et.al., Paper: [http://arxiv.org/abs/2505.15431v2](http://arxiv.org/abs/2505.15431v2)
 - 2025-05-21, **Robust Multimodal Learning via Entropy-Gated Contrastive Fusion**, Leon Chlon et.al., Paper: [http://arxiv.org/abs/2505.15417v1](http://arxiv.org/abs/2505.15417v1)
 - 2025-05-21, **Visual Question Answering on Multiple Remote Sensing Image Modalities**, Hichem Boussaid et.al., Paper: [http://arxiv.org/abs/2505.15401v1](http://arxiv.org/abs/2505.15401v1)
 - 2025-05-21, **Enhancing the creation of elements in laser-assisted heavy-ion fusion reactions**, Nicholas Thomson et.al., Paper: [http://arxiv.org/abs/2505.15390v1](http://arxiv.org/abs/2505.15390v1)
