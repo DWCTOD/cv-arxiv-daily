@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|null|
+|**2025-05-22**|**Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space**|Yan Li et.al.|[2505.17011v1](http://arxiv.org/abs/2505.17011v1)|null|
+|**2025-05-22**|**Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator**|Lin Su et.al.|[2505.17009v1](http://arxiv.org/abs/2505.17009v1)|null|
+|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008v1](http://arxiv.org/abs/2505.17008v1)|null|
+|**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006v1](http://arxiv.org/abs/2505.17006v1)|null|
+|**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
+|**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980v1](http://arxiv.org/abs/2505.16980v1)|null|
+|**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964v1](http://arxiv.org/abs/2505.16964v1)|null|
+|**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956v1](http://arxiv.org/abs/2505.16956v1)|null|
+|**2025-05-22**|**On a certain class of para-Hermite Einstein spaces**|Adam Chudecki et.al.|[2505.16945v1](http://arxiv.org/abs/2505.16945v1)|null|
 |**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812v1](http://arxiv.org/abs/2505.15812v1)|**[link](https://github.com/satoshi-kosugi/powerful-attention)**|
 |**2025-05-21**|**Adaptive Estimation and Learning under Temporal Distribution Shift**|Dheeraj Baby et.al.|[2505.15803v1](http://arxiv.org/abs/2505.15803v1)|null|
 |**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800v1](http://arxiv.org/abs/2505.15800v1)|null|
@@ -7318,6 +7328,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**|Abdul Hannan et.al.|[2505.17002v1](http://arxiv.org/abs/2505.17002v1)|null|
+|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902v1](http://arxiv.org/abs/2505.16902v1)|null|
+|**2025-05-22**|**Braid Group Representations and Defect Operators in AdS/CFT Correspondence**|Tzu-Miao Chou et.al.|[2505.16817v1](http://arxiv.org/abs/2505.16817v1)|null|
+|**2025-05-22**|**Fusion for High-Dimensional Linear Optical Quantum Computing with Improved Success Probability**|Gözde Üstün et.al.|[2505.16816v1](http://arxiv.org/abs/2505.16816v1)|null|
+|**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811v1](http://arxiv.org/abs/2505.16811v1)|null|
+|**2025-05-22**|**AdS/CFT Duality and Anyons in $SU(N)_k$ Chern-Simons Theory**|Tzu-Miao Chou et.al.|[2505.16760v1](http://arxiv.org/abs/2505.16760v1)|null|
+|**2025-05-22**|**Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs**|Zeping Yu et.al.|[2505.16703v1](http://arxiv.org/abs/2505.16703v1)|null|
+|**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663v1](http://arxiv.org/abs/2505.16663v1)|**[link](https://github.com/oceanhao/CoNav)**|
+|**2025-05-22**|**Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control**|Giuseppe Guarino et.al.|[2505.16658v1](http://arxiv.org/abs/2505.16658v1)|null|
+|**2025-05-22**|**Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection**|Jiaxin Liu et.al.|[2505.16512v1](http://arxiv.org/abs/2505.16512v1)|null|
 |**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798v1](http://arxiv.org/abs/2505.15798v1)|null|
 |**2025-05-21**|**Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model**|Ke Hu et.al.|[2505.15670v1](http://arxiv.org/abs/2505.15670v1)|null|
 |**2025-05-21**|**Deep Learning Enabled Segmentation, Classification and Risk Assessment of Cervical Cancer**|Abdul Samad Shaik et.al.|[2505.15505v1](http://arxiv.org/abs/2505.15505v1)|null|
