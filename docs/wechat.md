@@ -1,11 +1,11 @@
-> Updated on 2025.05.25
+> Updated on 2025.05.26
 
 ## Video_Classification
 
-- 2025-05-22, **CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**, Shilin Yan et.al., Paper: [http://arxiv.org/abs/2505.17020v1](http://arxiv.org/abs/2505.17020v1)
+- 2025-05-22, **CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**, Shilin Yan et.al., Paper: [http://arxiv.org/abs/2505.17020v1](http://arxiv.org/abs/2505.17020v1), Code: **[https://github.com/shilinyan99/crosslmm](https://github.com/shilinyan99/crosslmm)**
 - 2025-05-22, **Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space**, Yan Li et.al., Paper: [http://arxiv.org/abs/2505.17011v1](http://arxiv.org/abs/2505.17011v1)
 - 2025-05-22, **Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator**, Lin Su et.al., Paper: [http://arxiv.org/abs/2505.17009v1](http://arxiv.org/abs/2505.17009v1)
-- 2025-05-22, **Deep mineralogical segmentation of thin section images based on QEMSCAN maps**, Jean Pablo Vieira de Mello et.al., Paper: [http://arxiv.org/abs/2505.17008v1](http://arxiv.org/abs/2505.17008v1)
+- 2025-05-22, **Deep mineralogical segmentation of thin section images based on QEMSCAN maps**, Jean Pablo Vieira de Mello et.al., Paper: [http://arxiv.org/abs/2505.17008v1](http://arxiv.org/abs/2505.17008v1), Code: **[https://github.com/ltracegeo/deep-mineralogical-segmentation](https://github.com/ltracegeo/deep-mineralogical-segmentation)**
 - 2025-05-22, **CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**, Jiange Yang et.al., Paper: [http://arxiv.org/abs/2505.17006v1](http://arxiv.org/abs/2505.17006v1)
 - 2025-05-22, **Seeing through Satellite Images at Street Views**, Ming Qian et.al., Paper: [http://arxiv.org/abs/2505.17001v1](http://arxiv.org/abs/2505.17001v1)
 - 2025-05-22, **Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**, Dong Li et.al., Paper: [http://arxiv.org/abs/2505.16980v1](http://arxiv.org/abs/2505.16980v1)
@@ -7320,15 +7320,15 @@
 
 ## MultiModal
 
-- 2025-05-22, **PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**, Abdul Hannan et.al., Paper: [http://arxiv.org/abs/2505.17002v1](http://arxiv.org/abs/2505.17002v1)
-- 2025-05-22, **RealEngine: Simulating Autonomous Driving in Realistic Context**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2505.16902v1](http://arxiv.org/abs/2505.16902v1)
+- 2025-05-22, **PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**, Abdul Hannan et.al., Paper: [http://arxiv.org/abs/2505.17002v1](http://arxiv.org/abs/2505.17002v1), Code: **[https://github.com/hannabdul/paeff](https://github.com/hannabdul/paeff)**
+- 2025-05-22, **RealEngine: Simulating Autonomous Driving in Realistic Context**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2505.16902v1](http://arxiv.org/abs/2505.16902v1), Code: **[https://github.com/fudan-zvg/realengine](https://github.com/fudan-zvg/realengine)**
 - 2025-05-22, **Braid Group Representations and Defect Operators in AdS/CFT Correspondence**, Tzu-Miao Chou et.al., Paper: [http://arxiv.org/abs/2505.16817v1](http://arxiv.org/abs/2505.16817v1)
 - 2025-05-22, **Fusion for High-Dimensional Linear Optical Quantum Computing with Improved Success Probability**, Gözde Üstün et.al., Paper: [http://arxiv.org/abs/2505.16816v1](http://arxiv.org/abs/2505.16816v1)
 - 2025-05-22, **Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**, Shangquan Sun et.al., Paper: [http://arxiv.org/abs/2505.16811v1](http://arxiv.org/abs/2505.16811v1)
 - 2025-05-22, **AdS/CFT Duality and Anyons in $SU(N)_k$ Chern-Simons Theory**, Tzu-Miao Chou et.al., Paper: [http://arxiv.org/abs/2505.16760v1](http://arxiv.org/abs/2505.16760v1)
 - 2025-05-22, **Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs**, Zeping Yu et.al., Paper: [http://arxiv.org/abs/2505.16703v1](http://arxiv.org/abs/2505.16703v1)
 - 2025-05-22, **CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**, Haihong Hao et.al., Paper: [http://arxiv.org/abs/2505.16663v1](http://arxiv.org/abs/2505.16663v1), Code: **[https://github.com/oceanhao/CoNav](https://github.com/oceanhao/CoNav)**
-- 2025-05-22, **Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control**, Giuseppe Guarino et.al., Paper: [http://arxiv.org/abs/2505.16658v1](http://arxiv.org/abs/2505.16658v1)
+- 2025-05-22, **Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control**, Giuseppe Guarino et.al., Paper: [http://arxiv.org/abs/2505.16658v1](http://arxiv.org/abs/2505.16658v1), Code: **[https://github.com/giu-guarino/rho-pnn](https://github.com/giu-guarino/rho-pnn)**
 - 2025-05-22, **Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection**, Jiaxin Liu et.al., Paper: [http://arxiv.org/abs/2505.16512v1](http://arxiv.org/abs/2505.16512v1)
 - 2025-05-21, **Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**, Taehoon Kim et.al., Paper: [http://arxiv.org/abs/2505.15798v1](http://arxiv.org/abs/2505.15798v1)
 - 2025-05-21, **Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model**, Ke Hu et.al., Paper: [http://arxiv.org/abs/2505.15670v1](http://arxiv.org/abs/2505.15670v1)
