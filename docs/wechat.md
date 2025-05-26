@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-23, **WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**, Zizhang Li et.al., Paper: [http://arxiv.org/abs/2505.18151v1](http://arxiv.org/abs/2505.18151v1)
+- 2025-05-23, **TokBench: Evaluating Your Visual Tokenizer before Visual Generation**, Junfeng Wu et.al., Paper: [http://arxiv.org/abs/2505.18142v1](http://arxiv.org/abs/2505.18142v1)
+- 2025-05-23, **VideoGameBench: Can Vision-Language Models complete popular video games?**, Alex L. Zhang et.al., Paper: [http://arxiv.org/abs/2505.18134v1](http://arxiv.org/abs/2505.18134v1)
+- 2025-05-23, **TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations**, Alan Arazi et.al., Paper: [http://arxiv.org/abs/2505.18125v1](http://arxiv.org/abs/2505.18125v1)
+- 2025-05-23, **Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**, Zinuo Li et.al., Paper: [http://arxiv.org/abs/2505.18110v1](http://arxiv.org/abs/2505.18110v1)
+- 2025-05-23, **Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**, Yichi Zhang et.al., Paper: [http://arxiv.org/abs/2505.18107v1](http://arxiv.org/abs/2505.18107v1)
+- 2025-05-23, **F-ANcGAN: An Attention-Enhanced Cycle Consistent Generative Adversarial Architecture for Synthetic Image Generation of Nanoparticles**, Varun Ajith et.al., Paper: [http://arxiv.org/abs/2505.18106v1](http://arxiv.org/abs/2505.18106v1)
+- 2025-05-23, **Structural Dynamics of Harmful Content Dissemination on WhatsApp**, Yuxin Liu et.al., Paper: [http://arxiv.org/abs/2505.18099v1](http://arxiv.org/abs/2505.18099v1)
+- 2025-05-23, **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2505.18096v1](http://arxiv.org/abs/2505.18096v1)
+- 2025-05-23, **Early-Exit Graph Neural Networks**, Andrea Giuseppe Di Francesco et.al., Paper: [http://arxiv.org/abs/2505.18088v1](http://arxiv.org/abs/2505.18088v1)
 - 2025-05-22, **CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**, Shilin Yan et.al., Paper: [http://arxiv.org/abs/2505.17020v1](http://arxiv.org/abs/2505.17020v1), Code: **[https://github.com/shilinyan99/crosslmm](https://github.com/shilinyan99/crosslmm)**
 - 2025-05-22, **Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space**, Yan Li et.al., Paper: [http://arxiv.org/abs/2505.17011v1](http://arxiv.org/abs/2505.17011v1)
 - 2025-05-22, **Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator**, Lin Su et.al., Paper: [http://arxiv.org/abs/2505.17009v1](http://arxiv.org/abs/2505.17009v1)
@@ -7320,6 +7330,16 @@
 
 ## MultiModal
 
+- 2025-05-23, **Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**, Mykola Trokhymovych et.al., Paper: [http://arxiv.org/abs/2505.18136v1](http://arxiv.org/abs/2505.18136v1)
+- 2025-05-23, **AFD-STA: Adaptive Filtering Denoising with Spatiotemporal Attention for Chaotic System Prediction**, Chunlin Gong et.al., Paper: [http://arxiv.org/abs/2505.18080v1](http://arxiv.org/abs/2505.18080v1)
+- 2025-05-23, **A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**, Yumeng Zhang et.al., Paper: [http://arxiv.org/abs/2505.18058v1](http://arxiv.org/abs/2505.18058v1)
+- 2025-05-23, **SpikeGen: Generative Framework for Visual Spike Stream Processing**, Gaole Dai et.al., Paper: [http://arxiv.org/abs/2505.18049v1](http://arxiv.org/abs/2505.18049v1)
+- 2025-05-23, **Empathic network learning for multi-expert emergency decision-making under incomplete and inconsistent information**, Simin Shen et.al., Paper: [http://arxiv.org/abs/2505.18009v1](http://arxiv.org/abs/2505.18009v1)
+- 2025-05-23, **Simultaneous amplification and shaping of excimer lasers using Stimulated Brillouin Scattering in the strongly damped limit**, Jihoon Kim et.al., Paper: [http://arxiv.org/abs/2505.17956v1](http://arxiv.org/abs/2505.17956v1)
+- 2025-05-23, **SplatCo: Structure-View Collaborative Gaussian Splatting for Detail-Preserving Rendering of Large-Scale Unbounded Scenes**, Haihong Xiao et.al., Paper: [http://arxiv.org/abs/2505.17951v1](http://arxiv.org/abs/2505.17951v1)
+- 2025-05-23, **Predicting Length of Stay in Neurological ICU Patients Using Classical Machine Learning and Neural Network Models: A Benchmark Study on MIMIC-IV**, Alexander Gabitashvili et.al., Paper: [http://arxiv.org/abs/2505.17929v1](http://arxiv.org/abs/2505.17929v1)
+- 2025-05-23, **DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**, Yuxin Yang et.al., Paper: [http://arxiv.org/abs/2505.17796v1](http://arxiv.org/abs/2505.17796v1)
+- 2025-05-23, **RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**, Ozsel Kilinc et.al., Paper: [http://arxiv.org/abs/2505.17732v1](http://arxiv.org/abs/2505.17732v1)
 - 2025-05-22, **PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**, Abdul Hannan et.al., Paper: [http://arxiv.org/abs/2505.17002v1](http://arxiv.org/abs/2505.17002v1), Code: **[https://github.com/hannabdul/paeff](https://github.com/hannabdul/paeff)**
 - 2025-05-22, **RealEngine: Simulating Autonomous Driving in Realistic Context**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2505.16902v1](http://arxiv.org/abs/2505.16902v1), Code: **[https://github.com/fudan-zvg/realengine](https://github.com/fudan-zvg/realengine)**
 - 2025-05-22, **Braid Group Representations and Defect Operators in AdS/CFT Correspondence**, Tzu-Miao Chou et.al., Paper: [http://arxiv.org/abs/2505.16817v1](http://arxiv.org/abs/2505.16817v1)
