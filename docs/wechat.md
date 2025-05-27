@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-26, **Unleashing 5G Seamless Integration with TSN for Industry 5.0: Frame Forwarding and QoS Treatment**, Oscar Adamuz-Hinojosa et.al., Paper: [http://arxiv.org/abs/2505.20239v1](http://arxiv.org/abs/2505.20239v1)
+- 2025-05-26, **Research on feature fusion and multimodal patent text based on graph attention network**, Zhenzhen Song et.al., Paper: [http://arxiv.org/abs/2505.20188v1](http://arxiv.org/abs/2505.20188v1)
+- 2025-05-26, **Exposing Go's Hidden Bugs: A Novel Concolic Framework**, Karolina Gorna et.al., Paper: [http://arxiv.org/abs/2505.20183v1](http://arxiv.org/abs/2505.20183v1)
+- 2025-05-26, **Long-Context State-Space Video World Models**, Ryan Po et.al., Paper: [http://arxiv.org/abs/2505.20171v1](http://arxiv.org/abs/2505.20171v1)
+- 2025-05-26, **DeepInverse: A Python package for solving imaging inverse problems with deep learning**, Julián Tachella et.al., Paper: [http://arxiv.org/abs/2505.20160v1](http://arxiv.org/abs/2505.20160v1)
+- 2025-05-26, **HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters**, Yi Chen et.al., Paper: [http://arxiv.org/abs/2505.20156v1](http://arxiv.org/abs/2505.20156v1)
+- 2025-05-26, **UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**, Xueyan Zhang et.al., Paper: [http://arxiv.org/abs/2505.20154v1](http://arxiv.org/abs/2505.20154v1)
+- 2025-05-26, **Improvement Strategies for Few-Shot Learning in OCT Image Classification of Rare Retinal Diseases**, Cheng-Yu Tai et.al., Paper: [http://arxiv.org/abs/2505.20149v1](http://arxiv.org/abs/2505.20149v1)
+- 2025-05-26, **FairTalk: Facilitating Balanced Participation in Video Conferencing by Implicit Visualization of Predicted Turn-Grabbing Intention**, Ryo Iijima et.al., Paper: [http://arxiv.org/abs/2505.20138v1](http://arxiv.org/abs/2505.20138v1)
+- 2025-05-26, **TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos**, Fanheng Kong et.al., Paper: [http://arxiv.org/abs/2505.20124v1](http://arxiv.org/abs/2505.20124v1), Code: **[https://github.com/friedrichor/TUNA](https://github.com/friedrichor/TUNA)**
 - 2025-05-23, **WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**, Zizhang Li et.al., Paper: [http://arxiv.org/abs/2505.18151v1](http://arxiv.org/abs/2505.18151v1)
 - 2025-05-23, **TokBench: Evaluating Your Visual Tokenizer before Visual Generation**, Junfeng Wu et.al., Paper: [http://arxiv.org/abs/2505.18142v1](http://arxiv.org/abs/2505.18142v1)
 - 2025-05-23, **VideoGameBench: Can Vision-Language Models complete popular video games?**, Alex L. Zhang et.al., Paper: [http://arxiv.org/abs/2505.18134v1](http://arxiv.org/abs/2505.18134v1)
@@ -7330,6 +7340,16 @@
 
 ## MultiModal
 
+- 2025-05-26, **A structure-preserving multiscale solver for particle-wave interaction in non-uniform magnetized plasmas**, Kun Huang et.al., Paper: [http://arxiv.org/abs/2505.20210v1](http://arxiv.org/abs/2505.20210v1)
+- 2025-05-26, **Mechanism of defect formation in the quantum annealing of random transverse-field Ising chain**, Róbert Juhász et.al., Paper: [http://arxiv.org/abs/2505.20204v1](http://arxiv.org/abs/2505.20204v1)
+- 2025-05-26, **Research on feature fusion and multimodal patent text based on graph attention network**, Zhenzhen Song et.al., Paper: [http://arxiv.org/abs/2505.20188v1](http://arxiv.org/abs/2505.20188v1)
+- 2025-05-26, **SeMe: Training-Free Language Model Merging via Semantic Alignment**, Jian Gu et.al., Paper: [http://arxiv.org/abs/2505.20144v1](http://arxiv.org/abs/2505.20144v1)
+- 2025-05-26, **MVP: Multi-source Voice Pathology detection**, Alkis Koudounas et.al., Paper: [http://arxiv.org/abs/2505.20050v1](http://arxiv.org/abs/2505.20050v1)
+- 2025-05-26, **Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks**, Debargha Ganguly et.al., Paper: [http://arxiv.org/abs/2505.20047v1](http://arxiv.org/abs/2505.20047v1)
+- 2025-05-26, **Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**, Marcello Cellina et.al., Paper: [http://arxiv.org/abs/2505.20043v1](http://arxiv.org/abs/2505.20043v1)
+- 2025-05-26, **DepthMatch: Semi-Supervised RGB-D Scene Parsing through Depth-Guided Regularization**, Jianxin Huang et.al., Paper: [http://arxiv.org/abs/2505.20041v1](http://arxiv.org/abs/2505.20041v1)
+- 2025-05-26, **ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**, Fotios Lygerakis et.al., Paper: [http://arxiv.org/abs/2505.20032v1](http://arxiv.org/abs/2505.20032v1)
+- 2025-05-26, **Efficient Gaussian Mixture Filters based on Transition Density Approximation**, Ondŕej Straka et.al., Paper: [http://arxiv.org/abs/2505.20002v1](http://arxiv.org/abs/2505.20002v1)
 - 2025-05-23, **Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**, Mykola Trokhymovych et.al., Paper: [http://arxiv.org/abs/2505.18136v1](http://arxiv.org/abs/2505.18136v1)
 - 2025-05-23, **AFD-STA: Adaptive Filtering Denoising with Spatiotemporal Attention for Chaotic System Prediction**, Chunlin Gong et.al., Paper: [http://arxiv.org/abs/2505.18080v1](http://arxiv.org/abs/2505.18080v1)
 - 2025-05-23, **A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**, Yumeng Zhang et.al., Paper: [http://arxiv.org/abs/2505.18058v1](http://arxiv.org/abs/2505.18058v1)
