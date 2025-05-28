@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491v1](http://arxiv.org/abs/2505.21491v1)|null|
+|**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482v1](http://arxiv.org/abs/2505.21482v1)|null|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462v1](http://arxiv.org/abs/2505.21462v1)|null|
+|**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459v1](http://arxiv.org/abs/2505.21459v1)|null|
+|**2025-05-27**|**OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers**|Ziqiao Peng et.al.|[2505.21448v1](http://arxiv.org/abs/2505.21448v1)|null|
+|**2025-05-27**|**Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization**|Vit Fojtik et.al.|[2505.21423v1](http://arxiv.org/abs/2505.21423v1)|null|
+|**2025-05-27**|**A Structured Unplugged Approach for Foundational AI Literacy in Primary Education**|Maria Cristina Carrisi et.al.|[2505.21398v1](http://arxiv.org/abs/2505.21398v1)|null|
+|**2025-05-27**|**Dynamic Vision from EEG Brain Recordings: How much does EEG know?**|Prajwal Singh et.al.|[2505.21385v1](http://arxiv.org/abs/2505.21385v1)|null|
+|**2025-05-27**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381v1](http://arxiv.org/abs/2505.21381v1)|null|
+|**2025-05-27**|**Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?**|Junhao Cheng et.al.|[2505.21374v1](http://arxiv.org/abs/2505.21374v1)|null|
 |**2025-05-26**|**Unleashing 5G Seamless Integration with TSN for Industry 5.0: Frame Forwarding and QoS Treatment**|Oscar Adamuz-Hinojosa et.al.|[2505.20239v1](http://arxiv.org/abs/2505.20239v1)|null|
 |**2025-05-26**|**Research on feature fusion and multimodal patent text based on graph attention network**|Zhenzhen Song et.al.|[2505.20188v1](http://arxiv.org/abs/2505.20188v1)|null|
 |**2025-05-26**|**Exposing Go's Hidden Bugs: A Novel Concolic Framework**|Karolina Gorna et.al.|[2505.20183v1](http://arxiv.org/abs/2505.20183v1)|null|
@@ -7348,6 +7358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning**|Jinbao Wang et.al.|[2505.21420v1](http://arxiv.org/abs/2505.21420v1)|null|
+|**2025-05-27**|**YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**|Xinyuan Wang et.al.|[2505.21370v1](http://arxiv.org/abs/2505.21370v1)|null|
+|**2025-05-27**|**LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners**|Yu He et.al.|[2505.21239v1](http://arxiv.org/abs/2505.21239v1)|null|
+|**2025-05-27**|**Boosting Adversarial Transferability via High-Frequency Augmentation and Hierarchical-Gradient Fusion**|Yayin Zheng et.al.|[2505.21181v1](http://arxiv.org/abs/2505.21181v1)|null|
+|**2025-05-27**|**Atomistic and experimental study of microstructural evolution in nanocrystalline iron subjected to irradiation**|Ivan Tolkachev et.al.|[2505.21174v1](http://arxiv.org/abs/2505.21174v1)|null|
+|**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079v1](http://arxiv.org/abs/2505.21079v1)|null|
+|**2025-05-27**|**Channel-Aware Holographic Decision Fusion**|Domenico Ciuonzo et.al.|[2505.21035v1](http://arxiv.org/abs/2505.21035v1)|null|
+|**2025-05-27**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904v1](http://arxiv.org/abs/2505.20904v1)|null|
+|**2025-05-27**|**YOLO-FireAD: Efficient Fire Detection via Attention-Guided Inverted Residual Learning and Dual-Pooling Feature Preservation**|Weichao Pan et.al.|[2505.20884v1](http://arxiv.org/abs/2505.20884v1)|null|
+|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|
 |**2025-05-26**|**A structure-preserving multiscale solver for particle-wave interaction in non-uniform magnetized plasmas**|Kun Huang et.al.|[2505.20210v1](http://arxiv.org/abs/2505.20210v1)|null|
 |**2025-05-26**|**Mechanism of defect formation in the quantum annealing of random transverse-field Ising chain**|Róbert Juhász et.al.|[2505.20204v1](http://arxiv.org/abs/2505.20204v1)|null|
 |**2025-05-26**|**Research on feature fusion and multimodal patent text based on graph attention network**|Zhenzhen Song et.al.|[2505.20188v1](http://arxiv.org/abs/2505.20188v1)|null|
