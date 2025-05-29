@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-28, **Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2505.22647v1](http://arxiv.org/abs/2505.22647v1)
+- 2025-05-28, **PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**, Yezhi Shen et.al., Paper: [http://arxiv.org/abs/2505.22616v1](http://arxiv.org/abs/2505.22616v1)
+- 2025-05-28, **Chest Disease Detection In X-Ray Images Using Deep Learning Classification Method**, Alanna Hazlett et.al., Paper: [http://arxiv.org/abs/2505.22609v1](http://arxiv.org/abs/2505.22609v1)
+- 2025-05-28, **Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**, Banafsheh Saber Latibari et.al., Paper: [http://arxiv.org/abs/2505.22605v1](http://arxiv.org/abs/2505.22605v1)
+- 2025-05-28, **Comparative Analysis of Machine Learning Models for Lung Cancer Mutation Detection and Staging Using 3D CT Scans**, Yiheng Li et.al., Paper: [http://arxiv.org/abs/2505.22592v1](http://arxiv.org/abs/2505.22592v1)
+- 2025-05-28, **Tell me Habibi, is it Real or Fake?**, Kartik Kuckreja et.al., Paper: [http://arxiv.org/abs/2505.22581v1](http://arxiv.org/abs/2505.22581v1)
+- 2025-05-28, **Multipath cycleGAN for harmonization of paired and unpaired low-dose lung computed tomography reconstruction kernels**, Aravind R. Krishnan et.al., Paper: [http://arxiv.org/abs/2505.22568v1](http://arxiv.org/abs/2505.22568v1)
+- 2025-05-28, **Universal Visuo-Tactile Video Understanding for Embodied Interaction**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2505.22566v1](http://arxiv.org/abs/2505.22566v1)
+- 2025-05-28, **PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**, Jaehyun Choi et.al., Paper: [http://arxiv.org/abs/2505.22564v1](http://arxiv.org/abs/2505.22564v1)
+- 2025-05-28, **Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs**, Changhao Song et.al., Paper: [http://arxiv.org/abs/2505.22548v1](http://arxiv.org/abs/2505.22548v1)
 - 2025-05-27, **Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**, Boyang Wang et.al., Paper: [http://arxiv.org/abs/2505.21491v1](http://arxiv.org/abs/2505.21491v1)
 - 2025-05-27, **Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**, A. Gregory DiRienzo et.al., Paper: [http://arxiv.org/abs/2505.21482v1](http://arxiv.org/abs/2505.21482v1)
 - 2025-05-27, **M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**, Yali Yuan et.al., Paper: [http://arxiv.org/abs/2505.21462v1](http://arxiv.org/abs/2505.21462v1)
@@ -7350,6 +7360,16 @@
 
 ## MultiModal
 
+- 2025-05-28, **3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**, Wenbo Hu et.al., Paper: [http://arxiv.org/abs/2505.22657v1](http://arxiv.org/abs/2505.22657v1)
+- 2025-05-28, **ObjectClear: Complete Object Removal via Object-Effect Attention**, Jixin Zhao et.al., Paper: [http://arxiv.org/abs/2505.22636v1](http://arxiv.org/abs/2505.22636v1)
+- 2025-05-28, **Fusion Steering: Prompt-Specific Activation Control**, Waldemar Chang et.al., Paper: [http://arxiv.org/abs/2505.22572v1](http://arxiv.org/abs/2505.22572v1)
+- 2025-05-28, **MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism**, Yanyi Qu et.al., Paper: [http://arxiv.org/abs/2505.22555v1](http://arxiv.org/abs/2505.22555v1)
+- 2025-05-28, **A Closer Look at Multimodal Representation Collapse**, Abhra Chaudhuri et.al., Paper: [http://arxiv.org/abs/2505.22483v1](http://arxiv.org/abs/2505.22483v1)
+- 2025-05-28, **Zero-Shot 3D Visual Grounding from Vision-Language Models**, Rong Li et.al., Paper: [http://arxiv.org/abs/2505.22429v1](http://arxiv.org/abs/2505.22429v1)
+- 2025-05-28, **RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network**, Van-Tin Luu et.al., Paper: [http://arxiv.org/abs/2505.22427v1](http://arxiv.org/abs/2505.22427v1)
+- 2025-05-28, **Directed Homophily-Aware Graph Neural Network**, Aihu Zhang et.al., Paper: [http://arxiv.org/abs/2505.22362v1](http://arxiv.org/abs/2505.22362v1)
+- 2025-05-28, **Identity-Preserving Text-to-Image Generation via Dual-Level Feature Decoupling and Expert-Guided Fusion**, Kewen Chen et.al., Paper: [http://arxiv.org/abs/2505.22360v1](http://arxiv.org/abs/2505.22360v1)
+- 2025-05-28, **Aspects of density approximation by tensor trains**, Jiří Ajgl et.al., Paper: [http://arxiv.org/abs/2505.22218v1](http://arxiv.org/abs/2505.22218v1)
 - 2025-05-27, **Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning**, Jinbao Wang et.al., Paper: [http://arxiv.org/abs/2505.21420v1](http://arxiv.org/abs/2505.21420v1)
 - 2025-05-27, **YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**, Xinyuan Wang et.al., Paper: [http://arxiv.org/abs/2505.21370v1](http://arxiv.org/abs/2505.21370v1)
 - 2025-05-27, **LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners**, Yu He et.al., Paper: [http://arxiv.org/abs/2505.21239v1](http://arxiv.org/abs/2505.21239v1)
