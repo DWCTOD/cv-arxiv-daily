@@ -1,4 +1,4 @@
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 
 ## Video_Classification
 
@@ -7361,7 +7361,7 @@
 |**2025-05-27**|**Atomistic and experimental study of microstructural evolution in nanocrystalline iron subjected to irradiation**|Ivan Tolkachev et.al.|[2505.21174v1](http://arxiv.org/abs/2505.21174v1)|null|
 |**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079v1](http://arxiv.org/abs/2505.21079v1)|null|
 |**2025-05-27**|**Channel-Aware Holographic Decision Fusion**|Domenico Ciuonzo et.al.|[2505.21035v1](http://arxiv.org/abs/2505.21035v1)|null|
-|**2025-05-27**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904v1](http://arxiv.org/abs/2505.20904v1)|null|
+|**2025-05-28**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904v2](http://arxiv.org/abs/2505.20904v2)|null|
 |**2025-05-27**|**YOLO-FireAD: Efficient Fire Detection via Attention-Guided Inverted Residual Learning and Dual-Pooling Feature Preservation**|Weichao Pan et.al.|[2505.20884v1](http://arxiv.org/abs/2505.20884v1)|null|
 |**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|
 |**2025-05-26**|**A structure-preserving multiscale solver for particle-wave interaction in non-uniform magnetized plasmas**|Kun Huang et.al.|[2505.20210v1](http://arxiv.org/abs/2505.20210v1)|null|
