@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1)
+- 2025-05-29, **Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**, Diankun Wu et.al., Paper: [http://arxiv.org/abs/2505.23747v1](http://arxiv.org/abs/2505.23747v1)
+- 2025-05-29, **Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2505.23744v1](http://arxiv.org/abs/2505.23744v1)
+- 2025-05-29, **MAGREF: Masked Guidance for Any-Reference Video Generation**, Yufan Deng et.al., Paper: [http://arxiv.org/abs/2505.23742v1](http://arxiv.org/abs/2505.23742v1)
+- 2025-05-29, **How Animals Dance (When You're Not Looking)**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2505.23738v1](http://arxiv.org/abs/2505.23738v1)
+- 2025-05-29, **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**, Weijie Wang et.al., Paper: [http://arxiv.org/abs/2505.23734v1](http://arxiv.org/abs/2505.23734v1), Code: **[https://github.com/ziplab/ZPressor](https://github.com/ziplab/ZPressor)**
+- 2025-05-29, **The ambiguous AT2022rze: Changing-look AGN mimicking a supernova in a merging galaxy system**, P. J. Pessi et.al., Paper: [http://arxiv.org/abs/2505.23731v1](http://arxiv.org/abs/2505.23731v1)
+- 2025-05-29, **Skin Lesion Phenotyping via Nested Multi-modal Contrastive Learning**, Dionysis Christopoulos et.al., Paper: [http://arxiv.org/abs/2505.23709v1](http://arxiv.org/abs/2505.23709v1)
+- 2025-05-29, **Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**, Utku Demir et.al., Paper: [http://arxiv.org/abs/2505.23706v1](http://arxiv.org/abs/2505.23706v1)
+- 2025-05-29, **Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**, Danny Driess et.al., Paper: [http://arxiv.org/abs/2505.23705v1](http://arxiv.org/abs/2505.23705v1)
 - 2025-05-28, **Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2505.22647v1](http://arxiv.org/abs/2505.22647v1)
 - 2025-05-28, **PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**, Yezhi Shen et.al., Paper: [http://arxiv.org/abs/2505.22616v1](http://arxiv.org/abs/2505.22616v1)
 - 2025-05-28, **Chest Disease Detection In X-Ray Images Using Deep Learning Classification Method**, Alanna Hazlett et.al., Paper: [http://arxiv.org/abs/2505.22609v1](http://arxiv.org/abs/2505.22609v1)
@@ -7360,6 +7370,16 @@
 
 ## MultiModal
 
+- 2025-05-29, **Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2505.23744v1](http://arxiv.org/abs/2505.23744v1)
+- 2025-05-29, **Fermion parity and quantum capacitance oscillation with partially separated Majorana and quasi-Majorana modes**, Tudor D. Stanescu et.al., Paper: [http://arxiv.org/abs/2505.23741v1](http://arxiv.org/abs/2505.23741v1)
+- 2025-05-29, **CLDTracker: A Comprehensive Language Description for Visual Tracking**, Mohamad Alansari et.al., Paper: [http://arxiv.org/abs/2505.23704v1](http://arxiv.org/abs/2505.23704v1)
+- 2025-05-29, **Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education**, Boning Zhao et.al., Paper: [http://arxiv.org/abs/2505.23631v1](http://arxiv.org/abs/2505.23631v1)
+- 2025-05-29, **On miniature ultra-high-field commercial stellarator reactors with breeding external to resistive coils**, V. Queral et.al., Paper: [http://arxiv.org/abs/2505.23485v1](http://arxiv.org/abs/2505.23485v1)
+- 2025-05-29, **Point or Line? Using Line-based Representation for Panoptic Symbol Spotting in CAD Drawings**, Xingguang Wei et.al., Paper: [http://arxiv.org/abs/2505.23395v1](http://arxiv.org/abs/2505.23395v1)
+- 2025-05-29, **Vision-Integrated High-Quality Neural Speech Coding**, Yao Guo et.al., Paper: [http://arxiv.org/abs/2505.23379v1](http://arxiv.org/abs/2505.23379v1)
+- 2025-05-29, **MCFNet: A Multimodal Collaborative Fusion Network for Fine-Grained Semantic Classification**, Yang Qiao et.al., Paper: [http://arxiv.org/abs/2505.23365v1](http://arxiv.org/abs/2505.23365v1)
+- 2025-05-29, **DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification**, Daoxi Cao et.al., Paper: [http://arxiv.org/abs/2505.23341v1](http://arxiv.org/abs/2505.23341v1)
+- 2025-05-29, **Spoken question answering for visual queries**, Nimrod Shabtay et.al., Paper: [http://arxiv.org/abs/2505.23308v1](http://arxiv.org/abs/2505.23308v1)
 - 2025-05-28, **3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**, Wenbo Hu et.al., Paper: [http://arxiv.org/abs/2505.22657v1](http://arxiv.org/abs/2505.22657v1)
 - 2025-05-28, **ObjectClear: Complete Object Removal via Object-Effect Attention**, Jixin Zhao et.al., Paper: [http://arxiv.org/abs/2505.22636v1](http://arxiv.org/abs/2505.22636v1)
 - 2025-05-28, **Fusion Steering: Prompt-Specific Activation Control**, Waldemar Chang et.al., Paper: [http://arxiv.org/abs/2505.22572v1](http://arxiv.org/abs/2505.22572v1)
