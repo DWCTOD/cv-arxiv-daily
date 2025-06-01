@@ -4,11 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757v1](http://arxiv.org/abs/2505.23757v1)|null|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757v1](http://arxiv.org/abs/2505.23757v1)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|null|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744v1](http://arxiv.org/abs/2505.23744v1)|null|
 |**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743v1](http://arxiv.org/abs/2505.23743v1)|null|
-|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742v1](http://arxiv.org/abs/2505.23742v1)|null|
+|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742v1](http://arxiv.org/abs/2505.23742v1)|**[link](https://github.com/magref-video/magref)**|
 |**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738v1](http://arxiv.org/abs/2505.23738v1)|null|
 |**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v1](http://arxiv.org/abs/2505.23734v1)|**[link](https://github.com/ziplab/ZPressor)**|
 |**2025-05-29**|**The ambiguous AT2022rze: Changing-look AGN mimicking a supernova in a merging galaxy system**|P. J. Pessi et.al.|[2505.23731v1](http://arxiv.org/abs/2505.23731v1)|null|
@@ -7377,7 +7377,7 @@
 |---|---|---|---|---|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744v1](http://arxiv.org/abs/2505.23744v1)|null|
 |**2025-05-29**|**Fermion parity and quantum capacitance oscillation with partially separated Majorana and quasi-Majorana modes**|Tudor D. Stanescu et.al.|[2505.23741v1](http://arxiv.org/abs/2505.23741v1)|null|
-|**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704v1](http://arxiv.org/abs/2505.23704v1)|null|
+|**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704v1](http://arxiv.org/abs/2505.23704v1)|**[link](https://github.com/hamadya/cldtracker)**|
 |**2025-05-29**|**Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education**|Boning Zhao et.al.|[2505.23631v1](http://arxiv.org/abs/2505.23631v1)|null|
 |**2025-05-29**|**On miniature ultra-high-field commercial stellarator reactors with breeding external to resistive coils**|V. Queral et.al.|[2505.23485v1](http://arxiv.org/abs/2505.23485v1)|null|
 |**2025-05-29**|**Point or Line? Using Line-based Representation for Panoptic Symbol Spotting in CAD Drawings**|Xingguang Wei et.al.|[2505.23395v1](http://arxiv.org/abs/2505.23395v1)|null|
