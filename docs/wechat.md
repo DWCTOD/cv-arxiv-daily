@@ -5,6 +5,7 @@
 - 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1)
 - 2025-05-29, **Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**, Diankun Wu et.al., Paper: [http://arxiv.org/abs/2505.23747v1](http://arxiv.org/abs/2505.23747v1)
 - 2025-05-29, **Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2505.23744v1](http://arxiv.org/abs/2505.23744v1)
+- 2025-05-29, **DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**, Amber Yijia Zheng et.al., Paper: [http://arxiv.org/abs/2505.23743v1](http://arxiv.org/abs/2505.23743v1)
 - 2025-05-29, **MAGREF: Masked Guidance for Any-Reference Video Generation**, Yufan Deng et.al., Paper: [http://arxiv.org/abs/2505.23742v1](http://arxiv.org/abs/2505.23742v1)
 - 2025-05-29, **How Animals Dance (When You're Not Looking)**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2505.23738v1](http://arxiv.org/abs/2505.23738v1)
 - 2025-05-29, **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**, Weijie Wang et.al., Paper: [http://arxiv.org/abs/2505.23734v1](http://arxiv.org/abs/2505.23734v1), Code: **[https://github.com/ziplab/ZPressor](https://github.com/ziplab/ZPressor)**
