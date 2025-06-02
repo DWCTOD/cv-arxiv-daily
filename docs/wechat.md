@@ -1,4 +1,4 @@
-> Updated on 2025.06.01
+> Updated on 2025.06.02
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 - 2025-05-29, **DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**, Amber Yijia Zheng et.al., Paper: [http://arxiv.org/abs/2505.23743v1](http://arxiv.org/abs/2505.23743v1)
 - 2025-05-29, **MAGREF: Masked Guidance for Any-Reference Video Generation**, Yufan Deng et.al., Paper: [http://arxiv.org/abs/2505.23742v1](http://arxiv.org/abs/2505.23742v1), Code: **[https://github.com/magref-video/magref](https://github.com/magref-video/magref)**
 - 2025-05-29, **How Animals Dance (When You're Not Looking)**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2505.23738v1](http://arxiv.org/abs/2505.23738v1)
-- 2025-05-29, **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**, Weijie Wang et.al., Paper: [http://arxiv.org/abs/2505.23734v1](http://arxiv.org/abs/2505.23734v1), Code: **[https://github.com/ziplab/ZPressor](https://github.com/ziplab/ZPressor)**
+- 2025-05-30, **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**, Weijie Wang et.al., Paper: [http://arxiv.org/abs/2505.23734v2](http://arxiv.org/abs/2505.23734v2), Code: **[https://github.com/ziplab/ZPressor](https://github.com/ziplab/ZPressor)**
 - 2025-05-29, **The ambiguous AT2022rze: Changing-look AGN mimicking a supernova in a merging galaxy system**, P. J. Pessi et.al., Paper: [http://arxiv.org/abs/2505.23731v1](http://arxiv.org/abs/2505.23731v1)
 - 2025-05-29, **Skin Lesion Phenotyping via Nested Multi-modal Contrastive Learning**, Dionysis Christopoulos et.al., Paper: [http://arxiv.org/abs/2505.23709v1](http://arxiv.org/abs/2505.23709v1)
 - 2025-05-29, **Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**, Utku Demir et.al., Paper: [http://arxiv.org/abs/2505.23706v1](http://arxiv.org/abs/2505.23706v1)
