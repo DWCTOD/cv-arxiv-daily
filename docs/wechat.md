@@ -10,7 +10,7 @@
 - 2025-05-30, **DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**, Zhao Mandi et.al., Paper: [http://arxiv.org/abs/2505.24853v1](http://arxiv.org/abs/2505.24853v1)
 - 2025-05-30, **Reading Recognition in the Wild**, Charig Yang et.al., Paper: [http://arxiv.org/abs/2505.24848v1](http://arxiv.org/abs/2505.24848v1)
 - 2025-05-30, **VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**, Brandon Man et.al., Paper: [http://arxiv.org/abs/2505.24838v1](http://arxiv.org/abs/2505.24838v1)
-- 2025-05-30, **Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**, Aditya Retnanto et.al., Paper: [http://arxiv.org/abs/2505.24799v1](http://arxiv.org/abs/2505.24799v1)
+- 2025-06-02, **Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**, Aditya Retnanto et.al., Paper: [http://arxiv.org/abs/2505.24799v2](http://arxiv.org/abs/2505.24799v2)
 - 2025-05-30, **Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification**, Xinliu Zhong et.al., Paper: [http://arxiv.org/abs/2505.24792v1](http://arxiv.org/abs/2505.24792v1)
 - 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1), Code: **[https://github.com/ahydchh/impromptu-vla](https://github.com/ahydchh/impromptu-vla)**
 - 2025-05-29, **Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**, Diankun Wu et.al., Paper: [http://arxiv.org/abs/2505.23747v1](http://arxiv.org/abs/2505.23747v1)
