@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-05, **VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**, Hanoona Rasheed et.al., Paper: [http://arxiv.org/abs/2506.05349v1](http://arxiv.org/abs/2506.05349v1)
+- 2025-06-05, **Neural Inverse Rendering from Propagating Light**, Anagh Malik et.al., Paper: [http://arxiv.org/abs/2506.05347v1](http://arxiv.org/abs/2506.05347v1)
+- 2025-06-05, **ContentV: Efficient Training of Video Generation Models with Limited Compute**, Wenfeng Lin et.al., Paper: [http://arxiv.org/abs/2506.05343v1](http://arxiv.org/abs/2506.05343v1)
+- 2025-06-05, **VideoMolmo: Spatio-Temporal Grounding Meets Pointing**, Ghazi Shazan Ahmad et.al., Paper: [http://arxiv.org/abs/2506.05336v1](http://arxiv.org/abs/2506.05336v1)
+- 2025-06-05, **Unleashing Hour-Scale Video Training for Long Video-Language Understanding**, Jingyang Lin et.al., Paper: [http://arxiv.org/abs/2506.05332v1](http://arxiv.org/abs/2506.05332v1)
+- 2025-06-05, **AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs**, Lidong Lu et.al., Paper: [http://arxiv.org/abs/2506.05328v1](http://arxiv.org/abs/2506.05328v1)
+- 2025-06-05, **LSM-2: Learning from Incomplete Wearable Sensor Data**, Maxwell A. Xu et.al., Paper: [http://arxiv.org/abs/2506.05321v1](http://arxiv.org/abs/2506.05321v1)
+- 2025-06-05, **ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2506.05317v1](http://arxiv.org/abs/2506.05317v1)
+- 2025-06-05, **Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**, Weifeng Lin et.al., Paper: [http://arxiv.org/abs/2506.05302v1](http://arxiv.org/abs/2506.05302v1)
+- 2025-06-05, **SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**, Jianyi Wang et.al., Paper: [http://arxiv.org/abs/2506.05301v1](http://arxiv.org/abs/2506.05301v1)
 - 2025-06-04, **LayerFlow: A Unified Model for Layer-aware Video Generation**, Sihui Ji et.al., Paper: [http://arxiv.org/abs/2506.04228v1](http://arxiv.org/abs/2506.04228v1)
 - 2025-06-04, **Object-centric 3D Motion Field for Robot Learning from Human Videos**, Zhao-Heng Yin et.al., Paper: [http://arxiv.org/abs/2506.04227v1](http://arxiv.org/abs/2506.04227v1)
 - 2025-06-04, **Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**, Tianyu Huang et.al., Paper: [http://arxiv.org/abs/2506.04225v1](http://arxiv.org/abs/2506.04225v1)
@@ -7401,6 +7411,16 @@
 
 ## MultiModal
 
+- 2025-06-05, **VideoMolmo: Spatio-Temporal Grounding Meets Pointing**, Ghazi Shazan Ahmad et.al., Paper: [http://arxiv.org/abs/2506.05336v1](http://arxiv.org/abs/2506.05336v1)
+- 2025-06-05, **A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**, Ling-Yan Hung et.al., Paper: [http://arxiv.org/abs/2506.05324v1](http://arxiv.org/abs/2506.05324v1)
+- 2025-06-05, **The NTNU System at the S&I Challenge 2025 SLA Open Track**, Hong-Yun Lin et.al., Paper: [http://arxiv.org/abs/2506.05121v1](http://arxiv.org/abs/2506.05121v1)
+- 2025-06-05, **Modeling the high-brightness state of the recurrent nova T CrB as an enhanced mass-transfer event**, Wagner Schlindwein et.al., Paper: [http://arxiv.org/abs/2506.05098v1](http://arxiv.org/abs/2506.05098v1)
+- 2025-06-05, **FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis**, Wenyan Xu et.al., Paper: [http://arxiv.org/abs/2506.05019v1](http://arxiv.org/abs/2506.05019v1)
+- 2025-06-05, **Structure-Aware Radar-Camera Depth Estimation**, Fuyi Zhang et.al., Paper: [http://arxiv.org/abs/2506.05008v1](http://arxiv.org/abs/2506.05008v1)
+- 2025-06-05, **Predicting ICU In-Hospital Mortality Using Adaptive Transformer Layer Fusion**, Han Wang et.al., Paper: [http://arxiv.org/abs/2506.04924v1](http://arxiv.org/abs/2506.04924v1)
+- 2025-06-05, **Is Crane--Yetter fully extended?**, Luuk Stehouwer et.al., Paper: [http://arxiv.org/abs/2506.04864v1](http://arxiv.org/abs/2506.04864v1)
+- 2025-06-05, **Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques**, Jisu An et.al., Paper: [http://arxiv.org/abs/2506.04788v1](http://arxiv.org/abs/2506.04788v1)
+- 2025-06-05, **Exp4Fuse: A Rank Fusion Framework for Enhanced Sparse Retrieval using Large Language Model-based Query Expansion**, Lingyuan Liu et.al., Paper: [http://arxiv.org/abs/2506.04760v1](http://arxiv.org/abs/2506.04760v1), Code: **[https://github.com/liuliuyuan6/Exp4Fuse](https://github.com/liuliuyuan6/Exp4Fuse)**
 - 2025-06-04, **Topological Mixed States: Axiomatic Approaches and Phases of Matter**, Tai-Hsuan Yang et.al., Paper: [http://arxiv.org/abs/2506.04221v1](http://arxiv.org/abs/2506.04221v1)
 - 2025-06-04, **GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models**, Xiao Xiang Zhu et.al., Paper: [http://arxiv.org/abs/2506.04106v1](http://arxiv.org/abs/2506.04106v1)
 - 2025-06-04, **Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**, Abdelouahed Laazoufi et.al., Paper: [http://arxiv.org/abs/2506.04081v1](http://arxiv.org/abs/2506.04081v1)
