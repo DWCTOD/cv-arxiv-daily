@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 
 ## Video_Classification
 
@@ -14,7 +14,7 @@ layout: default
 |**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224v1](http://arxiv.org/abs/2506.04224v1)|null|
 |**2025-06-04**|**Topological Mixed States: Axiomatic Approaches and Phases of Matter**|Tai-Hsuan Yang et.al.|[2506.04221v1](http://arxiv.org/abs/2506.04221v1)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216v1](http://arxiv.org/abs/2506.04216v1)|null|
-|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213v1](http://arxiv.org/abs/2506.04213v1)|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213v2](http://arxiv.org/abs/2506.04213v2)|null|
 |**2025-06-04**|**A Few Moments Please: Scalable Graphon Learning via Moment Matching**|Reza Ramezanpour et.al.|[2506.04206v1](http://arxiv.org/abs/2506.04206v1)|null|
 |**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173v1](http://arxiv.org/abs/2506.04173v1)|null|
 |**2025-06-04**|**Does Prompt Design Impact Quality of Data Imputation by LLMs?**|Shreenidhi Srinivasan et.al.|[2506.04172v1](http://arxiv.org/abs/2506.04172v1)|null|
@@ -7418,7 +7418,7 @@ layout: default
 |**2025-06-04**|**SAAT: Synergistic Alternating Aggregation Transformer for Image Super-Resolution**|Jianfeng Wu et.al.|[2506.03740v1](http://arxiv.org/abs/2506.03740v1)|null|
 |**2025-06-04**|**OSGNet @ Ego4D Episodic Memory Challenge 2025**|Yisen Feng et.al.|[2506.03710v1](http://arxiv.org/abs/2506.03710v1)|null|
 |**2025-06-04**|**DSSAU-Net:U-Shaped Hybrid Network for Pubic Symphysis and Fetal Head Segmentation**|Zunhui Xia et.al.|[2506.03684v1](http://arxiv.org/abs/2506.03684v1)|null|
-|**2025-06-04**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654v1](http://arxiv.org/abs/2506.03654v1)|null|
+|**2025-06-05**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654v2](http://arxiv.org/abs/2506.03654v2)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119v1](http://arxiv.org/abs/2506.03119v1)|null|
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096v1](http://arxiv.org/abs/2506.03096v1)|null|
 |**2025-06-03**|**Dynamic Programming Techniques for Enhancing Cognitive Representation in Knowledge Tracing**|Lixiang Xu et.al.|[2506.02949v1](http://arxiv.org/abs/2506.02949v1)|null|
