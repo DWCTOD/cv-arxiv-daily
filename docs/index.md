@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 
 ## Video_Classification
 
@@ -7425,7 +7425,7 @@ layout: default
 |**2025-06-05**|**Modeling the high-brightness state of the recurrent nova T CrB as an enhanced mass-transfer event**|Wagner Schlindwein et.al.|[2506.05098v1](http://arxiv.org/abs/2506.05098v1)|null|
 |**2025-06-05**|**FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis**|Wenyan Xu et.al.|[2506.05019v1](http://arxiv.org/abs/2506.05019v1)|null|
 |**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008v1](http://arxiv.org/abs/2506.05008v1)|null|
-|**2025-06-05**|**Predicting ICU In-Hospital Mortality Using Adaptive Transformer Layer Fusion**|Han Wang et.al.|[2506.04924v1](http://arxiv.org/abs/2506.04924v1)|null|
+|**2025-06-06**|**Predicting ICU In-Hospital Mortality Using Adaptive Transformer Layer Fusion**|Han Wang et.al.|[2506.04924v2](http://arxiv.org/abs/2506.04924v2)|null|
 |**2025-06-05**|**Is Crane--Yetter fully extended?**|Luuk Stehouwer et.al.|[2506.04864v1](http://arxiv.org/abs/2506.04864v1)|null|
 |**2025-06-05**|**Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques**|Jisu An et.al.|[2506.04788v1](http://arxiv.org/abs/2506.04788v1)|null|
 |**2025-06-05**|**Exp4Fuse: A Rank Fusion Framework for Enhanced Sparse Retrieval using Large Language Model-based Query Expansion**|Lingyuan Liu et.al.|[2506.04760v1](http://arxiv.org/abs/2506.04760v1)|**[link](https://github.com/liuliuyuan6/Exp4Fuse)**|
