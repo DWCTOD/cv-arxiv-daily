@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-06, **TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**, Muhammad Sohail Danish et.al., Paper: [http://arxiv.org/abs/2506.06281v1](http://arxiv.org/abs/2506.06281v1)
+- 2025-06-06, **Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**, Yuanzhe Hu et.al., Paper: [http://arxiv.org/abs/2506.06280v1](http://arxiv.org/abs/2506.06280v1)
+- 2025-06-06, **ExAct: A Video-Language Benchmark for Expert Action Analysis**, Han Yi et.al., Paper: [http://arxiv.org/abs/2506.06277v1](http://arxiv.org/abs/2506.06277v1)
+- 2025-06-06, **Movie Facts and Fibs (MF$^2$): A Benchmark for Long Movie Understanding**, Emmanouil Zaranis et.al., Paper: [http://arxiv.org/abs/2506.06275v1](http://arxiv.org/abs/2506.06275v1)
+- 2025-06-06, **BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**, Jonathan Schmidt et.al., Paper: [http://arxiv.org/abs/2506.06271v1](http://arxiv.org/abs/2506.06271v1)
+- 2025-06-06, **Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**, Zofia Rudnicka et.al., Paper: [http://arxiv.org/abs/2506.06265v1](http://arxiv.org/abs/2506.06265v1)
+- 2025-06-06, **Tuning of altermagnetism by strain**, M. Khodas et.al., Paper: [http://arxiv.org/abs/2506.06257v1](http://arxiv.org/abs/2506.06257v1)
+- 2025-06-06, **Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision**, Yuping He et.al., Paper: [http://arxiv.org/abs/2506.06253v1](http://arxiv.org/abs/2506.06253v1)
+- 2025-06-06, **Explaining Matters: Leveraging Definitions and Semantic Expansion for Sexism Detection**, Sahrish Khan et.al., Paper: [http://arxiv.org/abs/2506.06238v1](http://arxiv.org/abs/2506.06238v1)
+- 2025-06-06, **Towards an Explainable Comparison and Alignment of Feature Embeddings**, Mohammad Jalali et.al., Paper: [http://arxiv.org/abs/2506.06231v1](http://arxiv.org/abs/2506.06231v1)
 - 2025-06-05, **VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**, Hanoona Rasheed et.al., Paper: [http://arxiv.org/abs/2506.05349v1](http://arxiv.org/abs/2506.05349v1)
 - 2025-06-05, **Neural Inverse Rendering from Propagating Light**, Anagh Malik et.al., Paper: [http://arxiv.org/abs/2506.05347v1](http://arxiv.org/abs/2506.05347v1)
 - 2025-06-05, **ContentV: Efficient Training of Video Generation Models with Limited Compute**, Wenfeng Lin et.al., Paper: [http://arxiv.org/abs/2506.05343v1](http://arxiv.org/abs/2506.05343v1)
@@ -7411,6 +7421,16 @@
 
 ## MultiModal
 
+- 2025-06-06, **TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**, Muhammad Sohail Danish et.al., Paper: [http://arxiv.org/abs/2506.06281v1](http://arxiv.org/abs/2506.06281v1)
+- 2025-06-06, **Quadratic Extended and Unscented Kalman Filter Updates**, Simone Servadio et.al., Paper: [http://arxiv.org/abs/2506.06256v1](http://arxiv.org/abs/2506.06256v1)
+- 2025-06-06, **Lightweight Prompt Biasing for Contextualized End-to-End ASR Systems**, Bo Ren et.al., Paper: [http://arxiv.org/abs/2506.06252v1](http://arxiv.org/abs/2506.06252v1)
+- 2025-06-06, **Vector Boson Fusion Signatures of Superheavy Majorana Neutrinos at Muon Colliders**, Parham Dehghani et.al., Paper: [http://arxiv.org/abs/2506.06159v1](http://arxiv.org/abs/2506.06159v1)
+- 2025-06-06, **A Novel Large-scale Crop Dataset and Dual-stream Transformer Method for Fine-grained Hierarchical Crop Classification from Integrated Hyperspectral EnMAP Data and Multispectral Sentinel-2 Time Series**, Wenyuan Li et.al., Paper: [http://arxiv.org/abs/2506.06155v1](http://arxiv.org/abs/2506.06155v1)
+- 2025-06-06, **Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems**, Haowei Wang et.al., Paper: [http://arxiv.org/abs/2506.06151v1](http://arxiv.org/abs/2506.06151v1)
+- 2025-06-06, **Bidirectional Image-Event Guided Low-Light Image Enhancement**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2506.06120v1](http://arxiv.org/abs/2506.06120v1)
+- 2025-06-06, **Label-Context-Dependent Internal Language Model Estimation for CTC**, Zijian Yang et.al., Paper: [http://arxiv.org/abs/2506.06096v1](http://arxiv.org/abs/2506.06096v1)
+- 2025-06-06, **Flexible Operator Fusion for Fast Sparse Transformer with Diverse Masking on GPU**, Wenhao Dai et.al., Paper: [http://arxiv.org/abs/2506.06095v1](http://arxiv.org/abs/2506.06095v1)
+- 2025-06-06, **Quark-universal $U(1)$ breaking scalar at the LHC**, Lorin Armbruster et.al., Paper: [http://arxiv.org/abs/2506.06068v1](http://arxiv.org/abs/2506.06068v1)
 - 2025-06-05, **VideoMolmo: Spatio-Temporal Grounding Meets Pointing**, Ghazi Shazan Ahmad et.al., Paper: [http://arxiv.org/abs/2506.05336v1](http://arxiv.org/abs/2506.05336v1)
 - 2025-06-05, **A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**, Ling-Yan Hung et.al., Paper: [http://arxiv.org/abs/2506.05324v1](http://arxiv.org/abs/2506.05324v1)
 - 2025-06-05, **The NTNU System at the S&I Challenge 2025 SLA Open Track**, Hong-Yun Lin et.al., Paper: [http://arxiv.org/abs/2506.05121v1](http://arxiv.org/abs/2506.05121v1)
