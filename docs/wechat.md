@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-09, **4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2506.08015v1](http://arxiv.org/abs/2506.08015v1)
+- 2025-06-09, **Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**, Xun Huang et.al., Paper: [http://arxiv.org/abs/2506.08009v1](http://arxiv.org/abs/2506.08009v1)
+- 2025-06-09, **Dreamland: Controllable World Creation with Simulator and Generative Models**, Sicheng Mo et.al., Paper: [http://arxiv.org/abs/2506.08006v1](http://arxiv.org/abs/2506.08006v1)
+- 2025-06-09, **Dynamic View Synthesis as an Inverse Problem**, Hidir Yesiltepe et.al., Paper: [http://arxiv.org/abs/2506.08004v1](http://arxiv.org/abs/2506.08004v1)
+- 2025-06-09, **Audio-Sync Video Generation with Multi-Stream Temporal Control**, Shuchen Weng et.al., Paper: [http://arxiv.org/abs/2506.08003v1](http://arxiv.org/abs/2506.08003v1)
+- 2025-06-09, **Generative Modeling of Weights: Generalization or Memorization?**, Boya Zeng et.al., Paper: [http://arxiv.org/abs/2506.07998v1](http://arxiv.org/abs/2506.07998v1)
+- 2025-06-09, **UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**, Ming-Feng Li et.al., Paper: [http://arxiv.org/abs/2506.07996v1](http://arxiv.org/abs/2506.07996v1)
+- 2025-06-09, **CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**, Mingquan Lin et.al., Paper: [http://arxiv.org/abs/2506.07984v1](http://arxiv.org/abs/2506.07984v1)
+- 2025-06-09, **Scalable Machine Learning Models for Predicting Quantum Transport in Disordered 2D Hexagonal Materials**, Seyed Mahdi Mastoor et.al., Paper: [http://arxiv.org/abs/2506.07983v1](http://arxiv.org/abs/2506.07983v1)
+- 2025-06-09, **CyberV: Cybernetics for Test-time Scaling in Video Understanding**, Jiahao Meng et.al., Paper: [http://arxiv.org/abs/2506.07971v1](http://arxiv.org/abs/2506.07971v1)
 - 2025-06-06, **TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**, Muhammad Sohail Danish et.al., Paper: [http://arxiv.org/abs/2506.06281v1](http://arxiv.org/abs/2506.06281v1)
 - 2025-06-06, **Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**, Yuanzhe Hu et.al., Paper: [http://arxiv.org/abs/2506.06280v1](http://arxiv.org/abs/2506.06280v1)
 - 2025-06-06, **ExAct: A Video-Language Benchmark for Expert Action Analysis**, Han Yi et.al., Paper: [http://arxiv.org/abs/2506.06277v1](http://arxiv.org/abs/2506.06277v1)
@@ -7421,6 +7431,16 @@
 
 ## MultiModal
 
+- 2025-06-09, **Predicting Situation Awareness from Physiological Signals**, Kieran J. Smith et.al., Paper: [http://arxiv.org/abs/2506.07930v1](http://arxiv.org/abs/2506.07930v1)
+- 2025-06-09, **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2506.07848v1](http://arxiv.org/abs/2506.07848v1)
+- 2025-06-09, **F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation**, Hengzhi Chen et.al., Paper: [http://arxiv.org/abs/2506.07847v1](http://arxiv.org/abs/2506.07847v1)
+- 2025-06-09, **M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**, Yongzhen Wang et.al., Paper: [http://arxiv.org/abs/2506.07814v1](http://arxiv.org/abs/2506.07814v1)
+- 2025-06-09, **Thermal Radiation Exchange between Nanoparticles Heated by Arc Discharge**, A. Povitsky et.al., Paper: [http://arxiv.org/abs/2506.07808v1](http://arxiv.org/abs/2506.07808v1)
+- 2025-06-09, **Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**, Beining Xu et.al., Paper: [http://arxiv.org/abs/2506.07779v1](http://arxiv.org/abs/2506.07779v1)
+- 2025-06-09, **SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**, Xuemei Chen et.al., Paper: [http://arxiv.org/abs/2506.07737v1](http://arxiv.org/abs/2506.07737v1)
+- 2025-06-09, **Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**, Xihua Sheng et.al., Paper: [http://arxiv.org/abs/2506.07709v1](http://arxiv.org/abs/2506.07709v1)
+- 2025-06-09, **NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**, Yuxiao Yang et.al., Paper: [http://arxiv.org/abs/2506.07698v1](http://arxiv.org/abs/2506.07698v1)
+- 2025-06-09, **HieraEdgeNet: A Multi-Scale Edge-Enhanced Framework for Automated Pollen Recognition**, Yuchong Long et.al., Paper: [http://arxiv.org/abs/2506.07637v1](http://arxiv.org/abs/2506.07637v1)
 - 2025-06-06, **TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**, Muhammad Sohail Danish et.al., Paper: [http://arxiv.org/abs/2506.06281v1](http://arxiv.org/abs/2506.06281v1)
 - 2025-06-06, **Quadratic Extended and Unscented Kalman Filter Updates**, Simone Servadio et.al., Paper: [http://arxiv.org/abs/2506.06256v1](http://arxiv.org/abs/2506.06256v1)
 - 2025-06-06, **Lightweight Prompt Biasing for Contextualized End-to-End ASR Systems**, Bo Ren et.al., Paper: [http://arxiv.org/abs/2506.06252v1](http://arxiv.org/abs/2506.06252v1)
