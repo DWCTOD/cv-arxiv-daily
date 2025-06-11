@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-10, **MagCache: Fast Video Generation with Magnitude-Aware Cache**, Zehong Ma et.al., Paper: [http://arxiv.org/abs/2506.09045v1](http://arxiv.org/abs/2506.09045v1)
+- 2025-06-10, **The Decoupled Risk Landscape in Performative Prediction**, Javier Sanguino et.al., Paper: [http://arxiv.org/abs/2506.09044v1](http://arxiv.org/abs/2506.09044v1)
+- 2025-06-10, **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2506.09042v1](http://arxiv.org/abs/2506.09042v1)
+- 2025-06-10, **Princeton365: A Diverse Dataset with Accurate Camera Pose**, Karhan Kayan et.al., Paper: [http://arxiv.org/abs/2506.09035v1](http://arxiv.org/abs/2506.09035v1)
+- 2025-06-10, **DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging**, Felix Wagner et.al., Paper: [http://arxiv.org/abs/2506.09024v1](http://arxiv.org/abs/2506.09024v1)
+- 2025-06-10, **Employing self-supervised learning models for cross-linguistic child speech maturity classification**, Theo Zhang et.al., Paper: [http://arxiv.org/abs/2506.08999v1](http://arxiv.org/abs/2506.08999v1)
+- 2025-06-10, **Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**, Chenyu Lian et.al., Paper: [http://arxiv.org/abs/2506.08990v1](http://arxiv.org/abs/2506.08990v1)
+- 2025-06-10, **Naturalistic Language-related Movie-Watching fMRI Task for Detecting Neurocognitive Decline and Disorder**, Yuejiao Wang et.al., Paper: [http://arxiv.org/abs/2506.08986v1](http://arxiv.org/abs/2506.08986v1)
+- 2025-06-10, **Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition**, Igor Kvasić et.al., Paper: [http://arxiv.org/abs/2506.08974v1](http://arxiv.org/abs/2506.08974v1)
+- 2025-06-10, **Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System**, Yuan Guo et.al., Paper: [http://arxiv.org/abs/2506.08972v1](http://arxiv.org/abs/2506.08972v1)
 - 2025-06-09, **4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2506.08015v1](http://arxiv.org/abs/2506.08015v1)
 - 2025-06-09, **Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**, Xun Huang et.al., Paper: [http://arxiv.org/abs/2506.08009v1](http://arxiv.org/abs/2506.08009v1)
 - 2025-06-09, **Dreamland: Controllable World Creation with Simulator and Generative Models**, Sicheng Mo et.al., Paper: [http://arxiv.org/abs/2506.08006v1](http://arxiv.org/abs/2506.08006v1)
@@ -7431,6 +7441,16 @@
 
 ## MultiModal
 
+- 2025-06-10, **BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models**, Amina Mollaysa et.al., Paper: [http://arxiv.org/abs/2506.08936v1](http://arxiv.org/abs/2506.08936v1)
+- 2025-06-10, **DiscoVLA: Discrepancy Reduction in Vision, Language, and Alignment for Parameter-Efficient Video-Text Retrieval**, Leqi Shen et.al., Paper: [http://arxiv.org/abs/2506.08887v1](http://arxiv.org/abs/2506.08887v1)
+- 2025-06-10, **RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation**, Jiayi Song et.al., Paper: [http://arxiv.org/abs/2506.08772v1](http://arxiv.org/abs/2506.08772v1)
+- 2025-06-10, **InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba**, Yuhang Wang et.al., Paper: [http://arxiv.org/abs/2506.08735v1](http://arxiv.org/abs/2506.08735v1)
+- 2025-06-10, **Enhancing Synthetic CT from CBCT via Multimodal Fusion: A Study on the Impact of CBCT Quality and Alignment**, Maximilian Tschuchnig et.al., Paper: [http://arxiv.org/abs/2506.08716v1](http://arxiv.org/abs/2506.08716v1)
+- 2025-06-10, **Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**, Peter Grönquist et.al., Paper: [http://arxiv.org/abs/2506.08650v1](http://arxiv.org/abs/2506.08650v1)
+- 2025-06-10, **ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network**, Feixiang Du et.al., Paper: [http://arxiv.org/abs/2506.08629v1](http://arxiv.org/abs/2506.08629v1)
+- 2025-06-10, **Noise Analysis and Hierarchical Adaptive Body State Estimator For Biped Robot Walking With ESVC Foot**, Boyang Chen et.al., Paper: [http://arxiv.org/abs/2506.08578v1](http://arxiv.org/abs/2506.08578v1)
+- 2025-06-10, **Short note on phase retrievable weaving fusion frames**, Animesh Bhandari et.al., Paper: [http://arxiv.org/abs/2506.08478v1](http://arxiv.org/abs/2506.08478v1)
+- 2025-06-10, **GPS Spoofing Attacks on AI-based Navigation Systems with Obstacle Avoidance in UAV**, Ji Hyuk Jung et.al., Paper: [http://arxiv.org/abs/2506.08445v1](http://arxiv.org/abs/2506.08445v1)
 - 2025-06-09, **Predicting Situation Awareness from Physiological Signals**, Kieran J. Smith et.al., Paper: [http://arxiv.org/abs/2506.07930v1](http://arxiv.org/abs/2506.07930v1)
 - 2025-06-09, **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2506.07848v1](http://arxiv.org/abs/2506.07848v1)
 - 2025-06-09, **F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation**, Hengzhi Chen et.al., Paper: [http://arxiv.org/abs/2506.07847v1](http://arxiv.org/abs/2506.07847v1)
