@@ -1,7 +1,17 @@
-> Updated on 2025.06.11
+> Updated on 2025.06.12
 
 ## Video_Classification
 
+- 2025-06-11, **DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**, Chieh Hubert Lin et.al., Paper: [http://arxiv.org/abs/2506.09997v1](http://arxiv.org/abs/2506.09997v1)
+- 2025-06-11, **PlayerOne: Egocentric World Simulator**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2506.09995v1](http://arxiv.org/abs/2506.09995v1)
+- 2025-06-11, **Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**, Amel Muminovic et.al., Paper: [http://arxiv.org/abs/2506.09992v1](http://arxiv.org/abs/2506.09992v1)
+- 2025-06-11, **Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes**, Yiming Dou et.al., Paper: [http://arxiv.org/abs/2506.09989v1](http://arxiv.org/abs/2506.09989v1)
+- 2025-06-11, **A Shortcut-aware Video-QA Benchmark for Physical Understanding via Minimal Video Pairs**, Benno Krojer et.al., Paper: [http://arxiv.org/abs/2506.09987v1](http://arxiv.org/abs/2506.09987v1)
+- 2025-06-11, **V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**, Mido Assran et.al., Paper: [http://arxiv.org/abs/2506.09985v1](http://arxiv.org/abs/2506.09985v1)
+- 2025-06-11, **InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2506.09984v1](http://arxiv.org/abs/2506.09984v1)
+- 2025-06-11, **ReSim: Reliable World Simulation for Autonomous Driving**, Jiazhi Yang et.al., Paper: [http://arxiv.org/abs/2506.09981v1](http://arxiv.org/abs/2506.09981v1)
+- 2025-06-11, **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**, Junfei Wu et.al., Paper: [http://arxiv.org/abs/2506.09965v1](http://arxiv.org/abs/2506.09965v1)
+- 2025-06-11, **Outside Knowledge Conversational Video (OKCV) Dataset -- Dialoguing over Videos**, Benjamin Reichman et.al., Paper: [http://arxiv.org/abs/2506.09953v1](http://arxiv.org/abs/2506.09953v1)
 - 2025-06-10, **MagCache: Fast Video Generation with Magnitude-Aware Cache**, Zehong Ma et.al., Paper: [http://arxiv.org/abs/2506.09045v1](http://arxiv.org/abs/2506.09045v1)
 - 2025-06-10, **The Decoupled Risk Landscape in Performative Prediction**, Javier Sanguino et.al., Paper: [http://arxiv.org/abs/2506.09044v1](http://arxiv.org/abs/2506.09044v1)
 - 2025-06-10, **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2506.09042v1](http://arxiv.org/abs/2506.09042v1)
@@ -7441,6 +7451,16 @@
 
 ## MultiModal
 
+- 2025-06-11, **CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2506.09897v1](http://arxiv.org/abs/2506.09897v1)
+- 2025-06-11, **DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**, Junli Deng et.al., Paper: [http://arxiv.org/abs/2506.09836v1](http://arxiv.org/abs/2506.09836v1)
+- 2025-06-11, **MMME: A Spontaneous Multi-Modal Micro-Expression Dataset Enabling Visual-Physiological Fusion**, Chuang Maa et.al., Paper: [http://arxiv.org/abs/2506.09834v1](http://arxiv.org/abs/2506.09834v1)
+- 2025-06-11, **Class Similarity-Based Multimodal Classification under Heterogeneous Category Sets**, Yangrui Zhu et.al., Paper: [http://arxiv.org/abs/2506.09745v1](http://arxiv.org/abs/2506.09745v1)
+- 2025-06-11, **MPFNet: A Multi-Prior Fusion Network with a Progressive Training Strategy for Micro-Expression Recognition**, Chuang Ma et.al., Paper: [http://arxiv.org/abs/2506.09735v1](http://arxiv.org/abs/2506.09735v1)
+- 2025-06-11, **AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale**, Minjong Cheon et.al., Paper: [http://arxiv.org/abs/2506.09733v1](http://arxiv.org/abs/2506.09733v1), Code: **[https://github.com/jmj2316/AtmosMJ/blob/main/README.md](https://github.com/jmj2316/AtmosMJ/blob/main/README.md)**
+- 2025-06-11, **MEDUSA: A Multimodal Deep Fusion Multi-Stage Training Framework for Speech Emotion Recognition in Naturalistic Conditions**, Georgios Chatzichristodoulou et.al., Paper: [http://arxiv.org/abs/2506.09556v1](http://arxiv.org/abs/2506.09556v1)
+- 2025-06-11, **Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**, Fatemeh Mohammadi Amin et.al., Paper: [http://arxiv.org/abs/2506.09552v1](http://arxiv.org/abs/2506.09552v1)
+- 2025-06-11, **DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects**, Guanghu Xie et.al., Paper: [http://arxiv.org/abs/2506.09491v1](http://arxiv.org/abs/2506.09491v1)
+- 2025-06-11, **New resonances at LHC**, Alain Le Yaouanc et.al., Paper: [http://arxiv.org/abs/2506.09490v1](http://arxiv.org/abs/2506.09490v1)
 - 2025-06-10, **BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models**, Amina Mollaysa et.al., Paper: [http://arxiv.org/abs/2506.08936v1](http://arxiv.org/abs/2506.08936v1)
 - 2025-06-10, **DiscoVLA: Discrepancy Reduction in Vision, Language, and Alignment for Parameter-Efficient Video-Text Retrieval**, Leqi Shen et.al., Paper: [http://arxiv.org/abs/2506.08887v1](http://arxiv.org/abs/2506.08887v1)
 - 2025-06-10, **RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation**, Jiayi Song et.al., Paper: [http://arxiv.org/abs/2506.08772v1](http://arxiv.org/abs/2506.08772v1)
