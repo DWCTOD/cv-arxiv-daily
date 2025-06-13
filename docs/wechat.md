@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-12, **InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model**, Junqi You et.al., Paper: [http://arxiv.org/abs/2506.10980v1](http://arxiv.org/abs/2506.10980v1)
+- 2025-06-12, **GenWorld: Towards Detecting AI-generated Real-world Simulation Videos**, Weiliang Chen et.al., Paper: [http://arxiv.org/abs/2506.10975v1](http://arxiv.org/abs/2506.10975v1)
+- 2025-06-12, **Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**, Justin Kerr et.al., Paper: [http://arxiv.org/abs/2506.10968v1](http://arxiv.org/abs/2506.10968v1)
+- 2025-06-12, **Bias-Switchable Row-Column Array Imaging using Fast Orthogonal Row-Column Electronic Scanning (FORCES) Compared with Conventional Row-Column Array Imaging**, Randy Palamar et.al., Paper: [http://arxiv.org/abs/2506.10958v1](http://arxiv.org/abs/2506.10958v1)
+- 2025-06-12, **Coupled reaction and diffusion governing interface evolution in solid-state batteries**, Jingxuan Ding et.al., Paper: [http://arxiv.org/abs/2506.10944v1](http://arxiv.org/abs/2506.10944v1)
+- 2025-06-12, **VINCIE: Unlocking In-context Image Editing from Video**, Leigang Qu et.al., Paper: [http://arxiv.org/abs/2506.10941v1](http://arxiv.org/abs/2506.10941v1)
+- 2025-06-12, **Video-Mediated Emotion Disclosure: A Study of Mental Health Vlogging by People with Schizophrenia on YouTube**, Jiaying Lizzy Liu et.al., Paper: [http://arxiv.org/abs/2506.10932v1](http://arxiv.org/abs/2506.10932v1)
+- 2025-06-12, **On feature selection in double-imbalanced data settings: a Random Forest approach**, Fabio Demaria et.al., Paper: [http://arxiv.org/abs/2506.10929v1](http://arxiv.org/abs/2506.10929v1)
+- 2025-06-12, **Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach**, Meredith VandeHaar et.al., Paper: [http://arxiv.org/abs/2506.10916v1](http://arxiv.org/abs/2506.10916v1)
+- 2025-06-12, **M4V: Multi-Modal Mamba for Text-to-Video Generation**, Jiancheng Huang et.al., Paper: [http://arxiv.org/abs/2506.10915v1](http://arxiv.org/abs/2506.10915v1)
 - 2025-06-11, **DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**, Chieh Hubert Lin et.al., Paper: [http://arxiv.org/abs/2506.09997v1](http://arxiv.org/abs/2506.09997v1)
 - 2025-06-11, **PlayerOne: Egocentric World Simulator**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2506.09995v1](http://arxiv.org/abs/2506.09995v1)
 - 2025-06-11, **Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**, Amel Muminovic et.al., Paper: [http://arxiv.org/abs/2506.09992v1](http://arxiv.org/abs/2506.09992v1)
@@ -7451,6 +7461,16 @@
 
 ## MultiModal
 
+- 2025-06-12, **Nonparametric estimation of an optimal treatment rule with fused randomized trials and missing effect modifiers**, Nicholas Williams et.al., Paper: [http://arxiv.org/abs/2506.10863v1](http://arxiv.org/abs/2506.10863v1)
+- 2025-06-12, **Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**, Andrea Moglia et.al., Paper: [http://arxiv.org/abs/2506.10825v1](http://arxiv.org/abs/2506.10825v1)
+- 2025-06-12, **Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**, Hui Yang et.al., Paper: [http://arxiv.org/abs/2506.10816v1](http://arxiv.org/abs/2506.10816v1)
+- 2025-06-12, **In-Hand Object Pose Estimation via Visual-Tactile Fusion**, Felix Nonnengießer et.al., Paper: [http://arxiv.org/abs/2506.10787v1](http://arxiv.org/abs/2506.10787v1)
+- 2025-06-12, **Precision phenomenology at multi-TeV muon colliders**, Stefano Frixione et.al., Paper: [http://arxiv.org/abs/2506.10733v1](http://arxiv.org/abs/2506.10733v1)
+- 2025-06-12, **Double neutral-current corrections to NLO electroweak leptonic cross sections**, Stefano Frixione et.al., Paper: [http://arxiv.org/abs/2506.10732v1](http://arxiv.org/abs/2506.10732v1)
+- 2025-06-12, **Construction of Kondo Chains by Engineering Porphyrin π-Radicals on Au(111)**, Yan Zhao et.al., Paper: [http://arxiv.org/abs/2506.10729v1](http://arxiv.org/abs/2506.10729v1)
+- 2025-06-12, **A Bayesian Multisource Fusion Model for Spatiotemporal PM2.5 in an Urban Setting**, Abi I. Riley et.al., Paper: [http://arxiv.org/abs/2506.10688v1](http://arxiv.org/abs/2506.10688v1)
+- 2025-06-12, **DanceChat: Large Language Model-Guided Music-to-Dance Generation**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2506.10574v1](http://arxiv.org/abs/2506.10574v1)
+- 2025-06-12, **SLICK: Selective Localization and Instance Calibration for Knowledge-Enhanced Car Damage Segmentation in Automotive Insurance**, Teerapong Panboonyuen et.al., Paper: [http://arxiv.org/abs/2506.10528v1](http://arxiv.org/abs/2506.10528v1)
 - 2025-06-11, **CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2506.09897v1](http://arxiv.org/abs/2506.09897v1)
 - 2025-06-11, **DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**, Junli Deng et.al., Paper: [http://arxiv.org/abs/2506.09836v1](http://arxiv.org/abs/2506.09836v1)
 - 2025-06-12, **MMME: A Spontaneous Multi-Modal Micro-Expression Dataset Enabling Visual-Physiological Fusion**, Chuang Ma et.al., Paper: [http://arxiv.org/abs/2506.09834v2](http://arxiv.org/abs/2506.09834v2)
