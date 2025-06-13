@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 
 ## Video_Classification
 
@@ -7461,7 +7461,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897v1](http://arxiv.org/abs/2506.09897v1)|null|
 |**2025-06-11**|**DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**|Junli Deng et.al.|[2506.09836v1](http://arxiv.org/abs/2506.09836v1)|null|
-|**2025-06-11**|**MMME: A Spontaneous Multi-Modal Micro-Expression Dataset Enabling Visual-Physiological Fusion**|Chuang Maa et.al.|[2506.09834v1](http://arxiv.org/abs/2506.09834v1)|null|
+|**2025-06-12**|**MMME: A Spontaneous Multi-Modal Micro-Expression Dataset Enabling Visual-Physiological Fusion**|Chuang Ma et.al.|[2506.09834v2](http://arxiv.org/abs/2506.09834v2)|null|
 |**2025-06-11**|**Class Similarity-Based Multimodal Classification under Heterogeneous Category Sets**|Yangrui Zhu et.al.|[2506.09745v1](http://arxiv.org/abs/2506.09745v1)|null|
 |**2025-06-11**|**MPFNet: A Multi-Prior Fusion Network with a Progressive Training Strategy for Micro-Expression Recognition**|Chuang Ma et.al.|[2506.09735v1](http://arxiv.org/abs/2506.09735v1)|null|
 |**2025-06-11**|**AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale**|Minjong Cheon et.al.|[2506.09733v1](http://arxiv.org/abs/2506.09733v1)|**[link](https://github.com/jmj2316/AtmosMJ/blob/main/README.md)**|
