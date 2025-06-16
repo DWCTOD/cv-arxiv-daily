@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-13, **crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023**, Navodini Wijethilake et.al., Paper: [http://arxiv.org/abs/2506.12006v1](http://arxiv.org/abs/2506.12006v1)
+- 2025-06-13, **Visual Pre-Training on Unlabeled Images using Reinforcement Learning**, Dibya Ghosh et.al., Paper: [http://arxiv.org/abs/2506.11967v1](http://arxiv.org/abs/2506.11967v1)
+- 2025-06-13, **Technical Evaluation of a Disruptive Approach in Homomorphic AI**, Eric Filiol et.al., Paper: [http://arxiv.org/abs/2506.11954v1](http://arxiv.org/abs/2506.11954v1)
+- 2025-06-13, **Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study**, Greta Damo et.al., Paper: [http://arxiv.org/abs/2506.11919v1](http://arxiv.org/abs/2506.11919v1)
+- 2025-06-13, **GeistBERT: Breathing Life into German NLP**, Raphael Scheible-Schmitt et.al., Paper: [http://arxiv.org/abs/2506.11903v1](http://arxiv.org/abs/2506.11903v1)
+- 2025-06-13, **A Neural Rejection System Against Universal Adversarial Perturbations in Radio Signal Classification**, Lu Zhang et.al., Paper: [http://arxiv.org/abs/2506.11901v1](http://arxiv.org/abs/2506.11901v1)
+- 2025-06-13, **Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**, Lu Zhang et.al., Paper: [http://arxiv.org/abs/2506.11892v1](http://arxiv.org/abs/2506.11892v1)
+- 2025-06-13, **Methods for evaluating the resolution of 3D data derived from satellite images**, Christina Selby et.al., Paper: [http://arxiv.org/abs/2506.11876v1](http://arxiv.org/abs/2506.11876v1)
+- 2025-06-13, **MindGrab for BrainChop: Fast and Accurate Skull Stripping for Command Line and Browser**, Armina Fani et.al., Paper: [http://arxiv.org/abs/2506.11860v1](http://arxiv.org/abs/2506.11860v1)
+- 2025-06-13, **3D Skin Segmentation Methods in Medical Imaging: A Comparison**, Martina Paccini et.al., Paper: [http://arxiv.org/abs/2506.11852v1](http://arxiv.org/abs/2506.11852v1)
 - 2025-06-12, **InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model**, Junqi You et.al., Paper: [http://arxiv.org/abs/2506.10980v1](http://arxiv.org/abs/2506.10980v1)
 - 2025-06-12, **GenWorld: Towards Detecting AI-generated Real-world Simulation Videos**, Weiliang Chen et.al., Paper: [http://arxiv.org/abs/2506.10975v1](http://arxiv.org/abs/2506.10975v1)
 - 2025-06-12, **Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**, Justin Kerr et.al., Paper: [http://arxiv.org/abs/2506.10968v1](http://arxiv.org/abs/2506.10968v1)
@@ -7461,6 +7471,16 @@
 
 ## MultiModal
 
+- 2025-06-13, **Comparison of schemes for highly loss tolerant photonic fusion based quantum computing**, Sara Bartolucci et.al., Paper: [http://arxiv.org/abs/2506.11975v1](http://arxiv.org/abs/2506.11975v1)
+- 2025-06-13, **Surfaces with Klein bottle topology occur in fusion reactor fields**, Christopher Berg Smiet et.al., Paper: [http://arxiv.org/abs/2506.11883v1](http://arxiv.org/abs/2506.11883v1)
+- 2025-06-13, **Vision-based Lifting of 2D Object Detections for Automated Driving**, Hendrik Königshof et.al., Paper: [http://arxiv.org/abs/2506.11839v1](http://arxiv.org/abs/2506.11839v1)
+- 2025-06-13, **Abstract Sound Fusion with Unconditioned Inversion Model**, Jing Liu et.al., Paper: [http://arxiv.org/abs/2506.11811v1](http://arxiv.org/abs/2506.11811v1)
+- 2025-06-13, **CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**, Byeongchan Lee et.al., Paper: [http://arxiv.org/abs/2506.11772v1](http://arxiv.org/abs/2506.11772v1)
+- 2025-06-13, **DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**, Muhammad Sarmad et.al., Paper: [http://arxiv.org/abs/2506.11764v1](http://arxiv.org/abs/2506.11764v1)
+- 2025-06-13, **Fusion of multi-source precipitation records via coordinate-based generative model**, Sencan Sun et.al., Paper: [http://arxiv.org/abs/2506.11698v1](http://arxiv.org/abs/2506.11698v1)
+- 2025-06-13, **DMAF-Net: An Effective Modality Rebalancing Framework for Incomplete Multi-Modal Medical Image Segmentation**, Libin Lan et.al., Paper: [http://arxiv.org/abs/2506.11691v1](http://arxiv.org/abs/2506.11691v1)
+- 2025-06-13, **Multivariate Time-series Transformer Embeddings for Light Curves**, Gabriel Chiong et.al., Paper: [http://arxiv.org/abs/2506.11637v1](http://arxiv.org/abs/2506.11637v1)
+- 2025-06-13, **Lightweight and Robust Multi-Channel End-to-End Speech Recognition with Spherical Harmonic Transform**, Xiangzhu Kong et.al., Paper: [http://arxiv.org/abs/2506.11630v1](http://arxiv.org/abs/2506.11630v1)
 - 2025-06-12, **Nonparametric estimation of an optimal treatment rule with fused randomized trials and missing effect modifiers**, Nicholas Williams et.al., Paper: [http://arxiv.org/abs/2506.10863v1](http://arxiv.org/abs/2506.10863v1)
 - 2025-06-12, **Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**, Andrea Moglia et.al., Paper: [http://arxiv.org/abs/2506.10825v1](http://arxiv.org/abs/2506.10825v1)
 - 2025-06-12, **Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**, Hui Yang et.al., Paper: [http://arxiv.org/abs/2506.10816v1](http://arxiv.org/abs/2506.10816v1)
