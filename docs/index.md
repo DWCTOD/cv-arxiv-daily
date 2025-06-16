@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 
 ## Video_Classification
 
@@ -7473,8 +7473,8 @@ layout: default
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825v1](http://arxiv.org/abs/2506.10825v1)|null|
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816v1](http://arxiv.org/abs/2506.10816v1)|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|null|
-|**2025-06-12**|**Precision phenomenology at multi-TeV muon colliders**|Stefano Frixione et.al.|[2506.10733v1](http://arxiv.org/abs/2506.10733v1)|null|
-|**2025-06-12**|**Double neutral-current corrections to NLO electroweak leptonic cross sections**|Stefano Frixione et.al.|[2506.10732v1](http://arxiv.org/abs/2506.10732v1)|null|
+|**2025-06-13**|**Precision phenomenology at multi-TeV muon colliders**|Stefano Frixione et.al.|[2506.10733v2](http://arxiv.org/abs/2506.10733v2)|null|
+|**2025-06-13**|**Double neutral-current corrections to NLO electroweak leptonic cross sections**|Stefano Frixione et.al.|[2506.10732v2](http://arxiv.org/abs/2506.10732v2)|null|
 |**2025-06-12**|**Construction of Kondo Chains by Engineering Porphyrin π-Radicals on Au(111)**|Yan Zhao et.al.|[2506.10729v1](http://arxiv.org/abs/2506.10729v1)|null|
 |**2025-06-12**|**A Bayesian Multisource Fusion Model for Spatiotemporal PM2.5 in an Urban Setting**|Abi I. Riley et.al.|[2506.10688v1](http://arxiv.org/abs/2506.10688v1)|null|
 |**2025-06-12**|**DanceChat: Large Language Model-Guided Music-to-Dance Generation**|Qing Wang et.al.|[2506.10574v1](http://arxiv.org/abs/2506.10574v1)|null|
