@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-17, **GMT: General Motion Tracking for Humanoid Whole-Body Control**, Zixuan Chen et.al., Paper: [http://arxiv.org/abs/2506.14770v1](http://arxiv.org/abs/2506.14770v1)
+- 2025-06-17, **On the Hardness of Bandit Learning**, Nataly Brukhim et.al., Paper: [http://arxiv.org/abs/2506.14746v1](http://arxiv.org/abs/2506.14746v1)
+- 2025-06-17, **SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2506.14742v1](http://arxiv.org/abs/2506.14742v1)
+- 2025-06-17, **Repulsive particle interactions enable selective information processing at cellular interfaces**, Jenna Elliott et.al., Paper: [http://arxiv.org/abs/2506.14739v1](http://arxiv.org/abs/2506.14739v1)
+- 2025-06-17, **Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**, Haley Duba-Sullivan et.al., Paper: [http://arxiv.org/abs/2506.14719v1](http://arxiv.org/abs/2506.14719v1)
+- 2025-06-17, **Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models**, Ling Li et.al., Paper: [http://arxiv.org/abs/2506.14674v1](http://arxiv.org/abs/2506.14674v1)
+- 2025-06-17, **Quantifying Diagnostic Signal Decay in Dementia: A National Study of Medicare Hospitalization Data**, Federica Spoto et.al., Paper: [http://arxiv.org/abs/2506.14669v1](http://arxiv.org/abs/2506.14669v1)
+- 2025-06-17, **DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification**, Matt Poyser et.al., Paper: [http://arxiv.org/abs/2506.14667v1](http://arxiv.org/abs/2506.14667v1)
+- 2025-06-17, **AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**, Leah von der Heyde et.al., Paper: [http://arxiv.org/abs/2506.14634v1](http://arxiv.org/abs/2506.14634v1)
+- 2025-06-17, **Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**, Taisei Kato et.al., Paper: [http://arxiv.org/abs/2506.14624v1](http://arxiv.org/abs/2506.14624v1)
 - 2025-06-16, **PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**, Lingteng Qiu et.al., Paper: [http://arxiv.org/abs/2506.13766v1](http://arxiv.org/abs/2506.13766v1)
 - 2025-06-16, **Touch begins where vision ends: Generalizable policies for contact-rich manipulation**, Zifan Zhao et.al., Paper: [http://arxiv.org/abs/2506.13762v1](http://arxiv.org/abs/2506.13762v1)
 - 2025-06-17, **VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**, Edward Li et.al., Paper: [http://arxiv.org/abs/2506.13754v2](http://arxiv.org/abs/2506.13754v2)
@@ -7481,6 +7491,16 @@
 
 ## MultiModal
 
+- 2025-06-17, **Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**, Francis G. VanGessel et.al., Paper: [http://arxiv.org/abs/2506.14710v1](http://arxiv.org/abs/2506.14710v1)
+- 2025-06-17, **Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**, Ni Ou et.al., Paper: [http://arxiv.org/abs/2506.14706v1](http://arxiv.org/abs/2506.14706v1)
+- 2025-06-17, **YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**, Dahang Wan et.al., Paper: [http://arxiv.org/abs/2506.14696v1](http://arxiv.org/abs/2506.14696v1)
+- 2025-06-17, **PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**, Ming Xu et.al., Paper: [http://arxiv.org/abs/2506.14596v1](http://arxiv.org/abs/2506.14596v1)
+- 2025-06-17, **GenerationPrograms: Fine-grained Attribution with Executable Programs**, David Wan et.al., Paper: [http://arxiv.org/abs/2506.14580v1](http://arxiv.org/abs/2506.14580v1)
+- 2025-06-17, **Exploring Diffusion with Test-Time Training on Efficient Image Restoration**, Rongchang Lu et.al., Paper: [http://arxiv.org/abs/2506.14541v1](http://arxiv.org/abs/2506.14541v1)
+- 2025-06-17, **Topological Contextuality and Quantum Representations**, Tzu-Miao Chou et.al., Paper: [http://arxiv.org/abs/2506.14537v1](http://arxiv.org/abs/2506.14537v1)
+- 2025-06-17, **M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**, Can Zheng et.al., Paper: [http://arxiv.org/abs/2506.14532v1](http://arxiv.org/abs/2506.14532v1)
+- 2025-06-17, **Integrating Radiomics with Deep Learning Enhances Multiple Sclerosis Lesion Delineation**, Nadezhda Alsahanova et.al., Paper: [http://arxiv.org/abs/2506.14524v1](http://arxiv.org/abs/2506.14524v1)
+- 2025-06-17, **RMIT-ADM+S at the SIGIR 2025 LiveRAG Challenge**, Kun Ran et.al., Paper: [http://arxiv.org/abs/2506.14516v1](http://arxiv.org/abs/2506.14516v1), Code: **[https://github.com/rmit-ir/GRAG-LiveRAG](https://github.com/rmit-ir/GRAG-LiveRAG)**
 - 2025-06-16, **Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**, Haoqing Li et.al., Paper: [http://arxiv.org/abs/2506.13733v1](http://arxiv.org/abs/2506.13733v1)
 - 2025-06-16, **Analytical models for the enhancement of fusion reactivity by turbulence**, Henry Fetsch et.al., Paper: [http://arxiv.org/abs/2506.13711v1](http://arxiv.org/abs/2506.13711v1)
 - 2025-06-16, **Quantifying stored energy release in irradiated YBa$_2$Cu$_3$O$_7$ through molecular dynamics annealing simulations**, Lauryn Kortman et.al., Paper: [http://arxiv.org/abs/2506.13625v1](http://arxiv.org/abs/2506.13625v1)
