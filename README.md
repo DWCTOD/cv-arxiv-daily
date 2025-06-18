@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|null|
+|**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|null|
 |**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746v1](http://arxiv.org/abs/2506.13746v1)|null|
 |**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733v1](http://arxiv.org/abs/2506.13733v1)|null|
 |**2025-06-16**|**Probabilistic patient risk profiling with pair-copula constructions**|Özge Şahin et.al.|[2506.13731v1](http://arxiv.org/abs/2506.13731v1)|null|
@@ -7489,8 +7489,8 @@
 |**2025-06-16**|**Analytical models for the enhancement of fusion reactivity by turbulence**|Henry Fetsch et.al.|[2506.13711v1](http://arxiv.org/abs/2506.13711v1)|null|
 |**2025-06-16**|**Quantifying stored energy release in irradiated YBa$_2$Cu$_3$O$_7$ through molecular dynamics annealing simulations**|Lauryn Kortman et.al.|[2506.13625v1](http://arxiv.org/abs/2506.13625v1)|null|
 |**2025-06-16**|**Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation**|Daniel Litinski et.al.|[2506.13619v1](http://arxiv.org/abs/2506.13619v1)|null|
-|**2025-06-16**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472v1](http://arxiv.org/abs/2506.13472v1)|null|
-|**2025-06-16**|**Self-Supervised Enhancement for Depth from a Lightweight ToF Sensor with Monocular Images**|Laiyan Ding et.al.|[2506.13444v1](http://arxiv.org/abs/2506.13444v1)|null|
+|**2025-06-17**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472v2](http://arxiv.org/abs/2506.13472v2)|null|
+|**2025-06-17**|**Self-Supervised Enhancement for Depth from a Lightweight ToF Sensor with Monocular Images**|Laiyan Ding et.al.|[2506.13444v2](http://arxiv.org/abs/2506.13444v2)|null|
 |**2025-06-16**|**Simple is what you need for efficient and accurate medical image segmentation**|Xiang Yu et.al.|[2506.13415v1](http://arxiv.org/abs/2506.13415v1)|null|
 |**2025-06-16**|**Hot pygmy dipole strength in nickel isotopes**|Amandeep Kaur et.al.|[2506.13354v1](http://arxiv.org/abs/2506.13354v1)|null|
 |**2025-06-16**|**Performance Analysis of Communication Signals for Localization in Underwater Sensor Networks**|Ashwani Koul et.al.|[2506.13330v1](http://arxiv.org/abs/2506.13330v1)|null|
