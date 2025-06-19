@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-18, **Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**, Kaifeng Zhang et.al., Paper: [http://arxiv.org/abs/2506.15680v1](http://arxiv.org/abs/2506.15680v1)
+- 2025-06-18, **Sekai: A Video Dataset towards World Exploration**, Zhen Li et.al., Paper: [http://arxiv.org/abs/2506.15675v1](http://arxiv.org/abs/2506.15675v1)
+- 2025-06-18, **UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**, Kai He et.al., Paper: [http://arxiv.org/abs/2506.15673v1](http://arxiv.org/abs/2506.15673v1)
+- 2025-06-18, **PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**, Wenhao Li et.al., Paper: [http://arxiv.org/abs/2506.15656v1](http://arxiv.org/abs/2506.15656v1)
+- 2025-06-18, **Oldies but Goldies: The Potential of Character N-grams for Romanian Texts**, Dana Lupsa et.al., Paper: [http://arxiv.org/abs/2506.15650v1](http://arxiv.org/abs/2506.15650v1)
+- 2025-06-18, **FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**, Karmesh Yadav et.al., Paper: [http://arxiv.org/abs/2506.15635v1](http://arxiv.org/abs/2506.15635v1)
+- 2025-06-18, **GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**, Modar Sulaiman et.al., Paper: [http://arxiv.org/abs/2506.15620v1](http://arxiv.org/abs/2506.15620v1)
+- 2025-06-18, **The Compositional Architecture of Regret in Large Language Models**, Xiangxiang Cui et.al., Paper: [http://arxiv.org/abs/2506.15617v1](http://arxiv.org/abs/2506.15617v1)
+- 2025-06-18, **TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data**, Kentaro Seki et.al., Paper: [http://arxiv.org/abs/2506.15614v1](http://arxiv.org/abs/2506.15614v1)
+- 2025-06-18, **BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**, Yuqing Lan et.al., Paper: [http://arxiv.org/abs/2506.15610v1](http://arxiv.org/abs/2506.15610v1)
 - 2025-06-17, **GMT: General Motion Tracking for Humanoid Whole-Body Control**, Zixuan Chen et.al., Paper: [http://arxiv.org/abs/2506.14770v1](http://arxiv.org/abs/2506.14770v1)
 - 2025-06-17, **On the Hardness of Bandit Learning**, Nataly Brukhim et.al., Paper: [http://arxiv.org/abs/2506.14746v1](http://arxiv.org/abs/2506.14746v1)
 - 2025-06-17, **SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2506.14742v1](http://arxiv.org/abs/2506.14742v1)
@@ -7491,6 +7501,16 @@
 
 ## MultiModal
 
+- 2025-06-18, **BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**, Yuqing Lan et.al., Paper: [http://arxiv.org/abs/2506.15610v1](http://arxiv.org/abs/2506.15610v1)
+- 2025-06-18, **DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2506.15576v1](http://arxiv.org/abs/2506.15576v1)
+- 2025-06-18, **Show-o2: Improved Native Unified Multimodal Models**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2506.15564v1](http://arxiv.org/abs/2506.15564v1)
+- 2025-06-18, **Foundation of Affective Computing and Interaction**, Changzeng Fu et.al., Paper: [http://arxiv.org/abs/2506.15497v1](http://arxiv.org/abs/2506.15497v1)
+- 2025-06-18, **MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**, Miaoxin Pan et.al., Paper: [http://arxiv.org/abs/2506.15402v1](http://arxiv.org/abs/2506.15402v1)
+- 2025-06-18, **MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**, Jun Zhu et.al., Paper: [http://arxiv.org/abs/2506.15276v1](http://arxiv.org/abs/2506.15276v1)
+- 2025-06-18, **Linearly Polarized Photon Fusion as a Precision Probe of the Tau Lepton Dipole Moments at Lepton Colliders**, Ding Yu Shao et.al., Paper: [http://arxiv.org/abs/2506.15245v1](http://arxiv.org/abs/2506.15245v1)
+- 2025-06-18, **Convolutional Feature Enhancement and Attention Fusion BiFPN for Ship Detection in SAR Images**, Liangjie Meng et.al., Paper: [http://arxiv.org/abs/2506.15231v1](http://arxiv.org/abs/2506.15231v1)
+- 2025-06-18, **DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**, Dan He et.al., Paper: [http://arxiv.org/abs/2506.15218v1](http://arxiv.org/abs/2506.15218v1)
+- 2025-06-18, **Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography**, Abdur Rahman et.al., Paper: [http://arxiv.org/abs/2506.15166v1](http://arxiv.org/abs/2506.15166v1)
 - 2025-06-17, **Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**, Francis G. VanGessel et.al., Paper: [http://arxiv.org/abs/2506.14710v1](http://arxiv.org/abs/2506.14710v1)
 - 2025-06-17, **Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**, Ni Ou et.al., Paper: [http://arxiv.org/abs/2506.14706v1](http://arxiv.org/abs/2506.14706v1)
 - 2025-06-18, **YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**, Dahang Wan et.al., Paper: [http://arxiv.org/abs/2506.14696v2](http://arxiv.org/abs/2506.14696v2)
