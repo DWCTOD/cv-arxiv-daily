@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 ## Video_Classification
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-06-17**|**Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models**|Ling Li et.al.|[2506.14674v1](http://arxiv.org/abs/2506.14674v1)|null|
 |**2025-06-17**|**Quantifying Diagnostic Signal Decay in Dementia: A National Study of Medicare Hospitalization Data**|Federica Spoto et.al.|[2506.14669v1](http://arxiv.org/abs/2506.14669v1)|null|
 |**2025-06-17**|**DDS-NAS: Dynamic Data Selection within Neural Architecture Search via On-line Hard Example Mining applied to Image Classification**|Matt Poyser et.al.|[2506.14667v1](http://arxiv.org/abs/2506.14667v1)|null|
-|**2025-06-17**|**AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**|Leah von der Heyde et.al.|[2506.14634v1](http://arxiv.org/abs/2506.14634v1)|null|
+|**2025-06-18**|**AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**|Leah von der Heyde et.al.|[2506.14634v2](http://arxiv.org/abs/2506.14634v2)|null|
 |**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624v1](http://arxiv.org/abs/2506.14624v1)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|null|
@@ -7501,7 +7501,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710v1](http://arxiv.org/abs/2506.14710v1)|null|
 |**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706v1](http://arxiv.org/abs/2506.14706v1)|null|
-|**2025-06-17**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696v1](http://arxiv.org/abs/2506.14696v1)|null|
+|**2025-06-18**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696v2](http://arxiv.org/abs/2506.14696v2)|null|
 |**2025-06-17**|**PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**|Ming Xu et.al.|[2506.14596v1](http://arxiv.org/abs/2506.14596v1)|null|
 |**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580v1](http://arxiv.org/abs/2506.14580v1)|null|
 |**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541v1](http://arxiv.org/abs/2506.14541v1)|null|
