@@ -7506,14 +7506,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
-|**2025-06-18**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576v1](http://arxiv.org/abs/2506.15576v1)|null|
-|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564v1](http://arxiv.org/abs/2506.15564v1)|null|
+|**2025-06-18**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576v1](http://arxiv.org/abs/2506.15576v1)|**[link](https://github.com/ten-mao/discrec)**|
+|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564v1](http://arxiv.org/abs/2506.15564v1)|**[link](https://github.com/showlab/show-o)**|
 |**2025-06-18**|**Foundation of Affective Computing and Interaction**|Changzeng Fu et.al.|[2506.15497v1](http://arxiv.org/abs/2506.15497v1)|null|
 |**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|null|
 |**2025-06-18**|**MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**|Jun Zhu et.al.|[2506.15276v1](http://arxiv.org/abs/2506.15276v1)|null|
 |**2025-06-18**|**Linearly Polarized Photon Fusion as a Precision Probe of the Tau Lepton Dipole Moments at Lepton Colliders**|Ding Yu Shao et.al.|[2506.15245v1](http://arxiv.org/abs/2506.15245v1)|null|
 |**2025-06-18**|**Convolutional Feature Enhancement and Attention Fusion BiFPN for Ship Detection in SAR Images**|Liangjie Meng et.al.|[2506.15231v1](http://arxiv.org/abs/2506.15231v1)|null|
-|**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218v1](http://arxiv.org/abs/2506.15218v1)|null|
+|**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218v1](http://arxiv.org/abs/2506.15218v1)|**[link](https://github.com/hedan-11/dm-fnet)**|
 |**2025-06-18**|**Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography**|Abdur Rahman et.al.|[2506.15166v1](http://arxiv.org/abs/2506.15166v1)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710v1](http://arxiv.org/abs/2506.14710v1)|null|
 |**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706v1](http://arxiv.org/abs/2506.14706v1)|null|
