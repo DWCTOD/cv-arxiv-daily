@@ -1,9 +1,9 @@
-> Updated on 2025.06.22
+> Updated on 2025.06.23
 
 ## Video_Classification
 
 - 2025-06-18, **Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**, Kaifeng Zhang et.al., Paper: [http://arxiv.org/abs/2506.15680v1](http://arxiv.org/abs/2506.15680v1)
-- 2025-06-18, **Sekai: A Video Dataset towards World Exploration**, Zhen Li et.al., Paper: [http://arxiv.org/abs/2506.15675v1](http://arxiv.org/abs/2506.15675v1)
+- 2025-06-20, **Sekai: A Video Dataset towards World Exploration**, Zhen Li et.al., Paper: [http://arxiv.org/abs/2506.15675v2](http://arxiv.org/abs/2506.15675v2)
 - 2025-06-18, **UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**, Kai He et.al., Paper: [http://arxiv.org/abs/2506.15673v1](http://arxiv.org/abs/2506.15673v1)
 - 2025-06-18, **PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**, Wenhao Li et.al., Paper: [http://arxiv.org/abs/2506.15656v1](http://arxiv.org/abs/2506.15656v1)
 - 2025-06-18, **Oldies but Goldies: The Potential of Character N-grams for Romanian Texts**, Dana Lupsa et.al., Paper: [http://arxiv.org/abs/2506.15650v1](http://arxiv.org/abs/2506.15650v1)
@@ -7503,7 +7503,7 @@
 
 - 2025-06-18, **BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**, Yuqing Lan et.al., Paper: [http://arxiv.org/abs/2506.15610v1](http://arxiv.org/abs/2506.15610v1)
 - 2025-06-18, **DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2506.15576v1](http://arxiv.org/abs/2506.15576v1), Code: **[https://github.com/ten-mao/discrec](https://github.com/ten-mao/discrec)**
-- 2025-06-18, **Show-o2: Improved Native Unified Multimodal Models**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2506.15564v1](http://arxiv.org/abs/2506.15564v1), Code: **[https://github.com/showlab/show-o](https://github.com/showlab/show-o)**
+- 2025-06-20, **Show-o2: Improved Native Unified Multimodal Models**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2506.15564v2](http://arxiv.org/abs/2506.15564v2), Code: **[https://github.com/showlab/show-o](https://github.com/showlab/show-o)**
 - 2025-06-18, **Foundation of Affective Computing and Interaction**, Changzeng Fu et.al., Paper: [http://arxiv.org/abs/2506.15497v1](http://arxiv.org/abs/2506.15497v1)
 - 2025-06-18, **MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**, Miaoxin Pan et.al., Paper: [http://arxiv.org/abs/2506.15402v1](http://arxiv.org/abs/2506.15402v1)
 - 2025-06-18, **MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**, Jun Zhu et.al., Paper: [http://arxiv.org/abs/2506.15276v1](http://arxiv.org/abs/2506.15276v1)
