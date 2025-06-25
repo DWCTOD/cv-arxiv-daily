@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852v1](http://arxiv.org/abs/2506.19852v1)|null|
+|**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851v1](http://arxiv.org/abs/2506.19851v1)|null|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850v1](http://arxiv.org/abs/2506.19850v1)|null|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840v1](http://arxiv.org/abs/2506.19840v1)|null|
+|**2025-06-24**|**Improving Progressive Generation with Decomposable Flow Matching**|Moayed Haji-Ali et.al.|[2506.19839v1](http://arxiv.org/abs/2506.19839v1)|null|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838v1](http://arxiv.org/abs/2506.19838v1)|null|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835v1](http://arxiv.org/abs/2506.19835v1)|null|
+|**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833v1](http://arxiv.org/abs/2506.19833v1)|null|
+|**2025-06-24**|**How Effectively Can BERT Models Interpret Context and Detect Bengali Communal Violent Text?**|Abdullah Khondoker et.al.|[2506.19831v1](http://arxiv.org/abs/2506.19831v1)|null|
+|**2025-06-24**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808v1](http://arxiv.org/abs/2506.19808v1)|null|
 |**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904v1](http://arxiv.org/abs/2506.18904v1)|null|
 |**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903v1](http://arxiv.org/abs/2506.18903v1)|null|
 |**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901v1](http://arxiv.org/abs/2506.18901v1)|null|
@@ -7525,6 +7535,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**|Nicolas Besse et.al.|[2506.19784v1](http://arxiv.org/abs/2506.19784v1)|null|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|null|
+|**2025-06-24**|**Quantum Resource Theories of Anyonic Entanglement**|Wenhao Ye et.al.|[2506.19735v1](http://arxiv.org/abs/2506.19735v1)|null|
+|**2025-06-24**|**Electromagnetic and Centrifugal Effects on Plasma Acceleration in the Magnetic Nozzle**|A. I. Smolyakov et.al.|[2506.19647v1](http://arxiv.org/abs/2506.19647v1)|null|
+|**2025-06-24**|**ConStellaration: A dataset of QI-like stellarator plasma boundaries and optimization benchmarks**|Santiago A. Cadena et.al.|[2506.19583v1](http://arxiv.org/abs/2506.19583v1)|null|
+|**2025-06-24**|**The time course of visuo-semantic representations in the human brain is captured by combining vision and language models**|Boyan Rong et.al.|[2506.19497v1](http://arxiv.org/abs/2506.19497v1)|null|
+|**2025-06-24**|**AMF-MedIT: An Efficient Align-Modulation-Fusion Framework for Medical Image-Tabular Data**|Congjing Yu et.al.|[2506.19439v1](http://arxiv.org/abs/2506.19439v1)|null|
+|**2025-06-24**|**A Global-Local Cross-Attention Network for Ultra-high Resolution Remote Sensing Image Semantic Segmentation**|Chen Yi et.al.|[2506.19406v1](http://arxiv.org/abs/2506.19406v1)|null|
+|**2025-06-24**|**Probing the Higgs boson CP properties in vector-boson fusion production in the $H\rightarrowτ^+τ^-$ channel with the ATLAS detector**|ATLAS Collaboration et.al.|[2506.19395v1](http://arxiv.org/abs/2506.19395v1)|null|
+|**2025-06-24**|**WebGuard++:Interpretable Malicious URL Detection via Bidirectional Fusion of HTML Subgraphs and Multi-Scale Convolutional BERT**|Ye Tian et.al.|[2506.19356v1](http://arxiv.org/abs/2506.19356v1)|null|
 |**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898v1](http://arxiv.org/abs/2506.18898v1)|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862v1](http://arxiv.org/abs/2506.18862v1)|null|
 |**2025-06-23**|**A Multi-view Divergence-Convergence Feature Augmentation Framework for Drug-related Microbes Prediction**|Xin An et.al.|[2506.18797v1](http://arxiv.org/abs/2506.18797v1)|null|
