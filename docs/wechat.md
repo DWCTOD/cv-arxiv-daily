@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-25, **Artificial Symmetry Breaking by Self-Interaction Error**, Lin Hou et.al., Paper: [http://arxiv.org/abs/2506.20662v1](http://arxiv.org/abs/2506.20662v1)
+- 2025-06-25, **EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**, Roi Bar-On et.al., Paper: [http://arxiv.org/abs/2506.20652v1](http://arxiv.org/abs/2506.20652v1)
+- 2025-06-25, **Disentangled representations of microscopy images**, Jacopo Dapueto et.al., Paper: [http://arxiv.org/abs/2506.20649v1](http://arxiv.org/abs/2506.20649v1)
+- 2025-06-25, **rd-spiral: An open-source Python library for learning 2D reaction-diffusion dynamics through pseudo-spectral method**, Sandy H. S. Herho et.al., Paper: [http://arxiv.org/abs/2506.20633v1](http://arxiv.org/abs/2506.20633v1), Code: **[https://github.com/sandyherho/rd_spiral](https://github.com/sandyherho/rd_spiral)**
+- 2025-06-25, **Weighted Mean Frequencies: a handcraft Fourier feature for 4D Flow MRI segmentation**, Simon Perrin et.al., Paper: [http://arxiv.org/abs/2506.20614v1](http://arxiv.org/abs/2506.20614v1)
+- 2025-06-25, **Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**, Ankit Shah et.al., Paper: [http://arxiv.org/abs/2506.20609v1](http://arxiv.org/abs/2506.20609v1)
+- 2025-06-25, **Video Perception Models for 3D Scene Synthesis**, Rui Huang et.al., Paper: [http://arxiv.org/abs/2506.20601v1](http://arxiv.org/abs/2506.20601v1)
+- 2025-06-25, **CogGen: A Learner-Centered Generative AI Architecture for Intelligent Tutoring with Programming Video**, Wengxi Li et.al., Paper: [http://arxiv.org/abs/2506.20600v1](http://arxiv.org/abs/2506.20600v1)
+- 2025-06-25, **WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration**, Chaojun Ni et.al., Paper: [http://arxiv.org/abs/2506.20590v1](http://arxiv.org/abs/2506.20590v1)
+- 2025-06-25, **TRIM: A Self-Supervised Video Summarization Framework Maximizing Temporal Relative Information and Representativeness**, Pritam Mishra et.al., Paper: [http://arxiv.org/abs/2506.20588v1](http://arxiv.org/abs/2506.20588v1)
 - 2025-06-24, **Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**, Xingyang Li et.al., Paper: [http://arxiv.org/abs/2506.19852v1](http://arxiv.org/abs/2506.19852v1)
 - 2025-06-24, **AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2506.19851v1](http://arxiv.org/abs/2506.19851v1)
 - 2025-06-24, **Unified Vision-Language-Action Model**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2506.19850v1](http://arxiv.org/abs/2506.19850v1)
@@ -7531,6 +7541,16 @@
 
 ## MultiModal
 
+- 2025-06-25, **SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection**, Ji Qi et.al., Paper: [http://arxiv.org/abs/2506.20599v1](http://arxiv.org/abs/2506.20599v1)
+- 2025-06-25, **Physics-Informed Machine Learning Regulated by Finite Element Analysis for Simulation Acceleration of Laser Powder Bed Fusion**, R. Sharma et.al., Paper: [http://arxiv.org/abs/2506.20537v1](http://arxiv.org/abs/2506.20537v1)
+- 2025-06-25, **Multimodal Representation Learning and Fusion**, Qihang Jin et.al., Paper: [http://arxiv.org/abs/2506.20494v1](http://arxiv.org/abs/2506.20494v1)
+- 2025-06-25, **Opinion Dynamics with Highly Oscillating Opinions**, Víctor A. Vargas-Pérez et.al., Paper: [http://arxiv.org/abs/2506.20472v1](http://arxiv.org/abs/2506.20472v1)
+- 2025-06-25, **Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images**, Fangyijie Wang et.al., Paper: [http://arxiv.org/abs/2506.20407v1](http://arxiv.org/abs/2506.20407v1)
+- 2025-06-25, **Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search**, Zhigong Zhou et.al., Paper: [http://arxiv.org/abs/2506.20330v1](http://arxiv.org/abs/2506.20330v1)
+- 2025-06-25, **Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**, Jingwen Wei et.al., Paper: [http://arxiv.org/abs/2506.20311v1](http://arxiv.org/abs/2506.20311v1)
+- 2025-06-25, **Breaking Spatial Boundaries: Spectral-Domain Registration Guided Hyperspectral and Multispectral Blind Fusion**, Kunjing Yang et.al., Paper: [http://arxiv.org/abs/2506.20293v1](http://arxiv.org/abs/2506.20293v1)
+- 2025-06-25, **Hierarchical Mask-Enhanced Dual Reconstruction Network for Few-Shot Fine-Grained Image Classification**, Ning Luo et.al., Paper: [http://arxiv.org/abs/2506.20263v1](http://arxiv.org/abs/2506.20263v1)
+- 2025-06-25, **A Transformer Based Handwriting Recognition System Jointly Using Online and Offline Features**, Ayush Lodh et.al., Paper: [http://arxiv.org/abs/2506.20255v1](http://arxiv.org/abs/2506.20255v1)
 - 2025-06-24, **Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**, Nicolas Besse et.al., Paper: [http://arxiv.org/abs/2506.19784v1](http://arxiv.org/abs/2506.19784v1)
 - 2025-06-24, **A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**, Shulan Ruan et.al., Paper: [http://arxiv.org/abs/2506.19769v1](http://arxiv.org/abs/2506.19769v1)
 - 2025-06-24, **Quantum Resource Theories of Anyonic Entanglement**, Wenhao Ye et.al., Paper: [http://arxiv.org/abs/2506.19735v1](http://arxiv.org/abs/2506.19735v1)
