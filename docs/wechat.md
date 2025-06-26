@@ -1,4 +1,4 @@
-> Updated on 2025.06.25
+> Updated on 2025.06.26
 
 ## Video_Classification
 
@@ -11,7 +11,7 @@
 - 2025-06-24, **MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**, Yucheng Zhou et.al., Paper: [http://arxiv.org/abs/2506.19835v1](http://arxiv.org/abs/2506.19835v1)
 - 2025-06-24, **Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**, Yubo Huang et.al., Paper: [http://arxiv.org/abs/2506.19833v1](http://arxiv.org/abs/2506.19833v1)
 - 2025-06-24, **How Effectively Can BERT Models Interpret Context and Detect Bengali Communal Violent Text?**, Abdullah Khondoker et.al., Paper: [http://arxiv.org/abs/2506.19831v1](http://arxiv.org/abs/2506.19831v1)
-- 2025-06-24, **One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**, Yitao Peng et.al., Paper: [http://arxiv.org/abs/2506.19808v1](http://arxiv.org/abs/2506.19808v1)
+- 2025-06-25, **One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**, Yitao Peng et.al., Paper: [http://arxiv.org/abs/2506.19808v2](http://arxiv.org/abs/2506.19808v2)
 - 2025-06-23, **TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2506.18904v1](http://arxiv.org/abs/2506.18904v1)
 - 2025-06-23, **VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**, Runjia Li et.al., Paper: [http://arxiv.org/abs/2506.18903v1](http://arxiv.org/abs/2506.18903v1)
 - 2025-06-23, **From Virtual Games to Real-World Play**, Wenqiang Sun et.al., Paper: [http://arxiv.org/abs/2506.18901v1](http://arxiv.org/abs/2506.18901v1)
