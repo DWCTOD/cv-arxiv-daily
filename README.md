@@ -1,4 +1,4 @@
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 
 ## Video_Classification
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
 |**2025-06-27**|**Single-shot HDR using conventional image sensor shutter functions and optical randomization**|Xiang Dai et.al.|[2506.22426v1](http://arxiv.org/abs/2506.22426v1)|null|
-|**2025-06-27**|**Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**|Anirban Ray et.al.|[2506.22397v1](http://arxiv.org/abs/2506.22397v1)|null|
+|**2025-06-30**|**Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**|Anirban Ray et.al.|[2506.22397v2](http://arxiv.org/abs/2506.22397v2)|null|
 |**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385v1](http://arxiv.org/abs/2506.22385v1)|null|
 |**2025-06-27**|**Topological Defect Propagation to Classify Knitted Fabrics**|Daisuke S. Shimamoto et.al.|[2506.22369v1](http://arxiv.org/abs/2506.22369v1)|null|
 |**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360v1](http://arxiv.org/abs/2506.22360v1)|null|
