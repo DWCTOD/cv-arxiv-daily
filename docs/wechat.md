@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-06-30, **How to Design and Train Your Implicit Neural Representation for Video Compression**, Matthew Gwilliam et.al., Paper: [http://arxiv.org/abs/2506.24127v1](http://arxiv.org/abs/2506.24127v1)
+- 2025-06-30, **TextMesh4D: High-Quality Text-to-4D Mesh Generation**, Sisi Dai et.al., Paper: [http://arxiv.org/abs/2506.24121v1](http://arxiv.org/abs/2506.24121v1)
+- 2025-06-30, **Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**, Nianrui Fu et.al., Paper: [http://arxiv.org/abs/2506.24115v1](http://arxiv.org/abs/2506.24115v1)
+- 2025-06-30, **Epona: Autoregressive Diffusion World Model for Autonomous Driving**, Kaiwen Zhang et.al., Paper: [http://arxiv.org/abs/2506.24113v1](http://arxiv.org/abs/2506.24113v1)
+- 2025-06-30, **MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction**, Antoine Guédon et.al., Paper: [http://arxiv.org/abs/2506.24096v1](http://arxiv.org/abs/2506.24096v1)
+- 2025-06-30, **SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks**, Rahul Kumar et.al., Paper: [http://arxiv.org/abs/2506.24081v1](http://arxiv.org/abs/2506.24081v1)
+- 2025-06-30, **C3VDv2 -- Colonoscopy 3D video dataset with enhanced realism**, Mayank V. Golhar et.al., Paper: [http://arxiv.org/abs/2506.24074v1](http://arxiv.org/abs/2506.24074v1)
+- 2025-06-30, **Spectroscopy of drive-induced unwanted state transitions in superconducting circuits**, W. Dai et.al., Paper: [http://arxiv.org/abs/2506.24070v1](http://arxiv.org/abs/2506.24070v1)
+- 2025-06-30, **Evolution models with time-dependent coefficients in friction and viscoelastic damping terms**, Halit Sevki Aslan et.al., Paper: [http://arxiv.org/abs/2506.24058v1](http://arxiv.org/abs/2506.24058v1)
+- 2025-06-30, **Ella: Embodied Social Agents with Lifelong Memory**, Hongxin Zhang et.al., Paper: [http://arxiv.org/abs/2506.24019v1](http://arxiv.org/abs/2506.24019v1)
 - 2025-06-27, **Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**, Yuhao Liu et.al., Paper: [http://arxiv.org/abs/2506.22432v1](http://arxiv.org/abs/2506.22432v1)
 - 2025-06-27, **Single-shot HDR using conventional image sensor shutter functions and optical randomization**, Xiang Dai et.al., Paper: [http://arxiv.org/abs/2506.22426v1](http://arxiv.org/abs/2506.22426v1)
 - 2025-06-30, **Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**, Anirban Ray et.al., Paper: [http://arxiv.org/abs/2506.22397v2](http://arxiv.org/abs/2506.22397v2)
@@ -7561,6 +7571,16 @@
 
 ## MultiModal
 
+- 2025-06-30, **Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**, Yang Dai et.al., Paper: [http://arxiv.org/abs/2506.23940v1](http://arxiv.org/abs/2506.23940v1)
+- 2025-06-30, **Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**, Ce Wang et.al., Paper: [http://arxiv.org/abs/2506.23801v1](http://arxiv.org/abs/2506.23801v1)
+- 2025-06-30, **Visual Textualization for Image Prompted Object Detection**, Yongjian Wu et.al., Paper: [http://arxiv.org/abs/2506.23785v1](http://arxiv.org/abs/2506.23785v1)
+- 2025-06-30, **Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**, Shiao Wang et.al., Paper: [http://arxiv.org/abs/2506.23783v1](http://arxiv.org/abs/2506.23783v1)
+- 2025-06-30, **Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**, Zheng Fang et.al., Paper: [http://arxiv.org/abs/2506.23759v1](http://arxiv.org/abs/2506.23759v1)
+- 2025-06-30, **Proteus-ID: ID-Consistent and Motion-Coherent Video Customization**, Guiyu Zhang et.al., Paper: [http://arxiv.org/abs/2506.23729v1](http://arxiv.org/abs/2506.23729v1)
+- 2025-06-30, **MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction**, Lingtong Zhang et.al., Paper: [http://arxiv.org/abs/2506.23701v1](http://arxiv.org/abs/2506.23701v1)
+- 2025-06-30, **MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation**, Peiting Tian et.al., Paper: [http://arxiv.org/abs/2506.23700v1](http://arxiv.org/abs/2506.23700v1)
+- 2025-06-30, **Large condensation in enriched $\infty$-categories**, Devon Stockall et.al., Paper: [http://arxiv.org/abs/2506.23632v1](http://arxiv.org/abs/2506.23632v1)
+- 2025-06-30, **A Nonlinear Low-rank Representation Model with Convolutional Neural Network for Imputing Water Quality Data**, Xin Liao et.al., Paper: [http://arxiv.org/abs/2506.23629v1](http://arxiv.org/abs/2506.23629v1)
 - 2025-06-27, **QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**, Danush Khanna et.al., Paper: [http://arxiv.org/abs/2506.22396v1](http://arxiv.org/abs/2506.22396v1)
 - 2025-06-27, **Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**, YongKyung Oh et.al., Paper: [http://arxiv.org/abs/2506.22393v1](http://arxiv.org/abs/2506.22393v1)
 - 2025-06-27, **Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass**, Joe Johnson et.al., Paper: [http://arxiv.org/abs/2506.22364v1](http://arxiv.org/abs/2506.22364v1)
