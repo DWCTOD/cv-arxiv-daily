@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-02, **How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**, Rahul Ramachandran et.al., Paper: [http://arxiv.org/abs/2507.01955v1](http://arxiv.org/abs/2507.01955v1)
+- 2025-07-02, **Kwai Keye-VL Technical Report**, Kwai Keye Team et.al., Paper: [http://arxiv.org/abs/2507.01949v1](http://arxiv.org/abs/2507.01949v1)
+- 2025-07-02, **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**, Nan Chen et.al., Paper: [http://arxiv.org/abs/2507.01945v1](http://arxiv.org/abs/2507.01945v1)
+- 2025-07-02, **CI-VID: A Coherent Interleaved Text-Video Dataset**, Yiming Ju et.al., Paper: [http://arxiv.org/abs/2507.01938v1](http://arxiv.org/abs/2507.01938v1)
+- 2025-07-02, **evMLP: An Efficient Event-Driven MLP Architecture for Vision**, Zhentan Zheng et.al., Paper: [http://arxiv.org/abs/2507.01927v1](http://arxiv.org/abs/2507.01927v1)
+- 2025-07-02, **Advancing Magnetic Materials Discovery -- A structure-based machine learning approach for magnetic ordering and magnetic moment prediction**, Apoorv Verma et.al., Paper: [http://arxiv.org/abs/2507.01913v1](http://arxiv.org/abs/2507.01913v1)
+- 2025-07-02, **Future Slot Prediction for Unsupervised Object Discovery in Surgical Video**, Guiqiu Liao et.al., Paper: [http://arxiv.org/abs/2507.01882v1](http://arxiv.org/abs/2507.01882v1)
+- 2025-07-02, **A computationally frugal open-source foundation model for thoracic disease detection in lung cancer screening programs**, Niccolò McConnell et.al., Paper: [http://arxiv.org/abs/2507.01881v1](http://arxiv.org/abs/2507.01881v1)
+- 2025-07-02, **Locally Rotationally Symmetric Spacetimes in Einstein-Cartan Theory and Their Classification**, Ujjwal Agarwal et.al., Paper: [http://arxiv.org/abs/2507.01840v1](http://arxiv.org/abs/2507.01840v1)
+- 2025-07-02, **mGRADE: Minimal Recurrent Gating Meets Delay Convolutions for Lightweight Sequence Modeling**, Tristan Torchet et.al., Paper: [http://arxiv.org/abs/2507.01829v1](http://arxiv.org/abs/2507.01829v1)
 - 2025-06-30, **How to Design and Train Your Implicit Neural Representation for Video Compression**, Matthew Gwilliam et.al., Paper: [http://arxiv.org/abs/2506.24127v1](http://arxiv.org/abs/2506.24127v1)
 - 2025-06-30, **TextMesh4D: High-Quality Text-to-4D Mesh Generation**, Sisi Dai et.al., Paper: [http://arxiv.org/abs/2506.24121v1](http://arxiv.org/abs/2506.24121v1)
 - 2025-06-30, **Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**, Nianrui Fu et.al., Paper: [http://arxiv.org/abs/2506.24115v1](http://arxiv.org/abs/2506.24115v1)
@@ -7571,6 +7581,16 @@
 
 ## MultiModal
 
+- 2025-07-02, **AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**, Sixiang Chen et.al., Paper: [http://arxiv.org/abs/2507.01961v1](http://arxiv.org/abs/2507.01961v1)
+- 2025-07-02, **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**, Nan Chen et.al., Paper: [http://arxiv.org/abs/2507.01945v1](http://arxiv.org/abs/2507.01945v1)
+- 2025-07-02, **3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**, Ranjan Sapkota et.al., Paper: [http://arxiv.org/abs/2507.01912v1](http://arxiv.org/abs/2507.01912v1)
+- 2025-07-02, **FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**, Peng Zheng et.al., Paper: [http://arxiv.org/abs/2507.01792v1](http://arxiv.org/abs/2507.01792v1)
+- 2025-07-02, **Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition**, Muzammil Behzad et.al., Paper: [http://arxiv.org/abs/2507.01673v1](http://arxiv.org/abs/2507.01673v1)
+- 2025-07-02, **What does really matter in image goal navigation?**, Gianluca Monaci et.al., Paper: [http://arxiv.org/abs/2507.01667v1](http://arxiv.org/abs/2507.01667v1)
+- 2025-07-02, **Weak Hopf tube algebra for domain walls between 2d gapped phases of Turaev-Viro TQFTs**, Zhian Jia et.al., Paper: [http://arxiv.org/abs/2507.01515v1](http://arxiv.org/abs/2507.01515v1)
+- 2025-07-02, **What Really Matters for Robust Multi-Sensor HD Map Construction?**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2507.01484v1](http://arxiv.org/abs/2507.01484v1)
+- 2025-07-02, **OoDDINO:A Multi-level Framework for Anomaly Segmentation on Complex Road Scenes**, Yuxing Liu et.al., Paper: [http://arxiv.org/abs/2507.01455v1](http://arxiv.org/abs/2507.01455v1)
+- 2025-07-02, **Parton-shower and fixed-order QCD effects in Higgs-boson production in weak-boson fusion and its decays to bottom quarks**, Arnd Behring et.al., Paper: [http://arxiv.org/abs/2507.01448v1](http://arxiv.org/abs/2507.01448v1)
 - 2025-07-01, **Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**, Yang Dai et.al., Paper: [http://arxiv.org/abs/2506.23940v2](http://arxiv.org/abs/2506.23940v2)
 - 2025-06-30, **Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**, Ce Wang et.al., Paper: [http://arxiv.org/abs/2506.23801v1](http://arxiv.org/abs/2506.23801v1)
 - 2025-06-30, **Visual Textualization for Image Prompted Object Detection**, Yongjian Wu et.al., Paper: [http://arxiv.org/abs/2506.23785v1](http://arxiv.org/abs/2506.23785v1)
