@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-03, **MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**, Renhao Wang et.al., Paper: [http://arxiv.org/abs/2507.02864v1](http://arxiv.org/abs/2507.02864v1)
+- 2025-07-03, **RefTok: Reference-Based Tokenization for Video Generation**, Xiang Fan et.al., Paper: [http://arxiv.org/abs/2507.02862v1](http://arxiv.org/abs/2507.02862v1)
+- 2025-07-03, **LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**, Zhening Huang et.al., Paper: [http://arxiv.org/abs/2507.02861v1](http://arxiv.org/abs/2507.02861v1)
+- 2025-07-03, **Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2507.02860v1](http://arxiv.org/abs/2507.02860v1)
+- 2025-07-03, **AnyI2V: Animating Any Conditional Image with Motion Control**, Ziye Li et.al., Paper: [http://arxiv.org/abs/2507.02857v1](http://arxiv.org/abs/2507.02857v1)
+- 2025-07-03, **Classification and Reduction of Homogeneous Star Products**, Marvin Dippell et.al., Paper: [http://arxiv.org/abs/2507.02820v1](http://arxiv.org/abs/2507.02820v1)
+- 2025-07-03, **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2507.02813v1](http://arxiv.org/abs/2507.02813v1)
+- 2025-07-03, **HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars**, Gent Serifi et.al., Paper: [http://arxiv.org/abs/2507.02803v1](http://arxiv.org/abs/2507.02803v1)
+- 2025-07-03, **From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**, Xiangfeng Wang et.al., Paper: [http://arxiv.org/abs/2507.02790v1](http://arxiv.org/abs/2507.02790v1)
+- 2025-07-03, **From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**, Danrong Zhang et.al., Paper: [http://arxiv.org/abs/2507.02781v1](http://arxiv.org/abs/2507.02781v1)
 - 2025-07-02, **How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**, Rahul Ramachandran et.al., Paper: [http://arxiv.org/abs/2507.01955v1](http://arxiv.org/abs/2507.01955v1)
 - 2025-07-02, **Kwai Keye-VL Technical Report**, Kwai Keye Team et.al., Paper: [http://arxiv.org/abs/2507.01949v1](http://arxiv.org/abs/2507.01949v1)
 - 2025-07-02, **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**, Nan Chen et.al., Paper: [http://arxiv.org/abs/2507.01945v1](http://arxiv.org/abs/2507.01945v1)
@@ -7581,6 +7591,16 @@
 
 ## MultiModal
 
+- 2025-07-03, **Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**, Yuqi Wu et.al., Paper: [http://arxiv.org/abs/2507.02863v1](http://arxiv.org/abs/2507.02863v1)
+- 2025-07-03, **USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**, Ying Yu et.al., Paper: [http://arxiv.org/abs/2507.02827v1](http://arxiv.org/abs/2507.02827v1)
+- 2025-07-03, **Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**, Shiyi Liu et.al., Paper: [http://arxiv.org/abs/2507.02724v1](http://arxiv.org/abs/2507.02724v1)
+- 2025-07-03, **MPF: Aligning and Debiasing Language Models post Deployment via Multi Perspective Fusion**, Xin Guan et.al., Paper: [http://arxiv.org/abs/2507.02595v1](http://arxiv.org/abs/2507.02595v1)
+- 2025-07-03, **A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion**, Maryem Fadili et.al., Paper: [http://arxiv.org/abs/2507.02430v1](http://arxiv.org/abs/2507.02430v1)
+- 2025-07-03, **Wildlife Target Re-Identification Using Self-supervised Learning in Non-Urban Settings**, Mufhumudzi Muthivhi et.al., Paper: [http://arxiv.org/abs/2507.02403v1](http://arxiv.org/abs/2507.02403v1)
+- 2025-07-03, **Holistic Tokenizer for Autoregressive Image Generation**, Anlin Zheng et.al., Paper: [http://arxiv.org/abs/2507.02358v1](http://arxiv.org/abs/2507.02358v1)
+- 2025-07-03, **DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation**, Yunhan Yang et.al., Paper: [http://arxiv.org/abs/2507.02299v1](http://arxiv.org/abs/2507.02299v1)
+- 2025-07-03, **CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2507.02245v1](http://arxiv.org/abs/2507.02245v1)
+- 2025-07-03, **Public perspectives on the design of fusion energy facilities**, Nathan Kawamoto et.al., Paper: [http://arxiv.org/abs/2507.02207v1](http://arxiv.org/abs/2507.02207v1)
 - 2025-07-03, **AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**, Sixiang Chen et.al., Paper: [http://arxiv.org/abs/2507.01961v2](http://arxiv.org/abs/2507.01961v2)
 - 2025-07-02, **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**, Nan Chen et.al., Paper: [http://arxiv.org/abs/2507.01945v1](http://arxiv.org/abs/2507.01945v1)
 - 2025-07-02, **3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**, Ranjan Sapkota et.al., Paper: [http://arxiv.org/abs/2507.01912v1](http://arxiv.org/abs/2507.01912v1)
