@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-07, **Spatio-Temporal LLM: Reasoning about Environments and Actions**, Haozhen Zheng et.al., Paper: [http://arxiv.org/abs/2507.05258v1](http://arxiv.org/abs/2507.05258v1)
+- 2025-07-07, **StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**, Meng Wei et.al., Paper: [http://arxiv.org/abs/2507.05240v1](http://arxiv.org/abs/2507.05240v1)
+- 2025-07-07, **Bridging Expressivity and Scalability with Adaptive Unitary SSMs**, Arjun Karuvally et.al., Paper: [http://arxiv.org/abs/2507.05238v1](http://arxiv.org/abs/2507.05238v1)
+- 2025-07-07, **Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**, Markiyan Kostiv et.al., Paper: [http://arxiv.org/abs/2507.05229v1](http://arxiv.org/abs/2507.05229v1)
+- 2025-07-07, **MedGemma Technical Report**, Andrew Sellergren et.al., Paper: [http://arxiv.org/abs/2507.05201v1](http://arxiv.org/abs/2507.05201v1)
+- 2025-07-07, **EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**, Boyuan Wang et.al., Paper: [http://arxiv.org/abs/2507.05198v1](http://arxiv.org/abs/2507.05198v1)
+- 2025-07-07, **Light-cone vector superspace and continuous-spin field in AdS**, R. R. Metsaev et.al., Paper: [http://arxiv.org/abs/2507.05194v1](http://arxiv.org/abs/2507.05194v1)
+- 2025-07-07, **RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis**, Songxiao Yang et.al., Paper: [http://arxiv.org/abs/2507.05193v1](http://arxiv.org/abs/2507.05193v1)
+- 2025-07-07, **QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**, Hoang-Quan Nguyen et.al., Paper: [http://arxiv.org/abs/2507.05190v1](http://arxiv.org/abs/2507.05190v1)
+- 2025-07-07, **Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**, Prashanth Reddy Putta et.al., Paper: [http://arxiv.org/abs/2507.05189v1](http://arxiv.org/abs/2507.05189v1)
 - 2025-07-03, **MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**, Renhao Wang et.al., Paper: [http://arxiv.org/abs/2507.02864v1](http://arxiv.org/abs/2507.02864v1)
 - 2025-07-03, **RefTok: Reference-Based Tokenization for Video Generation**, Xiang Fan et.al., Paper: [http://arxiv.org/abs/2507.02862v1](http://arxiv.org/abs/2507.02862v1)
 - 2025-07-03, **LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**, Zhening Huang et.al., Paper: [http://arxiv.org/abs/2507.02861v1](http://arxiv.org/abs/2507.02861v1)
@@ -7591,6 +7601,16 @@
 
 ## MultiModal
 
+- 2025-07-07, **NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**, Qucheng Peng et.al., Paper: [http://arxiv.org/abs/2507.05227v1](http://arxiv.org/abs/2507.05227v1)
+- 2025-07-07, **An operator algebraic approach to fusion category symmetry on the lattice**, David E. Evans et.al., Paper: [http://arxiv.org/abs/2507.05185v1](http://arxiv.org/abs/2507.05185v1)
+- 2025-07-07, **Differential Attention for Multimodal Crisis Event Analysis**, Nusrat Munia et.al., Paper: [http://arxiv.org/abs/2507.05165v1](http://arxiv.org/abs/2507.05165v1)
+- 2025-07-07, **LAID: Lightweight AI-Generated Image Detection in Spatial and Spectral Domains**, Nicholas Chivaran et.al., Paper: [http://arxiv.org/abs/2507.05162v1](http://arxiv.org/abs/2507.05162v1)
+- 2025-07-07, **Macroscopic Structural Light Absorbers**, Jan M. Kaster et.al., Paper: [http://arxiv.org/abs/2507.05152v1](http://arxiv.org/abs/2507.05152v1)
+- 2025-07-07, **Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression**, Norman M. Cao et.al., Paper: [http://arxiv.org/abs/2507.05067v1](http://arxiv.org/abs/2507.05067v1)
+- 2025-07-07, **Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport**, Qinkai Yu et.al., Paper: [http://arxiv.org/abs/2507.04999v1](http://arxiv.org/abs/2507.04999v1)
+- 2025-07-07, **Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**, Chanh Nguyen et.al., Paper: [http://arxiv.org/abs/2507.04969v1](http://arxiv.org/abs/2507.04969v1)
+- 2025-07-07, **InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior**, Minghao Wen et.al., Paper: [http://arxiv.org/abs/2507.04961v1](http://arxiv.org/abs/2507.04961v1)
+- 2025-07-07, **MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction**, Mingxin Liu et.al., Paper: [http://arxiv.org/abs/2507.04891v1](http://arxiv.org/abs/2507.04891v1)
 - 2025-07-03, **Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**, Yuqi Wu et.al., Paper: [http://arxiv.org/abs/2507.02863v1](http://arxiv.org/abs/2507.02863v1)
 - 2025-07-03, **USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**, Ying Yu et.al., Paper: [http://arxiv.org/abs/2507.02827v1](http://arxiv.org/abs/2507.02827v1)
 - 2025-07-03, **Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**, Shiyi Liu et.al., Paper: [http://arxiv.org/abs/2507.02724v1](http://arxiv.org/abs/2507.02724v1)
