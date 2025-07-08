@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 
 ## Video_Classification
 
@@ -7607,7 +7607,7 @@ layout: default
 |**2025-07-03**|**Wildlife Target Re-Identification Using Self-supervised Learning in Non-Urban Settings**|Mufhumudzi Muthivhi et.al.|[2507.02403v1](http://arxiv.org/abs/2507.02403v1)|null|
 |**2025-07-03**|**Holistic Tokenizer for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.02358v1](http://arxiv.org/abs/2507.02358v1)|null|
 |**2025-07-03**|**DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation**|Yunhan Yang et.al.|[2507.02299v1](http://arxiv.org/abs/2507.02299v1)|null|
-|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245v1](http://arxiv.org/abs/2507.02245v1)|null|
+|**2025-07-04**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245v2](http://arxiv.org/abs/2507.02245v2)|null|
 |**2025-07-03**|**Public perspectives on the design of fusion energy facilities**|Nathan Kawamoto et.al.|[2507.02207v1](http://arxiv.org/abs/2507.02207v1)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|null|
 |**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945v1](http://arxiv.org/abs/2507.01945v1)|null|
