@@ -1,4 +1,4 @@
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 
 ## Video_Classification
 
@@ -8,7 +8,7 @@
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240v1](http://arxiv.org/abs/2507.05240v1)|null|
 |**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238v1](http://arxiv.org/abs/2507.05238v1)|null|
 |**2025-07-07**|**Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**|Markiyan Kostiv et.al.|[2507.05229v1](http://arxiv.org/abs/2507.05229v1)|null|
-|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201v1](http://arxiv.org/abs/2507.05201v1)|null|
+|**2025-07-08**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201v2](http://arxiv.org/abs/2507.05201v2)|null|
 |**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198v1](http://arxiv.org/abs/2507.05198v1)|null|
 |**2025-07-07**|**Light-cone vector superspace and continuous-spin field in AdS**|R. R. Metsaev et.al.|[2507.05194v1](http://arxiv.org/abs/2507.05194v1)|null|
 |**2025-07-07**|**RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis**|Songxiao Yang et.al.|[2507.05193v1](http://arxiv.org/abs/2507.05193v1)|null|
