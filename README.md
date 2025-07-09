@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233v1](http://arxiv.org/abs/2507.06233v1)|null|
+|**2025-07-08**|**seMCD: Sequentially implemented Monte Carlo depth computation with statistical guarantees**|Felix Gnettner et.al.|[2507.06227v1](http://arxiv.org/abs/2507.06227v1)|null|
+|**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224v1](http://arxiv.org/abs/2507.06224v1)|null|
+|**2025-07-08**|**Topological Holography for Mixed-State Phases and Phase Transitions**|Ran Luo et.al.|[2507.06218v1](http://arxiv.org/abs/2507.06218v1)|null|
+|**2025-07-08**|**What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23**|Maria V. Pruzhinskaya et.al.|[2507.06217v1](http://arxiv.org/abs/2507.06217v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media**|Ayush Parikh et.al.|[2507.06205v1](http://arxiv.org/abs/2507.06205v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Evaluating Context and Tokenization Strategies for Numerical Fact Verification**|Maximilian Heil et.al.|[2507.06195v1](http://arxiv.org/abs/2507.06195v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189v1](http://arxiv.org/abs/2507.06189v1)|null|
+|**2025-07-08**|**SoftReMish: A Novel Activation Function for Enhanced Convolutional Neural Networks for Visual Recognition Performance**|Mustafa Bayram Gücen et.al.|[2507.06148v1](http://arxiv.org/abs/2507.06148v1)|null|
+|**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140v1](http://arxiv.org/abs/2507.06140v1)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258v1](http://arxiv.org/abs/2507.05258v1)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240v1](http://arxiv.org/abs/2507.05240v1)|null|
 |**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238v1](http://arxiv.org/abs/2507.05238v1)|null|
@@ -7605,6 +7615,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146v1](http://arxiv.org/abs/2507.06146v1)|null|
+|**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067v1](http://arxiv.org/abs/2507.06067v1)|null|
+|**2025-07-08**|**Analysis of RF Sheath-Driven Tungsten Erosion at RF Antenna in the WEST Tokamak**|A. Kumar et.al.|[2507.06059v1](http://arxiv.org/abs/2507.06059v1)|null|
+|**2025-07-08**|**Multi-view mid fusion: a universal approach for learning in an HDLSS setting**|Lynn Houthuys et.al.|[2507.06026v1](http://arxiv.org/abs/2507.06026v1)|null|
+|**2025-07-08**|**Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge**|Xin Wu et.al.|[2507.05992v1](http://arxiv.org/abs/2507.05992v1)|null|
+|**2025-07-08**|**V-Associated Production & Vector Boson Fusion as an LHC Signature of CP Violation**|Rodrigo Capucha et.al.|[2507.05942v1](http://arxiv.org/abs/2507.05942v1)|null|
+|**2025-07-08**|**What You Have is What You Track: Adaptive and Robust Multimodal Tracking**|Yuedong Tan et.al.|[2507.05899v1](http://arxiv.org/abs/2507.05899v1)|null|
+|**2025-07-08**|**DFYP: A Dynamic Fusion Framework with Spectral Channel Attention and Adaptive Operator learning for Crop Yield Prediction**|Juli Zhang et.al.|[2507.05849v1](http://arxiv.org/abs/2507.05849v1)|null|
+|**2025-07-08**|**Modular functors from conformal blocks of rational vertex operator algebras**|Chiara Damiolini et.al.|[2507.05845v1](http://arxiv.org/abs/2507.05845v1)|null|
+|**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822v1](http://arxiv.org/abs/2507.05822v1)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227v1](http://arxiv.org/abs/2507.05227v1)|null|
 |**2025-07-07**|**An operator algebraic approach to fusion category symmetry on the lattice**|David E. Evans et.al.|[2507.05185v1](http://arxiv.org/abs/2507.05185v1)|null|
 |**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165v1](http://arxiv.org/abs/2507.05165v1)|null|
