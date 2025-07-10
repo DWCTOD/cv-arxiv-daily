@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105v1](http://arxiv.org/abs/2507.07105v1)|null|
+|**2025-07-09**|**Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**|Yuan Li et.al.|[2507.07047v1](http://arxiv.org/abs/2507.07047v1)|null|
+|**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044v1](http://arxiv.org/abs/2507.07044v1)|null|
+|**2025-07-09**|**Tilings of the sphere by congruent pentagons V: Edge combination $a^{4}b$ with rational angles**|Jinjin Liang et.al.|[2507.07038v1](http://arxiv.org/abs/2507.07038v1)|null|
+|**2025-07-09**|**Classifying integral Grothendieck rings up to rank 5 and beyond**|Max A. Alekseyev et.al.|[2507.07023v1](http://arxiv.org/abs/2507.07023v1)|null|
+|**2025-07-09**|**Quantum Spectral Clustering: Comparing Parameterized and Neuromorphic Quantum Kernels**|Donovan Slabbert et.al.|[2507.07018v1](http://arxiv.org/abs/2507.07018v1)|null|
+|**2025-07-09**|**Deep Brain Net: An Optimized Deep Learning Model for Brain tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning**|Daniel Onah et.al.|[2507.07011v1](http://arxiv.org/abs/2507.07011v1)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006v1](http://arxiv.org/abs/2507.07006v1)|null|
+|**2025-07-09**|**BarkBeetle: Stealing Decision Tree Models with Fault Injection**|Qifan Wang et.al.|[2507.06986v1](http://arxiv.org/abs/2507.06986v1)|null|
+|**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978v1](http://arxiv.org/abs/2507.06978v1)|null|
 |**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233v1](http://arxiv.org/abs/2507.06233v1)|null|
 |**2025-07-08**|**seMCD: Sequentially implemented Monte Carlo depth computation with statistical guarantees**|Felix Gnettner et.al.|[2507.06227v1](http://arxiv.org/abs/2507.06227v1)|null|
 |**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224v1](http://arxiv.org/abs/2507.06224v1)|null|
@@ -7615,6 +7625,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106v1](http://arxiv.org/abs/2507.07106v1)|null|
+|**2025-07-09**|**Joint Target Acquisition and Refined Position Estimation in OFDM-based ISAC Networks**|Lorenzo Pucci et.al.|[2507.07081v1](http://arxiv.org/abs/2507.07081v1)|null|
+|**2025-07-09**|**Classifying integral Grothendieck rings up to rank 5 and beyond**|Max A. Alekseyev et.al.|[2507.07023v1](http://arxiv.org/abs/2507.07023v1)|null|
+|**2025-07-09**|**Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients**|Qilong Xing et.al.|[2507.06994v1](http://arxiv.org/abs/2507.06994v1)|null|
+|**2025-07-09**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v1](http://arxiv.org/abs/2507.06821v1)|null|
+|**2025-07-09**|**HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement**|Qingsen Yan et.al.|[2507.06814v1](http://arxiv.org/abs/2507.06814v1)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812v1](http://arxiv.org/abs/2507.06812v1)|null|
+|**2025-07-09**|**Residual Prior-driven Frequency-aware Network for Image Fusion**|Guan Zheng et.al.|[2507.06735v1](http://arxiv.org/abs/2507.06735v1)|null|
+|**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|null|
+|**2025-07-09**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622v1](http://arxiv.org/abs/2507.06622v1)|null|
 |**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146v1](http://arxiv.org/abs/2507.06146v1)|null|
 |**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067v1](http://arxiv.org/abs/2507.06067v1)|null|
 |**2025-07-08**|**Analysis of RF Sheath-Driven Tungsten Erosion at RF Antenna in the WEST Tokamak**|A. Kumar et.al.|[2507.06059v1](http://arxiv.org/abs/2507.06059v1)|null|
