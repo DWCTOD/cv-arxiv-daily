@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-10, **Multigranular Evaluation for Brain Visual Decoding**, Weihao Xia et.al., Paper: [http://arxiv.org/abs/2507.07993v1](http://arxiv.org/abs/2507.07993v1)
+- 2025-07-10, **Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**, Jeongseok Hyun et.al., Paper: [http://arxiv.org/abs/2507.07990v1](http://arxiv.org/abs/2507.07990v1)
+- 2025-07-10, **CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**, Bijay Gurung et.al., Paper: [http://arxiv.org/abs/2507.07985v1](http://arxiv.org/abs/2507.07985v1)
+- 2025-07-10, **Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**, Haoyu Wu et.al., Paper: [http://arxiv.org/abs/2507.07982v1](http://arxiv.org/abs/2507.07982v1)
+- 2025-07-10, **Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**, Longfei Li et.al., Paper: [http://arxiv.org/abs/2507.07978v1](http://arxiv.org/abs/2507.07978v1)
+- 2025-07-10, **Scaling RL to Long Videos**, Yukang Chen et.al., Paper: [http://arxiv.org/abs/2507.07966v1](http://arxiv.org/abs/2507.07966v1)
+- 2025-07-10, **Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**, Abolfazl Zarghani et.al., Paper: [http://arxiv.org/abs/2507.07938v1](http://arxiv.org/abs/2507.07938v1)
+- 2025-07-10, **Working with AI: Measuring the Occupational Implications of Generative AI**, Kiran Tomlinson et.al., Paper: [http://arxiv.org/abs/2507.07935v1](http://arxiv.org/abs/2507.07935v1)
+- 2025-07-10, **Measuring Hypothesis Testing Errors in the Evaluation of Retrieval Systems**, Jack McKechnie et.al., Paper: [http://arxiv.org/abs/2507.07924v1](http://arxiv.org/abs/2507.07924v1)
+- 2025-07-10, **DTECT: Dynamic Topic Explorer & Context Tracker**, Suman Adhya et.al., Paper: [http://arxiv.org/abs/2507.07910v1](http://arxiv.org/abs/2507.07910v1)
 - 2025-07-09, **4KAgent: Agentic Any Image to 4K Super-Resolution**, Yushen Zuo et.al., Paper: [http://arxiv.org/abs/2507.07105v1](http://arxiv.org/abs/2507.07105v1)
 - 2025-07-09, **Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2507.07047v1](http://arxiv.org/abs/2507.07047v1)
 - 2025-07-09, **Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**, Mehrdad Morsali et.al., Paper: [http://arxiv.org/abs/2507.07044v1](http://arxiv.org/abs/2507.07044v1)
@@ -7621,6 +7631,16 @@
 
 ## MultiModal
 
+- 2025-07-10, **Late Fusion Multi-task Learning for Semiparametric Inference with Nuisance Parameters**, Sohom Bhattacharya et.al., Paper: [http://arxiv.org/abs/2507.07941v1](http://arxiv.org/abs/2507.07941v1)
+- 2025-07-10, **SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**, Guoxin Zang et.al., Paper: [http://arxiv.org/abs/2507.07939v1](http://arxiv.org/abs/2507.07939v1)
+- 2025-07-10, **Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**, Abolfazl Zarghani et.al., Paper: [http://arxiv.org/abs/2507.07938v1](http://arxiv.org/abs/2507.07938v1)
+- 2025-07-10, **MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)**, Hasaan Maqsood et.al., Paper: [http://arxiv.org/abs/2507.07839v1](http://arxiv.org/abs/2507.07839v1)
+- 2025-07-10, **End-to-end Acoustic-linguistic Emotion and Intent Recognition Enhanced by Semi-supervised Learning**, Zhao Ren et.al., Paper: [http://arxiv.org/abs/2507.07806v1](http://arxiv.org/abs/2507.07806v1)
+- 2025-07-10, **Robust and Generalizable Heart Rate Estimation via Deep Learning for Remote Photoplethysmography in Complex Scenarios**, Kang Cen et.al., Paper: [http://arxiv.org/abs/2507.07795v1](http://arxiv.org/abs/2507.07795v1)
+- 2025-07-10, **Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**, Chunyan Wang et.al., Paper: [http://arxiv.org/abs/2507.07578v1](http://arxiv.org/abs/2507.07578v1)
+- 2025-07-10, **Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation**, Qin Zhou et.al., Paper: [http://arxiv.org/abs/2507.07568v1](http://arxiv.org/abs/2507.07568v1)
+- 2025-07-10, **DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction**, Cunhang Fan et.al., Paper: [http://arxiv.org/abs/2507.07526v1](http://arxiv.org/abs/2507.07526v1)
+- 2025-07-10, **Semi-supervised learning and integration of multi-sequence MR-images for carotid vessel wall and plaque segmentation**, Marie-Christine Pali et.al., Paper: [http://arxiv.org/abs/2507.07496v1](http://arxiv.org/abs/2507.07496v1)
 - 2025-07-09, **Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**, Vatsal Agarwal et.al., Paper: [http://arxiv.org/abs/2507.07106v1](http://arxiv.org/abs/2507.07106v1)
 - 2025-07-09, **Joint Target Acquisition and Refined Position Estimation in OFDM-based ISAC Networks**, Lorenzo Pucci et.al., Paper: [http://arxiv.org/abs/2507.07081v1](http://arxiv.org/abs/2507.07081v1)
 - 2025-07-09, **Classifying integral Grothendieck rings up to rank 5 and beyond**, Max A. Alekseyev et.al., Paper: [http://arxiv.org/abs/2507.07023v1](http://arxiv.org/abs/2507.07023v1)
