@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 
 ## Video_Classification
 
@@ -7633,7 +7633,7 @@ layout: default
 |**2025-07-09**|**Joint Target Acquisition and Refined Position Estimation in OFDM-based ISAC Networks**|Lorenzo Pucci et.al.|[2507.07081v1](http://arxiv.org/abs/2507.07081v1)|null|
 |**2025-07-09**|**Classifying integral Grothendieck rings up to rank 5 and beyond**|Max A. Alekseyev et.al.|[2507.07023v1](http://arxiv.org/abs/2507.07023v1)|null|
 |**2025-07-09**|**Cross-Modality Masked Learning for Survival Prediction in ICI Treated NSCLC Patients**|Qilong Xing et.al.|[2507.06994v1](http://arxiv.org/abs/2507.06994v1)|null|
-|**2025-07-09**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v1](http://arxiv.org/abs/2507.06821v1)|null|
+|**2025-07-10**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v2](http://arxiv.org/abs/2507.06821v2)|null|
 |**2025-07-09**|**HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement**|Qingsen Yan et.al.|[2507.06814v1](http://arxiv.org/abs/2507.06814v1)|null|
 |**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812v1](http://arxiv.org/abs/2507.06812v1)|null|
 |**2025-07-09**|**Residual Prior-driven Frequency-aware Network for Image Fusion**|Guan Zheng et.al.|[2507.06735v1](http://arxiv.org/abs/2507.06735v1)|null|
