@@ -11,6 +11,7 @@
 - 2025-07-10, **Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**, Abolfazl Zarghani et.al., Paper: [http://arxiv.org/abs/2507.07938v1](http://arxiv.org/abs/2507.07938v1)
 - 2025-07-10, **Working with AI: Measuring the Occupational Implications of Generative AI**, Kiran Tomlinson et.al., Paper: [http://arxiv.org/abs/2507.07935v1](http://arxiv.org/abs/2507.07935v1)
 - 2025-07-10, **Measuring Hypothesis Testing Errors in the Evaluation of Retrieval Systems**, Jack McKechnie et.al., Paper: [http://arxiv.org/abs/2507.07924v1](http://arxiv.org/abs/2507.07924v1)
+- 2025-07-10, **ArteryX: Advancing Brain Artery Feature Extraction with Vessel-Fused Networks and a Robust Validation Framework**, Abrar Faiyaz et.al., Paper: [http://arxiv.org/abs/2507.07920v1](http://arxiv.org/abs/2507.07920v1)
 - 2025-07-10, **DTECT: Dynamic Topic Explorer & Context Tracker**, Suman Adhya et.al., Paper: [http://arxiv.org/abs/2507.07910v1](http://arxiv.org/abs/2507.07910v1)
 - 2025-07-09, **4KAgent: Agentic Any Image to 4K Super-Resolution**, Yushen Zuo et.al., Paper: [http://arxiv.org/abs/2507.07105v1](http://arxiv.org/abs/2507.07105v1)
 - 2025-07-09, **Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2507.07047v1](http://arxiv.org/abs/2507.07047v1)
