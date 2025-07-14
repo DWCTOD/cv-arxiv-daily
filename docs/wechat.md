@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-11, **Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**, Hangjie Yuan et.al., Paper: [http://arxiv.org/abs/2507.08801v1](http://arxiv.org/abs/2507.08801v1)
+- 2025-07-11, **Mining the Alerts: A Preliminary Catalog of Compact Binaries from the Fourth Observing Run**, Aleyna Akyüz et.al., Paper: [http://arxiv.org/abs/2507.08778v1](http://arxiv.org/abs/2507.08778v1)
+- 2025-07-11, **A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification**, Ahmed Farooq et.al., Paper: [http://arxiv.org/abs/2507.08766v1](http://arxiv.org/abs/2507.08766v1)
+- 2025-07-11, **ML-Based Automata Simplification for Symbolic Accelerators**, Tiffany Yu et.al., Paper: [http://arxiv.org/abs/2507.08751v1](http://arxiv.org/abs/2507.08751v1)
+- 2025-07-11, **HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer**, Tianlong Ai et.al., Paper: [http://arxiv.org/abs/2507.08741v1](http://arxiv.org/abs/2507.08741v1)
+- 2025-07-11, **Statistical Analysis of Early Spectra in Type II and IIb Supernovae**, Maider González-Bañuelos et.al., Paper: [http://arxiv.org/abs/2507.08731v1](http://arxiv.org/abs/2507.08731v1)
+- 2025-07-11, **RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**, Yuqiang Lin et.al., Paper: [http://arxiv.org/abs/2507.08729v1](http://arxiv.org/abs/2507.08729v1)
+- 2025-07-11, **Distinct neurodynamics of functional brain networks in Alzheimer's disease and frontotemporal dementia as revealed by EEG**, Sungwoo Ahn et.al., Paper: [http://arxiv.org/abs/2507.08728v1](http://arxiv.org/abs/2507.08728v1)
+- 2025-07-11, **Free phases of Majorana fermions: Tenfold ways compared**, Luuk Stehouwer et.al., Paper: [http://arxiv.org/abs/2507.08694v1](http://arxiv.org/abs/2507.08694v1)
+- 2025-07-11, **Functional equations of axiomatic multiple Dirichlet series, Weyl groupoids, and quantum algebra**, Will Sawin et.al., Paper: [http://arxiv.org/abs/2507.08662v1](http://arxiv.org/abs/2507.08662v1)
 - 2025-07-10, **Multigranular Evaluation for Brain Visual Decoding**, Weihao Xia et.al., Paper: [http://arxiv.org/abs/2507.07993v1](http://arxiv.org/abs/2507.07993v1)
 - 2025-07-10, **Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**, Jeongseok Hyun et.al., Paper: [http://arxiv.org/abs/2507.07990v1](http://arxiv.org/abs/2507.07990v1)
 - 2025-07-10, **CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**, Bijay Gurung et.al., Paper: [http://arxiv.org/abs/2507.07985v1](http://arxiv.org/abs/2507.07985v1)
@@ -7632,6 +7642,16 @@
 
 ## MultiModal
 
+- 2025-07-11, **KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**, Songlin Zhai et.al., Paper: [http://arxiv.org/abs/2507.08704v1](http://arxiv.org/abs/2507.08704v1)
+- 2025-07-11, **Forget Me Not: Fighting Local Overfitting with Knowledge Fusion and Distillation**, Uri Stern et.al., Paper: [http://arxiv.org/abs/2507.08686v1](http://arxiv.org/abs/2507.08686v1)
+- 2025-07-11, **Searching for the neutral triple gauge couplings in the process $μ^+μ^-\to γν\barν$ at muon colliders**, Wei Xie et.al., Paper: [http://arxiv.org/abs/2507.08681v1](http://arxiv.org/abs/2507.08681v1)
+- 2025-07-11, **OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**, Junho Koh et.al., Paper: [http://arxiv.org/abs/2507.08644v1](http://arxiv.org/abs/2507.08644v1)
+- 2025-07-11, **Unlocking Speech Instruction Data Potential with Query Rewriting**, Yonghua Hei et.al., Paper: [http://arxiv.org/abs/2507.08603v1](http://arxiv.org/abs/2507.08603v1)
+- 2025-07-11, **A Multi-Modal Fusion Framework for Brain Tumor Segmentation Based on 3D Spatial-Language-Vision Integration and Bidirectional Interactive Attention Mechanism**, Mingda Zhang et.al., Paper: [http://arxiv.org/abs/2507.08574v1](http://arxiv.org/abs/2507.08574v1)
+- 2025-07-11, **STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**, Xinyi Ning et.al., Paper: [http://arxiv.org/abs/2507.08563v1](http://arxiv.org/abs/2507.08563v1)
+- 2025-07-11, **Relation between bicrossed products and crossed extensions of fusion categories**, Monique Müller et.al., Paper: [http://arxiv.org/abs/2507.08562v1](http://arxiv.org/abs/2507.08562v1)
+- 2025-07-11, **Experimental and numerical study on current distribution in parallel co-wound no-insulation coils**, Yulong Liu et.al., Paper: [http://arxiv.org/abs/2507.08552v1](http://arxiv.org/abs/2507.08552v1)
+- 2025-07-11, **A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**, Mingda Zhang et.al., Paper: [http://arxiv.org/abs/2507.08529v1](http://arxiv.org/abs/2507.08529v1)
 - 2025-07-10, **Late Fusion Multi-task Learning for Semiparametric Inference with Nuisance Parameters**, Sohom Bhattacharya et.al., Paper: [http://arxiv.org/abs/2507.07941v1](http://arxiv.org/abs/2507.07941v1)
 - 2025-07-10, **SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**, Guoxin Zang et.al., Paper: [http://arxiv.org/abs/2507.07939v1](http://arxiv.org/abs/2507.07939v1)
 - 2025-07-10, **Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**, Abolfazl Zarghani et.al., Paper: [http://arxiv.org/abs/2507.07938v1](http://arxiv.org/abs/2507.07938v1)
