@@ -1,4 +1,4 @@
-> Updated on 2025.07.14
+> Updated on 2025.07.15
 
 ## Video_Classification
 
@@ -7648,7 +7648,7 @@
 - 2025-07-11, **OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**, Junho Koh et.al., Paper: [http://arxiv.org/abs/2507.08644v1](http://arxiv.org/abs/2507.08644v1)
 - 2025-07-11, **Unlocking Speech Instruction Data Potential with Query Rewriting**, Yonghua Hei et.al., Paper: [http://arxiv.org/abs/2507.08603v1](http://arxiv.org/abs/2507.08603v1)
 - 2025-07-11, **A Multi-Modal Fusion Framework for Brain Tumor Segmentation Based on 3D Spatial-Language-Vision Integration and Bidirectional Interactive Attention Mechanism**, Mingda Zhang et.al., Paper: [http://arxiv.org/abs/2507.08574v1](http://arxiv.org/abs/2507.08574v1)
-- 2025-07-11, **STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**, Xinyi Ning et.al., Paper: [http://arxiv.org/abs/2507.08563v1](http://arxiv.org/abs/2507.08563v1)
+- 2025-07-14, **STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**, Xinyi Ning et.al., Paper: [http://arxiv.org/abs/2507.08563v2](http://arxiv.org/abs/2507.08563v2)
 - 2025-07-11, **Relation between bicrossed products and crossed extensions of fusion categories**, Monique Müller et.al., Paper: [http://arxiv.org/abs/2507.08562v1](http://arxiv.org/abs/2507.08562v1)
 - 2025-07-11, **Experimental and numerical study on current distribution in parallel co-wound no-insulation coils**, Yulong Liu et.al., Paper: [http://arxiv.org/abs/2507.08552v1](http://arxiv.org/abs/2507.08552v1)
 - 2025-07-11, **A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**, Mingda Zhang et.al., Paper: [http://arxiv.org/abs/2507.08529v1](http://arxiv.org/abs/2507.08529v1)
