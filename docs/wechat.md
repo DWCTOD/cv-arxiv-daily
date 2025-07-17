@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-16, **CytoSAE: Interpretable Cell Embeddings for Hematology**, Muhammed Furkan Dasdelen et.al., Paper: [http://arxiv.org/abs/2507.12464v1](http://arxiv.org/abs/2507.12464v1)
+- 2025-07-16, **MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**, Renjie Li et.al., Paper: [http://arxiv.org/abs/2507.12463v1](http://arxiv.org/abs/2507.12463v1)
+- 2025-07-16, **SpatialTrackerV2: 3D Point Tracking Made Easy**, Yuxi Xiao et.al., Paper: [http://arxiv.org/abs/2507.12462v1](http://arxiv.org/abs/2507.12462v1)
+- 2025-07-16, **Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**, Van-Hoang-Anh Phan et.al., Paper: [http://arxiv.org/abs/2507.12449v1](http://arxiv.org/abs/2507.12449v1)
+- 2025-07-16, **Minmax Exclusivity Classes for Power-Type Loss Functions**, Stanisław M. S. Halkiewicz et.al., Paper: [http://arxiv.org/abs/2507.12447v1](http://arxiv.org/abs/2507.12447v1)
+- 2025-07-16, **EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**, Ruihan Yang et.al., Paper: [http://arxiv.org/abs/2507.12440v1](http://arxiv.org/abs/2507.12440v1)
+- 2025-07-16, **Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing**, Davide Castaldo et.al., Paper: [http://arxiv.org/abs/2507.12438v1](http://arxiv.org/abs/2507.12438v1)
+- 2025-07-16, **Energy-based models for inverse imaging problems**, Andreas Habring et.al., Paper: [http://arxiv.org/abs/2507.12432v1](http://arxiv.org/abs/2507.12432v1)
+- 2025-07-16, **Unit-Based Histopathology Tissue Segmentation via Multi-Level Feature Representation**, Ashkan Shakarami et.al., Paper: [http://arxiv.org/abs/2507.12427v1](http://arxiv.org/abs/2507.12427v1)
+- 2025-07-16, **DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**, Hayat Ullah et.al., Paper: [http://arxiv.org/abs/2507.12426v1](http://arxiv.org/abs/2507.12426v1)
 - 2025-07-15, **Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2507.11540v1](http://arxiv.org/abs/2507.11540v1)
 - 2025-07-15, **Streaming 4D Visual Geometry Transformer**, Dong Zhuo et.al., Paper: [http://arxiv.org/abs/2507.11539v1](http://arxiv.org/abs/2507.11539v1)
 - 2025-07-15, **Understanding Quantum Information and Computation**, John Watrous et.al., Paper: [http://arxiv.org/abs/2507.11536v1](http://arxiv.org/abs/2507.11536v1)
@@ -7662,6 +7672,16 @@
 
 ## MultiModal
 
+- 2025-07-16, **Entanglement-efficiency trade-offs in the fusion-based generation of photonic GHZ-like states**, A. A. Melkozerov et.al., Paper: [http://arxiv.org/abs/2507.12389v1](http://arxiv.org/abs/2507.12389v1)
+- 2025-07-16, **Road Roughness Estimation via Fusion of Standard Onboard Automotive Sensors**, Martin Agebjär et.al., Paper: [http://arxiv.org/abs/2507.12317v1](http://arxiv.org/abs/2507.12317v1)
+- 2025-07-16, **Gauss' Separation Algorithm for the Magnetic Field Decomposition of the SPARC PRD simulation**, Gregorio L Trevisan et.al., Paper: [http://arxiv.org/abs/2507.12287v1](http://arxiv.org/abs/2507.12287v1)
+- 2025-07-16, **Improving Contextual ASR via Multi-grained Fusion with Large Language Models**, Shilin Zhou et.al., Paper: [http://arxiv.org/abs/2507.12252v1](http://arxiv.org/abs/2507.12252v1)
+- 2025-07-16, **UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**, Hongming Shen et.al., Paper: [http://arxiv.org/abs/2507.12194v1](http://arxiv.org/abs/2507.12194v1)
+- 2025-07-16, **Hybrid Ensemble Approaches: Optimal Deep Feature Fusion and Hyperparameter-Tuned Classifier Ensembling for Enhanced Brain Tumor Classification**, Zahid Ullah et.al., Paper: [http://arxiv.org/abs/2507.12177v1](http://arxiv.org/abs/2507.12177v1)
+- 2025-07-16, **HyDRA: A Hybrid Dual-Mode Network for Closed- and Open-Set RFFI with Optimized VMD**, Hanwen Liu et.al., Paper: [http://arxiv.org/abs/2507.12133v1](http://arxiv.org/abs/2507.12133v1)
+- 2025-07-16, **Block-based Symmetric Pruning and Fusion for Efficient Vision Transformers**, Yi-Kuan Hsieh et.al., Paper: [http://arxiv.org/abs/2507.12125v1](http://arxiv.org/abs/2507.12125v1)
+- 2025-07-16, **Scaling of thin wire cylindrical compression after 100 fs Joule surface heating with material, diameter and laser energy**, L. Yang et.al., Paper: [http://arxiv.org/abs/2507.12109v1](http://arxiv.org/abs/2507.12109v1)
+- 2025-07-16, **Urban Green Governance: IoT-Driven Management and Enhancement of Urban Green Spaces in Campobasso**, Antonio Salis et.al., Paper: [http://arxiv.org/abs/2507.12106v1](http://arxiv.org/abs/2507.12106v1)
 - 2025-07-15, **Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**, Buddhi Wijenayake et.al., Paper: [http://arxiv.org/abs/2507.11523v1](http://arxiv.org/abs/2507.11523v1)
 - 2025-07-15, **Multi-IMU Sensor Fusion for Legged Robots**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2507.11447v1](http://arxiv.org/abs/2507.11447v1)
 - 2025-07-16, **Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**, Wenqing Wu et.al., Paper: [http://arxiv.org/abs/2507.11330v2](http://arxiv.org/abs/2507.11330v2)
