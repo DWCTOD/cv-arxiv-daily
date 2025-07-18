@@ -1,4 +1,4 @@
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 
 ## Video_Classification
 
@@ -9,7 +9,7 @@
 |**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
 |**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449v1](http://arxiv.org/abs/2507.12449v1)|null|
 |**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447v1](http://arxiv.org/abs/2507.12447v1)|null|
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v1](http://arxiv.org/abs/2507.12440v1)|null|
+|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v2](http://arxiv.org/abs/2507.12440v2)|null|
 |**2025-07-16**|**Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing**|Davide Castaldo et.al.|[2507.12438v1](http://arxiv.org/abs/2507.12438v1)|null|
 |**2025-07-16**|**Energy-based models for inverse imaging problems**|Andreas Habring et.al.|[2507.12432v1](http://arxiv.org/abs/2507.12432v1)|null|
 |**2025-07-16**|**Unit-Based Histopathology Tissue Segmentation via Multi-Level Feature Representation**|Ashkan Shakarami et.al.|[2507.12427v1](http://arxiv.org/abs/2507.12427v1)|null|
