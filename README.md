@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353v1](http://arxiv.org/abs/2507.13353v1)|null|
+|**2025-07-17**|**$π^3$: Scalable Permutation-Equivariant Visual Geometry Learning**|Yifan Wang et.al.|[2507.13347v1](http://arxiv.org/abs/2507.13347v1)|null|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344v1](http://arxiv.org/abs/2507.13344v1)|null|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343v1](http://arxiv.org/abs/2507.13343v1)|null|
+|**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339v1](http://arxiv.org/abs/2507.13339v1)|null|
+|**2025-07-17**|**FocusView: Understanding and Customizing Informational Video Watching Experiences for Viewers with ADHD**|Hanxiu 'Hazel' Zhu et.al.|[2507.13309v1](http://arxiv.org/abs/2507.13309v1)|null|
+|**2025-07-17**|**Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy**|Yiting Yang et.al.|[2507.13260v1](http://arxiv.org/abs/2507.13260v1)|null|
+|**2025-07-17**|**Signal Temporal Logic Compliant Co-design of Planning and Control**|Manas Sashank Juvvi et.al.|[2507.13225v1](http://arxiv.org/abs/2507.13225v1)|null|
+|**2025-07-17**|**Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**|Keerthi Veeramachaneni et.al.|[2507.13224v1](http://arxiv.org/abs/2507.13224v1)|null|
+|**2025-07-17**|**Degrees of points with rational $j$-invariant on $X_{0}(n)$ and $X_{1}(n)$**|Kenji Terao et.al.|[2507.13199v1](http://arxiv.org/abs/2507.13199v1)|null|
 |**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464v1](http://arxiv.org/abs/2507.12464v1)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463v1](http://arxiv.org/abs/2507.12463v1)|null|
 |**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
@@ -7676,6 +7686,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339v1](http://arxiv.org/abs/2507.13339v1)|null|
+|**2025-07-17**|**Privacy-Preserving Fusion for Multi-Sensor Systems Under Multiple Packet Dropouts**|Jie Huang et.al.|[2507.13286v1](http://arxiv.org/abs/2507.13286v1)|null|
+|**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155v1](http://arxiv.org/abs/2507.13155v1)|null|
+|**2025-07-17**|**Introduction to Stability and Turbulent Transport in Magnetic Confinement Fusion Plasmas**|J. F. Parisi et.al.|[2507.13144v1](http://arxiv.org/abs/2507.13144v1)|null|
+|**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120v1](http://arxiv.org/abs/2507.13120v1)|null|
+|**2025-07-17**|**Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization**|Songlin Li et.al.|[2507.13018v1](http://arxiv.org/abs/2507.13018v1)|null|
+|**2025-07-17**|**Accelerated free energy estimation in ab initio path integral Monte Carlo simulations**|Pontus Svensson et.al.|[2507.12960v1](http://arxiv.org/abs/2507.12960v1)|null|
+|**2025-07-17**|**Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning**|Yafei Zhang et.al.|[2507.12942v1](http://arxiv.org/abs/2507.12942v1)|null|
+|**2025-07-17**|**Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion**|Caixia Dong et.al.|[2507.12938v1](http://arxiv.org/abs/2507.12938v1)|null|
+|**2025-07-17**|**MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking Based on Motion Capture and IMU Fusion**|Zichao Shu et.al.|[2507.12920v1](http://arxiv.org/abs/2507.12920v1)|null|
 |**2025-07-16**|**Entanglement-efficiency trade-offs in the fusion-based generation of photonic GHZ-like states**|A. A. Melkozerov et.al.|[2507.12389v1](http://arxiv.org/abs/2507.12389v1)|null|
 |**2025-07-16**|**Road Roughness Estimation via Fusion of Standard Onboard Automotive Sensors**|Martin Agebjär et.al.|[2507.12317v1](http://arxiv.org/abs/2507.12317v1)|null|
 |**2025-07-16**|**Gauss' Separation Algorithm for the Magnetic Field Decomposition of the SPARC PRD simulation**|Gregorio L Trevisan et.al.|[2507.12287v1](http://arxiv.org/abs/2507.12287v1)|null|
