@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-21, **Simulating the LOcal Web (SLOW) V. Thermodynamic Properties and Evolution of Local Galaxy Clusters**, Elena Hernández-Martínez et.al., Paper: [http://arxiv.org/abs/2507.15858v1](http://arxiv.org/abs/2507.15858v1)
+- 2025-07-21, **Optimized Fabrication Procedure for High-Quality Graphene-based Moiré Superlattice Devices**, Shuwen Sun et.al., Paper: [http://arxiv.org/abs/2507.15853v1](http://arxiv.org/abs/2507.15853v1)
+- 2025-07-21, **SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**, Zhixiong Zhang et.al., Paper: [http://arxiv.org/abs/2507.15852v1](http://arxiv.org/abs/2507.15852v1)
+- 2025-07-21, **GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**, Fei Tang et.al., Paper: [http://arxiv.org/abs/2507.15846v1](http://arxiv.org/abs/2507.15846v1)
+- 2025-07-21, **Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**, Saeed A. Khan et.al., Paper: [http://arxiv.org/abs/2507.15845v1](http://arxiv.org/abs/2507.15845v1)
+- 2025-07-21, **Optimizing Canaries for Privacy Auditing with Metagradient Descent**, Matteo Boglioni et.al., Paper: [http://arxiv.org/abs/2507.15836v1](http://arxiv.org/abs/2507.15836v1)
+- 2025-07-21, **Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**, Enes Sanli et.al., Paper: [http://arxiv.org/abs/2507.15824v1](http://arxiv.org/abs/2507.15824v1)
+- 2025-07-21, **Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets**, Zihang Ma et.al., Paper: [http://arxiv.org/abs/2507.15784v1](http://arxiv.org/abs/2507.15784v1)
+- 2025-07-21, **Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization**, Feng-Qi Cui et.al., Paper: [http://arxiv.org/abs/2507.15765v1](http://arxiv.org/abs/2507.15765v1)
+- 2025-07-21, **TokensGen: Harnessing Condensed Tokens for Long Video Generation**, Wenqi Ouyang et.al., Paper: [http://arxiv.org/abs/2507.15728v1](http://arxiv.org/abs/2507.15728v1)
 - 2025-07-18, **NGC 663 as a laboratory for massive star evolution**, Amparo Marco et.al., Paper: [http://arxiv.org/abs/2507.14125v1](http://arxiv.org/abs/2507.14125v1)
 - 2025-07-18, **Kolmogorov Arnold Networks (KANs) for Imbalanced Data -- An Empirical Perspective**, Pankaj Yadav et.al., Paper: [http://arxiv.org/abs/2507.14121v1](http://arxiv.org/abs/2507.14121v1)
 - 2025-07-18, **Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**, Daniëlle Schuman et.al., Paper: [http://arxiv.org/abs/2507.14116v1](http://arxiv.org/abs/2507.14116v1)
@@ -7692,6 +7702,16 @@
 
 ## MultiModal
 
+- 2025-07-21, **Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets**, Zihang Ma et.al., Paper: [http://arxiv.org/abs/2507.15784v1](http://arxiv.org/abs/2507.15784v1)
+- 2025-07-21, **Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**, Ahmad M. Nazar et.al., Paper: [http://arxiv.org/abs/2507.15769v1](http://arxiv.org/abs/2507.15769v1)
+- 2025-07-21, **A Voxel-Wise Uncertainty-Guided Framework for Glioma Segmentation Using Spherical Projection-Based U-Net and Localized Refinement in Multi-Parametric MRI**, Zhenyu Yang et.al., Paper: [http://arxiv.org/abs/2507.15622v1](http://arxiv.org/abs/2507.15622v1)
+- 2025-07-21, **Effect of radial pressure corrugations and profile shearing on turbulence in Fusion plasmas**, Ajay C. J et.al., Paper: [http://arxiv.org/abs/2507.15513v1](http://arxiv.org/abs/2507.15513v1)
+- 2025-07-21, **DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification**, Dezhen Wang et.al., Paper: [http://arxiv.org/abs/2507.15487v1](http://arxiv.org/abs/2507.15487v1)
+- 2025-07-21, **FedMultiEmo: Real-Time Emotion Recognition via Multimodal Federated Learning**, Baran Can Gül et.al., Paper: [http://arxiv.org/abs/2507.15470v1](http://arxiv.org/abs/2507.15470v1)
+- 2025-07-21, **Universal crystal material property prediction via multi-view geometric fusion in graph transformers**, Liang Zhang et.al., Paper: [http://arxiv.org/abs/2507.15303v1](http://arxiv.org/abs/2507.15303v1)
+- 2025-07-21, **Collaborative Distillation Strategies for Parameter-Efficient Language Model Deployment**, Xiandong Meng et.al., Paper: [http://arxiv.org/abs/2507.15198v1](http://arxiv.org/abs/2507.15198v1)
+- 2025-07-20, **Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook**, Xin Yang et.al., Paper: [http://arxiv.org/abs/2507.15026v1](http://arxiv.org/abs/2507.15026v1)
+- 2025-07-20, **TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**, Fan Li et.al., Paper: [http://arxiv.org/abs/2507.14904v1](http://arxiv.org/abs/2507.14904v1)
 - 2025-07-18, **UGPL: Uncertainty-Guided Progressive Learning for Evidence-Based Classification in Computed Tomography**, Shravan Venkatraman et.al., Paper: [http://arxiv.org/abs/2507.14102v1](http://arxiv.org/abs/2507.14102v1)
 - 2025-07-18, **Novel techniques of imaging interferometry analysis to study gas and plasma density for laser-plasma experiments**, F. Filippi et.al., Paper: [http://arxiv.org/abs/2507.13907v1](http://arxiv.org/abs/2507.13907v1)
 - 2025-07-18, **Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**, Yujian Mo et.al., Paper: [http://arxiv.org/abs/2507.13899v1](http://arxiv.org/abs/2507.13899v1)
