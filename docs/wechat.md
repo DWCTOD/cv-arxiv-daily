@@ -2,6 +2,16 @@
 
 ## Video_Classification
 
+- 2025-07-22, **MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**, Yushuo Niu et.al., Paper: [http://arxiv.org/abs/2507.16803v1](http://arxiv.org/abs/2507.16803v1)
+- 2025-07-22, **Improving U-Net Confidence on TEM Image Data with L2-Regularization, Transfer Learning, and Deep Fine-Tuning**, Aiden Ochoa et.al., Paper: [http://arxiv.org/abs/2507.16779v1](http://arxiv.org/abs/2507.16779v1)
+- 2025-07-22, **Faithful, Interpretable Chest X-ray Diagnosis with Anti-Aliased B-cos Networks**, Marcel Kleinmann et.al., Paper: [http://arxiv.org/abs/2507.16761v1](http://arxiv.org/abs/2507.16761v1)
+- 2025-07-22, **Improving Model Classification by Optimizing the Training Dataset**, Morad Tukan et.al., Paper: [http://arxiv.org/abs/2507.16729v1](http://arxiv.org/abs/2507.16729v1)
+- 2025-07-22, **SALM: Spatial Audio Language Model with Structured Embeddings for Understanding and Editing**, Jinbo Hu et.al., Paper: [http://arxiv.org/abs/2507.16724v1](http://arxiv.org/abs/2507.16724v1)
+- 2025-07-22, **Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction**, Yiqing Shen et.al., Paper: [http://arxiv.org/abs/2507.16718v1](http://arxiv.org/abs/2507.16718v1)
+- 2025-07-22, **A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**, Tolga Çukur et.al., Paper: [http://arxiv.org/abs/2507.16715v1](http://arxiv.org/abs/2507.16715v1)
+- 2025-07-22, **Ring-based ML calibration with in situ pileup correction for real-time jet triggers**, Benjamin T. Carlson et.al., Paper: [http://arxiv.org/abs/2507.16686v1](http://arxiv.org/abs/2507.16686v1)
+- 2025-07-22, **VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models**, Duong Nguyen et.al., Paper: [http://arxiv.org/abs/2507.16685v1](http://arxiv.org/abs/2507.16685v1)
+- 2025-07-22, **Structural Effect and Spectral Enhancement of High-Dimensional Regularized Linear Discriminant Analysis**, Yonghan Zhang et.al., Paper: [http://arxiv.org/abs/2507.16682v1](http://arxiv.org/abs/2507.16682v1)
 - 2025-07-21, **Simulating the LOcal Web (SLOW) V. Thermodynamic Properties and Evolution of Local Galaxy Clusters**, Elena Hernández-Martínez et.al., Paper: [http://arxiv.org/abs/2507.15858v1](http://arxiv.org/abs/2507.15858v1)
 - 2025-07-21, **Optimized Fabrication Procedure for High-Quality Graphene-based Moiré Superlattice Devices**, Shuwen Sun et.al., Paper: [http://arxiv.org/abs/2507.15853v1](http://arxiv.org/abs/2507.15853v1)
 - 2025-07-22, **SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**, Zhixiong Zhang et.al., Paper: [http://arxiv.org/abs/2507.15852v2](http://arxiv.org/abs/2507.15852v2)
@@ -7702,6 +7712,16 @@
 
 ## MultiModal
 
+- 2025-07-22, **Enhancing Domain Diversity in Synthetic Data Face Recognition with Dataset Fusion**, Anjith George et.al., Paper: [http://arxiv.org/abs/2507.16790v1](http://arxiv.org/abs/2507.16790v1)
+- 2025-07-22, **DFR: A Decompose-Fuse-Reconstruct Framework for Multi-Modal Few-Shot Segmentation**, Shuai Chen et.al., Paper: [http://arxiv.org/abs/2507.16736v1](http://arxiv.org/abs/2507.16736v1)
+- 2025-07-22, **Pixel-Resolved Long-Context Learning for Turbulence at Exascale: Resolving Small-scale Eddies Toward the Viscous Limit**, Junqi Yin et.al., Paper: [http://arxiv.org/abs/2507.16697v1](http://arxiv.org/abs/2507.16697v1)
+- 2025-07-22, **QRetinex-Net: Quaternion-Valued Retinex Decomposition for Low-Level Computer Vision Applications**, Sos Agaian et.al., Paper: [http://arxiv.org/abs/2507.16683v1](http://arxiv.org/abs/2507.16683v1)
+- 2025-07-22, **Physics-Informed Neural Networks for High-Precision Grad-Shafranov Equilibrium Reconstruction**, Cuizhi Zhou et.al., Paper: [http://arxiv.org/abs/2507.16636v1](http://arxiv.org/abs/2507.16636v1)
+- 2025-07-22, **A Robust 5G Terrestrial Positioning System with Sensor Fusion in GNSS-denied Scenarios**, Hamed Talebian et.al., Paper: [http://arxiv.org/abs/2507.16600v1](http://arxiv.org/abs/2507.16600v1)
+- 2025-07-22, **Adaptive Bayesian Single-Shot Quantum Sensing**, Ivana Nikoloska et.al., Paper: [http://arxiv.org/abs/2507.16477v1](http://arxiv.org/abs/2507.16477v1)
+- 2025-07-22, **DenseSR: Image Shadow Removal as Dense Prediction**, Yu-Fan Lin et.al., Paper: [http://arxiv.org/abs/2507.16472v1](http://arxiv.org/abs/2507.16472v1)
+- 2025-07-22, **A High Magnifications Histopathology Image Dataset for Oral Squamous Cell Carcinoma Diagnosis and Prognosis**, Jinquan Guan et.al., Paper: [http://arxiv.org/abs/2507.16360v1](http://arxiv.org/abs/2507.16360v1)
+- 2025-07-22, **Detect Any Sound: Open-Vocabulary Sound Event Detection with Multi-Modal Queries**, Pengfei Cai et.al., Paper: [http://arxiv.org/abs/2507.16343v1](http://arxiv.org/abs/2507.16343v1)
 - 2025-07-21, **Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets**, Zihang Ma et.al., Paper: [http://arxiv.org/abs/2507.15784v1](http://arxiv.org/abs/2507.15784v1)
 - 2025-07-21, **Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**, Ahmad M. Nazar et.al., Paper: [http://arxiv.org/abs/2507.15769v1](http://arxiv.org/abs/2507.15769v1)
 - 2025-07-21, **A Voxel-Wise Uncertainty-Guided Framework for Glioma Segmentation Using Spherical Projection-Based U-Net and Localized Refinement in Multi-Parametric MRI**, Zhenyu Yang et.al., Paper: [http://arxiv.org/abs/2507.15622v1](http://arxiv.org/abs/2507.15622v1)
