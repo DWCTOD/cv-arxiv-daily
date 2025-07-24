@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility**|Melih Barsbey et.al.|[2507.17748v1](http://arxiv.org/abs/2507.17748v1)|null|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744v1](http://arxiv.org/abs/2507.17744v1)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722v1](http://arxiv.org/abs/2507.17722v1)|null|
+|**2025-07-23**|**Towards Effective Open-set Graph Class-incremental Learning**|Jiazhen Chen et.al.|[2507.17687v1](http://arxiv.org/abs/2507.17687v1)|null|
+|**2025-07-23**|**Audio-Vision Contrastive Learning for Phonological Class Recognition**|Daiqi Liu et.al.|[2507.17682v1](http://arxiv.org/abs/2507.17682v1)|null|
+|**2025-07-23**|**MCM: Mamba-based Cardiac Motion Tracking using Sequential Images in MRI**|Jiahui Yin et.al.|[2507.17678v1](http://arxiv.org/abs/2507.17678v1)|null|
+|**2025-07-23**|**Mammo-Mamba: A Hybrid State-Space and Transformer Architecture with Sequential Mixture of Experts for Multi-View Mammography**|Farnoush Bayatmakou et.al.|[2507.17662v1](http://arxiv.org/abs/2507.17662v1)|null|
+|**2025-07-23**|**The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)**|Thomas M. Metz et.al.|[2507.17640v1](http://arxiv.org/abs/2507.17640v1)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636v1](http://arxiv.org/abs/2507.17636v1)|null|
+|**2025-07-23**|**Gauge Symmetries, Exact Symmetries and Conserved Charges in Minimal Massive Gravity**|Kang Liu et.al.|[2507.17635v1](http://arxiv.org/abs/2507.17635v1)|null|
 |**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803v1](http://arxiv.org/abs/2507.16803v1)|null|
 |**2025-07-22**|**Improving U-Net Confidence on TEM Image Data with L2-Regularization, Transfer Learning, and Deep Fine-Tuning**|Aiden Ochoa et.al.|[2507.16779v1](http://arxiv.org/abs/2507.16779v1)|null|
 |**2025-07-22**|**Faithful, Interpretable Chest X-ray Diagnosis with Anti-Aliased B-cos Networks**|Marcel Kleinmann et.al.|[2507.16761v1](http://arxiv.org/abs/2507.16761v1)|null|
@@ -7720,6 +7730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Audio-Vision Contrastive Learning for Phonological Class Recognition**|Daiqi Liu et.al.|[2507.17682v1](http://arxiv.org/abs/2507.17682v1)|null|
+|**2025-07-23**|**Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras**|Lingdong Kong et.al.|[2507.17664v1](http://arxiv.org/abs/2507.17664v1)|null|
+|**2025-07-23**|**Citation Recommendation using Deep Canonical Correlation Analysis**|Conor McNamara et.al.|[2507.17603v1](http://arxiv.org/abs/2507.17603v1)|null|
+|**2025-07-23**|**Evaluation of the Transfer Matrix of a Plasma Ramp with Squared Cosine Shape via an Approximate Solution of the Mathieu Differential Equation**|Stefano Romeo et.al.|[2507.17483v1](http://arxiv.org/abs/2507.17483v1)|null|
+|**2025-07-23**|**C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning**|Shusen Ma et.al.|[2507.17454v1](http://arxiv.org/abs/2507.17454v1)|null|
+|**2025-07-23**|**ViRN: Variational Inference and Distribution Trilateration for Long-Tailed Continual Representation Learning**|Hao Dai et.al.|[2507.17368v1](http://arxiv.org/abs/2507.17368v1)|null|
+|**2025-07-23**|**Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation**|Huanli Zhuo et.al.|[2507.17281v1](http://arxiv.org/abs/2507.17281v1)|null|
+|**2025-07-23**|**DistrAttention: An Efficient and Flexible Self-Attention Mechanism on Modern GPUs**|Haolin Jin et.al.|[2507.17245v1](http://arxiv.org/abs/2507.17245v1)|null|
+|**2025-07-23**|**High-Density EEG Enables the Fastest Visual Brain-Computer Interfaces**|Gege Ming et.al.|[2507.17242v1](http://arxiv.org/abs/2507.17242v1)|null|
+|**2025-07-23**|**PIG-Nav: Key Insights for Pretrained Image Goal Navigation Models**|Jiansong Wan et.al.|[2507.17220v1](http://arxiv.org/abs/2507.17220v1)|null|
 |**2025-07-22**|**Enhancing Domain Diversity in Synthetic Data Face Recognition with Dataset Fusion**|Anjith George et.al.|[2507.16790v1](http://arxiv.org/abs/2507.16790v1)|null|
 |**2025-07-22**|**DFR: A Decompose-Fuse-Reconstruct Framework for Multi-Modal Few-Shot Segmentation**|Shuai Chen et.al.|[2507.16736v1](http://arxiv.org/abs/2507.16736v1)|null|
 |**2025-07-22**|**Pixel-Resolved Long-Context Learning for Turbulence at Exascale: Resolving Small-scale Eddies Toward the Viscous Limit**|Junqi Yin et.al.|[2507.16697v1](http://arxiv.org/abs/2507.16697v1)|null|
